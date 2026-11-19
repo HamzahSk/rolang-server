@@ -1,92 +1,77 @@
 # Ro-Lang backend guide
 
-Ro-Lang pairs an online-first Android learning app with persistent offline content. The
-backend uses Node.js 22, Express 5, Zod validation, and PostgreSQL 16+.
-Published content supports English (`en`), Indonesian (`id`), and Filipino/Tagalog
-(`tl`). No external translation service is required.
+The backend uses Node.js 22, Express 5, Zod, and the official MongoDB driver.
+MongoDB Atlas stores published content, accounts, sessions, and learning records.
+English (en), Indonesian (id), and Filipino/Tagalog (tl) translations are retained
+in the original localized maps; no translation service is needed.
 
-## How it works
-
-1. Android retrieves catalog metadata from the API and reads saved stories from Room.
-2. Opening a story caches its chapters; manual downloads persist through WorkManager.
-3. Learners can register or sign in. Local learning edits enter a durable queue.
-4. Android uploads queued changes and downloads server revisions through
-   `POST /api/v1/me/sync`. Reading and practice remain available offline.
+Android downloads catalog metadata and ordered chapters, caches complete reading
+content, and exchanges offline changes through POST /api/v1/me/sync. The v1
+endpoint paths and response shapes remain compatible.
 
 | Component | Responsibility |
 | --- | --- |
-| `src/app.js` | REST routes, authorization, responses, and safe errors |
-| `src/validation.js` | Story coverage and learning record validation |
-| `src/auth.js` | Password hashing, sessions, account roles, and rate limits |
-| `src/learning.js` | Transactional records, revisions, and idempotent sync |
-| `src/db.js` | Shared PostgreSQL pool and transaction helper |
-| `src/health.js` / `scripts/doctor.js` | Public readiness / read-only database diagnosis |
-| `src/local.js` / `api/index.js` | Local HTTP server / Vercel entry point |
-| `migrations/`, `scripts/` | Schema upgrades, sample content, editor promotion |
-| `data/corpus.json` | All 20 migrated units and the complete original dictionary |
-| `src/stories.js` | Chapter storage, metadata, and content versions |
-| `data/sample-stories.json` | Nine complete, publishable story variants |
+| src/config.js | Validated environment names and bounded connection settings |
+| src/db.js | Lazy shared MongoClient, pooling, bounded transactions and retries |
+| src/schema.js | Collection validators, indexes, and read-only readiness checks |
+| src/app.js | Existing REST routes, authorization, and safe HTTP errors |
+| src/auth.js | Existing scrypt hashes, token hashes, roles, and shared rate limits |
+| src/stories.js | Ordered vocabulary/chapter documents and API serialization |
+| src/learning.js | Per-user revisions, completion merging, tombstones and sync deduplication |
+| scripts/migrate.js | Explicit MongoDB collection/index initialization |
+| scripts/import-postgres.js | Read-only PostgreSQL snapshot transfer and verification |
+| scripts/import-corpus.js | Import/verify the entire retained original corpus |
+| api/index.js / src/local.js | Vercel handler / standalone HTTP listener |
+| migrations/ / scripts/postgres/ | Retained PostgreSQL migration and rollback assets |
 
-Accounts own learning records and sessions. Stories hold translated content and
-their dictionaries as JSONB. Learning references use stable keys, so removing a
-story leaves a learner's saved words and reading history intact. See
-[Database](DATABASE.md) for the full relationships.
+## Start locally
 
-## Run locally
+Use an Atlas database, or the disposable replica set in compose.test.yml. A
+standalone mongod cannot run the transactions required by this API.
 
-From `rolang-server`, install dependencies and configure a dedicated PostgreSQL
-database. Copy the placeholder `.env.example` to a private `.env` and fill it in.
-Node does **not** load `.env` automatically.
+From rolang-server:
 
-```sh
+~~~sh
 npm ci
+cp .env.example .env
+# Fill MONGODB_URI and MONGODB_DB_NAME in the private .env.
 node --env-file=.env scripts/migrate.js
+~~~
+
+For an existing PostgreSQL installation, follow [Migration](MIGRATION.md) and
+transfer its database before starting the API. Do not seed or import the bundled
+corpus into that target first: existing story IDs can have different content.
+
+For a new, empty installation:
+
+~~~sh
 node --env-file=.env scripts/import-corpus.js
+node --env-file=.env scripts/import-corpus.js --verify
+node --env-file=.env scripts/doctor.js
 node --env-file=.env src/local.js
-```
+curl --fail-with-body http://localhost:3000/health
+curl --fail-with-body 'http://localhost:3000/api/v1/stories?limit=2'
+~~~
 
-The default address is `http://localhost:3000`:
+The complete corpus contains 20 units, 20 chapters, 1,204 dictionary entries and
+92 exercises. Optional seed.js adds nine sample variants and skips existing IDs.
+Neither import silently replaces changed content; see the migration conflict rules.
 
-```sh
-curl http://localhost:3000/api/v1/health
-curl 'http://localhost:3000/api/v1/stories?limit=2'
-```
+Node reads process.env. Use --env-file=.env, or supply settings in the shell and
+run npm run migrate, npm run import:corpus, npm start, and npm run doctor.
 
-Migrations and the corpus import run atomically and are safe to rerun. See
-[Migration](MIGRATION.md) for existing-ID conflicts and verification. Seeding is optional: it publishes
-nine sample stories and skips IDs already present. It never updates existing
-content. If configuration is already supplied by your shell, use `npm run migrate`,
-`npm run import:corpus`, and `npm run dev` instead.
+## Editors and checks
 
-## Manage content and check changes
+Register an account through the API, then promote the intended editor:
 
-Register an account, then promote the intended editor from a trusted shell with
-database configuration available:
-
-```sh
+~~~sh
 node --env-file=.env scripts/admin.js editor@example.com
-```
-
-The role is named `admin`; it grants access to content authoring. Normal
-registration always creates learners. Use [Stories](STORIES.md) for the complete
-create/edit/publish flow, and [API](API.md) for authentication and requests.
-
-Run checks against a **disposable test database**, with its settings supplied:
-
-```sh
-npm test
 npm run build
-npm run check
+npm run test:unit
 npm audit --omit=dev
-```
+~~~
 
-Tests use real PostgreSQL and cover migrations, content, authentication, access
-control, sync, pagination, vocabulary statuses, and legacy records. Do not run
-them against production. See [Deployment](DEPLOYMENT.md) to connect Android or
-deploy to Vercel, and [Learning system](LEARNING_SYSTEM.md) for offline behavior.
-
-- [Stories](STORIES.md)
-- [API](API.md)
-- [Database](DATABASE.md)
-- [Learning system](LEARNING_SYSTEM.md)
-- [Deployment](DEPLOYMENT.md)
+[Deployment](DEPLOYMENT.md#real-database-tests) provides the exact setup for the
+full suite using real PostgreSQL and MongoDB databases. Tests create and remove
+only randomly named disposable databases/schemas and require explicit TEST_
+variables; they never fall back to production settings.

@@ -9,8 +9,8 @@ listed as 204, which has no body.
 
 | Method and path | Parameters | Response |
 | --- | --- | --- |
-| `GET /health` | None | 200: `{"status":"ok","apiVersion":"v1","database":"connected"}` after checking connectivity, migrations, schema and runtime permissions; 503 when unavailable |
-| `GET /stories` | Optional `language=en|id|tl`, `category`, `difficulty=A1|A2|B1|B2|C1|C2`, `limit` (1–100, default 30), `after` (story ID) | 200: `{stories:[summary],next:ID|null}`; published stories only |
+| `GET /health` | None | 200: `{"status":"ok","apiVersion":"v1","database":"connected"}` after checking MongoDB connectivity, initialization, validators, indexes, transaction support and import state; 503 when unavailable |
+| `GET /stories` | Optional `language=en|id|tl`, `category`, `difficulty=A1|A2|B1|B2|C1|C2`, `search` (or `q`, 1–200 characters), `limit` (1–100, default 30), `after` (story ID) | 200: `{stories:[summary],next:ID|null}`; published stories only |
 | `GET /stories/:id` | Story ID | 200: full authoring content plus `vocabulary`, `level`, `status`, `updatedAt` |
 | `GET /stories/:id/translations` | Required `language=en|id|tl` | 200: `{language,title,summary,sentences:[string]}` |
 | `GET /stories/:id/vocabulary` | Optional `language=en|id|tl` | 200: `{vocabulary:[lexeme]}` |
@@ -35,6 +35,9 @@ curl 'http://localhost:3000/api/v1/stories/market_beginner/translations?language
 
 Follow `next` using `after` until `next` is null. Lists sort by ID, not update time.
 Categories must match exactly; URL-encode category names with spaces.
+Search uses MongoDB's indexed text search over multilingual titles/summaries,
+category and family. It matches words and quoted phrases without language
+stemming. Keep the same filters/search term when following a pagination cursor.
 
 ## Accounts
 
@@ -214,7 +217,7 @@ See [Stories](STORIES.md) for executable examples.
 ```
 
 `fields` is present for validation failures; other errors have `code` and
-`message`. SQL, database connection details, and passwords are never included.
+`message`. Database commands, connection details, and passwords are never included.
 
 | HTTP status | Meaning / typical code |
 | --- | --- |
@@ -223,7 +226,7 @@ See [Stories](STORIES.md) for executable examples.
 | 403 | Administrator role required (`FORBIDDEN`) |
 | 404 | Missing route, missing story, or unpublished public story (`NOT_FOUND`) |
 | 409 | Duplicate account/story (`ALREADY_EXISTS`), changed retry (`OPERATION_CONFLICT`), invalid sync cursor (`CURSOR_INVALID`), related resource removed (`RESOURCE_CONFLICT`) |
-| 413 | Body exceeds 2 MB (`BODY_TOO_LARGE`) |
+| 413 | Body exceeds 2 MB (`BODY_TOO_LARGE`) or BSON document exceeds the MongoDB size limit (`DOCUMENT_TOO_LARGE`) |
 | 429 | Registration/login attempt limit (`RATE_LIMITED`) |
 | 500 | Unexpected application/query error (`INTERNAL_ERROR`) |
 | 503 | Database connection failure (`DATABASE_UNAVAILABLE`) or unapplied/incompatible schema (`DATABASE_NOT_READY`) |

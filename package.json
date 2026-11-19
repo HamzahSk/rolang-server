@@ -12,19 +12,22 @@
     "build": "npm run check && node scripts/build.js",
     "doctor": "node scripts/doctor.js",
     "migrate": "node scripts/migrate.js",
+    "migrate:postgres": "node scripts/postgres/migrate.js",
+    "import:postgres": "node scripts/import-postgres.js",
     "seed": "node scripts/seed.js",
     "import:corpus": "node scripts/import-corpus.js",
     "admin": "node scripts/admin.js",
-    "test": "node --test test/*.test.js",
+    "test": "node --test --test-concurrency=1 test/*.test.js",
+    "test:unit": "node --test test/unit.test.js",
     "check": "node scripts/check.js"
   },
   "dependencies": {
-    "@vercel/functions": "^3.11.3",
     "express": "^5.1.0",
-    "pg": "^8.16.3",
+    "mongodb": "6.21.0",
     "zod": "^4.1.12"
   },
   "devDependencies": {
+    "pg": "^8.16.3",
     "supertest": "^7.1.4"
   }
 }

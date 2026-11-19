@@ -132,5 +132,6 @@ export const operationSchema = z.object({ id: z.uuid(), kind: kinds,
 export const syncSchema = z.object({ cursor: z.number().int().min(0).max(Number.MAX_SAFE_INTEGER),
   operations: z.array(operationSchema).max(100) }).strict();
 export const catalogQuery = z.object({ language: language.optional(), category: z.string().max(100).optional(),
+  search: z.string().trim().min(1).max(200).optional(), q: z.string().trim().min(1).max(200).optional(),
   difficulty: difficulty.optional(), limit: z.coerce.number().int().min(1).max(100).default(30),
   after: identifier.optional() }).strict();

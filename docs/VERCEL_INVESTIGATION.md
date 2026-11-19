@@ -1,7 +1,13 @@
-# Vercel HTTP failure investigation
+# Historical PostgreSQL / Vercel investigation
 
-The investigation and changes are confined to the standalone `rolang-server`
-repository. The backend remains Express 5, Node.js 22, Zod and PostgreSQL.
+This report records investigation and verification performed for the previous
+PostgreSQL release. Its production observations and test counts are historical.
+The current runtime uses MongoDB Atlas; see [the MongoDB migration report](MONGODB_MIGRATION_REPORT.md)
+and [current deployment instructions](DEPLOYMENT.md). Existing entrypoint fixes
+were retained. This migration has not been deployed to the live Vercel project.
+
+The historical investigation and changes were confined to the standalone
+`rolang-server` repository. That release used Express 5, Node.js 22, Zod and PostgreSQL.
 The actual managed database provider cannot be identified from this checkout:
 there is no production database configuration or private Vercel project link.
 
@@ -84,7 +90,7 @@ validate remote Vercel settings, production credentials or a deployed fix.
 
 Authenticated Vercel CLI access was unavailable; direct CLI access failed login
 validation. No deployment was created and private production logs could not be
-retrieved. Follow [Deployment](DEPLOYMENT.md#diagnose-a-failed-deployment) to link
+retrieved. Follow [Deployment](DEPLOYMENT.md#diagnose-connectivity-or-readiness) to link
 the real project, run the doctor with production configuration, apply pending
 migrations if indicated, redeploy, inspect logs, and verify health/catalog and
 authenticated APIs. Do not replace existing story content to diagnose a failure.
