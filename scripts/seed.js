@@ -21,6 +21,6 @@ export async function seed(store) {
 if (process.argv[1] === fileURLToPath(import.meta.url)) {
   const store = database();
   try { console.log(JSON.stringify(await seed(store))); }
-  catch (error) { reportError(error, 'seed'); console.error('Seed failed. Initialize MongoDB first and check sample data.'); process.exitCode = 1; }
+  catch (error) { reportError(error, 'seed'); console.error('Seed failed. Check MongoDB connectivity, permissions, and sample data.'); process.exitCode = 1; }
   finally { await store.close(); }
 }

@@ -13,13 +13,13 @@ export function assertDocumentSize(document) {
 export function safeRevision(value) {
   const result = Number(value);
   if (!Number.isSafeInteger(result) || result < 0)
-    throw Object.assign(new Error('Learning revision exceeds the API integer range.'), { code: 'IMPORT_INVALID_SOURCE' });
+    throw Object.assign(new Error('Learning revision exceeds the API integer range.'), { code: 'INVALID_DATABASE_VALUE' });
   return result;
 }
 export function storyVersion(value) {
   const text = String(value);
   if (!/^[1-9][0-9]*$/.test(text) || BigInt(text) > 9_223_372_036_854_775_807n)
-    throw Object.assign(new Error('Invalid story version.'), { code: 'IMPORT_INVALID_SOURCE' });
+    throw Object.assign(new Error('Invalid story version.'), { code: 'INVALID_DATABASE_VALUE' });
   return text;
 }
 export async function nextStoryVersion(scope) {

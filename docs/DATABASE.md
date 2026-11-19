@@ -1,122 +1,96 @@
 # MongoDB database structure
 
-Runtime reads only MONGODB_URI and MONGODB_DB_NAME through src/config.js.
-Atlas mongodb+srv:// URLs are supported, including verified TLS and SRV discovery.
-There is no PostgreSQL fallback and no implicit database name from a URI path.
+Database configuration consists of `MONGODB_URI` and `MONGODB_DB_NAME`. The database
+name is explicit; the URI path does not override it. Atlas SRV URLs enable TLS.
 
-src/db.js creates one MongoClient lazily. Concurrent first requests share its
-connection promise; warm Vercel invocations share the driver's pool. Failed
-initial connections clear the promise so a later request can retry. The driver
-reconnects existing pools after socket failures. Requests never close the client.
+`src/db.js` creates one MongoClient lazily, cached globally per warm Vercel
+instance. Concurrent cold requests share its connection and initialization
+promises. Failed initial connections clear the promise so a later request can
+retry; the driver reconnects existing pools after socket failures. Requests
+never close the client. Optional application settings are separate from MongoDB.
 
-The default pool has at most five connections, no minimum connections, two
-simultaneous connection attempts, and 60-second idle eviction. Selection,
-connection and queue waits are five seconds. Client operations have a 15-second
-default deadline; readiness checks have a ten-second total deadline. API
-transactions have a 20-second total deadline and bounded 250ms session cleanup.
-Scripts may request a longer transaction budget. The Core transaction helper
-passes the remaining deadline to cursor reads, writes and commit attempts,
-retries transient conflicts, and retries uncertain commits without replaying
-their callback.
-
-The official driver is pinned to 6.21.0 because it implements client-side
-timeoutMS. Newer available releases currently ignore that option. Upgrade it
-only with the real cursor, transaction, socket and deadline tests passing.
+The pool allows five connections, no minimum connections, two simultaneous
+connection attempts and 60-second idle eviction. Selection, connection and queue
+waits are five seconds. Operations have a 15-second default deadline; initialization
+has a ten-second total deadline. API transactions have a 20-second total deadline
+and bounded 250ms session cleanup. Administration imports have a longer budget.
+The pinned MongoDB driver 6.21.0 supports these client operation deadlines.
 
 ## Collections
 
 | Collection | Identity / relationship | Stored data |
 | --- | --- | --- |
-| users | Original UUID string as _id; unique email | Original scrypt password hash, display name, role, creation date, per-user learning_revision |
-| sessions | Original token hash as _id; user_id references users | Expiration and creation dates; original bearer tokens continue working |
-| stories | Original text ID as _id | Family/category/difficulty/status, exact root content JSON, decimal-string version, dates, counts, supported languages |
-| story_chapters | Deterministic SHA-256 of story ID and chapter ID | story_id, original chapter ID/position/content/vocabulary/version, sentence count |
-| story_vocabulary | Deterministic SHA-256 of story ID and ordinal | Ordered story-owned lexeme documents, including all translations/practice metadata |
-| dictionary | Deterministic SHA-256 of language and word | Complete global lexicon, including entries unused by story text |
-| learning_records | SHA-256 of user ID, kind and natural key | Exact progress/vocabulary/review/preferences data, tombstones, numeric revision and update date |
-| sync_operations | SHA-256 of user ID and operation UUID | Original payload fingerprint and creation date |
-| auth_attempts | Original hashed bucket as _id | Shared attempt count and expiration |
-| corpus_imports | Original corpus source hash as _id | Complete course/import metadata and original import date |
-| counters | Named counters | BSON Long story-version counter and corpus import serialization |
-| schema_migrations | MongoDB schema version | Completed MongoDB initialization marker |
-| postgres_schema_migrations | Original SQL migration name as _id | Retained PostgreSQL migration history |
-| database_imports | postgresql | Import state, source fingerprint, counts, and last verification report |
+| users | UUID string; unique email | Password hash, display name, role, creation date, learning revision |
+| sessions | Token hash; user_id | Expiration and creation dates |
+| stories | Story ID | Exact root JSON, translations, sentences, exercises, metadata, string version, dates and counts |
+| story_chapters | Deterministic story/chapter hash | Original chapter ID, positive position, exact learning content, vocabulary, hash version |
+| story_vocabulary | Deterministic story/ordinal hash | Ordered full lexemes with translations and practice metadata |
+| dictionary | Deterministic language/word hash | Full global lexicon, including words unused in story text |
+| learning_records | Deterministic user/kind/key hash | Progress, vocabulary, reviews, preferences, tombstones and revisions |
+| sync_operations | Deterministic user/operation hash | Payload fingerprint and creation date |
+| auth_attempts | Hashed rate-limit bucket | Shared count and expiration |
+| corpus_imports | Corpus content hash | Verified course/import metadata and import date |
+| counters | Named counters | BSON Long story version and corpus import serialization |
 
-Original UUIDs, story/chapter IDs, natural keys, operation IDs, fingerprints and
-versions retain their API meaning. MongoDB-only compound _id values are never
-returned to clients. Dates retain the millisecond precision exposed by the old
-Node/PostgreSQL API. Additional source SQL columns are retained under
-postgres_extra_fields rather than discarded.
+Identifiers, localized fields and versions retain their API meaning. Internal
+compound hashes are not returned to clients. Existing documents, additional
+fields and unused administration records are preserved by initialization.
 
-## Content size and access
+## Initialization and readiness
 
-Stories embed bounded root learning content and localized text. Exact authored
-chapter arrays remain in root content for legacy/admin compatibility; independently
-fetched chapters are referenced through story_chapters. The full root dictionary
-is stored as ordered story_vocabulary documents, keeping dictionary growth out
-of a single story document. Each chapter embeds its own bounded dictionary for
-one-query reading. User histories and the global dictionary are separate
-collections and never grow an account/story document.
+`src/schema.js` defines collection validators and indexes. Every database-dependent
+route goes through `store.scope()` or a transaction that calls it. Initialization:
 
-API authoring retains the existing 2MB request limit and Zod limits. All content
-writers/importers preflight BSON document size below MongoDB's 16MiB limit with
-64KiB headroom. Oversized legacy content fails explicitly and leaves PostgreSQL
-intact; it is never truncated. Images remain URL/illustration metadata.
+1. Pings MongoDB and verifies replica-set/sharded transaction support.
+2. Creates missing collections with validators, safely handling concurrent creation.
+3. Repairs mismatched validator definitions/enforcement using `collMod`.
+4. Creates missing indexes; incompatible definitions or duplicate data fail explicitly.
+5. Verifies actual collection validators and index definitions on the server.
 
-Chapter ordering uses original positive positions, including gaps. Legacy stories
-without stored chapters derive their authored chapters or chapter main. Full
-content retains paragraph order, all three translations, speakers, objectives,
-notes, focus, pronunciation, exercises, vocabulary and dictionary practice data.
+Initialization never edits, replaces or deletes existing documents. Unique index
+failures require reviewing conflicting records; they never trigger cleanup.
+Ordinary requests cache verified readiness for 60 seconds. Health checks force
+verification and repair, sharing any in-flight initialization. Failed checks clear
+the readiness cache and later requests retry. No administration markers gate readiness.
 
-Content reads spanning collections use snapshot transactions. Story content,
-chapter replacements, dictionary replacements and version increments commit
-atomically. A chapter response cannot carry an older story version with new text.
-Unchanged chapter content retains its SHA-256 version.
+The database user needs read/write access, collection/index creation, collection
+and index listing, and `collMod` privileges to repair validators. Atlas database
+roles `readWrite` and `dbAdmin`, scoped to the target database, cover these actions.
 
-## Indexes and validation
+Indexes support unique emails, dictionary identities, chapter identities/order,
+learning natural keys and sync operation identities; published catalog pagination,
+category/difficulty/language filters and multilingual text search; chapter/vocabulary
+order; user revision scans; session/rate-limit expiration lookups. Text search
+uses `default_language=none`. Session and auth expiration indexes retain existing
+behavior without automatic TTL deletion.
 
-src/schema.js is the single definition of validators/indexes. Indexes cover:
+## Content and learning consistency
 
-- Unique email, dictionary (language,word), chapter identities/positions, learning
-  natural keys and sync operation identities.
-- Published catalog pagination plus category, difficulty, language and family filters.
-- MongoDB text search over localized titles/summaries, category and family with
-  default_language=none for the multilingual corpus.
-- Chapter/vocabulary ordering and vocabulary language filtering.
-- Per-user revision scans and kind/deleted/key pagination.
-- Session owner/expiration and authentication bucket expiration.
+Stories embed bounded learning content and exact authored chapter arrays for
+existing client compatibility. Independently fetched chapters and ordered story
+vocabulary live in separate collections. The full dictionary and user histories
+are separate too. All writers check the 16MiB BSON limit with 64KiB headroom;
+API bodies retain the 2MB limit. Oversized content fails explicitly without truncation.
+Images remain URL/illustration metadata.
 
-The learning revision index preserves PostgreSQL's non-unique index contract;
-normal API writes allocate strictly increasing revisions with the user counter.
-Source vocabulary ordinals preserve legacy arrays even if they contain duplicates.
+Chapters sort by positive position, preserving gaps. Stories without stored chapters
+derive their authored chapters or a `main` chapter. Full content retains paragraph
+order, translations, speakers, objectives, notes, focus, pronunciation, exercises,
+vocabulary and practice fields. Importing the bundled corpus is a separate,
+repeatable administration action; API requests never read local content files.
 
-migrate.js creates collections, validators and indexes without deleting data.
-It repairs incompatible validators using collMod when the migration role permits
-it; incompatible index definitions fail explicitly for operator review.
-Health checks verify the migration marker, collection validators, index definitions,
-replica-set/sharded transaction support and data-import state. They are read-only.
+Multi-collection content reads use snapshot transactions. Story/chapter/vocabulary
+writes and version increments commit atomically. Unchanged chapters retain their
+content-hash versions. Transient transaction conflicts retry aborted work; uncertain
+commit retries do not replay the business callback.
 
-## Learning consistency and maintenance
+Learning writes touch each user's revision counter within their transaction.
+Operation fingerprints deduplicate retries, and changed UUID reuse returns 409.
+Completion remains true until deleted. Tombstones and operation IDs have no TTL,
+so offline devices cannot resurrect deleted data. Existing revisions are preserved;
+values outside the safe integer range fail explicitly.
 
-All learning writes touch the user's document in their transaction. Concurrent
-devices must retry before publishing revisions. Revisions are now allocated per
-user; original imported revisions and their gaps remain unchanged. Each user's
-counter starts at or above their maximum imported revision, preserving old sync
-cursors. Revisions outside JavaScript's safe integer range abort migration.
-
-Operation fingerprints deduplicate retries. Changed reuse returns 409.
-Progress preserves completed=true until deleted. Tombstones and operation IDs
-are retained without TTL so offline devices cannot resurrect deleted data.
-
-MongoDB has no SQL foreign-key cascades. API story deletion removes its chapters
-and vocabulary in one transaction and preserves learner history. There is no
-public account-delete endpoint. Administrative account removal must transactionally
-delete owned sessions, records and operations. The importer verifies all five
-user/story reference relationships.
-
-Expiration indexes intentionally have no automatic TTL: expired PostgreSQL
-sessions and rate-limit records are preserved and verified during transfer.
-After live verification, administrators may remove expired sessions/auth_attempts
-using expires_at filters. Keep learning tombstones and operation IDs until an
-explicit device-retention policy exists. Back up Atlas and keep the PostgreSQL
-source/backups until the deployed API and Android consumers are verified.
+Story deletion removes chapters and vocabulary transactionally and preserves
+learning history. There is no public account deletion endpoint. Administrative
+account removal must also remove its sessions, learning records and operations
+transactionally. See [Learning system](LEARNING_SYSTEM.md).

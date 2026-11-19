@@ -18,7 +18,7 @@ export function mongodbConfig(env = process.env) {
     uri, name,
     options: {
       appName: 'rolang-server',
-      maxPoolSize: integer(env.MONGODB_MAX_POOL_SIZE, 5, 1, 20),
+      maxPoolSize: 5,
       minPoolSize: 0,
       maxConnecting: 2,
       maxIdleTimeMS: 60_000,

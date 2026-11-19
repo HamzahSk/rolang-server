@@ -4,7 +4,6 @@ import { randomUUID } from 'node:crypto';
 import { readFile } from 'node:fs/promises';
 import request from 'supertest';
 import { createApp } from '../src/app.js';
-import { migrate } from '../scripts/migrate.js';
 import { seed } from '../scripts/seed.js';
 import { mongoFixture } from './helpers.js';
 
@@ -14,7 +13,7 @@ const testStoryId = 'test_' + run.replaceAll('-', '');
 before(async () => {
   fixture = await mongoFixture('api');
   ({ store, db } = fixture);
-  await migrate(store); await migrate(store); await seed(store); await seed(store);
+  await seed(store); await seed(store);
   app = createApp(store);
   for (const role of ['learner', 'other', 'admin']) {
     const email = role + '.' + run + '@example.test';

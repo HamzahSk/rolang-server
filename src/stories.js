@@ -68,7 +68,7 @@ export async function chapterRows(scope, row, summaryOnly = false) {
   const rows = await scope.db.collection('story_chapters').find({ story_id: row._id },
     { ...mongoOptions(scope), ...(projection ? { projection } : {}) }).sort({ position: 1 }).toArray();
   if (rows.length) return rows;
-  // Preserve readability of pre-chapter PostgreSQL sources and existing data.
+  // Preserve readability of existing stories without separate chapter documents.
   const vocabulary = row.vocabulary ?? await loadVocabulary(scope, row._id);
   return chapterDocuments({ ...row.content, id: row._id, vocabulary });
 }

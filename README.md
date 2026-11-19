@@ -1,25 +1,39 @@
 # Ro-Lang server
 
-The Node.js 22 / Express 5 backend now uses MongoDB Atlas through the official
-MongoDB driver. Existing v1 API routes and Android response shapes are preserved,
-including multilingual stories, ordered chapters, offline synchronization,
-vocabulary statuses, reviews, preferences, and revocable sessions.
+Node.js 22, Express 5 and the official MongoDB driver serve multilingual stories,
+ordered chapters, translations, vocabulary, exercises, accounts and offline
+learning synchronization. Existing v1 routes and Android response shapes remain
+compatible. MongoDB is the only database.
 
-Start with [local setup](docs/README.md), then use:
+Set `MONGODB_URI` and `MONGODB_DB_NAME` from [.env.example](.env.example), then run:
 
-- [Migration](docs/MIGRATION.md): transfer existing PostgreSQL data without changing it.
-- [Database](docs/DATABASE.md): MongoDB collections, indexes, and transaction rules.
-- [API](docs/API.md): endpoint contracts, pagination, search, and examples.
-- [Stories](docs/STORIES.md): authoring, publishing, and complete JSON examples.
-- [Learning system](docs/LEARNING_SYSTEM.md): learner records and offline behavior.
-- [Deployment](docs/DEPLOYMENT.md): Atlas configuration, Vercel, and real database tests.
-- [Migration report](docs/MONGODB_MIGRATION_REPORT.md): implementation and verification results.
+```sh
+npm ci
+node --env-file=.env src/local.js
+```
 
-Runtime requires MONGODB_URI and MONGODB_DB_NAME. Node does not load .env
-automatically; use --env-file=.env locally. Initialization and imports are explicit
-administration commands and never run during a build, module import, or request.
+Every database-dependent route initializes MongoDB through the shared connection
+manager. Missing collections and indexes are created automatically and their
+actual definitions are verified. Existing documents are preserved. Health checks
+at `/health` and `/api/v1/health` verify connectivity and initialization; genuine
+connection, permission, index or transaction-support failures return safe 503s.
+No release marker or separate schema initialization command is required.
 
-The original SQL migrations, PostgreSQL configuration example, and source assets
-remain available. pg is a development dependency used only by migration/rollback
-tools; no API module imports it. Keep the source database and backups until the
-Atlas import and deployed API have been verified.
+If the database needs the retained original story corpus, import it once:
+
+```sh
+node --env-file=.env scripts/import-corpus.js
+node --env-file=.env scripts/import-corpus.js --verify
+```
+
+This imports 20 stories, 20 chapters, 1,204 dictionary entries and 92 exercises.
+Repeating the import avoids duplicates; differing existing content stops the
+import for review. The API reads content directly from MongoDB and requires no
+persistent local files. Both bundled JSON data files are retained unchanged.
+
+- [Local setup](docs/README.md)
+- [Database](docs/DATABASE.md): connections, collections, indexes and transactions
+- [API](docs/API.md): existing contracts, pagination and search
+- [Stories](docs/STORIES.md): authoring and publishing
+- [Learning system](docs/LEARNING_SYSTEM.md): offline synchronization
+- [Deployment](docs/DEPLOYMENT.md): Atlas, Vercel, diagnostics and real database tests

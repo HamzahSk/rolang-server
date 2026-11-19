@@ -1,7 +1,7 @@
 import { MongoClient, MongoOperationTimeoutError } from 'mongodb';
 import { setTimeout as delay } from 'node:timers/promises';
 import { mongodbConfig } from './config.js';
-import { checkSchema } from './schema.js';
+import { initializeDatabase } from './schema.js';
 import { reportError } from './errors.js';
 
 const timedOut = () => new MongoOperationTimeoutError('Database request timed out.');
@@ -24,10 +24,11 @@ export function createDatabase(env = process.env) {
       }
       return connection;
     },
-    async scope() {
+    async scope({ refresh = false } = {}) {
       const db = await this.connect();
-      if (Date.now() >= readyUntil && !readiness) {
-        readiness = checkSchema(db).then(() => { readyUntil = Date.now() + 60_000; })
+      if ((refresh || Date.now() >= readyUntil) && !readiness) {
+        readyUntil = 0;
+        readiness = initializeDatabase(db).then(() => { readyUntil = Date.now() + 60_000; })
           .finally(() => { readiness = undefined; });
       }
       if (readiness) await readiness;

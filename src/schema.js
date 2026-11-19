@@ -1,7 +1,6 @@
 import { ApiError } from './errors.js';
 import { isDeepStrictEqual } from 'node:util';
 import { MongoOperationTimeoutError } from 'mongodb';
-export const schemaVersion = 'mongodb_001';
 export const collections = {
   users: { required: ['email', 'password_hash', 'display_name', 'role', 'created_at'], properties: {
     _id: { bsonType: 'string' }, email: { bsonType: 'string' }, role: { enum: ['learner', 'admin'] },
@@ -39,7 +38,7 @@ export const collections = {
   corpus_imports: { required: ['metadata', 'imported_at'], properties: {
     metadata: { bsonType: 'object' }, imported_at: { bsonType: 'date' },
   } },
-  counters: {}, schema_migrations: {}, postgres_schema_migrations: {}, database_imports: {},
+  counters: {},
 };
 export const indexSpecs = {
   users: [{ key: { email: 1 }, name: 'users_email', unique: true }],
@@ -75,41 +74,76 @@ export const indexSpecs = {
   auth_attempts: [{ key: { expires_at: 1 }, name: 'auth_attempts_expiry' }],
   dictionary: [{ key: { language: 1, word: 1 }, name: 'dictionary_identity', unique: true }],
 };
-export async function checkSchema(db, { allowImportInProgress = false, timeoutMS = 10_000 } = {}) {
+const notReady = message => new ApiError(503, 'DATABASE_NOT_READY', message);
+const validatorFor = schema => ({ $jsonSchema: { bsonType: 'object', ...schema } });
+const validCollection = (definition, schema) =>
+  isDeepStrictEqual(definition.options.validator, validatorFor(schema)) &&
+  definition.options.validationLevel === 'strict' && definition.options.validationAction === 'error';
+function validIndex(actual, spec) {
+  const text = Object.values(spec.key).includes('text');
+  const keysMatch = text
+    ? isDeepStrictEqual(actual?.weights, Object.fromEntries(Object.keys(spec.key).map(key => [key, 1]))) &&
+      actual?.default_language === spec.default_language && actual?.language_override === spec.language_override
+    : isDeepStrictEqual(actual?.key, spec.key);
+  return Boolean(actual) && keysMatch && Boolean(actual.unique) === Boolean(spec.unique) &&
+    actual.expireAfterSeconds === spec.expireAfterSeconds && !actual.sparse && !actual.partialFilterExpression;
+}
+
+// Initialization is idempotent across cold Vercel instances. It only manages
+// collection definitions and indexes; existing documents are never replaced.
+export async function initializeDatabase(db, { timeoutMS = 10_000 } = {}) {
   const deadline = Date.now() + timeoutMS;
   const options = () => {
     const remaining = deadline - Date.now();
     if (remaining <= 0) throw new MongoOperationTimeoutError('Database readiness check timed out.');
     return { timeoutMS: remaining };
   };
-  const migration = await db.collection('schema_migrations').findOne({ _id: schemaVersion }, options());
-  const definitions = await db.listCollections({}, options()).toArray();
-  const names = new Set(definitions.map(item => item.name));
-  if (!migration || Object.keys(collections).some(name => !names.has(name)))
-    throw new ApiError(503, 'DATABASE_NOT_READY', 'The database is not ready for this release.');
-  const imported = await db.collection('database_imports').findOne({ _id: 'postgresql' }, options());
-  if (!allowImportInProgress && imported && imported.state !== 'verified')
-    throw new ApiError(503, 'DATABASE_NOT_READY', 'The data migration has not been verified.');
-  for (const [name, schema] of Object.entries(collections)) {
-    const options = definitions.find(item => item.name === name).options;
-    if (!isDeepStrictEqual(options.validator?.$jsonSchema, { bsonType: 'object', ...schema }) ||
-        options.validationLevel !== 'strict' || options.validationAction !== 'error')
-      throw new ApiError(503, 'DATABASE_NOT_READY', 'The database is not ready for this release.');
-  }
+  await db.command({ ping: 1 }, options());
   const topology = await db.command({ hello: 1 }, options());
   if ((!topology.setName && topology.msg !== 'isdbgrid') || topology.logicalSessionTimeoutMinutes === undefined)
-    throw new ApiError(503, 'DATABASE_NOT_READY', 'The database must support MongoDB transactions.');
-  for (const [name, specs] of Object.entries(indexSpecs)) {
+    throw notReady('MongoDB must be a replica set or sharded cluster supporting transactions.');
+  const definitions = new Map((await db.listCollections({}, options()).toArray()).map(item => [item.name, item]));
+  for (const [name, schema] of Object.entries(collections)) {
+    if (!definitions.has(name)) {
+      try {
+        await db.createCollection(name, { ...options(), validator: validatorFor(schema),
+          validationLevel: 'strict', validationAction: 'error' });
+      } catch (error) { if (error.code !== 48) throw error; }
+      // Another serverless instance may have created this collection first.
+      definitions.set(name, (await db.listCollections({ name }, options()).toArray())[0]);
+    }
+    if (!validCollection(definitions.get(name), schema)) {
+      await db.command({ collMod: name, validator: validatorFor(schema),
+        validationLevel: 'strict', validationAction: 'error' }, options());
+    }
+    const specs = indexSpecs[name] ?? [];
+    if (!specs.length) continue;
     const indexes = await db.collection(name).listIndexes(options()).toArray();
+    const missing = [];
     for (const spec of specs) {
       const actual = indexes.find(index => index.name === spec.name);
-      const text = Object.values(spec.key).includes('text');
-      const keysMatch = text
-        ? Object.keys(spec.key).every(key => actual?.weights?.[key] === 1) && actual?.default_language === 'none'
-        : JSON.stringify(actual?.key) === JSON.stringify(spec.key);
-      if (!actual || !keysMatch || Boolean(actual.unique) !== Boolean(spec.unique) ||
-          actual.expireAfterSeconds !== spec.expireAfterSeconds)
-        throw new ApiError(503, 'DATABASE_NOT_READY', 'The database is not ready for this release.');
+      if (!actual) missing.push(spec);
+      else if (!validIndex(actual, spec))
+        throw notReady('A required MongoDB index has an incompatible definition. Review index conflicts without deleting content.');
     }
+    if (missing.length) {
+      try { await db.collection(name).createIndexes(missing, options()); }
+      catch (error) {
+        if (error.code === 11000)
+          throw notReady('MongoDB cannot create a required unique index because existing records conflict. Review duplicate records without deleting content.');
+        throw error;
+      }
+    }
+  }
+  // Verify actual server state after creating or repairing it, including races
+  // with other instances. Connectivity alone does not prove API readiness.
+  const verified = new Map((await db.listCollections({}, options()).toArray()).map(item => [item.name, item]));
+  for (const [name, schema] of Object.entries(collections)) {
+    if (!verified.has(name) || !validCollection(verified.get(name), schema))
+      throw notReady('MongoDB collection initialization could not be verified. Check database permissions.');
+    if (!indexSpecs[name]) continue;
+    const indexes = await db.collection(name).listIndexes(options()).toArray();
+    if (indexSpecs[name].some(spec => !validIndex(indexes.find(index => index.name === spec.name), spec)))
+      throw notReady('MongoDB index initialization could not be verified. Check database permissions and index conflicts.');
   }
 }

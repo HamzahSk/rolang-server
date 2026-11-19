@@ -1,4 +1,4 @@
-# Disposable real databases; no production credentials or persistent volumes.
+# Disposable real MongoDB replica set; no production credentials or persistent volumes.
 services:
   mongo:
     image: mongo:8.0
@@ -21,16 +21,3 @@ services:
     entrypoint: ["bash", "-c"]
     command:
       - "until mongosh --host mongo:27017 --quiet --eval 'db.adminCommand({ping:1})' >/dev/null 2>&1; do sleep 1; done; mongosh --host mongo:27017 --quiet --eval 'try { rs.status(); } catch (e) { rs.initiate({_id:\"rs0\",members:[{_id:0,host:\"localhost:27017\"}]}); }'"
-  postgres:
-    image: postgres:16
-    environment:
-      POSTGRES_USER: rolang_test
-      POSTGRES_PASSWORD: local-test-password
-      POSTGRES_DB: rolang_test
-    ports: ["127.0.0.1:54329:5432"]
-    tmpfs: ["/var/lib/postgresql/data"]
-    healthcheck:
-      test: ["CMD-SHELL", "pg_isready -U rolang_test -d rolang_test"]
-      interval: 2s
-      timeout: 5s
-      retries: 30

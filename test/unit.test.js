@@ -7,23 +7,22 @@ import { failureInfo, reportError } from '../src/errors.js';
 import { assertDocumentSize, maxDocumentBytes, safeRevision, storyVersion } from '../src/documents.js';
 import { readCorpus, prepareCorpus } from '../scripts/import-corpus.js';
 
-test('configuration uses explicit MongoDB names and clamps pool/server settings', () => {
+test('configuration uses explicit MongoDB names and bounded pool/server settings', () => {
   const config = mongodbConfig({ MONGODB_URI: 'mongodb+srv://example.test/ignored',
-    MONGODB_DB_NAME: 'rolang', MONGODB_MAX_POOL_SIZE: '100' });
+    MONGODB_DB_NAME: 'rolang' });
   assert.equal(config.name, 'rolang');
-  assert.equal(config.options.maxPoolSize, 20);
+  assert.equal(config.options.maxPoolSize, 5);
   assert.equal(config.options.minPoolSize, 0);
   assert.equal(config.options.timeoutMS, 15_000);
-  for (const env of [{}, { DATABASE_URL: 'postgresql://example.test/rolang' },
-    { MONGODB_URI: 'postgresql://example.test/rolang', MONGODB_DB_NAME: 'rolang' },
+  for (const env of [{}, { MONGODB_URI: 'invalid://example.test/rolang', MONGODB_DB_NAME: 'rolang' },
     { MONGODB_URI: 'mongodb://example.test', MONGODB_DB_NAME: 'bad/name' }])
     assert.throws(() => mongodbConfig(env), error => error.code === 'MONGODB_CONFIGURATION');
   assert.equal(serverConfig({ SESSION_DAYS: '100', PORT: 'invalid' }).sessionDays, 90);
   assert.equal(serverConfig({ PORT: 'invalid' }).port, 3000);
 });
-test('production handler imports without MongoDB or PostgreSQL configuration', () => {
+test('production handler imports without database configuration', () => {
   const env = { ...process.env };
-  for (const key of ['MONGODB_URI', 'MONGODB_DB_NAME', 'DATABASE_URL']) delete env[key];
+  for (const key of ['MONGODB_URI', 'MONGODB_DB_NAME']) delete env[key];
   const code = "const {default:handler} = await import('./api/index.js'); if (typeof handler !== 'function') process.exit(1);";
   const result = spawnSync(process.execPath, ['--input-type=module', '-e', code], { env, encoding: 'utf8', timeout: 5000 });
   assert.equal(result.status, 0, result.stderr);
@@ -45,9 +44,9 @@ test('driver diagnostics redact URI credentials, messages, values and unknown co
 });
 test('BSON limits and integer conversions prevent oversized documents and revision loss', () => {
   assert.throws(() => assertDocumentSize({ text: 'x'.repeat(maxDocumentBytes) }), error => error.code === 'DOCUMENT_TOO_LARGE');
-  assert.throws(() => safeRevision('9007199254740992'), error => error.code === 'IMPORT_INVALID_SOURCE');
+  assert.throws(() => safeRevision('9007199254740992'), error => error.code === 'INVALID_DATABASE_VALUE');
   assert.equal(storyVersion('9007199254740993'), '9007199254740993');
-  assert.throws(() => storyVersion('9223372036854775808'), error => error.code === 'IMPORT_INVALID_SOURCE');
+  assert.throws(() => storyVersion('9223372036854775808'), error => error.code === 'INVALID_DATABASE_VALUE');
 });
 test('the entire retained corpus still validates without narrowing its learning content', async () => {
   const { stories, vocabulary } = prepareCorpus(await readCorpus());

@@ -1,7 +1,6 @@
 import { before, after, test } from 'node:test';
 import assert from 'node:assert/strict';
 import request from 'supertest';
-import { migrate } from '../scripts/migrate.js';
 import { readCorpus, prepareCorpus, importCorpus, verifyCorpus } from '../scripts/import-corpus.js';
 import { createApp } from '../src/app.js';
 import { mongoFixture } from './helpers.js';
@@ -10,7 +9,6 @@ let fixture, store, db, app, corpus, token;
 before(async () => {
   fixture = await mongoFixture('content');
   ({ store, db } = fixture);
-  await migrate(store);
   corpus = await readCorpus();
   await importCorpus(store, corpus);
   app = createApp(store);
@@ -35,7 +33,7 @@ test('full legacy corpus import is exact, ordered, atomic, and idempotent',async
   assert.equal(await db.collection('corpus_imports').countDocuments(),1);
 });
 
-test('paginated catalogs and every migrated detail/chapter preserve all learning content',async () => {
+test('paginated catalogs and every stored detail/chapter preserve all learning content',async () => {
   const seen = [];
   let after;
   do {
@@ -49,6 +47,19 @@ test('paginated catalogs and every migrated detail/chapter preserve all learning
   for (const story of stories) {
     const detail = (await request(app).get(`/api/v1/stories/${story.id}`).expect(200)).body;
     for (const key of ['title','summary','sentences','speakers','notes','objectives','focus','pronunciation','exercises','vocabulary']) assert.deepEqual(detail[key],story[key]);
+    const content = (await request(app).get(`/api/v1/stories/${story.id}/content`).expect(200)).body;
+    assert.deepEqual(content.sentences, story.sentences);
+    assert.deepEqual(content.chapters[0].exercises, story.exercises);
+    assert.deepEqual(content.vocabulary, story.vocabulary);
+    const vocabulary = (await request(app).get(`/api/v1/stories/${story.id}/vocabulary`).expect(200)).body;
+    assert.deepEqual(vocabulary.vocabulary, story.vocabulary);
+    for (const language of ['en', 'id', 'tl']) {
+      const translations = (await request(app).get(`/api/v1/stories/${story.id}/translations`).query({ language }).expect(200)).body;
+      assert.deepEqual(translations, { language, title: story.title[language], summary: story.summary[language],
+        sentences: story.sentences.map(sentence => sentence[language]) });
+      const words = (await request(app).get(`/api/v1/stories/${story.id}/vocabulary`).query({ language }).expect(200)).body;
+      assert.deepEqual(words.vocabulary, story.vocabulary.filter(word => word.language === language));
+    }
     const manifest = (await request(app).get(`/api/v1/stories/${story.id}?view=manifest`).expect(200)).body;
     assert.ok(!manifest.sentences);
     assert.deepEqual(manifest.speakers,story.speakers);

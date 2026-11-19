@@ -1,7 +1,7 @@
 import express from 'express';
 import { z, ZodError } from 'zod';
 import { database, transaction, mongoOptions } from './db.js';
-import { ApiError, missing, failureInfo, reportError } from './errors.js';
+import { ApiError, missing, databaseFailure, reportError } from './errors.js';
 import { serverConfig } from './config.js';
 import { healthStatus } from './health.js';
 import { authentication, administrator, hashPassword, verifyPassword, session, rateLimit, randomUUID } from './auth.js';
@@ -244,10 +244,8 @@ export function createApp(store = database()) {
     if (error.type === 'entity.too.large') return res.status(413).json({ error: { code: 'BODY_TOO_LARGE', message: 'Request body exceeds 2 MB.' } });
     if (error.code === 11000) return res.status(409).json({ error: { code: 'ALREADY_EXISTS', message: 'This resource already exists.' } });
     reportError(error, 'request');
-    const { category } = failureInfo(error);
-    if (category === 'database_schema') return res.status(503).json({ error: { code: 'DATABASE_NOT_READY', message: 'The database is not ready for this release.' } });
-    if (category === 'database_connection' || category === 'database_configuration')
-      return res.status(503).json({ error: { code: 'DATABASE_UNAVAILABLE', message: 'The database is temporarily unavailable. Try again later.' } });
+    const databaseError = databaseFailure(error);
+    if (databaseError) return res.status(503).json({ error: databaseError });
     res.status(500).json({ error: { code: 'INTERNAL_ERROR', message: 'An unexpected server error occurred.' } });
   });
   return app;
