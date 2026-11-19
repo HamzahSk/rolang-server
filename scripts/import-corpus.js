@@ -2,9 +2,11 @@ import { readFile } from 'node:fs/promises';
 import { fileURLToPath } from 'node:url';
 import { isDeepStrictEqual } from 'node:util';
 import { z } from 'zod';
-import { database, transaction } from '../src/db.js';
+import { database, transaction, mongoOptions } from '../src/db.js';
+import { reportError } from '../src/errors.js';
 import { storySchema, lexeme, normalizeWord } from '../src/validation.js';
-import { saveChapters, hash } from '../src/stories.js';
+import { saveStory, saveChapters, hash, chapterDocuments, loadVocabulary } from '../src/stories.js';
+import { documentId, assertDocumentSize } from '../src/documents.js';
 
 export async function readCorpus(path = new URL('../data/corpus.json',import.meta.url)) {
   return JSON.parse(await readFile(path,'utf8'));
@@ -30,59 +32,100 @@ export function prepareCorpus(corpus) {
   if (!stories.length || new Set(stories.map(s => s.id)).size !== stories.length) throw new Error('Empty corpus or duplicate story IDs.');
   return { stories,vocabulary };
 }
-export async function verifyCorpus(pool,corpus) {
-  const { stories,vocabulary } = prepareCorpus(corpus);
-  for (const story of stories) {
-    const { rows } = await pool.query('SELECT content,vocabulary,status FROM stories WHERE id=$1',[story.id]);
-    const { vocabulary:words,...content } = story;
-    if (!rows.length || !isDeepStrictEqual(rows[0].content,content) || !isDeepStrictEqual(rows[0].vocabulary,words) || rows[0].status !== 'published')
-      throw new Error(`Story verification failed: ${story.id}`);
-    const chapters = await pool.query('SELECT content FROM story_chapters WHERE story_id=$1 ORDER BY position',[story.id]);
-    if (!chapters.rows.length || !isDeepStrictEqual(chapters.rows.flatMap(r => r.content.sentences),story.sentences))
-      throw new Error(`Chapter verification failed: ${story.id}`);
-  }
-  for (const word of vocabulary) {
-    const { rows } = await pool.query('SELECT content FROM dictionary WHERE language=$1 AND word=$2',[word.language,word.word]);
-    if (!rows.length || !isDeepStrictEqual(rows[0].content,word)) throw new Error(`Dictionary verification failed: ${word.language}:${word.word}`);
-  }
-  return { stories:stories.length, chapters:stories.reduce((n,s) => n+(s.chapters?.length ?? 1),0),
-    vocabulary:vocabulary.length, exercises:stories.reduce((n,s) => n+(s.exercises?.length ?? 0),0), sourceHash:hash(corpus) };
+
+const resolveScope = value => value.db ? value : value.scope();
+const importConflict = () => Object.assign(new Error('Existing content differs. Review and back it up before using --replace-existing.'), { code: 'IMPORT_CONFLICT' });
+export function countExercises(story, chapters = story.chapters ?? []) {
+  // Root and chapter exercise definitions may share IDs. Count each learning
+  // exercise once, while including exercises that exist only in chapters.
+  return new Set([story, ...(story.chapters ?? []), ...chapters].flatMap(unit =>
+    Array.isArray(unit.exercises) ? unit.exercises.map(item => item.id ?? hash(item)) : [])).size;
 }
-export async function importCorpus(pool,corpus,{ replaceExisting = false } = {}) {
-  const { stories,vocabulary } = prepareCorpus(corpus);
-  return transaction(pool, async client => {
-    await client.query('SELECT pg_advisory_xact_lock(78201343)');
-    for (const story of stories) {
-      const { vocabulary:words,...content } = story;
-      const previous = await client.query('SELECT content,vocabulary FROM stories WHERE id=$1 FOR UPDATE',[story.id]);
-      const same = previous.rows.length && isDeepStrictEqual(previous.rows[0].content,content) && isDeepStrictEqual(previous.rows[0].vocabulary,words);
-      if (previous.rows.length && !same && !replaceExisting) throw new Error(`Conflicting story ${story.id}; review it, then use --replace-existing if intentional.`);
-      if (!previous.rows.length) await client.query(`INSERT INTO stories(id,family,category,difficulty,status,content,vocabulary)
-        VALUES($1,$2,$3,$4,'published',$5,$6)`,[story.id,story.family,story.category,story.difficulty,content,JSON.stringify(words)]);
-      else if (!same) await client.query(`UPDATE stories SET family=$2,category=$3,difficulty=$4,status='published',content=$5,vocabulary=$6,
-        updated_at=clock_timestamp(),version=nextval('story_version') WHERE id=$1`,[story.id,story.family,story.category,story.difficulty,content,JSON.stringify(words)]);
-      await saveChapters(client,story);
-    }
+
+export async function verifyCorpus(value, corpus) {
+  const scope = await resolveScope(value);
+  const { stories, vocabulary } = prepareCorpus(corpus);
+  const ids = stories.map(story => story.id);
+  const stored = new Map((await scope.db.collection('stories').find({ _id: { $in: ids } }, mongoOptions(scope)).toArray()).map(row => [row._id, row]));
+  const chapters = await scope.db.collection('story_chapters').find({ story_id: { $in: ids } }, mongoOptions(scope)).sort({ position: 1 }).toArray();
+  for (const story of stories) {
+    const row = stored.get(story.id);
+    const { vocabulary: words, ...content } = story;
+    if (!row || !isDeepStrictEqual(row.content, content) || row.status !== 'published' ||
+        !isDeepStrictEqual(await loadVocabulary(scope, story.id), words))
+      throw Object.assign(new Error('Story verification failed.'), { code: 'IMPORT_VERIFICATION_FAILED' });
+    const actual = chapters.filter(chapter => chapter.story_id === story.id);
+    const expected = chapterDocuments(story);
+    if (actual.length !== expected.length || actual.some((row, index) => !isDeepStrictEqual(row, expected[index])))
+      throw Object.assign(new Error('Chapter verification failed.'), { code: 'IMPORT_VERIFICATION_FAILED' });
+  }
+  const dictionary = new Map((await scope.db.collection('dictionary').find({
+    _id: { $in: vocabulary.map(word => documentId(word.language, word.word)) },
+  }, mongoOptions(scope)).toArray()).map(row => [row._id, row.content]));
+  for (const word of vocabulary) {
+    if (!isDeepStrictEqual(dictionary.get(documentId(word.language, word.word)), word))
+      throw Object.assign(new Error('Dictionary verification failed.'), { code: 'IMPORT_VERIFICATION_FAILED' });
+  }
+  return { stories: stories.length, chapters: stories.reduce((total, story) => total + (story.chapters?.length ?? 1), 0),
+    vocabulary: vocabulary.length, exercises: stories.reduce((total, story) => total + countExercises(story), 0),
+    sourceHash: hash(corpus) };
+}
+export async function importCorpus(store, corpus, { replaceExisting = false } = {}) {
+  const { stories, vocabulary } = prepareCorpus(corpus);
+  return transaction(store, async scope => {
+    await scope.db.collection('counters').updateOne({ _id: 'corpus_import' }, { $inc: { lock: 1 } },
+      { ...mongoOptions(scope), upsert: true });
+    const oldWords = new Map((await scope.db.collection('dictionary').find({
+      _id: { $in: vocabulary.map(word => documentId(word.language, word.word)) },
+    }, mongoOptions(scope)).toArray()).map(row => [row._id, row]));
+    // Preflight dictionary conflicts before touching stories. Transaction
+    // rollback also protects against later story/chapter conflicts.
     for (const word of vocabulary) {
-      const old = await client.query('SELECT content FROM dictionary WHERE language=$1 AND word=$2',[word.language,word.word]);
-      if (old.rows.length && !isDeepStrictEqual(old.rows[0].content,word) && !replaceExisting) throw new Error(`Conflicting dictionary entry ${word.language}:${word.word}`);
-      await client.query(`INSERT INTO dictionary(language,word,content) VALUES($1,$2,$3)
-        ON CONFLICT(language,word) DO UPDATE SET content=excluded.content`,[word.language,word.word,word]);
+      const old = oldWords.get(documentId(word.language, word.word));
+      if (old && !isDeepStrictEqual(old.content, word) && !replaceExisting) throw importConflict();
     }
-    const report = await verifyCorpus(client,corpus);
-    await client.query('INSERT INTO corpus_imports(source_hash,metadata) VALUES($1,$2) ON CONFLICT DO NOTHING',
-      [report.sourceHash,{ ...report,version:corpus.version,course:corpus.course }]);
+    for (const story of stories) {
+      const { vocabulary: words, ...content } = story;
+      const previous = await scope.db.collection('stories').findOne({ _id: story.id }, mongoOptions(scope));
+      const same = previous && isDeepStrictEqual(previous.content, content) &&
+        isDeepStrictEqual(await loadVocabulary(scope, story.id), words) && previous.status === 'published';
+      if (previous && !same && !replaceExisting) throw importConflict();
+      if (!same) await saveStory(scope, story, { previous, status: 'published' });
+      else {
+        const existing = await scope.db.collection('story_chapters').find({ story_id: story.id }, mongoOptions(scope)).sort({ position: 1 }).toArray();
+        if (!existing.length) await saveChapters(scope, story);
+        else if (!isDeepStrictEqual(existing, chapterDocuments(story))) {
+          if (!replaceExisting) throw importConflict();
+          await saveStory(scope, story, { previous, status: 'published' });
+        }
+      }
+    }
+    const writes = vocabulary.flatMap(word => {
+      const _id = documentId(word.language, word.word);
+      if (isDeepStrictEqual(oldWords.get(_id)?.content, word)) return [];
+      return [{ replaceOne: { filter: { _id }, replacement: assertDocumentSize({
+        _id, language: word.language, word: word.word, content: word,
+      }), upsert: true } }];
+    });
+    if (writes.length) await scope.db.collection('dictionary').bulkWrite(writes, mongoOptions(scope));
+    const report = await verifyCorpus(scope, corpus);
+    await scope.db.collection('corpus_imports').updateOne({ _id: report.sourceHash },
+      { $setOnInsert: { metadata: { ...report, version: corpus.version, course: corpus.course }, imported_at: new Date() } },
+      { ...mongoOptions(scope), upsert: true });
     return report;
-  });
+  }, { timeoutMS: 60_000 });
 }
 if (process.argv[1] === fileURLToPath(import.meta.url)) {
   const args = process.argv.slice(2);
-  const pool = database();
+  const store = database();
   try {
-    const corpus = await readCorpus(args.find(a => !a.startsWith('--')));
-    const report = args.includes('--verify') ? await verifyCorpus(pool,corpus)
-      : await importCorpus(pool,corpus,{replaceExisting:args.includes('--replace-existing')});
-    console.log(JSON.stringify(report,null,2));
-  } catch (error) { console.error(error.message); process.exitCode=1; }
-  finally { await pool.end(); }
+    const corpus = await readCorpus(args.find(arg => !arg.startsWith('--')));
+    const report = args.includes('--verify') ? await verifyCorpus(store, corpus)
+      : await importCorpus(store, corpus, { replaceExisting: args.includes('--replace-existing') });
+    console.log(JSON.stringify(report, null, 2));
+  } catch (error) {
+    reportError(error, 'corpus_import');
+    console.error('Corpus import/verification failed. Check MongoDB initialization, content validity, and existing-content conflicts.');
+    process.exitCode = 1;
+  } finally { await store.close(); }
 }

@@ -1,7 +1,7 @@
 # Create, edit, and publish stories
 
 Use the administrator API to manage content. It validates all translations and
-word coverage before saving, including drafts. Direct SQL writes bypass those
+word coverage before saving, including drafts. Direct database writes bypass those
 checks; the API is the recommended authoring route.
 
 ## Story format
@@ -144,4 +144,4 @@ the app combines them with chapter learning fields without duplicating exercise 
 If chapters are absent, the server exposes the original content as chapter `main`.
 Updating a story replaces its chapters atomically. The story gets a new revision,
 while hashes for unchanged chapters remain stable. Use the API rather than direct
-SQL so revisions and dictionaries remain consistent.
+database writes so revisions and dictionaries remain consistent.

@@ -1,17 +1,25 @@
 # Ro-Lang server
 
-The Express/PostgreSQL backend for [Ro-Lang Android](../rolang-app/README.md).
-It serves multilingual stories and synchronizes accounts, vocabulary statuses,
-reading progress, spaced repetition schedules, review history, and preferences.
-The Android app caches opened stories and supports durable offline downloads without an account.
-See [Migration](docs/MIGRATION.md) to import the Android library before rollout.
+The Node.js 22 / Express 5 backend now uses MongoDB Atlas through the official
+MongoDB driver. Existing v1 API routes and Android response shapes are preserved,
+including multilingual stories, ordered chapters, offline synchronization,
+vocabulary statuses, reviews, preferences, and revocable sessions.
 
-Start with the [overview and local setup](docs/README.md), then use:
+Start with [local setup](docs/README.md), then use:
 
-- [Stories](docs/STORIES.md): create, edit, and publish content, with a complete JSON example.
-- [API](docs/API.md): every endpoint, request shapes, responses, and curl examples.
-- [Database](docs/DATABASE.md): tables, relationships, migrations, and maintenance.
-- [Learning system](docs/LEARNING_SYSTEM.md): colors, mastery, reviews, and synchronization.
-- [Deployment](docs/DEPLOYMENT.md): environment settings, Android config, and Vercel.
+- [Migration](docs/MIGRATION.md): transfer existing PostgreSQL data without changing it.
+- [Database](docs/DATABASE.md): MongoDB collections, indexes, and transaction rules.
+- [API](docs/API.md): endpoint contracts, pagination, search, and examples.
+- [Stories](docs/STORIES.md): authoring, publishing, and complete JSON examples.
+- [Learning system](docs/LEARNING_SYSTEM.md): learner records and offline behavior.
+- [Deployment](docs/DEPLOYMENT.md): Atlas configuration, Vercel, and real database tests.
+- [Migration report](docs/MONGODB_MIGRATION_REPORT.md): implementation and verification results.
 
-+
+Runtime requires MONGODB_URI and MONGODB_DB_NAME. Node does not load .env
+automatically; use --env-file=.env locally. Initialization and imports are explicit
+administration commands and never run during a build, module import, or request.
+
+The original SQL migrations, PostgreSQL configuration example, and source assets
+remain available. pg is a development dependency used only by migration/rollback
+tools; no API module imports it. Keep the source database and backups until the
+Atlas import and deployed API have been verified.

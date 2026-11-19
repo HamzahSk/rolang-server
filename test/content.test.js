@@ -1,40 +1,38 @@
 import { before, after, test } from 'node:test';
 import assert from 'node:assert/strict';
-import pg from 'pg';
-import { randomUUID } from 'node:crypto';
 import request from 'supertest';
-import { database } from '../src/db.js';
 import { migrate } from '../scripts/migrate.js';
 import { readCorpus, prepareCorpus, importCorpus, verifyCorpus } from '../scripts/import-corpus.js';
 import { createApp } from '../src/app.js';
+import { mongoFixture } from './helpers.js';
 
-const base = database();
-const schema = `content_${randomUUID().replaceAll('-','')}`;
-let pool, app, corpus, token;
+let fixture, store, db, app, corpus, token;
 before(async () => {
-  await base.query(`CREATE SCHEMA ${schema}`);
-  pool = new pg.Pool({ connectionString:process.env.DATABASE_URL, options:`-c search_path=${schema}`, allowExitOnIdle:true });
-  await migrate(pool);
+  fixture = await mongoFixture('content');
+  ({ store, db } = fixture);
+  await migrate(store);
   corpus = await readCorpus();
-  await importCorpus(pool,corpus);
-  app = createApp(pool);
-  const account = await request(app).post('/api/v1/auth/register').send({email:`${schema}@example.test`,password:'test-fixture-password',displayName:'Content test'}).expect(201);
+  await importCorpus(store, corpus);
+  app = createApp(store);
+  const account = await request(app).post('/api/v1/auth/register').send({
+    email: fixture.name + '@example.test', password: 'test-fixture-password', displayName: 'Content test',
+  }).expect(201);
   token = account.body.token;
-  await pool.query("UPDATE users SET role='admin' WHERE id=$1",[account.body.user.id]);
+  await db.collection('users').updateOne({ _id: account.body.user.id }, { $set: { role: 'admin' } });
 });
-after(async () => { await pool?.end(); await base.query(`DROP SCHEMA ${schema} CASCADE`); await base.end(); });
+after(async () => { await fixture?.close(); });
 
 test('full legacy corpus import is exact, ordered, atomic, and idempotent',async () => {
-  const first = await pool.query('SELECT id,version,updated_at FROM stories ORDER BY id');
-  await importCorpus(pool,corpus);
-  assert.deepEqual((await pool.query('SELECT id,version,updated_at FROM stories ORDER BY id')).rows,first.rows);
-  const report = await verifyCorpus(pool,corpus);
+  const first = await db.collection('stories').find({}, { projection: { _id: 1, version: 1, updated_at: 1 } }).sort({ _id: 1 }).toArray();
+  await importCorpus(store,corpus);
+  assert.deepEqual(await db.collection('stories').find({}, { projection: { _id: 1, version: 1, updated_at: 1 } }).sort({ _id: 1 }).toArray(),first);
+  const report = await verifyCorpus(store,corpus);
   assert.deepEqual([report.stories,report.chapters,report.vocabulary,report.exercises],[20,20,1204,92]);
   const changed = structuredClone(corpus);
   changed.stories.at(-1).title.en += ' edited';
-  await assert.rejects(importCorpus(pool,changed),/Conflicting story/);
-  await verifyCorpus(pool,corpus);
-  assert.equal((await pool.query('SELECT count(*) FROM corpus_imports')).rows[0].count,'1');
+  await assert.rejects(importCorpus(store,changed), error => error.code === 'IMPORT_CONFLICT');
+  await verifyCorpus(store,corpus);
+  assert.equal(await db.collection('corpus_imports').countDocuments(),1);
 });
 
 test('paginated catalogs and every migrated detail/chapter preserve all learning content',async () => {

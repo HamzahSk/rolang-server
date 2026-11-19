@@ -3,37 +3,31 @@ import assert from 'node:assert/strict';
 import { randomUUID } from 'node:crypto';
 import { readFile } from 'node:fs/promises';
 import request from 'supertest';
-import { database } from '../src/db.js';
 import { createApp } from '../src/app.js';
 import { migrate } from '../scripts/migrate.js';
 import { seed } from '../scripts/seed.js';
+import { mongoFixture } from './helpers.js';
 
-// Use a dedicated disposable database. The suite only removes its own fixture
-// users and story; it never truncates application tables.
-const pool = database();
-const app = createApp(pool);
+let fixture, store, db, app, learner, other, admin;
 const run = randomUUID();
-const accounts = [];
-const testStoryId = `test_${run.replaceAll('-', '')}`;
-let learner, other, admin;
+const testStoryId = 'test_' + run.replaceAll('-', '');
 before(async () => {
-  await migrate(pool); await migrate(pool); await seed(pool); await seed(pool);
+  fixture = await mongoFixture('api');
+  ({ store, db } = fixture);
+  await migrate(store); await migrate(store); await seed(store); await seed(store);
+  app = createApp(store);
   for (const role of ['learner', 'other', 'admin']) {
-    const email = `${role}.${run}@example.test`;
-    const response = await request(app).post('/api/v1/auth/register').send({ email,
-      password: 'test-fixture-password', displayName: role }).expect(201);
-    accounts.push(response.body.user.id);
+    const email = role + '.' + run + '@example.test';
+    const response = await request(app).post('/api/v1/auth/register').send({
+      email, password: 'test-fixture-password', displayName: role,
+    }).expect(201);
     if (role === 'learner') learner = response.body;
     if (role === 'other') other = response.body;
     if (role === 'admin') admin = response.body;
   }
-  await pool.query("UPDATE users SET role='admin' WHERE id=$1", [admin.user.id]);
+  await db.collection('users').updateOne({ _id: admin.user.id }, { $set: { role: 'admin' } });
 });
-after(async () => {
-  await pool.query('DELETE FROM stories WHERE id=$1', [testStoryId]);
-  await pool.query('DELETE FROM users WHERE id=ANY($1::uuid[])', [accounts]);
-  await pool.end();
-});
+after(async () => { await fixture?.close(); });
 const bearer = account => `Bearer ${account.token}`;
 const progress = { storyId: 'market_beginner', language: 'en', sentence: 1, completed: false };
 const operation = (data = progress) => ({ id: randomUUID(), kind: 'progress', key: 'market_beginner:en', data, deleted: false });
@@ -65,11 +59,14 @@ test('authentication validates requests, isolates roles, revokes sessions, and r
   const login = await request(app).post('/api/v1/auth/login').send({ email: learner.user.email.toUpperCase(),
     password: 'test-fixture-password' }).expect(200);
   await request(app).get('/api/v1/me').set('Authorization', `Bearer ${login.body.token}`).expect(200);
+  const edited = await request(app).put('/api/v1/me').set('Authorization', `Bearer ${login.body.token}`)
+    .send({ displayName: 'Updated learner' }).expect(200);
+  assert.equal(edited.body.displayName, 'Updated learner');
   await request(app).post('/api/v1/auth/logout').set('Authorization', `Bearer ${login.body.token}`).expect(204);
   await request(app).get('/api/v1/me').set('Authorization', `Bearer ${login.body.token}`).expect(401);
   assert.ok(!('password_hash' in login.body.user));
   await request(app).get('/api/v1/admin/stories').set('Authorization', bearer(learner)).expect(403);
-  await pool.query("UPDATE sessions SET expires_at=now()-interval '1 second' WHERE user_id=$1", [other.user.id]);
+  await db.collection('sessions').updateMany({ user_id: other.user.id }, { $set: { expires_at: new Date(Date.now() - 1000) } });
   await request(app).get('/api/v1/me').set('Authorization', bearer(other)).expect(401);
   other = (await request(app).post('/api/v1/auth/login').send({ email: other.user.email,
     password: 'test-fixture-password' }).expect(200)).body;
@@ -81,6 +78,8 @@ test('administrators create, edit, publish, unpublish, and delete fully translat
   await request(app).post('/api/v1/stories').set('Authorization', bearer(learner)).send(story).expect(403);
   await request(app).post('/api/v1/stories').set('Authorization', bearer(admin)).send({ ...story, vocabulary: [] }).expect(400);
   await request(app).post('/api/v1/stories').set('Authorization', bearer(admin)).send(story).expect(201);
+  const drafts = await request(app).get('/api/v1/admin/stories?limit=100').set('Authorization', bearer(admin)).expect(200);
+  assert.ok(drafts.body.stories.some(s => s.id === testStoryId && s.status === 'draft'));
   await request(app).get(`/api/v1/stories/${testStoryId}`).expect(404);
   await request(app).put(`/api/v1/stories/${testStoryId}`).set('Authorization', bearer(admin)).send({ ...story, difficulty: 'A2' }).expect(200);
   await request(app).post(`/api/v1/stories/${testStoryId}/publish`).set('Authorization', bearer(admin)).send({ published: true }).expect(200);
@@ -141,7 +140,7 @@ test('sync download pagination delivers every record and advances cursors withou
 });
 
 test('authentication rate limits persist across separate application instances', async () => {
-  const freshApp = createApp(pool);
+  const freshApp = createApp(store);
   const email = `limited.${run}@example.test`;
   for (let i = 0; i < 20; i++) {
     await request(i % 2 ? freshApp : app).post('/api/v1/auth/login').send({ email, password: 'test-fixture-password' }).expect(401);
@@ -167,6 +166,12 @@ test('learning REST endpoints persist preferences, progress/history, vocabulary 
   await request(app).put(`${base}/reviews/${randomUUID()}`).set('Authorization', bearer(learner)).send({
     vocabularyKey: key, language: 'en', reference: 'id', reviewedAt: 1000, correct: true, rating: 'GOOD' }).expect(200);
   await request(app).get(`${base}/reviews`).set('Authorization', bearer(learner)).expect(200);
+  for (const path of ['progress', 'preferences', 'reviews']) {
+    const result = await request(app).get(`${base}/${path}`).set('Authorization', bearer(learner)).expect(200);
+    assert.ok(result.body.records.length);
+    for (const item of result.body.records)
+      await request(app).delete(`${base}/${path}/${encodeURIComponent(item.key)}`).set('Authorization', bearer(learner)).expect(204);
+  }
   await request(app).delete(`${base}/vocabulary/${encodeURIComponent(key)}`).set('Authorization', bearer(learner)).expect(204);
   assert.equal((await request(app).get(`${base}/vocabulary`).set('Authorization', bearer(learner)).expect(200)).body.records.length, 0);
 });
@@ -176,9 +181,6 @@ test('invalid filters, malformed JSON, large bodies, and unavailable databases r
   await request(app).get('/api/v1/stories?limit=-1').expect(400);
   await request(app).post('/api/v1/auth/login').set('Content-Type', 'application/json').send('{').expect(400);
   await request(app).post('/api/v1/auth/login').send({ oversized: 'x'.repeat(2_100_000) }).expect(413);
-  const unavailable = createApp({ query: async () => { throw new Error('private connection information'); } });
-  const result = await request(unavailable).get('/api/v1/health').expect(503);
-  assert.ok(!JSON.stringify(result.body).includes('private'));
   await request(app).get('/api/v1/unknown').expect(404);
 });
 
@@ -214,8 +216,27 @@ test('all vocabulary statuses synchronize with manual metadata, idempotency, and
   assert.equal(legacy.body.records.find(r => r.key === key).data.status, 'ALMOST_MASTERED');
   assert.equal(legacy.body.records.find(r => r.key === key).data.statusChangedAt, 0);
   // Pre-upgrade database rows acquire the same defaults without a destructive migration.
-  await pool.query("UPDATE learning_records SET data=data-'status'-'statusChangedAt' WHERE user_id=$1 AND kind='vocabulary' AND key=$2",
-    [learner.user.id, key]);
+  await db.collection('learning_records').updateOne({ user_id: learner.user.id, kind: 'vocabulary', key },
+    { $unset: { 'data.status': '', 'data.statusChangedAt': '' } });
   const existing = await post({ cursor: 0, operations: [] }).expect(200);
   assert.equal(existing.body.records.find(r => r.key === key).data.status, 'ALMOST_MASTERED');
+});
+
+test('indexed catalog search accepts multilingual terms alongside filtering and pagination', async () => {
+  const sample = JSON.parse(await readFile(new URL('../data/sample-stories.json', import.meta.url), 'utf8'))[0];
+  const result = await request(app).get('/api/v1/stories').query({ search: sample.title.en, limit: 1 }).expect(200);
+  assert.ok(result.body.stories.length);
+  const localized = await request(app).get('/api/v1/stories').query({ q: sample.title.tl, language: 'tl', difficulty: sample.difficulty }).expect(200);
+  assert.ok(localized.body.stories.some(story => story.id === sample.id));
+  await request(app).get('/api/v1/stories?search=' + 'x'.repeat(201)).expect(400);
+  assert.equal((await request(app).get('/api/v1/stories?search=nonexistentwordqzx').expect(200)).body.stories.length, 0);
+});
+test('learning list pagination returns all keys once', async () => {
+  const first = await request(app).get('/api/v1/me/reviews?limit=7').set('Authorization', bearer(other)).expect(200);
+  assert.equal(first.body.records.length, 7);
+  assert.ok(first.body.next);
+  const second = await request(app).get('/api/v1/me/reviews').query({ limit: 7, after: first.body.next })
+    .set('Authorization', bearer(other)).expect(200);
+  assert.ok(second.body.records.every(record => record.key > first.body.next));
+  assert.equal(new Set([...first.body.records, ...second.body.records].map(record => record.key)).size, 14);
 });

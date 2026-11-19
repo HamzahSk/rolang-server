@@ -1,3 +1,4 @@
 import { createApp } from './app.js';
-const port = Number(process.env.PORT) || 3000;
+import { serverConfig } from './config.js';
+const { port } = serverConfig();
 createApp().listen(port, '0.0.0.0', () => console.log(`Ro-Lang API listening on port ${port}.`));

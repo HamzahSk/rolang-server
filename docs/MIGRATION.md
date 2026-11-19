@@ -1,66 +1,110 @@
-# Migrate the Android story library
+# PostgreSQL to MongoDB Atlas migration
 
-The server owns content after this migration. `data/corpus.json` is an exact
-snapshot of the original Android corpus, retained so a standalone server checkout
-can initialize its database. The original `app/src/main/assets/corpus.json` and
-corpus generator remain in the Android repository as migration/test fixtures;
-the application does not seed them or package the corpus in its APK.
+The importer preserves every entity defined by the retained SQL migrations:
+stories, ordered chapters, root metadata/learning JSON, translations, vocabulary,
+the full dictionary, users/password hashes/roles, sessions, learning records,
+reviews/preferences/tombstones, operation fingerprints, rate limits, corpus
+metadata and SQL migration history. It never changes PostgreSQL.
 
-## Apply and verify
+## Existing database cutover
 
-Set `DATABASE_URL` for the intended PostgreSQL database using the existing
-configuration. Back up an existing database before migrating/replacing content.
-Apply these commands from the server repository:
+1. Keep a verified PostgreSQL backup and retain the source database. Pause source
+   writes during the final import/cutover so changes after the snapshot are not
+   omitted. Target a new MongoDB database that is not serving traffic yet.
+2. Configure Atlas as described in [Deployment](DEPLOYMENT.md). Put the target
+   MONGODB_URI and MONGODB_DB_NAME in a private .env. Retain DATABASE_URL as the
+   PostgreSQL source URL and POSTGRES_SCHEMA if the source schema is not public.
+   The source account needs SELECT on all inspected tables; use a direct endpoint
+   that supports a repeatable-read transaction.
+3. Run from rolang-server:
 
-```sh
+~~~sh
 npm ci
-npm run migrate
-npm run import:corpus
-npm run import:corpus -- --verify
-npm start
-```
+node --env-file=.env scripts/migrate.js
+node --env-file=.env scripts/import-postgres.js
+node --env-file=.env scripts/import-postgres.js --verify
+node --env-file=.env scripts/doctor.js
+node --env-file=.env src/local.js
+~~~
 
-With a private `.env`, use `node --env-file=.env scripts/migrate.js` and
-`node --env-file=.env scripts/import-corpus.js` instead. Migrations and imports
-are transactional and repeatable. Import validates the complete corpus before
-writing, rejects duplicate IDs/dictionary keys, and compares complete JSONB
-content to avoid duplicate records or revision changes on identical reimports.
-It verifies every story, dictionary entry, publication status, chapter ordering,
-and paragraph translation before committing. It reports:
+With settings already in the shell, the equivalents are npm run migrate,
+npm run import:postgres, npm run import:postgres -- --verify, and npm run doctor.
 
-- 20 learning units and 20 chapters (each existing unit has chapter `main`).
-- 1,204 dictionary entries and 92 exercises.
-- Source SHA-256 `42cea594c9e5e44402ef812a4dde402961197c2059b51c0a08b21d16a3b925dd`.
+4. Verify the existing story catalog and filters, detail, manifest, chapters,
+   full content, translations and vocabulary. Use retained sessions/login and
+   old synchronization cursors for a test learner; verify an editor too.
+5. Put only the MongoDB runtime variables in the correct Vercel environment,
+   deploy, and verify both health paths and API families before enabling writes.
+   See the exact commands in [Deployment](DEPLOYMENT.md).
+6. Keep PostgreSQL and its migrations/backups until the live Atlas data, deployed
+   backend and Android consumers have all been verified. No script deletes them.
 
-A positional file argument imports another corpus in the same legacy format:
-`npm run import:corpus -- /path/to/corpus.json`. It preserves IDs, families,
-order, multilingual paragraphs, speaker alignment, objectives, notes, focus
-phrases, pronunciation, exercises, and dictionary practice metadata. Complete
-original corpus/course metadata is recorded in `corpus_imports`.
+Do not run seed.js or import-corpus.js before transferring an existing database.
+Their preserved fixture IDs can conflict with edited production content.
+Do not run migrate:postgres during this cutover: that archived command writes SQL
+schema and exists only for separately restored rollback/test databases.
 
-## Existing IDs
+## Import behavior and verification
 
-The old sample library contains `market_beginner`, also used by the Android
-curriculum. Different existing content causes the entire import to roll back.
-Inspect that record and back it up. If replacing it with the app's preserved
-content is intentional, run `npm run import:corpus -- --replace-existing`, then
-verify. This updates the record under its original ID, preserving learner
-references. Identical content is left unchanged. Never use the replacement flag
-to refresh production after editors have changed stories; author future content
-through the administrator API.
+The source transaction is REPEATABLE READ READ ONLY. Counts and cursor scans
+share one consistent snapshot. Rows are fetched in batches of 250, and chapters
+are read in their original order. JSON content is copied without passing it
+through the newer authoring validator or narrowing unknown fields.
 
-## Rollout and checks
+Stable natural identifiers produce deterministic MongoDB _id values. Missing
+documents use insert-only upserts. Identical reruns do not change IDs, story
+versions, dates, learning revisions or operation fingerprints. A differing target
+document raises IMPORT_CONFLICT; the importer never overwrites newer Atlas edits
+and offers no replacement flag. Use a fresh target or explicitly reconcile a
+reviewed conflict before resuming.
 
-Deploy migrations and the verified content before releasing the Android build.
-Check `/api/v1/stories`, `/stories/:id`, and `/stories/:id/chapters/main` on the
-configured server, then run the app's live client test against a disposable
-server/database (`-ProlangIntegrationUrl=http://127.0.0.1:3000`). That test compares
-all original units with actual API content and checks Room restart/offline reads.
-No production deployment or remote database modification is implied by local
-verification. Keep the original source assets until your deployed database and
-Android clients have also been verified.
+The importer compares every copied field after each batch, verifies source counts,
+checks each story's vocabulary/chapter counts and paragraph concatenation, checks
+all user/story references, and initializes/verifies revision/version counters.
+The final report includes sourceCounts, targetCounts, insertedCounts,
+derivedChapters, storyVocabulary, exercises, relationships and sourceHash.
+Logs include only stages, table names, counts and hashes, never credentials,
+connection URLs, password hashes, tokens or raw driver errors.
 
-Room migration 4→5 copies existing catalog metadata and keeps full existing
-content and all user learning records. A fresh installation downloads its catalog;
-an existing installation can continue reading its saved library offline. Failed
-requests and unpublished content do not delete downloaded reading snapshots.
+A failed import may leave an insert-only partial target. Its database_imports
+record stays failed/running and health returns DATABASE_NOT_READY. Keep it off
+traffic, fix the reported cause, then rerun the same import and verification.
+--verify reads both databases without modifying data or import state.
+
+Sources that only completed migration 001 are supported. Missing story versions
+start at decimal string 1; missing chapter rows derive exact authored chapters
+or main. Optional dictionary/import tables are copied when present. SQL
+migration history is retained separately from MongoDB initialization.
+
+Unknown additional columns are retained in postgres_extra_fields. Unknown source
+tables fail preflight instead of being silently skipped. Missing required tables,
+invalid relationships/chapter text, revisions outside the API integer range,
+oversized BSON documents and conflicting target content fail explicitly.
+Review/adapt unsupported source data while keeping its backup; never resolve
+connectivity errors by discarding or replacing stories.
+
+## New, empty installation and retained corpus
+
+data/corpus.json retains the exact original Android library. For a genuinely new
+database, initialize it and import/verify this corpus:
+
+~~~sh
+node --env-file=.env scripts/migrate.js
+node --env-file=.env scripts/import-corpus.js
+node --env-file=.env scripts/import-corpus.js --verify
+~~~
+
+Expected report: 20 units, 20 chapters, 1,204 dictionary entries, 92 exercises,
+source SHA-256 42cea594c9e5e44402ef812a4dde402961197c2059b51c0a08b21d16a3b925dd.
+All course metadata, curriculum order, translated learning fields and dictionary
+practice metadata remain intact. Identical imports preserve versions/dates.
+
+Corpus imports are atomic. Different existing story/dictionary content rolls back
+the entire import. After reviewing and backing up a deliberate corpus replacement,
+--replace-existing is available only on import-corpus.js. It does not exist on
+the PostgreSQL transfer tool. Nine optional sample stories are seeded only when
+their IDs do not already exist.
+
+The original SQL files in migrations/, the PostgreSQL source configuration under
+scripts/postgres/.env.example, the archived schema runner, and both corpus assets
+remain unchanged/available for verification and rollback planning.
