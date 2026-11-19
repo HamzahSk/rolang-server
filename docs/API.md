@@ -9,7 +9,7 @@ listed as 204, which has no body.
 
 | Method and path | Parameters | Response |
 | --- | --- | --- |
-| `GET /health` | None | 200: `{"status":"ok","apiVersion":"v1"}` after checking PostgreSQL |
+| `GET /health` | None | 200: `{"status":"ok","apiVersion":"v1","database":"connected"}` after checking connectivity, migrations, schema and runtime permissions; 503 when unavailable |
 | `GET /stories` | Optional `language=en|id|tl`, `category`, `difficulty=A1|A2|B1|B2|C1|C2`, `limit` (1–100, default 30), `after` (story ID) | 200: `{stories:[summary],next:ID|null}`; published stories only |
 | `GET /stories/:id` | Story ID | 200: full authoring content plus `vocabulary`, `level`, `status`, `updatedAt` |
 | `GET /stories/:id/translations` | Required `language=en|id|tl` | 200: `{language,title,summary,sentences:[string]}` |
@@ -20,6 +20,12 @@ Story summaries include `id`, `family`, `category`, `difficulty`, all-language
 `updatedAt`. They omit paragraphs and vocabulary. Full story and lexeme shapes
 are in [Stories](STORIES.md) and the [complete JSON example](examples/story.json).
 Public detail requests for draft or missing stories return 404.
+
+The readiness endpoint is also available at the unversioned path `/health`.
+Failures report `status:"unavailable"`, `database:"connected"|"unavailable"`,
+and a safe `error` object. A connected database with pending migrations or
+incompatible schema returns `DATABASE_NOT_READY` (503). Neither health path
+exposes connection parameters, provider information, or database records.
 
 ```sh
 curl 'http://localhost:3000/api/v1/stories?difficulty=A1&language=en&limit=10'
@@ -216,10 +222,11 @@ See [Stories](STORIES.md) for executable examples.
 | 401 | Missing/expired session (`UNAUTHENTICATED`) or failed login (`INVALID_CREDENTIALS`) |
 | 403 | Administrator role required (`FORBIDDEN`) |
 | 404 | Missing route, missing story, or unpublished public story (`NOT_FOUND`) |
-| 409 | Duplicate account/story (`ALREADY_EXISTS`), changed retry (`OPERATION_CONFLICT`), invalid sync cursor (`CURSOR_INVALID`) |
+| 409 | Duplicate account/story (`ALREADY_EXISTS`), changed retry (`OPERATION_CONFLICT`), invalid sync cursor (`CURSOR_INVALID`), related resource removed (`RESOURCE_CONFLICT`) |
 | 413 | Body exceeds 2 MB (`BODY_TOO_LARGE`) |
 | 429 | Registration/login attempt limit (`RATE_LIMITED`) |
-| 503 | Temporary server/database error (`SERVICE_UNAVAILABLE`) |
+| 500 | Unexpected application/query error (`INTERNAL_ERROR`) |
+| 503 | Database connection failure (`DATABASE_UNAVAILABLE`) or unapplied/incompatible schema (`DATABASE_NOT_READY`) |
 
 ## Versioned story content and chapters
 

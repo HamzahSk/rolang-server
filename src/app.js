@@ -1,9 +1,10 @@
 import express from 'express';
 import { z, ZodError } from 'zod';
 import { database, transaction } from './db.js';
-import { ApiError, missing } from './errors.js';
+import { ApiError, missing, failureInfo, reportError } from './errors.js';
+import { healthStatus } from './health.js';
 import { authentication, administrator, hashPassword, verifyPassword, session, rateLimit, randomUUID } from './auth.js';
-import { storySchema, levelFor, registration, login, catalogQuery, identifier,
+import { storySchema, registration, login, catalogQuery, identifier,
   language, schemas, syncSchema, operationSchema } from './validation.js';
 import { synchronize, lockUser, putRecord, record } from './learning.js';
 
@@ -33,10 +34,12 @@ export function createApp(pool = database()) {
   app.use(express.json({ limit: '2mb', strict: true }));
   const api = express.Router();
   const auth = authentication(pool);
-  api.get('/health', async (_req, res) => {
-    await pool.query('SELECT 1');
-    res.json({ status: 'ok', apiVersion: 'v1' });
-  });
+  const health = async (_req, res) => {
+    const status = await healthStatus(pool);
+    res.status(status.status === 'ok' ? 200 : 503).json(status);
+  };
+  app.get('/health', health);
+  api.get('/health', health);
   api.post('/auth/register', async (req, res) => {
     const input = registration.parse(req.body);
     await rateLimit(pool, input.email, clientIp(req));
@@ -231,8 +234,14 @@ export function createApp(pool = database()) {
     if (error.type === 'entity.parse.failed') return res.status(400).json({ error: { code: 'INVALID_JSON', message: 'Send a valid JSON object.' } });
     if (error.type === 'entity.too.large') return res.status(413).json({ error: { code: 'BODY_TOO_LARGE', message: 'Request body exceeds 2 MB.' } });
     if (error.code === '23505') return res.status(409).json({ error: { code: 'ALREADY_EXISTS', message: 'This resource already exists.' } });
+    if (error.code === '23503') return res.status(409).json({ error: { code: 'RESOURCE_CONFLICT', message: 'A related resource is no longer available.' } });
     // Do not serialize database errors: they can contain connection details or SQL values.
-    res.status(503).json({ error: { code: 'SERVICE_UNAVAILABLE', message: 'The server is temporarily unavailable. Try again later.' } });
+    reportError(error, 'request');
+    const { category } = failureInfo(error);
+    if (category === 'database_schema') return res.status(503).json({ error: { code: 'DATABASE_NOT_READY', message: 'The database is not ready for this release.' } });
+    if (category === 'database_connection' || category === 'database_configuration')
+      return res.status(503).json({ error: { code: 'DATABASE_UNAVAILABLE', message: 'The database is temporarily unavailable. Try again later.' } });
+    res.status(500).json({ error: { code: 'INTERNAL_ERROR', message: 'An unexpected server error occurred.' } });
   });
   return app;
 }

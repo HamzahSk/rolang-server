@@ -5,6 +5,19 @@ The server stores data in PostgreSQL 16+. `src/db.js` creates a pool using
 `PGPASSWORD` settings when the URL is absent. See [Deployment](DEPLOYMENT.md)
 for connection and TLS settings.
 
+The pool is shared across warm invocations, handles idle socket errors, and is
+attached to Vercel's lifecycle so suspended functions do not retain idle database
+connections. Failed rollbacks discard the broken client and preserve the original
+failure. Neither requests nor cold starts run migrations or imports.
+
+`npm run doctor` performs read-only connectivity, migration, schema/permission,
+and catalog checks using the configured runtime role. `/health` and
+`/api/v1/health` provide the same readiness check without exposing database details.
+Apply both `001_initial.sql` and `002_story_chapters.sql` before serving this
+release: story catalogs require `stories.version`, and chapter routes require
+`story_chapters` even when deriving legacy chapters. See [Deployment](DEPLOYMENT.md)
+for safe diagnostic codes and exact deployment checks.
+
 ## Tables and relationships
 
 | Table | Key and important columns | Purpose |

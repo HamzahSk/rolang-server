@@ -3,10 +3,14 @@
   "version": "1.0.0",
   "private": true,
   "type": "module",
-  "engines": { "node": ">=22 <25" },
+  "engines": {
+    "node": "22.x"
+  },
   "scripts": {
     "dev": "node --watch src/local.js",
     "start": "node src/local.js",
+    "build": "npm run check && node scripts/build.js",
+    "doctor": "node scripts/doctor.js",
     "migrate": "node scripts/migrate.js",
     "seed": "node scripts/seed.js",
     "import:corpus": "node scripts/import-corpus.js",
@@ -15,9 +19,12 @@
     "check": "node scripts/check.js"
   },
   "dependencies": {
+    "@vercel/functions": "^3.11.3",
     "express": "^5.1.0",
     "pg": "^8.16.3",
     "zod": "^4.1.12"
   },
-  "devDependencies": { "supertest": "^7.1.4" }
+  "devDependencies": {
+    "supertest": "^7.1.4"
+  }
 }

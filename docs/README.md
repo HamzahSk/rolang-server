@@ -1,7 +1,7 @@
 # Ro-Lang backend guide
 
 Ro-Lang pairs an online-first Android learning app with persistent offline content. The
-backend uses Node.js 22 or 24, Express 5, Zod validation, and PostgreSQL 16+.
+backend uses Node.js 22, Express 5, Zod validation, and PostgreSQL 16+.
 Published content supports English (`en`), Indonesian (`id`), and Filipino/Tagalog
 (`tl`). No external translation service is required.
 
@@ -20,6 +20,7 @@ Published content supports English (`en`), Indonesian (`id`), and Filipino/Tagal
 | `src/auth.js` | Password hashing, sessions, account roles, and rate limits |
 | `src/learning.js` | Transactional records, revisions, and idempotent sync |
 | `src/db.js` | Shared PostgreSQL pool and transaction helper |
+| `src/health.js` / `scripts/doctor.js` | Public readiness / read-only database diagnosis |
 | `src/local.js` / `api/index.js` | Local HTTP server / Vercel entry point |
 | `migrations/`, `scripts/` | Schema upgrades, sample content, editor promotion |
 | `data/corpus.json` | All 20 migrated units and the complete original dictionary |
@@ -74,6 +75,7 @@ Run checks against a **disposable test database**, with its settings supplied:
 
 ```sh
 npm test
+npm run build
 npm run check
 npm audit --omit=dev
 ```

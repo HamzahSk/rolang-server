@@ -2,11 +2,14 @@ import { before, after, test } from 'node:test';
 import assert from 'node:assert/strict';
 import pg from 'pg';
 import { randomUUID } from 'node:crypto';
+import { readFile } from 'node:fs/promises';
 import request from 'supertest';
 import { database } from '../src/db.js';
 import { migrate } from '../scripts/migrate.js';
 import { readCorpus, prepareCorpus, importCorpus, verifyCorpus } from '../scripts/import-corpus.js';
 import { createApp } from '../src/app.js';
+import { once } from 'node:events';
+import { transaction } from '../src/db.js';
 
 const base = database();
 const schema = `content_${randomUUID().replaceAll('-','')}`;
@@ -89,4 +92,48 @@ test('ordered multiple chapters have independent versions and validated content'
   await request(app).get('/api/v1/stories/chapter_test/chapters?after=-1').expect(400);
   await request(app).put('/api/v1/stories/chapter_test').set('Authorization',`Bearer ${token}`).send({...story,chapters:[story.chapters[0],story.chapters[0]]}).expect(400);
   await request(app).put('/api/v1/stories/chapter_test').set('Authorization',`Bearer ${token}`).send({...story,vocabulary:[]}).expect(400);
+});
+
+test('health rejects unapplied migrations and schema drift, then recovers after migration', async t => {
+  t.mock.method(console, 'error', () => {});
+  const fixtureSchema = `health_${randomUUID().replaceAll('-', '')}`;
+  await base.query(`CREATE SCHEMA ${fixtureSchema}`);
+  const fixture = new pg.Pool({ connectionString: process.env.DATABASE_URL,
+    options: `-c search_path=${fixtureSchema}`, allowExitOnIdle: true });
+  const check = () => request(createApp(fixture)).get('/health');
+  try {
+    let response = await check().expect(503);
+    assert.equal(response.body.database, 'connected');
+    assert.equal(response.body.error.code, 'DATABASE_NOT_READY');
+    await transaction(fixture, async client => {
+      await client.query(await readFile(new URL('../migrations/001_initial.sql', import.meta.url), 'utf8'));
+      await client.query('CREATE TABLE schema_migrations(name TEXT PRIMARY KEY)');
+      await client.query("INSERT INTO schema_migrations(name) VALUES ('001_initial.sql')");
+    });
+    await check().expect(503);
+    await migrate(fixture);
+    await check().expect(200);
+    // A valid migration ledger must not conceal a missing runtime column.
+    await fixture.query('ALTER TABLE stories RENAME COLUMN version TO fixture_version');
+    response = await check().expect(503);
+    assert.equal(response.body.error.code, 'DATABASE_NOT_READY');
+    await fixture.query('ALTER TABLE stories RENAME COLUMN fixture_version TO version');
+    await check().expect(200);
+  } finally {
+    await fixture.end();
+    await base.query(`DROP SCHEMA ${fixtureSchema} CASCADE`);
+  }
+});
+
+test('the application pool survives an actual idle PostgreSQL disconnect and reconnects', async () => {
+  const client = await base.connect();
+  const { rows } = await client.query('SELECT pg_backend_pid() AS pid');
+  client.release();
+  // allowExitOnIdle unrefs idle sockets; retain this one while observing its
+  // asynchronous failure so the test runner cannot exit before the event.
+  client.ref();
+  const disconnected = once(base, 'error');
+  await pool.query('SELECT pg_terminate_backend($1)', [rows[0].pid]);
+  await disconnected;
+  assert.equal((await base.query('SELECT 1 AS value')).rows[0].value, 1);
 });

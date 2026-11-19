@@ -3,20 +3,25 @@ import assert from 'node:assert/strict';
 import { randomUUID } from 'node:crypto';
 import { readFile } from 'node:fs/promises';
 import request from 'supertest';
+import pg from 'pg';
 import { database } from '../src/db.js';
 import { createApp } from '../src/app.js';
 import { migrate } from '../scripts/migrate.js';
 import { seed } from '../scripts/seed.js';
 
-// Use a dedicated disposable database. The suite only removes its own fixture
-// users and story; it never truncates application tables.
-const pool = database();
+// Isolate all writes, including persistent IP rate-limit buckets, in a private
+// schema. Repeated runs must not inherit a previous run's authentication limits.
+const base = database();
+const schema = `api_${randomUUID().replaceAll('-', '')}`;
+const pool = new pg.Pool({ connectionString: process.env.DATABASE_URL,
+  options: `-c search_path=${schema}`, allowExitOnIdle: true });
 const app = createApp(pool);
 const run = randomUUID();
 const accounts = [];
 const testStoryId = `test_${run.replaceAll('-', '')}`;
 let learner, other, admin;
 before(async () => {
+  await base.query(`CREATE SCHEMA ${schema}`);
   await migrate(pool); await migrate(pool); await seed(pool); await seed(pool);
   for (const role of ['learner', 'other', 'admin']) {
     const email = `${role}.${run}@example.test`;
@@ -33,6 +38,8 @@ after(async () => {
   await pool.query('DELETE FROM stories WHERE id=$1', [testStoryId]);
   await pool.query('DELETE FROM users WHERE id=ANY($1::uuid[])', [accounts]);
   await pool.end();
+  await base.query(`DROP SCHEMA ${schema} CASCADE`);
+  await base.end();
 });
 const bearer = account => `Bearer ${account.token}`;
 const progress = { storyId: 'market_beginner', language: 'en', sentence: 1, completed: false };
@@ -65,6 +72,9 @@ test('authentication validates requests, isolates roles, revokes sessions, and r
   const login = await request(app).post('/api/v1/auth/login').send({ email: learner.user.email.toUpperCase(),
     password: 'test-fixture-password' }).expect(200);
   await request(app).get('/api/v1/me').set('Authorization', `Bearer ${login.body.token}`).expect(200);
+  const edited = await request(app).put('/api/v1/me').set('Authorization', `Bearer ${login.body.token}`)
+    .send({ displayName: 'Updated learner' }).expect(200);
+  assert.equal(edited.body.displayName, 'Updated learner');
   await request(app).post('/api/v1/auth/logout').set('Authorization', `Bearer ${login.body.token}`).expect(204);
   await request(app).get('/api/v1/me').set('Authorization', `Bearer ${login.body.token}`).expect(401);
   assert.ok(!('password_hash' in login.body.user));
@@ -81,6 +91,8 @@ test('administrators create, edit, publish, unpublish, and delete fully translat
   await request(app).post('/api/v1/stories').set('Authorization', bearer(learner)).send(story).expect(403);
   await request(app).post('/api/v1/stories').set('Authorization', bearer(admin)).send({ ...story, vocabulary: [] }).expect(400);
   await request(app).post('/api/v1/stories').set('Authorization', bearer(admin)).send(story).expect(201);
+  const drafts = await request(app).get('/api/v1/admin/stories?limit=100').set('Authorization', bearer(admin)).expect(200);
+  assert.ok(drafts.body.stories.some(s => s.id === testStoryId && s.status === 'draft'));
   await request(app).get(`/api/v1/stories/${testStoryId}`).expect(404);
   await request(app).put(`/api/v1/stories/${testStoryId}`).set('Authorization', bearer(admin)).send({ ...story, difficulty: 'A2' }).expect(200);
   await request(app).post(`/api/v1/stories/${testStoryId}/publish`).set('Authorization', bearer(admin)).send({ published: true }).expect(200);
@@ -167,6 +179,12 @@ test('learning REST endpoints persist preferences, progress/history, vocabulary 
   await request(app).put(`${base}/reviews/${randomUUID()}`).set('Authorization', bearer(learner)).send({
     vocabularyKey: key, language: 'en', reference: 'id', reviewedAt: 1000, correct: true, rating: 'GOOD' }).expect(200);
   await request(app).get(`${base}/reviews`).set('Authorization', bearer(learner)).expect(200);
+  for (const path of ['progress', 'preferences', 'reviews']) {
+    const result = await request(app).get(`${base}/${path}`).set('Authorization', bearer(learner)).expect(200);
+    assert.ok(result.body.records.length);
+    for (const item of result.body.records)
+      await request(app).delete(`${base}/${path}/${encodeURIComponent(item.key)}`).set('Authorization', bearer(learner)).expect(204);
+  }
   await request(app).delete(`${base}/vocabulary/${encodeURIComponent(key)}`).set('Authorization', bearer(learner)).expect(204);
   assert.equal((await request(app).get(`${base}/vocabulary`).set('Authorization', bearer(learner)).expect(200)).body.records.length, 0);
 });

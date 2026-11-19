@@ -3,6 +3,7 @@ import { fileURLToPath } from 'node:url';
 import { isDeepStrictEqual } from 'node:util';
 import { z } from 'zod';
 import { database, transaction } from '../src/db.js';
+import { reportError } from '../src/errors.js';
 import { storySchema, lexeme, normalizeWord } from '../src/validation.js';
 import { saveChapters, hash } from '../src/stories.js';
 
@@ -83,6 +84,10 @@ if (process.argv[1] === fileURLToPath(import.meta.url)) {
     const report = args.includes('--verify') ? await verifyCorpus(pool,corpus)
       : await importCorpus(pool,corpus,{replaceExisting:args.includes('--replace-existing')});
     console.log(JSON.stringify(report,null,2));
-  } catch (error) { console.error(error.message); process.exitCode=1; }
+  } catch (error) {
+    reportError(error, 'corpus_import');
+    console.error('Corpus import/verification failed. Check migrations, content validity, and existing-content conflicts before retrying.');
+    process.exitCode=1;
+  }
   finally { await pool.end(); }
 }

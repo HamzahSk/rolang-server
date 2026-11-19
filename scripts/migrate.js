@@ -1,6 +1,7 @@
 import { readdir, readFile } from 'node:fs/promises';
 import { fileURLToPath } from 'node:url';
 import { database, transaction } from '../src/db.js';
+import { reportError } from '../src/errors.js';
 
 export async function migrate(pool) {
   await transaction(pool, async client => {
@@ -17,6 +18,6 @@ export async function migrate(pool) {
 if (process.argv[1] === fileURLToPath(import.meta.url)) {
   const pool = database();
   try { await migrate(pool); console.log('Database migrations applied.'); }
-  catch { console.error('Migration failed. Check database connectivity and migration compatibility.'); process.exitCode = 1; }
+  catch (error) { reportError(error, 'migration'); console.error('Migration failed. Check database connectivity and migration compatibility.'); process.exitCode = 1; }
   finally { await pool.end(); }
 }
