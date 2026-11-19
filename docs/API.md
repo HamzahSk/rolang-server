@@ -220,3 +220,27 @@ See [Stories](STORIES.md) for executable examples.
 | 413 | Body exceeds 2 MB (`BODY_TOO_LARGE`) |
 | 429 | Registration/login attempt limit (`RATE_LIMITED`) |
 | 503 | Temporary server/database error (`SERVICE_UNAVAILABLE`) |
+
+## Versioned story content and chapters
+
+Public catalogs return metadata only (including `sentenceCount`, `chapterCount`,
+`version`, `updatedAt`, curriculum order/kind and illustration/cover metadata).
+Language fields are localized maps for `en`, `id`, and `tl`. Existing ID-based
+keyset pagination, category/difficulty/language filters, and limit 1–100 remain.
+
+| Method and path | Response |
+| --- | --- |
+| `GET /stories/:id` | Complete legacy story fields and dictionary, plus ordered chapter metadata |
+| `GET /stories/:id?view=manifest` | Story fields/dictionary and chapter metadata without paragraph text; used by resumable Android downloads |
+| `GET /stories/:id/chapters?limit=30&after=0` | `{storyId,version,chapters,next}`; `after` is a chapter position, `next` is a position or null |
+| `GET /stories/:id/chapters/:chapterId` | Chapter learning fields, vocabulary, position `order`, chapter `version`, and `storyVersion` |
+| `GET /stories/:id/content` | Full story and all ordered chapters with their dictionaries |
+
+Chapter metadata has `id`, `order`, localized `title`/optional `summary`,
+`sentenceCount`, and content-hash `version`. Content endpoints return ETag and
+accept `If-None-Match: "VERSION"`, returning HTTP 304 with no body if unchanged.
+A story version is a decimal string; clients compare equality, not timestamps.
+Chapter versions are SHA-256 hashes of their content/dictionary. During a download,
+clients must compare each response's `storyVersion` with the manifest version and
+retry if they differ. Fetching a chapter uses an indexed story/chapter query.
+Unpublished/missing stories and chapters return 404. Invalid pagination returns 400.

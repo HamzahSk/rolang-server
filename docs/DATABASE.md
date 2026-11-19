@@ -85,3 +85,15 @@ Back up PostgreSQL before schema changes. Periodically delete expired `sessions`
 and `auth_attempts` rows; retain learning tombstones and `sync_operations`. Indexes
 support published catalogs, session lookup/expiry, and per-user revision scans.
 Use the content API rather than editing story JSON directly in SQL.
+
+## Content migration 002
+
+`002_story_chapters.sql` adds monotonic `stories.version` revisions without
+changing existing story IDs, JSONB content, accounts, or learning records.
+`story_chapters` stores ordered JSONB learning content and its dictionary, keyed
+by `(story_id,id)` with unique `(story_id,position)` and cascading deletion.
+Legacy stories without stored chapters remain accessible as derived chapter `main`.
+`dictionary` preserves the complete imported lexicon, including unused entries.
+`corpus_imports` records the source hash, original corpus/course metadata, counts,
+and import time. Import and chapter replacement happen in transactions; concurrent
+imports serialize using an advisory lock. See [Migration](MIGRATION.md).

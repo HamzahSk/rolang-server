@@ -5,29 +5,77 @@ export const difficulty = z.enum(['A1', 'A2', 'B1', 'B2', 'C1', 'C2']);
 export const identifier = z.string().regex(/^[a-zA-Z0-9_-]{1,80}$/);
 const text = z.string().trim().min(1).max(10_000);
 const translated = z.object({ en: text, id: text, tl: text }).strict();
-const word = z.string().min(1).max(120).regex(/^[\p{L}\p{M}]+(?:['-][\p{L}\p{M}]+)*$/u);
-const lexeme = z.object({ language, word, translations: translated, meanings: translated,
-  pos: text, notes: translated }).strict();
+const word = z.string().min(1).max(120).regex(/^[\p{L}\p{M}]+(?:['-][\p{L}\p{M}]+)*(?: [\p{L}\p{M}]+(?:['-][\p{L}\p{M}]+)*)*$/u);
+export const lexeme = z.object({ language, word, translations: translated, meanings: translated,
+  pos: text, notes: translated, pronunciation: z.string().max(1000).optional(),
+  practice: z.object({ prompt: translated, choices: z.array(text).min(1).max(100) }).strict().optional() }).strict();
 export const levelFor = d => ({ A1: 'BEGINNER', A2: 'BEGINNER', B1: 'INTERMEDIATE',
   B2: 'INTERMEDIATE', C1: 'ADVANCED', C2: 'ADVANCED' })[d];
 export const normalizeWord = value => value.toLowerCase().replaceAll('’', "'");
+const localizedStrings = z.object({ en: z.array(text).max(500), id: z.array(text).max(500), tl: z.array(text).max(500) }).strict();
+const exercise = z.object({
+  id: identifier, type: z.enum(['MULTIPLE_CHOICE','VOCABULARY_TRANSLATION','FILL_BLANK','GRAMMAR','SENTENCE_CONSTRUCTION','COMPREHENSION']),
+  prompt: translated, answer: translated, explanation: translated,
+  choices: localizedStrings.optional(), tokens: localizedStrings.optional(),
+}).strict().superRefine((item, ctx) => {
+  for (const code of ['en','id','tl']) {
+    if (['MULTIPLE_CHOICE','GRAMMAR'].includes(item.type) &&
+        (!item.choices || item.choices[code].length < 2 || !item.choices[code].includes(item.answer[code])))
+      ctx.addIssue({ code:'custom', message:'Choices must include the answer in every language.' });
+    if (item.type === 'SENTENCE_CONSTRUCTION' && !item.tokens?.[code]?.length)
+      ctx.addIssue({ code:'custom', message:'Sentence construction requires tokens.' });
+  }
+});
+const learningFields = {
+  sentences: z.array(translated).min(1).max(300),
+  speakers: z.array(z.string().max(100).nullable()).max(300).optional(),
+  objectives: z.array(translated).max(100).optional(),
+  notes: z.array(z.object({ title: translated, text: translated }).strict()).max(100).optional(),
+  exercises: z.array(exercise).max(300).optional(), focus: localizedStrings.optional(),
+  pronunciation: z.object({ en:z.string().max(10000), id:z.string().max(10000), tl:z.string().max(10000) }).strict().optional(),
+};
+export const chapterSchema = z.object({ id: identifier, title: translated, summary: translated.optional(), ...learningFields }).strict();
 export const storySchema = z.object({
   id: identifier, family: identifier, category: z.string().trim().min(1).max(100), difficulty,
-  title: translated, summary: translated,
-  sentences: z.array(translated).min(1).max(300), vocabulary: z.array(lexeme).min(1).max(5000),
+  level: z.enum(['BEGINNER','INTERMEDIATE','ADVANCED']).optional(),
+  order: z.number().int().positive().optional(), kind: z.enum(['LESSON','DIALOGUE','STORY']).optional(),
+  image: z.string().max(2000).optional(), cover: z.url().max(2000).optional(),
+  title: translated, summary: translated, ...learningFields,
+  vocabulary: z.array(lexeme).min(1).max(5000), chapters: z.array(chapterSchema).min(1).max(100).optional(),
 }).strict().superRefine((story, ctx) => {
   const keys = new Set();
   for (const item of story.vocabulary) {
     const key = `${item.language}:${normalizeWord(item.word)}`;
-    if (keys.has(key) || item.word !== normalizeWord(item.word)) {
-      ctx.addIssue({ code: 'custom', path: ['vocabulary'], message: 'Vocabulary must contain unique normalized words.' });
-    }
+    if (keys.has(key) || item.word !== normalizeWord(item.word))
+      ctx.addIssue({ code:'custom', path:['vocabulary'], message:'Vocabulary must contain unique normalized words.' });
     keys.add(key);
   }
-  for (const sentence of story.sentences) for (const code of ['en', 'id', 'tl']) {
-    const tokens = sentence[code].match(/[\p{L}\p{M}]+(?:['’-][\p{L}\p{M}]+)*/gu) ?? [];
-    if (tokens.some(token => !keys.has(`${code}:${normalizeWord(token)}`))) {
-      ctx.addIssue({ code: 'custom', path: ['vocabulary'], message: `Missing ${code} dictionary coverage.` });
+  const units = [story, ...(story.chapters ?? [])];
+  if (story.chapters && new Set(story.chapters.map(c => c.id)).size !== story.chapters.length)
+    ctx.addIssue({ code:'custom', path:['chapters'], message:'Chapter IDs must be unique within a story.' });
+  // For chaptered stories the legacy text is the ordered concatenation. Old clients keep working.
+  if (story.chapters && JSON.stringify(story.sentences) !== JSON.stringify(story.chapters.flatMap(c => c.sentences)))
+    ctx.addIssue({ code:'custom', path:['sentences'], message:'Story sentences must match ordered chapter sentences.' });
+  const definitions = new Map();
+  for (const unit of units) {
+    for (const exercise of unit.exercises ?? []) {
+      const signature = JSON.stringify(exercise);
+      if (definitions.has(exercise.id) && definitions.get(exercise.id) !== signature)
+        ctx.addIssue({ code:'custom', path:['exercises'], message:'An exercise ID cannot have conflicting definitions across chapters.' });
+      definitions.set(exercise.id,signature);
+    }
+    if (unit.speakers?.length && unit.speakers.length !== unit.sentences.length)
+      ctx.addIssue({ code:'custom', path:['speakers'], message:'Speakers must align with sentences.' });
+    if (unit.exercises && new Set(unit.exercises.map(e => e.id)).size !== unit.exercises.length)
+      ctx.addIssue({ code:'custom', path:['exercises'], message:'Exercise IDs must be unique.' });
+    for (const code of ['en','id','tl']) {
+      for (const sentence of unit.sentences) {
+        const tokens = sentence[code].match(/[\p{L}\p{M}]+(?:['’-][\p{L}\p{M}]+)*/gu) ?? [];
+        if (tokens.some(token => !keys.has(`${code}:${normalizeWord(token)}`)))
+          ctx.addIssue({ code:'custom', path:['vocabulary'], message:`Missing ${code} dictionary coverage.` });
+      }
+      if (unit.focus?.[code].some(value => !keys.has(`${code}:${normalizeWord(value)}`)))
+        ctx.addIssue({ code:'custom', path:['focus'], message:`Missing ${code} focus vocabulary.` });
     }
   }
 });
@@ -64,7 +112,7 @@ export const schemas = { progress: progressSchema, vocabulary: vocabularySchema,
 export const operationSchema = z.object({ id: z.uuid(), kind: kinds,
   key: z.string().min(1).max(512), deleted: z.boolean(), data: z.unknown() }).strict().superRefine((op, ctx) => {
   const validKey = op.kind === 'progress' ? /^[a-zA-Z0-9_-]{1,80}:(en|id|tl)$/.test(op.key)
-    : op.kind === 'vocabulary' ? /^(en|id|tl):(en|id|tl):[a-zA-Z0-9_-]{1,80}:[\p{L}\p{M}]+(?:['-][\p{L}\p{M}]+)*$/u.test(op.key)
+    : op.kind === 'vocabulary' ? /^(en|id|tl):(en|id|tl):[a-zA-Z0-9_-]{1,80}:[\p{L}\p{M}]+(?:['-][\p{L}\p{M}]+)*(?: [\p{L}\p{M}]+(?:['-][\p{L}\p{M}]+)*)*$/u.test(op.key)
     : op.kind === 'profile' ? op.key === 'preferences' : z.uuid().safeParse(op.key).success;
   if (!validKey) ctx.addIssue({ code: 'custom', path: ['key'], message: 'Invalid learning record key.' });
   if (op.kind === 'review' && !z.uuid().safeParse(op.key).success) {

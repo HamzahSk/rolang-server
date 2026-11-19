@@ -1,6 +1,7 @@
 import { readFile } from 'node:fs/promises';
 import { fileURLToPath } from 'node:url';
 import { database, transaction } from '../src/db.js';
+import { saveChapters } from '../src/stories.js';
 import { storySchema } from '../src/validation.js';
 
 export async function seed(pool) {
@@ -9,9 +10,10 @@ export async function seed(pool) {
     for (const sample of samples) {
       const story = storySchema.parse(sample);
       const { vocabulary, ...content } = story;
-      await client.query(`INSERT INTO stories(id,family,category,difficulty,status,content,vocabulary)
-        VALUES($1,$2,$3,$4,'published',$5,$6) ON CONFLICT(id) DO NOTHING`,
+      const inserted = await client.query(`INSERT INTO stories(id,family,category,difficulty,status,content,vocabulary)
+        VALUES($1,$2,$3,$4,'published',$5,$6) ON CONFLICT(id) DO NOTHING RETURNING id`,
       [story.id, story.family, story.category, story.difficulty, content, JSON.stringify(vocabulary)]);
+      if (inserted.rowCount) await saveChapters(client,story);
     }
   });
 }

@@ -1,14 +1,14 @@
 # Ro-Lang backend guide
 
-Ro-Lang pairs an offline Android learning app with an optional REST API. The
+Ro-Lang pairs an online-first Android learning app with persistent offline content. The
 backend uses Node.js 22 or 24, Express 5, Zod validation, and PostgreSQL 16+.
 Published content supports English (`en`), Indonesian (`id`), and Filipino/Tagalog
 (`tl`). No external translation service is required.
 
 ## How it works
 
-1. Android reads bundled or downloaded stories and dictionaries from Room.
-2. When online features are enabled, it downloads published stories over HTTPS.
+1. Android retrieves catalog metadata from the API and reads saved stories from Room.
+2. Opening a story caches its chapters; manual downloads persist through WorkManager.
 3. Learners can register or sign in. Local learning edits enter a durable queue.
 4. Android uploads queued changes and downloads server revisions through
    `POST /api/v1/me/sync`. Reading and practice remain available offline.
@@ -22,6 +22,8 @@ Published content supports English (`en`), Indonesian (`id`), and Filipino/Tagal
 | `src/db.js` | Shared PostgreSQL pool and transaction helper |
 | `src/local.js` / `api/index.js` | Local HTTP server / Vercel entry point |
 | `migrations/`, `scripts/` | Schema upgrades, sample content, editor promotion |
+| `data/corpus.json` | All 20 migrated units and the complete original dictionary |
+| `src/stories.js` | Chapter storage, metadata, and content versions |
 | `data/sample-stories.json` | Nine complete, publishable story variants |
 
 Accounts own learning records and sessions. Stories hold translated content and
@@ -38,7 +40,7 @@ Node does **not** load `.env` automatically.
 ```sh
 npm ci
 node --env-file=.env scripts/migrate.js
-node --env-file=.env scripts/seed.js
+node --env-file=.env scripts/import-corpus.js
 node --env-file=.env src/local.js
 ```
 
@@ -49,10 +51,11 @@ curl http://localhost:3000/api/v1/health
 curl 'http://localhost:3000/api/v1/stories?limit=2'
 ```
 
-Migrations run atomically and are safe to rerun. Seeding is optional: it publishes
+Migrations and the corpus import run atomically and are safe to rerun. See
+[Migration](MIGRATION.md) for existing-ID conflicts and verification. Seeding is optional: it publishes
 nine sample stories and skips IDs already present. It never updates existing
 content. If configuration is already supplied by your shell, use `npm run migrate`,
-`npm run seed`, and `npm run dev` instead.
+`npm run import:corpus`, and `npm run dev` instead.
 
 ## Manage content and check changes
 

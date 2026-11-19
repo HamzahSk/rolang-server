@@ -7,13 +7,8 @@ import { storySchema, levelFor, registration, login, catalogQuery, identifier,
   language, schemas, syncSchema, operationSchema } from './validation.js';
 import { synchronize, lockUser, putRecord, record } from './learning.js';
 
-const publicStory = (row, includeVocabulary = false) => ({ ...row.content,
-  level: levelFor(row.difficulty), status: row.status, updatedAt: row.updated_at.toISOString(),
-  ...(includeVocabulary ? { vocabulary: row.vocabulary } : {}) });
-const storySummary = row => {
-  const { sentences, ...summary } = publicStory(row);
-  return summary;
-};
+import { publicStory, storySummary, saveChapters, chapterSummary, chaptersFor, vocabularyFor, hash, conditional } from './stories.js';
+
 // Vercel overwrites this header at its edge. Do not trust client-supplied
 // forwarding headers on a standalone Node server.
 const clientIp = req => process.env.VERCEL === '1'
@@ -29,7 +24,7 @@ export function createApp(pool = database()) {
     const origin = req.get('origin');
     if (origin && origins.includes(origin)) {
       res.set({ 'Access-Control-Allow-Origin': origin, Vary: 'Origin',
-        'Access-Control-Allow-Headers': 'Authorization, Content-Type',
+        'Access-Control-Allow-Headers': 'Authorization, Content-Type, If-None-Match',
         'Access-Control-Allow-Methods': 'GET, POST, PUT, DELETE, OPTIONS' });
     }
     if (req.method === 'OPTIONS') return res.sendStatus(204);
@@ -76,7 +71,7 @@ export function createApp(pool = database()) {
   });
   api.get('/stories', async (req, res) => {
     const query = catalogQuery.parse(req.query);
-    const { rows } = await pool.query(`SELECT * FROM stories WHERE status='published'
+    const { rows } = await pool.query(`SELECT id,difficulty,status,version,updated_at,jsonb_array_length(content->'sentences') AS sentence_count, COALESCE(jsonb_array_length(content->'chapters'),1) AS chapter_count,content - ARRAY['sentences','vocabulary','chapters','speakers','objectives','notes','exercises','focus','pronunciation'] AS content FROM stories WHERE status='published'
       AND ($1::text IS NULL OR content->'title' ? $1)
       AND ($2::text IS NULL OR category=$2) AND ($3::text IS NULL OR difficulty=$3)
       AND ($4::text IS NULL OR id>$4) ORDER BY id LIMIT $5`,
@@ -91,7 +86,55 @@ export function createApp(pool = database()) {
     if (!rows.length) throw missing();
     return rows[0];
   }
-  api.get('/stories/:id', async (req, res) => res.json(publicStory(await publishedStory(req), true)));
+  api.get('/stories/:id', async (req, res) => {
+    const query = z.object({view:z.enum(['manifest','full']).default('full')}).strict().parse(req.query);
+    const row = await publishedStory(req);
+    if (conditional(req,res,String(row.version))) return;
+    const chapters = await chapterRows(row,true);
+    const detail = publicStory(row,true);
+    if (query.view === 'manifest') delete detail.sentences;
+    res.json({ ...detail, sentenceCount:row.content.sentences.length, chapters:chapters.map(chapterSummary) });
+  });
+  async function chapterRows(row, summaryOnly = false) {
+    const fields = summaryOnly ? "id,position,content->'title' AS title,content->'summary' AS summary,jsonb_array_length(content->'sentences') AS sentence_count,version" : '*';
+    const { rows } = await pool.query(`SELECT ${fields} FROM story_chapters WHERE story_id=$1 ORDER BY position`, [row.id]);
+    // Existing deployments retain readable content before their first edit/import.
+    return rows.length ? rows : chaptersFor({...row.content,vocabulary:row.vocabulary}).map((content,i) => {
+      const vocabulary = vocabularyFor(content,row.vocabulary);
+      return { id:content.id, position:i+1, content,vocabulary,version:hash({chapter:content,vocabulary}) };
+    });
+  }
+  api.get('/stories/:id/chapters', async (req,res) => {
+    const row = await publishedStory(req);
+    const query = z.object({ limit:z.coerce.number().int().min(1).max(100).default(30),
+      after:z.coerce.number().int().min(0).max(100).default(0) }).strict().parse(req.query);
+    const rows = (await chapterRows(row,true)).filter(c => c.position > query.after);
+    const items = rows.slice(0,query.limit);
+    res.json({ storyId:row.id, version:String(row.version), chapters:items.map(chapterSummary),
+      next:rows.length > query.limit ? items.at(-1).position : null });
+  });
+  api.get('/stories/:id/chapters/:chapterId', async (req,res) => {
+    const storyId = identifier.parse(req.params.id);
+    const id = identifier.parse(req.params.chapterId);
+    const { rows } = await pool.query(`SELECT c.*,s.version AS story_version FROM story_chapters c
+      JOIN stories s ON s.id=c.story_id WHERE c.story_id=$1 AND c.id=$2 AND s.status='published'`,[storyId,id]);
+    let chapter = rows[0];
+    if (!chapter) {
+      const row = await publishedStory(req);
+      chapter = (await chapterRows(row)).find(c => c.id === id);
+      if (!chapter) throw missing();
+      chapter.story_version = row.version;
+    }
+    if (conditional(req,res,chapter.version)) return;
+    res.json({ ...chapter.content, storyId, order:chapter.position, version:chapter.version,
+      storyVersion:String(chapter.story_version), vocabulary:chapter.vocabulary });
+  });
+  api.get('/stories/:id/content', async (req,res) => {
+    const row = await publishedStory(req);
+    if (conditional(req,res,String(row.version))) return;
+    res.json({ ...publicStory(row,true), chapters:(await chapterRows(row)).map(c => ({...c.content,
+      order:c.position, version:c.version, vocabulary:c.vocabulary})) });
+  });
   api.get('/stories/:id/translations', async (req, res) => {
     const code = language.parse(req.query.language);
     const row = await publishedStory(req);
@@ -112,24 +155,30 @@ export function createApp(pool = database()) {
   api.post('/stories', auth, administrator, async (req, res) => {
     const story = storySchema.parse(req.body);
     const { vocabulary, ...content } = story;
-    const { rows } = await pool.query(`INSERT INTO stories(id,family,category,difficulty,content,vocabulary)
-      VALUES($1,$2,$3,$4,$5,$6) RETURNING *`,
-    [story.id, story.family, story.category, story.difficulty, content, JSON.stringify(vocabulary)]);
-    res.status(201).json(publicStory(rows[0], true));
+    const row = await transaction(pool, async client => {
+      const { rows } = await client.query(`INSERT INTO stories(id,family,category,difficulty,content,vocabulary)
+        VALUES($1,$2,$3,$4,$5,$6) RETURNING *`,
+      [story.id,story.family,story.category,story.difficulty,content,JSON.stringify(vocabulary)]);
+      await saveChapters(client,story); return rows[0];
+    });
+    res.status(201).json(publicStory(row,true));
   });
   api.put('/stories/:id', auth, administrator, async (req, res) => {
     const story = storySchema.parse(req.body);
-    if (identifier.parse(req.params.id) !== story.id) throw new ApiError(400, 'INVALID_ID', 'Story ID cannot change.');
+    if (identifier.parse(req.params.id) !== story.id) throw new ApiError(400,'INVALID_ID','Story ID cannot change.');
     const { vocabulary, ...content } = story;
-    const { rows } = await pool.query(`UPDATE stories SET family=$2,category=$3,difficulty=$4,
-      content=$5,vocabulary=$6,updated_at=now() WHERE id=$1 RETURNING *`,
-    [story.id, story.family, story.category, story.difficulty, content, JSON.stringify(vocabulary)]);
-    if (!rows.length) throw missing();
-    res.json(publicStory(rows[0], true));
+    const row = await transaction(pool, async client => {
+      const { rows } = await client.query(`UPDATE stories SET family=$2,category=$3,difficulty=$4,
+        content=$5,vocabulary=$6,updated_at=clock_timestamp(),version=nextval('story_version') WHERE id=$1 RETURNING *`,
+      [story.id,story.family,story.category,story.difficulty,content,JSON.stringify(vocabulary)]);
+      if (!rows.length) throw missing();
+      await saveChapters(client,story); return rows[0];
+    });
+    res.json(publicStory(row,true));
   });
   api.post('/stories/:id/publish', auth, administrator, async (req, res) => {
     const { published } = z.object({ published: z.boolean() }).strict().parse(req.body);
-    const { rows } = await pool.query('UPDATE stories SET status=$2,updated_at=now() WHERE id=$1 RETURNING *',
+    const { rows } = await pool.query("UPDATE stories SET status=$2,updated_at=clock_timestamp(),version=nextval('story_version') WHERE id=$1 RETURNING *",
       [identifier.parse(req.params.id), published ? 'published' : 'draft']);
     if (!rows.length) throw missing(); res.json(publicStory(rows[0], true));
   });

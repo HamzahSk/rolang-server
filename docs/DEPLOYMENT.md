@@ -35,15 +35,16 @@ region and use provider pooling to limit connections across function instances.
 3. Set `DATABASE_URL` and any optional settings in the required Vercel environments
    (Preview/Production). The Android config only needs the public server origin.
 4. From a trusted database-connected shell, apply migrations before enabling the
-   deployment. Optionally seed the sample library:
+   deployment. Import and verify the migrated app library:
 
    ```sh
    node --env-file=.env scripts/migrate.js
-   node --env-file=.env scripts/seed.js
+   node --env-file=.env scripts/import-corpus.js
+   node --env-file=.env scripts/import-corpus.js --verify
    ```
 
    These run separately from build steps and requests. No migration runs on cold
-   start. Repeated seeding skips existing IDs.
+   start. Repeated identical imports preserve IDs and versions; see [Migration](MIGRATION.md) for conflicts.
 5. Deploy using the dashboard or CLI. Existing `vercel.json` routes all paths to
    `api/index.js` with a 30-second function budget. Check public readiness and the
    catalog:
@@ -85,7 +86,7 @@ Edit `rolang-app/config.json`, the source Gradle copies into generated app asset
 | `serverBaseUrl` | HTTPS origin only; no `/api/v1`, credentials, query, or fragment |
 | `apiVersion` | `v1` for this server; appended as `/api/v1/` |
 | `connectionTimeoutMs`, `requestTimeoutMs` | 1000–120000 ms each; defaults 10000 and 30000 |
-| `onlineEnabled` | Defaults false; true enables downloads/account actions |
+| `onlineEnabled` | Defaults true; enables public catalogs, downloads, and account actions |
 | `automaticSyncEnabled` | Defaults true; false still permits manual sync and launch-time public refresh |
 | `syncIntervalMinutes` | 15–1440; defaults 15; Android battery policies can delay jobs |
 | `storyPageSize` | 1–100; defaults 30 |
@@ -94,7 +95,7 @@ A complete private app `files/config.json` override takes precedence and is read
 at runtime, including worker runs. Invalid settings disable networking while
 keeping offline data. Configuration never includes passwords or bearer tokens.
 In Android Profile, sign in and use **Sync now**, or use **Refresh stories** while
-signed out. Offline mode still supports the bundled stories, word details,
+signed out. Offline mode supports previously cached/downloaded stories, word details,
 reviews, and local progress.
 
 For an emulator, the development origin is `http://10.0.2.2:3000`.

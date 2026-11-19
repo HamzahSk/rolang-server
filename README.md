@@ -3,7 +3,8 @@
 The Express/PostgreSQL backend for [Ro-Lang Android](../rolang-app/README.md).
 It serves multilingual stories and synchronizes accounts, vocabulary statuses,
 reading progress, spaced repetition schedules, review history, and preferences.
-The Android app also works offline without an account.
+The Android app caches opened stories and supports durable offline downloads without an account.
+See [Migration](docs/MIGRATION.md) to import the Android library before rollout.
 
 Start with the [overview and local setup](docs/README.md), then use:
 

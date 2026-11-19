@@ -46,8 +46,8 @@ whole. Android displays the entries in order as continuous, scrollable text.
 Translated strings are trimmed, nonempty, and at most 10,000 characters each.
 Request bodies are limited to 2 MB. Android maps A1/A2 to Beginner, B1/B2 to
 Intermediate, and C1/C2 to Advanced. Use separate IDs with the same `family` to
-offer several versions. `level`, `status`, and `updatedAt` are response fields;
-do not include them in authoring bodies.
+offer several versions. `status`, `version`, and `updatedAt` are response fields; do not include them
+in authoring bodies. Optional `level` is accepted for legacy corpus imports.
 
 ## Dictionary and learning information
 
@@ -120,3 +120,28 @@ keep previously cached stories until a complete catalog refresh; successful
 refreshes hide removed remote stories while preserving learning history.
 Bundled stories remain available. Shortening a story clamps old Android reading
 positions to the remaining paragraphs.
+
+## Lessons, chapters, and covers
+
+The API also accepts `order` (positive curriculum order), `kind` (`LESSON`,
+`DIALOGUE`, `STORY`), `image` (existing Android illustration key), and optional
+`cover` (URL metadata). Android currently uses the existing vector illustrations.
+Optional learning fields are `objectives`, `notes` (`title`/`text` translations),
+`focus` (language-to-expression arrays), `pronunciation` (translated guides,
+which may be empty), aligned `speakers`, and `exercises`. Exercises require an ID,
+type, translated `prompt`, `answer`, `explanation`, and choices/tokens as appropriate.
+Choice questions must include the answer in every language. See [the migrated
+corpus](../data/corpus.json) for every supported exercise type. Dictionary entries
+may include `pronunciation` and `practice` (`prompt` translations and `choices`).
+Normalized focus phrases with spaces are supported.
+
+Optional `chapters` is an ordered array (1–100) with unique IDs within a story.
+Each chapter has `id`, translated `title`, optional `summary`, `sentences`, and
+optional learning fields above. The root dictionary covers all chapters; root
+`sentences` must exactly concatenate chapter paragraphs in chapter order (at most
+300 total). Root learning fields can contain story-wide notes and final exercises;
+the app combines them with chapter learning fields without duplicating exercise IDs.
+If chapters are absent, the server exposes the original content as chapter `main`.
+Updating a story replaces its chapters atomically. The story gets a new revision,
+while hashes for unchanged chapters remain stable. Use the API rather than direct
+SQL so revisions and dictionaries remain consistent.
