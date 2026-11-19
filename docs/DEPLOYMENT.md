@@ -59,12 +59,12 @@ node --env-file=.env scripts/import-corpus.js
 node --env-file=.env scripts/import-corpus.js --verify
 ```
 
-The import stores 20 stories, 20 ordered chapters, 1,204 dictionary entries and
-92 exercises, including all translations and practice fields. It initializes
+The import stores 21 units, 30 ordered chapter records, 1,486 dictionary entries
+and 150 exercises, including all translations and practice fields. It initializes
 MongoDB automatically, avoids duplicates, and rolls back on differing existing
 content. Review conflicts and take a backup before explicitly considering
-`--replace-existing`. Optional `seed.js` retains nine sample variants and skips
-existing IDs. Neither script runs during deployment or API requests.
+`--replace-existing`. `seed.js` imports the same complete corpus idempotently.
+Neither script runs during deployment or API requests.
 
 ## Diagnose MongoDB connectivity and initialization
 

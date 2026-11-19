@@ -31,9 +31,15 @@ const bearer = account => `Bearer ${account.token}`;
 const progress = { storyId: 'market_beginner', language: 'en', sentence: 1, completed: false };
 const operation = (data = progress) => ({ id: randomUUID(), kind: 'progress', key: 'market_beginner:en', data, deleted: false });
 
+test('complete seed is repeatable without duplicate curriculum records', async () => {
+  assert.equal(await db.collection('stories').countDocuments({ difficulty: 'A1', status: 'published' }), 21);
+  assert.equal(await db.collection('story_chapters').countDocuments(), 30);
+  assert.equal(await db.collection('corpus_imports').countDocuments(), 1);
+});
+
 test('catalog, filters, complete detail, translation, and vocabulary use the Android corpus contract', async () => {
   await request(app).get('/api/v1/health').expect(200);
-  const response = await request(app).get('/api/v1/stories?language=tl&difficulty=A1&category=Everyday%20life&limit=1').expect(200);
+  const response = await request(app).get('/api/v1/stories?language=tl&difficulty=A1&category=Kehidupan%20sehari-hari&limit=1').expect(200);
   assert.equal(response.body.stories.length, 1);
   assert.equal(response.body.stories[0].level, 'BEGINNER');
   const id = response.body.stories[0].id;
@@ -222,7 +228,7 @@ test('all vocabulary statuses synchronize with manual metadata, idempotency, and
 });
 
 test('indexed catalog search accepts multilingual terms alongside filtering and pagination', async () => {
-  const sample = JSON.parse(await readFile(new URL('../data/sample-stories.json', import.meta.url), 'utf8'))[0];
+  const sample = JSON.parse(await readFile(new URL('../data/corpus.json', import.meta.url), 'utf8')).stories[0];
   const result = await request(app).get('/api/v1/stories').query({ search: sample.title.en, limit: 1 }).expect(200);
   assert.ok(result.body.stories.length);
   const localized = await request(app).get('/api/v1/stories').query({ q: sample.title.tl, language: 'tl', difficulty: sample.difficulty }).expect(200);

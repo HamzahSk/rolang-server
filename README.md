@@ -26,8 +26,8 @@ node --env-file=.env scripts/import-corpus.js
 node --env-file=.env scripts/import-corpus.js --verify
 ```
 
-This imports 20 stories, 20 chapters, 1,204 dictionary entries and 92 exercises.
-Repeating the import avoids duplicates; differing existing content stops the
+This imports 21 ordered A1 units, 30 chapter records, 1,486 dictionary entries,
+and 150 exercises. Repeating the import avoids duplicates; differing existing content stops the
 import for review. The API reads content directly from MongoDB and requires no
 persistent local files. Both bundled JSON data files are retained unchanged.
 

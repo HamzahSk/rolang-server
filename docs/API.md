@@ -10,6 +10,12 @@ listed as 204, which has no body.
 | Method and path | Parameters | Response |
 | --- | --- | --- |
 | `GET /health` | None | 200: `{"status":"ok","apiVersion":"v1","database":"connected"}` after checking MongoDB connectivity, initialization, validators, indexes, transaction support; 503 when unavailable |
+| `GET /curriculum` | None | 200: Indonesian → Tagalog A1 course metadata and ordered modules |
+| `GET /curriculum/modules` | None | 200: `{curriculumId,modules:[...]}` |
+| `GET /curriculum/modules/:id` | Module ID | 200: module metadata and ordered units |
+| `GET /lessons/:id` | Published lesson ID | 200: lesson details, vocabulary, exercises, answers, and chapter manifest |
+| `GET /lessons/:id/vocabulary` | Optional `language=en|id|tl` | 200: lesson vocabulary |
+| `GET /lessons/:id/exercises` | Lesson ID | 200: exercises with answers and explanations |
 | `GET /stories` | Optional `language=en|id|tl`, `category`, `difficulty=A1|A2|B1|B2|C1|C2`, `search` (or `q`, 1–200 characters), `limit` (1–100, default 30), `after` (story ID) | 200: `{stories:[summary],next:ID|null}`; published stories only |
 | `GET /stories/:id` | Story ID | 200: full authoring content plus `vocabulary`, `level`, `status`, `updatedAt` |
 | `GET /stories/:id/translations` | Required `language=en|id|tl` | 200: `{language,title,summary,sentences:[string]}` |
@@ -161,7 +167,7 @@ not recalculate mastery. Android computes the schedule. Preferences use
 `level=BEGINNER|INTERMEDIATE|ADVANCED`, `fontSize=16–28`, and a boolean `dark`:
 
 ```json
-{"target":"en","native":"id","level":"BEGINNER","fontSize":20,"dark":false}
+{"target":"tl","native":"id","level":"BEGINNER","fontSize":20,"dark":false}
 ```
 
 ## Synchronization

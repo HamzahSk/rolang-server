@@ -25,7 +25,7 @@ test('full legacy corpus import is exact, ordered, atomic, and idempotent',async
   await importCorpus(store,corpus);
   assert.deepEqual(await db.collection('stories').find({}, { projection: { _id: 1, version: 1, updated_at: 1 } }).sort({ _id: 1 }).toArray(),first);
   const report = await verifyCorpus(store,corpus);
-  assert.deepEqual([report.stories,report.chapters,report.vocabulary,report.exercises],[20,20,1204,92]);
+  assert.deepEqual([report.stories,report.chapters,report.vocabulary,report.exercises],[21,30,1486,150]);
   const changed = structuredClone(corpus);
   changed.stories.at(-1).title.en += ' edited';
   await assert.rejects(importCorpus(store,changed), error => error.code === 'IMPORT_CONFLICT');
@@ -39,17 +39,17 @@ test('paginated catalogs and every stored detail/chapter preserve all learning c
   do {
     const page = await request(app).get('/api/v1/stories').query({limit:3,...(after ? {after} : {})}).expect(200);
     seen.push(...page.body.stories);
-    assert.ok(page.body.stories.every(s => !s.sentences && !s.vocabulary && !s.exercises && s.version && s.chapterCount === 1));
+    assert.ok(page.body.stories.every(s => !s.sentences && !s.vocabulary && !s.exercises && s.version && s.chapterCount >= 1));
     after = page.body.next;
   } while (after);
-  assert.equal(new Set(seen.map(s => s.id)).size,20);
+  assert.equal(new Set(seen.map(s => s.id)).size,21);
   const {stories} = prepareCorpus(corpus);
   for (const story of stories) {
     const detail = (await request(app).get(`/api/v1/stories/${story.id}`).expect(200)).body;
     for (const key of ['title','summary','sentences','speakers','notes','objectives','focus','pronunciation','exercises','vocabulary']) assert.deepEqual(detail[key],story[key]);
     const content = (await request(app).get(`/api/v1/stories/${story.id}/content`).expect(200)).body;
     assert.deepEqual(content.sentences, story.sentences);
-    assert.deepEqual(content.chapters[0].exercises, story.exercises);
+    assert.deepEqual(content.chapters.flatMap(chapter => chapter.sentences), story.sentences);
     assert.deepEqual(content.vocabulary, story.vocabulary);
     const vocabulary = (await request(app).get(`/api/v1/stories/${story.id}/vocabulary`).expect(200)).body;
     assert.deepEqual(vocabulary.vocabulary, story.vocabulary);
@@ -65,13 +65,32 @@ test('paginated catalogs and every stored detail/chapter preserve all learning c
     assert.deepEqual(manifest.speakers,story.speakers);
     const chapters = (await request(app).get(`/api/v1/stories/${story.id}/chapters?limit=1`).expect(200)).body;
     assert.equal(chapters.chapters[0].order,1);
-    const chapter = (await request(app).get(`/api/v1/stories/${story.id}/chapters/main`).expect(200)).body;
-    assert.deepEqual(chapter.sentences,story.sentences);
-    assert.deepEqual(chapter.exercises,story.exercises);
+    const expectedChapter = story.chapters?.[0] ?? { id: 'main', sentences: story.sentences, exercises: story.exercises };
+    const chapter = (await request(app).get(`/api/v1/stories/${story.id}/chapters/${expectedChapter.id}`).expect(200)).body;
+    assert.deepEqual(chapter.sentences,expectedChapter.sentences);
+    assert.deepEqual(chapter.exercises,expectedChapter.exercises);
     assert.equal(chapter.storyVersion,detail.version);
     await request(app).get(`/api/v1/stories/${story.id}`).set('If-None-Match',`"${detail.version}"`).expect(304);
-    await request(app).get(`/api/v1/stories/${story.id}/chapters/main`).set('If-None-Match',`"${chapter.version}"`).expect(304);
+    await request(app).get(`/api/v1/stories/${story.id}/chapters/${expectedChapter.id}`).set('If-None-Match',`"${chapter.version}"`).expect(304);
   }
+});
+
+test('Indonesian-Tagalog curriculum APIs expose ordered modules, lesson practice, and answers', async () => {
+  const curriculum = (await request(app).get('/api/v1/curriculum').expect(200)).body;
+  assert.equal(curriculum.nativeLanguage, 'id');
+  assert.equal(curriculum.targetLanguage, 'tl');
+  assert.equal(curriculum.difficulty, 'A1');
+  assert.equal(curriculum.unitCount, 21);
+  assert.equal(curriculum.lessonCount, 10);
+  assert.ok(curriculum.modules.length >= 9);
+  const module = (await request(app).get(`/api/v1/curriculum/modules/${curriculum.modules[0].id}`).expect(200)).body;
+  assert.ok(module.units.length);
+  const lessonId = prepareCorpus(corpus).stories.find(story => story.kind === 'LESSON').id;
+  const lesson = (await request(app).get(`/api/v1/lessons/${lessonId}`).expect(200)).body;
+  assert.ok(lesson.objectives.length && lesson.notes.length && lesson.exercises.length && lesson.vocabulary.length);
+  const exercises = (await request(app).get(`/api/v1/lessons/${lessonId}/exercises`).expect(200)).body.exercises;
+  assert.ok(exercises.every(item => item.answer.id && item.explanation.id));
+  await request(app).get('/api/v1/lessons/a1_08_family_lunch').expect(404);
 });
 
 test('ordered multiple chapters have independent versions and validated content',async () => {

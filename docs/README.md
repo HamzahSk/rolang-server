@@ -45,9 +45,9 @@ curl --fail-with-body http://localhost:3000/health
 curl --fail-with-body 'http://localhost:3000/api/v1/stories?limit=2'
 ```
 
-The complete corpus contains 20 stories, 20 chapters, 1,204 dictionary entries
-and 92 exercises. `seed.js` optionally adds nine sample variants, skipping
-existing IDs. Corpus import is atomic and repeatable. If content differs, it
+The complete Indonesian → Tagalog A1 corpus contains 21 ordered units, 30 chapter
+records, 1,486 dictionary entries and 150 exercises. `seed.js` imports this full
+corpus idempotently. Corpus import is atomic and repeatable. If content differs, it
 fails without changing the database. Review and back up content before explicitly
 choosing `--replace-existing`; initialization never chooses that option.
 

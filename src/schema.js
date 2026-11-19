@@ -48,6 +48,7 @@ export const indexSpecs = {
   ],
   stories: [
     { key: { status: 1, _id: 1 }, name: 'stories_catalog' },
+    { key: { status: 1, difficulty: 1, 'content.order': 1, _id: 1 }, name: 'curriculum_order' },
     { key: { status: 1, category: 1, _id: 1 }, name: 'stories_category' },
     { key: { status: 1, difficulty: 1, _id: 1 }, name: 'stories_difficulty' },
     { key: { status: 1, difficulty: 1, category: 1, _id: 1 }, name: 'stories_filters' },

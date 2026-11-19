@@ -50,7 +50,9 @@ test('BSON limits and integer conversions prevent oversized documents and revisi
 });
 test('the entire retained corpus still validates without narrowing its learning content', async () => {
   const { stories, vocabulary } = prepareCorpus(await readCorpus());
-  assert.equal(stories.length, 20);
-  assert.equal(vocabulary.length, 1204);
-  assert.equal(stories.reduce((count, story) => count + (story.exercises?.length ?? 0), 0), 92);
+  assert.equal(stories.length, 21);
+  assert.equal(vocabulary.length, 1486);
+  assert.equal(stories.reduce((count, story) => count + (story.exercises?.length ?? 0) +
+    (story.chapters ?? []).reduce((sum, chapter) => sum + (chapter.exercises?.length ?? 0), 0), 0), 150);
+  assert.ok(stories.filter(story => story.kind === 'STORY').every(story => story.sentences.length >= 5));
 });

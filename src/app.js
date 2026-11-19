@@ -73,6 +73,47 @@ export function createApp(store = database()) {
     await db.collection('users').updateOne({ _id: req.user.id }, { $set: { display_name: input.displayName } });
     res.json({ id: req.user.id, displayName: input.displayName });
   });
+  const moduleTitles = {
+    foundations: 'Dasar bahasa', greetings: 'Salam dan perkenalan', time: 'Angka dan waktu',
+    routine: 'Kegiatan sehari-hari', family: 'Keluarga dan hubungan', school: 'Sekolah',
+    grammar: 'Tata bahasa dan kegiatan', food: 'Makanan dan belanja', travel: 'Tempat dan arah',
+    friends: 'Persahabatan', review: 'Tinjauan akhir A1',
+  };
+  async function curriculumRows() {
+    const { db } = await store.scope();
+    return db.collection('stories').find({ status: 'published', difficulty: 'A1' }).sort({ 'content.order': 1, _id: 1 }).toArray();
+  }
+  function curriculumModules(rows) {
+    const grouped = new Map();
+    for (const row of rows) {
+      const module = grouped.get(row.family) ?? { id: row.family, title: moduleTitles[row.family] ?? row.family,
+        order: row.content.order, unitCount: 0, lessonCount: 0, storyCount: 0 };
+      module.order = Math.min(module.order, row.content.order);
+      module.unitCount++;
+      if (row.content.kind === 'LESSON') module.lessonCount++;
+      else module.storyCount++;
+      grouped.set(row.family, module);
+    }
+    return [...grouped.values()].sort((a, b) => a.order - b.order || a.id.localeCompare(b.id));
+  }
+  api.get('/curriculum', async (_req, res) => {
+    const rows = await curriculumRows();
+    res.json({ id: 'id-tl-a1', nativeLanguage: 'id', targetLanguage: 'tl', difficulty: 'A1', level: 'BEGINNER',
+      title: 'Tagalog A1 untuk penutur bahasa Indonesia', unitCount: rows.length,
+      lessonCount: rows.filter(row => row.content.kind === 'LESSON').length,
+      storyCount: rows.filter(row => row.content.kind === 'STORY').length,
+      modules: curriculumModules(rows) });
+  });
+  api.get('/curriculum/modules', async (_req, res) => {
+    const rows = await curriculumRows();
+    res.json({ curriculumId: 'id-tl-a1', modules: curriculumModules(rows) });
+  });
+  api.get('/curriculum/modules/:id', async (req, res) => {
+    const id = identifier.parse(req.params.id);
+    const rows = (await curriculumRows()).filter(row => row.family === id);
+    if (!rows.length) throw missing();
+    res.json({ curriculumId: 'id-tl-a1', module: curriculumModules(rows)[0], units: rows.map(storySummary) });
+  });
   api.get('/stories', async (req, res) => {
     const query = catalogQuery.parse(req.query);
     const filter = { status: 'published',
@@ -153,6 +194,28 @@ export function createApp(store = database()) {
   api.get('/stories/:id/vocabulary', async (req, res) => {
     const code = language.optional().parse(req.query.language);
     res.json(await readPublished(req, async (scope, row) => ({ vocabulary: await loadVocabulary(scope, row._id, code) })));
+  });
+  async function readLesson(req, action) {
+    return readPublished(req, async (scope, row) => {
+      if (row.content.kind !== 'LESSON') throw missing();
+      return action(scope, row);
+    });
+  }
+  api.get('/lessons/:id', async (req, res) => {
+    const body = await readLesson(req, async (scope, row) => {
+      row.vocabulary = await loadVocabulary(scope, row._id);
+      return { ...publicStory(row, true), chapters: (await chapterRows(scope, row, true)).map(chapterSummary) };
+    });
+    if (!conditional(req, res, body.version)) res.json(body);
+  });
+  api.get('/lessons/:id/vocabulary', async (req, res) => {
+    const code = language.optional().parse(req.query.language);
+    res.json(await readLesson(req, async (scope, row) => ({ lessonId: row._id,
+      vocabulary: await loadVocabulary(scope, row._id, code) })));
+  });
+  api.get('/lessons/:id/exercises', async (req, res) => {
+    res.json(await readLesson(req, async (_scope, row) => ({ lessonId: row._id,
+      exercises: row.content.exercises ?? [] })));
   });
   api.get('/admin/stories', auth, administrator, async (req, res) => {
     const { limit, after } = catalogQuery.pick({ limit: true, after: true }).parse(req.query);
