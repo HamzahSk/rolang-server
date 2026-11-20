@@ -57,6 +57,7 @@ machine using the target MongoDB variables:
 ```sh
 node --env-file=.env scripts/import-corpus.js
 node --env-file=.env scripts/import-corpus.js --verify
+npm run verify:production -- https://YOUR-DEPLOYMENT
 ```
 
 The import stores 21 units, 30 ordered chapter records, 1,486 dictionary entries
@@ -65,6 +66,9 @@ MongoDB automatically, avoids duplicates, and rolls back on differing existing
 content. Review conflicts and take a backup before explicitly considering
 `--replace-existing`. `seed.js` imports the same complete corpus idempotently.
 Neither script runs during deployment or API requests.
+The production verifier is read-only. It compares every live unit, chapter,
+dictionary entry and exercise with the canonical corpus through public API calls,
+and also requires the live health endpoint to report a connected MongoDB database.
 
 ## Diagnose MongoDB connectivity and initialization
 

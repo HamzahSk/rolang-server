@@ -22,8 +22,12 @@ after(async () => { await fixture?.close(); });
 
 test('full legacy corpus import is exact, ordered, atomic, and idempotent',async () => {
   const first = await db.collection('stories').find({}, { projection: { _id: 1, version: 1, updated_at: 1 } }).sort({ _id: 1 }).toArray();
+  const learnerRecord = { _id: 'content-test-progress', user_id: 'content-test-user', kind: 'progress',
+    key: 'a1_01_sounds:id', data: { completed: true }, deleted: false, revision: 1, updated_at: new Date() };
+  await db.collection('learning_records').insertOne(learnerRecord);
   await importCorpus(store,corpus);
   assert.deepEqual(await db.collection('stories').find({}, { projection: { _id: 1, version: 1, updated_at: 1 } }).sort({ _id: 1 }).toArray(),first);
+  assert.deepEqual(await db.collection('learning_records').findOne({ _id: learnerRecord._id }), learnerRecord);
   const report = await verifyCorpus(store,corpus);
   assert.deepEqual([report.stories,report.chapters,report.vocabulary,report.exercises],[21,30,1486,150]);
   const changed = structuredClone(corpus);
