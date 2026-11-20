@@ -48,10 +48,10 @@ test('BSON limits and integer conversions prevent oversized documents and revisi
   assert.equal(storyVersion('9007199254740993'), '9007199254740993');
   assert.throws(() => storyVersion('9223372036854775808'), error => error.code === 'INVALID_DATABASE_VALUE');
 });
-test('the entire retained corpus still validates without narrowing its learning content', async () => {
+test('the focused Indonesian-Filipino corpus validates with all exercises and stories', async () => {
   const { stories, vocabulary } = prepareCorpus(await readCorpus());
   assert.equal(stories.length, 21);
-  assert.equal(vocabulary.length, 1486);
+  assert.equal(vocabulary.length, 494);
   assert.equal(stories.reduce((count, story) => count + (story.exercises?.length ?? 0) +
     (story.chapters ?? []).reduce((sum, chapter) => sum + (chapter.exercises?.length ?? 0), 0), 0), 150);
   assert.ok(stories.filter(story => story.kind === 'STORY').every(story => story.sentences.length >= 5));

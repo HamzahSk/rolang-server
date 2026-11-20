@@ -1,164 +1,72 @@
 {
   "id": "reader_a1",
   "family": "reader",
-  "category": "Everyday life",
+  "category": "Kehidupan sehari-hari",
   "difficulty": "A1",
   "title": {
-    "en": "The reader",
     "id": "Pembaca",
-    "tl": "Ang mambabasa"
+    "fil": "Ang mambabasa"
   },
   "summary": {
-    "en": "Maya enjoys reading.",
     "id": "Maya suka membaca.",
-    "tl": "Mahilig magbasa si Maya."
+    "fil": "Mahilig magbasa si Maya."
   },
   "sentences": [
     {
-      "en": "Maya reads.",
-      "id": "Maya membaca.",
-      "tl": "Nagbabasa si Maya."
+      "id": "Maya sedang membaca.",
+      "fil": "Nagbabasa si Maya."
     }
   ],
   "vocabulary": [
     {
-      "language": "en",
-      "word": "maya",
-      "translations": {
-        "en": "Maya",
-        "id": "Maya",
-        "tl": "Maya"
-      },
-      "meanings": {
-        "en": "A person's name.",
-        "id": "Nama seseorang.",
-        "tl": "Pangalan ng isang tao."
-      },
-      "pos": "proper noun",
-      "notes": {
-        "en": "Maya is the reader.",
-        "id": "Maya adalah pembaca.",
-        "tl": "Si Maya ang mambabasa."
-      }
-    },
-    {
-      "language": "en",
-      "word": "reads",
-      "translations": {
-        "en": "reads",
-        "id": "membaca",
-        "tl": "nagbabasa"
-      },
-      "meanings": {
-        "en": "Looks at written words and understands them.",
-        "id": "Melihat dan memahami kata-kata tertulis.",
-        "tl": "Tumitingin at umuunawa sa mga nakasulat na salita."
-      },
-      "pos": "verb",
-      "notes": {
-        "en": "Present tense: Maya reads.",
-        "id": "Bentuk waktu kini: Maya membaca.",
-        "tl": "Kasalukuyang kilos: nagbabasa si Maya."
-      }
-    },
-    {
-      "language": "id",
-      "word": "maya",
-      "translations": {
-        "en": "Maya",
-        "id": "Maya",
-        "tl": "Maya"
-      },
-      "meanings": {
-        "en": "A person's name.",
-        "id": "Nama seseorang.",
-        "tl": "Pangalan ng isang tao."
-      },
-      "pos": "proper noun",
-      "notes": {
-        "en": "Maya is the reader.",
-        "id": "Maya adalah pembaca.",
-        "tl": "Si Maya ang mambabasa."
-      }
-    },
-    {
-      "language": "id",
-      "word": "membaca",
-      "translations": {
-        "en": "reads",
-        "id": "membaca",
-        "tl": "nagbabasa"
-      },
-      "meanings": {
-        "en": "Looks at written words and understands them.",
-        "id": "Melihat dan memahami kata-kata tertulis.",
-        "tl": "Tumitingin at umuunawa sa mga nakasulat na salita."
-      },
-      "pos": "verb",
-      "notes": {
-        "en": "The action of reading.",
-        "id": "Kegiatan membaca.",
-        "tl": "Ang kilos ng pagbasa."
-      }
-    },
-    {
-      "language": "tl",
+      "language": "fil",
       "word": "nagbabasa",
       "translations": {
-        "en": "reads",
-        "id": "membaca",
-        "tl": "nagbabasa"
+        "id": "sedang membaca",
+        "fil": "nagbabasa"
       },
       "meanings": {
-        "en": "Is reading written words.",
-        "id": "Sedang membaca kata-kata tertulis.",
-        "tl": "Kasalukuyang bumabasa ng mga nakasulat na salita."
+        "id": "Sedang membaca dan memahami kata-kata tertulis.",
+        "fil": "Kasalukuyang bumabasa at umuunawa sa mga nakasulat na salita."
       },
-      "pos": "verb",
+      "pos": "verba",
       "notes": {
-        "en": "An ongoing action.",
-        "id": "Kegiatan yang sedang berlangsung.",
-        "tl": "Isang kilos na kasalukuyang nagaganap."
+        "id": "Bentuk aspek sedang dari verba membaca.",
+        "fil": "Nagsasaad ng kilos na kasalukuyang ginagawa."
       }
     },
     {
-      "language": "tl",
+      "language": "fil",
       "word": "si",
       "translations": {
-        "en": "personal marker",
         "id": "penanda nama orang",
-        "tl": "si"
+        "fil": "si"
       },
       "meanings": {
-        "en": "Marks a person's name as the subject.",
-        "id": "Menandai nama orang sebagai subjek.",
-        "tl": "Pananda ng pangalan ng taong paksa."
+        "id": "Menandai nama orang sebagai topik atau subjek.",
+        "fil": "Pananda sa pangalan ng taong paksa."
       },
-      "pos": "marker",
+      "pos": "penanda",
       "notes": {
-        "en": "English has no direct one-word equivalent.",
-        "id": "Tidak ada padanan satu kata yang tepat dalam bahasa Inggris.",
-        "tl": "Walang eksaktong katumbas na isang salita sa Ingles."
+        "id": "Dipakai sebelum nama orang; tidak selalu memiliki padanan satu kata dalam bahasa Indonesia.",
+        "fil": "Ginagamit bago ang pangalan ng tao."
       }
     },
     {
-      "language": "tl",
+      "language": "fil",
       "word": "maya",
       "translations": {
-        "en": "Maya",
         "id": "Maya",
-        "tl": "Maya"
+        "fil": "Maya"
       },
       "meanings": {
-        "en": "A person's name.",
         "id": "Nama seseorang.",
-        "tl": "Pangalan ng isang tao."
+        "fil": "Pangalan ng isang tao."
       },
-      "pos": "proper noun",
+      "pos": "nama diri",
       "notes": {
-        "en": "Maya is the reader.",
-        "id": "Maya adalah pembaca.",
-        "tl": "Si Maya ang mambabasa."
+        "id": "Nama tetap sama dalam bahasa Indonesia dan Tagalog.",
+        "fil": "Magkapareho ang anyo ng pangalan sa wikang Indones at Tagalog."
       }
     }
   ]

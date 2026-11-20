@@ -13,6 +13,7 @@
     "doctor": "node scripts/doctor.js",
     "seed": "node scripts/seed.js",
     "import:corpus": "node scripts/import-corpus.js",
+    "migrate:language-pair": "node scripts/migrate-language-pair.js",
     "verify:production": "node scripts/verify-production.js",
     "admin": "node scripts/admin.js",
     "test": "node --test --test-concurrency=1 test/*.test.js",

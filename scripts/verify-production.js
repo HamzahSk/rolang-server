@@ -76,9 +76,9 @@ export async function verifyProduction(value) {
   assert.deepEqual(health, { status: 'ok', apiVersion: 'v1', database: 'connected' });
 
   const curriculum = (await response(api, 'curriculum')).body;
-  assert.equal(curriculum.id, 'id-tl-a1');
+  assert.equal(curriculum.id, 'id-fil-a1');
   assert.equal(curriculum.nativeLanguage, 'id');
-  assert.equal(curriculum.targetLanguage, 'tl');
+  assert.equal(curriculum.targetLanguage, 'fil');
   assert.equal(curriculum.difficulty, 'A1');
   assert.equal(curriculum.level, 'BEGINNER');
   assert.equal(curriculum.unitCount, stories.length);
@@ -90,13 +90,13 @@ export async function verifyProduction(value) {
   assert.deepEqual(moduleList.modules, curriculum.modules);
   await concurrent(modules, 6, async expected => {
     const body = (await response(api, `curriculum/modules/${expected.id}`)).body;
-    assert.equal(body.curriculumId, 'id-tl-a1');
+    assert.equal(body.curriculumId, 'id-fil-a1');
     for (const key of ['id', 'order', 'unitCount', 'lessonCount', 'storyCount'])
       assert.equal(body.module[key], expected[key], `module ${expected.id}.${key} differs`);
     assert.deepEqual(body.units.map(unit => unit.id), expected.ids);
   });
 
-  const catalog = (await response(api, 'stories?limit=100&language=tl&difficulty=A1')).body;
+  const catalog = (await response(api, 'stories?limit=100&language=fil&difficulty=A1')).body;
   assert.equal(catalog.next, null);
   const expectedCatalog = [...stories].sort((a, b) => a.id.localeCompare(b.id));
   assert.deepEqual(catalog.stories.map(story => story.id), expectedCatalog.map(story => story.id));
@@ -177,7 +177,7 @@ export async function verifyProduction(value) {
   return {
     origin: origin.origin,
     database: health.database,
-    course: { nativeLanguage: 'id', targetLanguage: 'tl', difficulty: 'A1' },
+    course: { nativeLanguage: 'id', targetLanguage: 'fil', difficulty: 'A1' },
     units: stories.length,
     lessons: stories.filter(story => story.kind === 'LESSON').length,
     dialogues: stories.filter(story => story.kind === 'DIALOGUE').length,

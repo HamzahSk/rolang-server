@@ -28,8 +28,8 @@ before(async () => {
 });
 after(async () => { await fixture?.close(); });
 const bearer = account => `Bearer ${account.token}`;
-const progress = { storyId: 'market_beginner', language: 'en', sentence: 1, completed: false };
-const operation = (data = progress) => ({ id: randomUUID(), kind: 'progress', key: 'market_beginner:en', data, deleted: false });
+const progress = { storyId: 'market_beginner', language: 'fil', sentence: 1, completed: false };
+const operation = (data = progress) => ({ id: randomUUID(), kind: 'progress', key: 'market_beginner:fil', data, deleted: false });
 
 test('complete seed is repeatable without duplicate curriculum records', async () => {
   assert.equal(await db.collection('stories').countDocuments({ difficulty: 'A1', status: 'published' }), 21);
@@ -39,17 +39,17 @@ test('complete seed is repeatable without duplicate curriculum records', async (
 
 test('catalog, filters, complete detail, translation, and vocabulary use the Android corpus contract', async () => {
   await request(app).get('/api/v1/health').expect(200);
-  const response = await request(app).get('/api/v1/stories?language=tl&difficulty=A1&category=Kehidupan%20sehari-hari&limit=1').expect(200);
+  const response = await request(app).get('/api/v1/stories?language=fil&difficulty=A1&category=Kehidupan%20sehari-hari&limit=1').expect(200);
   assert.equal(response.body.stories.length, 1);
   assert.equal(response.body.stories[0].level, 'BEGINNER');
   const id = response.body.stories[0].id;
   const detail = await request(app).get(`/api/v1/stories/${id}`).expect(200);
   assert.ok(detail.body.vocabulary.length);
-  assert.ok(detail.body.sentences[0].tl);
+  assert.ok(detail.body.sentences[0].fil);
   const translations = await request(app).get(`/api/v1/stories/${id}/translations?language=id`).expect(200);
   assert.equal(translations.body.sentences[0], detail.body.sentences[0].id);
-  const vocabulary = await request(app).get(`/api/v1/stories/${id}/vocabulary?language=en`).expect(200);
-  assert.ok(vocabulary.body.vocabulary.every(word => word.language === 'en'));
+  const vocabulary = await request(app).get(`/api/v1/stories/${id}/vocabulary?language=fil`).expect(200);
+  assert.ok(vocabulary.body.vocabulary.every(word => word.language === 'fil'));
   const page = await request(app).get('/api/v1/stories?limit=2').expect(200);
   const second = await request(app).get(`/api/v1/stories?limit=2&after=${page.body.next}`).expect(200);
   assert.ok(second.body.stories.every(s => s.id > page.body.next));
@@ -127,7 +127,7 @@ test('sync retries are idempotent, concurrent device writes have ordered revisio
 
 test('sync download pagination delivers every record and advances cursors without duplicating events', async () => {
   const operations = Array.from({ length: 512 }, (_, i) => ({ id: randomUUID(), kind: 'review', key: randomUUID(),
-    deleted: false, data: { vocabularyKey: 'en:id:market_beginner:maya', language: 'en', reference: 'id',
+    deleted: false, data: { vocabularyKey: 'fil:id:market_beginner:maya', language: 'fil', reference: 'id',
       reviewedAt: 1000 + i, correct: true, rating: 'GOOD' } }));
   for (let i = 0; i < operations.length; i += 100) {
     await request(app).post('/api/v1/me/sync').set('Authorization', bearer(other))
@@ -154,22 +154,22 @@ test('authentication rate limits persist across separate application instances',
 });
 
 test('learning REST endpoints persist preferences, progress/history, vocabulary and review schedules', async () => {
-  const sample = { language: 'en', reference: 'id', word: 'maya', translation: 'Maya', meaning: 'Name',
-    partOfSpeech: 'proper noun', explanation: 'Name', example: 'Maya walks.', exampleTranslation: 'Maya berjalan.',
-    storyId: 'market_beginner', storyTitle: 'Market', category: 'Everyday life', createdAt: 1000, dueAt: 2000,
+  const sample = { language: 'fil', reference: 'id', word: 'maya', translation: 'Maya', meaning: 'Nama orang',
+    partOfSpeech: 'nama diri', explanation: 'Nama orang', example: 'Naglalakad si Maya.', exampleTranslation: 'Maya berjalan.',
+    storyId: 'market_beginner', storyTitle: 'Pasar', category: 'Kehidupan sehari-hari', createdAt: 1000, dueAt: 2000,
     repetitions: 1, intervalDays: 1, ease: 2.5, lapses: 0, mastered: false, lastReviewedAt: 1000 };
-  const key = 'en:id:market_beginner:maya';
+  const key = 'fil:id:market_beginner:maya';
   const base = '/api/v1/me';
   await request(app).put(`${base}/vocabulary/${encodeURIComponent(key)}`).set('Authorization', bearer(learner)).send(sample).expect(200);
   const words = await request(app).get(`${base}/vocabulary`).set('Authorization', bearer(learner)).expect(200);
   assert.equal(words.body.records[0].data.dueAt, 2000);
-  await request(app).put(`${base}/progress/market_beginner:en`).set('Authorization', bearer(learner)).send(progress).expect(200);
+  await request(app).put(`${base}/progress/market_beginner:fil`).set('Authorization', bearer(learner)).send(progress).expect(200);
   const history = await request(app).get(`${base}/history`).set('Authorization', bearer(learner)).expect(200);
-  assert.ok(history.body.records.some(r => r.key === 'market_beginner:en'));
+  assert.ok(history.body.records.some(r => r.key === 'market_beginner:fil'));
   await request(app).put(`${base}/preferences/preferences`).set('Authorization', bearer(learner)).send({
-    target: 'tl', native: 'en', level: 'ADVANCED', fontSize: 24, dark: true }).expect(200);
+    target: 'fil', native: 'id', level: 'BEGINNER', fontSize: 24, dark: true }).expect(200);
   await request(app).put(`${base}/reviews/${randomUUID()}`).set('Authorization', bearer(learner)).send({
-    vocabularyKey: key, language: 'en', reference: 'id', reviewedAt: 1000, correct: true, rating: 'GOOD' }).expect(200);
+    vocabularyKey: key, language: 'fil', reference: 'id', reviewedAt: 1000, correct: true, rating: 'GOOD' }).expect(200);
   await request(app).get(`${base}/reviews`).set('Authorization', bearer(learner)).expect(200);
   for (const path of ['progress', 'preferences', 'reviews']) {
     const result = await request(app).get(`${base}/${path}`).set('Authorization', bearer(learner)).expect(200);
@@ -190,10 +190,10 @@ test('invalid filters, malformed JSON, large bodies, and unavailable databases r
 });
 
 test('all vocabulary statuses synchronize with manual metadata, idempotency, and legacy compatibility', async () => {
-  const key = 'en:id:market_beginner:market';
-  const sample = { language: 'en', reference: 'id', word: 'market', translation: 'pasar', meaning: 'A place to buy food',
-    partOfSpeech: 'noun', explanation: 'A morning market', example: 'Maya walks to the market.',
-    exampleTranslation: 'Maya berjalan ke pasar.', storyId: 'market_beginner', storyTitle: 'Market', category: 'Everyday life',
+  const key = 'fil:id:market_beginner:palengke';
+  const sample = { language: 'fil', reference: 'id', word: 'palengke', translation: 'pasar', meaning: 'Tempat membeli makanan',
+    partOfSpeech: 'nomina', explanation: 'Pasar tradisional', example: 'Naglalakad si Maya papunta sa palengke.',
+    exampleTranslation: 'Maya berjalan ke pasar.', storyId: 'market_beginner', storyTitle: 'Pasar', category: 'Kehidupan sehari-hari',
     createdAt: 1000, dueAt: 2000, repetitions: 0, intervalDays: 0, ease: 2.5, lapses: 0,
     mastered: false, lastReviewedAt: 0 };
   const post = input => request(app).post('/api/v1/me/sync').set('Authorization', bearer(learner)).send(input);
@@ -229,9 +229,9 @@ test('all vocabulary statuses synchronize with manual metadata, idempotency, and
 
 test('indexed catalog search accepts multilingual terms alongside filtering and pagination', async () => {
   const sample = JSON.parse(await readFile(new URL('../data/corpus.json', import.meta.url), 'utf8')).stories[0];
-  const result = await request(app).get('/api/v1/stories').query({ search: sample.title.en, limit: 1 }).expect(200);
+  const result = await request(app).get('/api/v1/stories').query({ search: sample.title.id, limit: 1 }).expect(200);
   assert.ok(result.body.stories.length);
-  const localized = await request(app).get('/api/v1/stories').query({ q: sample.title.tl, language: 'tl', difficulty: sample.difficulty }).expect(200);
+  const localized = await request(app).get('/api/v1/stories').query({ q: sample.title.fil, language: 'fil', difficulty: sample.difficulty }).expect(200);
   assert.ok(localized.body.stories.some(story => story.id === sample.id));
   await request(app).get('/api/v1/stories?search=' + 'x'.repeat(201)).expect(400);
   assert.equal((await request(app).get('/api/v1/stories?search=nonexistentwordqzx').expect(200)).body.stories.length, 0);

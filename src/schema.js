@@ -33,7 +33,8 @@ export const collections = {
     attempts: { bsonType: ['int', 'long', 'double'] }, expires_at: { bsonType: 'date' },
   } },
   dictionary: { required: ['language', 'word', 'content'], properties: {
-    language: { enum: ['en', 'id', 'tl'] }, word: { bsonType: 'string' }, content: { bsonType: 'object' },
+    // Legacy rows remain valid in place; public writes and new imports accept only id/fil.
+    language: { enum: ['en', 'id', 'tl', 'fil'] }, word: { bsonType: 'string' }, content: { bsonType: 'object' },
   } },
   corpus_imports: { required: ['metadata', 'imported_at'], properties: {
     metadata: { bsonType: 'object' }, imported_at: { bsonType: 'date' },
@@ -54,9 +55,9 @@ export const indexSpecs = {
     { key: { status: 1, difficulty: 1, category: 1, _id: 1 }, name: 'stories_filters' },
     { key: { status: 1, languages: 1, _id: 1 }, name: 'stories_language' },
     { key: { family: 1, _id: 1 }, name: 'stories_family' },
-    { key: { 'content.title.en': 'text', 'content.title.id': 'text', 'content.title.tl': 'text',
-      'content.summary.en': 'text', 'content.summary.id': 'text', 'content.summary.tl': 'text', category: 'text', family: 'text' },
-      name: 'stories_search', default_language: 'none', language_override: 'search_language' },
+    { key: { 'content.title.id': 'text', 'content.title.fil': 'text',
+      'content.summary.id': 'text', 'content.summary.fil': 'text', category: 'text', family: 'text' },
+      name: 'stories_search_id_fil', default_language: 'none', language_override: 'search_language' },
   ],
   story_chapters: [
     { key: { story_id: 1, id: 1 }, name: 'chapters_identity', unique: true },
@@ -123,7 +124,13 @@ export async function initializeDatabase(db, { timeoutMS = 10_000 } = {}) {
     const missing = [];
     for (const spec of specs) {
       const actual = indexes.find(index => index.name === spec.name);
-      if (!actual) missing.push(spec);
+      if (!actual) {
+        const isText = Object.values(spec.key).includes('text');
+        const legacyText = isText && indexes.find(index => index.name !== spec.name && index.weights);
+        if (legacyText)
+          throw notReady('A legacy story search index must be migrated before the Indonesian-Filipino index can be created. Run npm run migrate:language-pair; no learning records will be deleted.');
+        missing.push(spec);
+      }
       else if (!validIndex(actual, spec))
         throw notReady('A required MongoDB index has an incompatible definition. Review index conflicts without deleting content.');
     }

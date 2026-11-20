@@ -14,12 +14,12 @@ listed as 204, which has no body.
 | `GET /curriculum/modules` | None | 200: `{curriculumId,modules:[...]}` |
 | `GET /curriculum/modules/:id` | Module ID | 200: module metadata and ordered units |
 | `GET /lessons/:id` | Published lesson ID | 200: lesson details, vocabulary, exercises, answers, and chapter manifest |
-| `GET /lessons/:id/vocabulary` | Optional `language=en|id|tl` | 200: lesson vocabulary |
+| `GET /lessons/:id/vocabulary` | Optional `language=id|fil` | 200: lesson vocabulary |
 | `GET /lessons/:id/exercises` | Lesson ID | 200: exercises with answers and explanations |
-| `GET /stories` | Optional `language=en|id|tl`, `category`, `difficulty=A1|A2|B1|B2|C1|C2`, `search` (or `q`, 1–200 characters), `limit` (1–100, default 30), `after` (story ID) | 200: `{stories:[summary],next:ID|null}`; published stories only |
+| `GET /stories` | Optional `language=id|fil`, `category`, `difficulty=A1|A2|B1|B2|C1|C2`, `search` (or `q`, 1–200 characters), `limit` (1–100, default 30), `after` (story ID) | 200: `{stories:[summary],next:ID|null}`; published stories only |
 | `GET /stories/:id` | Story ID | 200: full authoring content plus `vocabulary`, `level`, `status`, `updatedAt` |
-| `GET /stories/:id/translations` | Required `language=en|id|tl` | 200: `{language,title,summary,sentences:[string]}` |
-| `GET /stories/:id/vocabulary` | Optional `language=en|id|tl` | 200: `{vocabulary:[lexeme]}` |
+| `GET /stories/:id/translations` | Required `language=id|fil` | 200: `{language,title,summary,sentences:[string]}` |
+| `GET /stories/:id/vocabulary` | Optional `language=id|fil` | 200: `{vocabulary:[lexeme]}` |
 
 Story summaries include `id`, `family`, `category`, `difficulty`, all-language
 `title` and `summary`, derived Android `level`, publication `status`, and ISO
@@ -35,14 +35,14 @@ index failures return `DATABASE_NOT_READY` (503). Neither health path
 exposes connection parameters, provider information, or database records.
 
 ```sh
-curl 'http://localhost:3000/api/v1/stories?difficulty=A1&language=en&limit=10'
+curl 'http://localhost:3000/api/v1/stories?difficulty=A1&language=fil&limit=10'
 curl http://localhost:3000/api/v1/stories/market_beginner
 curl 'http://localhost:3000/api/v1/stories/market_beginner/translations?language=id'
 ```
 
 Follow `next` using `after` until `next` is null. Lists sort by ID, not update time.
 Categories must match exactly; URL-encode category names with spaces.
-Search uses MongoDB's indexed text search over multilingual titles/summaries,
+Search uses MongoDB's indexed text search over Indonesian/Filipino titles and summaries,
 category and family. It matches words and quoted phrases without language
 stemming. Keep the same filters/search term when following a pagination cursor.
 
@@ -109,8 +109,8 @@ Use sync to download deletions.
 ```json
 {
   "kind": "progress",
-  "key": "market_beginner:en",
-  "data": {"storyId":"market_beginner","language":"en","sentence":1,"completed":false},
+  "key": "market_beginner:fil",
+  "data": {"storyId":"market_beginner","language":"fil","sentence":1,"completed":false},
   "deleted": false,
   "revision": 42
 }
@@ -124,19 +124,19 @@ Use sync to download deletions.
 | `profile` | `preferences` | `target`, `native`, `level`, `fontSize`, `dark` |
 
 Progress completion stays true across rereads and devices. Delete progress to
-reset completion. Language codes are `en`, `id`, `tl`; reference is the language
-used for translations. Vocabulary keys distinguish stories and language pairs.
+reset completion. Exposed learning records use target `fil` and reference `id`;
+the reference is the language used for translations. Vocabulary keys distinguish stories and language pairs.
 URL-encode keys when using them in paths.
 
 Complete vocabulary request body:
 
 ```json
 {
-  "language": "en", "reference": "id", "word": "reads",
-  "translation": "membaca", "meaning": "Understands written words.",
-  "partOfSpeech": "verb", "explanation": "Present tense.",
-  "example": "Maya reads.", "exampleTranslation": "Maya membaca.",
-  "storyId": "reader_a1", "storyTitle": "The reader", "category": "Everyday life",
+  "language": "fil", "reference": "id", "word": "nagbabasa",
+  "translation": "sedang membaca", "meaning": "Sedang membaca kata-kata tertulis.",
+  "partOfSpeech": "verba", "explanation": "Bentuk aspek sedang.",
+  "example": "Nagbabasa si Maya.", "exampleTranslation": "Maya sedang membaca.",
+  "storyId": "reader_a1", "storyTitle": "Pembaca", "category": "Kehidupan sehari-hari",
   "createdAt": 1000, "dueAt": 2000, "lastReviewedAt": 0,
   "repetitions": 0, "intervalDays": 0, "ease": 2.5, "lapses": 0,
   "mastered": false, "status": "LEARNING", "statusChangedAt": 1000
@@ -156,18 +156,19 @@ Review example:
 
 ```json
 {
-  "vocabularyKey": "en:id:reader_a1:reads", "language": "en", "reference": "id",
+  "vocabularyKey": "fil:id:reader_a1:nagbabasa", "language": "fil", "reference": "id",
   "reviewedAt": 2000, "correct": true, "rating": "GOOD"
 }
 ```
 
 Ratings are `AGAIN`, `HARD`, `GOOD`, `EASY`. Record an event and its updated
 vocabulary schedule together in one sync request; PUT of a review alone does
-not recalculate mastery. Android computes the schedule. Preferences use
-`level=BEGINNER|INTERMEDIATE|ADVANCED`, `fontSize=16–28`, and a boolean `dark`:
+not recalculate mastery. Android computes the schedule. Course preferences are
+fixed to `target=fil`, `native=id`, and `level=BEGINNER`; `fontSize=16–28` and
+`dark` remain adjustable:
 
 ```json
-{"target":"tl","native":"id","level":"BEGINNER","fontSize":20,"dark":false}
+{"target":"fil","native":"id","level":"BEGINNER","fontSize":20,"dark":false}
 ```
 
 ## Synchronization
@@ -179,7 +180,7 @@ not recalculate mastery. Android computes the schedule. Preferences use
 ```sh
 curl -X POST http://localhost:3000/api/v1/me/sync \
   -H "Authorization: Bearer $ROLANG_TOKEN" -H 'Content-Type: application/json' \
-  --data '{"cursor":0,"operations":[{"id":"00000000-0000-4000-8000-000000000001","kind":"progress","key":"market_beginner:en","deleted":false,"data":{"storyId":"market_beginner","language":"en","sentence":1,"completed":false}}]}'
+  --data '{"cursor":0,"operations":[{"id":"00000000-0000-4000-8000-000000000001","kind":"progress","key":"market_beginner:fil","deleted":false,"data":{"storyId":"market_beginner","language":"fil","sentence":1,"completed":false}}]}'
 ```
 
 200 response:
@@ -188,8 +189,8 @@ curl -X POST http://localhost:3000/api/v1/me/sync \
 {
   "acknowledged": ["00000000-0000-4000-8000-000000000001"],
   "records": [{
-    "kind":"progress", "key":"market_beginner:en",
-    "data":{"storyId":"market_beginner","language":"en","sentence":1,"completed":false},
+    "kind":"progress", "key":"market_beginner:fil",
+    "data":{"storyId":"market_beginner","language":"fil","sentence":1,"completed":false},
     "deleted":false, "revision":42
   }],
   "cursor":42, "hasMore":false
@@ -242,7 +243,7 @@ See [Stories](STORIES.md) for executable examples.
 
 Public catalogs return metadata only (including `sentenceCount`, `chapterCount`,
 `version`, `updatedAt`, curriculum order/kind and illustration/cover metadata).
-Language fields are localized maps for `en`, `id`, and `tl`. Existing ID-based
+Language fields are localized maps for `id` and `fil`. Existing ID-based
 keyset pagination, category/difficulty/language filters, and limit 1–100 remain.
 
 | Method and path | Response |

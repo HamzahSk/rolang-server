@@ -98,7 +98,7 @@ export function createApp(store = database()) {
   }
   api.get('/curriculum', async (_req, res) => {
     const rows = await curriculumRows();
-    res.json({ id: 'id-tl-a1', nativeLanguage: 'id', targetLanguage: 'tl', difficulty: 'A1', level: 'BEGINNER',
+    res.json({ id: 'id-fil-a1', nativeLanguage: 'id', targetLanguage: 'fil', difficulty: 'A1', level: 'BEGINNER',
       title: 'Tagalog A1 untuk penutur bahasa Indonesia', unitCount: rows.length,
       lessonCount: rows.filter(row => row.content.kind === 'LESSON').length,
       storyCount: rows.filter(row => row.content.kind === 'STORY').length,
@@ -106,13 +106,13 @@ export function createApp(store = database()) {
   });
   api.get('/curriculum/modules', async (_req, res) => {
     const rows = await curriculumRows();
-    res.json({ curriculumId: 'id-tl-a1', modules: curriculumModules(rows) });
+    res.json({ curriculumId: 'id-fil-a1', modules: curriculumModules(rows) });
   });
   api.get('/curriculum/modules/:id', async (req, res) => {
     const id = identifier.parse(req.params.id);
     const rows = (await curriculumRows()).filter(row => row.family === id);
     if (!rows.length) throw missing();
-    res.json({ curriculumId: 'id-tl-a1', module: curriculumModules(rows)[0], units: rows.map(storySummary) });
+    res.json({ curriculumId: 'id-fil-a1', module: curriculumModules(rows)[0], units: rows.map(storySummary) });
   });
   api.get('/stories', async (req, res) => {
     const query = catalogQuery.parse(req.query);

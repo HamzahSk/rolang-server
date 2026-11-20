@@ -55,12 +55,15 @@ If stories still reside only in `data/corpus.json`, import them from a trusted
 machine using the target MongoDB variables:
 
 ```sh
-node --env-file=.env scripts/import-corpus.js
+node --env-file=.env scripts/migrate-language-pair.js
+node --env-file=.env scripts/import-corpus.js --replace-existing
 node --env-file=.env scripts/import-corpus.js --verify
 npm run verify:production -- https://YOUR-DEPLOYMENT
 ```
 
-The import stores 21 units, 30 ordered chapter records, 1,486 dictionary entries
+For a database created by an earlier English/`tl` release, first follow
+[the language-pair migration](MIGRATION.md). The import stores 21 units, 30 ordered
+chapter records, 494 Filipino dictionary entries
 and 150 exercises, including all translations and practice fields. It initializes
 MongoDB automatically, avoids duplicates, and rolls back on differing existing
 content. Review conflicts and take a backup before explicitly considering

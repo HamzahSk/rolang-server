@@ -7,7 +7,7 @@ checks; the API is the recommended authoring route.
 ## Story format
 
 [examples/story.json](examples/story.json) is a complete, uploadable story: one
-paragraph in three languages and all seven required dictionary entries. The
+paragraph in Indonesian and Filipino with all required Filipino dictionary entries. The
 larger [sample library](../data/sample-stories.json) shows longer stories and
 multiple difficulty variants. A request has this structure:
 
@@ -15,15 +15,14 @@ multiple difficulty variants. A request has this structure:
 {
   "id": "reader_a1",
   "family": "reader",
-  "category": "Everyday life",
+  "category": "Kehidupan sehari-hari",
   "difficulty": "A1",
-  "title": {"en": "The reader", "id": "Pembaca", "tl": "Ang mambabasa"},
+  "title": {"id": "Pembaca", "fil": "Ang mambabasa"},
   "summary": {
-    "en": "Maya enjoys reading.",
     "id": "Maya suka membaca.",
-    "tl": "Mahilig magbasa si Maya."
+    "fil": "Mahilig magbasa si Maya."
   },
-  "sentences": [{"en": "Maya reads.", "id": "Maya membaca.", "tl": "Nagbabasa si Maya."}],
+  "sentences": [{"id": "Maya membaca.", "fil": "Nagbabasa si Maya."}],
   "vocabulary": []
 }
 ```
@@ -39,9 +38,9 @@ whole. Android displays the entries in order as continuous, scrollable text.
 | `family` | Same ID format; groups level variants of the same story |
 | `category` | Free-text genre, 1–100 characters, e.g. `Mystery` or `Nature & adventure` |
 | `difficulty` | Exact `A1`, `A2`, `B1`, `B2`, `C1`, or `C2` |
-| `title`, `summary` | Nonempty `en`, `id`, and `tl` strings; summary is the description |
-| `sentences` | 1–300 ordered paragraph objects; every object has all three languages |
-| `vocabulary` | 1–5000 unique dictionary entries covering every paragraph word |
+| `title`, `summary` | Nonempty `id` and `fil` strings; summary is the description |
+| `sentences` | 1–300 ordered paragraph objects; every object has Indonesian and Filipino text |
+| `vocabulary` | 1–5000 unique Filipino dictionary entries covering every Filipino paragraph word |
 
 Translated strings are trimmed, nonempty, and at most 10,000 characters each.
 Request bodies are limited to 2 MB. Android maps A1/A2 to Beginner, B1/B2 to
@@ -51,30 +50,28 @@ in authoring bodies. Optional `level` is accepted for legacy corpus imports.
 
 ## Dictionary and learning information
 
-Every distinct word in each language needs an entry, including names and grammar
-markers. For example, `reads` in the English paragraph needs:
+Every distinct word in each Filipino paragraph needs an entry, including names
+and grammar markers. For example, `nagbabasa` needs:
 
 ```json
 {
-  "language": "en",
-  "word": "reads",
-  "translations": {"en": "reads", "id": "membaca", "tl": "nagbabasa"},
+  "language": "fil",
+  "word": "nagbabasa",
+  "translations": {"id": "membaca", "fil": "nagbabasa"},
   "meanings": {
-    "en": "Looks at written words and understands them.",
-    "id": "Melihat dan memahami kata-kata tertulis.",
-    "tl": "Tumitingin at umuunawa sa mga nakasulat na salita."
+    "id": "Sedang membaca dan memahami kata-kata tertulis.",
+    "fil": "Kasalukuyang bumabasa at umuunawa sa mga nakasulat na salita."
   },
-  "pos": "verb",
+  "pos": "verba",
   "notes": {
-    "en": "Present tense: Maya reads.",
-    "id": "Bentuk waktu kini: Maya membaca.",
-    "tl": "Kasalukuyang kilos: nagbabasa si Maya."
+    "id": "Bentuk aspek sedang: Maya sedang membaca.",
+    "fil": "Kasalukuyang kilos: nagbabasa si Maya."
   }
 }
 ```
 
-`language` identifies the source word. All three reference languages are required
-in `translations`, `meanings`, and `notes`. `pos` is a nonempty part-of-speech
+`language` is `fil` for exposed course vocabulary. Indonesian and Filipino are
+required in `translations`, `meanings`, and `notes`. `pos` is a nonempty part-of-speech
 label. `notes` explain grammar or context. Android uses the tapped paragraph and
 its reference-language translation as the example sentence; there is no separate
 `examples` field in the story contract. Put curated examples in paragraphs or
@@ -83,8 +80,8 @@ notes. Vocabulary statuses belong to learners, not to story content.
 Words must already be lowercase; replace curly apostrophes with straight `'`.
 Tokenization keeps Unicode letters, accents, internal apostrophes, and hyphens.
 Do not include surrounding punctuation or spaces in `word`. Entries are unique
-by `language:word`; inflected forms such as `read` and `reads` are separate words.
-Only paragraph text requires coverage; titles and summaries do not.
+by `language:word`; inflected Filipino forms are separate words. Only Filipino
+paragraph text requires coverage; titles and summaries do not.
 
 ## Publish and update
 
@@ -130,7 +127,8 @@ Optional learning fields are `objectives`, `notes` (`title`/`text` translations)
 `focus` (language-to-expression arrays), `pronunciation` (translated guides,
 which may be empty), aligned `speakers`, and `exercises`. Exercises require an ID,
 type, translated `prompt`, `answer`, `explanation`, and choices/tokens as appropriate.
-Choice questions must include the answer in every language. See [the migrated
+Choice questions must include the answer in both languages, and every exercise
+includes a Filipino `speech` string for pronunciation practice. See [the migrated
 corpus](../data/corpus.json) for every supported exercise type. Dictionary entries
 may include `pronunciation` and `practice` (`prompt` translations and `choices`).
 Normalized focus phrases with spaces are supported.

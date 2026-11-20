@@ -32,7 +32,10 @@ The pinned MongoDB driver 6.21.0 supports these client operation deadlines.
 | corpus_imports | Corpus content hash | Verified course/import metadata and import date |
 | counters | Named counters | BSON Long story version and corpus import serialization |
 
-Identifiers, localized fields and versions retain their API meaning. Internal
+Identifiers, localized fields and versions retain their API meaning. New public
+content uses only `id` and `fil`. The dictionary validator deliberately continues
+to tolerate legacy `en`/`tl` rows in place so an upgrade never has to delete them;
+API validation and corpus imports accept only the focused pair. Internal
 compound hashes are not returned to clients. Existing documents, additional
 fields and unused administration records are preserved by initialization.
 
@@ -59,9 +62,11 @@ roles `readWrite` and `dbAdmin`, scoped to the target database, cover these acti
 
 Indexes support unique emails, dictionary identities, chapter identities/order,
 learning natural keys and sync operation identities; published catalog pagination,
-category/difficulty/language filters and multilingual text search; chapter/vocabulary
+category/difficulty/language filters and Indonesian/Filipino text search; chapter/vocabulary
 order; user revision scans; session/rate-limit expiration lookups. Text search
-uses `default_language=none`. Session and auth expiration indexes retain existing
+uses `default_language=none` and the name `stories_search_id_fil`. MongoDB permits
+only one text index per collection, so existing deployments run the explicit
+language-pair migration before normal readiness checks. Session and auth expiration indexes retain existing
 behavior without automatic TTL deletion.
 
 ## Content and learning consistency

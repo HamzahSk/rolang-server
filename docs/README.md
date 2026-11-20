@@ -1,8 +1,8 @@
 # Ro-Lang backend guide
 
 The backend uses Node.js 22, Express 5, Zod and the official MongoDB driver.
-MongoDB stores content, accounts, sessions and learning records. English (`en`),
-Indonesian (`id`) and Filipino/Tagalog (`tl`) maps are preserved. Android downloads
+MongoDB stores content, accounts, sessions and learning records. Public content
+uses Indonesian (`id`) and Filipino/Tagalog (`fil`) maps. Android downloads
 catalogs and ordered chapters, caches reading content and exchanges offline
 changes through `POST /api/v1/me/sync`.
 
@@ -15,7 +15,8 @@ changes through `POST /api/v1/me/sync`.
 | src/auth.js | Scrypt hashes, token hashes, roles and shared rate limits |
 | src/stories.js | Ordered vocabulary/chapters and API serialization |
 | src/learning.js | Revisions, completion merging, tombstones and sync deduplication |
-| scripts/import-corpus.js | Import/verify the entire retained original corpus |
+| scripts/migrate-language-pair.js | Replace only the legacy story-search index |
+| scripts/import-corpus.js | Import/verify the focused Indonesian → Tagalog corpus |
 | api/index.js / src/local.js | Vercel handler / standalone HTTP listener |
 
 ## Start locally
@@ -38,7 +39,8 @@ and indexes. No separate initialization command is needed.
 If content exists only in the bundled corpus, import it from a separate shell:
 
 ```sh
-node --env-file=.env scripts/import-corpus.js
+node --env-file=.env scripts/migrate-language-pair.js
+node --env-file=.env scripts/import-corpus.js --replace-existing
 node --env-file=.env scripts/import-corpus.js --verify
 node --env-file=.env scripts/doctor.js
 curl --fail-with-body http://localhost:3000/health
@@ -46,10 +48,12 @@ curl --fail-with-body 'http://localhost:3000/api/v1/stories?limit=2'
 ```
 
 The complete Indonesian → Tagalog A1 corpus contains 21 ordered units, 30 chapter
-records, 1,486 dictionary entries and 150 exercises. `seed.js` imports this full
+records, 494 Filipino dictionary entries and 150 exercises. `seed.js` imports this full
 corpus idempotently. Corpus import is atomic and repeatable. If content differs, it
 fails without changing the database. Review and back up content before explicitly
 choosing `--replace-existing`; initialization never chooses that option.
+See [Language-pair migration](MIGRATION.md) for the production upgrade order and
+non-destructive handling of old learning records.
 
 Node reads `process.env`. Use `--env-file=.env` locally, or set variables in the
 shell and run `npm start`, `npm run import:corpus` and `npm run doctor`.

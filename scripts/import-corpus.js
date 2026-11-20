@@ -23,7 +23,7 @@ export function prepareCorpus(corpus) {
         used.add(`${code}:${normalizeWord(value)}`);
         for (const word of value.match(/[\p{L}\p{M}]+(?:['’-][\p{L}\p{M}]+)*/gu) ?? []) used.add(`${code}:${normalizeWord(word)}`);
       } else if (Array.isArray(value)) value.forEach(v => visit(v,code));
-      else if (value && typeof value === 'object') for (const [key,v] of Object.entries(value)) visit(v,['en','id','tl'].includes(key) ? key : code);
+      else if (value && typeof value === 'object') for (const [key,v] of Object.entries(value)) visit(v,['id','fil'].includes(key) ? key : code);
     }
     visit(unit);
     const difficulty = { BEGINNER:'A1', INTERMEDIATE:'B1', ADVANCED:'C1' }[unit.level];

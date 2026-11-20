@@ -70,7 +70,7 @@ test('health automatically initializes and repairs MongoDB while preserving exis
     for (const [name, indexes] of Object.entries(indexSpecs))
       assert.ok((await fixture.db.collection(name).listIndexes().toArray()).length >= indexes.length + 1);
     const story = { _id: 'retained_story', family: 'reader', category: 'Reading', difficulty: 'A1', status: 'published',
-      content: { sentences: [{ en: 'Read.', id: 'Baca.', tl: 'Basahin.' }], exercises: [{ id: 'existing_exercise' }] },
+      content: { sentences: [{ id: 'Baca.', fil: 'Basahin.' }], exercises: [{ id: 'existing_exercise' }] },
       version: '9007199254740993', created_at: new Date(), updated_at: new Date(), extra_content: { keep: true } };
     await fixture.db.collection('stories').insertOne(story);
     // Stale administration markers are unrelated to runtime readiness.

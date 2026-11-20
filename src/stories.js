@@ -12,7 +12,7 @@ export function chaptersFor(story) {
 }
 export function vocabularyFor(chapter, vocabulary) {
   const keys = new Set();
-  for (const code of ['en', 'id', 'tl']) {
+  for (const code of ['fil']) {
     for (const sentence of chapter.sentences) for (const token of sentence[code].match(/[\p{L}\p{M}]+(?:['’-][\p{L}\p{M}]+)*/gu) ?? [])
       keys.add(code + ':' + normalizeWord(token));
     for (const word of chapter.focus?.[code] ?? []) keys.add(code + ':' + normalizeWord(word));
