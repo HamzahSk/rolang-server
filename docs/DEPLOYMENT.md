@@ -64,7 +64,7 @@ npm run verify:production -- https://YOUR-DEPLOYMENT
 For a database created by an earlier English/`tl` release, first follow
 [the language-pair migration](MIGRATION.md). The import stores 21 units, 30 ordered
 chapter records, 494 Filipino dictionary entries
-and 150 exercises, including all translations and practice fields. It initializes
+and 157 exercises, including all translations and practice fields. It initializes
 MongoDB automatically, avoids duplicates, and rolls back on differing existing
 content. Review conflicts and take a backup before explicitly considering
 `--replace-existing`. `seed.js` imports the same complete corpus idempotently.

@@ -1,5 +1,5 @@
 {
-  "version": 4,
+  "version": 5,
   "course": "Tagalog A1 untuk penutur bahasa Indonesia",
   "referenceLanguage": "id",
   "targetLanguage": "fil",
@@ -22,8 +22,16 @@
       },
       "objectives": [
         {
-          "id": "Menggunakan materi unit 1 secara mandiri.",
-          "fil": "Gamitin nang mag-isa ang wika sa yunit 1."
+          "id": "Membedakan lima vokal Filipino dan membacanya tanpa mengubah bunyi.",
+          "fil": "Makilala at mabigkas nang malinaw ang limang patinig sa Filipino."
+        },
+        {
+          "id": "Mengucapkan ng sebagai satu bunyi dan mengenali tekanan kata.",
+          "fil": "Mabigkas ang ng bilang isang tunog at mapansin ang diin sa salita."
+        },
+        {
+          "id": "Membaca kata baru dengan percaya diri saat berkenalan atau meminta bantuan.",
+          "fil": "Makabasa ng bagong salita nang may tiwala sa pagpapakilala o paghingi ng tulong."
         }
       ],
       "notes": [
@@ -74,12 +82,12 @@
           "fil": "Basahin nang malakas: ako, bahay, gabi, pagkain, at salamat."
         },
         {
-          "id": "Apakah kita dapat berlatih sekarang?",
-          "fil": "Maaari ba tayong magsanay ngayon?"
+          "id": "Baca kata pagkain dengan lantang dan jelas.",
+          "fil": "Basahin nang malakas at malinaw ang salitang pagkain."
         },
         {
-          "id": "Ya, mari gunakan kata baru dalam percakapan.",
-          "fil": "Oo, gamitin natin ang bagong salita sa usapan."
+          "id": "Terima kasih. Mari kita baca lagi dengan perlahan.",
+          "fil": "Salamat. Basahin natin ulit nang dahan-dahan."
         }
       ],
       "speakers": [
@@ -262,6 +270,232 @@
             "fil": "May limang malinaw na patinig ang Filipino: a, e, i, o, at u."
           }
         }
+      ],
+      "context": {
+        "id": "Pelafalan yang jelas membuat sapaan, nama, dan kata sehari-hari lebih mudah dipahami. Bagian ini penting sebelum Anda mulai berbicara dengan penutur Tagalog.",
+        "fil": "Mas madaling maunawaan ang pagbati, pangalan, at pang-araw-araw na salita kapag malinaw ang bigkas. Mahalaga ito bago makipag-usap sa mga nagsasalita ng Tagalog."
+      },
+      "grammar": [
+        {
+          "title": {
+            "id": "Vokal dan suku kata yang jelas",
+            "fil": "Malinaw na patinig at pantig"
+          },
+          "explanation": {
+            "id": "Ejaan Filipino cukup fonetis: setiap vokal biasanya tetap terdengar. Pecah kata menjadi bagian kecil, lalu gabungkan kembali dengan ritme yang rata.",
+            "fil": "Karaniwang malinaw ang bawat patinig sa baybay ng Filipino. Hatiin muna ang salita sa maliliit na pantig bago buuin muli."
+          },
+          "formula": {
+            "id": "konsonan + vokal → suku kata",
+            "fil": "katinig + patinig → pantig"
+          },
+          "rules": [
+            {
+              "id": "Ucapkan a, e, i, o, u dengan kualitas bunyi yang stabil.",
+              "fil": "Panatilihing malinaw ang tunog ng a, e, i, o, u."
+            },
+            {
+              "id": "Berhenti sejenak di batas suku kata saat kata masih baru.",
+              "fil": "Bahagyang huminto sa pagitan ng mga pantig kapag bago pa ang salita."
+            }
+          ],
+          "pitfalls": [
+            {
+              "id": "Jangan mengubah e menjadi i atau o menjadi u karena kebiasaan bahasa lain.",
+              "fil": "Huwag palitan ang e ng i o ang o ng u dahil sa nakasanayang bigkas."
+            },
+            {
+              "id": "Jangan menelan vokal terakhir; bunyinya tetap penting.",
+              "fil": "Huwag lunukin ang huling patinig; mahalaga pa rin ang tunog nito."
+            }
+          ]
+        },
+        {
+          "title": {
+            "id": "Bunyi ng dan tekanan kata",
+            "fil": "Tunog na ng at diin"
+          },
+          "explanation": {
+            "id": "Gabungan ng dibaca sebagai satu bunyi /ŋ/, seperti bunyi akhir pada kata Indonesia “sayang”. Tekanan juga dapat membedakan kata, jadi dengarkan audio sebelum meniru.",
+            "fil": "Binibigkas ang ng bilang iisang tunog /ŋ/. Maaari ring magbago ang kahulugan dahil sa diin, kaya makinig muna bago gumaya."
+          },
+          "formula": {
+            "id": "ng = /ŋ/ · diin = suku kata yang ditekankan",
+            "fil": "ng = /ŋ/ · diin = pantig na binibigyang-lakas"
+          },
+          "rules": [
+            {
+              "id": "Pertahankan ng sebagai satu unit ketika berada di awal atau akhir suku kata.",
+              "fil": "Panatilihing iisang yunit ang ng saanman ito makita."
+            },
+            {
+              "id": "Gunakan audio kalimat, bukan ejaan saja, untuk memeriksa tekanan.",
+              "fil": "Gamitin ang audio ng buong pangungusap upang masuri ang diin."
+            }
+          ],
+          "pitfalls": [
+            {
+              "id": "Jangan membacanya sebagai dua bunyi terpisah n-g.",
+              "fil": "Huwag itong bigkasin bilang magkahiwalay na n-g."
+            },
+            {
+              "id": "Jangan memberi tekanan kuat pada setiap suku kata sekaligus.",
+              "fil": "Huwag sabay-sabay na bigyang-diin ang lahat ng pantig."
+            }
+          ]
+        }
+      ],
+      "lessonVocabulary": [
+        {
+          "term": "ako",
+          "reading": "ako",
+          "partOfSpeech": {
+            "id": "kata ganti",
+            "fil": "panghalip"
+          },
+          "meaning": {
+            "id": "saya",
+            "fil": "Panghalip na ginagamit sa batayang padron ng araling ito."
+          },
+          "usage": {
+            "id": "Gunakan ako untuk merujuk peserta percakapan tanpa membedakan gender.",
+            "fil": "Gamitin ang ako upang tukuyin ang kalahok sa usapan nang walang kasarian."
+          }
+        },
+        {
+          "term": "bahay",
+          "reading": "bahay",
+          "partOfSpeech": {
+            "id": "kata benda",
+            "fil": "pangngalan"
+          },
+          "meaning": {
+            "id": "rumah",
+            "fil": "Pangngalan na ginagamit sa batayang padron ng araling ito."
+          },
+          "usage": {
+            "id": "Gunakan bahay untuk menyebut rumah; tambahkan ang, ng, atau sa sesuai perannya dalam kalimat.",
+            "fil": "Gamitin ang bahay bilang pangngalan at lagyan ng ang, ng, o sa ayon sa gamit nito sa pangungusap."
+          }
+        },
+        {
+          "term": "pagkain",
+          "reading": "pagkain",
+          "partOfSpeech": {
+            "id": "kata benda",
+            "fil": "pangngalan"
+          },
+          "meaning": {
+            "id": "makanan",
+            "fil": "Pangngalan na ginagamit sa batayang padron ng araling ito."
+          },
+          "usage": {
+            "id": "Gunakan pagkain untuk menyebut makanan; tambahkan ang, ng, atau sa sesuai perannya dalam kalimat.",
+            "fil": "Gamitin ang pagkain bilang pangngalan at lagyan ng ang, ng, o sa ayon sa gamit nito sa pangungusap."
+          }
+        },
+        {
+          "term": "salamat",
+          "reading": "salamat",
+          "partOfSpeech": {
+            "id": "ungkapan",
+            "fil": "parirala"
+          },
+          "meaning": {
+            "id": "terima kasih",
+            "fil": "Parirala na ginagamit sa batayang padron ng araling ito."
+          },
+          "usage": {
+            "id": "Pelajari salamat sebagai satu ungkapan dan tirukan ritmenya dalam kalimat lengkap.",
+            "fil": "Pag-aralan ang salamat bilang isang buong parirala at gayahin ang ritmo nito sa pangungusap."
+          }
+        }
+      ],
+      "exampleGuides": [
+        {
+          "pattern": {
+            "id": "konsonan + vokal → suku kata",
+            "fil": "katinig + patinig → pantig"
+          },
+          "breakdown": {
+            "id": "Kosakata kunci: May = ada/memiliki · limang = lima · malinaw = jelas · na = sudah/penghubung · patinig = vokal",
+            "fil": "Mahahalagang bahagi: May, limang, malinaw, na, patinig"
+          },
+          "tip": {
+            "id": "Ucapkan a, e, i, o, u dengan kualitas bunyi yang stabil.",
+            "fil": "Panatilihing malinaw ang tunog ng a, e, i, o, u."
+          }
+        },
+        {
+          "pattern": {
+            "id": "ng = /ŋ/ · diin = suku kata yang ditekankan",
+            "fil": "ng = /ŋ/ · diin = pantig na binibigyang-lakas"
+          },
+          "breakdown": {
+            "id": "Kosakata kunci: Iisang = satu · tunog = bunyi · ang = penanda fokus · ng = penanda objek/kepemilikan · sa = di/ke/pada",
+            "fil": "Mahahalagang bahagi: Iisang, tunog, ang, ng, sa"
+          },
+          "tip": {
+            "id": "Gunakan audio kalimat, bukan ejaan saja, untuk memeriksa tekanan.",
+            "fil": "Gamitin ang audio ng buong pangungusap upang masuri ang diin."
+          }
+        },
+        {
+          "pattern": {
+            "id": "ng = /ŋ/ · diin = suku kata yang ditekankan",
+            "fil": "ng = /ŋ/ · diin = pantig na binibigyang-lakas"
+          },
+          "breakdown": {
+            "id": "Kosakata kunci: Maaaring = dapat · magbago = mengubah · ang = penanda fokus · kahulugan = makna · dahil = karena",
+            "fil": "Mahahalagang bahagi: Maaaring, magbago, ang, kahulugan, dahil"
+          },
+          "tip": {
+            "id": "Pertahankan ng sebagai satu unit ketika berada di awal atau akhir suku kata.",
+            "fil": "Panatilihing iisang yunit ang ng saanman ito makita."
+          }
+        },
+        {
+          "pattern": {
+            "id": "konsonan + vokal → suku kata",
+            "fil": "katinig + patinig → pantig"
+          },
+          "breakdown": {
+            "id": "Kosakata kunci: Basahin = membaca · nang = penanda cara/waktu · malakas = keras; kuat · ako = saya · bahay = rumah",
+            "fil": "Mahahalagang bahagi: Basahin, nang, malakas, ako, bahay"
+          },
+          "tip": {
+            "id": "Berhenti sejenak di batas suku kata saat kata masih baru.",
+            "fil": "Bahagyang huminto sa pagitan ng mga pantig kapag bago pa ang salita."
+          }
+        },
+        {
+          "pattern": {
+            "id": "konsonan + vokal → suku kata",
+            "fil": "katinig + patinig → pantig"
+          },
+          "breakdown": {
+            "id": "Kosakata kunci: Basahin = membaca · nang = penanda cara/waktu · malakas = keras; kuat · at = dan · malinaw = jelas",
+            "fil": "Mahahalagang bahagi: Basahin, nang, malakas, at, malinaw"
+          },
+          "tip": {
+            "id": "Ucapkan a, e, i, o, u dengan kualitas bunyi yang stabil.",
+            "fil": "Panatilihing malinaw ang tunog ng a, e, i, o, u."
+          }
+        },
+        {
+          "pattern": {
+            "id": "ng = /ŋ/ · diin = suku kata yang ditekankan",
+            "fil": "ng = /ŋ/ · diin = pantig na binibigyang-lakas"
+          },
+          "breakdown": {
+            "id": "Kosakata kunci: Salamat = terima kasih · Basahin = membaca · natin = milik kita; kita · ulit = lagi · nang = penanda cara/waktu",
+            "fil": "Mahahalagang bahagi: Salamat, Basahin, natin, ulit, nang"
+          },
+          "tip": {
+            "id": "Gunakan audio kalimat, bukan ejaan saja, untuk memeriksa tekanan.",
+            "fil": "Gamitin ang audio ng buong pangungusap upang masuri ang diin."
+          }
+        }
       ]
     },
     {
@@ -277,8 +511,8 @@
         "fil": "Magandang umaga, kapitbahay!"
       },
       "summary": {
-        "id": "Percakapan pertama yang hangat dan alami.",
-        "fil": "Isang magiliw at natural na unang usapan."
+        "id": "Liza dan Arif berkenalan, menemukan tas yang sempat hilang, lalu berangkat ke pasar bersama.",
+        "fil": "Nagkakilala sina Liza at Arif, nakita ang nawawalang bag, at sabay na pumunta sa palengke."
       },
       "objectives": [
         {
@@ -336,9 +570,34 @@
         {
           "id": "Sampai nanti! Hati-hati!",
           "fil": "Mamaya ulit! Ingat!"
+        },
+        {
+          "id": "Tunggu, di mana tas kecil saya?",
+          "fil": "Sandali, nasaan ang maliit kong bag?"
+        },
+        {
+          "id": "Tasmu berada di bawah kursi.",
+          "fil": "Nasa ilalim ng silya ang bag mo."
+        },
+        {
+          "id": "Terima kasih! Itu hadiah dari nenek saya.",
+          "fil": "Salamat! Regalo iyon ng lola ko."
+        },
+        {
+          "id": "Busnya sudah datang, jadi mari kita pergi.",
+          "fil": "Dumarating na ang bus, kaya pumunta na tayo."
+        },
+        {
+          "id": "Baik, mari kita pergi ke pasar bersama.",
+          "fil": "Sige, sabay tayong pumunta sa palengke."
         }
       ],
       "speakers": [
+        "Liza",
+        "Arif",
+        "Liza",
+        "Arif",
+        "Liza",
         "Liza",
         "Arif",
         "Liza",
@@ -435,6 +694,25 @@
           "speech": {
             "fil": "Magandang umaga! Kumusta ka?"
           }
+        },
+        {
+          "id": "a1_02_greetings_twist_comprehension",
+          "type": "COMPREHENSION",
+          "prompt": {
+            "id": "Di mana Arif menemukan tas Liza?",
+            "fil": "Saan nakita ni Arif ang bag ni Liza?"
+          },
+          "answer": {
+            "id": "Di bawah kursi.",
+            "fil": "Sa ilalim ng silya."
+          },
+          "explanation": {
+            "id": "Jawabannya muncul pada perubahan atau kejutan di bagian akhir bacaan.",
+            "fil": "Makikita ang sagot sa pagbabago o sorpresa sa hulihan ng babasahin."
+          },
+          "speech": {
+            "fil": "Mamaya ulit! Ingat!"
+          }
         }
       ]
     },
@@ -456,8 +734,16 @@
       },
       "objectives": [
         {
-          "id": "Menggunakan materi unit 3 secara mandiri.",
-          "fil": "Gamitin nang mag-isa ang wika sa yunit 3."
+          "id": "Memilih ako, ikaw, siya, tayo, kami, dan sila sesuai pembicara.",
+          "fil": "Piliin nang tama ang ako, ikaw, siya, tayo, kami, at sila."
+        },
+        {
+          "id": "Membedakan tayo yang menyertakan lawan bicara dari kami yang tidak menyertakannya.",
+          "fil": "Ihiwalay ang inklusibong tayo sa eksklusibong kami."
+        },
+        {
+          "id": "Membentuk pertanyaan alami dengan kata tanya dan partikel ba.",
+          "fil": "Bumuo ng likas na tanong gamit ang salitang pananong at ba."
         }
       ],
       "notes": [
@@ -520,12 +806,12 @@
           "fil": "Kailan ang klase, at paano ka pumupunta roon?"
         },
         {
-          "id": "Apakah kita dapat berlatih sekarang?",
-          "fil": "Maaari ba tayong magsanay ngayon?"
+          "id": "Siapa dia, dan di mana dia tinggal?",
+          "fil": "Sino siya, at saan siya nakatira?"
         },
         {
-          "id": "Ya, mari gunakan kata baru dalam percakapan.",
-          "fil": "Oo, gamitin natin ang bagong salita sa usapan."
+          "id": "Kami bersaudara, tetapi kita teman sekelas.",
+          "fil": "Kami ang magkapatid, pero magkaklase tayo."
         }
       ],
       "speakers": [
@@ -697,6 +983,292 @@
             "fil": "Ako si Nia, at siya si Mara."
           }
         }
+      ],
+      "context": {
+        "id": "Pronomina dan kata tanya dipakai dalam hampir setiap percakapan: memperkenalkan diri, mengenal teman, dan meminta informasi dasar.",
+        "fil": "Ginagamit ang mga panghalip at salitang pananong sa halos lahat ng usapan: pagpapakilala, pagkilala sa kaibigan, at paghingi ng batayang impormasyon."
+      },
+      "grammar": [
+        {
+          "title": {
+            "id": "Pronomina orang dan cakupan kita",
+            "fil": "Panghalip panao at saklaw ng tayo"
+          },
+          "explanation": {
+            "id": "Pronomina Filipino tidak berubah menurut gender. Tayo mencakup lawan bicara, sedangkan kami hanya mencakup kelompok pembicara.",
+            "fil": "Hindi nagbabago ayon sa kasarian ang panghalip sa Filipino. Kasama ang kausap sa tayo ngunit hindi sa kami."
+          },
+          "formula": {
+            "id": "Ako/Ikaw/Siya + predikat · Tayo ≠ Kami",
+            "fil": "Ako/Ikaw/Siya + panaguri · Tayo ≠ Kami"
+          },
+          "rules": [
+            {
+              "id": "Gunakan siya untuk dia laki-laki maupun perempuan.",
+              "fil": "Gamitin ang siya para sa babae o lalaki."
+            },
+            {
+              "id": "Pilih tayo ketika mengajak orang yang sedang diajak bicara.",
+              "fil": "Piliin ang tayo kapag kasama ang kausap sa kilos."
+            }
+          ],
+          "pitfalls": [
+            {
+              "id": "Jangan menerjemahkan semua bentuk “kita/kami” Indonesia sebagai kami.",
+              "fil": "Huwag gawing kami ang lahat ng anyo ng kita/kami sa Indonesian."
+            },
+            {
+              "id": "Jangan menambahkan penanda gender pada siya.",
+              "fil": "Huwag dagdagan ng panandang kasarian ang siya."
+            }
+          ]
+        },
+        {
+          "title": {
+            "id": "Kata tanya dan ba",
+            "fil": "Salitang pananong at ba"
+          },
+          "explanation": {
+            "id": "Sino, ano, saan, kailan, bakit, dan paano meminta informasi tertentu. Ba mengubah pernyataan ya/tidak menjadi pertanyaan dan biasanya muncul setelah unsur pertama.",
+            "fil": "Humihingi ng tiyak na impormasyon ang sino, ano, saan, kailan, bakit, at paano. Ginagawang tanong na oo/hindi ng ba ang pahayag at karaniwang sumusunod sa unang bahagi."
+          },
+          "formula": {
+            "id": "Kata tanya + ...? · Predikat + ba + pronomina?",
+            "fil": "Salitang pananong + ...? · Panaguri + ba + panghalip?"
+          },
+          "rules": [
+            {
+              "id": "Pilih kata tanya berdasarkan informasi yang dicari.",
+              "fil": "Piliin ang salitang pananong ayon sa impormasyong kailangan."
+            },
+            {
+              "id": "Letakkan ba dekat awal predikat: Estudyante ka ba?",
+              "fil": "Ilagay ang ba malapit sa unang panaguri: Estudyante ka ba?"
+            }
+          ],
+          "pitfalls": [
+            {
+              "id": "Jangan memakai ano untuk menanyakan orang; gunakan sino.",
+              "fil": "Huwag gamitin ang ano para sa tao; gamitin ang sino."
+            },
+            {
+              "id": "Jangan memindahkan ba ke akhir kalimat panjang secara otomatis.",
+              "fil": "Huwag awtomatikong ilagay ang ba sa hulihan ng mahabang pangungusap."
+            }
+          ]
+        }
+      ],
+      "lessonVocabulary": [
+        {
+          "term": "ako",
+          "reading": "ako",
+          "partOfSpeech": {
+            "id": "kata ganti",
+            "fil": "panghalip"
+          },
+          "meaning": {
+            "id": "saya",
+            "fil": "Panghalip na ginagamit sa batayang padron ng araling ito."
+          },
+          "usage": {
+            "id": "Gunakan ako untuk merujuk peserta percakapan tanpa membedakan gender.",
+            "fil": "Gamitin ang ako upang tukuyin ang kalahok sa usapan nang walang kasarian."
+          }
+        },
+        {
+          "term": "ikaw",
+          "reading": "ikaw",
+          "partOfSpeech": {
+            "id": "kata ganti",
+            "fil": "panghalip"
+          },
+          "meaning": {
+            "id": "kamu",
+            "fil": "Panghalip na ginagamit sa batayang padron ng araling ito."
+          },
+          "usage": {
+            "id": "Gunakan ikaw untuk merujuk peserta percakapan tanpa membedakan gender.",
+            "fil": "Gamitin ang ikaw upang tukuyin ang kalahok sa usapan nang walang kasarian."
+          }
+        },
+        {
+          "term": "siya",
+          "reading": "siya",
+          "partOfSpeech": {
+            "id": "kata ganti",
+            "fil": "panghalip"
+          },
+          "meaning": {
+            "id": "dia",
+            "fil": "Panghalip na ginagamit sa batayang padron ng araling ito."
+          },
+          "usage": {
+            "id": "Gunakan siya untuk merujuk peserta percakapan tanpa membedakan gender.",
+            "fil": "Gamitin ang siya upang tukuyin ang kalahok sa usapan nang walang kasarian."
+          }
+        },
+        {
+          "term": "tayo",
+          "reading": "tayo",
+          "partOfSpeech": {
+            "id": "kata ganti",
+            "fil": "panghalip"
+          },
+          "meaning": {
+            "id": "kita",
+            "fil": "Panghalip na ginagamit sa batayang padron ng araling ito."
+          },
+          "usage": {
+            "id": "Gunakan tayo jika lawan bicara termasuk dalam kelompok “kita”.",
+            "fil": "Gamitin ang tayo kapag kasama sa grupo ang kausap."
+          }
+        },
+        {
+          "term": "kami",
+          "reading": "kami",
+          "partOfSpeech": {
+            "id": "kata ganti",
+            "fil": "panghalip"
+          },
+          "meaning": {
+            "id": "kami",
+            "fil": "Panghalip na ginagamit sa batayang padron ng araling ito."
+          },
+          "usage": {
+            "id": "Gunakan kami jika lawan bicara tidak termasuk dalam kelompok pembicara.",
+            "fil": "Gamitin ang kami kapag hindi kasama sa grupo ang kausap."
+          }
+        },
+        {
+          "term": "sila",
+          "reading": "sila",
+          "partOfSpeech": {
+            "id": "kata ganti",
+            "fil": "panghalip"
+          },
+          "meaning": {
+            "id": "mereka",
+            "fil": "Panghalip na ginagamit sa batayang padron ng araling ito."
+          },
+          "usage": {
+            "id": "Gunakan sila untuk merujuk peserta percakapan tanpa membedakan gender.",
+            "fil": "Gamitin ang sila upang tukuyin ang kalahok sa usapan nang walang kasarian."
+          }
+        }
+      ],
+      "exampleGuides": [
+        {
+          "pattern": {
+            "id": "Ako/Ikaw/Siya + predikat · Tayo ≠ Kami",
+            "fil": "Ako/Ikaw/Siya + panaguri · Tayo ≠ Kami"
+          },
+          "breakdown": {
+            "id": "Kosakata kunci: Ako = saya · si = penanda nama orang · Nia = Nia · at = dan · siya = dia",
+            "fil": "Mahahalagang bahagi: Ako, si, Nia, at, siya"
+          },
+          "tip": {
+            "id": "Gunakan siya untuk dia laki-laki maupun perempuan.",
+            "fil": "Gamitin ang siya para sa babae o lalaki."
+          }
+        },
+        {
+          "pattern": {
+            "id": "Ako/Ikaw/Siya + predikat · Tayo ≠ Kami",
+            "fil": "Ako/Ikaw/Siya + panaguri · Tayo ≠ Kami"
+          },
+          "breakdown": {
+            "id": "Kosakata kunci: Magkaklase = teman sekelas · tayo = kita · kasama = termasuk · ka = kamu",
+            "fil": "Mahahalagang bahagi: Magkaklase, tayo, kasama, ka"
+          },
+          "tip": {
+            "id": "Pilih tayo ketika mengajak orang yang sedang diajak bicara.",
+            "fil": "Piliin ang tayo kapag kasama ang kausap sa kilos."
+          }
+        },
+        {
+          "pattern": {
+            "id": "Ako/Ikaw/Siya + predikat · Tayo ≠ Kami",
+            "fil": "Ako/Ikaw/Siya + panaguri · Tayo ≠ Kami"
+          },
+          "breakdown": {
+            "id": "Kosakata kunci: Magkapatid = saudara · kami = kami · pero = tetapi · hindi = tidak · ka = kamu",
+            "fil": "Mahahalagang bahagi: Magkapatid, kami, pero, hindi, ka"
+          },
+          "tip": {
+            "id": "Gunakan siya untuk dia laki-laki maupun perempuan.",
+            "fil": "Gamitin ang siya para sa babae o lalaki."
+          }
+        },
+        {
+          "pattern": {
+            "id": "Kata tanya + ...? · Predikat + ba + pronomina?",
+            "fil": "Salitang pananong + ...? · Panaguri + ba + panghalip?"
+          },
+          "breakdown": {
+            "id": "Kosakata kunci: Sino = siapa · ang = penanda fokus · guro = guru · mo = milikmu; kamu · Saan = di mana",
+            "fil": "Mahahalagang bahagi: Sino, ang, guro, mo, Saan"
+          },
+          "tip": {
+            "id": "Letakkan ba dekat awal predikat: Estudyante ka ba?",
+            "fil": "Ilagay ang ba malapit sa unang panaguri: Estudyante ka ba?"
+          }
+        },
+        {
+          "pattern": {
+            "id": "Kata tanya + ...? · Predikat + ba + pronomina?",
+            "fil": "Salitang pananong + ...? · Panaguri + ba + panghalip?"
+          },
+          "breakdown": {
+            "id": "Kosakata kunci: Ano = apa · ang = penanda fokus · pangalan = nama · mo = milikmu; kamu · Bakit = mengapa",
+            "fil": "Mahahalagang bahagi: Ano, ang, pangalan, mo, Bakit"
+          },
+          "tip": {
+            "id": "Pilih kata tanya berdasarkan informasi yang dicari.",
+            "fil": "Piliin ang salitang pananong ayon sa impormasyong kailangan."
+          }
+        },
+        {
+          "pattern": {
+            "id": "Kata tanya + ...? · Predikat + ba + pronomina?",
+            "fil": "Salitang pananong + ...? · Panaguri + ba + panghalip?"
+          },
+          "breakdown": {
+            "id": "Kosakata kunci: Kailan = kapan · ang = penanda fokus · klase = kelas · at = dan · paano = bagaimana",
+            "fil": "Mahahalagang bahagi: Kailan, ang, klase, at, paano"
+          },
+          "tip": {
+            "id": "Letakkan ba dekat awal predikat: Estudyante ka ba?",
+            "fil": "Ilagay ang ba malapit sa unang panaguri: Estudyante ka ba?"
+          }
+        },
+        {
+          "pattern": {
+            "id": "Kata tanya + ...? · Predikat + ba + pronomina?",
+            "fil": "Salitang pananong + ...? · Panaguri + ba + panghalip?"
+          },
+          "breakdown": {
+            "id": "Kosakata kunci: Sino = siapa · siya = dia · at = dan · saan = di mana · nakatira = tinggal",
+            "fil": "Mahahalagang bahagi: Sino, siya, at, saan, nakatira"
+          },
+          "tip": {
+            "id": "Pilih kata tanya berdasarkan informasi yang dicari.",
+            "fil": "Piliin ang salitang pananong ayon sa impormasyong kailangan."
+          }
+        },
+        {
+          "pattern": {
+            "id": "Ako/Ikaw/Siya + predikat · Tayo ≠ Kami",
+            "fil": "Ako/Ikaw/Siya + panaguri · Tayo ≠ Kami"
+          },
+          "breakdown": {
+            "id": "Kosakata kunci: Kami = kami · ang = penanda fokus · magkapatid = saudara · pero = tetapi · magkaklase = teman sekelas",
+            "fil": "Mahahalagang bahagi: Kami, ang, magkapatid, pero, magkaklase"
+          },
+          "tip": {
+            "id": "Pilih tayo ketika mengajak orang yang sedang diajak bicara.",
+            "fil": "Piliin ang tayo kapag kasama ang kausap sa kilos."
+          }
+        }
       ]
     },
     {
@@ -717,8 +1289,16 @@
       },
       "objectives": [
         {
-          "id": "Menggunakan materi unit 21 secara mandiri.",
-          "fil": "Gamitin nang mag-isa ang wika sa yunit 21."
+          "id": "Menandai fokus kalimat dengan ang atau si.",
+          "fil": "Markahan ang pokus ng pangungusap gamit ang ang o si."
+        },
+        {
+          "id": "Memakai ng untuk objek, kepemilikan, atau pelaku yang tidak difokuskan.",
+          "fil": "Gamitin ang ng para sa layon, pagmamay-ari, o di-pokus na tagaganap."
+        },
+        {
+          "id": "Memakai sa untuk lokasi, arah, waktu, dan penerima.",
+          "fil": "Gamitin ang sa para sa lugar, direksiyon, oras, at tatanggap."
         }
       ],
       "notes": [
@@ -775,12 +1355,12 @@
           "fil": "Nasaan ang aklat? Nasa mesa ang aklat, sagot ni Mara."
         },
         {
-          "id": "Apakah kita dapat berlatih sekarang?",
-          "fil": "Maaari ba tayong magsanay ngayon?"
+          "id": "Mara membaca buku di rumah.",
+          "fil": "Nagbabasa si Mara ng aklat sa bahay."
         },
         {
-          "id": "Ya, mari gunakan kata baru dalam percakapan.",
-          "fil": "Oo, gamitin natin ang bagong salita sa usapan."
+          "id": "Guru dan para siswa berada di perpustakaan.",
+          "fil": "Nasa aklatan ang guro at ang mga estudyante."
         }
       ],
       "speakers": [
@@ -824,14 +1404,12 @@
             "id": [
               "penanda fokus",
               "penanda objek",
-              "penanda lokasi",
-              "penanda fokus"
+              "penanda lokasi"
             ],
             "fil": [
               "panandang ang",
               "panandang ng",
-              "panandang sa",
-              "panandang ang"
+              "panandang sa"
             ]
           },
           "answer": {
@@ -950,6 +1528,244 @@
             "fil": "Nasa mesa ang aklat."
           }
         }
+      ],
+      "context": {
+        "id": "Ang, ng, dan sa membantu pendengar memahami siapa atau apa yang dibicarakan, apa yang terkena tindakan, dan di mana peristiwa terjadi.",
+        "fil": "Tinutulungan ng ang, ng, at sa ang tagapakinig na malaman ang pokus, layon, at lugar ng pangyayari."
+      },
+      "grammar": [
+        {
+          "title": {
+            "id": "Fokus dengan ang, objek dengan ng",
+            "fil": "Pokus na ang at layon na ng"
+          },
+          "explanation": {
+            "id": "Ang memperkenalkan unsur yang menjadi fokus pembicaraan. Ng sering menandai objek atau hubungan yang tidak menjadi fokus utama.",
+            "fil": "Ipinakikilala ng ang ang pokus ng usapan. Madalas namang minamarkahan ng ng ang layon o ugnayang hindi pokus."
+          },
+          "formula": {
+            "id": "Predikat + ang [fokus] + ng [objek]",
+            "fil": "Panaguri + ang [pokus] + ng [layon]"
+          },
+          "rules": [
+            {
+              "id": "Gunakan si untuk satu nama orang dan ang untuk nomina umum.",
+              "fil": "Gamitin ang si sa isang pangalan at ang sa pangngalang pambalana."
+            },
+            {
+              "id": "Baca ng sebagai penanda gramatikal, bukan otomatis sebagai “dari”.",
+              "fil": "Basahin ang ng bilang pananda, hindi laging katumbas ng “mula sa”."
+            }
+          ],
+          "pitfalls": [
+            {
+              "id": "Jangan menganggap urutan kata saja selalu menunjukkan subjek dan objek.",
+              "fil": "Huwag umasa sa ayos ng salita lamang upang malaman ang pokus at layon."
+            },
+            {
+              "id": "Jangan memakai ang di depan setiap nomina.",
+              "fil": "Huwag lagyan ng ang ang bawat pangngalan."
+            }
+          ]
+        },
+        {
+          "title": {
+            "id": "Lokasi dan tujuan dengan sa",
+            "fil": "Lugar at patutunguhan gamit ang sa"
+          },
+          "explanation": {
+            "id": "Sa menghubungkan tindakan dengan tempat, tujuan, waktu, atau penerima. Bentuk nasa menyatakan keberadaan di suatu lokasi.",
+            "fil": "Iniuugnay ng sa ang kilos sa lugar, patutunguhan, oras, o tatanggap. Nagsasaad naman ng kinaroroonan ang nasa."
+          },
+          "formula": {
+            "id": "Nasa + tempat · kata kerja + sa + tempat/tujuan",
+            "fil": "Nasa + lugar · pandiwa + sa + lugar/patutunguhan"
+          },
+          "rules": [
+            {
+              "id": "Pakai nasa untuk menjawab pertanyaan nasaan.",
+              "fil": "Gamitin ang nasa bilang sagot sa nasaan."
+            },
+            {
+              "id": "Pakai sa setelah kata kerja gerak menuju lokasi.",
+              "fil": "Gamitin ang sa pagkatapos ng pandiwang patungo sa lugar."
+            }
+          ],
+          "pitfalls": [
+            {
+              "id": "Jangan memakai nasa untuk gerakan menuju tempat.",
+              "fil": "Huwag gamitin ang nasa para sa kilos na papunta sa lugar."
+            },
+            {
+              "id": "Jangan menghilangkan sa dari frasa lokasi yang membutuhkannya.",
+              "fil": "Huwag alisin ang sa sa pariralang panlunan na nangangailangan nito."
+            }
+          ]
+        }
+      ],
+      "lessonVocabulary": [
+        {
+          "term": "panandang ang",
+          "reading": "panandang ang",
+          "partOfSpeech": {
+            "id": "penanda tata bahasa",
+            "fil": "panandang pambalarila"
+          },
+          "meaning": {
+            "id": "penanda fokus",
+            "fil": "Panandang pambalarila na ginagamit sa batayang padron ng araling ito."
+          },
+          "usage": {
+            "id": "Pakai ang untuk menandai fokus berupa nomina umum; gunakan si untuk satu nama orang.",
+            "fil": "Gamitin ang ang sa pokus na pangngalang pambalana at si sa isang pangalan."
+          }
+        },
+        {
+          "term": "panandang ng",
+          "reading": "panandang ng",
+          "partOfSpeech": {
+            "id": "penanda tata bahasa",
+            "fil": "panandang pambalarila"
+          },
+          "meaning": {
+            "id": "penanda objek",
+            "fil": "Panandang pambalarila na ginagamit sa batayang padron ng araling ito."
+          },
+          "usage": {
+            "id": "Pakai ng untuk objek, pemilik, atau pelaku yang tidak menjadi fokus; jangan selalu menerjemahkannya sebagai “dari”.",
+            "fil": "Gamitin ang ng sa layon, may-ari, o di-pokus na tagaganap; hindi ito laging “mula sa”."
+          }
+        },
+        {
+          "term": "panandang sa",
+          "reading": "panandang sa",
+          "partOfSpeech": {
+            "id": "penanda tata bahasa",
+            "fil": "panandang pambalarila"
+          },
+          "meaning": {
+            "id": "penanda lokasi",
+            "fil": "Panandang pambalarila na ginagamit sa batayang padron ng araling ito."
+          },
+          "usage": {
+            "id": "Pakai sa untuk tempat, arah, waktu, atau penerima, dan nasa untuk menyatakan keberadaan.",
+            "fil": "Gamitin ang sa sa lugar, direksiyon, oras, o tatanggap, at nasa sa kinaroroonan."
+          }
+        }
+      ],
+      "exampleGuides": [
+        {
+          "pattern": {
+            "id": "Nasa + tempat · kata kerja + sa + tempat/tujuan",
+            "fil": "Nasa + lugar · pandiwa + sa + lugar/patutunguhan"
+          },
+          "breakdown": {
+            "id": "Kosakata kunci: Nasa = berada di · mesa = meja · ang = penanda fokus · aklat = buku",
+            "fil": "Mahahalagang bahagi: Nasa, mesa, ang, aklat"
+          },
+          "tip": {
+            "id": "Pakai nasa untuk menjawab pertanyaan nasaan.",
+            "fil": "Gamitin ang nasa bilang sagot sa nasaan."
+          }
+        },
+        {
+          "pattern": {
+            "id": "Predikat + ang [fokus] + ng [objek]",
+            "fil": "Panaguri + ang [pokus] + ng [layon]"
+          },
+          "breakdown": {
+            "id": "Kosakata kunci: Nagbabasa = sedang membaca · ng = penanda objek/kepemilikan · aklat = buku · si = penanda nama orang · Mara = Mara",
+            "fil": "Mahahalagang bahagi: Nagbabasa, ng, aklat, si, Mara"
+          },
+          "tip": {
+            "id": "Baca ng sebagai penanda gramatikal, bukan otomatis sebagai “dari”.",
+            "fil": "Basahin ang ng bilang pananda, hindi laging katumbas ng “mula sa”."
+          }
+        },
+        {
+          "pattern": {
+            "id": "Predikat + ang [fokus] + ng [objek]",
+            "fil": "Panaguri + ang [pokus] + ng [layon]"
+          },
+          "breakdown": {
+            "id": "Kosakata kunci: Minamarkahan = menandai · ng = penanda objek/kepemilikan · ang = penanda fokus · pangunahing = utama · pokus = fokus",
+            "fil": "Mahahalagang bahagi: Minamarkahan, ng, ang, pangunahing, pokus"
+          },
+          "tip": {
+            "id": "Gunakan si untuk satu nama orang dan ang untuk nomina umum.",
+            "fil": "Gamitin ang si sa isang pangalan at ang sa pangngalang pambalana."
+          }
+        },
+        {
+          "pattern": {
+            "id": "Predikat + ang [fokus] + ng [objek]",
+            "fil": "Panaguri + ang [pokus] + ng [layon]"
+          },
+          "breakdown": {
+            "id": "Kosakata kunci: Madalas = sering · markahan = menandai · ng = penanda objek/kepemilikan · ang = penanda fokus · layon = objek atau tujuan",
+            "fil": "Mahahalagang bahagi: Madalas, markahan, ng, ang, layon"
+          },
+          "tip": {
+            "id": "Baca ng sebagai penanda gramatikal, bukan otomatis sebagai “dari”.",
+            "fil": "Basahin ang ng bilang pananda, hindi laging katumbas ng “mula sa”."
+          }
+        },
+        {
+          "pattern": {
+            "id": "Nasa + tempat · kata kerja + sa + tempat/tujuan",
+            "fil": "Nasa + lugar · pandiwa + sa + lugar/patutunguhan"
+          },
+          "breakdown": {
+            "id": "Kosakata kunci: Minamarkahan = menandai · ng = penanda objek/kepemilikan · sa = di/ke/pada · ang = penanda fokus · lugar = tempat",
+            "fil": "Mahahalagang bahagi: Minamarkahan, ng, sa, ang, lugar"
+          },
+          "tip": {
+            "id": "Pakai nasa untuk menjawab pertanyaan nasaan.",
+            "fil": "Gamitin ang nasa bilang sagot sa nasaan."
+          }
+        },
+        {
+          "pattern": {
+            "id": "Nasa + tempat · kata kerja + sa + tempat/tujuan",
+            "fil": "Nasa + lugar · pandiwa + sa + lugar/patutunguhan"
+          },
+          "breakdown": {
+            "id": "Kosakata kunci: Nasaan = di mana · ang = penanda fokus · aklat = buku · Nasa = berada di · mesa = meja",
+            "fil": "Mahahalagang bahagi: Nasaan, ang, aklat, Nasa, mesa"
+          },
+          "tip": {
+            "id": "Pakai sa setelah kata kerja gerak menuju lokasi.",
+            "fil": "Gamitin ang sa pagkatapos ng pandiwang patungo sa lugar."
+          }
+        },
+        {
+          "pattern": {
+            "id": "Predikat + ang [fokus] + ng [objek]",
+            "fil": "Panaguri + ang [pokus] + ng [layon]"
+          },
+          "breakdown": {
+            "id": "Kosakata kunci: Nagbabasa = sedang membaca · si = penanda nama orang · Mara = Mara · ng = penanda objek/kepemilikan · aklat = buku",
+            "fil": "Mahahalagang bahagi: Nagbabasa, si, Mara, ng, aklat"
+          },
+          "tip": {
+            "id": "Gunakan si untuk satu nama orang dan ang untuk nomina umum.",
+            "fil": "Gamitin ang si sa isang pangalan at ang sa pangngalang pambalana."
+          }
+        },
+        {
+          "pattern": {
+            "id": "Nasa + tempat · kata kerja + sa + tempat/tujuan",
+            "fil": "Nasa + lugar · pandiwa + sa + lugar/patutunguhan"
+          },
+          "breakdown": {
+            "id": "Kosakata kunci: Nasa = berada di · aklatan = perpustakaan · ang = penanda fokus · guro = guru · at = dan",
+            "fil": "Mahahalagang bahagi: Nasa, aklatan, ang, guro, at"
+          },
+          "tip": {
+            "id": "Pakai sa setelah kata kerja gerak menuju lokasi.",
+            "fil": "Gamitin ang sa pagkatapos ng pandiwang patungo sa lugar."
+          }
+        }
       ]
     },
     {
@@ -965,8 +1781,8 @@
         "fil": "Pagkilala kay Joel sa paaralan"
       },
       "summary": {
-        "id": "Dua siswa bertukar informasi pribadi.",
-        "fil": "Nagpapalitan ng personal na impormasyon ang dalawang mag-aaral."
+        "id": "Sari bertemu Joel, lalu keduanya menyelesaikan kekeliruan kecil pada daftar kelas.",
+        "fil": "Nakilala ni Sari si Joel at inayos nila ang maliit na pagkakamali sa listahan ng klase."
       },
       "objectives": [
         {
@@ -1028,6 +1844,26 @@
         {
           "id": "Ya. Sekarang kita teman sekelas!",
           "fil": "Oo. Magkaklase na tayo!"
+        },
+        {
+          "id": "Tunggu, nama saya tidak ada di daftar.",
+          "fil": "Sandali, wala ang pangalan ko sa listahan."
+        },
+        {
+          "id": "Namamu ada di daftar, tetapi yang tertulis berbeda.",
+          "fil": "Nasa listahan ang pangalan mo, pero iba ang nakasulat."
+        },
+        {
+          "id": "Itu bukan saya, kata Sari.",
+          "fil": "Hindi ako iyon, sabi ni Sari."
+        },
+        {
+          "id": "Jangan khawatir; guru akan membantu.",
+          "fil": "Huwag kang mag-alala; tutulong ang guro."
+        },
+        {
+          "id": "Terima kasih. Kita tetap menjadi teman sekelas!",
+          "fil": "Salamat. Magkaklase pa rin tayo!"
         }
       ],
       "speakers": [
@@ -1036,7 +1872,12 @@
         "Sari",
         "Joel",
         "Sari",
-        "Joel"
+        "Joel",
+        "Sari",
+        "Joel",
+        "Sari",
+        "Joel",
+        "Sari"
       ],
       "exercises": [
         {
@@ -1128,6 +1969,25 @@
           "speech": {
             "fil": "Hi! Ano ang pangalan mo?"
           }
+        },
+        {
+          "id": "a1_04_meet_joel_twist_comprehension",
+          "type": "COMPREHENSION",
+          "prompt": {
+            "id": "Apa masalah kecil pada daftar kelas?",
+            "fil": "Ano ang maliit na problema sa listahan ng klase?"
+          },
+          "answer": {
+            "id": "Nama yang tertulis berbeda.",
+            "fil": "Iba ang pangalang nakasulat."
+          },
+          "explanation": {
+            "id": "Jawabannya muncul pada perubahan atau kejutan di bagian akhir bacaan.",
+            "fil": "Makikita ang sagot sa pagbabago o sorpresa sa hulihan ng babasahin."
+          },
+          "speech": {
+            "fil": "Estudyante ka ba?"
+          }
         }
       ]
     },
@@ -1149,8 +2009,16 @@
       },
       "objectives": [
         {
-          "id": "Menggunakan materi unit 5 secara mandiri.",
-          "fil": "Gamitin nang mag-isa ang wika sa yunit 5."
+          "id": "Menggunakan angka dasar untuk jumlah orang dan benda.",
+          "fil": "Gamitin ang batayang bilang para sa tao at bagay."
+        },
+        {
+          "id": "Mengenali bentuk angka asli dan bentuk waktu yang memakai alas-.",
+          "fil": "Makilala ang katutubong bilang at anyong oras na may alas-."
+        },
+        {
+          "id": "Menanyakan serta menyatakan hari, tanggal, dan jam pertemuan.",
+          "fil": "Magtanong at magsabi ng araw, petsa, at oras ng pagkikita."
         }
       ],
       "notes": [
@@ -1207,12 +2075,12 @@
           "fil": "Magkita tayo sa Biyernes nang alas-singko ng hapon."
         },
         {
-          "id": "Apakah kita dapat berlatih sekarang?",
-          "fil": "Maaari ba tayong magsanay ngayon?"
+          "id": "Pukul berapa kelas pada hari Senin?",
+          "fil": "Ano ang oras ng klase sa Lunes?"
         },
         {
-          "id": "Ya, mari gunakan kata baru dalam percakapan.",
-          "fil": "Oo, gamitin natin ang bagong salita sa usapan."
+          "id": "Kelasnya hari Jumat pukul lima sore.",
+          "fil": "Ang klase ay sa Biyernes nang alas-singko ng hapon."
         }
       ],
       "speakers": [
@@ -1391,6 +2259,262 @@
             "fil": "May dalawa akong kapatid na lalaki at isang kapatid na babae."
           }
         }
+      ],
+      "context": {
+        "id": "Angka dan waktu dibutuhkan saat menyebut harga, membuat janji, membaca jadwal, atau memberi tanggal lahir.",
+        "fil": "Kailangan ang bilang at oras sa pagsasabi ng presyo, paggawa ng tipanan, pagbasa ng iskedyul, at pagbibigay ng kaarawan."
+      },
+      "grammar": [
+        {
+          "title": {
+            "id": "Bilangan dan penghubung -ng/na",
+            "fil": "Bilang at pang-angkop na -ng/na"
+          },
+          "explanation": {
+            "id": "Bilangan dapat berdiri sendiri atau menerangkan nomina. Bentuk penghubung -ng/na membuat frasa terdengar alami, seperti dalawang kapatid.",
+            "fil": "Maaaring tumayo ang bilang o maglarawan ng pangngalan. Ginagawang likas ng -ng/na ang parirala, gaya ng dalawang kapatid."
+          },
+          "formula": {
+            "id": "bilangan + (-ng/na) + nomina",
+            "fil": "bilang + (-ng/na) + pangngalan"
+          },
+          "rules": [
+            {
+              "id": "Tambahkan -ng setelah bentuk yang berakhir vokal bila diperlukan.",
+              "fil": "Idagdag ang -ng pagkatapos ng anyong nagtatapos sa patinig kung kailangan."
+            },
+            {
+              "id": "Gunakan ng antara satuan dan barang: isang kilo ng kamatis.",
+              "fil": "Gamitin ang ng sa pagitan ng sukat at bagay: isang kilo ng kamatis."
+            }
+          ],
+          "pitfalls": [
+            {
+              "id": "Jangan mencampur penghubung -ng dengan penanda ng tanpa melihat fungsinya.",
+              "fil": "Huwag pagpalitin ang pang-angkop na -ng at panandang ng."
+            },
+            {
+              "id": "Jangan menerjemahkan urutan angka Indonesia kata demi kata untuk semua bilangan.",
+              "fil": "Huwag isalin nang salita-sa-salita ang lahat ng bilang mula Indonesian."
+            }
+          ]
+        },
+        {
+          "title": {
+            "id": "Hari, tanggal, dan jam",
+            "fil": "Araw, petsa, at oras"
+          },
+          "explanation": {
+            "id": "Gunakan sa untuk hari atau tanggal tujuan, dan nang sebelum jam dalam banyak ungkapan jadwal. Alas- lazim dipakai untuk menyebut jam.",
+            "fil": "Gamitin ang sa para sa araw o petsa at madalas ang nang bago ang oras sa iskedyul. Karaniwan ang alas- sa pagsasabi ng oras."
+          },
+          "formula": {
+            "id": "sa + hari/tanggal · nang alas- + jam",
+            "fil": "sa + araw/petsa · nang alas- + oras"
+          },
+          "rules": [
+            {
+              "id": "Tanyakan jam dengan Anong oras... ?",
+              "fil": "Magtanong ng oras gamit ang Anong oras... ?"
+            },
+            {
+              "id": "Tambahkan umaga, hapon, atau gabi jika waktu perlu diperjelas.",
+              "fil": "Idagdag ang umaga, hapon, o gabi kapag kailangang linawin ang oras."
+            }
+          ],
+          "pitfalls": [
+            {
+              "id": "Jangan memakai nang untuk semua tanggal; sa lebih lazim untuk hari tujuan.",
+              "fil": "Huwag gamitin ang nang sa lahat ng petsa; mas karaniwan ang sa para sa araw."
+            },
+            {
+              "id": "Jangan melupakan konteks pagi/sore bila jam dapat ambigu.",
+              "fil": "Huwag kalimutan ang umaga/hapon/gabi kapag maaaring malabo ang oras."
+            }
+          ]
+        }
+      ],
+      "lessonVocabulary": [
+        {
+          "term": "isa",
+          "reading": "isa",
+          "partOfSpeech": {
+            "id": "bilangan",
+            "fil": "pamilang"
+          },
+          "meaning": {
+            "id": "satu",
+            "fil": "Pamilang na ginagamit sa batayang padron ng araling ito."
+          },
+          "usage": {
+            "id": "Gunakan isa untuk menyatakan jumlah; perhatikan penghubung -ng/na sebelum nomina.",
+            "fil": "Gamitin ang isa sa dami at pansinin ang pang-angkop na -ng/na bago ang pangngalan."
+          }
+        },
+        {
+          "term": "dalawa",
+          "reading": "dalawa",
+          "partOfSpeech": {
+            "id": "bilangan",
+            "fil": "pamilang"
+          },
+          "meaning": {
+            "id": "dua",
+            "fil": "Pamilang na ginagamit sa batayang padron ng araling ito."
+          },
+          "usage": {
+            "id": "Gunakan dalawa untuk menyatakan jumlah; perhatikan penghubung -ng/na sebelum nomina.",
+            "fil": "Gamitin ang dalawa sa dami at pansinin ang pang-angkop na -ng/na bago ang pangngalan."
+          }
+        },
+        {
+          "term": "tatlo",
+          "reading": "tatlo",
+          "partOfSpeech": {
+            "id": "bilangan",
+            "fil": "pamilang"
+          },
+          "meaning": {
+            "id": "tiga",
+            "fil": "Pamilang na ginagamit sa batayang padron ng araling ito."
+          },
+          "usage": {
+            "id": "Gunakan tatlo untuk menyatakan jumlah; perhatikan penghubung -ng/na sebelum nomina.",
+            "fil": "Gamitin ang tatlo sa dami at pansinin ang pang-angkop na -ng/na bago ang pangngalan."
+          }
+        },
+        {
+          "term": "sampu",
+          "reading": "sampu",
+          "partOfSpeech": {
+            "id": "bilangan",
+            "fil": "pamilang"
+          },
+          "meaning": {
+            "id": "sepuluh",
+            "fil": "Pamilang na ginagamit sa batayang padron ng araling ito."
+          },
+          "usage": {
+            "id": "Gunakan sampu untuk menyatakan jumlah; perhatikan penghubung -ng/na sebelum nomina.",
+            "fil": "Gamitin ang sampu sa dami at pansinin ang pang-angkop na -ng/na bago ang pangngalan."
+          }
+        },
+        {
+          "term": "anong oras",
+          "reading": "anong oras",
+          "partOfSpeech": {
+            "id": "ungkapan",
+            "fil": "parirala"
+          },
+          "meaning": {
+            "id": "pukul berapa",
+            "fil": "Parirala na ginagamit sa batayang padron ng araling ito."
+          },
+          "usage": {
+            "id": "Gunakan anong oras untuk menanyakan jam; tambahkan kegiatan atau acara sesudahnya.",
+            "fil": "Gamitin ang anong oras sa pagtatanong ng oras at idagdag ang gawain pagkatapos nito."
+          }
+        }
+      ],
+      "exampleGuides": [
+        {
+          "pattern": {
+            "id": "bilangan + (-ng/na) + nomina",
+            "fil": "bilang + (-ng/na) + pangngalan"
+          },
+          "breakdown": {
+            "id": "Kosakata kunci: May = ada/memiliki · dalawa = dua · akong = saya; milik saya · kapatid = saudara · na = sudah/penghubung",
+            "fil": "Mahahalagang bahagi: May, dalawa, akong, kapatid, na"
+          },
+          "tip": {
+            "id": "Tambahkan -ng setelah bentuk yang berakhir vokal bila diperlukan.",
+            "fil": "Idagdag ang -ng pagkatapos ng anyong nagtatapos sa patinig kung kailangan."
+          }
+        },
+        {
+          "pattern": {
+            "id": "sa + hari/tanggal · nang alas- + jam",
+            "fil": "sa + araw/petsa · nang alas- + oras"
+          },
+          "breakdown": {
+            "id": "Kosakata kunci: Lunes = Senin · ngayon = sekarang · ikatlo = tiga · ng = penanda objek/kepemilikan · Hunyo = Juni",
+            "fil": "Mahahalagang bahagi: Lunes, ngayon, ikatlo, ng, Hunyo"
+          },
+          "tip": {
+            "id": "Tambahkan umaga, hapon, atau gabi jika waktu perlu diperjelas.",
+            "fil": "Idagdag ang umaga, hapon, o gabi kapag kailangang linawin ang oras."
+          }
+        },
+        {
+          "pattern": {
+            "id": "sa + hari/tanggal · nang alas- + jam",
+            "fil": "sa + araw/petsa · nang alas- + oras"
+          },
+          "breakdown": {
+            "id": "Kosakata kunci: Ang = penanda fokus · kaarawan = ulang tahun · ko = milik saya; saya · ay = adalah · sa = di/ke/pada",
+            "fil": "Mahahalagang bahagi: Ang, kaarawan, ko, ay, sa"
+          },
+          "tip": {
+            "id": "Tanyakan jam dengan Anong oras... ?",
+            "fil": "Magtanong ng oras gamit ang Anong oras... ?"
+          }
+        },
+        {
+          "pattern": {
+            "id": "sa + hari/tanggal · nang alas- + jam",
+            "fil": "sa + araw/petsa · nang alas- + oras"
+          },
+          "breakdown": {
+            "id": "Kosakata kunci: Alas-siyete = pukul tujuh · ng = penanda objek/kepemilikan · umaga = pagi · ngayon = sekarang",
+            "fil": "Mahahalagang bahagi: Alas-siyete, ng, umaga, ngayon"
+          },
+          "tip": {
+            "id": "Tambahkan umaga, hapon, atau gabi jika waktu perlu diperjelas.",
+            "fil": "Idagdag ang umaga, hapon, o gabi kapag kailangang linawin ang oras."
+          }
+        },
+        {
+          "pattern": {
+            "id": "sa + hari/tanggal · nang alas- + jam",
+            "fil": "sa + araw/petsa · nang alas- + oras"
+          },
+          "breakdown": {
+            "id": "Kosakata kunci: Magkita = bertemu · tayo = kita · sa = di/ke/pada · Biyernes = Jumat · nang = penanda cara/waktu",
+            "fil": "Mahahalagang bahagi: Magkita, tayo, sa, Biyernes, nang"
+          },
+          "tip": {
+            "id": "Tanyakan jam dengan Anong oras... ?",
+            "fil": "Magtanong ng oras gamit ang Anong oras... ?"
+          }
+        },
+        {
+          "pattern": {
+            "id": "sa + hari/tanggal · nang alas- + jam",
+            "fil": "sa + araw/petsa · nang alas- + oras"
+          },
+          "breakdown": {
+            "id": "Kosakata kunci: Ano = apa · ang = penanda fokus · oras = waktu · ng = penanda objek/kepemilikan · klase = kelas",
+            "fil": "Mahahalagang bahagi: Ano, ang, oras, ng, klase"
+          },
+          "tip": {
+            "id": "Tambahkan umaga, hapon, atau gabi jika waktu perlu diperjelas.",
+            "fil": "Idagdag ang umaga, hapon, o gabi kapag kailangang linawin ang oras."
+          }
+        },
+        {
+          "pattern": {
+            "id": "sa + hari/tanggal · nang alas- + jam",
+            "fil": "sa + araw/petsa · nang alas- + oras"
+          },
+          "breakdown": {
+            "id": "Kosakata kunci: Ang = penanda fokus · klase = kelas · ay = adalah · sa = di/ke/pada · Biyernes = Jumat",
+            "fil": "Mahahalagang bahagi: Ang, klase, ay, sa, Biyernes"
+          },
+          "tip": {
+            "id": "Tanyakan jam dengan Anong oras... ?",
+            "fil": "Magtanong ng oras gamit ang Anong oras... ?"
+          }
+        }
       ]
     },
     {
@@ -1406,8 +2530,8 @@
         "fil": "Ang abalang umaga ni Lina"
       },
       "summary": {
-        "id": "Seorang siswa bersiap dan tiba di sekolah tepat waktu.",
-        "fil": "Naghahanda ang mag-aaral at dumarating sa paaralan sa tamang oras."
+        "id": "Perjalanan Lina melambat karena jalan ramai, tetapi ia tetap tiba tepat waktu untuk kelas.",
+        "fil": "Bumagal ang biyahe ni Lina dahil matao ang daan, ngunit umabot pa rin siya sa klase sa tamang oras."
       },
       "objectives": [
         {
@@ -1469,6 +2593,26 @@
         {
           "id": "Dia tiba sebelum pukul delapan dan senang karena tidak terlambat.",
           "fil": "Dumarating siya bago mag-alas-otso at masaya dahil hindi siya huli."
+        },
+        {
+          "id": "Namun jalan ramai dan bus berangkat perlahan.",
+          "fil": "Pero maraming tao sa daan at dahan-dahang umaalis ang bus."
+        },
+        {
+          "id": "Lina melihat jam dan mulai sedikit gugup.",
+          "fil": "Tinitingnan ni Lina ang oras at medyo kinakabahan siya."
+        },
+        {
+          "id": "Sekolahnya sudah dekat, kata seseorang.",
+          "fil": "Malapit na ang paaralan, sabi ng isang tao."
+        },
+        {
+          "id": "Dia tiba di ruang kelas pukul delapan.",
+          "fil": "Dumarating siya sa silid-aralan nang alas-otso."
+        },
+        {
+          "id": "Guru tersenyum karena Lina tidak terlambat.",
+          "fil": "Ngumingiti ang guro dahil hindi huli si Lina."
         }
       ],
       "speakers": [],
@@ -1562,6 +2706,25 @@
           "speech": {
             "fil": "Gumigising si Lina nang alas-sais ng umaga."
           }
+        },
+        {
+          "id": "a1_06_morning_twist_comprehension",
+          "type": "COMPREHENSION",
+          "prompt": {
+            "id": "Mengapa Lina mulai gugup?",
+            "fil": "Bakit medyo kinakabahan si Lina?"
+          },
+          "answer": {
+            "id": "Bus berjalan lambat dan waktu hampir pukul delapan.",
+            "fil": "Mabagal ang bus at malapit nang mag-alas-otso."
+          },
+          "explanation": {
+            "id": "Jawabannya muncul pada perubahan atau kejutan di bagian akhir bacaan.",
+            "fil": "Makikita ang sagot sa pagbabago o sorpresa sa hulihan ng babasahin."
+          },
+          "speech": {
+            "fil": "Dumarating siya bago mag-alas-otso at masaya dahil hindi siya huli."
+          }
         }
       ]
     },
@@ -1583,8 +2746,16 @@
       },
       "objectives": [
         {
-          "id": "Menggunakan materi unit 7 secara mandiri.",
-          "fil": "Gamitin nang mag-isa ang wika sa yunit 7."
+          "id": "Menyebut anggota keluarga dekat dengan istilah yang tepat.",
+          "fil": "Tukuyin ang malalapit na miyembro ng pamilya sa wastong katawagan."
+        },
+        {
+          "id": "Menggunakan ko, mo, niya, namin, natin, dan nila untuk kepemilikan.",
+          "fil": "Gamitin ang ko, mo, niya, namin, natin, at nila sa pagmamay-ari."
+        },
+        {
+          "id": "Menanyakan pemilik benda dengan kanino dan menjawab dengan ni.",
+          "fil": "Magtanong ng may-ari gamit ang kanino at sumagot gamit ang ni."
         }
       ],
       "notes": [
@@ -1643,12 +2814,12 @@
           "fil": "Kaninong bag ito? Bag ito ni Carlo."
         },
         {
-          "id": "Apakah kita dapat berlatih sekarang?",
-          "fil": "Maaari ba tayong magsanay ngayon?"
+          "id": "Rumah siapa ini? Ini rumah nenek kami.",
+          "fil": "Kaninong bahay ito? Bahay ito ng lola namin."
         },
         {
-          "id": "Ya, mari gunakan kata baru dalam percakapan.",
-          "fil": "Oo, gamitin natin ang bagong salita sa usapan."
+          "id": "Kakak laki-laki dan kakak perempuan saya tinggal di Manila.",
+          "fil": "Nakatira ang kuya at ate ko sa Maynila."
         }
       ],
       "speakers": [
@@ -1804,6 +2975,278 @@
           },
           "speech": {
             "fil": "Ito ang nanay ko, si Rosa, at iyan ang tatay mo."
+          }
+        }
+      ],
+      "context": {
+        "id": "Kosakata keluarga dan kepemilikan membantu Anda memperkenalkan kerabat, menjelaskan hubungan, dan menanyakan milik siapa suatu benda.",
+        "fil": "Tumutulong ang bokabularyo ng pamilya at pagmamay-ari sa pagpapakilala ng kamag-anak, paglalarawan ng ugnayan, at pagtatanong kung kanino ang isang bagay."
+      },
+      "grammar": [
+        {
+          "title": {
+            "id": "Pemilik setelah nomina",
+            "fil": "May-ari pagkatapos ng pangngalan"
+          },
+          "explanation": {
+            "id": "Bentuk pendek kepemilikan biasanya muncul setelah benda: nanay ko, bag mo, kapatid niya. Namin tidak menyertakan lawan bicara; natin menyertakannya.",
+            "fil": "Karaniwang sumusunod sa bagay ang maikling anyong paari: nanay ko, bag mo, kapatid niya. Hindi kasama ang kausap sa namin ngunit kasama sa natin."
+          },
+          "formula": {
+            "id": "nomina + ko/mo/niya/namin/natin/nila",
+            "fil": "pangngalan + ko/mo/niya/namin/natin/nila"
+          },
+          "rules": [
+            {
+              "id": "Letakkan bentuk pendek sesudah benda yang dimiliki.",
+              "fil": "Ilagay ang maikling anyong paari pagkatapos ng bagay."
+            },
+            {
+              "id": "Pertahankan perbedaan namin dan natin seperti kami dan tayo.",
+              "fil": "Panatilihin ang kaibhan ng namin at natin gaya ng kami at tayo."
+            }
+          ],
+          "pitfalls": [
+            {
+              "id": "Jangan meletakkan ko sebelum nomina dalam pola dasar ini.",
+              "fil": "Huwag ilagay ang ko bago ang pangngalan sa batayang padron na ito."
+            },
+            {
+              "id": "Jangan memakai niya hanya untuk satu gender.",
+              "fil": "Huwag gamitin ang niya para sa isang kasarian lamang."
+            }
+          ]
+        },
+        {
+          "title": {
+            "id": "Nama pemilik dengan ni",
+            "fil": "Pangalan ng may-ari gamit ang ni"
+          },
+          "explanation": {
+            "id": "Ni menandai satu nama sebagai pemilik. Kanino menanyakan pemilik, lalu jawaban dapat menyebut benda dan orang dengan jelas.",
+            "fil": "Minamarkahan ng ni ang isang pangalan bilang may-ari. Nagtatanong ang kanino kung sino ang may-ari."
+          },
+          "formula": {
+            "id": "Kaninong + benda + ito? · benda + ito + ni + nama",
+            "fil": "Kaninong + bagay + ito? · bagay + ito + ni + pangalan"
+          },
+          "rules": [
+            {
+              "id": "Gunakan nina untuk lebih dari satu nama jika materi sudah dikenal.",
+              "fil": "Gamitin ang nina para sa higit sa isang pangalan kapag pamilyar na ang anyo."
+            },
+            {
+              "id": "Ulangi nama benda dalam jawaban pendek agar referensinya jelas.",
+              "fil": "Ulitin ang bagay sa maikling sagot upang maging malinaw ang tinutukoy."
+            }
+          ],
+          "pitfalls": [
+            {
+              "id": "Jangan memakai ni untuk nomina umum tanpa nama orang.",
+              "fil": "Huwag gamitin ang ni sa pangngalang pambalana na walang pangalan."
+            },
+            {
+              "id": "Jangan mencampur kanino (siapa punya) dengan sino (siapa).",
+              "fil": "Huwag pagpalitin ang kanino at sino."
+            }
+          ]
+        }
+      ],
+      "lessonVocabulary": [
+        {
+          "term": "nanay",
+          "reading": "nanay",
+          "partOfSpeech": {
+            "id": "kata benda",
+            "fil": "pangngalan"
+          },
+          "meaning": {
+            "id": "ibu",
+            "fil": "Pangngalan na ginagamit sa batayang padron ng araling ito."
+          },
+          "usage": {
+            "id": "Gunakan nanay untuk menyebut ibu; tambahkan ang, ng, atau sa sesuai perannya dalam kalimat.",
+            "fil": "Gamitin ang nanay bilang pangngalan at lagyan ng ang, ng, o sa ayon sa gamit nito sa pangungusap."
+          }
+        },
+        {
+          "term": "tatay",
+          "reading": "tatay",
+          "partOfSpeech": {
+            "id": "kata benda",
+            "fil": "pangngalan"
+          },
+          "meaning": {
+            "id": "ayah",
+            "fil": "Pangngalan na ginagamit sa batayang padron ng araling ito."
+          },
+          "usage": {
+            "id": "Gunakan tatay untuk menyebut ayah; tambahkan ang, ng, atau sa sesuai perannya dalam kalimat.",
+            "fil": "Gamitin ang tatay bilang pangngalan at lagyan ng ang, ng, o sa ayon sa gamit nito sa pangungusap."
+          }
+        },
+        {
+          "term": "kuya",
+          "reading": "kuya",
+          "partOfSpeech": {
+            "id": "kata benda",
+            "fil": "pangngalan"
+          },
+          "meaning": {
+            "id": "kakak laki-laki",
+            "fil": "Pangngalan na ginagamit sa batayang padron ng araling ito."
+          },
+          "usage": {
+            "id": "Gunakan kuya untuk menyebut kakak laki-laki; tambahkan ang, ng, atau sa sesuai perannya dalam kalimat.",
+            "fil": "Gamitin ang kuya bilang pangngalan at lagyan ng ang, ng, o sa ayon sa gamit nito sa pangungusap."
+          }
+        },
+        {
+          "term": "ate",
+          "reading": "ate",
+          "partOfSpeech": {
+            "id": "kata benda",
+            "fil": "pangngalan"
+          },
+          "meaning": {
+            "id": "kakak perempuan",
+            "fil": "Pangngalan na ginagamit sa batayang padron ng araling ito."
+          },
+          "usage": {
+            "id": "Gunakan ate untuk menyebut kakak perempuan; tambahkan ang, ng, atau sa sesuai perannya dalam kalimat.",
+            "fil": "Gamitin ang ate bilang pangngalan at lagyan ng ang, ng, o sa ayon sa gamit nito sa pangungusap."
+          }
+        },
+        {
+          "term": "lola",
+          "reading": "lola",
+          "partOfSpeech": {
+            "id": "kata benda",
+            "fil": "pangngalan"
+          },
+          "meaning": {
+            "id": "nenek",
+            "fil": "Pangngalan na ginagamit sa batayang padron ng araling ito."
+          },
+          "usage": {
+            "id": "Gunakan lola untuk menyebut nenek; tambahkan ang, ng, atau sa sesuai perannya dalam kalimat.",
+            "fil": "Gamitin ang lola bilang pangngalan at lagyan ng ang, ng, o sa ayon sa gamit nito sa pangungusap."
+          }
+        },
+        {
+          "term": "lolo",
+          "reading": "lolo",
+          "partOfSpeech": {
+            "id": "kata benda",
+            "fil": "pangngalan"
+          },
+          "meaning": {
+            "id": "kakek",
+            "fil": "Pangngalan na ginagamit sa batayang padron ng araling ito."
+          },
+          "usage": {
+            "id": "Gunakan lolo untuk menyebut kakek; tambahkan ang, ng, atau sa sesuai perannya dalam kalimat.",
+            "fil": "Gamitin ang lolo bilang pangngalan at lagyan ng ang, ng, o sa ayon sa gamit nito sa pangungusap."
+          }
+        }
+      ],
+      "exampleGuides": [
+        {
+          "pattern": {
+            "id": "nomina + ko/mo/niya/namin/natin/nila",
+            "fil": "pangngalan + ko/mo/niya/namin/natin/nila"
+          },
+          "breakdown": {
+            "id": "Kosakata kunci: Ito = itu · ang = penanda fokus · nanay = ibu · ko = milik saya; saya · si = penanda nama orang",
+            "fil": "Mahahalagang bahagi: Ito, ang, nanay, ko, si"
+          },
+          "tip": {
+            "id": "Letakkan bentuk pendek sesudah benda yang dimiliki.",
+            "fil": "Ilagay ang maikling anyong paari pagkatapos ng bagay."
+          }
+        },
+        {
+          "pattern": {
+            "id": "nomina + ko/mo/niya/namin/natin/nila",
+            "fil": "pangngalan + ko/mo/niya/namin/natin/nila"
+          },
+          "breakdown": {
+            "id": "Kosakata kunci: Nars = perawat · ang = penanda fokus · kuya = kakak laki-laki · niya = miliknya",
+            "fil": "Mahahalagang bahagi: Nars, ang, kuya, niya"
+          },
+          "tip": {
+            "id": "Pertahankan perbedaan namin dan natin seperti kami dan tayo.",
+            "fil": "Panatilihin ang kaibhan ng namin at natin gaya ng kami at tayo."
+          }
+        },
+        {
+          "pattern": {
+            "id": "nomina + ko/mo/niya/namin/natin/nila",
+            "fil": "pangngalan + ko/mo/niya/namin/natin/nila"
+          },
+          "breakdown": {
+            "id": "Kosakata kunci: Nakatira = tinggal · sa = di/ke/pada · probinsiya = provinsi · ang = penanda fokus · lola = nenek",
+            "fil": "Mahahalagang bahagi: Nakatira, sa, probinsiya, ang, lola"
+          },
+          "tip": {
+            "id": "Letakkan bentuk pendek sesudah benda yang dimiliki.",
+            "fil": "Ilagay ang maikling anyong paari pagkatapos ng bagay."
+          }
+        },
+        {
+          "pattern": {
+            "id": "nomina + ko/mo/niya/namin/natin/nila",
+            "fil": "pangngalan + ko/mo/niya/namin/natin/nila"
+          },
+          "breakdown": {
+            "id": "Kosakata kunci: Mabait = baik hati · at = dan · masayahin = ceria · ang = penanda fokus · anak = anak",
+            "fil": "Mahahalagang bahagi: Mabait, at, masayahin, ang, anak"
+          },
+          "tip": {
+            "id": "Pertahankan perbedaan namin dan natin seperti kami dan tayo.",
+            "fil": "Panatilihin ang kaibhan ng namin at natin gaya ng kami at tayo."
+          }
+        },
+        {
+          "pattern": {
+            "id": "Kaninong + benda + ito? · benda + ito + ni + nama",
+            "fil": "Kaninong + bagay + ito? · bagay + ito + ni + pangalan"
+          },
+          "breakdown": {
+            "id": "Kosakata kunci: Kaninong = milik siapa · bag = tas · ito = itu · ni = penanda pemilik bernama · Carlo = Carlo",
+            "fil": "Mahahalagang bahagi: Kaninong, bag, ito, ni, Carlo"
+          },
+          "tip": {
+            "id": "Gunakan nina untuk lebih dari satu nama jika materi sudah dikenal.",
+            "fil": "Gamitin ang nina para sa higit sa isang pangalan kapag pamilyar na ang anyo."
+          }
+        },
+        {
+          "pattern": {
+            "id": "Kaninong + benda + ito? · benda + ito + ni + nama",
+            "fil": "Kaninong + bagay + ito? · bagay + ito + ni + pangalan"
+          },
+          "breakdown": {
+            "id": "Kosakata kunci: Kaninong = milik siapa · bahay = rumah · ito = itu · ng = penanda objek/kepemilikan · lola = nenek",
+            "fil": "Mahahalagang bahagi: Kaninong, bahay, ito, ng, lola"
+          },
+          "tip": {
+            "id": "Ulangi nama benda dalam jawaban pendek agar referensinya jelas.",
+            "fil": "Ulitin ang bagay sa maikling sagot upang maging malinaw ang tinutukoy."
+          }
+        },
+        {
+          "pattern": {
+            "id": "nomina + ko/mo/niya/namin/natin/nila",
+            "fil": "pangngalan + ko/mo/niya/namin/natin/nila"
+          },
+          "breakdown": {
+            "id": "Kosakata kunci: Nakatira = tinggal · ang = penanda fokus · kuya = kakak laki-laki · at = dan · ate = kakak perempuan",
+            "fil": "Mahahalagang bahagi: Nakatira, ang, kuya, at, ate"
+          },
+          "tip": {
+            "id": "Letakkan bentuk pendek sesudah benda yang dimiliki.",
+            "fil": "Ilagay ang maikling anyong paari pagkatapos ng bagay."
           }
         }
       ]
@@ -2118,13 +3561,11 @@
               "choices": {
                 "id": [
                   "selamat datang",
-                  "dapur",
-                  "selamat datang"
+                  "dapur"
                 ],
                 "fil": [
                   "maligayang pagdating",
-                  "kusina",
-                  "maligayang pagdating"
+                  "kusina"
                 ]
               },
               "answer": {
@@ -2278,13 +3719,11 @@
               "choices": {
                 "id": [
                   "sopan",
-                  "semua orang",
-                  "sopan"
+                  "semua orang"
                 ],
                 "fil": [
                   "magalang",
-                  "lahat",
-                  "magalang"
+                  "lahat"
                 ]
               },
               "answer": {
@@ -2438,13 +3877,11 @@
               "choices": {
                 "id": [
                   "resep",
-                  "Minggu berikutnya",
-                  "resep"
+                  "Minggu berikutnya"
                 ],
                 "fil": [
                   "resipe",
-                  "susunod na Linggo",
-                  "resipe"
+                  "susunod na Linggo"
                 ]
               },
               "answer": {
@@ -2519,8 +3956,16 @@
       },
       "objectives": [
         {
-          "id": "Menggunakan materi unit 9 secara mandiri.",
-          "fil": "Gamitin nang mag-isa ang wika sa yunit 9."
+          "id": "Menyebut benda sekolah dan benda sehari-hari yang paling umum.",
+          "fil": "Tukuyin ang karaniwang gamit sa paaralan at araw-araw."
+        },
+        {
+          "id": "Menyatakan ada, tidak ada, dan lokasi benda dengan may, wala, dan nasa.",
+          "fil": "Sabihin ang pag-iral at lokasyon gamit ang may, wala, at nasa."
+        },
+        {
+          "id": "Memberi permintaan sederhana dengan paki- secara sopan.",
+          "fil": "Magbigay ng payak at magalang na pakiusap gamit ang paki-."
         }
       ],
       "notes": [
@@ -2579,12 +4024,12 @@
           "fil": "Pakibuksan ang bintana at isara ang pinto."
         },
         {
-          "id": "Apakah kita dapat berlatih sekarang?",
-          "fil": "Maaari ba tayong magsanay ngayon?"
+          "id": "Di mana pensilnya? Pensil itu berada di dalam buku catatan.",
+          "fil": "Nasaan ang lapis? Nasa loob ito ng kuwaderno."
         },
         {
-          "id": "Ya, mari gunakan kata baru dalam percakapan.",
-          "fil": "Oo, gamitin natin ang bagong salita sa usapan."
+          "id": "Tolong buka pintu dan jendela.",
+          "fil": "Pakibuksan ang pinto at ang bintana."
         }
       ],
       "speakers": [
@@ -2736,6 +4181,278 @@
             "fil": "May kuwaderno sa loob ng bag."
           }
         }
+      ],
+      "context": {
+        "id": "Kata benda dan lokasi dipakai untuk menemukan barang, menjelaskan ruang kelas, dan meminta seseorang memindahkan atau membuka sesuatu.",
+        "fil": "Ginagamit ang mga bagay at lokasyon sa paghahanap ng gamit, paglalarawan ng silid-aralan, at magalang na pakiusap."
+      },
+      "grammar": [
+        {
+          "title": {
+            "id": "Ada dan tidak ada",
+            "fil": "Mayroon at wala"
+          },
+          "explanation": {
+            "id": "May memperkenalkan keberadaan atau kepemilikan. Wala menyatakan ketiadaan. Keduanya tidak perlu diterjemahkan sebagai verba “memiliki” secara kaku.",
+            "fil": "Ipinakikilala ng may ang pag-iral o pagmamay-ari. Nagsasaad ng kawalan ang wala."
+          },
+          "formula": {
+            "id": "May + benda + sa + tempat · Walang + benda + sa + tempat",
+            "fil": "May + bagay + sa + lugar · Walang + bagay + sa + lugar"
+          },
+          "rules": [
+            {
+              "id": "Gunakan walang sebelum nomina untuk bentuk “tidak ada ...”.",
+              "fil": "Gamitin ang walang bago ang pangngalan para sa kawalan."
+            },
+            {
+              "id": "Sebutkan lokasi dengan sa setelah benda bila perlu.",
+              "fil": "Idagdag ang lokasyon gamit ang sa kapag kailangan."
+            }
+          ],
+          "pitfalls": [
+            {
+              "id": "Jangan memakai hindi untuk menyatakan ketiadaan benda.",
+              "fil": "Huwag gamitin ang hindi kung ang ibig sabihin ay walang bagay."
+            },
+            {
+              "id": "Jangan menambahkan ang setelah may dalam pola sederhana ini.",
+              "fil": "Huwag basta magdagdag ng ang pagkatapos ng may sa payak na padron."
+            }
+          ]
+        },
+        {
+          "title": {
+            "id": "Lokasi dan permintaan paki-",
+            "fil": "Lokasyon at pakiusap na paki-"
+          },
+          "explanation": {
+            "id": "Nasa menjawab nasaan dan diikuti frasa lokasi. Awalan paki- melembutkan perintah menjadi permintaan yang lebih sopan.",
+            "fil": "Sumasagot ang nasa sa nasaan at sinusundan ng lokasyon. Pinagagaan ng paki- ang utos upang maging pakiusap."
+          },
+          "formula": {
+            "id": "Nasa + relasi + ng + benda · Paki- + kata kerja",
+            "fil": "Nasa + ugnayan + ng + bagay · Paki- + pandiwa"
+          },
+          "rules": [
+            {
+              "id": "Gunakan loob, tabi, harap, atau ilalim dengan ng sebelum benda acuan.",
+              "fil": "Gamitin ang loob, tabi, harap, o ilalim na may ng bago ang batayang bagay."
+            },
+            {
+              "id": "Gunakan paki- untuk permintaan langsung yang singkat.",
+              "fil": "Gamitin ang paki- sa maikli at tuwirang pakiusap."
+            }
+          ],
+          "pitfalls": [
+            {
+              "id": "Jangan menghilangkan ng pada frasa seperti sa loob ng bag.",
+              "fil": "Huwag alisin ang ng sa pariralang gaya ng sa loob ng bag."
+            },
+            {
+              "id": "Jangan menganggap paki- cukup untuk semua situasi resmi; po tetap berguna.",
+              "fil": "Huwag isiping sapat ang paki- sa lahat ng pormal na sitwasyon; mahalaga pa rin ang po."
+            }
+          ]
+        }
+      ],
+      "lessonVocabulary": [
+        {
+          "term": "aklat",
+          "reading": "aklat",
+          "partOfSpeech": {
+            "id": "kata benda",
+            "fil": "pangngalan"
+          },
+          "meaning": {
+            "id": "buku",
+            "fil": "Pangngalan na ginagamit sa batayang padron ng araling ito."
+          },
+          "usage": {
+            "id": "Gunakan aklat untuk menyebut buku; tambahkan ang, ng, atau sa sesuai perannya dalam kalimat.",
+            "fil": "Gamitin ang aklat bilang pangngalan at lagyan ng ang, ng, o sa ayon sa gamit nito sa pangungusap."
+          }
+        },
+        {
+          "term": "kuwaderno",
+          "reading": "kuwaderno",
+          "partOfSpeech": {
+            "id": "kata benda",
+            "fil": "pangngalan"
+          },
+          "meaning": {
+            "id": "buku catatan",
+            "fil": "Pangngalan na ginagamit sa batayang padron ng araling ito."
+          },
+          "usage": {
+            "id": "Gunakan kuwaderno untuk menyebut buku catatan; tambahkan ang, ng, atau sa sesuai perannya dalam kalimat.",
+            "fil": "Gamitin ang kuwaderno bilang pangngalan at lagyan ng ang, ng, o sa ayon sa gamit nito sa pangungusap."
+          }
+        },
+        {
+          "term": "lapis",
+          "reading": "lapis",
+          "partOfSpeech": {
+            "id": "kata benda",
+            "fil": "pangngalan"
+          },
+          "meaning": {
+            "id": "pensil",
+            "fil": "Pangngalan na ginagamit sa batayang padron ng araling ito."
+          },
+          "usage": {
+            "id": "Gunakan lapis untuk menyebut pensil; tambahkan ang, ng, atau sa sesuai perannya dalam kalimat.",
+            "fil": "Gamitin ang lapis bilang pangngalan at lagyan ng ang, ng, o sa ayon sa gamit nito sa pangungusap."
+          }
+        },
+        {
+          "term": "silya",
+          "reading": "silya",
+          "partOfSpeech": {
+            "id": "kata benda",
+            "fil": "pangngalan"
+          },
+          "meaning": {
+            "id": "kursi",
+            "fil": "Pangngalan na ginagamit sa batayang padron ng araling ito."
+          },
+          "usage": {
+            "id": "Gunakan silya untuk menyebut kursi; tambahkan ang, ng, atau sa sesuai perannya dalam kalimat.",
+            "fil": "Gamitin ang silya bilang pangngalan at lagyan ng ang, ng, o sa ayon sa gamit nito sa pangungusap."
+          }
+        },
+        {
+          "term": "mesa",
+          "reading": "mesa",
+          "partOfSpeech": {
+            "id": "kata benda",
+            "fil": "pangngalan"
+          },
+          "meaning": {
+            "id": "meja",
+            "fil": "Pangngalan na ginagamit sa batayang padron ng araling ito."
+          },
+          "usage": {
+            "id": "Gunakan mesa untuk menyebut meja; tambahkan ang, ng, atau sa sesuai perannya dalam kalimat.",
+            "fil": "Gamitin ang mesa bilang pangngalan at lagyan ng ang, ng, o sa ayon sa gamit nito sa pangungusap."
+          }
+        },
+        {
+          "term": "bintana",
+          "reading": "bintana",
+          "partOfSpeech": {
+            "id": "kata benda",
+            "fil": "pangngalan"
+          },
+          "meaning": {
+            "id": "jendela",
+            "fil": "Pangngalan na ginagamit sa batayang padron ng araling ito."
+          },
+          "usage": {
+            "id": "Gunakan bintana untuk menyebut jendela; tambahkan ang, ng, atau sa sesuai perannya dalam kalimat.",
+            "fil": "Gamitin ang bintana bilang pangngalan at lagyan ng ang, ng, o sa ayon sa gamit nito sa pangungusap."
+          }
+        }
+      ],
+      "exampleGuides": [
+        {
+          "pattern": {
+            "id": "May + benda + sa + tempat · Walang + benda + sa + tempat",
+            "fil": "May + bagay + sa + lugar · Walang + bagay + sa + lugar"
+          },
+          "breakdown": {
+            "id": "Kosakata kunci: May = ada/memiliki · kuwaderno = buku catatan · sa = di/ke/pada · loob = di dalam · ng = penanda objek/kepemilikan",
+            "fil": "Mahahalagang bahagi: May, kuwaderno, sa, loob, ng"
+          },
+          "tip": {
+            "id": "Gunakan walang sebelum nomina untuk bentuk “tidak ada ...”.",
+            "fil": "Gamitin ang walang bago ang pangngalan para sa kawalan."
+          }
+        },
+        {
+          "pattern": {
+            "id": "Nasa + relasi + ng + benda · Paki- + kata kerja",
+            "fil": "Nasa + ugnayan + ng + bagay · Paki- + pandiwa"
+          },
+          "breakdown": {
+            "id": "Kosakata kunci: Nasa = berada di · tabi = di samping · ng = penanda objek/kepemilikan · aklat = buku · ang = penanda fokus",
+            "fil": "Mahahalagang bahagi: Nasa, tabi, ng, aklat, ang"
+          },
+          "tip": {
+            "id": "Gunakan paki- untuk permintaan langsung yang singkat.",
+            "fil": "Gamitin ang paki- sa maikli at tuwirang pakiusap."
+          }
+        },
+        {
+          "pattern": {
+            "id": "Nasa + relasi + ng + benda · Paki- + kata kerja",
+            "fil": "Nasa + ugnayan + ng + bagay · Paki- + pandiwa"
+          },
+          "breakdown": {
+            "id": "Kosakata kunci: Nasa = berada di · harap = di depan · ng = penanda objek/kepemilikan · mesa = meja · ang = penanda fokus",
+            "fil": "Mahahalagang bahagi: Nasa, harap, ng, mesa, ang"
+          },
+          "tip": {
+            "id": "Gunakan loob, tabi, harap, atau ilalim dengan ng sebelum benda acuan.",
+            "fil": "Gamitin ang loob, tabi, harap, o ilalim na may ng bago ang batayang bagay."
+          }
+        },
+        {
+          "pattern": {
+            "id": "May + benda + sa + tempat · Walang + benda + sa + tempat",
+            "fil": "May + bagay + sa + lugar · Walang + bagay + sa + lugar"
+          },
+          "breakdown": {
+            "id": "Kosakata kunci: Walang = tanpa; tidak ada · telepono = ponsel · sa = di/ke/pada · loob = di dalam · ng = penanda objek/kepemilikan",
+            "fil": "Mahahalagang bahagi: Walang, telepono, sa, loob, ng"
+          },
+          "tip": {
+            "id": "Sebutkan lokasi dengan sa setelah benda bila perlu.",
+            "fil": "Idagdag ang lokasyon gamit ang sa kapag kailangan."
+          }
+        },
+        {
+          "pattern": {
+            "id": "Nasa + relasi + ng + benda · Paki- + kata kerja",
+            "fil": "Nasa + ugnayan + ng + bagay · Paki- + pandiwa"
+          },
+          "breakdown": {
+            "id": "Kosakata kunci: Pakibuksan = membuka · ang = penanda fokus · bintana = jendela · at = dan · isara = menutup",
+            "fil": "Mahahalagang bahagi: Pakibuksan, ang, bintana, at, isara"
+          },
+          "tip": {
+            "id": "Gunakan loob, tabi, harap, atau ilalim dengan ng sebelum benda acuan.",
+            "fil": "Gamitin ang loob, tabi, harap, o ilalim na may ng bago ang batayang bagay."
+          }
+        },
+        {
+          "pattern": {
+            "id": "Nasa + relasi + ng + benda · Paki- + kata kerja",
+            "fil": "Nasa + ugnayan + ng + bagay · Paki- + pandiwa"
+          },
+          "breakdown": {
+            "id": "Kosakata kunci: Nasaan = di mana · ang = penanda fokus · lapis = pensil · Nasa = berada di · loob = di dalam",
+            "fil": "Mahahalagang bahagi: Nasaan, ang, lapis, Nasa, loob"
+          },
+          "tip": {
+            "id": "Gunakan paki- untuk permintaan langsung yang singkat.",
+            "fil": "Gamitin ang paki- sa maikli at tuwirang pakiusap."
+          }
+        },
+        {
+          "pattern": {
+            "id": "Nasa + relasi + ng + benda · Paki- + kata kerja",
+            "fil": "Nasa + ugnayan + ng + bagay · Paki- + pandiwa"
+          },
+          "breakdown": {
+            "id": "Kosakata kunci: Pakibuksan = membuka · ang = penanda fokus · pinto = pintu · at = dan · bintana = jendela",
+            "fil": "Mahahalagang bahagi: Pakibuksan, ang, pinto, at, bintana"
+          },
+          "tip": {
+            "id": "Gunakan loob, tabi, harap, atau ilalim dengan ng sebelum benda acuan.",
+            "fil": "Gamitin ang loob, tabi, harap, o ilalim na may ng bago ang batayang bagay."
+          }
+        }
       ]
     },
     {
@@ -2751,8 +4468,8 @@
         "fil": "Ang nawawalang kuwaderno"
       },
       "summary": {
-        "id": "Teman sekelas mencari benda sebelum kelas.",
-        "fil": "Naghahanap ng gamit ang magkaklase bago ang klase."
+        "id": "Bimo dan Rina menemukan sebuah buku catatan, lalu sadar bahwa buku itu milik Aya dan buku Bimo masih di tasnya.",
+        "fil": "Nakakita sina Bimo at Rina ng kuwaderno, ngunit kay Aya pala iyon at nasa bag pa rin ni Bimo ang sariling kuwaderno."
       },
       "objectives": [
         {
@@ -2801,6 +4518,26 @@
         {
           "id": "Ini dia! Terima kasih telah membantu saya.",
           "fil": "Heto na! Salamat sa pagtulong sa akin."
+        },
+        {
+          "id": "Apakah ada nama di dalam buku catatan itu?",
+          "fil": "May pangalan ba sa loob ng kuwaderno?"
+        },
+        {
+          "id": "Tidak ada, tetapi ada kertas kecil di belakangnya.",
+          "fil": "Wala, pero may maliit na papel sa likod."
+        },
+        {
+          "id": "Nama Aya tertulis di sini.",
+          "fil": "Nakasulat dito ang pangalan ni Aya."
+        },
+        {
+          "id": "Ini bukan buku catatan saya.",
+          "fil": "Hindi ito ang kuwaderno ko."
+        },
+        {
+          "id": "Buku catatan birumu ada di dalam tasmu!",
+          "fil": "Nasa bag mo ang asul na kuwaderno!"
         }
       ],
       "speakers": [
@@ -2808,7 +4545,12 @@
         "Rina",
         "Bimo",
         "Rina",
-        "Bimo"
+        "Bimo",
+        "Rina",
+        "Bimo",
+        "Rina",
+        "Bimo",
+        "Rina"
       ],
       "exercises": [
         {
@@ -2900,6 +4642,25 @@
           "speech": {
             "fil": "Rina, nasaan ang asul kong kuwaderno?"
           }
+        },
+        {
+          "id": "a1_10_school_dialogue_twist_comprehension",
+          "type": "COMPREHENSION",
+          "prompt": {
+            "id": "Siapa pemilik buku catatan yang mereka temukan?",
+            "fil": "Kanino ang kuwadernong nakita nila?"
+          },
+          "answer": {
+            "id": "Aya.",
+            "fil": "Kay Aya."
+          },
+          "explanation": {
+            "id": "Jawabannya muncul pada perubahan atau kejutan di bagian akhir bacaan.",
+            "fil": "Makikita ang sagot sa pagbabago o sorpresa sa hulihan ng babasahin."
+          },
+          "speech": {
+            "fil": "Heto na! Salamat sa pagtulong sa akin."
+          }
         }
       ]
     },
@@ -2921,8 +4682,16 @@
       },
       "objectives": [
         {
-          "id": "Menggunakan materi unit 11 secara mandiri.",
-          "fil": "Gamitin nang mag-isa ang wika sa yunit 11."
+          "id": "Membedakan tindakan selesai, sedang berlangsung, dan belum dimulai.",
+          "fil": "Ihiwalay ang kilos na naganap, nagaganap, at magaganap."
+        },
+        {
+          "id": "Mengenali perubahan bentuk verba umum seperti mag-aral dan kumain.",
+          "fil": "Makilala ang pagbabago ng karaniwang pandiwa gaya ng mag-aral at kumain."
+        },
+        {
+          "id": "Memilih penanda waktu yang cocok tanpa memperlakukan aspek sebagai kala sederhana.",
+          "fil": "Pumili ng angkop na pananda ng oras nang hindi itinuturing na simpleng panahunan ang aspekto."
         }
       ],
       "notes": [
@@ -2981,12 +4750,12 @@
           "fil": "Kumakain siya ng pananghalian sa paaralan araw-araw at kakain ng hapunan sa bahay."
         },
         {
-          "id": "Apakah kita dapat berlatih sekarang?",
-          "fil": "Maaari ba tayong magsanay ngayon?"
+          "id": "Mara sedang makan sekarang, tetapi dia akan belajar nanti.",
+          "fil": "Kumakain si Mara ngayon, pero mag-aaral siya mamaya."
         },
         {
-          "id": "Ya, mari gunakan kata baru dalam percakapan.",
-          "fil": "Oo, gamitin natin ang bagong salita sa usapan."
+          "id": "Joel belajar kemarin dan akan belajar lagi besok.",
+          "fil": "Nag-aral si Joel kahapon at mag-aaral ulit bukas."
         }
       ],
       "speakers": [
@@ -3135,6 +4904,282 @@
             "fil": "Nag-aral ako ng Tagalog kahapon."
           }
         }
+      ],
+      "context": {
+        "id": "Aspek verba membantu Anda menceritakan kegiatan kemarin, menjelaskan yang sedang dilakukan, dan membuat rencana untuk besok.",
+        "fil": "Tumutulong ang aspekto ng pandiwa sa pagkukuwento tungkol sa kahapon, ginagawa ngayon, at plano para bukas."
+      },
+      "grammar": [
+        {
+          "title": {
+            "id": "Tiga aspek dasar",
+            "fil": "Tatlong batayang aspekto"
+          },
+          "explanation": {
+            "id": "Filipino menyoroti keadaan tindakan: selesai, sedang berlangsung/kebiasaan, atau akan dimulai. Bentuk verba berubah bersama aspek.",
+            "fil": "Binibigyang-diin ng Filipino kung naganap, nagaganap, o magaganap ang kilos. Nagbabago ang anyo ng pandiwa ayon sa aspekto."
+          },
+          "formula": {
+            "id": "nag-aral → nag-aaral → mag-aaral",
+            "fil": "nag-aral → nag-aaral → mag-aaral"
+          },
+          "rules": [
+            {
+              "id": "Pasangkan nag-aral dengan konteks selesai seperti kahapon.",
+              "fil": "Ipares ang nag-aral sa natapos na konteksto gaya ng kahapon."
+            },
+            {
+              "id": "Gunakan nag-aaral untuk kegiatan yang berlangsung atau rutin.",
+              "fil": "Gamitin ang nag-aaral sa kasalukuyan o nakagawiang kilos."
+            },
+            {
+              "id": "Gunakan mag-aaral untuk rencana atau kegiatan yang belum dimulai.",
+              "fil": "Gamitin ang mag-aaral sa plano o kilos na hindi pa nagsisimula."
+            }
+          ],
+          "pitfalls": [
+            {
+              "id": "Jangan mengandalkan kata waktu saja; bentuk verba juga harus cocok.",
+              "fil": "Huwag umasa sa pananda ng oras lamang; kailangang tumugma ang pandiwa."
+            },
+            {
+              "id": "Jangan menganggap semua bentuk mag- otomatis berarti masa depan.",
+              "fil": "Huwag isiping laging hinaharap ang lahat ng anyong mag-."
+            }
+          ]
+        },
+        {
+          "title": {
+            "id": "Aktor, objek, dan penanda waktu",
+            "fil": "Tagaganap, layon, at pananda ng oras"
+          },
+          "explanation": {
+            "id": "Dalam pola aktor-fokus dasar, nama atau pronomina aktor ditandai si/ang, sedangkan objek sering memakai ng. Penanda waktu dapat muncul di awal atau akhir.",
+            "fil": "Sa payak na pokus sa tagaganap, minamarkahan ng si/ang ang gumagawa at madalas ng ang layon. Maaaring nasa unahan o hulihan ang oras."
+          },
+          "formula": {
+            "id": "Verba + aktor + ng objek + waktu",
+            "fil": "Pandiwa + tagaganap + ng layon + oras"
+          },
+          "rules": [
+            {
+              "id": "Pertahankan ng sebelum objek dalam contoh dasar.",
+              "fil": "Panatilihin ang ng bago ang layon sa batayang halimbawa."
+            },
+            {
+              "id": "Gunakan kahapon, ngayon, bukas untuk memperjelas konteks.",
+              "fil": "Gamitin ang kahapon, ngayon, at bukas upang luminaw ang konteksto."
+            }
+          ],
+          "pitfalls": [
+            {
+              "id": "Jangan menerjemahkan urutan Indonesia tanpa memeriksa penanda.",
+              "fil": "Huwag tularan ang ayos ng Indonesian nang hindi sinusuri ang mga pananda."
+            },
+            {
+              "id": "Jangan mencampur bentuk selesai dan kata bukas dalam satu tindakan.",
+              "fil": "Huwag pagsamahin ang anyong naganap at bukas sa iisang kilos."
+            }
+          ]
+        }
+      ],
+      "lessonVocabulary": [
+        {
+          "term": "mag-aral",
+          "reading": "mag-aral",
+          "partOfSpeech": {
+            "id": "kata kerja",
+            "fil": "pandiwa"
+          },
+          "meaning": {
+            "id": "belajar",
+            "fil": "Pandiwa na ginagamit sa batayang padron ng araling ito."
+          },
+          "usage": {
+            "id": "Perhatikan bentuk mag-aral sebagai bagian dari sistem aspek, lalu cocokkan dengan konteks waktu.",
+            "fil": "Pansinin ang mag-aral bilang anyo ng aspekto at itugma ito sa konteksto ng oras."
+          }
+        },
+        {
+          "term": "nag-aral",
+          "reading": "nag-aral",
+          "partOfSpeech": {
+            "id": "kata kerja",
+            "fil": "pandiwa"
+          },
+          "meaning": {
+            "id": "telah belajar",
+            "fil": "Pandiwa na ginagamit sa batayang padron ng araling ito."
+          },
+          "usage": {
+            "id": "Bentuk ini menandai kegiatan belajar yang sudah selesai; cocok dengan kahapon.",
+            "fil": "Nagsasaad ito ng natapos na pag-aaral at bagay sa kahapon."
+          }
+        },
+        {
+          "term": "nag-aaral",
+          "reading": "nag-aaral",
+          "partOfSpeech": {
+            "id": "kata kerja",
+            "fil": "pandiwa"
+          },
+          "meaning": {
+            "id": "sedang belajar",
+            "fil": "Pandiwa na ginagamit sa batayang padron ng araling ito."
+          },
+          "usage": {
+            "id": "Bentuk ini menandai kegiatan belajar yang sedang berlangsung atau menjadi kebiasaan.",
+            "fil": "Nagsasaad ito ng kasalukuyan o nakagawiang pag-aaral."
+          }
+        },
+        {
+          "term": "mag-aaral",
+          "reading": "mag-aaral",
+          "partOfSpeech": {
+            "id": "kata kerja",
+            "fil": "pandiwa"
+          },
+          "meaning": {
+            "id": "akan belajar",
+            "fil": "Pandiwa na ginagamit sa batayang padron ng araling ito."
+          },
+          "usage": {
+            "id": "Bentuk ini menandai kegiatan belajar yang belum dimulai atau direncanakan.",
+            "fil": "Nagsasaad ito ng pag-aaral na hindi pa nagsisimula o nakaplano."
+          }
+        },
+        {
+          "term": "kumain",
+          "reading": "kumain",
+          "partOfSpeech": {
+            "id": "kata kerja",
+            "fil": "pandiwa"
+          },
+          "meaning": {
+            "id": "telah makan",
+            "fil": "Pandiwa na ginagamit sa batayang padron ng araling ito."
+          },
+          "usage": {
+            "id": "Perhatikan bentuk kumain sebagai bagian dari sistem aspek, lalu cocokkan dengan konteks waktu.",
+            "fil": "Pansinin ang kumain bilang anyo ng aspekto at itugma ito sa konteksto ng oras."
+          }
+        },
+        {
+          "term": "kakain",
+          "reading": "kakain",
+          "partOfSpeech": {
+            "id": "kata kerja",
+            "fil": "pandiwa"
+          },
+          "meaning": {
+            "id": "akan makan",
+            "fil": "Pandiwa na ginagamit sa batayang padron ng araling ito."
+          },
+          "usage": {
+            "id": "Perhatikan bentuk kakain sebagai bagian dari sistem aspek, lalu cocokkan dengan konteks waktu.",
+            "fil": "Pansinin ang kakain bilang anyo ng aspekto at itugma ito sa konteksto ng oras."
+          }
+        }
+      ],
+      "exampleGuides": [
+        {
+          "pattern": {
+            "id": "nag-aral → nag-aaral → mag-aaral",
+            "fil": "nag-aral → nag-aaral → mag-aaral"
+          },
+          "breakdown": {
+            "id": "Kosakata kunci: Nag-aral = telah belajar · ako = saya · ng = penanda objek/kepemilikan · Tagalog = bahasa Tagalog · kahapon = kemarin",
+            "fil": "Mahahalagang bahagi: Nag-aral, ako, ng, Tagalog, kahapon"
+          },
+          "tip": {
+            "id": "Pasangkan nag-aral dengan konteks selesai seperti kahapon.",
+            "fil": "Ipares ang nag-aral sa natapos na konteksto gaya ng kahapon."
+          }
+        },
+        {
+          "pattern": {
+            "id": "nag-aral → nag-aaral → mag-aaral",
+            "fil": "nag-aral → nag-aaral → mag-aaral"
+          },
+          "breakdown": {
+            "id": "Kosakata kunci: Nag-aaral = sedang belajar · ako = saya · ng = penanda objek/kepemilikan · Tagalog = bahasa Tagalog · ngayon = sekarang",
+            "fil": "Mahahalagang bahagi: Nag-aaral, ako, ng, Tagalog, ngayon"
+          },
+          "tip": {
+            "id": "Gunakan nag-aaral untuk kegiatan yang berlangsung atau rutin.",
+            "fil": "Gamitin ang nag-aaral sa kasalukuyan o nakagawiang kilos."
+          }
+        },
+        {
+          "pattern": {
+            "id": "nag-aral → nag-aaral → mag-aaral",
+            "fil": "nag-aral → nag-aaral → mag-aaral"
+          },
+          "breakdown": {
+            "id": "Kosakata kunci: Mag-aaral = akan belajar · ulit = lagi · ako = saya · bukas = besok",
+            "fil": "Mahahalagang bahagi: Mag-aaral, ulit, ako, bukas"
+          },
+          "tip": {
+            "id": "Gunakan mag-aaral untuk rencana atau kegiatan yang belum dimulai.",
+            "fil": "Gamitin ang mag-aaral sa plano o kilos na hindi pa nagsisimula."
+          }
+        },
+        {
+          "pattern": {
+            "id": "Verba + aktor + ng objek + waktu",
+            "fil": "Pandiwa + tagaganap + ng layon + oras"
+          },
+          "breakdown": {
+            "id": "Kosakata kunci: Kumain = telah makan · ng = penanda objek/kepemilikan · almusal = sarapan · si = penanda nama orang · Paolo = Paolo",
+            "fil": "Mahahalagang bahagi: Kumain, ng, almusal, si, Paolo"
+          },
+          "tip": {
+            "id": "Gunakan kahapon, ngayon, bukas untuk memperjelas konteks.",
+            "fil": "Gamitin ang kahapon, ngayon, at bukas upang luminaw ang konteksto."
+          }
+        },
+        {
+          "pattern": {
+            "id": "Verba + aktor + ng objek + waktu",
+            "fil": "Pandiwa + tagaganap + ng layon + oras"
+          },
+          "breakdown": {
+            "id": "Kosakata kunci: Kumakain = makan · siya = dia · ng = penanda objek/kepemilikan · pananghalian = makan siang · sa = di/ke/pada",
+            "fil": "Mahahalagang bahagi: Kumakain, siya, ng, pananghalian, sa"
+          },
+          "tip": {
+            "id": "Pertahankan ng sebelum objek dalam contoh dasar.",
+            "fil": "Panatilihin ang ng bago ang layon sa batayang halimbawa."
+          }
+        },
+        {
+          "pattern": {
+            "id": "nag-aral → nag-aaral → mag-aaral",
+            "fil": "nag-aral → nag-aaral → mag-aaral"
+          },
+          "breakdown": {
+            "id": "Kosakata kunci: Kumakain = makan · si = penanda nama orang · Mara = Mara · ngayon = sekarang · pero = tetapi",
+            "fil": "Mahahalagang bahagi: Kumakain, si, Mara, ngayon, pero"
+          },
+          "tip": {
+            "id": "Gunakan mag-aaral untuk rencana atau kegiatan yang belum dimulai.",
+            "fil": "Gamitin ang mag-aaral sa plano o kilos na hindi pa nagsisimula."
+          }
+        },
+        {
+          "pattern": {
+            "id": "nag-aral → nag-aaral → mag-aaral",
+            "fil": "nag-aral → nag-aaral → mag-aaral"
+          },
+          "breakdown": {
+            "id": "Kosakata kunci: Nag-aral = telah belajar · si = penanda nama orang · Joel = Joel · kahapon = kemarin · at = dan",
+            "fil": "Mahahalagang bahagi: Nag-aral, si, Joel, kahapon, at"
+          },
+          "tip": {
+            "id": "Pasangkan nag-aral dengan konteks selesai seperti kahapon.",
+            "fil": "Ipares ang nag-aral sa natapos na konteksto gaya ng kahapon."
+          }
+        }
       ]
     },
     {
@@ -3155,8 +5200,16 @@
       },
       "objectives": [
         {
-          "id": "Menggunakan materi unit 12 secara mandiri.",
-          "fil": "Gamitin nang mag-isa ang wika sa yunit 12."
+          "id": "Memilih hindi, wala, atau huwag sesuai makna yang dimaksud.",
+          "fil": "Piliin ang hindi, wala, o huwag ayon sa nais na kahulugan."
+        },
+        {
+          "id": "Menggabungkan kata sifat dengan nomina memakai na atau -ng.",
+          "fil": "Iugnay ang pang-uri at pangngalan gamit ang na o -ng."
+        },
+        {
+          "id": "Membuat deskripsi sederhana dengan intensitas seperti napaka-.",
+          "fil": "Bumuo ng payak na paglalarawan gamit ang antas na napaka-."
         }
       ],
       "notes": [
@@ -3215,12 +5268,12 @@
           "fil": "Napakatahimik pero palakaibigan ang bagong estudyante."
         },
         {
-          "id": "Apakah kita dapat berlatih sekarang?",
-          "fil": "Maaari ba tayong magsanay ngayon?"
+          "id": "Ini bukan rumah besar, tetapi bersih dan indah.",
+          "fil": "Hindi malaking bahay ito, pero malinis at maganda."
         },
         {
-          "id": "Ya, mari gunakan kata baru dalam percakapan.",
-          "fil": "Oo, gamitin natin ang bagong salita sa usapan."
+          "id": "Tidak ada air, jadi jangan buka pintunya.",
+          "fil": "Walang tubig, kaya huwag buksan ang pinto."
         }
       ],
       "speakers": [
@@ -3377,6 +5430,278 @@
             "fil": "Hindi marumi ang silid; malinis at maliwanag ito."
           }
         }
+      ],
+      "context": {
+        "id": "Negasi dan kata sifat diperlukan untuk menolak, memperingatkan, serta menggambarkan tempat, orang, dan benda dengan tepat.",
+        "fil": "Kailangan ang negasyon at pang-uri sa pagtanggi, pagbababala, at tumpak na paglalarawan ng lugar, tao, at bagay."
+      },
+      "grammar": [
+        {
+          "title": {
+            "id": "Hindi, wala, dan huwag",
+            "fil": "Hindi, wala, at huwag"
+          },
+          "explanation": {
+            "id": "Hindi menyangkal sifat atau tindakan, wala menyatakan ketiadaan, dan huwag membentuk larangan. Memilih bentuk yang tepat menghindari perubahan makna.",
+            "fil": "Itinatanggi ng hindi ang katangian o kilos, nagsasaad ng kawalan ang wala, at bumubuo ng pagbabawal ang huwag."
+          },
+          "formula": {
+            "id": "Hindi + sifat/verba · Walang + benda · Huwag + verba",
+            "fil": "Hindi + pang-uri/pandiwa · Walang + bagay · Huwag + pandiwa"
+          },
+          "rules": [
+            {
+              "id": "Gunakan hindi sebelum kata sifat: hindi marumi.",
+              "fil": "Gamitin ang hindi bago ang pang-uri: hindi marumi."
+            },
+            {
+              "id": "Gunakan huwag untuk meminta seseorang tidak melakukan tindakan.",
+              "fil": "Gamitin ang huwag upang ipagbawal ang kilos."
+            }
+          ],
+          "pitfalls": [
+            {
+              "id": "Jangan memakai hindi ada sebagai terjemahan harfiah; gunakan wala.",
+              "fil": "Huwag isalin nang literal ang “tidak ada”; gamitin ang wala."
+            },
+            {
+              "id": "Jangan memakai wala untuk menyangkal sifat.",
+              "fil": "Huwag gamitin ang wala sa pagtanggi ng katangian."
+            }
+          ]
+        },
+        {
+          "title": {
+            "id": "Kata sifat, penghubung, dan intensitas",
+            "fil": "Pang-uri, pang-angkop, at antas"
+          },
+          "explanation": {
+            "id": "Kata sifat dapat menjadi predikat atau menerangkan nomina. Na/-ng menghubungkan deskripsi dan benda; napaka- memberi arti “sangat”.",
+            "fil": "Maaaring maging panaguri ang pang-uri o maglarawan ng pangngalan. Iniuugnay ng na/-ng ang paglalarawan at bagay; nangangahulugang “lubha” ang napaka-."
+          },
+          "formula": {
+            "id": "pang-uri + na/-ng + nomina · napaka- + pang-uri",
+            "fil": "pang-uri + na/-ng + pangngalan · napaka- + pang-uri"
+          },
+          "rules": [
+            {
+              "id": "Pakai -ng setelah kata yang berakhir vokal: magandang hardin.",
+              "fil": "Gamitin ang -ng pagkatapos ng patinig: magandang hardin."
+            },
+            {
+              "id": "Gunakan na setelah bentuk yang tidak dapat menerima -ng.",
+              "fil": "Gamitin ang na kapag hindi maaaring ikabit ang -ng."
+            }
+          ],
+          "pitfalls": [
+            {
+              "id": "Jangan menghilangkan penghubung di antara kata sifat dan nomina.",
+              "fil": "Huwag alisin ang pang-angkop sa pagitan ng pang-uri at pangngalan."
+            },
+            {
+              "id": "Jangan menambahkan sangat lagi setelah napaka-.",
+              "fil": "Huwag nang magdagdag ng isa pang pananda ng tindi pagkatapos ng napaka-."
+            }
+          ]
+        }
+      ],
+      "lessonVocabulary": [
+        {
+          "term": "hindi",
+          "reading": "hindi",
+          "partOfSpeech": {
+            "id": "partikel negasi",
+            "fil": "katagang pananggi"
+          },
+          "meaning": {
+            "id": "tidak",
+            "fil": "Katagang pananggi na ginagamit sa batayang padron ng araling ito."
+          },
+          "usage": {
+            "id": "Gunakan hindi untuk menyangkal tindakan atau sifat, bukan untuk menyatakan bahwa benda tidak ada.",
+            "fil": "Gamitin ang hindi sa pagtanggi ng kilos o katangian, hindi sa kawalan ng bagay."
+          }
+        },
+        {
+          "term": "wala",
+          "reading": "wala",
+          "partOfSpeech": {
+            "id": "partikel negasi",
+            "fil": "katagang pananggi"
+          },
+          "meaning": {
+            "id": "tidak ada",
+            "fil": "Katagang pananggi na ginagamit sa batayang padron ng araling ito."
+          },
+          "usage": {
+            "id": "Gunakan wala atau walang untuk menyatakan ketiadaan orang atau benda.",
+            "fil": "Gamitin ang wala o walang sa kawalan ng tao o bagay."
+          }
+        },
+        {
+          "term": "huwag",
+          "reading": "huwag",
+          "partOfSpeech": {
+            "id": "partikel negasi",
+            "fil": "katagang pananggi"
+          },
+          "meaning": {
+            "id": "jangan",
+            "fil": "Katagang pananggi na ginagamit sa batayang padron ng araling ito."
+          },
+          "usage": {
+            "id": "Letakkan huwag sebelum verba untuk larangan atau peringatan.",
+            "fil": "Ilagay ang huwag bago ang pandiwa sa pagbabawal o babala."
+          }
+        },
+        {
+          "term": "malinis",
+          "reading": "malinis",
+          "partOfSpeech": {
+            "id": "kata sifat",
+            "fil": "pang-uri"
+          },
+          "meaning": {
+            "id": "bersih",
+            "fil": "Pang-uri na ginagamit sa batayang padron ng araling ito."
+          },
+          "usage": {
+            "id": "Gunakan malinis sebagai predikat atau hubungkan dengan nomina memakai na/-ng.",
+            "fil": "Gamitin ang malinis bilang panaguri o iugnay sa pangngalan gamit ang na/-ng."
+          }
+        },
+        {
+          "term": "maganda",
+          "reading": "maganda",
+          "partOfSpeech": {
+            "id": "kata sifat",
+            "fil": "pang-uri"
+          },
+          "meaning": {
+            "id": "indah",
+            "fil": "Pang-uri na ginagamit sa batayang padron ng araling ito."
+          },
+          "usage": {
+            "id": "Gunakan maganda sebagai predikat atau hubungkan dengan nomina memakai na/-ng.",
+            "fil": "Gamitin ang maganda bilang panaguri o iugnay sa pangngalan gamit ang na/-ng."
+          }
+        },
+        {
+          "term": "maliit",
+          "reading": "maliit",
+          "partOfSpeech": {
+            "id": "kata sifat",
+            "fil": "pang-uri"
+          },
+          "meaning": {
+            "id": "kecil",
+            "fil": "Pang-uri na ginagamit sa batayang padron ng araling ito."
+          },
+          "usage": {
+            "id": "Gunakan maliit sebagai predikat atau hubungkan dengan nomina memakai na/-ng.",
+            "fil": "Gamitin ang maliit bilang panaguri o iugnay sa pangngalan gamit ang na/-ng."
+          }
+        }
+      ],
+      "exampleGuides": [
+        {
+          "pattern": {
+            "id": "Hindi + sifat/verba · Walang + benda · Huwag + verba",
+            "fil": "Hindi + pang-uri/pandiwa · Walang + bagay · Huwag + pandiwa"
+          },
+          "breakdown": {
+            "id": "Kosakata kunci: Hindi = tidak · marumi = kotor · ang = penanda fokus · silid = ruangan · malinis = bersih",
+            "fil": "Mahahalagang bahagi: Hindi, marumi, ang, silid, malinis"
+          },
+          "tip": {
+            "id": "Gunakan hindi sebelum kata sifat: hindi marumi.",
+            "fil": "Gamitin ang hindi bago ang pang-uri: hindi marumi."
+          }
+        },
+        {
+          "pattern": {
+            "id": "Hindi + sifat/verba · Walang + benda · Huwag + verba",
+            "fil": "Hindi + pang-uri/pandiwa · Walang + bagay · Huwag + pandiwa"
+          },
+          "breakdown": {
+            "id": "Kosakata kunci: Walang = tanpa; tidak ada · mainit = panas · na = sudah/penghubung · tubig = air · ngayon = sekarang",
+            "fil": "Mahahalagang bahagi: Walang, mainit, na, tubig, ngayon"
+          },
+          "tip": {
+            "id": "Gunakan huwag untuk meminta seseorang tidak melakukan tindakan.",
+            "fil": "Gamitin ang huwag upang ipagbawal ang kilos."
+          }
+        },
+        {
+          "pattern": {
+            "id": "Hindi + sifat/verba · Walang + benda · Huwag + verba",
+            "fil": "Hindi + pang-uri/pandiwa · Walang + bagay · Huwag + pandiwa"
+          },
+          "breakdown": {
+            "id": "Kosakata kunci: Huwag = jangan · buksan = membuka · ang = penanda fokus · pulang = merah · kahon = kotak",
+            "fil": "Mahahalagang bahagi: Huwag, buksan, ang, pulang, kahon"
+          },
+          "tip": {
+            "id": "Gunakan hindi sebelum kata sifat: hindi marumi.",
+            "fil": "Gamitin ang hindi bago ang pang-uri: hindi marumi."
+          }
+        },
+        {
+          "pattern": {
+            "id": "pang-uri + na/-ng + nomina · napaka- + pang-uri",
+            "fil": "pang-uri + na/-ng + pangngalan · napaka- + pang-uri"
+          },
+          "breakdown": {
+            "id": "Kosakata kunci: May = ada/memiliki · maganda = indah · at = dan · maliit = kecil · na = sudah/penghubung",
+            "fil": "Mahahalagang bahagi: May, maganda, at, maliit, na"
+          },
+          "tip": {
+            "id": "Gunakan na setelah bentuk yang tidak dapat menerima -ng.",
+            "fil": "Gamitin ang na kapag hindi maaaring ikabit ang -ng."
+          }
+        },
+        {
+          "pattern": {
+            "id": "pang-uri + na/-ng + nomina · napaka- + pang-uri",
+            "fil": "pang-uri + na/-ng + pangngalan · napaka- + pang-uri"
+          },
+          "breakdown": {
+            "id": "Kosakata kunci: Napakatahimik = sangat · pero = tetapi · palakaibigan = ramah · ang = penanda fokus · bagong = baru",
+            "fil": "Mahahalagang bahagi: Napakatahimik, pero, palakaibigan, ang, bagong"
+          },
+          "tip": {
+            "id": "Pakai -ng setelah kata yang berakhir vokal: magandang hardin.",
+            "fil": "Gamitin ang -ng pagkatapos ng patinig: magandang hardin."
+          }
+        },
+        {
+          "pattern": {
+            "id": "Hindi + sifat/verba · Walang + benda · Huwag + verba",
+            "fil": "Hindi + pang-uri/pandiwa · Walang + bagay · Huwag + pandiwa"
+          },
+          "breakdown": {
+            "id": "Kosakata kunci: Hindi = tidak · malaking = besar · bahay = rumah · ito = itu · pero = tetapi",
+            "fil": "Mahahalagang bahagi: Hindi, malaking, bahay, ito, pero"
+          },
+          "tip": {
+            "id": "Gunakan huwag untuk meminta seseorang tidak melakukan tindakan.",
+            "fil": "Gamitin ang huwag upang ipagbawal ang kilos."
+          }
+        },
+        {
+          "pattern": {
+            "id": "Hindi + sifat/verba · Walang + benda · Huwag + verba",
+            "fil": "Hindi + pang-uri/pandiwa · Walang + bagay · Huwag + pandiwa"
+          },
+          "breakdown": {
+            "id": "Kosakata kunci: Walang = tanpa; tidak ada · tubig = air · kaya = jadi; karena itu · huwag = jangan · buksan = membuka",
+            "fil": "Mahahalagang bahagi: Walang, tubig, kaya, huwag, buksan"
+          },
+          "tip": {
+            "id": "Gunakan hindi sebelum kata sifat: hindi marumi.",
+            "fil": "Gamitin ang hindi bago ang pang-uri: hindi marumi."
+          }
+        }
       ]
     },
     {
@@ -3397,8 +5722,16 @@
       },
       "objectives": [
         {
-          "id": "Menggunakan materi unit 13 secara mandiri.",
-          "fil": "Gamitin nang mag-isa ang wika sa yunit 13."
+          "id": "Menyebut makanan dan minuman umum dalam pesanan sederhana.",
+          "fil": "Tukuyin ang karaniwang pagkain at inumin sa payak na order."
+        },
+        {
+          "id": "Menggunakan gusto, ayoko, dan pahingi po untuk preferensi serta permintaan.",
+          "fil": "Gamitin ang gusto, ayoko, at pahingi po sa kagustuhan at pakiusap."
+        },
+        {
+          "id": "Menanyakan harga dan memahami jawaban jumlah dasar.",
+          "fil": "Magtanong ng presyo at maunawaan ang batayang sagot na halaga."
         }
       ],
       "notes": [
@@ -3459,12 +5792,12 @@
           "fil": "Magkano po ang pagkain? Isang daan at dalawampung piso po."
         },
         {
-          "id": "Apakah kita dapat berlatih sekarang?",
-          "fil": "Maaari ba tayong magsanay ngayon?"
+          "id": "Boleh minta nasi dan segelas air?",
+          "fil": "Pahingi po ng kanin at isang basong tubig."
         },
         {
-          "id": "Ya, mari gunakan kata baru dalam percakapan.",
-          "fil": "Oo, gamitin natin ang bagong salita sa usapan."
+          "id": "Saya tidak suka ayam pedas; saya suka sayuran.",
+          "fil": "Ayoko ng maanghang na manok; gusto ko ng gulay."
         }
       ],
       "speakers": [
@@ -3619,6 +5952,294 @@
             "fil": "Gusto ko ng kanin, manok, gulay, at mangga."
           }
         }
+      ],
+      "context": {
+        "id": "Ungkapan makanan membantu Anda memesan di warung atau kafe, menyebut preferensi, meminta sesuatu dengan sopan, dan menanyakan harga.",
+        "fil": "Tumutulong ang mga pahayag tungkol sa pagkain sa pag-order, pagsasabi ng gusto, magalang na paghingi, at pagtatanong ng presyo."
+      },
+      "grammar": [
+        {
+          "title": {
+            "id": "Menyatakan suka dan tidak suka",
+            "fil": "Pagsasabi ng gusto at ayaw"
+          },
+          "explanation": {
+            "id": "Gusto ko ng memperkenalkan benda atau makanan yang diinginkan. Ayoko ng menyatakan ketidaksukaan; ng tetap menghubungkan ungkapan dengan objek.",
+            "fil": "Ipinakikilala ng gusto ko ng ang nais na bagay o pagkain. Nagsasaad ng hindi pagkagusto ang ayoko ng."
+          },
+          "formula": {
+            "id": "Gusto ko ng + makanan · Ayoko ng + makanan",
+            "fil": "Gusto ko ng + pagkain · Ayoko ng + pagkain"
+          },
+          "rules": [
+            {
+              "id": "Gunakan ng sebelum makanan dalam pola dasar.",
+              "fil": "Gamitin ang ng bago ang pagkain sa batayang padron."
+            },
+            {
+              "id": "Tambahkan po saat berbicara kepada pelayan atau orang yang lebih tua.",
+              "fil": "Idagdag ang po kapag kausap ang tagapagsilbi o nakatatanda."
+            }
+          ],
+          "pitfalls": [
+            {
+              "id": "Jangan memakai gusto ko ang dalam pola permintaan dasar ini.",
+              "fil": "Huwag gamitin ang gusto ko ang sa batayang pakiusap na ito."
+            },
+            {
+              "id": "Jangan menyamakan ayoko dengan hindi saja; ayoko menyatakan preferensi.",
+              "fil": "Huwag itumbas ang ayoko sa hindi lamang; kagustuhan ang tinutukoy nito."
+            }
+          ]
+        },
+        {
+          "title": {
+            "id": "Permintaan sopan dan harga",
+            "fil": "Magalang na pakiusap at presyo"
+          },
+          "explanation": {
+            "id": "Pahingi po ng adalah pola praktis untuk meminta benda. Magkano po ang ...? menanyakan harga, lalu jawaban biasanya berupa jumlah dan piso.",
+            "fil": "Praktikal na pakiusap ang pahingi po ng. Nagtatanong ng presyo ang magkano po ang ...?, at karaniwang bilang at piso ang sagot."
+          },
+          "formula": {
+            "id": "Pahingi po ng + benda · Magkano po ang + benda?",
+            "fil": "Pahingi po ng + bagay · Magkano po ang + bagay?"
+          },
+          "rules": [
+            {
+              "id": "Sebutkan satuan bila perlu: baso, mangkok, atau kilo.",
+              "fil": "Banggitin ang sukat kung kailangan: baso, mangkok, o kilo."
+            },
+            {
+              "id": "Gunakan iyon lang po untuk menutup pesanan dengan sopan.",
+              "fil": "Gamitin ang iyon lang po upang magalang na tapusin ang order."
+            }
+          ],
+          "pitfalls": [
+            {
+              "id": "Jangan menghilangkan ng setelah pahingi dalam pola ini.",
+              "fil": "Huwag alisin ang ng pagkatapos ng pahingi sa padron na ito."
+            },
+            {
+              "id": "Jangan lupa memeriksa apakah harga untuk satu barang atau seluruh pesanan.",
+              "fil": "Huwag kalimutang linawin kung para sa isang bagay o buong order ang presyo."
+            }
+          ]
+        }
+      ],
+      "lessonVocabulary": [
+        {
+          "term": "kanin",
+          "reading": "kanin",
+          "partOfSpeech": {
+            "id": "kata benda",
+            "fil": "pangngalan"
+          },
+          "meaning": {
+            "id": "nasi",
+            "fil": "Pangngalan na ginagamit sa batayang padron ng araling ito."
+          },
+          "usage": {
+            "id": "Gunakan kanin untuk menyebut nasi; tambahkan ang, ng, atau sa sesuai perannya dalam kalimat.",
+            "fil": "Gamitin ang kanin bilang pangngalan at lagyan ng ang, ng, o sa ayon sa gamit nito sa pangungusap."
+          }
+        },
+        {
+          "term": "manok",
+          "reading": "manok",
+          "partOfSpeech": {
+            "id": "kata benda",
+            "fil": "pangngalan"
+          },
+          "meaning": {
+            "id": "ayam",
+            "fil": "Pangngalan na ginagamit sa batayang padron ng araling ito."
+          },
+          "usage": {
+            "id": "Gunakan manok untuk menyebut ayam; tambahkan ang, ng, atau sa sesuai perannya dalam kalimat.",
+            "fil": "Gamitin ang manok bilang pangngalan at lagyan ng ang, ng, o sa ayon sa gamit nito sa pangungusap."
+          }
+        },
+        {
+          "term": "gulay",
+          "reading": "gulay",
+          "partOfSpeech": {
+            "id": "kata benda",
+            "fil": "pangngalan"
+          },
+          "meaning": {
+            "id": "sayuran",
+            "fil": "Pangngalan na ginagamit sa batayang padron ng araling ito."
+          },
+          "usage": {
+            "id": "Gunakan gulay untuk menyebut sayuran; tambahkan ang, ng, atau sa sesuai perannya dalam kalimat.",
+            "fil": "Gamitin ang gulay bilang pangngalan at lagyan ng ang, ng, o sa ayon sa gamit nito sa pangungusap."
+          }
+        },
+        {
+          "term": "tubig",
+          "reading": "tubig",
+          "partOfSpeech": {
+            "id": "kata benda",
+            "fil": "pangngalan"
+          },
+          "meaning": {
+            "id": "air",
+            "fil": "Pangngalan na ginagamit sa batayang padron ng araling ito."
+          },
+          "usage": {
+            "id": "Gunakan tubig untuk menyebut air; tambahkan ang, ng, atau sa sesuai perannya dalam kalimat.",
+            "fil": "Gamitin ang tubig bilang pangngalan at lagyan ng ang, ng, o sa ayon sa gamit nito sa pangungusap."
+          }
+        },
+        {
+          "term": "kape",
+          "reading": "kape",
+          "partOfSpeech": {
+            "id": "kata benda",
+            "fil": "pangngalan"
+          },
+          "meaning": {
+            "id": "kopi",
+            "fil": "Pangngalan na ginagamit sa batayang padron ng araling ito."
+          },
+          "usage": {
+            "id": "Gunakan kape untuk menyebut kopi; tambahkan ang, ng, atau sa sesuai perannya dalam kalimat.",
+            "fil": "Gamitin ang kape bilang pangngalan at lagyan ng ang, ng, o sa ayon sa gamit nito sa pangungusap."
+          }
+        },
+        {
+          "term": "pahingi po",
+          "reading": "pahingi po",
+          "partOfSpeech": {
+            "id": "ungkapan",
+            "fil": "parirala"
+          },
+          "meaning": {
+            "id": "boleh minta",
+            "fil": "Parirala na ginagamit sa batayang padron ng araling ito."
+          },
+          "usage": {
+            "id": "Pakai pahingi po ng + benda untuk meminta sesuatu dengan sopan.",
+            "fil": "Gamitin ang pahingi po ng + bagay sa magalang na paghingi."
+          }
+        },
+        {
+          "term": "magkano",
+          "reading": "magkano",
+          "partOfSpeech": {
+            "id": "kata keterangan/arah",
+            "fil": "pang-abay/direksiyon"
+          },
+          "meaning": {
+            "id": "berapa harga",
+            "fil": "Pang-abay/direksiyon na ginagamit sa batayang padron ng araling ito."
+          },
+          "usage": {
+            "id": "Gunakan magkano po ang + benda untuk menanyakan harga dengan sopan.",
+            "fil": "Gamitin ang magkano po ang + bagay sa magalang na pagtatanong ng presyo."
+          }
+        }
+      ],
+      "exampleGuides": [
+        {
+          "pattern": {
+            "id": "Gusto ko ng + makanan · Ayoko ng + makanan",
+            "fil": "Gusto ko ng + pagkain · Ayoko ng + pagkain"
+          },
+          "breakdown": {
+            "id": "Kosakata kunci: Gusto = ingin · ko = milik saya; saya · ng = penanda objek/kepemilikan · kanin = nasi · manok = ayam",
+            "fil": "Mahahalagang bahagi: Gusto, ko, ng, kanin, manok"
+          },
+          "tip": {
+            "id": "Gunakan ng sebelum makanan dalam pola dasar.",
+            "fil": "Gamitin ang ng bago ang pagkain sa batayang padron."
+          }
+        },
+        {
+          "pattern": {
+            "id": "Gusto ko ng + makanan · Ayoko ng + makanan",
+            "fil": "Gusto ko ng + pagkain · Ayoko ng + pagkain"
+          },
+          "breakdown": {
+            "id": "Kosakata kunci: Ayoko = saya tidak suka · ng = penanda objek/kepemilikan · napakaalat = sangat · na = sudah/penghubung · pagkain = makanan",
+            "fil": "Mahahalagang bahagi: Ayoko, ng, napakaalat, na, pagkain"
+          },
+          "tip": {
+            "id": "Tambahkan po saat berbicara kepada pelayan atau orang yang lebih tua.",
+            "fil": "Idagdag ang po kapag kausap ang tagapagsilbi o nakatatanda."
+          }
+        },
+        {
+          "pattern": {
+            "id": "Pahingi po ng + benda · Magkano po ang + benda?",
+            "fil": "Pahingi po ng + bagay · Magkano po ang + bagay?"
+          },
+          "breakdown": {
+            "id": "Kosakata kunci: Pahingi = boleh minta · po = partikel hormat · ng = penanda objek/kepemilikan · isang = satu · mangkok = mangkuk",
+            "fil": "Mahahalagang bahagi: Pahingi, po, ng, isang, mangkok"
+          },
+          "tip": {
+            "id": "Sebutkan satuan bila perlu: baso, mangkok, atau kilo.",
+            "fil": "Banggitin ang sukat kung kailangan: baso, mangkok, o kilo."
+          }
+        },
+        {
+          "pattern": {
+            "id": "Gusto ko ng + makanan · Ayoko ng + makanan",
+            "fil": "Gusto ko ng + pagkain · Ayoko ng + pagkain"
+          },
+          "breakdown": {
+            "id": "Kosakata kunci: Gusto = ingin · ko = milik saya; saya · po = partikel hormat · ng = penanda objek/kepemilikan · malamig = dingin",
+            "fil": "Mahahalagang bahagi: Gusto, ko, po, ng, malamig"
+          },
+          "tip": {
+            "id": "Tambahkan po saat berbicara kepada pelayan atau orang yang lebih tua.",
+            "fil": "Idagdag ang po kapag kausap ang tagapagsilbi o nakatatanda."
+          }
+        },
+        {
+          "pattern": {
+            "id": "Pahingi po ng + benda · Magkano po ang + benda?",
+            "fil": "Pahingi po ng + bagay · Magkano po ang + bagay?"
+          },
+          "breakdown": {
+            "id": "Kosakata kunci: Magkano = berapa harga · po = partikel hormat · ang = penanda fokus · pagkain = makanan · Isang = satu",
+            "fil": "Mahahalagang bahagi: Magkano, po, ang, pagkain, Isang"
+          },
+          "tip": {
+            "id": "Sebutkan satuan bila perlu: baso, mangkok, atau kilo.",
+            "fil": "Banggitin ang sukat kung kailangan: baso, mangkok, o kilo."
+          }
+        },
+        {
+          "pattern": {
+            "id": "Pahingi po ng + benda · Magkano po ang + benda?",
+            "fil": "Pahingi po ng + bagay · Magkano po ang + bagay?"
+          },
+          "breakdown": {
+            "id": "Kosakata kunci: Pahingi = boleh minta · po = partikel hormat · ng = penanda objek/kepemilikan · kanin = nasi · at = dan",
+            "fil": "Mahahalagang bahagi: Pahingi, po, ng, kanin, at"
+          },
+          "tip": {
+            "id": "Gunakan iyon lang po untuk menutup pesanan dengan sopan.",
+            "fil": "Gamitin ang iyon lang po upang magalang na tapusin ang order."
+          }
+        },
+        {
+          "pattern": {
+            "id": "Gusto ko ng + makanan · Ayoko ng + makanan",
+            "fil": "Gusto ko ng + pagkain · Ayoko ng + pagkain"
+          },
+          "breakdown": {
+            "id": "Kosakata kunci: Ayoko = saya tidak suka · ng = penanda objek/kepemilikan · maanghang = pedas · na = sudah/penghubung · manok = ayam",
+            "fil": "Mahahalagang bahagi: Ayoko, ng, maanghang, na, manok"
+          },
+          "tip": {
+            "id": "Gunakan ng sebelum makanan dalam pola dasar.",
+            "fil": "Gamitin ang ng bago ang pagkain sa batayang padron."
+          }
+        }
       ]
     },
     {
@@ -3634,8 +6255,8 @@
         "fil": "Pananghalian sa maliit na kapihan"
       },
       "summary": {
-        "id": "Pelanggan memesan dan meminta tagihan.",
-        "fil": "Um-order ang mamimili at humingi ng bayarin."
+        "id": "Pesanan makan siang berubah ketika ayam habis, tetapi pelanggan menemukan pengganti yang segar.",
+        "fil": "Nagbago ang order nang maubos ang manok, ngunit nakahanap ang kostumer ng sariwang kapalit."
       },
       "objectives": [
         {
@@ -3686,15 +6307,40 @@
         {
           "id": "Itu saja. Boleh minta tagihannya nanti?",
           "fil": "Iyon lang po. Pahingi ng bayarin mamaya."
+        },
+        {
+          "id": "Maaf, ayamnya sudah habis.",
+          "fil": "Paumanhin po, wala na ang manok."
+        },
+        {
+          "id": "Apakah ada ikan atau sayuran?",
+          "fil": "May isda o gulay ba?"
+        },
+        {
+          "id": "Ada ikan segar dan sayuran yang enak.",
+          "fil": "May sariwang isda at masarap na gulay."
+        },
+        {
+          "id": "Baik, ikan saja.",
+          "fil": "Sige, isda na lang po."
+        },
+        {
+          "id": "Terima kasih. Ini air dinginnya.",
+          "fil": "Salamat po. Heto ang malamig na tubig."
         }
       ],
       "speakers": [
-        "Server",
-        "Customer",
-        "Server",
-        "Customer",
-        "Server",
-        "Customer"
+        "Pelayan",
+        "Pelanggan",
+        "Pelayan",
+        "Pelanggan",
+        "Pelayan",
+        "Pelanggan",
+        "Pelayan",
+        "Pelanggan",
+        "Pelayan",
+        "Pelanggan",
+        "Pelayan"
       ],
       "exercises": [
         {
@@ -3785,6 +6431,25 @@
           },
           "speech": {
             "fil": "Magandang hapon po. Ano ang gusto ninyo?"
+          }
+        },
+        {
+          "id": "a1_14_cafe_twist_comprehension",
+          "type": "COMPREHENSION",
+          "prompt": {
+            "id": "Apa yang dipilih pelanggan ketika ayam habis?",
+            "fil": "Ano ang pinili ng kostumer nang maubos ang manok?"
+          },
+          "answer": {
+            "id": "Ikan dan sayuran.",
+            "fil": "Isda at gulay."
+          },
+          "explanation": {
+            "id": "Jawabannya muncul pada perubahan atau kejutan di bagian akhir bacaan.",
+            "fil": "Makikita ang sagot sa pagbabago o sorpresa sa hulihan ng babasahin."
+          },
+          "speech": {
+            "fil": "May iba pa?"
           }
         }
       ]
@@ -4099,13 +6764,11 @@
               "choices": {
                 "id": [
                   "daftar belanja",
-                  "berapa harga",
-                  "daftar belanja"
+                  "berapa harga"
                 ],
                 "fil": [
                   "listahan ng bibilhin",
-                  "magkano",
-                  "listahan ng bibilhin"
+                  "magkano"
                 ]
               },
               "answer": {
@@ -4259,13 +6922,11 @@
               "choices": {
                 "id": [
                   "bantuan",
-                  "tas",
-                  "bantuan"
+                  "tas"
                 ],
                 "fil": [
                   "tulong",
-                  "bag",
-                  "tulong"
+                  "bag"
                 ]
               },
               "answer": {
@@ -4419,13 +7080,11 @@
               "choices": {
                 "id": [
                   "hadiah",
-                  "suka membantu",
-                  "hadiah"
+                  "suka membantu"
                 ],
                 "fil": [
                   "regalo",
-                  "matulungin",
-                  "regalo"
+                  "matulungin"
                 ]
               },
               "answer": {
@@ -4500,8 +7159,16 @@
       },
       "objectives": [
         {
-          "id": "Menggunakan materi unit 16 secara mandiri.",
-          "fil": "Gamitin nang mag-isa ang wika sa yunit 16."
+          "id": "Menjelaskan posisi dengan katabi, tapat, malapit, dan malayo.",
+          "fil": "Ilarawan ang lokasyon gamit ang katabi, tapat, malapit, at malayo."
+        },
+        {
+          "id": "Memberi urutan arah dengan dumiretso, kumaliwa, dan kumanan.",
+          "fil": "Magbigay ng sunod-sunod na direksiyon gamit ang dumiretso, kumaliwa, at kumanan."
+        },
+        {
+          "id": "Menanyakan lokasi secara sopan dan memeriksa bahwa tujuan sudah dekat.",
+          "fil": "Magtanong ng lokasyon nang magalang at tiyaking malapit na ang patutunguhan."
         }
       ],
       "notes": [
@@ -4560,12 +7227,12 @@
           "fil": "Malapit sa malaking otel ang ospital. Hindi ito malayo."
         },
         {
-          "id": "Apakah kita dapat berlatih sekarang?",
-          "fil": "Maaari ba tayong magsanay ngayon?"
+          "id": "Di mana apoteknya? Apotek itu di samping bank.",
+          "fil": "Nasaan ang botika? Katabi ito ng bangko."
         },
         {
-          "id": "Ya, mari gunakan kata baru dalam percakapan.",
-          "fil": "Oo, gamitin natin ang bagong salita sa usapan."
+          "id": "Jalan lurus dan belok kanan di jalan; rumah sakit sudah dekat.",
+          "fil": "Dumiretso at kumanan sa kalye; malapit ang ospital."
         }
       ],
       "speakers": [
@@ -4715,6 +7382,278 @@
             "fil": "Katabi ng botika ang bangko."
           }
         }
+      ],
+      "context": {
+        "id": "Kosakata tempat dan arah membantu Anda menemukan halte, rumah sakit, toko, atau tujuan lain saat berjalan di lingkungan baru.",
+        "fil": "Tumutulong ang bokabularyo ng lugar at direksiyon sa paghahanap ng hintuan, ospital, tindahan, at iba pang patutunguhan."
+      },
+      "grammar": [
+        {
+          "title": {
+            "id": "Hubungan antar-tempat",
+            "fil": "Ugnayan ng mga lugar"
+          },
+          "explanation": {
+            "id": "Kata lokasi seperti katabi dan tapat diikuti ng serta tempat acuan. Ang menandai tempat yang sedang dijelaskan.",
+            "fil": "Sinusundan ng ng at batayang lugar ang katabi at tapat. Minamarkahan ng ang ang lugar na inilalarawan."
+          },
+          "formula": {
+            "id": "Katabi/Tapat ng + acuan + ang + tempat",
+            "fil": "Katabi/Tapat ng + batayan + ang + lugar"
+          },
+          "rules": [
+            {
+              "id": "Letakkan tempat acuan setelah ng.",
+              "fil": "Ilagay ang batayang lugar pagkatapos ng ng."
+            },
+            {
+              "id": "Gunakan malapit sa atau malayo sa untuk jarak.",
+              "fil": "Gamitin ang malapit sa o malayo sa para sa layo."
+            }
+          ],
+          "pitfalls": [
+            {
+              "id": "Jangan menghilangkan ng setelah katabi atau tapat.",
+              "fil": "Huwag alisin ang ng pagkatapos ng katabi o tapat."
+            },
+            {
+              "id": "Jangan menukar tempat acuan dan tempat yang dijelaskan tanpa mengubah penanda.",
+              "fil": "Huwag pagpalitin ang batayan at inilalarawang lugar nang hindi inaayos ang pananda."
+            }
+          ]
+        },
+        {
+          "title": {
+            "id": "Arah sebagai urutan tindakan",
+            "fil": "Direksiyon bilang sunod-sunod na kilos"
+          },
+          "explanation": {
+            "id": "Bentuk perintah sederhana menyampaikan rute dengan jelas. Hubungkan langkah memakai pagkatapos atau tapos dan tambahkan penanda tempat dengan sa.",
+            "fil": "Malinaw na naibibigay ng payak na utos ang ruta. Pagdugtungin ang hakbang gamit ang pagkatapos o tapos at idagdag ang lugar gamit ang sa."
+          },
+          "formula": {
+            "id": "Dumiretso → kumaliwa/kumanan + sa + palatandaan",
+            "fil": "Dumiretso → kumaliwa/kumanan + sa + palatandaan"
+          },
+          "rules": [
+            {
+              "id": "Berikan satu langkah per frasa agar mudah diikuti.",
+              "fil": "Magbigay ng isang hakbang sa bawat parirala upang madaling sundan."
+            },
+            {
+              "id": "Gunakan penanda yang terlihat, seperti simbahan atau tulay.",
+              "fil": "Gumamit ng nakikitang palatandaan gaya ng simbahan o tulay."
+            }
+          ],
+          "pitfalls": [
+            {
+              "id": "Jangan memberi kiri/kanan tanpa titik acuan.",
+              "fil": "Huwag magbigay ng kaliwa/kanan nang walang palatandaan."
+            },
+            {
+              "id": "Jangan mencampur nasa (berada) dengan papunta sa (menuju).",
+              "fil": "Huwag pagpalitin ang nasa at papunta sa."
+            }
+          ]
+        }
+      ],
+      "lessonVocabulary": [
+        {
+          "term": "katabi",
+          "reading": "katabi",
+          "partOfSpeech": {
+            "id": "kata keterangan/arah",
+            "fil": "pang-abay/direksiyon"
+          },
+          "meaning": {
+            "id": "di samping",
+            "fil": "Pang-abay/direksiyon na ginagamit sa batayang padron ng araling ito."
+          },
+          "usage": {
+            "id": "Pola utamanya katabi ng + tempat acuan + ang + tempat yang dijelaskan.",
+            "fil": "Batayang padron: katabi ng + batayang lugar + ang + inilalarawang lugar."
+          }
+        },
+        {
+          "term": "tapat",
+          "reading": "tapat",
+          "partOfSpeech": {
+            "id": "kata keterangan/arah",
+            "fil": "pang-abay/direksiyon"
+          },
+          "meaning": {
+            "id": "di seberang",
+            "fil": "Pang-abay/direksiyon na ginagamit sa batayang padron ng araling ito."
+          },
+          "usage": {
+            "id": "Pola utamanya tapat ng + tempat acuan + ang + tempat yang dijelaskan.",
+            "fil": "Batayang padron: tapat ng + batayang lugar + ang + inilalarawang lugar."
+          }
+        },
+        {
+          "term": "diretso",
+          "reading": "diretso",
+          "partOfSpeech": {
+            "id": "kata keterangan/arah",
+            "fil": "pang-abay/direksiyon"
+          },
+          "meaning": {
+            "id": "lurus",
+            "fil": "Pang-abay/direksiyon na ginagamit sa batayang padron ng araling ito."
+          },
+          "usage": {
+            "id": "Gunakan diretso bersama penanda tempat atau titik acuan agar maksudnya lengkap.",
+            "fil": "Gamitin ang diretso kasama ang lugar o palatandaan upang maging buo ang kahulugan."
+          }
+        },
+        {
+          "term": "kaliwa",
+          "reading": "kaliwa",
+          "partOfSpeech": {
+            "id": "kata keterangan/arah",
+            "fil": "pang-abay/direksiyon"
+          },
+          "meaning": {
+            "id": "kiri",
+            "fil": "Pang-abay/direksiyon na ginagamit sa batayang padron ng araling ito."
+          },
+          "usage": {
+            "id": "Gunakan kaliwa bersama penanda tempat atau titik acuan agar maksudnya lengkap.",
+            "fil": "Gamitin ang kaliwa kasama ang lugar o palatandaan upang maging buo ang kahulugan."
+          }
+        },
+        {
+          "term": "kanan",
+          "reading": "kanan",
+          "partOfSpeech": {
+            "id": "kata keterangan/arah",
+            "fil": "pang-abay/direksiyon"
+          },
+          "meaning": {
+            "id": "kanan",
+            "fil": "Pang-abay/direksiyon na ginagamit sa batayang padron ng araling ito."
+          },
+          "usage": {
+            "id": "Gunakan kanan bersama penanda tempat atau titik acuan agar maksudnya lengkap.",
+            "fil": "Gamitin ang kanan kasama ang lugar o palatandaan upang maging buo ang kahulugan."
+          }
+        },
+        {
+          "term": "malapit",
+          "reading": "malapit",
+          "partOfSpeech": {
+            "id": "kata sifat",
+            "fil": "pang-uri"
+          },
+          "meaning": {
+            "id": "dekat",
+            "fil": "Pang-uri na ginagamit sa batayang padron ng araling ito."
+          },
+          "usage": {
+            "id": "Gunakan malapit sebagai predikat atau hubungkan dengan nomina memakai na/-ng.",
+            "fil": "Gamitin ang malapit bilang panaguri o iugnay sa pangngalan gamit ang na/-ng."
+          }
+        }
+      ],
+      "exampleGuides": [
+        {
+          "pattern": {
+            "id": "Katabi/Tapat ng + acuan + ang + tempat",
+            "fil": "Katabi/Tapat ng + batayan + ang + lugar"
+          },
+          "breakdown": {
+            "id": "Kosakata kunci: Katabi = di samping · ng = penanda objek/kepemilikan · botika = apotek · ang = penanda fokus · bangko = bank",
+            "fil": "Mahahalagang bahagi: Katabi, ng, botika, ang, bangko"
+          },
+          "tip": {
+            "id": "Letakkan tempat acuan setelah ng.",
+            "fil": "Ilagay ang batayang lugar pagkatapos ng ng."
+          }
+        },
+        {
+          "pattern": {
+            "id": "Katabi/Tapat ng + acuan + ang + tempat",
+            "fil": "Katabi/Tapat ng + batayan + ang + lugar"
+          },
+          "breakdown": {
+            "id": "Kosakata kunci: Tapat = di seberang · ng = penanda objek/kepemilikan · parke = taman · ang = penanda fokus · hintuan = halte",
+            "fil": "Mahahalagang bahagi: Tapat, ng, parke, ang, hintuan"
+          },
+          "tip": {
+            "id": "Gunakan malapit sa atau malayo sa untuk jarak.",
+            "fil": "Gamitin ang malapit sa o malayo sa para sa layo."
+          }
+        },
+        {
+          "pattern": {
+            "id": "Dumiretso → kumaliwa/kumanan + sa + palatandaan",
+            "fil": "Dumiretso → kumaliwa/kumanan + sa + palatandaan"
+          },
+          "breakdown": {
+            "id": "Kosakata kunci: Dumiretso = jalan lurus · at = dan · kumaliwa = belok kiri · sa = di/ke/pada · simbahan = gereja",
+            "fil": "Mahahalagang bahagi: Dumiretso, at, kumaliwa, sa, simbahan"
+          },
+          "tip": {
+            "id": "Berikan satu langkah per frasa agar mudah diikuti.",
+            "fil": "Magbigay ng isang hakbang sa bawat parirala upang madaling sundan."
+          }
+        },
+        {
+          "pattern": {
+            "id": "Dumiretso → kumaliwa/kumanan + sa + palatandaan",
+            "fil": "Dumiretso → kumaliwa/kumanan + sa + palatandaan"
+          },
+          "breakdown": {
+            "id": "Kosakata kunci: Pagkatapos = setelah · kumanan = belok kanan · sa = di/ke/pada · ikalawang = dua · kalye = jalan",
+            "fil": "Mahahalagang bahagi: Pagkatapos, kumanan, sa, ikalawang, kalye"
+          },
+          "tip": {
+            "id": "Gunakan penanda yang terlihat, seperti simbahan atau tulay.",
+            "fil": "Gumamit ng nakikitang palatandaan gaya ng simbahan o tulay."
+          }
+        },
+        {
+          "pattern": {
+            "id": "Katabi/Tapat ng + acuan + ang + tempat",
+            "fil": "Katabi/Tapat ng + batayan + ang + lugar"
+          },
+          "breakdown": {
+            "id": "Kosakata kunci: Malapit = dekat · sa = di/ke/pada · malaking = besar · otel = hotel · ang = penanda fokus",
+            "fil": "Mahahalagang bahagi: Malapit, sa, malaking, otel, ang"
+          },
+          "tip": {
+            "id": "Letakkan tempat acuan setelah ng.",
+            "fil": "Ilagay ang batayang lugar pagkatapos ng ng."
+          }
+        },
+        {
+          "pattern": {
+            "id": "Katabi/Tapat ng + acuan + ang + tempat",
+            "fil": "Katabi/Tapat ng + batayan + ang + lugar"
+          },
+          "breakdown": {
+            "id": "Kosakata kunci: Nasaan = di mana · ang = penanda fokus · botika = apotek · Katabi = di samping · ito = itu",
+            "fil": "Mahahalagang bahagi: Nasaan, ang, botika, Katabi, ito"
+          },
+          "tip": {
+            "id": "Gunakan malapit sa atau malayo sa untuk jarak.",
+            "fil": "Gamitin ang malapit sa o malayo sa para sa layo."
+          }
+        },
+        {
+          "pattern": {
+            "id": "Dumiretso → kumaliwa/kumanan + sa + palatandaan",
+            "fil": "Dumiretso → kumaliwa/kumanan + sa + palatandaan"
+          },
+          "breakdown": {
+            "id": "Kosakata kunci: Dumiretso = jalan lurus · at = dan · kumanan = belok kanan · sa = di/ke/pada · kalye = jalan",
+            "fil": "Mahahalagang bahagi: Dumiretso, at, kumanan, sa, kalye"
+          },
+          "tip": {
+            "id": "Berikan satu langkah per frasa agar mudah diikuti.",
+            "fil": "Magbigay ng isang hakbang sa bawat parirala upang madaling sundan."
+          }
+        }
       ]
     },
     {
@@ -4730,8 +7669,8 @@
         "fil": "Paghahanap sa terminal ng bus"
       },
       "summary": {
-        "id": "Seorang pelancong meminta bantuan.",
-        "fil": "Humihingi ng tulong ang biyahero."
+        "id": "Seorang penumpang mengikuti petunjuk, sempat mengira ia salah jalan, lalu menemukan terminal di belakang supermarket.",
+        "fil": "Sinunod ng pasahero ang direksiyon, inakalang naligaw siya, at nakita ang terminal sa likod ng supermarket."
       },
       "objectives": [
         {
@@ -4780,15 +7719,35 @@
         {
           "id": "Dekat, di samping supermarket.",
           "fil": "Malapit na, katabi ng supermarket."
+        },
+        {
+          "id": "Terima kasih. Saya berjalan lurus dan menyeberangi jembatan.",
+          "fil": "Salamat po. Dumiretso ako at tumawid sa tulay."
+        },
+        {
+          "id": "Namun saya melihat supermarket, bukan terminal.",
+          "fil": "Pero supermarket ang nakita ko, hindi terminal."
+        },
+        {
+          "id": "Terminalnya berada di belakang supermarket.",
+          "fil": "Nasa likod ng supermarket ang terminal."
+        },
+        {
+          "id": "Baik, sudah dekat. Terima kasih banyak!",
+          "fil": "Ayos, malapit na. Maraming salamat!"
         }
       ],
       "speakers": [
-        "Traveler",
-        "Local",
-        "Traveler",
-        "Local",
-        "Traveler",
-        "Local"
+        "Pelancong",
+        "Warga",
+        "Pelancong",
+        "Warga",
+        "Pelancong",
+        "Warga",
+        "Pelancong",
+        "Pelancong",
+        "Warga",
+        "Pelancong"
       ],
       "exercises": [
         {
@@ -4821,14 +7780,12 @@
             "id": [
               "permisi",
               "sampai",
-              "menyeberang",
-              "permisi"
+              "menyeberang"
             ],
             "fil": [
               "makikiraan po",
               "hanggang",
-              "tumawid",
-              "makikiraan po"
+              "tumawid"
             ]
           },
           "answer": {
@@ -4879,6 +7836,25 @@
           },
           "speech": {
             "fil": "Makikiraan po, nasaan ang terminal ng bus?"
+          }
+        },
+        {
+          "id": "a1_17_directions_twist_comprehension",
+          "type": "COMPREHENSION",
+          "prompt": {
+            "id": "Di mana terminal bus sebenarnya?",
+            "fil": "Nasaan talaga ang terminal ng bus?"
+          },
+          "answer": {
+            "id": "Di belakang supermarket.",
+            "fil": "Sa likod ng supermarket."
+          },
+          "explanation": {
+            "id": "Jawabannya muncul pada perubahan atau kejutan di bagian akhir bacaan.",
+            "fil": "Makikita ang sagot sa pagbabago o sorpresa sa hulihan ng babasahin."
+          },
+          "speech": {
+            "fil": "Malayo pa ba ang terminal?"
           }
         }
       ]
@@ -5202,13 +8178,11 @@
               "choices": {
                 "id": [
                   "mencari",
-                  "jangan khawatir",
-                  "mencari"
+                  "jangan khawatir"
                 ],
                 "fil": [
                   "hanapin",
-                  "huwag mag-alala",
-                  "hanapin"
+                  "huwag mag-alala"
                 ]
               },
               "answer": {
@@ -5362,13 +8336,11 @@
               "choices": {
                 "id": [
                   "kertas",
-                  "tempat tenang",
-                  "kertas"
+                  "tempat tenang"
                 ],
                 "fil": [
                   "papel",
-                  "tahimik na lugar",
-                  "papel"
+                  "tahimik na lugar"
                 ]
               },
               "answer": {
@@ -5522,13 +8494,11 @@
               "choices": {
                 "id": [
                   "petunjuk",
-                  "kejutan",
-                  "petunjuk"
+                  "kejutan"
                 ],
                 "fil": [
                   "palatandaan",
-                  "sorpresa",
-                  "palatandaan"
+                  "sorpresa"
                 ]
               },
               "answer": {
@@ -5598,8 +8568,8 @@
         "fil": "Isang maikling tawag"
       },
       "summary": {
-        "id": "Teman-teman mengubah rencana malam.",
-        "fil": "Binabago ng magkaibigan ang plano sa gabi."
+        "id": "Rafi dan Bea mengubah rencana film ketika tiket malam habis, lalu sepakat pergi keesokan hari.",
+        "fil": "Binago nina Rafi at Bea ang plano nang maubos ang tiket sa gabi at nagkasundong manood kinabukasan."
       },
       "objectives": [
         {
@@ -5648,6 +8618,22 @@
         {
           "id": "Bagus. Kirimi saya pesan saat kamu berangkat.",
           "fil": "Ayos. Padalhan mo ako ng mensahe kapag aalis ka na."
+        },
+        {
+          "id": "Tunggu, tiket untuk malam ini sudah habis.",
+          "fil": "Sandali, wala na ang mga tiket sa gabi."
+        },
+        {
+          "id": "Ada tiket besok pukul delapan.",
+          "fil": "May tiket bukas nang alas-otso."
+        },
+        {
+          "id": "Baik, besok kita tidak ada kelas.",
+          "fil": "Sige, bukas wala tayong klase."
+        },
+        {
+          "id": "Bagus! Mari bertemu di depan rumahmu.",
+          "fil": "Ayos! Magkita tayo sa harap ng bahay mo."
         }
       ],
       "speakers": [
@@ -5656,7 +8642,11 @@
         "Rafi",
         "Bea",
         "Rafi",
-        "Bea"
+        "Bea",
+        "Bea",
+        "Rafi",
+        "Bea",
+        "Rafi"
       ],
       "exercises": [
         {
@@ -5689,14 +8679,12 @@
             "id": [
               "film",
               "dapat",
-              "kirimi saya",
-              "film"
+              "kirimi saya"
             ],
             "fil": [
               "pelikula",
               "puwede",
-              "padalhan mo ako",
-              "pelikula"
+              "padalhan mo ako"
             ]
           },
           "answer": {
@@ -5747,6 +8735,25 @@
           },
           "speech": {
             "fil": "Hello, Bea. Nasa bahay ka ba?"
+          }
+        },
+        {
+          "id": "a1_19_phone_twist_comprehension",
+          "type": "COMPREHENSION",
+          "prompt": {
+            "id": "Mengapa Rafi dan Bea mengubah hari menonton?",
+            "fil": "Bakit binago nina Rafi at Bea ang araw ng panonood?"
+          },
+          "answer": {
+            "id": "Tiket malam itu sudah habis.",
+            "fil": "Wala na ang mga tiket sa gabi."
+          },
+          "explanation": {
+            "id": "Jawabannya muncul pada perubahan atau kejutan di bagian akhir bacaan.",
+            "fil": "Makikita ang sagot sa pagbabago o sorpresa sa hulihan ng babasahin."
+          },
+          "speech": {
+            "fil": "Sige. Bibili ako ng mga tiket online."
           }
         }
       ]
@@ -6083,13 +9090,11 @@
               "choices": {
                 "id": [
                   "siap",
-                  "gugup",
-                  "siap"
+                  "gugup"
                 ],
                 "fil": [
                   "handa",
-                  "kinakabahan",
-                  "handa"
+                  "kinakabahan"
                 ]
               },
               "answer": {
@@ -6243,13 +9248,11 @@
               "choices": {
                 "id": [
                   "dari Indonesia",
-                  "teman sekelas",
-                  "dari Indonesia"
+                  "teman sekelas"
                 ],
                 "fil": [
                   "mula sa Indonesia",
-                  "kaklase",
-                  "mula sa Indonesia"
+                  "kaklase"
                 ]
               },
               "answer": {
@@ -6403,13 +9406,11 @@
               "choices": {
                 "id": [
                   "kantin",
-                  "enak",
-                  "kantin"
+                  "enak"
                 ],
                 "fil": [
                   "kantina",
-                  "masarap",
-                  "kantina"
+                  "masarap"
                 ]
               },
               "answer": {
@@ -6563,13 +9564,11 @@
               "choices": {
                 "id": [
                   "jalan",
-                  "pohon",
-                  "jalan"
+                  "pohon"
                 ],
                 "fil": [
                   "daan",
-                  "puno",
-                  "daan"
+                  "puno"
                 ]
               },
               "answer": {
@@ -6708,14 +9707,14 @@
         "fil": "aklat"
       },
       "meanings": {
-        "id": "Ungkapan A1: buku.",
-        "fil": "Pahayag sa A1: aklat."
+        "id": "Kata benda Filipino untuk “buku”, dipakai dalam pola A1 pada pelajaran ini.",
+        "fil": "Pangngalan na ginagamit sa batayang padron ng araling ito."
       },
-      "pos": "ungkapan",
+      "pos": "kata benda",
       "pronunciation": "aklat",
       "notes": {
-        "id": "Pelajari ungkapan ini sebagai satu kesatuan.",
-        "fil": "Aralin bilang isang buo ang pahayag na ito."
+        "id": "Gunakan aklat untuk menyebut buku; tambahkan ang, ng, atau sa sesuai perannya dalam kalimat.",
+        "fil": "Gamitin ang aklat bilang pangngalan at lagyan ng ang, ng, o sa ayon sa gamit nito sa pangungusap."
       }
     },
     {
@@ -6744,14 +9743,14 @@
         "fil": "ako"
       },
       "meanings": {
-        "id": "Ungkapan A1: saya.",
-        "fil": "Pahayag sa A1: ako."
+        "id": "Kata ganti Filipino untuk “saya”, dipakai dalam pola A1 pada pelajaran ini.",
+        "fil": "Panghalip na ginagamit sa batayang padron ng araling ito."
       },
-      "pos": "ungkapan",
+      "pos": "kata ganti",
       "pronunciation": "ako",
       "notes": {
-        "id": "Pelajari ungkapan ini sebagai satu kesatuan.",
-        "fil": "Aralin bilang isang buo ang pahayag na ito."
+        "id": "Gunakan ako untuk merujuk peserta percakapan tanpa membedakan gender.",
+        "fil": "Gamitin ang ako upang tukuyin ang kalahok sa usapan nang walang kasarian."
       }
     },
     {
@@ -7007,14 +10006,14 @@
         "fil": "anong oras"
       },
       "meanings": {
-        "id": "Ungkapan A1: pukul berapa.",
-        "fil": "Pahayag sa A1: anong oras."
+        "id": "Ungkapan Filipino untuk “pukul berapa”, dipakai dalam pola A1 pada pelajaran ini.",
+        "fil": "Parirala na ginagamit sa batayang padron ng araling ito."
       },
       "pos": "ungkapan",
       "pronunciation": "anong oras",
       "notes": {
-        "id": "Pelajari ungkapan ini sebagai satu kesatuan.",
-        "fil": "Aralin bilang isang buo ang pahayag na ito."
+        "id": "Gunakan anong oras untuk menanyakan jam; tambahkan kegiatan atau acara sesudahnya.",
+        "fil": "Gamitin ang anong oras sa pagtatanong ng oras at idagdag ang gawain pagkatapos nito."
       }
     },
     {
@@ -7115,14 +10114,14 @@
         "fil": "ate"
       },
       "meanings": {
-        "id": "Ungkapan A1: kakak perempuan.",
-        "fil": "Pahayag sa A1: ate."
+        "id": "Kata benda Filipino untuk “kakak perempuan”, dipakai dalam pola A1 pada pelajaran ini.",
+        "fil": "Pangngalan na ginagamit sa batayang padron ng araling ito."
       },
-      "pos": "ungkapan",
+      "pos": "kata benda",
       "pronunciation": "ate",
       "notes": {
-        "id": "Pelajari ungkapan ini sebagai satu kesatuan.",
-        "fil": "Aralin bilang isang buo ang pahayag na ito."
+        "id": "Gunakan ate untuk menyebut kakak perempuan; tambahkan ang, ng, atau sa sesuai perannya dalam kalimat.",
+        "fil": "Gamitin ang ate bilang pangngalan at lagyan ng ang, ng, o sa ayon sa gamit nito sa pangungusap."
       }
     },
     {
@@ -7324,14 +10323,14 @@
         "fil": "bahay"
       },
       "meanings": {
-        "id": "Ungkapan A1: rumah.",
-        "fil": "Pahayag sa A1: bahay."
+        "id": "Kata benda Filipino untuk “rumah”, dipakai dalam pola A1 pada pelajaran ini.",
+        "fil": "Pangngalan na ginagamit sa batayang padron ng araling ito."
       },
-      "pos": "ungkapan",
+      "pos": "kata benda",
       "pronunciation": "bahay",
       "notes": {
-        "id": "Pelajari ungkapan ini sebagai satu kesatuan.",
-        "fil": "Aralin bilang isang buo ang pahayag na ito."
+        "id": "Gunakan bahay untuk menyebut rumah; tambahkan ang, ng, atau sa sesuai perannya dalam kalimat.",
+        "fil": "Gamitin ang bahay bilang pangngalan at lagyan ng ang, ng, o sa ayon sa gamit nito sa pangungusap."
       }
     },
     {
@@ -7540,14 +10539,14 @@
         "fil": "bintana"
       },
       "meanings": {
-        "id": "Ungkapan A1: jendela.",
-        "fil": "Pahayag sa A1: bintana."
+        "id": "Kata benda Filipino untuk “jendela”, dipakai dalam pola A1 pada pelajaran ini.",
+        "fil": "Pangngalan na ginagamit sa batayang padron ng araling ito."
       },
-      "pos": "ungkapan",
+      "pos": "kata benda",
       "pronunciation": "bintana",
       "notes": {
-        "id": "Pelajari ungkapan ini sebagai satu kesatuan.",
-        "fil": "Aralin bilang isang buo ang pahayag na ito."
+        "id": "Gunakan bintana untuk menyebut jendela; tambahkan ang, ng, atau sa sesuai perannya dalam kalimat.",
+        "fil": "Gamitin ang bintana bilang pangngalan at lagyan ng ang, ng, o sa ayon sa gamit nito sa pangungusap."
       }
     },
     {
@@ -7864,14 +10863,14 @@
         "fil": "dalawa"
       },
       "meanings": {
-        "id": "Ungkapan A1: dua.",
-        "fil": "Pahayag sa A1: dalawa."
+        "id": "Bilangan Filipino untuk “dua”, dipakai dalam pola A1 pada pelajaran ini.",
+        "fil": "Pamilang na ginagamit sa batayang padron ng araling ito."
       },
-      "pos": "ungkapan",
+      "pos": "bilangan",
       "pronunciation": "dalawa",
       "notes": {
-        "id": "Pelajari ungkapan ini sebagai satu kesatuan.",
-        "fil": "Aralin bilang isang buo ang pahayag na ito."
+        "id": "Gunakan dalawa untuk menyatakan jumlah; perhatikan penghubung -ng/na sebelum nomina.",
+        "fil": "Gamitin ang dalawa sa dami at pansinin ang pang-angkop na -ng/na bago ang pangngalan."
       }
     },
     {
@@ -7972,14 +10971,14 @@
         "fil": "diretso"
       },
       "meanings": {
-        "id": "Ungkapan A1: lurus.",
-        "fil": "Pahayag sa A1: diretso."
+        "id": "Kata keterangan/arah Filipino untuk “lurus”, dipakai dalam pola A1 pada pelajaran ini.",
+        "fil": "Pang-abay/direksiyon na ginagamit sa batayang padron ng araling ito."
       },
-      "pos": "ungkapan",
+      "pos": "kata keterangan/arah",
       "pronunciation": "diretso",
       "notes": {
-        "id": "Pelajari ungkapan ini sebagai satu kesatuan.",
-        "fil": "Aralin bilang isang buo ang pahayag na ito."
+        "id": "Gunakan diretso bersama penanda tempat atau titik acuan agar maksudnya lengkap.",
+        "fil": "Gamitin ang diretso kasama ang lugar o palatandaan upang maging buo ang kahulugan."
       }
     },
     {
@@ -8242,14 +11241,14 @@
         "fil": "gulay"
       },
       "meanings": {
-        "id": "Ungkapan A1: sayuran.",
-        "fil": "Pahayag sa A1: gulay."
+        "id": "Kata benda Filipino untuk “sayuran”, dipakai dalam pola A1 pada pelajaran ini.",
+        "fil": "Pangngalan na ginagamit sa batayang padron ng araling ito."
       },
-      "pos": "ungkapan",
+      "pos": "kata benda",
       "pronunciation": "gulay",
       "notes": {
-        "id": "Pelajari ungkapan ini sebagai satu kesatuan.",
-        "fil": "Aralin bilang isang buo ang pahayag na ito."
+        "id": "Gunakan gulay untuk menyebut sayuran; tambahkan ang, ng, atau sa sesuai perannya dalam kalimat.",
+        "fil": "Gamitin ang gulay bilang pangngalan at lagyan ng ang, ng, o sa ayon sa gamit nito sa pangungusap."
       }
     },
     {
@@ -8638,14 +11637,14 @@
         "fil": "hindi"
       },
       "meanings": {
-        "id": "Ungkapan A1: tidak.",
-        "fil": "Pahayag sa A1: hindi."
+        "id": "Partikel negasi Filipino untuk “tidak”, dipakai dalam pola A1 pada pelajaran ini.",
+        "fil": "Katagang pananggi na ginagamit sa batayang padron ng araling ito."
       },
-      "pos": "ungkapan",
+      "pos": "partikel negasi",
       "pronunciation": "hindi",
       "notes": {
-        "id": "Pelajari ungkapan ini sebagai satu kesatuan.",
-        "fil": "Aralin bilang isang buo ang pahayag na ito."
+        "id": "Gunakan hindi untuk menyangkal tindakan atau sifat, bukan untuk menyatakan bahwa benda tidak ada.",
+        "fil": "Gamitin ang hindi sa pagtanggi ng kilos o katangian, hindi sa kawalan ng bagay."
       },
       "practice": {
         "prompt": {
@@ -8739,14 +11738,14 @@
         "fil": "huwag"
       },
       "meanings": {
-        "id": "Ungkapan A1: jangan.",
-        "fil": "Pahayag sa A1: huwag."
+        "id": "Partikel negasi Filipino untuk “jangan”, dipakai dalam pola A1 pada pelajaran ini.",
+        "fil": "Katagang pananggi na ginagamit sa batayang padron ng araling ito."
       },
-      "pos": "ungkapan",
+      "pos": "partikel negasi",
       "pronunciation": "huwag",
       "notes": {
-        "id": "Pelajari ungkapan ini sebagai satu kesatuan.",
-        "fil": "Aralin bilang isang buo ang pahayag na ito."
+        "id": "Letakkan huwag sebelum verba untuk larangan atau peringatan.",
+        "fil": "Ilagay ang huwag bago ang pandiwa sa pagbabawal o babala."
       },
       "practice": {
         "prompt": {
@@ -8894,14 +11893,14 @@
         "fil": "ikaw"
       },
       "meanings": {
-        "id": "Ungkapan A1: kamu.",
-        "fil": "Pahayag sa A1: ikaw."
+        "id": "Kata ganti Filipino untuk “kamu”, dipakai dalam pola A1 pada pelajaran ini.",
+        "fil": "Panghalip na ginagamit sa batayang padron ng araling ito."
       },
-      "pos": "ungkapan",
+      "pos": "kata ganti",
       "pronunciation": "ikaw",
       "notes": {
-        "id": "Pelajari ungkapan ini sebagai satu kesatuan.",
-        "fil": "Aralin bilang isang buo ang pahayag na ito."
+        "id": "Gunakan ikaw untuk merujuk peserta percakapan tanpa membedakan gender.",
+        "fil": "Gamitin ang ikaw upang tukuyin ang kalahok sa usapan nang walang kasarian."
       }
     },
     {
@@ -9092,14 +12091,14 @@
         "fil": "isa"
       },
       "meanings": {
-        "id": "Ungkapan A1: satu.",
-        "fil": "Pahayag sa A1: isa."
+        "id": "Bilangan Filipino untuk “satu”, dipakai dalam pola A1 pada pelajaran ini.",
+        "fil": "Pamilang na ginagamit sa batayang padron ng araling ito."
       },
-      "pos": "ungkapan",
+      "pos": "bilangan",
       "pronunciation": "isa",
       "notes": {
-        "id": "Pelajari ungkapan ini sebagai satu kesatuan.",
-        "fil": "Aralin bilang isang buo ang pahayag na ito."
+        "id": "Gunakan isa untuk menyatakan jumlah; perhatikan penghubung -ng/na sebelum nomina.",
+        "fil": "Gamitin ang isa sa dami at pansinin ang pang-angkop na -ng/na bago ang pangngalan."
       }
     },
     {
@@ -9488,14 +12487,14 @@
         "fil": "kakain"
       },
       "meanings": {
-        "id": "Ungkapan A1: akan makan.",
-        "fil": "Pahayag sa A1: kakain."
+        "id": "Kata kerja Filipino untuk “akan makan”, dipakai dalam pola A1 pada pelajaran ini.",
+        "fil": "Pandiwa na ginagamit sa batayang padron ng araling ito."
       },
-      "pos": "ungkapan",
+      "pos": "kata kerja",
       "pronunciation": "kakain",
       "notes": {
-        "id": "Pelajari ungkapan ini sebagai satu kesatuan.",
-        "fil": "Aralin bilang isang buo ang pahayag na ito."
+        "id": "Perhatikan bentuk kakain sebagai bagian dari sistem aspek, lalu cocokkan dengan konteks waktu.",
+        "fil": "Pansinin ang kakain bilang anyo ng aspekto at itugma ito sa konteksto ng oras."
       }
     },
     {
@@ -9542,14 +12541,14 @@
         "fil": "kaliwa"
       },
       "meanings": {
-        "id": "Ungkapan A1: kiri.",
-        "fil": "Pahayag sa A1: kaliwa."
+        "id": "Kata keterangan/arah Filipino untuk “kiri”, dipakai dalam pola A1 pada pelajaran ini.",
+        "fil": "Pang-abay/direksiyon na ginagamit sa batayang padron ng araling ito."
       },
-      "pos": "ungkapan",
+      "pos": "kata keterangan/arah",
       "pronunciation": "kaliwa",
       "notes": {
-        "id": "Pelajari ungkapan ini sebagai satu kesatuan.",
-        "fil": "Aralin bilang isang buo ang pahayag na ito."
+        "id": "Gunakan kaliwa bersama penanda tempat atau titik acuan agar maksudnya lengkap.",
+        "fil": "Gamitin ang kaliwa kasama ang lugar o palatandaan upang maging buo ang kahulugan."
       }
     },
     {
@@ -9596,14 +12595,14 @@
         "fil": "kami"
       },
       "meanings": {
-        "id": "Ungkapan A1: kami.",
-        "fil": "Pahayag sa A1: kami."
+        "id": "Kata ganti Filipino untuk “kami”, dipakai dalam pola A1 pada pelajaran ini.",
+        "fil": "Panghalip na ginagamit sa batayang padron ng araling ito."
       },
-      "pos": "ungkapan",
+      "pos": "kata ganti",
       "pronunciation": "kami",
       "notes": {
-        "id": "Pelajari ungkapan ini sebagai satu kesatuan.",
-        "fil": "Aralin bilang isang buo ang pahayag na ito."
+        "id": "Gunakan kami jika lawan bicara tidak termasuk dalam kelompok pembicara.",
+        "fil": "Gamitin ang kami kapag hindi kasama sa grupo ang kausap."
       }
     },
     {
@@ -9614,14 +12613,14 @@
         "fil": "kanan"
       },
       "meanings": {
-        "id": "Ungkapan A1: kanan.",
-        "fil": "Pahayag sa A1: kanan."
+        "id": "Kata keterangan/arah Filipino untuk “kanan”, dipakai dalam pola A1 pada pelajaran ini.",
+        "fil": "Pang-abay/direksiyon na ginagamit sa batayang padron ng araling ito."
       },
-      "pos": "ungkapan",
+      "pos": "kata keterangan/arah",
       "pronunciation": "kanan",
       "notes": {
-        "id": "Pelajari ungkapan ini sebagai satu kesatuan.",
-        "fil": "Aralin bilang isang buo ang pahayag na ito."
+        "id": "Gunakan kanan bersama penanda tempat atau titik acuan agar maksudnya lengkap.",
+        "fil": "Gamitin ang kanan kasama ang lugar o palatandaan upang maging buo ang kahulugan."
       }
     },
     {
@@ -9650,14 +12649,14 @@
         "fil": "kanin"
       },
       "meanings": {
-        "id": "Ungkapan A1: nasi.",
-        "fil": "Pahayag sa A1: kanin."
+        "id": "Kata benda Filipino untuk “nasi”, dipakai dalam pola A1 pada pelajaran ini.",
+        "fil": "Pangngalan na ginagamit sa batayang padron ng araling ito."
       },
-      "pos": "ungkapan",
+      "pos": "kata benda",
       "pronunciation": "kanin",
       "notes": {
-        "id": "Pelajari ungkapan ini sebagai satu kesatuan.",
-        "fil": "Aralin bilang isang buo ang pahayag na ito."
+        "id": "Gunakan kanin untuk menyebut nasi; tambahkan ang, ng, atau sa sesuai perannya dalam kalimat.",
+        "fil": "Gamitin ang kanin bilang pangngalan at lagyan ng ang, ng, o sa ayon sa gamit nito sa pangungusap."
       }
     },
     {
@@ -9740,14 +12739,14 @@
         "fil": "kape"
       },
       "meanings": {
-        "id": "Ungkapan A1: kopi.",
-        "fil": "Pahayag sa A1: kape."
+        "id": "Kata benda Filipino untuk “kopi”, dipakai dalam pola A1 pada pelajaran ini.",
+        "fil": "Pangngalan na ginagamit sa batayang padron ng araling ito."
       },
-      "pos": "ungkapan",
+      "pos": "kata benda",
       "pronunciation": "kape",
       "notes": {
-        "id": "Pelajari ungkapan ini sebagai satu kesatuan.",
-        "fil": "Aralin bilang isang buo ang pahayag na ito."
+        "id": "Gunakan kape untuk menyebut kopi; tambahkan ang, ng, atau sa sesuai perannya dalam kalimat.",
+        "fil": "Gamitin ang kape bilang pangngalan at lagyan ng ang, ng, o sa ayon sa gamit nito sa pangungusap."
       }
     },
     {
@@ -9776,14 +12775,14 @@
         "fil": "katabi"
       },
       "meanings": {
-        "id": "Ungkapan A1: di samping.",
-        "fil": "Pahayag sa A1: katabi."
+        "id": "Kata keterangan/arah Filipino untuk “di samping”, dipakai dalam pola A1 pada pelajaran ini.",
+        "fil": "Pang-abay/direksiyon na ginagamit sa batayang padron ng araling ito."
       },
-      "pos": "ungkapan",
+      "pos": "kata keterangan/arah",
       "pronunciation": "katabi",
       "notes": {
-        "id": "Pelajari ungkapan ini sebagai satu kesatuan.",
-        "fil": "Aralin bilang isang buo ang pahayag na ito."
+        "id": "Pola utamanya katabi ng + tempat acuan + ang + tempat yang dijelaskan.",
+        "fil": "Batayang padron: katabi ng + batayang lugar + ang + inilalarawang lugar."
       }
     },
     {
@@ -9938,14 +12937,14 @@
         "fil": "kumain"
       },
       "meanings": {
-        "id": "Ungkapan A1: telah makan.",
-        "fil": "Pahayag sa A1: kumain."
+        "id": "Kata kerja Filipino untuk “telah makan”, dipakai dalam pola A1 pada pelajaran ini.",
+        "fil": "Pandiwa na ginagamit sa batayang padron ng araling ito."
       },
-      "pos": "ungkapan",
+      "pos": "kata kerja",
       "pronunciation": "kumain",
       "notes": {
-        "id": "Pelajari ungkapan ini sebagai satu kesatuan.",
-        "fil": "Aralin bilang isang buo ang pahayag na ito."
+        "id": "Perhatikan bentuk kumain sebagai bagian dari sistem aspek, lalu cocokkan dengan konteks waktu.",
+        "fil": "Pansinin ang kumain bilang anyo ng aspekto at itugma ito sa konteksto ng oras."
       }
     },
     {
@@ -10082,14 +13081,14 @@
         "fil": "kuwaderno"
       },
       "meanings": {
-        "id": "Ungkapan A1: buku catatan.",
-        "fil": "Pahayag sa A1: kuwaderno."
+        "id": "Kata benda Filipino untuk “buku catatan”, dipakai dalam pola A1 pada pelajaran ini.",
+        "fil": "Pangngalan na ginagamit sa batayang padron ng araling ito."
       },
-      "pos": "ungkapan",
+      "pos": "kata benda",
       "pronunciation": "kuwaderno",
       "notes": {
-        "id": "Pelajari ungkapan ini sebagai satu kesatuan.",
-        "fil": "Aralin bilang isang buo ang pahayag na ito."
+        "id": "Gunakan kuwaderno untuk menyebut buku catatan; tambahkan ang, ng, atau sa sesuai perannya dalam kalimat.",
+        "fil": "Gamitin ang kuwaderno bilang pangngalan at lagyan ng ang, ng, o sa ayon sa gamit nito sa pangungusap."
       }
     },
     {
@@ -10136,14 +13135,14 @@
         "fil": "kuya"
       },
       "meanings": {
-        "id": "Ungkapan A1: kakak laki-laki.",
-        "fil": "Pahayag sa A1: kuya."
+        "id": "Kata benda Filipino untuk “kakak laki-laki”, dipakai dalam pola A1 pada pelajaran ini.",
+        "fil": "Pangngalan na ginagamit sa batayang padron ng araling ito."
       },
-      "pos": "ungkapan",
+      "pos": "kata benda",
       "pronunciation": "kuya",
       "notes": {
-        "id": "Pelajari ungkapan ini sebagai satu kesatuan.",
-        "fil": "Aralin bilang isang buo ang pahayag na ito."
+        "id": "Gunakan kuya untuk menyebut kakak laki-laki; tambahkan ang, ng, atau sa sesuai perannya dalam kalimat.",
+        "fil": "Gamitin ang kuya bilang pangngalan at lagyan ng ang, ng, o sa ayon sa gamit nito sa pangungusap."
       }
     },
     {
@@ -10208,14 +13207,14 @@
         "fil": "lapis"
       },
       "meanings": {
-        "id": "Ungkapan A1: pensil.",
-        "fil": "Pahayag sa A1: lapis."
+        "id": "Kata benda Filipino untuk “pensil”, dipakai dalam pola A1 pada pelajaran ini.",
+        "fil": "Pangngalan na ginagamit sa batayang padron ng araling ito."
       },
-      "pos": "ungkapan",
+      "pos": "kata benda",
       "pronunciation": "lapis",
       "notes": {
-        "id": "Pelajari ungkapan ini sebagai satu kesatuan.",
-        "fil": "Aralin bilang isang buo ang pahayag na ito."
+        "id": "Gunakan lapis untuk menyebut pensil; tambahkan ang, ng, atau sa sesuai perannya dalam kalimat.",
+        "fil": "Gamitin ang lapis bilang pangngalan at lagyan ng ang, ng, o sa ayon sa gamit nito sa pangungusap."
       }
     },
     {
@@ -10388,14 +13387,14 @@
         "fil": "lola"
       },
       "meanings": {
-        "id": "Ungkapan A1: nenek.",
-        "fil": "Pahayag sa A1: lola."
+        "id": "Kata benda Filipino untuk “nenek”, dipakai dalam pola A1 pada pelajaran ini.",
+        "fil": "Pangngalan na ginagamit sa batayang padron ng araling ito."
       },
-      "pos": "ungkapan",
+      "pos": "kata benda",
       "pronunciation": "lola",
       "notes": {
-        "id": "Pelajari ungkapan ini sebagai satu kesatuan.",
-        "fil": "Aralin bilang isang buo ang pahayag na ito."
+        "id": "Gunakan lola untuk menyebut nenek; tambahkan ang, ng, atau sa sesuai perannya dalam kalimat.",
+        "fil": "Gamitin ang lola bilang pangngalan at lagyan ng ang, ng, o sa ayon sa gamit nito sa pangungusap."
       }
     },
     {
@@ -10406,14 +13405,14 @@
         "fil": "lolo"
       },
       "meanings": {
-        "id": "Ungkapan A1: kakek.",
-        "fil": "Pahayag sa A1: lolo."
+        "id": "Kata benda Filipino untuk “kakek”, dipakai dalam pola A1 pada pelajaran ini.",
+        "fil": "Pangngalan na ginagamit sa batayang padron ng araling ito."
       },
-      "pos": "ungkapan",
+      "pos": "kata benda",
       "pronunciation": "lolo",
       "notes": {
-        "id": "Pelajari ungkapan ini sebagai satu kesatuan.",
-        "fil": "Aralin bilang isang buo ang pahayag na ito."
+        "id": "Gunakan lolo untuk menyebut kakek; tambahkan ang, ng, atau sa sesuai perannya dalam kalimat.",
+        "fil": "Gamitin ang lolo bilang pangngalan at lagyan ng ang, ng, o sa ayon sa gamit nito sa pangungusap."
       }
     },
     {
@@ -10622,14 +13621,14 @@
         "fil": "mag-aaral"
       },
       "meanings": {
-        "id": "Ungkapan A1: akan belajar.",
-        "fil": "Pahayag sa A1: mag-aaral."
+        "id": "Kata kerja Filipino untuk “akan belajar”, dipakai dalam pola A1 pada pelajaran ini.",
+        "fil": "Pandiwa na ginagamit sa batayang padron ng araling ito."
       },
-      "pos": "ungkapan",
+      "pos": "kata kerja",
       "pronunciation": "mag-aaral",
       "notes": {
-        "id": "Pelajari ungkapan ini sebagai satu kesatuan.",
-        "fil": "Aralin bilang isang buo ang pahayag na ito."
+        "id": "Bentuk ini menandai kegiatan belajar yang belum dimulai atau direncanakan.",
+        "fil": "Nagsasaad ito ng pag-aaral na hindi pa nagsisimula o nakaplano."
       }
     },
     {
@@ -10694,14 +13693,14 @@
         "fil": "mag-aral"
       },
       "meanings": {
-        "id": "Ungkapan A1: belajar.",
-        "fil": "Pahayag sa A1: mag-aral."
+        "id": "Kata kerja Filipino untuk “belajar”, dipakai dalam pola A1 pada pelajaran ini.",
+        "fil": "Pandiwa na ginagamit sa batayang padron ng araling ito."
       },
-      "pos": "ungkapan",
+      "pos": "kata kerja",
       "pronunciation": "mag-aral",
       "notes": {
-        "id": "Pelajari ungkapan ini sebagai satu kesatuan.",
-        "fil": "Aralin bilang isang buo ang pahayag na ito."
+        "id": "Perhatikan bentuk mag-aral sebagai bagian dari sistem aspek, lalu cocokkan dengan konteks waktu.",
+        "fil": "Pansinin ang mag-aral bilang anyo ng aspekto at itugma ito sa konteksto ng oras."
       }
     },
     {
@@ -10730,14 +13729,14 @@
         "fil": "maganda"
       },
       "meanings": {
-        "id": "Ungkapan A1: indah.",
-        "fil": "Pahayag sa A1: maganda."
+        "id": "Kata sifat Filipino untuk “indah”, dipakai dalam pola A1 pada pelajaran ini.",
+        "fil": "Pang-uri na ginagamit sa batayang padron ng araling ito."
       },
-      "pos": "ungkapan",
+      "pos": "kata sifat",
       "pronunciation": "maganda",
       "notes": {
-        "id": "Pelajari ungkapan ini sebagai satu kesatuan.",
-        "fil": "Aralin bilang isang buo ang pahayag na ito."
+        "id": "Gunakan maganda sebagai predikat atau hubungkan dengan nomina memakai na/-ng.",
+        "fil": "Gamitin ang maganda bilang panaguri o iugnay sa pangngalan gamit ang na/-ng."
       }
     },
     {
@@ -10856,14 +13855,14 @@
         "fil": "magkano"
       },
       "meanings": {
-        "id": "Ungkapan A1: berapa harga.",
-        "fil": "Pahayag sa A1: magkano."
+        "id": "Kata keterangan/arah Filipino untuk “berapa harga”, dipakai dalam pola A1 pada pelajaran ini.",
+        "fil": "Pang-abay/direksiyon na ginagamit sa batayang padron ng araling ito."
       },
-      "pos": "ungkapan",
+      "pos": "kata keterangan/arah",
       "pronunciation": "magkano",
       "notes": {
-        "id": "Pelajari ungkapan ini sebagai satu kesatuan.",
-        "fil": "Aralin bilang isang buo ang pahayag na ito."
+        "id": "Gunakan magkano po ang + benda untuk menanyakan harga dengan sopan.",
+        "fil": "Gamitin ang magkano po ang + bagay sa magalang na pagtatanong ng presyo."
       }
     },
     {
@@ -11252,14 +14251,14 @@
         "fil": "malapit"
       },
       "meanings": {
-        "id": "Ungkapan A1: dekat.",
-        "fil": "Pahayag sa A1: malapit."
+        "id": "Kata sifat Filipino untuk “dekat”, dipakai dalam pola A1 pada pelajaran ini.",
+        "fil": "Pang-uri na ginagamit sa batayang padron ng araling ito."
       },
-      "pos": "ungkapan",
+      "pos": "kata sifat",
       "pronunciation": "malapit",
       "notes": {
-        "id": "Pelajari ungkapan ini sebagai satu kesatuan.",
-        "fil": "Aralin bilang isang buo ang pahayag na ito."
+        "id": "Gunakan malapit sebagai predikat atau hubungkan dengan nomina memakai na/-ng.",
+        "fil": "Gamitin ang malapit bilang panaguri o iugnay sa pangngalan gamit ang na/-ng."
       }
     },
     {
@@ -11342,14 +14341,14 @@
         "fil": "maliit"
       },
       "meanings": {
-        "id": "Ungkapan A1: kecil.",
-        "fil": "Pahayag sa A1: maliit."
+        "id": "Kata sifat Filipino untuk “kecil”, dipakai dalam pola A1 pada pelajaran ini.",
+        "fil": "Pang-uri na ginagamit sa batayang padron ng araling ito."
       },
-      "pos": "ungkapan",
+      "pos": "kata sifat",
       "pronunciation": "maliit",
       "notes": {
-        "id": "Pelajari ungkapan ini sebagai satu kesatuan.",
-        "fil": "Aralin bilang isang buo ang pahayag na ito."
+        "id": "Gunakan maliit sebagai predikat atau hubungkan dengan nomina memakai na/-ng.",
+        "fil": "Gamitin ang maliit bilang panaguri o iugnay sa pangngalan gamit ang na/-ng."
       }
     },
     {
@@ -11378,14 +14377,14 @@
         "fil": "malinis"
       },
       "meanings": {
-        "id": "Ungkapan A1: bersih.",
-        "fil": "Pahayag sa A1: malinis."
+        "id": "Kata sifat Filipino untuk “bersih”, dipakai dalam pola A1 pada pelajaran ini.",
+        "fil": "Pang-uri na ginagamit sa batayang padron ng araling ito."
       },
-      "pos": "ungkapan",
+      "pos": "kata sifat",
       "pronunciation": "malinis",
       "notes": {
-        "id": "Pelajari ungkapan ini sebagai satu kesatuan.",
-        "fil": "Aralin bilang isang buo ang pahayag na ito."
+        "id": "Gunakan malinis sebagai predikat atau hubungkan dengan nomina memakai na/-ng.",
+        "fil": "Gamitin ang malinis bilang panaguri o iugnay sa pangngalan gamit ang na/-ng."
       }
     },
     {
@@ -11468,14 +14467,14 @@
         "fil": "manok"
       },
       "meanings": {
-        "id": "Ungkapan A1: ayam.",
-        "fil": "Pahayag sa A1: manok."
+        "id": "Kata benda Filipino untuk “ayam”, dipakai dalam pola A1 pada pelajaran ini.",
+        "fil": "Pangngalan na ginagamit sa batayang padron ng araling ito."
       },
-      "pos": "ungkapan",
+      "pos": "kata benda",
       "pronunciation": "manok",
       "notes": {
-        "id": "Pelajari ungkapan ini sebagai satu kesatuan.",
-        "fil": "Aralin bilang isang buo ang pahayag na ito."
+        "id": "Gunakan manok untuk menyebut ayam; tambahkan ang, ng, atau sa sesuai perannya dalam kalimat.",
+        "fil": "Gamitin ang manok bilang pangngalan at lagyan ng ang, ng, o sa ayon sa gamit nito sa pangungusap."
       }
     },
     {
@@ -11792,14 +14791,14 @@
         "fil": "mesa"
       },
       "meanings": {
-        "id": "Ungkapan A1: meja.",
-        "fil": "Pahayag sa A1: mesa."
+        "id": "Kata benda Filipino untuk “meja”, dipakai dalam pola A1 pada pelajaran ini.",
+        "fil": "Pangngalan na ginagamit sa batayang padron ng araling ito."
       },
-      "pos": "ungkapan",
+      "pos": "kata benda",
       "pronunciation": "mesa",
       "notes": {
-        "id": "Pelajari ungkapan ini sebagai satu kesatuan.",
-        "fil": "Aralin bilang isang buo ang pahayag na ito."
+        "id": "Gunakan mesa untuk menyebut meja; tambahkan ang, ng, atau sa sesuai perannya dalam kalimat.",
+        "fil": "Gamitin ang mesa bilang pangngalan at lagyan ng ang, ng, o sa ayon sa gamit nito sa pangungusap."
       }
     },
     {
@@ -11972,14 +14971,14 @@
         "fil": "nag-aaral"
       },
       "meanings": {
-        "id": "Ungkapan A1: sedang belajar.",
-        "fil": "Pahayag sa A1: nag-aaral."
+        "id": "Kata kerja Filipino untuk “sedang belajar”, dipakai dalam pola A1 pada pelajaran ini.",
+        "fil": "Pandiwa na ginagamit sa batayang padron ng araling ito."
       },
-      "pos": "ungkapan",
+      "pos": "kata kerja",
       "pronunciation": "nag-aaral",
       "notes": {
-        "id": "Pelajari ungkapan ini sebagai satu kesatuan.",
-        "fil": "Aralin bilang isang buo ang pahayag na ito."
+        "id": "Bentuk ini menandai kegiatan belajar yang sedang berlangsung atau menjadi kebiasaan.",
+        "fil": "Nagsasaad ito ng kasalukuyan o nakagawiang pag-aaral."
       }
     },
     {
@@ -11990,14 +14989,14 @@
         "fil": "nag-aral"
       },
       "meanings": {
-        "id": "Ungkapan A1: telah belajar.",
-        "fil": "Pahayag sa A1: nag-aral."
+        "id": "Kata kerja Filipino untuk “telah belajar”, dipakai dalam pola A1 pada pelajaran ini.",
+        "fil": "Pandiwa na ginagamit sa batayang padron ng araling ito."
       },
-      "pos": "ungkapan",
+      "pos": "kata kerja",
       "pronunciation": "nag-aral",
       "notes": {
-        "id": "Pelajari ungkapan ini sebagai satu kesatuan.",
-        "fil": "Aralin bilang isang buo ang pahayag na ito."
+        "id": "Bentuk ini menandai kegiatan belajar yang sudah selesai; cocok dengan kahapon.",
+        "fil": "Nagsasaad ito ng natapos na pag-aaral at bagay sa kahapon."
       }
     },
     {
@@ -12404,14 +15403,14 @@
         "fil": "nanay"
       },
       "meanings": {
-        "id": "Ungkapan A1: ibu.",
-        "fil": "Pahayag sa A1: nanay."
+        "id": "Kata benda Filipino untuk “ibu”, dipakai dalam pola A1 pada pelajaran ini.",
+        "fil": "Pangngalan na ginagamit sa batayang padron ng araling ito."
       },
-      "pos": "ungkapan",
+      "pos": "kata benda",
       "pronunciation": "nanay",
       "notes": {
-        "id": "Pelajari ungkapan ini sebagai satu kesatuan.",
-        "fil": "Aralin bilang isang buo ang pahayag na ito."
+        "id": "Gunakan nanay untuk menyebut ibu; tambahkan ang, ng, atau sa sesuai perannya dalam kalimat.",
+        "fil": "Gamitin ang nanay bilang pangngalan at lagyan ng ang, ng, o sa ayon sa gamit nito sa pangungusap."
       }
     },
     {
@@ -13052,14 +16051,14 @@
         "fil": "pagkain"
       },
       "meanings": {
-        "id": "Ungkapan A1: makanan.",
-        "fil": "Pahayag sa A1: pagkain."
+        "id": "Kata benda Filipino untuk “makanan”, dipakai dalam pola A1 pada pelajaran ini.",
+        "fil": "Pangngalan na ginagamit sa batayang padron ng araling ito."
       },
-      "pos": "ungkapan",
+      "pos": "kata benda",
       "pronunciation": "pagkain",
       "notes": {
-        "id": "Pelajari ungkapan ini sebagai satu kesatuan.",
-        "fil": "Aralin bilang isang buo ang pahayag na ito."
+        "id": "Gunakan pagkain untuk menyebut makanan; tambahkan ang, ng, atau sa sesuai perannya dalam kalimat.",
+        "fil": "Gamitin ang pagkain bilang pangngalan at lagyan ng ang, ng, o sa ayon sa gamit nito sa pangungusap."
       }
     },
     {
@@ -13196,14 +16195,14 @@
         "fil": "pahingi po"
       },
       "meanings": {
-        "id": "Ungkapan A1: boleh minta.",
-        "fil": "Pahayag sa A1: pahingi po."
+        "id": "Ungkapan Filipino untuk “boleh minta”, dipakai dalam pola A1 pada pelajaran ini.",
+        "fil": "Parirala na ginagamit sa batayang padron ng araling ito."
       },
       "pos": "ungkapan",
       "pronunciation": "pahingi po",
       "notes": {
-        "id": "Pelajari ungkapan ini sebagai satu kesatuan.",
-        "fil": "Aralin bilang isang buo ang pahayag na ito."
+        "id": "Pakai pahingi po ng + benda untuk meminta sesuatu dengan sopan.",
+        "fil": "Gamitin ang pahingi po ng + bagay sa magalang na paghingi."
       }
     },
     {
@@ -13304,14 +16303,14 @@
         "fil": "panandang ang"
       },
       "meanings": {
-        "id": "Ungkapan A1: penanda fokus.",
-        "fil": "Pahayag sa A1: panandang ang."
+        "id": "Penanda tata bahasa Filipino untuk “penanda fokus”, dipakai dalam pola A1 pada pelajaran ini.",
+        "fil": "Panandang pambalarila na ginagamit sa batayang padron ng araling ito."
       },
-      "pos": "ungkapan",
+      "pos": "penanda tata bahasa",
       "pronunciation": "panandang ang",
       "notes": {
-        "id": "Pelajari ungkapan ini sebagai satu kesatuan.",
-        "fil": "Aralin bilang isang buo ang pahayag na ito."
+        "id": "Pakai ang untuk menandai fokus berupa nomina umum; gunakan si untuk satu nama orang.",
+        "fil": "Gamitin ang ang sa pokus na pangngalang pambalana at si sa isang pangalan."
       }
     },
     {
@@ -13322,14 +16321,14 @@
         "fil": "panandang ng"
       },
       "meanings": {
-        "id": "Ungkapan A1: penanda objek.",
-        "fil": "Pahayag sa A1: panandang ng."
+        "id": "Penanda tata bahasa Filipino untuk “penanda objek”, dipakai dalam pola A1 pada pelajaran ini.",
+        "fil": "Panandang pambalarila na ginagamit sa batayang padron ng araling ito."
       },
-      "pos": "ungkapan",
+      "pos": "penanda tata bahasa",
       "pronunciation": "panandang ng",
       "notes": {
-        "id": "Pelajari ungkapan ini sebagai satu kesatuan.",
-        "fil": "Aralin bilang isang buo ang pahayag na ito."
+        "id": "Pakai ng untuk objek, pemilik, atau pelaku yang tidak menjadi fokus; jangan selalu menerjemahkannya sebagai “dari”.",
+        "fil": "Gamitin ang ng sa layon, may-ari, o di-pokus na tagaganap; hindi ito laging “mula sa”."
       }
     },
     {
@@ -13340,14 +16339,14 @@
         "fil": "panandang sa"
       },
       "meanings": {
-        "id": "Ungkapan A1: penanda lokasi.",
-        "fil": "Pahayag sa A1: panandang sa."
+        "id": "Penanda tata bahasa Filipino untuk “penanda lokasi”, dipakai dalam pola A1 pada pelajaran ini.",
+        "fil": "Panandang pambalarila na ginagamit sa batayang padron ng araling ito."
       },
-      "pos": "ungkapan",
+      "pos": "penanda tata bahasa",
       "pronunciation": "panandang sa",
       "notes": {
-        "id": "Pelajari ungkapan ini sebagai satu kesatuan.",
-        "fil": "Aralin bilang isang buo ang pahayag na ito."
+        "id": "Pakai sa untuk tempat, arah, waktu, atau penerima, dan nasa untuk menyatakan keberadaan.",
+        "fil": "Gamitin ang sa sa lugar, direksiyon, oras, o tatanggap, at nasa sa kinaroroonan."
       }
     },
     {
@@ -14136,14 +17135,14 @@
         "fil": "salamat"
       },
       "meanings": {
-        "id": "Ungkapan A1: terima kasih.",
-        "fil": "Pahayag sa A1: salamat."
+        "id": "Ungkapan Filipino untuk “terima kasih”, dipakai dalam pola A1 pada pelajaran ini.",
+        "fil": "Parirala na ginagamit sa batayang padron ng araling ito."
       },
       "pos": "ungkapan",
       "pronunciation": "salamat",
       "notes": {
-        "id": "Pelajari ungkapan ini sebagai satu kesatuan.",
-        "fil": "Aralin bilang isang buo ang pahayag na ito."
+        "id": "Pelajari salamat sebagai satu ungkapan dan tirukan ritmenya dalam kalimat lengkap.",
+        "fil": "Pag-aralan ang salamat bilang isang buong parirala at gayahin ang ritmo nito sa pangungusap."
       }
     },
     {
@@ -14190,14 +17189,14 @@
         "fil": "sampu"
       },
       "meanings": {
-        "id": "Ungkapan A1: sepuluh.",
-        "fil": "Pahayag sa A1: sampu."
+        "id": "Bilangan Filipino untuk “sepuluh”, dipakai dalam pola A1 pada pelajaran ini.",
+        "fil": "Pamilang na ginagamit sa batayang padron ng araling ito."
       },
-      "pos": "ungkapan",
+      "pos": "bilangan",
       "pronunciation": "sampu",
       "notes": {
-        "id": "Pelajari ungkapan ini sebagai satu kesatuan.",
-        "fil": "Aralin bilang isang buo ang pahayag na ito."
+        "id": "Gunakan sampu untuk menyatakan jumlah; perhatikan penghubung -ng/na sebelum nomina.",
+        "fil": "Gamitin ang sampu sa dami at pansinin ang pang-angkop na -ng/na bago ang pangngalan."
       }
     },
     {
@@ -14334,14 +17333,14 @@
         "fil": "sila"
       },
       "meanings": {
-        "id": "Ungkapan A1: mereka.",
-        "fil": "Pahayag sa A1: sila."
+        "id": "Kata ganti Filipino untuk “mereka”, dipakai dalam pola A1 pada pelajaran ini.",
+        "fil": "Panghalip na ginagamit sa batayang padron ng araling ito."
       },
-      "pos": "ungkapan",
+      "pos": "kata ganti",
       "pronunciation": "sila",
       "notes": {
-        "id": "Pelajari ungkapan ini sebagai satu kesatuan.",
-        "fil": "Aralin bilang isang buo ang pahayag na ito."
+        "id": "Gunakan sila untuk merujuk peserta percakapan tanpa membedakan gender.",
+        "fil": "Gamitin ang sila upang tukuyin ang kalahok sa usapan nang walang kasarian."
       }
     },
     {
@@ -14406,14 +17405,14 @@
         "fil": "silya"
       },
       "meanings": {
-        "id": "Ungkapan A1: kursi.",
-        "fil": "Pahayag sa A1: silya."
+        "id": "Kata benda Filipino untuk “kursi”, dipakai dalam pola A1 pada pelajaran ini.",
+        "fil": "Pangngalan na ginagamit sa batayang padron ng araling ito."
       },
-      "pos": "ungkapan",
+      "pos": "kata benda",
       "pronunciation": "silya",
       "notes": {
-        "id": "Pelajari ungkapan ini sebagai satu kesatuan.",
-        "fil": "Aralin bilang isang buo ang pahayag na ito."
+        "id": "Gunakan silya untuk menyebut kursi; tambahkan ang, ng, atau sa sesuai perannya dalam kalimat.",
+        "fil": "Gamitin ang silya bilang pangngalan at lagyan ng ang, ng, o sa ayon sa gamit nito sa pangungusap."
       }
     },
     {
@@ -14514,14 +17513,14 @@
         "fil": "siya"
       },
       "meanings": {
-        "id": "Ungkapan A1: dia.",
-        "fil": "Pahayag sa A1: siya."
+        "id": "Kata ganti Filipino untuk “dia”, dipakai dalam pola A1 pada pelajaran ini.",
+        "fil": "Panghalip na ginagamit sa batayang padron ng araling ito."
       },
-      "pos": "ungkapan",
+      "pos": "kata ganti",
       "pronunciation": "siya",
       "notes": {
-        "id": "Pelajari ungkapan ini sebagai satu kesatuan.",
-        "fil": "Aralin bilang isang buo ang pahayag na ito."
+        "id": "Gunakan siya untuk merujuk peserta percakapan tanpa membedakan gender.",
+        "fil": "Gamitin ang siya upang tukuyin ang kalahok sa usapan nang walang kasarian."
       }
     },
     {
@@ -14838,14 +17837,14 @@
         "fil": "tapat"
       },
       "meanings": {
-        "id": "Ungkapan A1: di seberang.",
-        "fil": "Pahayag sa A1: tapat."
+        "id": "Kata keterangan/arah Filipino untuk “di seberang”, dipakai dalam pola A1 pada pelajaran ini.",
+        "fil": "Pang-abay/direksiyon na ginagamit sa batayang padron ng araling ito."
       },
-      "pos": "ungkapan",
+      "pos": "kata keterangan/arah",
       "pronunciation": "tapat",
       "notes": {
-        "id": "Pelajari ungkapan ini sebagai satu kesatuan.",
-        "fil": "Aralin bilang isang buo ang pahayag na ito."
+        "id": "Pola utamanya tapat ng + tempat acuan + ang + tempat yang dijelaskan.",
+        "fil": "Batayang padron: tapat ng + batayang lugar + ang + inilalarawang lugar."
       }
     },
     {
@@ -14892,14 +17891,14 @@
         "fil": "tatay"
       },
       "meanings": {
-        "id": "Ungkapan A1: ayah.",
-        "fil": "Pahayag sa A1: tatay."
+        "id": "Kata benda Filipino untuk “ayah”, dipakai dalam pola A1 pada pelajaran ini.",
+        "fil": "Pangngalan na ginagamit sa batayang padron ng araling ito."
       },
-      "pos": "ungkapan",
+      "pos": "kata benda",
       "pronunciation": "tatay",
       "notes": {
-        "id": "Pelajari ungkapan ini sebagai satu kesatuan.",
-        "fil": "Aralin bilang isang buo ang pahayag na ito."
+        "id": "Gunakan tatay untuk menyebut ayah; tambahkan ang, ng, atau sa sesuai perannya dalam kalimat.",
+        "fil": "Gamitin ang tatay bilang pangngalan at lagyan ng ang, ng, o sa ayon sa gamit nito sa pangungusap."
       }
     },
     {
@@ -14910,14 +17909,14 @@
         "fil": "tatlo"
       },
       "meanings": {
-        "id": "Ungkapan A1: tiga.",
-        "fil": "Pahayag sa A1: tatlo."
+        "id": "Bilangan Filipino untuk “tiga”, dipakai dalam pola A1 pada pelajaran ini.",
+        "fil": "Pamilang na ginagamit sa batayang padron ng araling ito."
       },
-      "pos": "ungkapan",
+      "pos": "bilangan",
       "pronunciation": "tatlo",
       "notes": {
-        "id": "Pelajari ungkapan ini sebagai satu kesatuan.",
-        "fil": "Aralin bilang isang buo ang pahayag na ito."
+        "id": "Gunakan tatlo untuk menyatakan jumlah; perhatikan penghubung -ng/na sebelum nomina.",
+        "fil": "Gamitin ang tatlo sa dami at pansinin ang pang-angkop na -ng/na bago ang pangngalan."
       }
     },
     {
@@ -14946,14 +17945,14 @@
         "fil": "tayo"
       },
       "meanings": {
-        "id": "Ungkapan A1: kita.",
-        "fil": "Pahayag sa A1: tayo."
+        "id": "Kata ganti Filipino untuk “kita”, dipakai dalam pola A1 pada pelajaran ini.",
+        "fil": "Panghalip na ginagamit sa batayang padron ng araling ito."
       },
-      "pos": "ungkapan",
+      "pos": "kata ganti",
       "pronunciation": "tayo",
       "notes": {
-        "id": "Pelajari ungkapan ini sebagai satu kesatuan.",
-        "fil": "Aralin bilang isang buo ang pahayag na ito."
+        "id": "Gunakan tayo jika lawan bicara termasuk dalam kelompok “kita”.",
+        "fil": "Gamitin ang tayo kapag kasama sa grupo ang kausap."
       }
     },
     {
@@ -15108,14 +18107,14 @@
         "fil": "tubig"
       },
       "meanings": {
-        "id": "Ungkapan A1: air.",
-        "fil": "Pahayag sa A1: tubig."
+        "id": "Kata benda Filipino untuk “air”, dipakai dalam pola A1 pada pelajaran ini.",
+        "fil": "Pangngalan na ginagamit sa batayang padron ng araling ito."
       },
-      "pos": "ungkapan",
+      "pos": "kata benda",
       "pronunciation": "tubig",
       "notes": {
-        "id": "Pelajari ungkapan ini sebagai satu kesatuan.",
-        "fil": "Aralin bilang isang buo ang pahayag na ito."
+        "id": "Gunakan tubig untuk menyebut air; tambahkan ang, ng, atau sa sesuai perannya dalam kalimat.",
+        "fil": "Gamitin ang tubig bilang pangngalan at lagyan ng ang, ng, o sa ayon sa gamit nito sa pangungusap."
       }
     },
     {
@@ -15540,14 +18539,14 @@
         "fil": "wala"
       },
       "meanings": {
-        "id": "Ungkapan A1: tidak ada.",
-        "fil": "Pahayag sa A1: wala."
+        "id": "Partikel negasi Filipino untuk “tidak ada”, dipakai dalam pola A1 pada pelajaran ini.",
+        "fil": "Katagang pananggi na ginagamit sa batayang padron ng araling ito."
       },
-      "pos": "ungkapan",
+      "pos": "partikel negasi",
       "pronunciation": "wala",
       "notes": {
-        "id": "Pelajari ungkapan ini sebagai satu kesatuan.",
-        "fil": "Aralin bilang isang buo ang pahayag na ito."
+        "id": "Gunakan wala atau walang untuk menyatakan ketiadaan orang atau benda.",
+        "fil": "Gamitin ang wala o walang sa kawalan ng tao o bagay."
       },
       "practice": {
         "prompt": {

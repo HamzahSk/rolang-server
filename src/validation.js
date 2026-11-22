@@ -13,6 +13,15 @@ export const levelFor = d => ({ A1: 'BEGINNER', A2: 'BEGINNER', B1: 'INTERMEDIAT
   B2: 'INTERMEDIATE', C1: 'ADVANCED', C2: 'ADVANCED' })[d];
 export const normalizeWord = value => value.toLowerCase().replaceAll('’', "'");
 const localizedStrings = z.object({ id: z.array(text).max(500), fil: z.array(text).max(500) }).strict();
+const lessonVocabulary = z.object({
+  term: word, reading: z.string().trim().min(1).max(1000),
+  partOfSpeech: translated, meaning: translated, usage: translated,
+}).strict();
+const grammarPoint = z.object({
+  title: translated, explanation: translated, formula: translated,
+  rules: z.array(translated).min(2).max(20), pitfalls: z.array(translated).min(2).max(20),
+}).strict();
+const exampleGuide = z.object({ pattern: translated, breakdown: translated, tip: translated }).strict();
 const exercise = z.object({
   id: identifier, type: z.enum(['MULTIPLE_CHOICE','VOCABULARY_TRANSLATION','FILL_BLANK','GRAMMAR','SENTENCE_CONSTRUCTION','COMPREHENSION']),
   prompt: translated, answer: translated, explanation: translated,
@@ -34,6 +43,8 @@ const learningFields = {
   notes: z.array(z.object({ title: translated, text: translated }).strict()).max(100).optional(),
   exercises: z.array(exercise).max(300).optional(), focus: localizedStrings.optional(),
   pronunciation: z.object({ id:z.string().max(10000), fil:z.string().max(10000) }).strict().optional(),
+  context: translated.optional(), lessonVocabulary: z.array(lessonVocabulary).max(100).optional(),
+  grammar: z.array(grammarPoint).max(100).optional(), exampleGuides: z.array(exampleGuide).max(300).optional(),
 };
 export const chapterSchema = z.object({ id: identifier, title: translated, summary: translated.optional(), ...learningFields }).strict();
 export const storySchema = z.object({
@@ -57,6 +68,14 @@ export const storySchema = z.object({
   // For chaptered stories the legacy text is the ordered concatenation. Old clients keep working.
   if (story.chapters && JSON.stringify(story.sentences) !== JSON.stringify(story.chapters.flatMap(c => c.sentences)))
     ctx.addIssue({ code:'custom', path:['sentences'], message:'Story sentences must match ordered chapter sentences.' });
+  const hasStructuredLesson = story.context || story.lessonVocabulary || story.grammar || story.exampleGuides;
+  if (story.kind === 'LESSON' && hasStructuredLesson) {
+    const requiredPractice = new Set(['MULTIPLE_CHOICE','VOCABULARY_TRANSLATION','FILL_BLANK','GRAMMAR','SENTENCE_CONSTRUCTION']);
+    for (const item of story.exercises ?? []) requiredPractice.delete(item.type);
+    if (!story.context || (story.objectives?.length ?? 0) < 3 || (story.lessonVocabulary?.length ?? 0) < 3 ||
+        (story.grammar?.length ?? 0) < 2 || story.exampleGuides?.length !== story.sentences.length || requiredPractice.size)
+      ctx.addIssue({ code:'custom', path:['kind'], message:'Lessons require context, detailed goals, vocabulary, grammar, guided examples, and varied practice.' });
+  }
   const definitions = new Map();
   for (const unit of units) {
     for (const exercise of unit.exercises ?? []) {

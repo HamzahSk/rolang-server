@@ -6,7 +6,8 @@ import { documentId, assertDocumentSize, nextStoryVersion } from './documents.js
 export const hash = value => createHash('sha256').update(JSON.stringify(value)).digest('hex');
 export function chaptersFor(story) {
   if (story.chapters) return story.chapters;
-  const fields = ['sentences', 'speakers', 'objectives', 'notes', 'exercises', 'focus', 'pronunciation'];
+  const fields = ['sentences', 'speakers', 'objectives', 'notes', 'exercises', 'focus', 'pronunciation',
+    'context', 'lessonVocabulary', 'grammar', 'exampleGuides'];
   return [{ id: 'main', title: story.title, summary: story.summary,
     ...Object.fromEntries(fields.filter(key => story[key] !== undefined).map(key => [key, story[key]])) }];
 }

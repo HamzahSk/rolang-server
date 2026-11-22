@@ -29,7 +29,7 @@ test('focused corpus import is exact, ordered, atomic, and idempotent',async () 
   assert.deepEqual(await db.collection('stories').find({}, { projection: { _id: 1, version: 1, updated_at: 1 } }).sort({ _id: 1 }).toArray(),first);
   assert.deepEqual(await db.collection('learning_records').findOne({ _id: learnerRecord._id }), learnerRecord);
   const report = await verifyCorpus(store,corpus);
-  assert.deepEqual([report.stories,report.chapters,report.vocabulary,report.exercises],[21,30,494,150]);
+  assert.deepEqual([report.stories,report.chapters,report.vocabulary,report.exercises],[21,30,494,157]);
   const changed = structuredClone(corpus);
   changed.stories.at(-1).title.id += ' diubah';
   await assert.rejects(importCorpus(store,changed), error => error.code === 'IMPORT_CONFLICT');
@@ -50,7 +50,8 @@ test('paginated catalogs and every stored detail/chapter preserve all learning c
   const {stories} = prepareCorpus(corpus);
   for (const story of stories) {
     const detail = (await request(app).get(`/api/v1/stories/${story.id}`).expect(200)).body;
-    for (const key of ['title','summary','sentences','speakers','notes','objectives','focus','pronunciation','exercises','vocabulary']) assert.deepEqual(detail[key],story[key]);
+    for (const key of ['title','summary','sentences','speakers','notes','objectives','focus','pronunciation','exercises',
+      'context','lessonVocabulary','grammar','exampleGuides','vocabulary']) assert.deepEqual(detail[key],story[key]);
     const content = (await request(app).get(`/api/v1/stories/${story.id}/content`).expect(200)).body;
     assert.deepEqual(content.sentences, story.sentences);
     assert.deepEqual(content.chapters.flatMap(chapter => chapter.sentences), story.sentences);

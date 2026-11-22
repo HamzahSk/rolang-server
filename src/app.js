@@ -127,6 +127,7 @@ export function createApp(store = database()) {
     const rows = await db.collection('stories').find(filter, { projection: {
       'content.sentences': 0, 'content.vocabulary': 0, 'content.chapters': 0, 'content.speakers': 0,
       'content.objectives': 0, 'content.notes': 0, 'content.exercises': 0, 'content.focus': 0, 'content.pronunciation': 0,
+      'content.context': 0, 'content.lessonVocabulary': 0, 'content.grammar': 0, 'content.exampleGuides': 0,
     } }).sort({ _id: 1 }).limit(query.limit + 1).toArray();
     const items = rows.slice(0, query.limit);
     res.json({ stories: items.map(storySummary), next: rows.length > query.limit ? items.at(-1)._id : null });

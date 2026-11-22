@@ -53,6 +53,9 @@ test('the focused Indonesian-Filipino corpus validates with all exercises and st
   assert.equal(stories.length, 21);
   assert.equal(vocabulary.length, 494);
   assert.equal(stories.reduce((count, story) => count + (story.exercises?.length ?? 0) +
-    (story.chapters ?? []).reduce((sum, chapter) => sum + (chapter.exercises?.length ?? 0), 0), 0), 150);
-  assert.ok(stories.filter(story => story.kind === 'STORY').every(story => story.sentences.length >= 5));
+    (story.chapters ?? []).reduce((sum, chapter) => sum + (chapter.exercises?.length ?? 0), 0), 0), 157);
+  assert.ok(stories.filter(story => story.kind !== 'LESSON').every(story => story.sentences.length >= 10));
+  assert.ok(stories.filter(story => story.kind === 'LESSON').every(story =>
+    story.objectives.length >= 3 && story.lessonVocabulary.length >= 3 && story.grammar.length >= 2 &&
+    story.exampleGuides.length === story.sentences.length));
 });

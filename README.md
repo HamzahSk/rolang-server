@@ -30,7 +30,7 @@ node --env-file=.env scripts/import-corpus.js --verify
 ```
 
 This imports 21 ordered A1 units, 30 chapter records, 494 Filipino dictionary entries,
-and 150 exercises. Repeating the import avoids duplicates; differing existing content stops the
+and 157 exercises. Repeating the import avoids duplicates; differing existing content stops the
 import for review. The API reads content directly from MongoDB and requires no
 persistent local files. The bundled JSON files contain only `id`/`fil` learning
 content. The language-pair migration changes only the text-search index; learner
