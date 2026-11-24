@@ -1,0 +1,4186 @@
+{
+  "schemaVersion": 1,
+  "id": "elementary-tagalog-1-lesson-12",
+  "courseId": "elementary-tagalog-1",
+  "unitId": "unit-04-home",
+  "order": 12,
+  "level": "BEGINNER",
+  "title": {
+    "id": "Kampung Halaman Saya",
+    "fil": "Ang Bayan Ko"
+  },
+  "summary": {
+    "id": "Kampung Halaman Saya",
+    "fil": "Ang Bayan Ko"
+  },
+  "objectives": [
+    {
+      "sourceLanguage": "en",
+      "sourceText": "• Give and ask for directions",
+      "id": "Berikan dan meminta arah"
+    },
+    {
+      "sourceLanguage": "en",
+      "sourceText": "• Express simple requests and commands",
+      "id": "Permintaan sederhana dan perintah ekspres"
+    }
+  ],
+  "source": {
+    "book": "Elementary Tagalog",
+    "file": "OEBPS/Text/Lesson12.xhtml"
+  },
+  "assets": [
+    "assets/gcd.jpg",
+    "assets/205.jpg",
+    "assets/206.jpg",
+    "assets/207.jpg",
+    "assets/214a.jpg",
+    "assets/214.jpg",
+    "assets/cd.jpg"
+  ],
+  "sections": [
+    {
+      "id": "lesson-12-overview",
+      "type": "OVERVIEW",
+      "title": {
+        "sourceLanguage": "mixed",
+        "sourceText": "Overview",
+        "id": "Gambaran Umum"
+      },
+      "blocks": [
+        {
+          "type": "text",
+          "style": "body",
+          "text": {
+            "sourceLanguage": "en",
+            "sourceText": "An Overview of Lesson 12",
+            "id": "Gambaran Umum Pelajaran 12"
+          }
+        },
+        {
+          "type": "text",
+          "style": "body",
+          "text": {
+            "sourceLanguage": "mixed",
+            "sourceText": "Objectives",
+            "id": "Objeksi"
+          }
+        },
+        {
+          "type": "text",
+          "style": "body",
+          "text": {
+            "sourceLanguage": "en",
+            "sourceText": "• Give and ask for directions",
+            "id": "Berikan dan meminta arah"
+          }
+        },
+        {
+          "type": "text",
+          "style": "body",
+          "text": {
+            "sourceLanguage": "en",
+            "sourceText": "• Express simple requests and commands",
+            "id": "Permintaan sederhana dan perintah ekspres"
+          }
+        },
+        {
+          "type": "text",
+          "style": "body",
+          "text": {
+            "sourceLanguage": "mixed",
+            "sourceText": "Vocabulary",
+            "id": "Kosakata"
+          }
+        },
+        {
+          "type": "text",
+          "style": "body",
+          "text": {
+            "sourceLanguage": "mixed",
+            "sourceText": "• Nouns",
+            "id": "Nouns"
+          }
+        },
+        {
+          "type": "text",
+          "style": "body",
+          "text": {
+            "sourceLanguage": "fil",
+            "sourceText": "• -Um- Verbs",
+            "id": "-um- Borbs",
+            "tagalog": "• -Um- Verbs"
+          }
+        },
+        {
+          "type": "text",
+          "style": "body",
+          "text": {
+            "sourceLanguage": "fil",
+            "sourceText": "• Mag- Verbs",
+            "id": "Vebs Cultivate",
+            "tagalog": "• Mag- Verbs"
+          }
+        },
+        {
+          "type": "text",
+          "style": "body",
+          "text": {
+            "sourceLanguage": "mixed",
+            "sourceText": "• Idioms and Expressions",
+            "id": "Ekspresi dan Idiom"
+          }
+        },
+        {
+          "type": "text",
+          "style": "body",
+          "text": {
+            "sourceLanguage": "en",
+            "sourceText": "Reading Text: Imbitasyon sa Aking Bahay An Invitation to My House",
+            "id": "Teks Bacaan: Imbitasyon sa Aking Bahay An Invitation to My House"
+          }
+        },
+        {
+          "type": "text",
+          "style": "body",
+          "text": {
+            "sourceLanguage": "mixed",
+            "sourceText": "Reading Comprehension",
+            "id": "Pemahaman Bacaan"
+          }
+        },
+        {
+          "type": "text",
+          "style": "body",
+          "text": {
+            "sourceLanguage": "mixed",
+            "sourceText": "Activities",
+            "id": "Aktivitas"
+          }
+        },
+        {
+          "type": "text",
+          "style": "body",
+          "text": {
+            "sourceLanguage": "mixed",
+            "sourceText": "Activity 1: Role Play",
+            "id": "Aktivitas 1: Permainan Peran"
+          }
+        },
+        {
+          "type": "text",
+          "style": "body",
+          "text": {
+            "sourceLanguage": "en",
+            "sourceText": "Activity 2: Where Am I?",
+            "id": "Aktivitas 2: dimana aku?"
+          }
+        },
+        {
+          "type": "text",
+          "style": "body",
+          "text": {
+            "sourceLanguage": "en",
+            "sourceText": "Activity 3: How Do I Get to . . .?",
+            "id": "Aktivitas 3: bagaimana aku bisa..?"
+          }
+        },
+        {
+          "type": "text",
+          "style": "body",
+          "text": {
+            "sourceLanguage": "mixed",
+            "sourceText": "Grammar",
+            "id": "Tata Bahasa"
+          }
+        },
+        {
+          "type": "text",
+          "style": "body",
+          "text": {
+            "sourceLanguage": "mixed",
+            "sourceText": "Examining Form",
+            "id": "Mengkaji Bentuk"
+          }
+        },
+        {
+          "type": "table",
+          "rows": [
+            {
+              "cells": [
+                {
+                  "sourceLanguage": "mixed",
+                  "sourceText": "I.",
+                  "id": "Aku..."
+                },
+                {
+                  "sourceLanguage": "mixed",
+                  "sourceText": "Imperatives",
+                  "id": "Imperasi"
+                }
+              ]
+            },
+            {
+              "cells": [
+                {
+                  "sourceLanguage": "mixed",
+                  "sourceText": "Grammar Presentation",
+                  "id": "Penyajian Tata Bahasa"
+                }
+              ]
+            },
+            {
+              "cells": [
+                {
+                  "sourceLanguage": "mixed",
+                  "sourceText": "Grammar Notes",
+                  "id": "Catatan Tata Bahasa"
+                }
+              ]
+            },
+            {
+              "cells": [
+                {
+                  "sourceLanguage": "mixed",
+                  "sourceText": "II.",
+                  "id": "II."
+                },
+                {
+                  "sourceLanguage": "fil",
+                  "sourceText": "-Um- Verbs",
+                  "id": "E-Verbs",
+                  "tagalog": "-Um- Verbs"
+                }
+              ]
+            },
+            {
+              "cells": [
+                {
+                  "sourceLanguage": "mixed",
+                  "sourceText": "Grammar Presentation",
+                  "id": "Penyajian Tata Bahasa"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "style": "body",
+          "text": {
+            "sourceLanguage": "mixed",
+            "sourceText": "Practice",
+            "id": "Latihan"
+          }
+        },
+        {
+          "type": "text",
+          "style": "body",
+          "text": {
+            "sourceLanguage": "en",
+            "sourceText": "I. Speaking Practice",
+            "id": "I. Latihan Berbicara"
+          }
+        },
+        {
+          "type": "text",
+          "style": "body",
+          "text": {
+            "sourceLanguage": "mixed",
+            "sourceText": "II. Reading Practice",
+            "id": "II. Latihan Membaca"
+          }
+        },
+        {
+          "type": "text",
+          "style": "body",
+          "text": {
+            "sourceLanguage": "mixed",
+            "sourceText": "III. Writing Practice",
+            "id": "III. Latihan Menulis"
+          }
+        },
+        {
+          "type": "text",
+          "style": "body",
+          "text": {
+            "sourceLanguage": "mixed",
+            "sourceText": "IV. Listening Practice",
+            "id": "IV. Latihan Menyimak"
+          }
+        }
+      ]
+    },
+    {
+      "id": "lesson-12-vocabulary",
+      "type": "VOCABULARY",
+      "title": {
+        "sourceLanguage": "mixed",
+        "sourceText": "Vocabulary",
+        "id": "Kosakata"
+      },
+      "blocks": [
+        {
+          "type": "text",
+          "style": "body",
+          "text": {
+            "sourceLanguage": "mixed",
+            "sourceText": "Vocabulary (12–1)",
+            "id": "Kosakata (12–1)"
+          }
+        },
+        {
+          "type": "image",
+          "path": "assets/gcd.jpg"
+        },
+        {
+          "type": "text",
+          "style": "body",
+          "text": {
+            "sourceLanguage": "en",
+            "sourceText": "The vocabulary below will help you make requests or commands and give or ask for directions. You will need it to participate in the activities in this lesson. Memorize the vocabulary words before proceeding to the dialogue.",
+            "id": "Kosakata di bawah ini akan membantu Anda membuat permintaan atau perintah dan memberikan atau meminta arah. Anda akan membutuhkannya untuk berpartisipasi dalam kegiatan dalam pelajaran ini. Menghafal kata-kata kosakata sebelum melanjutkan dialog."
+          }
+        },
+        {
+          "type": "table",
+          "rows": [
+            {
+              "cells": [
+                {
+                  "sourceLanguage": "mixed",
+                  "sourceText": "Nouns",
+                  "id": "Kata benda"
+                }
+              ]
+            },
+            {
+              "cells": [
+                {
+                  "sourceLanguage": "fil",
+                  "sourceText": "direksiyon",
+                  "id": "arah",
+                  "tagalog": "direksiyon"
+                },
+                {
+                  "sourceLanguage": "mixed",
+                  "sourceText": "direction",
+                  "id": "arah"
+                }
+              ]
+            },
+            {
+              "cells": [
+                {
+                  "sourceLanguage": "fil",
+                  "sourceText": "eskinita",
+                  "id": "gang",
+                  "tagalog": "eskinita"
+                },
+                {
+                  "sourceLanguage": "mixed",
+                  "sourceText": "alley",
+                  "id": "gang"
+                }
+              ]
+            },
+            {
+              "cells": [
+                {
+                  "sourceLanguage": "fil",
+                  "sourceText": "gusali",
+                  "id": "bangunan",
+                  "tagalog": "gusali"
+                },
+                {
+                  "sourceLanguage": "mixed",
+                  "sourceText": "building",
+                  "id": "bangunan"
+                }
+              ]
+            },
+            {
+              "cells": [
+                {
+                  "sourceLanguage": "fil",
+                  "sourceText": "hilaga",
+                  "id": "utara",
+                  "tagalog": "hilaga"
+                },
+                {
+                  "sourceLanguage": "mixed",
+                  "sourceText": "north",
+                  "id": "utara"
+                }
+              ]
+            },
+            {
+              "cells": [
+                {
+                  "sourceLanguage": "fil",
+                  "sourceText": "kalye",
+                  "id": "jalan",
+                  "tagalog": "kalye"
+                },
+                {
+                  "sourceLanguage": "mixed",
+                  "sourceText": "street",
+                  "id": "jalan"
+                }
+              ]
+            },
+            {
+              "cells": [
+                {
+                  "sourceLanguage": "fil",
+                  "sourceText": "kanluran",
+                  "id": "barat",
+                  "tagalog": "kanluran"
+                },
+                {
+                  "sourceLanguage": "mixed",
+                  "sourceText": "west",
+                  "id": "barat"
+                }
+              ]
+            },
+            {
+              "cells": [
+                {
+                  "sourceLanguage": "fil",
+                  "sourceText": "kanto",
+                  "id": "pojok",
+                  "tagalog": "kanto"
+                },
+                {
+                  "sourceLanguage": "mixed",
+                  "sourceText": "corner",
+                  "id": "pojok"
+                }
+              ]
+            },
+            {
+              "cells": [
+                {
+                  "sourceLanguage": "fil",
+                  "sourceText": "mapa",
+                  "id": "peta",
+                  "tagalog": "mapa"
+                },
+                {
+                  "sourceLanguage": "mixed",
+                  "sourceText": "map",
+                  "id": "peta"
+                }
+              ]
+            },
+            {
+              "cells": [
+                {
+                  "sourceLanguage": "fil",
+                  "sourceText": "pamilihan",
+                  "id": "pasar",
+                  "tagalog": "pamilihan"
+                },
+                {
+                  "sourceLanguage": "mixed",
+                  "sourceText": "market",
+                  "id": "pasar"
+                }
+              ]
+            },
+            {
+              "cells": [
+                {
+                  "sourceLanguage": "fil",
+                  "sourceText": "rotonda",
+                  "id": "bundaran, rotary, persimpangan",
+                  "tagalog": "rotonda"
+                },
+                {
+                  "sourceLanguage": "mixed",
+                  "sourceText": "roundabout, rotary, intersection",
+                  "id": "bundaran, rotary, persimpangan"
+                }
+              ]
+            },
+            {
+              "cells": [
+                {
+                  "sourceLanguage": "fil",
+                  "sourceText": "silangan",
+                  "id": "timur",
+                  "tagalog": "silangan"
+                },
+                {
+                  "sourceLanguage": "mixed",
+                  "sourceText": "east",
+                  "id": "timur"
+                }
+              ]
+            },
+            {
+              "cells": [
+                {
+                  "sourceLanguage": "fil",
+                  "sourceText": "timog",
+                  "id": "selatan",
+                  "tagalog": "timog"
+                },
+                {
+                  "sourceLanguage": "mixed",
+                  "sourceText": "south",
+                  "id": "selatan"
+                }
+              ]
+            },
+            {
+              "cells": [
+                {
+                  "sourceLanguage": "mixed",
+                  "sourceText": "-Um- Verbs",
+                  "id": "-Um- verbs"
+                }
+              ]
+            },
+            {
+              "cells": [
+                {
+                  "sourceLanguage": "fil",
+                  "sourceText": "bumaha",
+                  "id": "ke banjir",
+                  "tagalog": "bumaha"
+                },
+                {
+                  "sourceLanguage": "mixed",
+                  "sourceText": "to flood",
+                  "id": "ke banjir"
+                }
+              ]
+            },
+            {
+              "cells": [
+                {
+                  "sourceLanguage": "fil",
+                  "sourceText": "bumalik",
+                  "id": "untuk pergi / kembali / kembali",
+                  "tagalog": "bumalik"
+                },
+                {
+                  "sourceLanguage": "mixed",
+                  "sourceText": "to go/return/come back",
+                  "id": "untuk pergi / kembali / kembali"
+                }
+              ]
+            },
+            {
+              "cells": [
+                {
+                  "sourceLanguage": "fil",
+                  "sourceText": "bumagyo",
+                  "id": "Untuk badai, untuk memiliki badai",
+                  "tagalog": "bumagyo"
+                },
+                {
+                  "sourceLanguage": "en",
+                  "sourceText": "to storm, to have a typhoon",
+                  "id": "Untuk badai, untuk memiliki badai"
+                }
+              ]
+            },
+            {
+              "cells": [
+                {
+                  "sourceLanguage": "fil",
+                  "sourceText": "bumaba",
+                  "id": "untuk pergi / turun",
+                  "tagalog": "bumaba"
+                },
+                {
+                  "sourceLanguage": "mixed",
+                  "sourceText": "to go/come down",
+                  "id": "untuk pergi / turun"
+                }
+              ]
+            },
+            {
+              "cells": [
+                {
+                  "sourceLanguage": "fil",
+                  "sourceText": "dumaan",
+                  "id": "to pass by",
+                  "tagalog": "dumaan"
+                },
+                {
+                  "sourceLanguage": "en",
+                  "sourceText": "to pass by",
+                  "id": "to pass by"
+                }
+              ]
+            },
+            {
+              "cells": [
+                {
+                  "sourceLanguage": "fil",
+                  "sourceText": "dumalaw",
+                  "id": "untuk mengunjungi",
+                  "tagalog": "dumalaw"
+                },
+                {
+                  "sourceLanguage": "mixed",
+                  "sourceText": "to visit",
+                  "id": "untuk mengunjungi"
+                }
+              ]
+            },
+            {
+              "cells": [
+                {
+                  "sourceLanguage": "fil",
+                  "sourceText": "dumiretso",
+                  "id": "untuk pergi lurus",
+                  "tagalog": "dumiretso"
+                },
+                {
+                  "sourceLanguage": "mixed",
+                  "sourceText": "to go straight",
+                  "id": "untuk pergi lurus"
+                }
+              ]
+            },
+            {
+              "cells": [
+                {
+                  "sourceLanguage": "fil",
+                  "sourceText": "humangin",
+                  "id": "Untuk meniup, sebagai angin",
+                  "tagalog": "humangin"
+                },
+                {
+                  "sourceLanguage": "en",
+                  "sourceText": "to blow, as wind",
+                  "id": "Untuk meniup, sebagai angin"
+                }
+              ]
+            },
+            {
+              "cells": [
+                {
+                  "sourceLanguage": "fil",
+                  "sourceText": "huminto",
+                  "id": "untuk berhenti",
+                  "tagalog": "huminto"
+                },
+                {
+                  "sourceLanguage": "mixed",
+                  "sourceText": "to stop",
+                  "id": "untuk berhenti"
+                }
+              ]
+            },
+            {
+              "cells": [
+                {
+                  "sourceLanguage": "fil",
+                  "sourceText": "kumaliwa",
+                  "id": "belok kiri",
+                  "tagalog": "kumaliwa"
+                },
+                {
+                  "sourceLanguage": "mixed",
+                  "sourceText": "to turn left",
+                  "id": "belok kiri"
+                }
+              ]
+            },
+            {
+              "cells": [
+                {
+                  "sourceLanguage": "fil",
+                  "sourceText": "kumanan",
+                  "id": "belok kanan",
+                  "tagalog": "kumanan"
+                },
+                {
+                  "sourceLanguage": "mixed",
+                  "sourceText": "to turn right",
+                  "id": "belok kanan"
+                }
+              ]
+            },
+            {
+              "cells": [
+                {
+                  "sourceLanguage": "fil",
+                  "sourceText": "kumidlat",
+                  "id": "untuk kilat, seperti kilat",
+                  "tagalog": "kumidlat"
+                },
+                {
+                  "sourceLanguage": "en",
+                  "sourceText": "to flash, as lightning",
+                  "id": "untuk kilat, seperti kilat"
+                }
+              ]
+            },
+            {
+              "cells": [
+                {
+                  "sourceLanguage": "fil",
+                  "sourceText": "kumulog",
+                  "id": "to thunder",
+                  "tagalog": "kumulog"
+                },
+                {
+                  "sourceLanguage": "mixed",
+                  "sourceText": "to thunder",
+                  "id": "to thunder"
+                }
+              ]
+            },
+            {
+              "cells": [
+                {
+                  "sourceLanguage": "fil",
+                  "sourceText": "lumabas",
+                  "id": "untuk pergi keluar",
+                  "tagalog": "lumabas"
+                },
+                {
+                  "sourceLanguage": "en",
+                  "sourceText": "to go out",
+                  "id": "untuk pergi keluar"
+                }
+              ]
+            },
+            {
+              "cells": [
+                {
+                  "sourceLanguage": "fil",
+                  "sourceText": "lumayo",
+                  "id": "untuk pergi jauh, untuk menjauh",
+                  "tagalog": "lumayo"
+                },
+                {
+                  "sourceLanguage": "en",
+                  "sourceText": "to go far away, to stay away",
+                  "id": "untuk pergi jauh, untuk menjauh"
+                }
+              ]
+            },
+            {
+              "cells": [
+                {
+                  "sourceLanguage": "fil",
+                  "sourceText": "lumiko",
+                  "id": "untuk membuat giliran",
+                  "tagalog": "lumiko"
+                },
+                {
+                  "sourceLanguage": "en",
+                  "sourceText": "to make a turn",
+                  "id": "untuk membuat giliran"
+                }
+              ]
+            },
+            {
+              "cells": [
+                {
+                  "sourceLanguage": "fil",
+                  "sourceText": "lumipat",
+                  "id": "untuk bergerak",
+                  "tagalog": "lumipat"
+                },
+                {
+                  "sourceLanguage": "mixed",
+                  "sourceText": "to move",
+                  "id": "untuk bergerak"
+                }
+              ]
+            },
+            {
+              "cells": [
+                {
+                  "sourceLanguage": "fil",
+                  "sourceText": "lumindol",
+                  "id": "untuk gempa",
+                  "tagalog": "lumindol"
+                },
+                {
+                  "sourceLanguage": "mixed",
+                  "sourceText": "to quake",
+                  "id": "untuk gempa"
+                }
+              ]
+            },
+            {
+              "cells": [
+                {
+                  "sourceLanguage": "fil",
+                  "sourceText": "pumasyal",
+                  "id": "berjalan-jalan",
+                  "tagalog": "pumasyal"
+                },
+                {
+                  "sourceLanguage": "mixed",
+                  "sourceText": "to stroll",
+                  "id": "berjalan-jalan"
+                }
+              ]
+            },
+            {
+              "cells": [
+                {
+                  "sourceLanguage": "fil",
+                  "sourceText": "pumunta",
+                  "id": "untuk pergi",
+                  "tagalog": "pumunta"
+                },
+                {
+                  "sourceLanguage": "mixed",
+                  "sourceText": "to go",
+                  "id": "untuk pergi"
+                }
+              ]
+            },
+            {
+              "cells": [
+                {
+                  "sourceLanguage": "fil",
+                  "sourceText": "sumakay",
+                  "id": "untuk naik",
+                  "tagalog": "sumakay"
+                },
+                {
+                  "sourceLanguage": "mixed",
+                  "sourceText": "to ride",
+                  "id": "untuk naik"
+                }
+              ]
+            },
+            {
+              "cells": [
+                {
+                  "sourceLanguage": "fil",
+                  "sourceText": "sumunod",
+                  "id": "untuk mengikuti",
+                  "tagalog": "sumunod"
+                },
+                {
+                  "sourceLanguage": "mixed",
+                  "sourceText": "to follow",
+                  "id": "untuk mengikuti"
+                }
+              ]
+            },
+            {
+              "cells": [
+                {
+                  "sourceLanguage": "fil",
+                  "sourceText": "umatras",
+                  "id": "kembali ke atas",
+                  "tagalog": "umatras"
+                },
+                {
+                  "sourceLanguage": "mixed",
+                  "sourceText": "to back up",
+                  "id": "kembali ke atas"
+                }
+              ]
+            },
+            {
+              "cells": [
+                {
+                  "sourceLanguage": "fil",
+                  "sourceText": "umabante",
+                  "id": "untuk maju",
+                  "tagalog": "umabante"
+                },
+                {
+                  "sourceLanguage": "mixed",
+                  "sourceText": "to go forward",
+                  "id": "untuk maju"
+                }
+              ]
+            },
+            {
+              "cells": [
+                {
+                  "sourceLanguage": "fil",
+                  "sourceText": "umakyat",
+                  "id": "untuk mendaki",
+                  "tagalog": "umakyat"
+                },
+                {
+                  "sourceLanguage": "mixed",
+                  "sourceText": "to climb",
+                  "id": "untuk mendaki"
+                }
+              ]
+            },
+            {
+              "cells": [
+                {
+                  "sourceLanguage": "fil",
+                  "sourceText": "umambon",
+                  "id": "ke gerimis",
+                  "tagalog": "umambon"
+                },
+                {
+                  "sourceLanguage": "mixed",
+                  "sourceText": "to drizzle",
+                  "id": "ke gerimis"
+                }
+              ]
+            },
+            {
+              "cells": [
+                {
+                  "sourceLanguage": "fil",
+                  "sourceText": "umaraw",
+                  "id": "untuk menjadi cerah",
+                  "tagalog": "umaraw"
+                },
+                {
+                  "sourceLanguage": "mixed",
+                  "sourceText": "to become sunny",
+                  "id": "untuk menjadi cerah"
+                }
+              ]
+            },
+            {
+              "cells": [
+                {
+                  "sourceLanguage": "fil",
+                  "sourceText": "umikot",
+                  "id": "untuk berbalik",
+                  "tagalog": "umikot"
+                },
+                {
+                  "sourceLanguage": "mixed",
+                  "sourceText": "to turn around",
+                  "id": "untuk berbalik"
+                }
+              ]
+            },
+            {
+              "cells": [
+                {
+                  "sourceLanguage": "fil",
+                  "sourceText": "umulan",
+                  "id": "hujan",
+                  "tagalog": "umulan"
+                },
+                {
+                  "sourceLanguage": "mixed",
+                  "sourceText": "to rain",
+                  "id": "hujan"
+                }
+              ]
+            },
+            {
+              "cells": [
+                {
+                  "sourceLanguage": "mixed",
+                  "sourceText": "Mag- Verbs",
+                  "id": "Mag- Verbs"
+                }
+              ]
+            },
+            {
+              "cells": [
+                {
+                  "sourceLanguage": "fil",
+                  "sourceText": "magbangka",
+                  "id": "untuk mengambil perahu",
+                  "tagalog": "magbangka"
+                },
+                {
+                  "sourceLanguage": "en",
+                  "sourceText": "to take a boat",
+                  "id": "untuk mengambil perahu"
+                }
+              ]
+            },
+            {
+              "cells": [
+                {
+                  "sourceLanguage": "fil",
+                  "sourceText": "magbarko",
+                  "id": "untuk mengambil kapal",
+                  "tagalog": "magbarko"
+                },
+                {
+                  "sourceLanguage": "en",
+                  "sourceText": "to take a ship",
+                  "id": "untuk mengambil kapal"
+                }
+              ]
+            },
+            {
+              "cells": [
+                {
+                  "sourceLanguage": "fil",
+                  "sourceText": "magbisikleta",
+                  "id": "untuk naik sepeda",
+                  "tagalog": "magbisikleta"
+                },
+                {
+                  "sourceLanguage": "en",
+                  "sourceText": "to ride on a bicycle",
+                  "id": "untuk naik sepeda"
+                }
+              ]
+            },
+            {
+              "cells": [
+                {
+                  "sourceLanguage": "fil",
+                  "sourceText": "magbus",
+                  "id": "untuk naik bus",
+                  "tagalog": "magbus"
+                },
+                {
+                  "sourceLanguage": "en",
+                  "sourceText": "to take a bus",
+                  "id": "untuk naik bus"
+                }
+              ]
+            },
+            {
+              "cells": [
+                {
+                  "sourceLanguage": "fil",
+                  "sourceText": "magdyip",
+                  "id": "untuk mengambil jip",
+                  "tagalog": "magdyip"
+                },
+                {
+                  "sourceLanguage": "en",
+                  "sourceText": "to take a jeep",
+                  "id": "untuk mengambil jip"
+                }
+              ]
+            },
+            {
+              "cells": [
+                {
+                  "sourceLanguage": "fil",
+                  "sourceText": "mag-eroplano",
+                  "id": "untuk mengambil pesawat terbang",
+                  "tagalog": "mag-eroplano"
+                },
+                {
+                  "sourceLanguage": "en",
+                  "sourceText": "to take an airplane",
+                  "id": "untuk mengambil pesawat terbang"
+                }
+              ]
+            },
+            {
+              "cells": [
+                {
+                  "sourceLanguage": "fil",
+                  "sourceText": "magkalesa",
+                  "id": "untuk naik di atas kuda-ditarik rig",
+                  "tagalog": "magkalesa"
+                },
+                {
+                  "sourceLanguage": "en",
+                  "sourceText": "to ride on a horse-drawn rig",
+                  "id": "untuk naik di atas kuda-ditarik rig"
+                }
+              ]
+            },
+            {
+              "cells": [
+                {
+                  "sourceLanguage": "fil",
+                  "sourceText": "magkotse",
+                  "id": "untuk mengambil mobil",
+                  "tagalog": "magkotse"
+                },
+                {
+                  "sourceLanguage": "en",
+                  "sourceText": "to take a car",
+                  "id": "untuk mengambil mobil"
+                }
+              ]
+            },
+            {
+              "cells": [
+                {
+                  "sourceLanguage": "fil",
+                  "sourceText": "magmotorsiklo",
+                  "id": "untuk naik sepeda motor",
+                  "tagalog": "magmotorsiklo"
+                },
+                {
+                  "sourceLanguage": "en",
+                  "sourceText": "to ride on a motorcycle",
+                  "id": "untuk naik sepeda motor"
+                }
+              ]
+            },
+            {
+              "cells": [
+                {
+                  "sourceLanguage": "fil",
+                  "sourceText": "magtanong",
+                  "id": "untuk mengajukan pertanyaan",
+                  "tagalog": "magtanong"
+                },
+                {
+                  "sourceLanguage": "en",
+                  "sourceText": "to ask a question",
+                  "id": "untuk mengajukan pertanyaan"
+                }
+              ]
+            },
+            {
+              "cells": [
+                {
+                  "sourceLanguage": "fil",
+                  "sourceText": "magtren",
+                  "id": "untuk naik kereta api",
+                  "tagalog": "magtren"
+                },
+                {
+                  "sourceLanguage": "en",
+                  "sourceText": "to take a train",
+                  "id": "untuk naik kereta api"
+                }
+              ]
+            },
+            {
+              "cells": [
+                {
+                  "sourceLanguage": "fil",
+                  "sourceText": "magtrak",
+                  "id": "naik truk",
+                  "tagalog": "magtrak"
+                },
+                {
+                  "sourceLanguage": "en",
+                  "sourceText": "to ride on a truck",
+                  "id": "naik truk"
+                }
+              ]
+            },
+            {
+              "cells": [
+                {
+                  "sourceLanguage": "mixed",
+                  "sourceText": "Idioms and Expression",
+                  "id": "Idiom dan Ekspresi"
+                }
+              ]
+            },
+            {
+              "cells": [
+                {
+                  "sourceLanguage": "fil",
+                  "sourceText": "Makikita mo ang…",
+                  "id": "Anda akan melihat..",
+                  "tagalog": "Makikita mo ang…"
+                },
+                {
+                  "sourceLanguage": "en",
+                  "sourceText": "You will see the . . .",
+                  "id": "Anda akan melihat.."
+                }
+              ]
+            },
+            {
+              "cells": [
+                {
+                  "sourceLanguage": "fil",
+                  "sourceText": "Sana makarating ka!",
+                  "id": "Semoga kau bisa datang!",
+                  "tagalog": "Sana makarating ka!"
+                },
+                {
+                  "sourceLanguage": "en",
+                  "sourceText": "Hope you can make it!",
+                  "id": "Semoga kau bisa datang!"
+                }
+              ]
+            },
+            {
+              "cells": [
+                {
+                  "sourceLanguage": "fil",
+                  "sourceText": "Mawalang-galang na po.",
+                  "id": "Permisi, permisi, Pak / Bu.",
+                  "tagalog": "Mawalang-galang na po."
+                },
+                {
+                  "sourceLanguage": "mixed",
+                  "sourceText": "Excuse me; pardon me, sir/ma’am.",
+                  "id": "Permisi, permisi, Pak / Bu."
+                }
+              ]
+            },
+            {
+              "cells": [
+                {
+                  "sourceLanguage": "fil",
+                  "sourceText": "Walang anuman.",
+                  "id": "Sama-sama!",
+                  "tagalog": "Walang anuman."
+                },
+                {
+                  "sourceLanguage": "mixed",
+                  "sourceText": "You’re welcome!",
+                  "id": "Sama-sama!"
+                }
+              ]
+            },
+            {
+              "cells": [
+                {
+                  "sourceLanguage": "fil",
+                  "sourceText": "Nawawala po ako.",
+                  "id": "Aku tersesat.",
+                  "tagalog": "Nawawala po ako."
+                },
+                {
+                  "sourceLanguage": "en",
+                  "sourceText": "I am lost.",
+                  "id": "Aku tersesat."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "image",
+          "path": "assets/205.jpg"
+        }
+      ]
+    },
+    {
+      "id": "lesson-12-reading-text-imbitasyon-sa-aking-bahay-an-invitation-to-my-house",
+      "type": "DIALOGUE",
+      "title": {
+        "sourceLanguage": "en",
+        "sourceText": "Reading Text: Imbitasyon sa Aking Bahay An Invitation to My House",
+        "id": "Teks Bacaan: Imbitasyon sa Aking Bahay An Invitation to My House"
+      },
+      "blocks": [
+        {
+          "type": "text",
+          "style": "body",
+          "text": {
+            "sourceLanguage": "en",
+            "sourceText": "Reading Text: Imbitasyon sa Aking Bahay An Invitation to My House",
+            "id": "Teks Bacaan: Imbitasyon sa Aking Bahay An Invitation to My House"
+          }
+        },
+        {
+          "type": "text",
+          "style": "body",
+          "text": {
+            "sourceLanguage": "en",
+            "sourceText": "Read Sandra’s letter to her friend Martha, inviting her to her new apartment and answer the Reading Comprehension questions that follow.",
+            "id": "Baca surat Sandra kepada temannya Martha, mengundang dia ke apartemen barunya dan menjawab pertanyaan Reading Comprehension yang selanjutnya."
+          }
+        },
+        {
+          "type": "text",
+          "style": "body",
+          "text": {
+            "sourceLanguage": "fil",
+            "sourceText": "Mahal Kong Martha,",
+            "id": "Martha tersayang,",
+            "tagalog": "Mahal Kong Martha,"
+          }
+        },
+        {
+          "type": "text",
+          "style": "body",
+          "text": {
+            "sourceLanguage": "fil",
+            "sourceText": "Kumusta ka na, Martha? Lumipat na ako ng bagong apartment dito sa Makati. Pumunta ka naman at pumasyal tayo dito. May maraming sinehan, pamilihan at kainan dito. Kaya kung hindi ka okupado sa susunod na Biyernes, dumalaw ka naman sa akin at manood tayo ng bagong sine at kumain sa isang masarap na restawran dito.",
+            "id": "Sekarang, Martha, aku pindah ke apartemen baru di sini di Mabata, dan kami datang ke sini dan memiliki banyak bioskop, pasar, dan makan malam di sini, jadi jika Anda tidak sibuk Jumat depan, datang dan melihat saya dan melihat film baru dan makan restoran yang bagus di sini.",
+            "tagalog": "Kumusta ka na, Martha? Lumipat na ako ng bagong apartment dito sa Makati. Pumunta ka naman at pumasyal tayo dito. May maraming sinehan, pamilihan at kainan dito. Kaya kung hindi ka okupado sa susunod na Biyernes, dumalaw ka naman sa akin at manood tayo ng bagong sine at kumain sa isang masarap na restawran dito."
+          }
+        },
+        {
+          "type": "text",
+          "style": "body",
+          "text": {
+            "sourceLanguage": "fil",
+            "sourceText": "O heto ang direksiyon papunta sa bahay ko:",
+            "id": "Ini alamat rumahku:",
+            "tagalog": "O heto ang direksiyon papunta sa bahay ko:"
+          }
+        },
+        {
+          "type": "text",
+          "style": "body",
+          "text": {
+            "sourceLanguage": "fil",
+            "sourceText": "Mula sa bahay mo, magbus ka papunta sa Alabang. Pagkatapos, bumaba ka sa Ayala Ave. Pagkatapos, kumaliwa ka sa Rada at kumanan ka sa Legaspi. Dumiretso ka lang dito at makikita mo ang apartment ko sa kaliwa. 543 ang numero ng gusali.",
+            "id": "Kemudian, dari rumah Anda, Anda pergi ke Armaig, dan Anda berjalan ke Ayala Ave, dan Anda berjalan ke Rada dan pergi ke Legaspi, hanya pergi di sini dan melihat apartemen saya di sebelah kiri. 543.",
+            "tagalog": "Mula sa bahay mo, magbus ka papunta sa Alabang. Pagkatapos, bumaba ka sa Ayala Ave. Pagkatapos, kumaliwa ka sa Rada at kumanan ka sa Legaspi. Dumiretso ka lang dito at makikita mo ang apartment ko sa kaliwa. 543 ang numero ng gusali."
+          }
+        },
+        {
+          "type": "text",
+          "style": "body",
+          "text": {
+            "sourceLanguage": "fil",
+            "sourceText": "O sige. Sana makarating ka!",
+            "id": "Oke, tolong ke sana!",
+            "tagalog": "O sige. Sana makarating ka!"
+          }
+        },
+        {
+          "type": "text",
+          "style": "body",
+          "text": {
+            "sourceLanguage": "fil",
+            "sourceText": "Nagmamahal,\n\nSandra",
+            "id": "Mencintai Ones, Sandra",
+            "tagalog": "Nagmamahal,\n\nSandra"
+          }
+        },
+        {
+          "type": "text",
+          "style": "body",
+          "text": {
+            "sourceLanguage": "mixed",
+            "sourceText": "Reading Comprehension",
+            "id": "Pemahaman Bacaan"
+          }
+        },
+        {
+          "type": "table",
+          "rows": [
+            {
+              "cells": [
+                {
+                  "sourceLanguage": "mixed",
+                  "sourceText": "1.",
+                  "id": "1."
+                },
+                {
+                  "sourceLanguage": "fil",
+                  "sourceText": "Saan lumipat si Sandra?",
+                  "id": "Di mana Sandra bergerak?",
+                  "tagalog": "Saan lumipat si Sandra?"
+                }
+              ]
+            },
+            {
+              "cells": [
+                {
+                  "sourceLanguage": "mixed",
+                  "sourceText": "____________________________________________________",
+                  "id": "____________________________________________________"
+                }
+              ]
+            },
+            {
+              "cells": [
+                {
+                  "sourceLanguage": "mixed",
+                  "sourceText": "2.",
+                  "id": "2."
+                },
+                {
+                  "sourceLanguage": "fil",
+                  "sourceText": "Ano ang mga plano ni Sandra?",
+                  "id": "Apa rencana Sandra?",
+                  "tagalog": "Ano ang mga plano ni Sandra?"
+                }
+              ]
+            },
+            {
+              "cells": [
+                {
+                  "sourceLanguage": "mixed",
+                  "sourceText": "____________________________________________________",
+                  "id": "____________________________________________________"
+                }
+              ]
+            },
+            {
+              "cells": [
+                {
+                  "sourceLanguage": "mixed",
+                  "sourceText": "3.",
+                  "id": "3."
+                },
+                {
+                  "sourceLanguage": "fil",
+                  "sourceText": "Para pumunta kay Sandra, kakaliwa ba si Martha sa Rada?",
+                  "id": "Untuk mengunjungi Sandra, apakah Martha pergi ke Rada?",
+                  "tagalog": "Para pumunta kay Sandra, kakaliwa ba si Martha sa Rada?"
+                }
+              ]
+            },
+            {
+              "cells": [
+                {
+                  "sourceLanguage": "mixed",
+                  "sourceText": "____________________________________________________",
+                  "id": "____________________________________________________"
+                }
+              ]
+            },
+            {
+              "cells": [
+                {
+                  "sourceLanguage": "mixed",
+                  "sourceText": "4.",
+                  "id": "4."
+                },
+                {
+                  "sourceLanguage": "fil",
+                  "sourceText": "Para pumunta kay Sandra, sasakay ba si Martha sa dyip?",
+                  "id": "Untuk mengunjungi Sandra, adalah Martha pada dyip itu?",
+                  "tagalog": "Para pumunta kay Sandra, sasakay ba si Martha sa dyip?"
+                }
+              ]
+            },
+            {
+              "cells": [
+                {
+                  "sourceLanguage": "mixed",
+                  "sourceText": "____________________________________________________",
+                  "id": "____________________________________________________"
+                }
+              ]
+            },
+            {
+              "cells": [
+                {
+                  "sourceLanguage": "mixed",
+                  "sourceText": "5.",
+                  "id": "5."
+                },
+                {
+                  "sourceLanguage": "fil",
+                  "sourceText": "Mula sa Legaspi, nasa kanan ba ang apartment ni Sandra?",
+                  "id": "Dari Legaspi, adalah apartemen Sandra di sebelah kanan?",
+                  "tagalog": "Mula sa Legaspi, nasa kanan ba ang apartment ni Sandra?"
+                }
+              ]
+            },
+            {
+              "cells": [
+                {
+                  "sourceLanguage": "mixed",
+                  "sourceText": "____________________________________________________",
+                  "id": "____________________________________________________"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "lesson-12-activities",
+      "type": "ACTIVITY",
+      "title": {
+        "sourceLanguage": "mixed",
+        "sourceText": "Activities",
+        "id": "Aktivitas"
+      },
+      "blocks": [
+        {
+          "type": "text",
+          "style": "body",
+          "text": {
+            "sourceLanguage": "mixed",
+            "sourceText": "Activities",
+            "id": "Aktivitas"
+          }
+        },
+        {
+          "type": "text",
+          "style": "body",
+          "text": {
+            "sourceLanguage": "mixed",
+            "sourceText": "Activity 1",
+            "id": "Aktivitas 1"
+          }
+        },
+        {
+          "type": "text",
+          "style": "body",
+          "text": {
+            "sourceLanguage": "en",
+            "sourceText": "Read the dialogue below and use it as a model to write your own version, changing the location being described. Write a dialogue in each of the boxes below.",
+            "id": "Baca dialog di bawah ini dan gunakan sebagai model untuk menulis versi Anda sendiri, mengubah lokasi yang digambarkan. Tulis dialog di setiap kotak di bawah."
+          }
+        },
+        {
+          "type": "image",
+          "path": "assets/206.jpg"
+        },
+        {
+          "type": "table",
+          "rows": [
+            {
+              "cells": [
+                {
+                  "sourceLanguage": "fil",
+                  "sourceText": "Modelong Dayalogo",
+                  "id": "Model Daylogo",
+                  "tagalog": "Modelong Dayalogo"
+                }
+              ]
+            },
+            {
+              "cells": [
+                {
+                  "sourceLanguage": "mixed",
+                  "sourceText": "Student 1:",
+                  "id": "Siswa 1:"
+                },
+                {
+                  "sourceLanguage": "fil",
+                  "sourceText": "Excuse me ho. Pwede hong magtanong?",
+                  "id": "Permisi ho. / Tolong bertanya?",
+                  "tagalog": "Excuse me ho. Pwede hong magtanong?"
+                }
+              ]
+            },
+            {
+              "cells": [
+                {
+                  "sourceLanguage": "mixed",
+                  "sourceText": "Student 2:",
+                  "id": "Siswa 2:"
+                },
+                {
+                  "sourceLanguage": "fil",
+                  "sourceText": "Oo naman. Ano ba iyon?",
+                  "id": "Ya, apa itu?",
+                  "tagalog": "Oo naman. Ano ba iyon?"
+                }
+              ]
+            },
+            {
+              "cells": [
+                {
+                  "sourceLanguage": "mixed",
+                  "sourceText": "Student 1:",
+                  "id": "Siswa 1:"
+                },
+                {
+                  "sourceLanguage": "fil",
+                  "sourceText": "Alam ho ba ninyo kung paano pumunta sa Mall of Asia?",
+                  "id": "Apakah Anda tahu bagaimana untuk pergi ke Mall of Asia?",
+                  "tagalog": "Alam ho ba ninyo kung paano pumunta sa Mall of Asia?"
+                }
+              ]
+            },
+            {
+              "cells": [
+                {
+                  "sourceLanguage": "mixed",
+                  "sourceText": "Student 2:",
+                  "id": "Siswa 2:"
+                },
+                {
+                  "sourceLanguage": "fil",
+                  "sourceText": "Madali lang iyan, nasa Roxas Boulevard ka ngayon. Kumaliwa ka sa EDSA, tapos kumaliwa ka sa Diokno Boulevard, tapos kumanan ka sa Marina Way. Nasa kanan mo na ang Mall of Asia.",
+                  "id": "Itu mudah, Anda berada di Roxas Boulevard sekarang, dan Anda gila di EDSA, setelah Anda berjalan ke Diokno Boulevard, dan Anda sudah selesai melihat dari Marina Way, Mall Asia kanan.",
+                  "tagalog": "Madali lang iyan, nasa Roxas Boulevard ka ngayon. Kumaliwa ka sa EDSA, tapos kumaliwa ka sa Diokno Boulevard, tapos kumanan ka sa Marina Way. Nasa kanan mo na ang Mall of Asia."
+                }
+              ]
+            },
+            {
+              "cells": [
+                {
+                  "sourceLanguage": "mixed",
+                  "sourceText": "Student 1:",
+                  "id": "Siswa 1:"
+                },
+                {
+                  "sourceLanguage": "fil",
+                  "sourceText": "Salamat po!",
+                  "id": "Terima kasih!",
+                  "tagalog": "Salamat po!"
+                }
+              ]
+            },
+            {
+              "cells": [
+                {
+                  "sourceLanguage": "mixed",
+                  "sourceText": "Student 2:",
+                  "id": "Siswa 2:"
+                },
+                {
+                  "sourceLanguage": "fil",
+                  "sourceText": "Walang anuman.",
+                  "id": "Tidak ada.",
+                  "tagalog": "Walang anuman."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "style": "body",
+          "text": {
+            "sourceLanguage": "fil",
+            "sourceText": "Pagpunta sa pinakamalapit na kainan Going to the nearest restaurant",
+            "id": "Menuju restoran terdekat.",
+            "tagalog": "Pagpunta sa pinakamalapit na kainan Going to the nearest restaurant"
+          }
+        },
+        {
+          "type": "table",
+          "rows": [
+            {
+              "cells": [
+                {
+                  "sourceLanguage": "mixed",
+                  "sourceText": "Student 1",
+                  "id": "Siswa 1"
+                },
+                {
+                  "sourceLanguage": "fil",
+                  "sourceText": "Excuse me ho. Pwede hong magtanong?",
+                  "id": "Permisi ho. / Tolong bertanya?",
+                  "tagalog": "Excuse me ho. Pwede hong magtanong?"
+                }
+              ]
+            },
+            {
+              "cells": [
+                {
+                  "sourceLanguage": "mixed",
+                  "sourceText": "Student 2",
+                  "id": "Siswa 2"
+                },
+                {
+                  "sourceLanguage": "fil",
+                  "sourceText": "Oo naman. Ano ba iyon?",
+                  "id": "Ya, apa itu?",
+                  "tagalog": "Oo naman. Ano ba iyon?"
+                }
+              ]
+            },
+            {
+              "cells": [
+                {
+                  "sourceLanguage": "mixed",
+                  "sourceText": "Student 1",
+                  "id": "Siswa 1"
+                },
+                {
+                  "sourceLanguage": "fil",
+                  "sourceText": "Alam ho ba ninyo kung paano pumunta sa…",
+                  "id": "Apakah Anda tahu bagaimana untuk pergi...",
+                  "tagalog": "Alam ho ba ninyo kung paano pumunta sa…"
+                }
+              ]
+            },
+            {
+              "cells": [
+                {
+                  "sourceLanguage": "mixed",
+                  "sourceText": "Student 2",
+                  "id": "Siswa 2"
+                }
+              ]
+            },
+            {
+              "cells": [
+                {
+                  "sourceLanguage": "mixed",
+                  "sourceText": "Student 1",
+                  "id": "Siswa 1"
+                },
+                {
+                  "sourceLanguage": "fil",
+                  "sourceText": "Salamat po!",
+                  "id": "Terima kasih!",
+                  "tagalog": "Salamat po!"
+                }
+              ]
+            },
+            {
+              "cells": [
+                {
+                  "sourceLanguage": "mixed",
+                  "sourceText": "Student 2",
+                  "id": "Siswa 2"
+                },
+                {
+                  "sourceLanguage": "fil",
+                  "sourceText": "Walang anuman.",
+                  "id": "Tidak ada.",
+                  "tagalog": "Walang anuman."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "style": "body",
+          "text": {
+            "sourceLanguage": "en",
+            "sourceText": "Pagpunta sa bus stop Going to the bus stop",
+            "id": "Pagpunta sa bus berhenti Pergi ke halte bus"
+          }
+        },
+        {
+          "type": "table",
+          "rows": [
+            {
+              "cells": [
+                {
+                  "sourceLanguage": "mixed",
+                  "sourceText": "Student 1:",
+                  "id": "Siswa 1:"
+                },
+                {
+                  "sourceLanguage": "fil",
+                  "sourceText": "Mawalang galang na ho. Alam ho ba ninyo kung nasaan ang bus stop?",
+                  "id": "Apakah Anda tahu di mana halte bus?",
+                  "tagalog": "Mawalang galang na ho. Alam ho ba ninyo kung nasaan ang bus stop?"
+                }
+              ]
+            },
+            {
+              "cells": [
+                {
+                  "sourceLanguage": "mixed",
+                  "sourceText": "Student 2:",
+                  "id": "Siswa 2:"
+                }
+              ]
+            },
+            {
+              "cells": [
+                {
+                  "sourceLanguage": "mixed",
+                  "sourceText": "Student 1:",
+                  "id": "Siswa 1:"
+                }
+              ]
+            },
+            {
+              "cells": [
+                {
+                  "sourceLanguage": "mixed",
+                  "sourceText": "Student 2:",
+                  "id": "Siswa 2:"
+                },
+                {
+                  "sourceLanguage": "fil",
+                  "sourceText": "Oo, tama! Mag-ingat ka!",
+                  "id": "Ya, benar!",
+                  "tagalog": "Oo, tama! Mag-ingat ka!"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "style": "body",
+          "text": {
+            "sourceLanguage": "mixed",
+            "sourceText": "Activity 2",
+            "id": "Aktivitas 2"
+          }
+        },
+        {
+          "type": "text",
+          "style": "body",
+          "text": {
+            "sourceLanguage": "en",
+            "sourceText": "Angelo is from the Philippines but is new to Manila. Since he does not know his way around, help him by responding to each of his inquiries regarding the whereabouts of the given location using the map.",
+            "id": "Angelo adalah dari Filipina tetapi baru untuk Manila. Karena ia tidak tahu jalan di sekitar, membantunya dengan menanggapi setiap nya pertanyaan mengenai keberadaan lokasi yang diberikan menggunakan peta."
+          }
+        },
+        {
+          "type": "text",
+          "style": "body",
+          "text": {
+            "sourceLanguage": "fil",
+            "sourceText": "“Nawawala ako! Heto ang mapa ko!”",
+            "id": "Ini petaku!",
+            "tagalog": "“Nawawala ako! Heto ang mapa ko!”"
+          }
+        },
+        {
+          "type": "image",
+          "path": "assets/207.jpg"
+        },
+        {
+          "type": "table",
+          "rows": [
+            {
+              "cells": [
+                {
+                  "sourceLanguage": "mixed",
+                  "sourceText": "1.",
+                  "id": "1."
+                },
+                {
+                  "sourceLanguage": "fil",
+                  "sourceText": "“Nasa Mall of Asia ako. Kailangan kong magpunta sa Ninoy Aquino International Airport.”",
+                  "id": "Saya berada di Mall of Asia, dan saya harus pergi ke Bandara Internasional Ninoy Aquino.",
+                  "tagalog": "“Nasa Mall of Asia ako. Kailangan kong magpunta sa Ninoy Aquino International Airport.”"
+                }
+              ]
+            },
+            {
+              "cells": [
+                {
+                  "sourceLanguage": "mixed",
+                  "sourceText": "____________________________________________________",
+                  "id": "____________________________________________________"
+                }
+              ]
+            },
+            {
+              "cells": [
+                {
+                  "sourceLanguage": "mixed",
+                  "sourceText": "2.",
+                  "id": "2."
+                },
+                {
+                  "sourceLanguage": "fil",
+                  "sourceText": "“Nasa Soriano at Bocobo ako. Kailangan kong bumili ng mga puting damit para pambahay. Paano ako pupunta sa pamilihan?”",
+                  "id": "Aku berada di Soriano dan Bocobo, dan aku harus membeli pakaian putih untuk rumah, dan bagaimana aku akan pergi ke pasar?",
+                  "tagalog": "“Nasa Soriano at Bocobo ako. Kailangan kong bumili ng mga puting damit para pambahay. Paano ako pupunta sa pamilihan?”"
+                }
+              ]
+            },
+            {
+              "cells": [
+                {
+                  "sourceLanguage": "mixed",
+                  "sourceText": "____________________________________________________",
+                  "id": "____________________________________________________"
+                }
+              ]
+            },
+            {
+              "cells": [
+                {
+                  "sourceLanguage": "mixed",
+                  "sourceText": "3.",
+                  "id": "3."
+                },
+                {
+                  "sourceLanguage": "fil",
+                  "sourceText": "“May malaki akong problema, kailangan kong pumunta sa ospital mula sa Rizal Park. Paano ako pupunta doon?”",
+                  "id": "Aku punya masalah serius, aku harus pergi ke rumah sakit dari Rizal Park, dan bagaimana aku bisa pergi ke sana?",
+                  "tagalog": "“May malaki akong problema, kailangan kong pumunta sa ospital mula sa Rizal Park. Paano ako pupunta doon?”"
+                }
+              ]
+            },
+            {
+              "cells": [
+                {
+                  "sourceLanguage": "mixed",
+                  "sourceText": "____________________________________________________",
+                  "id": "____________________________________________________"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "style": "body",
+          "text": {
+            "sourceLanguage": "mixed",
+            "sourceText": "Activity 3",
+            "id": "Aktivitas 3"
+          }
+        },
+        {
+          "type": "text",
+          "style": "body",
+          "text": {
+            "sourceLanguage": "en",
+            "sourceText": "Work with a partner and practice giving directions. Use the example below as a model for your directions.",
+            "id": "Bekerja dengan pasangan dan berlatih memberikan arah. Gunakan contoh di bawah sebagai model untuk arah Anda."
+          }
+        },
+        {
+          "type": "text",
+          "style": "body",
+          "text": {
+            "sourceLanguage": "mixed",
+            "sourceText": "EXAMPLE:",
+            "id": "EXAMPLE:"
+          }
+        },
+        {
+          "type": "text",
+          "style": "body",
+          "text": {
+            "sourceLanguage": "en",
+            "sourceText": "Going to the movie theater",
+            "id": "Pergi ke bioskop"
+          }
+        },
+        {
+          "type": "text",
+          "style": "body",
+          "text": {
+            "sourceLanguage": "fil",
+            "sourceText": "• Kumaliwa ka sa Quezon Ave.",
+            "id": "Berikan jalan ke Quezon Ave.",
+            "tagalog": "• Kumaliwa ka sa Quezon Ave."
+          }
+        },
+        {
+          "type": "text",
+          "style": "body",
+          "text": {
+            "sourceLanguage": "fil",
+            "sourceText": "• Kumanan ka sa Carlos St.",
+            "id": "Kau mengunjungi Carlos St.",
+            "tagalog": "• Kumanan ka sa Carlos St."
+          }
+        },
+        {
+          "type": "text",
+          "style": "body",
+          "text": {
+            "sourceLanguage": "fil",
+            "sourceText": "• Dumiretso ka lang hanggang sa Rizal St.",
+            "id": "Tetap lurus sampai Rizal St",
+            "tagalog": "• Dumiretso ka lang hanggang sa Rizal St."
+          }
+        },
+        {
+          "type": "text",
+          "style": "body",
+          "text": {
+            "sourceLanguage": "fil",
+            "sourceText": "• Kumanan ka sa Rizal St.",
+            "id": "Datanglah ke Rizal St.",
+            "tagalog": "• Kumanan ka sa Rizal St."
+          }
+        },
+        {
+          "type": "text",
+          "style": "body",
+          "text": {
+            "sourceLanguage": "fil",
+            "sourceText": "• Nasa kanan mo ang sinehan.",
+            "id": "Teater film di sebelah kanan Anda.",
+            "tagalog": "• Nasa kanan mo ang sinehan."
+          }
+        },
+        {
+          "type": "text",
+          "style": "body",
+          "text": {
+            "sourceLanguage": "en",
+            "sourceText": "From your current location, give directions to the closest pharmacy.",
+            "id": "Dari lokasimu saat ini, berikan arah ke apotek terdekat."
+          }
+        },
+        {
+          "type": "text",
+          "style": "body",
+          "text": {
+            "sourceLanguage": "mixed",
+            "sourceText": "____________________________________________________",
+            "id": "____________________________________________________"
+          }
+        },
+        {
+          "type": "text",
+          "style": "body",
+          "text": {
+            "sourceLanguage": "mixed",
+            "sourceText": "____________________________________________________",
+            "id": "____________________________________________________"
+          }
+        },
+        {
+          "type": "text",
+          "style": "body",
+          "text": {
+            "sourceLanguage": "en",
+            "sourceText": "From your current location, give directions to the closest church or place of worship.",
+            "id": "Dari lokasimu saat ini, berikan arah ke gereja terdekat atau tempat ibadah."
+          }
+        },
+        {
+          "type": "text",
+          "style": "body",
+          "text": {
+            "sourceLanguage": "mixed",
+            "sourceText": "____________________________________________________",
+            "id": "____________________________________________________"
+          }
+        },
+        {
+          "type": "text",
+          "style": "body",
+          "text": {
+            "sourceLanguage": "mixed",
+            "sourceText": "____________________________________________________",
+            "id": "____________________________________________________"
+          }
+        }
+      ]
+    },
+    {
+      "id": "lesson-12-grammar",
+      "type": "GRAMMAR",
+      "title": {
+        "sourceLanguage": "mixed",
+        "sourceText": "Grammar",
+        "id": "Tata Bahasa"
+      },
+      "blocks": [
+        {
+          "type": "text",
+          "style": "body",
+          "text": {
+            "sourceLanguage": "mixed",
+            "sourceText": "Grammar",
+            "id": "Tata Bahasa"
+          }
+        },
+        {
+          "type": "text",
+          "style": "body",
+          "text": {
+            "sourceLanguage": "mixed",
+            "sourceText": "Examining Form",
+            "id": "Mengkaji Bentuk"
+          }
+        },
+        {
+          "type": "text",
+          "style": "body",
+          "text": {
+            "sourceLanguage": "en",
+            "sourceText": "Review the sentences below and complete the tasks that follow. Discuss your answers with a partner. Consult the following section to check your answers.",
+            "id": "Tinjau kalimat di bawah ini dan selesaikan tugas-tugas yang diikuti. & lt; / font & gt; & lt; font color = \"# ffff00\" & gt; Diskusikan jawaban Anda dengan partner. Konsultasikan bagian berikut untuk memeriksa jawaban Anda."
+          }
+        },
+        {
+          "type": "text",
+          "style": "body",
+          "text": {
+            "sourceLanguage": "fil",
+            "sourceText": "1. Pumunta ka naman at pumasyal tayo dito.",
+            "id": "Kau pergi, kemari, dan kemari.",
+            "tagalog": "1. Pumunta ka naman at pumasyal tayo dito."
+          }
+        },
+        {
+          "type": "text",
+          "style": "body",
+          "text": {
+            "sourceLanguage": "fil",
+            "sourceText": "2. Dumalaw ka naman sa akin.",
+            "id": "Kunjungi aku.",
+            "tagalog": "2. Dumalaw ka naman sa akin."
+          }
+        },
+        {
+          "type": "text",
+          "style": "body",
+          "text": {
+            "sourceLanguage": "fil",
+            "sourceText": "3. Mula sa bahay mo, magbus ka papunta sa Alabang.",
+            "id": "Dari rumahmu, kau akan pergi ke Hubug.",
+            "tagalog": "3. Mula sa bahay mo, magbus ka papunta sa Alabang."
+          }
+        },
+        {
+          "type": "text",
+          "style": "body",
+          "text": {
+            "sourceLanguage": "fil",
+            "sourceText": "4. Manood tayo ng bagong sine at kumain tayo sa isang masarap na restawran.",
+            "id": "Mari kita pergi ke film baru dan makan di restoran yang bagus.",
+            "tagalog": "4. Manood tayo ng bagong sine at kumain tayo sa isang masarap na restawran."
+          }
+        },
+        {
+          "type": "text",
+          "style": "body",
+          "text": {
+            "sourceLanguage": "en",
+            "sourceText": "a. Circle the actors and and underline the verbs.",
+            "id": "lingkaran aktor dan dan garis bawahi kata kerja."
+          }
+        },
+        {
+          "type": "text",
+          "style": "body",
+          "text": {
+            "sourceLanguage": "en",
+            "sourceText": "b. What are the different verb forms? What kinds of conjugations are used for each verb?",
+            "id": "b. Apa bentuk kata kerja yang berbeda? konjugasi apa yang digunakan untuk setiap kata kerja?"
+          }
+        },
+        {
+          "type": "text",
+          "style": "body",
+          "text": {
+            "sourceLanguage": "en",
+            "sourceText": "c. How do we form imperatives?",
+            "id": "Bagaimana kita membentuk imperatif?"
+          }
+        },
+        {
+          "type": "text",
+          "style": "body",
+          "text": {
+            "sourceLanguage": "mixed",
+            "sourceText": "I. Imperatives",
+            "id": "I. Imperatives"
+          }
+        },
+        {
+          "type": "text",
+          "style": "body",
+          "text": {
+            "sourceLanguage": "en",
+            "sourceText": "In Lessons 7 and 8 we studied the conjugation and use of mag- verbs, and here we will build on what you already know about them and about Tagalog verbs in general.",
+            "id": "Di Lessons 7 dan 8 kami mempelajari konjugasi dan penggunaan kata kerja mag-, dan di sini kami akan membangun pada apa yang Anda sudah tahu tentang mereka dan tentang kata kerja Tagalog pada umumnya."
+          }
+        },
+        {
+          "type": "text",
+          "style": "body",
+          "text": {
+            "sourceLanguage": "en",
+            "sourceText": "In Tagalog, the infinitive form of the verb is used to form the imperative, which is used to express a command, a request, or an exhortation. In English, the infinitive form of the verb, for example to do, is made up of to + the unaffixed present tense of the verb. The infinitive in English has no tense and does not reflect person or number. In Tagalog, the infinitive is a root word with the attachment of a verbal affix. It has no aspect, and the action it expresses has not happened yet but has a possibility of happening. There are several major verbal affixes, among them mag-, ma-, -um-, i-, and -in-, and the following examples show infinitives formed with two of them.",
+            "id": "Dalam Tagalog, bentuk tak terhingga dari kata kerja digunakan untuk membentuk kata kerja yang penting, yang digunakan untuk mengekspresikan sebuah perintah, permintaan, atau sebuah nasehat. dalam bahasa Inggris, bentuk tak terhingga dari kata kerja, sebagai contoh untuk dilakukan, terdiri dari + unaffixed present tense dari kata kerja. Dalam Tagalog, yang infinitive adalah kata akar dengan lampiran dari affix verbal. Ini tidak memiliki aspek, dan tindakan itu menyatakan belum terjadi tetapi memiliki kemungkinan terjadi. Ada beberapa besar aflasi verbal, di antara mereka, mag-, -um -, i-, dan -in-, dan berikut menunjukkan tak terhingga terbentuk dengan dua dari mereka."
+          }
+        },
+        {
+          "type": "table",
+          "rows": [
+            {
+              "cells": [
+                {
+                  "sourceLanguage": "mixed",
+                  "sourceText": "EXAMPLES:",
+                  "id": "EXAMPLES:"
+                }
+              ]
+            },
+            {
+              "cells": [
+                {
+                  "sourceLanguage": "mixed",
+                  "sourceText": "mag- (verbal prefix) + root word",
+                  "id": "mag- (verbal prefix) + root word",
+                  "tagalog": "mag-"
+                },
+                {
+                  "sourceLanguage": "mixed",
+                  "sourceText": "→",
+                  "id": "→"
+                },
+                {
+                  "sourceLanguage": "fil",
+                  "sourceText": "magbus (infinitive)",
+                  "id": "bus (tak terhingga)",
+                  "tagalog": "magbus (infinitive)"
+                }
+              ]
+            },
+            {
+              "cells": [
+                {
+                  "sourceLanguage": "mixed",
+                  "sourceText": "ma- (verbal prefix) + root word",
+                  "id": "ma- (verbal prefix) + root word",
+                  "tagalog": "ma-"
+                },
+                {
+                  "sourceLanguage": "mixed",
+                  "sourceText": "→",
+                  "id": "→"
+                },
+                {
+                  "sourceLanguage": "fil",
+                  "sourceText": "manood (infinitive)",
+                  "id": "Menonton (infinitive)",
+                  "tagalog": "manood (infinitive)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "style": "body",
+          "text": {
+            "sourceLanguage": "en",
+            "sourceText": "The meaning of the infinitive is determined by the root word. A root word is a unit of language that communicates meaning. Tagalog words can be divided into content words (noun, pronoun, verb, adjective, and adverb) and function words that connect words in a sentence to help create meaning (preposition, marker, conjunction, and linker). Words that inflect or change forms in Tagalog are the content words—namely nouns, verbs, and adjectives—except for pronouns. Pronouns do not inflect. There are distinct and specific affixes for each of the content words. In cases where an affix is used for both verbs and adjectives, for example the prefix ma- that is used in both maganda (beautiful) and maligo (to take a bath), what determines whether the word formed is an adjective or a verb is the meaning of the root word and common usage. In the case of maganda, the root word ganda is a descriptive word, and that results in an adjective. With ma- + ligo (bath), the result is a verb. The verbal prefix ma- can be a bit tricky in this respect.",
+            "id": "Arti dari infinitive ditentukan oleh kata akar. Sebuah kata akar adalah satuan bahasa yang mengkomunikasikan makna. Kata-kata Tagalog dapat dibagi menjadi kata-kata isi (noun, kata ganti, kata sifat, dan kata-kata kata kata kata-kata fungsi yang menghubungkan kata-kata dalam sebuah kalimat untuk membantu membuat makna (preposition, mark, and linker). Kata-kata yang menggembungkan atau mengubah bentuk dalam Tagalog adalah kata isi - yaitu kata benda, kata kerja, dan kata sifat - kecuali untuk kata ganti. Pronoun tidak mengembang. Ada pernyataan yang berbeda dan spesifik untuk setiap kata isi. Dalam kasus di mana suatu affix digunakan untuk kata kerja dan kata sifat, sebagai contoh awalan yang digunakan pada maganda (indah) dan maligo (untuk mandi), apa yang menentukan apakah kata tersebut merupakan kata sifat atau kata kerja adalah makna dari kata akar dan penggunaan umum. Dalam kasus maganda, akar kata ganda adalah kata deskriptif, dan itu menghasilkan kata sifat. Dengan a-a + ligo (mandi), hasilnya adalah kata kerja. awalan verbal dapat menjadi sedikit rumit dalam hal ini."
+          }
+        },
+        {
+          "type": "text",
+          "style": "body",
+          "text": {
+            "sourceLanguage": "en",
+            "sourceText": "In Tagalog, any content word can be changed into a noun, verb, or adjective through the use of affixes. For instance, the negative marker hindi and the afffirmative answer oo can both be changed into a verb by using the affix -um-. You will learn how to conjugate the -um- verb in the next section.",
+            "id": "Dalam Tagalog, kata isi apapun dapat diubah menjadi kata benda, kata benda, atau kata sifat melalui penggunaan affix. Misalnya, penanda negatif huni dan jawaban afafirmatif oo dapat diubah menjadi sebuah kata kerja dengan menggunakan affix -um-. Anda akan belajar bagaimana bagaimana mensubjugasi -um-verb pada bagian berikutnya."
+          }
+        },
+        {
+          "type": "table",
+          "rows": [
+            {
+              "cells": [
+                {
+                  "sourceLanguage": "mixed",
+                  "sourceText": "EXAMPLES:",
+                  "id": "EXAMPLES:"
+                }
+              ]
+            },
+            {
+              "cells": [
+                {
+                  "sourceLanguage": "fil",
+                  "sourceText": "hindi (negative marker) + -um- (affix)",
+                  "id": "bukan (penanda nigatif) + --um- (affix)",
+                  "tagalog": "hindi (negative marker) + -um- (affix)"
+                },
+                {
+                  "sourceLanguage": "mixed",
+                  "sourceText": "→",
+                  "id": "→"
+                },
+                {
+                  "sourceLanguage": "en",
+                  "sourceText": "humindi (to say no)",
+                  "id": "humindi (untuk mengatakan tidak)"
+                }
+              ]
+            },
+            {
+              "cells": [
+                {
+                  "sourceLanguage": "fil",
+                  "sourceText": "oo (affirmative response) + um- (affix)",
+                  "id": "yes (affimatic reponse) + uum - (affix)",
+                  "tagalog": "oo (affirmative response) + um- (affix)"
+                },
+                {
+                  "sourceLanguage": "mixed",
+                  "sourceText": "→",
+                  "id": "→"
+                },
+                {
+                  "sourceLanguage": "mixed",
+                  "sourceText": "umoo (to say yes)",
+                  "id": "umoo (untuk mengatakan ya)",
+                  "tagalog": "umoo"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "style": "body",
+          "text": {
+            "sourceLanguage": "en",
+            "sourceText": "In previous lessons, you have used the words manood (to watch, as in a show, movie, television, stage play), makinig (to listen), and maligo (to take a bath). You may wonder how you would know whether the root word is a descriptive word or whether it can signify action. Or a more basic question is: “How do I know whether to use an -um- verb, a mag- verb, or a ma- verb? To learners new to the language, the best way is to use the dictionary and immerse yourself in the language and culture through reading, watching movies, listening to songs and actually singing Tagalog songs, and, most importantly, being around native speakers and using the language with them in conversation.",
+            "id": "Dalam pelajaran sebelumnya, Anda telah menggunakan kata manood (untuk menonton, seperti dalam sebuah acara, film, televisi, panggung bermain), makinig (untuk mendengarkan). Anda mungkin bertanya-tanya bagaimana Anda akan tahu apakah kata akar adalah kata deskriptif atau apakah dapat menandakan tindakan. Atau pertanyaan yang lebih dasar adalah: \"Bagaimana saya tahu apakah akan menggunakan sebuah kata kerja -um-verb, sebuah mag- verb, atau kata kerja ma-? Untuk mempelajari bahasa baru, cara terbaik adalah dengan menggunakan kamus dan membenamkan diri dalam bahasa dan budaya melalui membaca, menonton film, mendengarkan lagu dan benar-benar menyanyikan lagu Tagalog, dan, yang paling penting, berada di sekitar pembicara asli dan menggunakan bahasa dengan mereka dalam percakapan."
+          }
+        },
+        {
+          "type": "text",
+          "style": "body",
+          "text": {
+            "sourceLanguage": "en",
+            "sourceText": "For -um- verbs, the thing to remember is this: the affix -um- is placed before the first vowel of the root word. The examples below show how to form the infinitive/imperative with -um-. In the first example, the root word or base word is sakay (passenger, load). The first vowel in sakay is a. Since there is a consonant before the vowel, -um- acts as an infix and is affixed inside the word, between the initial consonant and the a. For words beginning with a vowel, -um- is a prefix. We will discuss this more in later sections.",
+            "id": "Untuk -um- verbs, hal yang perlu diingat adalah ini: affix -um- ditempatkan sebelum vokal pertama dari kata akar. Contoh di bawah menunjukkan bagaimana membentuk infinitive / complicate dengan -um-. Pada contoh pertama, kata akar atau kata dasar adalah sakay (penumpang, beban). Pesan pertama dalam saoka- adalah sebuah. Karena ada consonant sebelum vokal, -um-bertindak sebagai infix dan menegaskan di dalam kata, antara konsonan awal dan a. Untuk kata-kata yang dimulai dengan vokal, -um- adalah awalan."
+          }
+        },
+        {
+          "type": "table",
+          "rows": [
+            {
+              "cells": [
+                {
+                  "sourceLanguage": "mixed",
+                  "sourceText": "EXAMPLES:",
+                  "id": "EXAMPLES:"
+                }
+              ]
+            },
+            {
+              "cells": [
+                {
+                  "sourceLanguage": "fil",
+                  "sourceText": "sakay (passenger, load) + -um-",
+                  "id": "(passinger, download) + -um--",
+                  "tagalog": "sakay (passenger, load) + -um-"
+                },
+                {
+                  "sourceLanguage": "mixed",
+                  "sourceText": "→",
+                  "id": "→"
+                },
+                {
+                  "sourceLanguage": "fil",
+                  "sourceText": "sumakay (to ride)",
+                  "id": "Dapatkan di (ke buritan)",
+                  "tagalog": "sumakay (to ride)"
+                }
+              ]
+            },
+            {
+              "cells": [
+                {
+                  "sourceLanguage": "fil",
+                  "sourceText": "lakad (walk) + -um-",
+                  "id": "pergi (alk) + --um-",
+                  "tagalog": "lakad (walk) + -um-"
+                },
+                {
+                  "sourceLanguage": "mixed",
+                  "sourceText": "→",
+                  "id": "→"
+                },
+                {
+                  "sourceLanguage": "fil",
+                  "sourceText": "lumakad (to walk)",
+                  "id": "Berjalan (berjalan)",
+                  "tagalog": "lumakad (to walk)"
+                }
+              ]
+            },
+            {
+              "cells": [
+                {
+                  "sourceLanguage": "fil",
+                  "sourceText": "iyak (cry) + -um-",
+                  "id": "menangis (menangis) + --um-",
+                  "tagalog": "iyak (cry) + -um-"
+                },
+                {
+                  "sourceLanguage": "mixed",
+                  "sourceText": "→",
+                  "id": "→"
+                },
+                {
+                  "sourceLanguage": "fil",
+                  "sourceText": "umiyak (to cry)",
+                  "id": "teriakan (untuk menangis)",
+                  "tagalog": "umiyak (to cry)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "style": "body",
+          "text": {
+            "sourceLanguage": "mixed",
+            "sourceText": "Grammar Presentation",
+            "id": "Penyajian Tata Bahasa"
+          }
+        },
+        {
+          "type": "text",
+          "style": "body",
+          "text": {
+            "sourceLanguage": "en",
+            "sourceText": "The chart below illustrates the use of mag- and ma- imperative forms in giving directions using predicational sentences. It is obligatory in Tagalog to indicate whether the actor (subject) is singular or plural. This has nothing to do with agreement in number and person between the verb and the actor. It is just a matter of making clear what person is to execute the action, whether a singular or plural “you.” In English, “you” is not stated, and both the singular and plural forms of the second-person personal pronoun are you, so no distinction has to be made.",
+            "id": "Grafik di bawah ini menggambarkan penggunaan mag- dan mas- bentuk penting dalam memberikan arah menggunakan kalimat presesiari. Adalah wajib dalam Tagalog untuk menunjukkan apakah aktor (subjek) adalah tunggal atau jamak. Ini tidak ada hubungannya dengan persetujuan dalam jumlah dan orang antara kata kerja dan aktor. Ini hanya soal membuat jelas apa orang adalah untuk melaksanakan tindakan, apakah tunggal atau jamak \"Anda\". Dalam bahasa Inggris, \"Anda\" tidak dinyatakan, dan bentuk tunggal dan jamak dari orang kedua kalimat pribadi Anda, sehingga tidak ada perbedaan yang harus dibuat."
+          }
+        },
+        {
+          "type": "text",
+          "style": "body",
+          "text": {
+            "sourceLanguage": "en",
+            "sourceText": "Note also that the first infinitive is made from the root word bus, a term borrowed from English. Borrowed words in Tagalog have been incorporated in the language to signify things or events that did not exist in the culture like kompyuter (computer); elektrisidad and oras from Spanish (electricidad = electricity; hora = hour); siomai from Chinese (a kind of dumpling); and karaoke from Japanese. Filipinos have acquired such words through encounters with foreign cultures in trade and commerce and past colonization; from living and working abroad; through the media and the Internet; and from the effects of globalization in today’s world.",
+            "id": "Perhatikan juga bahwa infinitive pertama dibuat dari bus kata akar, istilah yang dipinjam dari Inggris. Kata-kata yang dipinjam dalam bahasa Tagalog telah dimasukkan dalam bahasa untuk menandakan hal-hal atau peristiwa yang tidak ada dalam budaya seperti kompyuter (komputer); elektrisidad dan oras dari Spanyol (electricidad = listrik; hora = jam); siomai dari Cina (sejenis pangsit), dan karaoke dari Jepang. Filipina telah memperoleh kata-kata seperti itu melalui pertemuan dengan budaya asing dalam perdagangan, perdagangan, dan kolonisasi masa lalu; dari hidup dan bekerja di luar negeri; melalui media dan Internet, dan dari efek globalisasi di dunia saat ini."
+          }
+        },
+        {
+          "type": "table",
+          "rows": [
+            {
+              "cells": [
+                {
+                  "sourceLanguage": "mixed",
+                  "sourceText": "Imperatives",
+                  "id": "Imperasi"
+                }
+              ]
+            },
+            {
+              "cells": [
+                {
+                  "sourceLanguage": "mixed",
+                  "sourceText": "Verb",
+                  "id": "Kata kerja"
+                },
+                {
+                  "sourceLanguage": "mixed",
+                  "sourceText": "Actor",
+                  "id": "Aktor"
+                },
+                {
+                  "sourceLanguage": "mixed",
+                  "sourceText": "Object",
+                  "id": "Objek"
+                },
+                {
+                  "sourceLanguage": "mixed",
+                  "sourceText": "Location",
+                  "id": "Lokasi"
+                }
+              ]
+            },
+            {
+              "cells": [
+                {
+                  "sourceLanguage": "mixed",
+                  "sourceText": "Marker",
+                  "id": "Penanda"
+                },
+                {
+                  "sourceLanguage": "mixed",
+                  "sourceText": "Noun",
+                  "id": "Kata benda"
+                },
+                {
+                  "sourceLanguage": "mixed",
+                  "sourceText": "Marker",
+                  "id": "Penanda"
+                },
+                {
+                  "sourceLanguage": "mixed",
+                  "sourceText": "Noun",
+                  "id": "Kata benda"
+                },
+                {
+                  "sourceLanguage": "mixed",
+                  "sourceText": "Marker",
+                  "id": "Penanda"
+                },
+                {
+                  "sourceLanguage": "mixed",
+                  "sourceText": "Noun",
+                  "id": "Kata benda"
+                }
+              ]
+            },
+            {
+              "cells": [
+                {
+                  "sourceLanguage": "fil",
+                  "sourceText": "Magbus",
+                  "id": "Larangan",
+                  "tagalog": "Magbus"
+                },
+                {
+                  "sourceLanguage": "fil",
+                  "sourceText": "ka",
+                  "id": "Anda",
+                  "tagalog": "ka"
+                },
+                {
+                  "sourceLanguage": "fil",
+                  "sourceText": "sa",
+                  "id": "di",
+                  "tagalog": "sa"
+                },
+                {
+                  "sourceLanguage": "fil",
+                  "sourceText": "Quirino.",
+                  "id": "Quirinius.",
+                  "tagalog": "Quirino."
+                }
+              ]
+            },
+            {
+              "cells": [
+                {
+                  "sourceLanguage": "fil",
+                  "sourceText": "Dumiretso",
+                  "id": "Lurus",
+                  "tagalog": "Dumiretso"
+                },
+                {
+                  "sourceLanguage": "fil",
+                  "sourceText": "kayo",
+                  "id": "Kau.",
+                  "tagalog": "kayo"
+                },
+                {
+                  "sourceLanguage": "fil",
+                  "sourceText": "sa",
+                  "id": "di",
+                  "tagalog": "sa"
+                },
+                {
+                  "sourceLanguage": "fil",
+                  "sourceText": "Rizal St.",
+                  "id": "Rizal St",
+                  "tagalog": "Rizal St."
+                }
+              ]
+            },
+            {
+              "cells": [
+                {
+                  "sourceLanguage": "fil",
+                  "sourceText": "Manood",
+                  "id": "Watch",
+                  "tagalog": "Manood"
+                },
+                {
+                  "sourceLanguage": "fil",
+                  "sourceText": "tayo",
+                  "id": "kita",
+                  "tagalog": "tayo"
+                },
+                {
+                  "sourceLanguage": "fil",
+                  "sourceText": "ng\n\nng mga",
+                  "id": "dari Ofs",
+                  "tagalog": "ng\n\nng mga"
+                },
+                {
+                  "sourceLanguage": "fil",
+                  "sourceText": "sine",
+                  "id": "film",
+                  "tagalog": "sine"
+                },
+                {
+                  "sourceLanguage": "fil",
+                  "sourceText": "sa",
+                  "id": "di",
+                  "tagalog": "sa"
+                },
+                {
+                  "sourceLanguage": "fil",
+                  "sourceText": "SM.",
+                  "id": "SM.",
+                  "tagalog": "SM."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "style": "body",
+          "text": {
+            "sourceLanguage": "mixed",
+            "sourceText": "EXAMPLES:",
+            "id": "EXAMPLES:"
+          }
+        },
+        {
+          "type": "text",
+          "style": "body",
+          "text": {
+            "sourceLanguage": "mixed",
+            "sourceText": "Magtaksi ka papunta sa eskwelahan. (You, singular) Take the cab to school.",
+            "id": "Magtaksi ka papunta sa eskwelahan. (Kau, tunggal) Ambil taksi ke sekolah.",
+            "tagalog": "Magtaksi ka papunta sa eskwelahan."
+          }
+        },
+        {
+          "type": "text",
+          "style": "body",
+          "text": {
+            "sourceLanguage": "fil",
+            "sourceText": "Dumalaw kayo sa akin. (You, plural) Visit me.",
+            "id": "Kunjungi aku. (You, plural) Kunjungi aku.",
+            "tagalog": "Dumalaw kayo sa akin. (You, plural) Visit me."
+          }
+        },
+        {
+          "type": "text",
+          "style": "body",
+          "text": {
+            "sourceLanguage": "fil",
+            "sourceText": "Gumawa ka ng imbitasyon. (You, singular) Make an invitation.",
+            "id": "Buatlah undangan. (Kau, ular) Buatlah undangan.",
+            "tagalog": "Gumawa ka ng imbitasyon. (You, singular) Make an invitation."
+          }
+        },
+        {
+          "type": "text",
+          "style": "body",
+          "text": {
+            "sourceLanguage": "mixed",
+            "sourceText": "Grammar Notes",
+            "id": "Catatan Tata Bahasa"
+          }
+        },
+        {
+          "type": "table",
+          "rows": [
+            {
+              "cells": [
+                {
+                  "sourceLanguage": "mixed",
+                  "sourceText": "1. Use imperatives to give commands, instructions, or directions or make exhortations.\n\nKumuha ka ng pagkain sa bahay. Get food at the house.\n\nUmuwi kayo sa bahay. (You, plural) Go home.\n\nKumaliwa ka. (You) Turn left.",
+                  "id": "1. Gunakan imperatif untuk memberikan perintah, instruksi, atau arah atau membuat nasihat. Kumuha ka ng pagmain sa bahay. Umuwi kayo sa bahay. (Anda, plural) Pulanglah. Kumaliwa ka. (Kau) Belok kiri.",
+                  "tagalog": "Kumuha ka ng pagkain sa bahay. Umuwi kayo sa bahay. Kumaliwa ka."
+                }
+              ]
+            },
+            {
+              "cells": [
+                {
+                  "sourceLanguage": "mixed",
+                  "sourceText": "2. We use naman in commands and instructions to make imperatives more polite. It softens the command or direction for the person addressed.\n\nKumuha ka naman ng pagkain sa bahay.\n\nUmuwi naman kayo sa bahay.",
+                  "id": "Kami menggunakan naman dalam perintah dan instruksi untuk membuat imperatif lebih sopan. Kumuha ka naman ng pagmain sa bahay. Umuwi naman kayo sa bahay.",
+                  "tagalog": "naman Kumuha ka naman ng pagkain sa bahay. Umuwi naman kayo sa bahay."
+                }
+              ]
+            },
+            {
+              "cells": [
+                {
+                  "sourceLanguage": "mixed",
+                  "sourceText": "3. When using imperatives, the actor for -um- and mag- verbs is always either ka (ang pronoun for you singular) or kayo (ang pronoun for you plural)\n\nUmuwi ka sa bahay ninyo. (You, singular) Go home to your (plural) house.\n\nUmuwi kayo sa bahay ng lola ninyo. (You all, plural) Go home to the house of your (plural) grandmother.\n\nMaglinis ka ng kuwarto mo. (You, singular) Clean your (singular) room.\n\nMaglinis kayo ng buong bahay. (You all, plural) Clean the whole house.",
+                  "id": "3 ketika menggunakan imperatif, aktor untuk -um- dan mag- verbs selalu baik ka (ang pronoun untuk Anda tunggal) atau kayo (ang pronoun untuk Anda plural) Umuwi ka sa bahay ninyo. (Kau, tunggal) Pulanglah ke rumah (plural) mu. Umuwi kayo sa bahay ng lola ninyo. (Kalian semua, plural) Pulanglah ke rumah nenek (jamak) Anda. Maglinis ka ng kuwarto mo. (You, single) Clean your single) room. Maglinis kayo ng buong bahay. (Anda semua, plural) Bersihkan seluruh rumah.",
+                  "tagalog": "-um- mag- ka ang kayo Umuwi ka sa bahay ninyo. Umuwi kayo sa bahay ng lola ninyo. Maglinis ka ng kuwarto mo. Maglinis kayo ng buong bahay."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "style": "body",
+          "text": {
+            "sourceLanguage": "mixed",
+            "sourceText": "II. -Um- Verbs",
+            "id": "II."
+          }
+        },
+        {
+          "type": "text",
+          "style": "body",
+          "text": {
+            "sourceLanguage": "en",
+            "sourceText": "When used with a verbal root word, the -um- verbal affix forms an actor-focus verb. The -um- affix usually attaches to root words that express the following: direction, natural occurrences or acts of nature, and bodily functions, While there are verbal root words that can be turned into an action word, keep in mind that there are also root words that cannot be turned into a verb. For example, papaya, the name for a fruit, cannot be turned into an action word.",
+            "id": "Ketika digunakan dengan kata akar verbal, -um-verbal affix bentuk aktor- fokus kata kerja. The -um - affix biasanya melekat ke kata akar yang mengekspresikan berikut: arah, kejadian alami atau tindakan alam, dan fungsi tubuh, sementara ada kata akar verbal yang dapat diubah menjadi kata aksi, ingatlah bahwa ada juga kata root yang tidak dapat diubah menjadi kata kerja. Misalnya, pepaya, nama untuk buah, tidak dapat diubah menjadi kata aksi."
+          }
+        },
+        {
+          "type": "text",
+          "style": "body",
+          "text": {
+            "sourceLanguage": "mixed",
+            "sourceText": "Direction:\n\nKumanan ka sa Rada. Turn right on Rada Street.\n\nKumaliwa kayo sa kanto. Make a left on the corner\n\n\n\n\n\nNatural Occurrences:\n\nUmuulan ngayon dito. It is now raining here.\n\nBumagyo raw kahapon sa Pilipinas. They said it rained yesterday in the Philippines\n\n\n\n\n\nBodily Functions:\n\nKumain ako ng adobo. I ate adobo.\n\nIinom ako ng gatas. I will drink milk.\n\nSumakit ang tiyan ko. I had a tummy ache. (Literally, My stomach ached.)",
+            "id": "Arah: Kumanan ka sa Rada. belok kanan di jalan Rada. Kumaliwa kayo sa kanto. Kejadian Natural: Umuulan ngayon dito sekarang hujan di sini. Bumagyo raw kahapon sa Pilipinas, mereka bilang kemarin hujan di Filipina. Fungsi Bodily: Kumain ako ng adobo. Aku akan minum susu. Aku sakit perut.",
+            "tagalog": "Kumanan ka sa Rada. Kumaliwa kayo sa kanto. Umuulan ngayon dito. Bumagyo raw kahapon sa Pilipinas. Kumain ako ng adobo. Iinom ako ng gatas. Sumakit ang tiyan ko."
+          }
+        },
+        {
+          "type": "text",
+          "style": "body",
+          "text": {
+            "sourceLanguage": "mixed",
+            "sourceText": "Grammar Presentation",
+            "id": "Penyajian Tata Bahasa"
+          }
+        },
+        {
+          "type": "text",
+          "style": "body",
+          "text": {
+            "sourceLanguage": "en",
+            "sourceText": "1. Um- verbs can serve to give directions when in the imperative form. It so happens that the infinitive/ imperative and the completed aspect of -um- verbs is the same. This is the only class of Tagalog verb where the infinitive and completed aspect share the same form.",
+            "id": "1 Um- kata kerja dapat berfungsi untuk memberikan arah ketika dalam bentuk yang penting. hal itu terjadi sehingga tidak terhingga / penting dan aspek lengkap dari -um- verbs sama. Ini adalah satu-satunya class dari Tagalog verb dimana aspek infinitive dan complete berbagi bentuk yang sama."
+          }
+        },
+        {
+          "type": "table",
+          "rows": [
+            {
+              "cells": [
+                {
+                  "sourceLanguage": "mixed",
+                  "sourceText": "Direction",
+                  "id": "Arah"
+                }
+              ]
+            },
+            {
+              "cells": [
+                {
+                  "sourceLanguage": "mixed",
+                  "sourceText": "Verb",
+                  "id": "Kata kerja"
+                },
+                {
+                  "sourceLanguage": "mixed",
+                  "sourceText": "Actor (Ang Phrase)",
+                  "id": "Aktor (Ang Phrase)"
+                },
+                {
+                  "sourceLanguage": "mixed",
+                  "sourceText": "Location",
+                  "id": "Lokasi"
+                }
+              ]
+            },
+            {
+              "cells": [
+                {
+                  "sourceLanguage": "mixed",
+                  "sourceText": "-um-",
+                  "id": "-um-"
+                },
+                {
+                  "sourceLanguage": "mixed",
+                  "sourceText": "Markers",
+                  "id": "Penanda"
+                },
+                {
+                  "sourceLanguage": "mixed",
+                  "sourceText": "Nouns",
+                  "id": "Kata benda"
+                },
+                {
+                  "sourceLanguage": "mixed",
+                  "sourceText": "Sa",
+                  "id": "Sa"
+                }
+              ]
+            },
+            {
+              "cells": [
+                {
+                  "sourceLanguage": "fil",
+                  "sourceText": "Lumiko\n\n(infinitive)",
+                  "id": "Keluar (infinitive)",
+                  "tagalog": "Lumiko\n\n(infinitive)"
+                },
+                {
+                  "sourceLanguage": "fil",
+                  "sourceText": "ka\n\nkayo\n\ntayo",
+                  "id": "Anda Kau. kita",
+                  "tagalog": "ka\n\nkayo\n\ntayo"
+                },
+                {
+                  "sourceLanguage": "fil",
+                  "sourceText": "sa kanto.",
+                  "id": "ke sudut.",
+                  "tagalog": "sa kanto."
+                }
+              ]
+            },
+            {
+              "cells": [
+                {
+                  "sourceLanguage": "fil",
+                  "sourceText": "Lumiko\n\n(completed)\n\nLumiliko\n\n(incompleted)\n\nLiliko\n\n(contemplated)",
+                  "id": "Keluar (Selesai) Kesampingkan (Inklusif) Batalpart-type (Bermerenung)",
+                  "tagalog": "Lumiko\n\n(completed)\n\nLumiliko\n\n(incompleted)\n\nLiliko\n\n(contemplated)"
+                },
+                {
+                  "sourceLanguage": "fil",
+                  "sourceText": "si\n\nsina",
+                  "id": "bertanya mereka mengatakan",
+                  "tagalog": "si\n\nsina"
+                },
+                {
+                  "sourceLanguage": "fil",
+                  "sourceText": "Jamie",
+                  "id": "Jamie",
+                  "tagalog": "Jamie"
+                }
+              ]
+            },
+            {
+              "cells": [
+                {
+                  "sourceLanguage": "fil",
+                  "sourceText": "ang\n\nang mga",
+                  "id": "jawabannya berikut",
+                  "tagalog": "ang\n\nang mga"
+                },
+                {
+                  "sourceLanguage": "fil",
+                  "sourceText": "bata",
+                  "id": "anak",
+                  "tagalog": "bata"
+                }
+              ]
+            },
+            {
+              "cells": [
+                {
+                  "sourceLanguage": "fil",
+                  "sourceText": "ako tayo\n\nkami\n\nka kayo\n\nsiya sila",
+                  "id": "Aku. kami Kau. mereka",
+                  "tagalog": "ako tayo\n\nkami\n\nka kayo\n\nsiya sila"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "style": "body",
+          "text": {
+            "sourceLanguage": "en",
+            "sourceText": "2. Declarative sentences with -um-verbs can describe movement or displacement in space. The last example is a ba question with an -um- verb in the contemplated aspect.",
+            "id": "2. Kalimat deklaratif dengan -um-verbs dapat mendeskripsikan gerakan atau perpindahan dalam ruang. Contoh terakhir adalah sebuah ba pertanyaan dengan sebuah -um - verb dalam aspek merenungkan."
+          }
+        },
+        {
+          "type": "text",
+          "style": "body",
+          "text": {
+            "sourceLanguage": "mixed",
+            "sourceText": "EXAMPLES:",
+            "id": "EXAMPLES:"
+          }
+        },
+        {
+          "type": "text",
+          "style": "body",
+          "text": {
+            "sourceLanguage": "fil",
+            "sourceText": "Kumaliwa sila sa Espanya. They turned left on España.",
+            "id": "Mereka menemukan kenyamanan di Spanyol.",
+            "tagalog": "Kumaliwa sila sa Espanya. They turned left on España."
+          }
+        },
+        {
+          "type": "text",
+          "style": "body",
+          "text": {
+            "sourceLanguage": "en",
+            "sourceText": "Bumabalik ako sa bahay tuwing hapon. I go back to my place every afternoon.",
+            "id": "Aku kembali ke tempatku setiap sore."
+          }
+        },
+        {
+          "type": "text",
+          "style": "body",
+          "text": {
+            "sourceLanguage": "en",
+            "sourceText": "Kakanan ba sina Marcus at Glen sa Dapitan? Will Marcus and Glen turn right on Dapitan?",
+            "id": "Apakah Marcus dan Glen berbelok ke kanan pada Dapitan?"
+          }
+        },
+        {
+          "type": "text",
+          "style": "body",
+          "text": {
+            "sourceLanguage": "en",
+            "sourceText": "3. Acts of nature or natural occurrences are expressed with -um- verbs, as shown in the chart below with the verb bumagyo (to storm) in the different aspects. Among the different kinds of verbs, only -um-verbs can be used to express acts of nature. In this lesson, our focus is on the use of infinitives as imperatives, and we show the aspects only for the purpose of recognizing the verb. You will learn how to conjugate -um- verbs in a later lesson.",
+            "id": "3 tindakan dari alam atau kejadian alami diekspresikan dengan -um- verbs, seperti yang ditampilkan di bagan bawah dengan bumagyo verb (untuk badai) dalam aspek yang berbeda. diantara jenis kata kerja yang berbeda, hanya -um-verbs yang dapat digunakan untuk mengekspresikan aksi alam. Dalam pelajaran ini, fokus kita adalah pada penggunaan infinitive sebagai imperatif, dan kami menunjukkan aspek-aspek hanya untuk tujuan mengenali kata kerja."
+          }
+        },
+        {
+          "type": "table",
+          "rows": [
+            {
+              "cells": [
+                {
+                  "sourceLanguage": "mixed",
+                  "sourceText": "Natural Occurances (Subjectless Sentence)",
+                  "id": "Natural Occurances (Subjectless Sentence)"
+                }
+              ]
+            },
+            {
+              "cells": [
+                {
+                  "sourceLanguage": "mixed",
+                  "sourceText": "Verbs",
+                  "id": "Verbs"
+                },
+                {
+                  "sourceLanguage": "mixed",
+                  "sourceText": "Location",
+                  "id": "Lokasi"
+                }
+              ]
+            },
+            {
+              "cells": [
+                {
+                  "sourceLanguage": "mixed",
+                  "sourceText": "-um-",
+                  "id": "-um-"
+                },
+                {
+                  "sourceLanguage": "mixed",
+                  "sourceText": "sa",
+                  "id": "sa"
+                }
+              ]
+            },
+            {
+              "cells": [
+                {
+                  "sourceLanguage": "fil",
+                  "sourceText": "Bumagyo\n\n(completed)\n\nBumabagyo\n\n(incompleted)\n\nBabagyo\n\n(contemplated)",
+                  "id": "Clinging Back (Selesai) Turun (Inklusif) Lilin (Bermerenung)",
+                  "tagalog": "Bumagyo\n\n(completed)\n\nBumabagyo\n\n(incompleted)\n\nBabagyo\n\n(contemplated)"
+                },
+                {
+                  "sourceLanguage": "fil",
+                  "sourceText": "sa Maynila.",
+                  "id": "Wartawan di Manila.",
+                  "tagalog": "sa Maynila."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "style": "body",
+          "text": {
+            "sourceLanguage": "en",
+            "sourceText": "Some other examples of -um-verbs depicting acts of nature or natural occurences are:",
+            "id": "Beberapa contoh lain dari -um-verbs yang menggambarkan tindakan-tindakan alam atau peristiwa alam adalah:"
+          }
+        },
+        {
+          "type": "text",
+          "style": "body",
+          "text": {
+            "sourceLanguage": "en",
+            "sourceText": "Umulan sa amin kagabi. It rained in our place last night.",
+            "id": "Umulan sa amin kagami, hujan di tempat kami semalam."
+          }
+        },
+        {
+          "type": "text",
+          "style": "body",
+          "text": {
+            "sourceLanguage": "en",
+            "sourceText": "Bumabaha sa Maynila tuwing tag-ulan. (It) Floods in Manila every rainy season.",
+            "id": "Bumabahha sa Maynila tuwing tag-ulan. (It) Banjir di Manila setiap musim hujan."
+          }
+        },
+        {
+          "type": "text",
+          "style": "body",
+          "text": {
+            "sourceLanguage": "en",
+            "sourceText": "Aaraw ba bukas? Will it be sunny tomorrow?",
+            "id": "Aaraw ba bukas Apakah besok akan cerah?"
+          }
+        },
+        {
+          "type": "text",
+          "style": "body",
+          "text": {
+            "sourceLanguage": "en",
+            "sourceText": "4. Another use of -um-verbs is to express bodily functions.",
+            "id": "Penggunaan lain dari -um-verbs adalah untuk mengekspresikan fungsi tubuh."
+          }
+        },
+        {
+          "type": "table",
+          "rows": [
+            {
+              "cells": [
+                {
+                  "sourceLanguage": "mixed",
+                  "sourceText": "Bodily Function",
+                  "id": "Fungsi Bodily"
+                }
+              ]
+            },
+            {
+              "cells": [
+                {
+                  "sourceLanguage": "mixed",
+                  "sourceText": "Verb",
+                  "id": "Kata kerja"
+                },
+                {
+                  "sourceLanguage": "mixed",
+                  "sourceText": "Object",
+                  "id": "Objek"
+                },
+                {
+                  "sourceLanguage": "mixed",
+                  "sourceText": "Actor",
+                  "id": "Aktor"
+                },
+                {
+                  "sourceLanguage": "mixed",
+                  "sourceText": "Time",
+                  "id": "Waktu"
+                },
+                {
+                  "sourceLanguage": "mixed",
+                  "sourceText": "Location",
+                  "id": "Lokasi"
+                }
+              ]
+            },
+            {
+              "cells": [
+                {
+                  "sourceLanguage": "mixed",
+                  "sourceText": "-um-",
+                  "id": "-um-"
+                },
+                {
+                  "sourceLanguage": "mixed",
+                  "sourceText": "Marker",
+                  "id": "Penanda"
+                },
+                {
+                  "sourceLanguage": "mixed",
+                  "sourceText": "Noun",
+                  "id": "Kata benda"
+                },
+                {
+                  "sourceLanguage": "mixed",
+                  "sourceText": "Marker",
+                  "id": "Penanda"
+                },
+                {
+                  "sourceLanguage": "mixed",
+                  "sourceText": "Noun",
+                  "id": "Kata benda"
+                },
+                {
+                  "sourceLanguage": "mixed",
+                  "sourceText": "Marker",
+                  "id": "Penanda"
+                },
+                {
+                  "sourceLanguage": "mixed",
+                  "sourceText": "Noun",
+                  "id": "Kata benda"
+                },
+                {
+                  "sourceLanguage": "mixed",
+                  "sourceText": "sa",
+                  "id": "sa"
+                }
+              ]
+            },
+            {
+              "cells": [
+                {
+                  "sourceLanguage": "fil",
+                  "sourceText": "Kumain\n\n(completed)",
+                  "id": "Pelahap (Selesai)",
+                  "tagalog": "Kumain\n\n(completed)"
+                },
+                {
+                  "sourceLanguage": "fil",
+                  "sourceText": "ng\n\nng mga",
+                  "id": "dari Ofs",
+                  "tagalog": "ng\n\nng mga"
+                },
+                {
+                  "sourceLanguage": "fil",
+                  "sourceText": "prutas",
+                  "id": "buah",
+                  "tagalog": "prutas"
+                },
+                {
+                  "sourceLanguage": "fil",
+                  "sourceText": "si\n\nsina",
+                  "id": "bertanya mereka mengatakan",
+                  "tagalog": "si\n\nsina"
+                },
+                {
+                  "sourceLanguage": "fil",
+                  "sourceText": "Patrick",
+                  "id": "Patrick.",
+                  "tagalog": "Patrick"
+                },
+                {
+                  "sourceLanguage": "fil",
+                  "sourceText": "noong",
+                  "id": "kembali",
+                  "tagalog": "noong"
+                },
+                {
+                  "sourceLanguage": "fil",
+                  "sourceText": "Lunes",
+                  "id": "Senin",
+                  "tagalog": "Lunes"
+                },
+                {
+                  "sourceLanguage": "fil",
+                  "sourceText": "sa bahay.",
+                  "id": "Majalah di rumah.",
+                  "tagalog": "sa bahay."
+                }
+              ]
+            },
+            {
+              "cells": [
+                {
+                  "sourceLanguage": "fil",
+                  "sourceText": "Kumakain\n\n(incompleted)",
+                  "id": "Makan (Inklusif)",
+                  "tagalog": "Kumakain\n\n(incompleted)"
+                },
+                {
+                  "sourceLanguage": "fil",
+                  "sourceText": "ang\n\nang mga",
+                  "id": "jawabannya berikut",
+                  "tagalog": "ang\n\nang mga"
+                },
+                {
+                  "sourceLanguage": "fil",
+                  "sourceText": "bata",
+                  "id": "anak",
+                  "tagalog": "bata"
+                }
+              ]
+            },
+            {
+              "cells": [
+                {
+                  "sourceLanguage": "fil",
+                  "sourceText": "Kakain\n\n(contemplated)",
+                  "id": "Makanan (Bermerenung)",
+                  "tagalog": "Kakain\n\n(contemplated)"
+                },
+                {
+                  "sourceLanguage": "fil",
+                  "sourceText": "sa",
+                  "id": "di",
+                  "tagalog": "sa"
+                },
+                {
+                  "sourceLanguage": "fil",
+                  "sourceText": "Lunes",
+                  "id": "Senin",
+                  "tagalog": "Lunes"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "style": "body",
+          "text": {
+            "sourceLanguage": "mixed",
+            "sourceText": "EXAMPLES:",
+            "id": "EXAMPLES:"
+          }
+        },
+        {
+          "type": "text",
+          "style": "body",
+          "text": {
+            "sourceLanguage": "fil",
+            "sourceText": "Tumakbo ang bata papunta sa nanay niya. The kid ran toward his/her mother.",
+            "id": "Anak itu berlari ke ibunya, dan peternakan ke arah heis / ibunya.",
+            "tagalog": "Tumakbo ang bata papunta sa nanay niya. The kid ran toward his/her mother."
+          }
+        },
+        {
+          "type": "text",
+          "style": "body",
+          "text": {
+            "sourceLanguage": "fil",
+            "sourceText": "Umiinom ka ba ng gatas tuwing gabi? Do you drink milk every night?",
+            "id": "Apakah Anda minum susu di malam hari?",
+            "tagalog": "Umiinom ka ba ng gatas tuwing gabi? Do you drink milk every night?"
+          }
+        },
+        {
+          "type": "text",
+          "style": "body",
+          "text": {
+            "sourceLanguage": "en",
+            "sourceText": "Kakanta ako mamaya. I will sing later.",
+            "id": "Kakanta ako mamaya."
+          }
+        },
+        {
+          "type": "text",
+          "style": "body",
+          "text": {
+            "sourceLanguage": "mixed",
+            "sourceText": "5. Supplemental Vocabulary",
+            "id": "Lima, Suplemen Vocadility"
+          }
+        },
+        {
+          "type": "table",
+          "rows": [
+            {
+              "cells": [
+                {
+                  "sourceLanguage": "mixed",
+                  "sourceText": "-Um- Verbs",
+                  "id": "-Um- verbs"
+                }
+              ]
+            },
+            {
+              "cells": [
+                {
+                  "sourceLanguage": "fil",
+                  "sourceText": "bumangon",
+                  "id": "SUPER",
+                  "tagalog": "bumangon"
+                },
+                {
+                  "sourceLanguage": "en",
+                  "sourceText": "to rise or get up, as from bed or a lying position",
+                  "id": "untuk bangkit atau bangun, seperti dari tempat tidur atau posisi berbohong"
+                },
+                {
+                  "sourceLanguage": "fil",
+                  "sourceText": "sumayaw",
+                  "id": "Menari",
+                  "tagalog": "sumayaw"
+                },
+                {
+                  "sourceLanguage": "mixed",
+                  "sourceText": "to dance",
+                  "id": "menari"
+                }
+              ]
+            },
+            {
+              "cells": [
+                {
+                  "sourceLanguage": "fil",
+                  "sourceText": "bumasa",
+                  "id": "Baca",
+                  "tagalog": "bumasa"
+                },
+                {
+                  "sourceLanguage": "en",
+                  "sourceText": "to read",
+                  "id": "untuk dibaca"
+                },
+                {
+                  "sourceLanguage": "fil",
+                  "sourceText": "sumulat",
+                  "id": "penulis",
+                  "tagalog": "sumulat"
+                },
+                {
+                  "sourceLanguage": "en",
+                  "sourceText": "to write",
+                  "id": "untuk menulis"
+                }
+              ]
+            },
+            {
+              "cells": [
+                {
+                  "sourceLanguage": "fil",
+                  "sourceText": "gumawa",
+                  "id": "Kantor",
+                  "tagalog": "gumawa"
+                },
+                {
+                  "sourceLanguage": "en",
+                  "sourceText": "to do, to make",
+                  "id": "untuk melakukan, untuk membuat"
+                },
+                {
+                  "sourceLanguage": "fil",
+                  "sourceText": "tumalon",
+                  "id": "Mengambil lompatan",
+                  "tagalog": "tumalon"
+                },
+                {
+                  "sourceLanguage": "mixed",
+                  "sourceText": "to jump",
+                  "id": "untuk melompat"
+                }
+              ]
+            },
+            {
+              "cells": [
+                {
+                  "sourceLanguage": "fil",
+                  "sourceText": "gumising",
+                  "id": "Bangun",
+                  "tagalog": "gumising"
+                },
+                {
+                  "sourceLanguage": "en",
+                  "sourceText": "to wake up from sleep",
+                  "id": "untuk bangun dari tidur"
+                },
+                {
+                  "sourceLanguage": "fil",
+                  "sourceText": "tumakbo",
+                  "id": "Lari",
+                  "tagalog": "tumakbo"
+                },
+                {
+                  "sourceLanguage": "mixed",
+                  "sourceText": "to run",
+                  "id": "untuk menjalankan"
+                }
+              ]
+            },
+            {
+              "cells": [
+                {
+                  "sourceLanguage": "fil",
+                  "sourceText": "humindi",
+                  "id": "Menangis",
+                  "tagalog": "humindi"
+                },
+                {
+                  "sourceLanguage": "en",
+                  "sourceText": "to say no",
+                  "id": "untuk mengatakan tidak"
+                },
+                {
+                  "sourceLanguage": "fil",
+                  "sourceText": "tumayo",
+                  "id": "Berdiri",
+                  "tagalog": "tumayo"
+                },
+                {
+                  "sourceLanguage": "mixed",
+                  "sourceText": "to stand up",
+                  "id": "untuk berdiri"
+                }
+              ]
+            },
+            {
+              "cells": [
+                {
+                  "sourceLanguage": "fil",
+                  "sourceText": "humiga",
+                  "id": "Selipkan",
+                  "tagalog": "humiga"
+                },
+                {
+                  "sourceLanguage": "mixed",
+                  "sourceText": "to lie down",
+                  "id": "untuk berbaring"
+                },
+                {
+                  "sourceLanguage": "fil",
+                  "sourceText": "tumawa",
+                  "id": "Tertawa",
+                  "tagalog": "tumawa"
+                },
+                {
+                  "sourceLanguage": "mixed",
+                  "sourceText": "to laugh",
+                  "id": "tertawa"
+                }
+              ]
+            },
+            {
+              "cells": [
+                {
+                  "sourceLanguage": "fil",
+                  "sourceText": "kumain",
+                  "id": "makan",
+                  "tagalog": "kumain"
+                },
+                {
+                  "sourceLanguage": "mixed",
+                  "sourceText": "to eat",
+                  "id": "untuk makan"
+                },
+                {
+                  "sourceLanguage": "fil",
+                  "sourceText": "umayaw",
+                  "id": "RUIND",
+                  "tagalog": "umayaw"
+                },
+                {
+                  "sourceLanguage": "en",
+                  "sourceText": "to decline; to refuse",
+                  "id": "untuk menolak; untuk menolak"
+                }
+              ]
+            },
+            {
+              "cells": [
+                {
+                  "sourceLanguage": "fil",
+                  "sourceText": "kumanta",
+                  "id": "Nyanyikan lagu",
+                  "tagalog": "kumanta"
+                },
+                {
+                  "sourceLanguage": "mixed",
+                  "sourceText": "to sing",
+                  "id": "untuk bernyanyi"
+                },
+                {
+                  "sourceLanguage": "fil",
+                  "sourceText": "uminom",
+                  "id": "minum",
+                  "tagalog": "uminom"
+                },
+                {
+                  "sourceLanguage": "mixed",
+                  "sourceText": "to drink",
+                  "id": "untuk minum"
+                }
+              ]
+            },
+            {
+              "cells": [
+                {
+                  "sourceLanguage": "fil",
+                  "sourceText": "kumita",
+                  "id": "Mencari nafkah",
+                  "tagalog": "kumita"
+                },
+                {
+                  "sourceLanguage": "en",
+                  "sourceText": "to make money, to earn, to gain",
+                  "id": "untuk membuat uang, untuk mendapatkan, untuk mendapatkan"
+                },
+                {
+                  "sourceLanguage": "fil",
+                  "sourceText": "umiyak",
+                  "id": "dia menangis",
+                  "tagalog": "umiyak"
+                },
+                {
+                  "sourceLanguage": "mixed",
+                  "sourceText": "to cry",
+                  "id": "menangis"
+                }
+              ]
+            },
+            {
+              "cells": [
+                {
+                  "sourceLanguage": "fil",
+                  "sourceText": "lumakad",
+                  "id": "Berjalan",
+                  "tagalog": "lumakad"
+                },
+                {
+                  "sourceLanguage": "mixed",
+                  "sourceText": "to walk",
+                  "id": "untuk berjalan"
+                },
+                {
+                  "sourceLanguage": "fil",
+                  "sourceText": "umupo",
+                  "id": "duduk",
+                  "tagalog": "umupo"
+                },
+                {
+                  "sourceLanguage": "mixed",
+                  "sourceText": "to sit down",
+                  "id": "untuk duduk"
+                }
+              ]
+            },
+            {
+              "cells": [
+                {
+                  "sourceLanguage": "fil",
+                  "sourceText": "ngumiti",
+                  "id": "tersenyum",
+                  "tagalog": "ngumiti"
+                },
+                {
+                  "sourceLanguage": "mixed",
+                  "sourceText": "to smile",
+                  "id": "untuk tersenyum"
+                },
+                {
+                  "sourceLanguage": "fil",
+                  "sourceText": "umoo",
+                  "id": "Kedelai",
+                  "tagalog": "umoo"
+                },
+                {
+                  "sourceLanguage": "mixed",
+                  "sourceText": "to say yes",
+                  "id": "untuk mengatakan ya"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "lesson-12-practice",
+      "type": "PRACTICE",
+      "title": {
+        "sourceLanguage": "mixed",
+        "sourceText": "Practice",
+        "id": "Latihan"
+      },
+      "blocks": [
+        {
+          "type": "text",
+          "style": "body",
+          "text": {
+            "sourceLanguage": "mixed",
+            "sourceText": "Practice",
+            "id": "Latihan"
+          }
+        },
+        {
+          "type": "text",
+          "style": "body",
+          "text": {
+            "sourceLanguage": "en",
+            "sourceText": "I. Speaking Practice",
+            "id": "I. Latihan Berbicara"
+          }
+        },
+        {
+          "type": "text",
+          "style": "body",
+          "text": {
+            "sourceLanguage": "en",
+            "sourceText": "Give the Tagalog equivalent for the following exchange in English and then act it out in Tagalog with a classmate. Use a separate piece of paper to write your answers.",
+            "id": "Berikan Tagalog ekuivalen untuk pertukaran berikut dalam bahasa Inggris dan kemudian bertindak itu di Tagalog dengan teman sekelas. Gunakan bagian terpisah kertas untuk menulis jawaban Anda."
+          }
+        },
+        {
+          "type": "table",
+          "rows": [
+            {
+              "cells": [
+                {
+                  "sourceLanguage": "fil",
+                  "sourceText": "Marco",
+                  "id": "Marco",
+                  "tagalog": "Marco"
+                },
+                {
+                  "sourceLanguage": "en",
+                  "sourceText": "Excuse me, sir. May I ask you a question?",
+                  "id": "Permisi, Pak. / Boleh aku bertanya?"
+                }
+              ]
+            },
+            {
+              "cells": [
+                {
+                  "sourceLanguage": "fil",
+                  "sourceText": "Juan",
+                  "id": "John",
+                  "tagalog": "Juan"
+                },
+                {
+                  "sourceLanguage": "en",
+                  "sourceText": "Yeah, sure. What is it?",
+                  "id": "Ya, tentu. / Ada apa?"
+                }
+              ]
+            },
+            {
+              "cells": [
+                {
+                  "sourceLanguage": "fil",
+                  "sourceText": "Marco",
+                  "id": "Marco",
+                  "tagalog": "Marco"
+                },
+                {
+                  "sourceLanguage": "en",
+                  "sourceText": "Do you know how to get to U.S.T., sir?",
+                  "id": "Apakah Anda tahu bagaimana untuk sampai ke U.S.T., Pak?"
+                }
+              ]
+            },
+            {
+              "cells": [
+                {
+                  "sourceLanguage": "fil",
+                  "sourceText": "Juan",
+                  "id": "John",
+                  "tagalog": "Juan"
+                },
+                {
+                  "sourceLanguage": "en",
+                  "sourceText": "Oh! That’s easy. You are on Recto right now. Make a right on Loyola, then turn left on P. Noval. Then turn right on Dapitan. UST will be on your right.",
+                  "id": "Oh, itu mudah kau berada di Recto sekarang belok kanan ke kanan di Loyola, lalu belok kiri ke P. Noval lalu belok kanan ke Dapitan."
+                }
+              ]
+            },
+            {
+              "cells": [
+                {
+                  "sourceLanguage": "fil",
+                  "sourceText": "Marco",
+                  "id": "Marco",
+                  "tagalog": "Marco"
+                },
+                {
+                  "sourceLanguage": "en",
+                  "sourceText": "Thank you, sir. So, I will turn right on Recto. Then I will make a right on Loyola. Then I will make a left on P. Noval. Afterwards, I will turn right on Dapitan. Is that correct, sir?",
+                  "id": "terima kasih, pak jadi aku akan belok kanan ke Recto kalau begitu aku akan belok kanan pada Loyola lalu aku akan belok kiri di P. Noval setelah itu, aku akan belok kanan pada Dapitan apakah itu benar, pak?"
+                }
+              ]
+            },
+            {
+              "cells": [
+                {
+                  "sourceLanguage": "fil",
+                  "sourceText": "Juan",
+                  "id": "John",
+                  "tagalog": "Juan"
+                },
+                {
+                  "sourceLanguage": "mixed",
+                  "sourceText": "Yes.",
+                  "id": "Ya."
+                }
+              ]
+            },
+            {
+              "cells": [
+                {
+                  "sourceLanguage": "fil",
+                  "sourceText": "Marco",
+                  "id": "Marco",
+                  "tagalog": "Marco"
+                },
+                {
+                  "sourceLanguage": "en",
+                  "sourceText": "Okay. Thank you so much, sir.",
+                  "id": "Terima kasih banyak, Pak."
+                }
+              ]
+            },
+            {
+              "cells": [
+                {
+                  "sourceLanguage": "fil",
+                  "sourceText": "Juan",
+                  "id": "John",
+                  "tagalog": "Juan"
+                },
+                {
+                  "sourceLanguage": "mixed",
+                  "sourceText": "You’re welcome.",
+                  "id": "Sama-sama."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "style": "body",
+          "text": {
+            "sourceLanguage": "mixed",
+            "sourceText": "II. Reading Practice",
+            "id": "II. Latihan Membaca"
+          }
+        },
+        {
+          "type": "text",
+          "style": "body",
+          "text": {
+            "sourceLanguage": "en",
+            "sourceText": "Read about the misadventures of Hiro below and answer the Reading Comprehension questions in Tagalog.",
+            "id": "Baca tentang kemalangan Hiro di bawah ini dan jawab pertanyaan Reading Comprehension di Tagalog."
+          }
+        },
+        {
+          "type": "image",
+          "path": "assets/214a.jpg"
+        },
+        {
+          "type": "image",
+          "path": "assets/214.jpg"
+        },
+        {
+          "type": "text",
+          "style": "body",
+          "text": {
+            "sourceLanguage": "mixed",
+            "sourceText": "Ang Mahabang Biyahe ni Hiro Hiro’s Long Journey",
+            "id": "Ang Mahabang Biyahe ni Hiro Hiro Long Journey"
+          }
+        },
+        {
+          "type": "text",
+          "style": "body",
+          "text": {
+            "sourceLanguage": "fil",
+            "sourceText": "Nakatira si Hiro malayo sa siyudad. Ngayong araw na ito, pupunta si Hiro sa Downtown para bumili ng pagkain, maghulog ng mga sulat sa pos opis at makipagkita sa kaibigan niya.",
+            "id": "Hiro tinggal jauh dari kota, dan hari ini Hiro pergi ke pusat kota untuk membeli makanan, menjatuhkan surat ke keran dan melihat temannya.",
+            "tagalog": "Nakatira si Hiro malayo sa siyudad. Ngayong araw na ito, pupunta si Hiro sa Downtown para bumili ng pagkain, maghulog ng mga sulat sa pos opis at makipagkita sa kaibigan niya."
+          }
+        },
+        {
+          "type": "text",
+          "style": "body",
+          "text": {
+            "sourceLanguage": "fil",
+            "sourceText": "Pagkatapos niyang kumain ng almusal, handa na si Hiro para sa mga gawain niya ngayong araw na ito. Sumakay siya sa trak niya pero wala na itong gasolina. Sumakay siya sa vespa niya pero malambot ang gulong nito. Malaki ang problema ni Hiro. Sa wakas, nakita niya ang bisikleta niya!",
+            "id": "Setelah dia sarapan, Hiro sudah siap untuk aktivitasnya hari ini, dan dia akhirnya menemukan sepedanya di truknya!",
+            "tagalog": "Pagkatapos niyang kumain ng almusal, handa na si Hiro para sa mga gawain niya ngayong araw na ito. Sumakay siya sa trak niya pero wala na itong gasolina. Sumakay siya sa vespa niya pero malambot ang gulong nito. Malaki ang problema ni Hiro. Sa wakas, nakita niya ang bisikleta niya!"
+          }
+        },
+        {
+          "type": "text",
+          "style": "body",
+          "text": {
+            "sourceLanguage": "fil",
+            "sourceText": "Hindi pwedeng dumaan si Hiro sa freeway, kaya sa kalye lang siya nag-bike. Nag-bike nang nag-bike si Hiro nang maraming oras. Pagkalipas ng dalawang oras, nakarating na rin si Hiro sa pamilihan. Bumili siya agad ng mga kailangan niya. Pagkatapos, nagpunta na siya agad sa pos opis. Naghulog siya ng mga bills niya. Ngayon, papunta na si Hiro sa bahay ng kaibigan niya. Ang problema, hindi pamilyar si Hiro sa bagong tirahan ng kaibigan niya. Nagtanong siya sa tindero pero hindi alam nito. Naghanap si Hiro ng iba pang tao at nakita niya ang drayber ng bus. Nagtanong siya kung alam ba niya kung paano magpunta sa Arlington. At ang sabi ng drayber, “Oo, dumiretso ka lang sa Roscoe at kumanan ka sa Wyoming at tapas, kumaliwa ka sa simbahan. Nagpasalamat si Hiro sa drayber at nagpunta sa bahay ng kaibigan niya. Nagkita sina Hiro at ang kaibigan niya. Buong araw silang nag-usap. Masayang-masaya silang dalawa.",
+            "id": "Hiro tidak bisa pergi melalui jalan bebas hambatan, jadi dia pergi ke jalan dia langsung ke tiang selama berjam-jam setelah dua jam, Hiro pergi ke pasar lalu dia pergi ke tiang-tiang dan menjatuhkan tagihan-nya. Hiro sekarang sedang dalam perjalanan ke rumah temannya, dan masalahnya adalah bahwa ia asing dengan rumah baru temannya, dan ia meminta penjaga toko tapi tidak tahu itu, dan Hiro mencari orang lain dan melihat sopir bus, bertanya apakah dia tahu bagaimana pergi ke Arlington. Dan sang sopir berkata, \"Ya, Anda hanya pergi ke Roscoe dan pergi ke Wyoming dan tapas, Anda berada di gereja\". Hiro berterima kasih kepada sopir, dan pergi ke rumah temannya.",
+            "tagalog": "Hindi pwedeng dumaan si Hiro sa freeway, kaya sa kalye lang siya nag-bike. Nag-bike nang nag-bike si Hiro nang maraming oras. Pagkalipas ng dalawang oras, nakarating na rin si Hiro sa pamilihan. Bumili siya agad ng mga kailangan niya. Pagkatapos, nagpunta na siya agad sa pos opis. Naghulog siya ng mga bills niya. Ngayon, papunta na si Hiro sa bahay ng kaibigan niya. Ang problema, hindi pamilyar si Hiro sa bagong tirahan ng kaibigan niya. Nagtanong siya sa tindero pero hindi alam nito. Naghanap si Hiro ng iba pang tao at nakita niya ang drayber ng bus. Nagtanong siya kung alam ba niya kung paano magpunta sa Arlington. At ang sabi ng drayber, “Oo, dumiretso ka lang sa Roscoe at kumanan ka sa Wyoming at tapas, kumaliwa ka sa simbahan. Nagpasalamat si Hiro sa drayber at nagpunta sa bahay ng kaibigan niya. Nagkita sina Hiro at ang kaibigan niya. Buong araw silang nag-usap. Masayang-masaya silang dalawa."
+          }
+        },
+        {
+          "type": "text",
+          "style": "body",
+          "text": {
+            "sourceLanguage": "fil",
+            "sourceText": "Noong uuwi na si Hiro, nakita niya na malambot ang gulong ng bisikleta niya. Humiram sila ng pambomba ng gulong sa kapitbahay dahil wala ang kaibigan niya. Sa wakas, maayos na ang bisikleta ni Hiro pero ilang sandali humangin nang malakas at bumuhos ang ulan. Hindi tumitila ang ulan kaya nagpasiya si Hiro na magbus na lang pabalik sa bahay niya. Pagod na pagod si Hiro ngayong araw na ito.",
+            "id": "Ketika Hiro pulang, ia melihat bahwa sepedanya memiliki ban yang lembut dan bahwa hujan telah melepaskan ban dari tetangga, dan Hiro akhirnya memutuskan untuk menjalankan sepeda dan membiarkan hujan turun, dan ia memutuskan untuk berlari kembali ke rumahnya. Hiro kelelahan hari ini.",
+            "tagalog": "Noong uuwi na si Hiro, nakita niya na malambot ang gulong ng bisikleta niya. Humiram sila ng pambomba ng gulong sa kapitbahay dahil wala ang kaibigan niya. Sa wakas, maayos na ang bisikleta ni Hiro pero ilang sandali humangin nang malakas at bumuhos ang ulan. Hindi tumitila ang ulan kaya nagpasiya si Hiro na magbus na lang pabalik sa bahay niya. Pagod na pagod si Hiro ngayong araw na ito."
+          }
+        },
+        {
+          "type": "text",
+          "style": "body",
+          "text": {
+            "sourceLanguage": "mixed",
+            "sourceText": "Reading Comprehension",
+            "id": "Pemahaman Bacaan"
+          }
+        },
+        {
+          "type": "table",
+          "rows": [
+            {
+              "cells": [
+                {
+                  "sourceLanguage": "mixed",
+                  "sourceText": "1.",
+                  "id": "1."
+                },
+                {
+                  "sourceLanguage": "fil",
+                  "sourceText": "Saan nagpunta si Hiro ngayong araw na ito?",
+                  "id": "Mana Hiro datang hari ini?",
+                  "tagalog": "Saan nagpunta si Hiro ngayong araw na ito?"
+                }
+              ]
+            },
+            {
+              "cells": [
+                {
+                  "sourceLanguage": "mixed",
+                  "sourceText": "____________________________________________________",
+                  "id": "____________________________________________________"
+                }
+              ]
+            },
+            {
+              "cells": [
+                {
+                  "sourceLanguage": "mixed",
+                  "sourceText": "2.",
+                  "id": "2."
+                },
+                {
+                  "sourceLanguage": "fil",
+                  "sourceText": "Saan sumakay si Hiro at bakit?",
+                  "id": "Di mana Hiro naik dan mengapa?",
+                  "tagalog": "Saan sumakay si Hiro at bakit?"
+                }
+              ]
+            },
+            {
+              "cells": [
+                {
+                  "sourceLanguage": "mixed",
+                  "sourceText": "____________________________________________________",
+                  "id": "____________________________________________________"
+                }
+              ]
+            },
+            {
+              "cells": [
+                {
+                  "sourceLanguage": "mixed",
+                  "sourceText": "3.",
+                  "id": "3."
+                },
+                {
+                  "sourceLanguage": "fil",
+                  "sourceText": "Sino ang nagbigay ng direksyon kay Hiro papunta sa bahay ng kaibigan niya?",
+                  "id": "Siapa yang memberi Hiro meninggalkan rumah temannya?",
+                  "tagalog": "Sino ang nagbigay ng direksyon kay Hiro papunta sa bahay ng kaibigan niya?"
+                }
+              ]
+            },
+            {
+              "cells": [
+                {
+                  "sourceLanguage": "mixed",
+                  "sourceText": "____________________________________________________",
+                  "id": "____________________________________________________"
+                }
+              ]
+            },
+            {
+              "cells": [
+                {
+                  "sourceLanguage": "mixed",
+                  "sourceText": "4.",
+                  "id": "4."
+                },
+                {
+                  "sourceLanguage": "fil",
+                  "sourceText": "Paano magpunta sa bahay ng kaibigan ni Hiro?",
+                  "id": "Bagaimana aku bisa pergi ke rumah teman Hiro?",
+                  "tagalog": "Paano magpunta sa bahay ng kaibigan ni Hiro?"
+                }
+              ]
+            },
+            {
+              "cells": [
+                {
+                  "sourceLanguage": "mixed",
+                  "sourceText": "____________________________________________________",
+                  "id": "____________________________________________________"
+                }
+              ]
+            },
+            {
+              "cells": [
+                {
+                  "sourceLanguage": "mixed",
+                  "sourceText": "5.",
+                  "id": "5."
+                },
+                {
+                  "sourceLanguage": "fil",
+                  "sourceText": "Ano ang problema ni Hiro sa bisikleta niya noong pauwi na siya?",
+                  "id": "Masalah apa yang Hiro miliki dalam sepeda dalam perjalanan pulang?",
+                  "tagalog": "Ano ang problema ni Hiro sa bisikleta niya noong pauwi na siya?"
+                }
+              ]
+            },
+            {
+              "cells": [
+                {
+                  "sourceLanguage": "mixed",
+                  "sourceText": "____________________________________________________",
+                  "id": "____________________________________________________"
+                }
+              ]
+            },
+            {
+              "cells": [
+                {
+                  "sourceLanguage": "mixed",
+                  "sourceText": "6.",
+                  "id": "6."
+                },
+                {
+                  "sourceLanguage": "fil",
+                  "sourceText": "Bakit hindi nagbisikleta si Hiro pauwi sa bahay niya?",
+                  "id": "Kenapa Hiro tidak pulang naik sepedanya?",
+                  "tagalog": "Bakit hindi nagbisikleta si Hiro pauwi sa bahay niya?"
+                }
+              ]
+            },
+            {
+              "cells": [
+                {
+                  "sourceLanguage": "mixed",
+                  "sourceText": "____________________________________________________",
+                  "id": "____________________________________________________"
+                }
+              ]
+            },
+            {
+              "cells": [
+                {
+                  "sourceLanguage": "mixed",
+                  "sourceText": "7.",
+                  "id": "7."
+                },
+                {
+                  "sourceLanguage": "fil",
+                  "sourceText": "Saan sumakay si Hiro pauwi sa bahay niya?",
+                  "id": "Di mana Hiro pulang?",
+                  "tagalog": "Saan sumakay si Hiro pauwi sa bahay niya?"
+                }
+              ]
+            },
+            {
+              "cells": [
+                {
+                  "sourceLanguage": "mixed",
+                  "sourceText": "____________________________________________________",
+                  "id": "____________________________________________________"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "style": "body",
+          "text": {
+            "sourceLanguage": "mixed",
+            "sourceText": "III. Writing Practice",
+            "id": "III. Latihan Menulis"
+          }
+        },
+        {
+          "type": "text",
+          "style": "body",
+          "text": {
+            "sourceLanguage": "en",
+            "sourceText": "You are organizing a get-together at your home next week. Prepare an invitation for a friend, giving details about the events as well as precise directions to arrive at your house from his or hers.",
+            "id": "Anda mengorganisir sebuah get-together di rumah Anda minggu depan. Siapkan undangan untuk seorang teman, memberikan rincian tentang peristiwa serta arah yang tepat untuk tiba di rumah Anda dari miliknya atau miliknya."
+          }
+        },
+        {
+          "type": "text",
+          "style": "body",
+          "text": {
+            "sourceLanguage": "mixed",
+            "sourceText": "____________________________________________________",
+            "id": "____________________________________________________"
+          }
+        },
+        {
+          "type": "text",
+          "style": "body",
+          "text": {
+            "sourceLanguage": "mixed",
+            "sourceText": "____________________________________________________",
+            "id": "____________________________________________________"
+          }
+        },
+        {
+          "type": "text",
+          "style": "body",
+          "text": {
+            "sourceLanguage": "mixed",
+            "sourceText": "____________________________________________________",
+            "id": "____________________________________________________"
+          }
+        },
+        {
+          "type": "text",
+          "style": "body",
+          "text": {
+            "sourceLanguage": "mixed",
+            "sourceText": "____________________________________________________",
+            "id": "____________________________________________________"
+          }
+        },
+        {
+          "type": "text",
+          "style": "body",
+          "text": {
+            "sourceLanguage": "mixed",
+            "sourceText": "____________________________________________________",
+            "id": "____________________________________________________"
+          }
+        },
+        {
+          "type": "text",
+          "style": "body",
+          "text": {
+            "sourceLanguage": "mixed",
+            "sourceText": "____________________________________________________",
+            "id": "____________________________________________________"
+          }
+        },
+        {
+          "type": "text",
+          "style": "body",
+          "text": {
+            "sourceLanguage": "en",
+            "sourceText": "To Download the audio files, please click here.",
+            "id": "Untuk Unduh berkas audio, silakan klik di sini."
+          }
+        },
+        {
+          "type": "image",
+          "path": "assets/cd.jpg"
+        },
+        {
+          "type": "text",
+          "style": "body",
+          "text": {
+            "sourceLanguage": "mixed",
+            "sourceText": "IV. Listening Practice",
+            "id": "IV. Latihan Menyimak"
+          }
+        },
+        {
+          "type": "text",
+          "style": "body",
+          "text": {
+            "sourceLanguage": "en",
+            "sourceText": "Using the Bonus Material of the book, listen to audio file (12–2) and answer the following questions in English.",
+            "id": "Menggunakan Material Bonus buku, mendengarkan file audio (12-2) dan menjawab pertanyaan-pertanyaan berikut dalam bahasa Inggris."
+          }
+        },
+        {
+          "type": "table",
+          "rows": [
+            {
+              "cells": [
+                {
+                  "sourceLanguage": "mixed",
+                  "sourceText": "1.",
+                  "id": "1."
+                },
+                {
+                  "sourceLanguage": "fil",
+                  "sourceText": "Paano pumunta sa bahay ni Marc?",
+                  "id": "Apa yang pergi ke rumah Marc?",
+                  "tagalog": "Paano pumunta sa bahay ni Marc?"
+                }
+              ]
+            },
+            {
+              "cells": [
+                {
+                  "sourceLanguage": "mixed",
+                  "sourceText": "____________________________________________________",
+                  "id": "____________________________________________________"
+                }
+              ]
+            },
+            {
+              "cells": [
+                {
+                  "sourceLanguage": "mixed",
+                  "sourceText": "2.",
+                  "id": "2."
+                },
+                {
+                  "sourceLanguage": "fil",
+                  "sourceText": "Paano pumunta sa pamilihan?",
+                  "id": "Bagaimana kau pergi ke pasar?",
+                  "tagalog": "Paano pumunta sa pamilihan?"
+                }
+              ]
+            },
+            {
+              "cells": [
+                {
+                  "sourceLanguage": "mixed",
+                  "sourceText": "____________________________________________________",
+                  "id": "____________________________________________________"
+                }
+              ]
+            },
+            {
+              "cells": [
+                {
+                  "sourceLanguage": "mixed",
+                  "sourceText": "3.",
+                  "id": "3."
+                },
+                {
+                  "sourceLanguage": "fil",
+                  "sourceText": "Paano pumunta sa simbahan?",
+                  "id": "Bagaimana gereja pergi?",
+                  "tagalog": "Paano pumunta sa simbahan?"
+                }
+              ]
+            },
+            {
+              "cells": [
+                {
+                  "sourceLanguage": "mixed",
+                  "sourceText": "____________________________________________________",
+                  "id": "____________________________________________________"
+                }
+              ]
+            },
+            {
+              "cells": [
+                {
+                  "sourceLanguage": "mixed",
+                  "sourceText": "4.",
+                  "id": "4."
+                },
+                {
+                  "sourceLanguage": "fil",
+                  "sourceText": "Paano pumunta sa eskwelahan?",
+                  "id": "Bagaimana kau pergi ke tempat itu?",
+                  "tagalog": "Paano pumunta sa eskwelahan?"
+                }
+              ]
+            },
+            {
+              "cells": [
+                {
+                  "sourceLanguage": "mixed",
+                  "sourceText": "____________________________________________________",
+                  "id": "____________________________________________________"
+                }
+              ]
+            },
+            {
+              "cells": [
+                {
+                  "sourceLanguage": "mixed",
+                  "sourceText": "5.",
+                  "id": "5."
+                },
+                {
+                  "sourceLanguage": "fil",
+                  "sourceText": "Paano pumunta sa koreo?",
+                  "id": "Bagaimana kau bisa masuk surat?",
+                  "tagalog": "Paano pumunta sa koreo?"
+                }
+              ]
+            },
+            {
+              "cells": [
+                {
+                  "sourceLanguage": "mixed",
+                  "sourceText": "____________________________________________________",
+                  "id": "____________________________________________________"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

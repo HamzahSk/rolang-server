@@ -1,0 +1,2387 @@
+{
+  "schemaVersion": 1,
+  "id": "unit-01-self",
+  "courseId": "elementary-tagalog-1",
+  "title": {
+    "id": "Tentang Diri",
+    "fil": "Tungkol sa Sarili"
+  },
+  "sourceFiles": [
+    "OEBPS/Text/Introduction.xhtml",
+    "OEBPS/Text/Guide.xhtml",
+    "OEBPS/Text/Language.xhtml",
+    "OEBPS/Text/Greetings.xhtml",
+    "OEBPS/Text/Unit1.xhtml"
+  ],
+  "assets": [
+    "assets/17.jpg",
+    "assets/gcd.jpg",
+    "assets/21.jpg",
+    "assets/22.jpg",
+    "assets/24a.jpg",
+    "assets/25a.jpg",
+    "assets/25b.jpg"
+  ],
+  "sections": [
+    {
+      "id": "unit-01-introduction-introduction",
+      "type": "CONTENT",
+      "title": {
+        "sourceLanguage": "mixed",
+        "sourceText": "Introduction",
+        "id": "Pengantar"
+      },
+      "blocks": [
+        {
+          "type": "text",
+          "style": "body",
+          "text": {
+            "sourceLanguage": "mixed",
+            "sourceText": "Introduction",
+            "id": "Perkenalan"
+          }
+        },
+        {
+          "type": "text",
+          "style": "body",
+          "text": {
+            "sourceLanguage": "mixed",
+            "sourceText": "Tara, mag-Tagalog tayo! Come on, let’s speak Tagalog!",
+            "id": "Tara, mag- Tagalog tayo!"
+          }
+        },
+        {
+          "type": "text",
+          "style": "body",
+          "text": {
+            "sourceLanguage": "en",
+            "sourceText": "Elementary Tagalog is an introductory textbook for learning Tagalog, the basis of the national language of the Philippines, Filipino. This book aims to teach students how to speak, write, and comprehend Tagalog, as it is used in real-life contexts. Tagalog is a vibrant language, spoken by millions of people, and this book seeks to enhance its relevance to students in various ways, from classroom activities that reinforce the student’s ability to navigate the language in both its conversational and written forms to a series of culture notes that offer information about contemporary life in the Philippines.",
+            "id": "Dasar Tagalog adalah buku teks pengantar untuk belajar Tagalog, dasar dari bahasa nasional Filipina, Filipina. Buku ini bertujuan untuk mengajar siswa bagaimana berbicara, menulis, dan memahami Tagalog, seperti yang digunakan dalam konteks kehidupan nyata. Tagalog adalah bahasa yang hidup, diucapkan oleh jutaan orang, dan buku ini berusaha untuk meningkatkan relevansi terhadap siswa dalam berbagai cara, dari kegiatan kelas yang memperkuat kemampuan siswa untuk menavigasi bahasa dalam percakapan baik nya dan bentuk tertulis ke serangkaian catatan budaya yang menawarkan informasi tentang kehidupan kontemporer dalam Filipina."
+          }
+        },
+        {
+          "type": "text",
+          "style": "body",
+          "text": {
+            "sourceLanguage": "en",
+            "sourceText": "Elementary Tagalog is a grammar-oriented textbook. In developing it, the authors have followed the order-of-acquisition principle, which holds that there is a natural order in which first- and second-language learners acquire and learn different grammatical structures. The sequencing of the grammar lessons is also based in practice on the authors’ extensive experience teaching Tagalog. The lessons are organized around different themes that commonly appear in foreign-language curricula. To present the structures and themes in a fun and engaging way, this textbook employs current pedagogical language activities such as “information gap,” “simulation,” “personalization,” and many more. These strategies cater to the diverse student populations that make up most foreign-language classrooms. This means that both heritage and non-heritage language learners will learn well from the clear and systematic progression of activities presented in the book.",
+            "id": "Elementary Tagalog adalah buku teks berorientasi tata bahasa. Dalam mengembangkannya, penulis telah mengikuti prinsip akuisisi--dari, yang memegang bahwa ada urutan alami di mana pertama dan kedua-bahasa memperoleh dan belajar struktur tata bahasa yang berbeda. Perangkaian pelajaran tata bahasa juga berdasarkan pada praktek pengalaman penulis yang luas mengajar Tagalog. Untuk menyajikan struktur dan tema dengan cara yang menyenangkan dan menarik, buku teks ini mempekerjakan kegiatan bahasa pedagogi saat ini seperti \"kesenjangan informasi\", \"simulasi\", \"personalisasi\", dan banyak lagi. Ini berarti bahwa baik warisan maupun pembelajaran bahasa non-warisan akan belajar dengan baik dari kemajuan yang jelas dan sistematis kegiatan yang disajikan dalam buku."
+          }
+        },
+        {
+          "type": "text",
+          "style": "body",
+          "text": {
+            "sourceLanguage": "en",
+            "sourceText": "The grammar is presented in a way intended to make sense to any type of language learner. Definitions of grammar concepts are provided as they are needed. Whether or not students have a strong grasp of the sentence structure of their first language, they should be able to understand the explanation for each Tagalog structure. The lessons, exercises, and activities in this book have been classroom-tested, and the authors have combined their backgrounds in linguistic theory with insights gained from daily encounters with students to develop techniques, such as the use of mnemonics, for making the grammar accessible to everyone.",
+            "id": "Tata bahasa ditunjukkan dengan cara yang dimaksudkan untuk masuk akal bagi semua jenis pembelajaran bahasa. definisi dari konsep tata bahasa akan diberikan seperti yang dibutuhkan. apakah siswa memiliki pemahaman yang kuat tentang struktur kalimat dari bahasa pertama mereka, mereka harus dapat memahami penjelasan untuk setiap struktur Tagalog. Pelajaran, latihan, dan kegiatan dalam buku ini telah diuji, dan penulis telah menggabungkan latar belakang mereka dalam teori linguistik dengan wawasan diperoleh dari pertemuan sehari-hari dengan siswa untuk mengembangkan teknik, seperti penggunaan mnemonik, untuk membuat tata bahasa dapat diakses semua orang."
+          }
+        },
+        {
+          "type": "text",
+          "style": "body",
+          "text": {
+            "sourceLanguage": "en",
+            "sourceText": "Each lesson includes numerous activities, both written and spoken, to provide students with ample exposure to the forms being taught. The vocabulary, introduced at the beginning of each lesson, should allow students to express what they want to say regarding the lesson’s theme and focus. In addition, the activities are organized in such a way that the level of difficulty increases as the lessons progress. For example, at the beginning of Unit 1, students are only expected to memorize phrases. In the next lesson, students respond to questions using single or multiple words, and in later lessons they acquire the ability to create sentences and string sentences into cohesive paragraphs.",
+            "id": "Setiap pelajaran termasuk berbagai kegiatan, baik ditulis dan diucapkan, untuk menyediakan siswa dengan eksposur cukup untuk bentuk yang diajarkan. Selain itu, kegiatan-kegiatan tersebut diselenggarakan sedemikian rupa sehingga tingkat kesulitan meningkat sebagai kemajuan pelajaran. sebagai contoh, pada awal dari Unit 1, siswa hanya diharapkan untuk menghafal frase. Dalam pelajaran berikutnya, siswa menanggapi pertanyaan menggunakan satu atau beberapa kata, dan dalam pelajaran kemudian mereka mendapatkan kemampuan untuk membuat kalimat dan kalimat menjadi paragraf kohesif."
+          }
+        },
+        {
+          "type": "text",
+          "style": "body",
+          "text": {
+            "sourceLanguage": "en",
+            "sourceText": "The Bonus Material of Elementary Tagalog contains the vocabulary words and expressions and the listening practice exercises for each lesson, and it is provided to allow students to practice listening comprehension independently. These twenty-four exercises correspond to each lesson’s theme and grammar presentation and progress from easy to more challenging.",
+            "id": "Materi Bonus dari Elementary Tagalog berisi kosakata dan ekspresi dan latihan mendengarkan untuk setiap pelajaran, dan itu disediakan untuk memungkinkan siswa untuk berlatih mendengarkan secara independen. Dua puluh empat latihan ini sesuai dengan tema dan tata bahasa masing-masing presentasi dan kemajuan dari mudah untuk lebih menantang."
+          }
+        },
+        {
+          "type": "text",
+          "style": "body",
+          "text": {
+            "sourceLanguage": "en",
+            "sourceText": "A note on Filipino culture is provided at the beginning of every unit. These culture notes range from a discussion of key concepts in Filipino culture to travel and tourism in the Philippines and aspects of contemporary pop culture. The authors believe that culture and language go hand in hand, and that it is crucial for language learners to understand not just the language itself, but how native speakers of the language think and make sense of the world.",
+            "id": "Sebuah catatan tentang budaya Filipina disediakan pada awal setiap unit. budaya ini mencatat jangkauan dari diskusi tentang konsep-konsep kunci budaya Filipina untuk bepergian dan pariwisata di Filipina dan aspek-aspek budaya pop kontemporer. Para penulis percaya bahwa budaya dan bahasa saling berhubungan, dan bahwa sangat penting bagi para pelajar bahasa untuk mengerti bukan hanya bahasa itu sendiri, tapi bagaimana pembicara asli dalam bahasa berpikir dan memahami dunia."
+          }
+        },
+        {
+          "type": "text",
+          "style": "body",
+          "text": {
+            "sourceLanguage": "en",
+            "sourceText": "Finally, Elementary Tagalog is designed to be used over the course of an academic year. After completing the course, students are expected to have achieved intermediate low- to intermediate mid-level Tagalog proficiency. This means that students should be able to express their own thoughts in the language, initiate and maintain conversations, and successfully to accomplish a variety of fundamental communicative tasks that involve communicating about oneself and one’s family, home, daily activities, and interests, as well as social activities centering around food, shopping, travel, and lodging.",
+            "id": "Akhirnya, Elementary Tagalog dirancang untuk digunakan selama satu tahun akademik. Ini berarti bahwa siswa harus dapat mengekspresikan pikiran mereka sendiri dalam bahasa, memulai dan mempertahankan percakapan, dan berhasil untuk menyelesaikan berbagai fundamental tugas komunikatif yang melibatkan komunikasi tentang diri sendiri dan satu keluarga, rumah, kegiatan sehari-hari, dan kepentingan, serta kegiatan sosial berpusat di sekitar makanan, belanja, Berkeliaran, dan penginapan."
+          }
+        },
+        {
+          "type": "text",
+          "style": "body",
+          "text": {
+            "sourceLanguage": "mixed",
+            "sourceText": "Organization",
+            "id": "Organisasi"
+          }
+        },
+        {
+          "type": "text",
+          "style": "body",
+          "text": {
+            "sourceLanguage": "en",
+            "sourceText": "Elementary Tagalog is composed of twenty-four lessons in eight units that follow the normal progression of most basic foreign-language curricula, starting with themes such as the self, the family, and social activities and culminating with Filipino culture. Each thematic lesson is presented in the following order:",
+            "id": "Elementary Tagalog terdiri dari dua puluh empat pelajaran di delapan unit yang mengikuti perkembangan normal dari kurikulum bahasa paling dasar, dimulai dengan tema seperti diri, keluarga, dan kegiatan sosial dan berpuncak dengan budaya Filipina."
+          }
+        },
+        {
+          "type": "text",
+          "style": "body",
+          "text": {
+            "sourceLanguage": "fil",
+            "sourceText": "1) Cultural Notes",
+            "id": "1) Catatan Budaya",
+            "tagalog": "1) Cultural Notes"
+          }
+        },
+        {
+          "type": "text",
+          "style": "body",
+          "text": {
+            "sourceLanguage": "en",
+            "sourceText": "Culture notes at the beginning of each unit offer explanations of social, economic, and historical aspects of contemporary Filipino life that will help students understand Filipino behavior and beliefs. The notes contribute some of the cultural knowledge that is fundamental to effective communication.",
+            "id": "Catatan budaya pada awal setiap unit menawarkan penjelasan sosial, ekonomi, dan aspek sejarah kehidupan Filipina kontemporer yang akan membantu siswa memahami perilaku dan kepercayaan Filipina catatan itu berkontribusi beberapa pengetahuan budaya yang mendasar untuk komunikasi efektif."
+          }
+        },
+        {
+          "type": "text",
+          "style": "body",
+          "text": {
+            "sourceLanguage": "fil",
+            "sourceText": "2) Vocabulary List",
+            "id": "Daftar Vokalisasi",
+            "tagalog": "2) Vocabulary List"
+          }
+        },
+        {
+          "type": "text",
+          "style": "body",
+          "text": {
+            "sourceLanguage": "en",
+            "sourceText": "The vocabulary in each lesson ties in to the theme of the unit and both the reading text and the aural activities presented in the specific lesson. These are words that most native speakers use when conversing about the themes in the book, and they are meant to equip students with a natural, colloquial vocabulary. Students are expected to memorize these words in order to facilitate their language learning. It is best to begin to work on memorization before proceeding to the dialogue and other activities in the book, and listening to the vocabulary track on the Bonus Material of this book will assist in this.",
+            "id": "Kosakata dalam setiap pelajaran terkait dengan tema unit dan baik teks bacaan dan kegiatan aural disajikan dalam pelajaran spesifik. Murid-murid diharapkan untuk mengingat kata-kata ini untuk memfasilitasi pembelajaran bahasa mereka. dan mendengarkan lagu kosakata pada Material Bonus buku ini akan membantu."
+          }
+        },
+        {
+          "type": "text",
+          "style": "body",
+          "text": {
+            "sourceLanguage": "fil",
+            "sourceText": "3) Reading and Reading Comprehension",
+            "id": "3) Membaca dan Membaca Komprehensi",
+            "tagalog": "3) Reading and Reading Comprehension"
+          }
+        },
+        {
+          "type": "text",
+          "style": "body",
+          "text": {
+            "sourceLanguage": "en",
+            "sourceText": "The texts for reading, which are presented mostly in the form of dialogues, are designed to expose the students to real-life conversations as might be had by Filipino native speakers. One of the main goals of the dialogues is to present the vocabulary and the grammatical structures that are covered in the lesson. Presented here in context, the grammatical structures are then explained later in the lesson. As the lesson progresses, the length and complexity of the sentences incorporating the vocabulary words and grammatical forms increases.",
+            "id": "Teks untuk membaca, yang disajikan sebagian besar dalam bentuk dialog, dirancang untuk mengekspos siswa untuk percakapan nyata kehidupan seperti yang mungkin dimiliki oleh pembicara asli Filipina. Presented here in context, the grammatical struktures are then explayed in the lesson."
+          }
+        },
+        {
+          "type": "text",
+          "style": "body",
+          "text": {
+            "sourceLanguage": "fil",
+            "sourceText": "4) Active Learning Activities",
+            "id": "Aktivitas Pembelajaran Aktif",
+            "tagalog": "4) Active Learning Activities"
+          }
+        },
+        {
+          "type": "text",
+          "style": "body",
+          "text": {
+            "sourceLanguage": "en",
+            "sourceText": "Three activities follow the dialogue and dialogue comprehension in each lesson. The activities ask the student to employ the vocabulary presented at the beginning of the lesson and observe how the words are strung together. Often students are asked to work together with a partner, and sometimes to report to the class. The students’ accuracy is not the purpose of these activities. Rather, students are encouraged to engage creatively with the language and formulate their own conclusions as to how Tagalog sentences are formed. This helps them become accustomed to the normal flow of the language.",
+            "id": "tiga kegiatan mengikuti dialog dan dialog pemahaman dalam setiap pelajaran. kegiatan meminta siswa untuk menggunakan kosakata yang disajikan pada awal pelajaran dan mengamati bagaimana kata-kata dirangkai bersama. sering siswa diminta untuk bekerja sama dengan mitra, dan kadang-kadang untuk melaporkan ke kelas. Keakuratan siswa bukanlah tujuan dari kegiatan ini. tapi, siswa didorong untuk terlibat secara kreatif dengan bahasa dan merumuskan kesimpulan mereka sendiri tentang bagaimana kalimat Tagalog dibentuk."
+          }
+        },
+        {
+          "type": "text",
+          "style": "body",
+          "text": {
+            "sourceLanguage": "fil",
+            "sourceText": "5) Grammar",
+            "id": "5) Grammar",
+            "tagalog": "5) Grammar"
+          }
+        },
+        {
+          "type": "text",
+          "style": "body",
+          "text": {
+            "sourceLanguage": "en",
+            "sourceText": "The grammar section is divided into four parts: definition of terms, examining form, grammar presentation, and grammar notes. The definition of terms provides a concise and straightforward explanation of linguistic terminologies that students can refer to at any stage. The examining form leads the students in analyzing the specific grammatical component of a Tagalog sentence that is being taught, comparing how it is similar to or the same as with their first language. The grammar presentation then explains the particular forms or elements that are being studied and shows how the words or components are strung together to make a meaningful sentence. The authors use charts and boxes to illustrate as simply as possible the different sentence patterns in Tagalog. Grammar notes following the presentation call out the important highlights to be remembered.",
+            "id": "Bagian tata bahasa dibagi menjadi empat bagian: definisi dari istilah, memeriksa bentuk, presentasi tata bahasa, dan catatan tata bahasa. definisi istilah menyediakan penjelasan singkat dan sederhana dari terminologi linguistik yang dapat digunakan siswa pada setiap tahap. Bentuk pemeriksaan memimpin siswa dalam menganalisis komponen tata bahasa tertentu dari kalimat Tagalog yang diajarkan, membandingkan bagaimana hal ini mirip atau sama dengan bahasa pertama mereka. Presentasi tata bahasa kemudian menjelaskan bentuk-bentuk tertentu atau elemen yang sedang dipelajari dan menunjukkan bagaimana kata-kata atau komponen digantung bersama-sama untuk membuat kalimat yang berarti. Penulis menggunakan grafik dan kotak untuk menggambarkan sesederhana mungkin pola kalimat yang berbeda dalam Tagalog. Catatan Grammar berikut panggilan presentasi yang penting highlights yang akan diingat."
+          }
+        },
+        {
+          "type": "text",
+          "style": "body",
+          "text": {
+            "sourceLanguage": "fil",
+            "sourceText": "6) Practice",
+            "id": "6) Praktek",
+            "tagalog": "6) Practice"
+          }
+        },
+        {
+          "type": "text",
+          "style": "body",
+          "text": {
+            "sourceLanguage": "en",
+            "sourceText": "Following the grammar, four practice exercises or activities target students’ speaking, reading, writing, and listening skills. This section serves to practice the language skills that the students acquire throughout the lesson. The Bonus Material this book is to be used for the listening activity. The Workbook that accompanies Elementary Tagalog—Elementary Tagalog Workbook—has been designed to provide additional practice. Listening activities in the workbook are also intended for use with this Bonus Material.",
+            "id": "Berdasarkan tata bahasa, empat latihan atau latihan sasaran kegiatan berbicara, membaca, menulis, dan mendengarkan. Buku Kerja yang menyertai Elementary Tagalog - Elementary Tagalog Workbook - telah dirancang untuk menyediakan latihan tambahan. Mendengarkan aktivitas dalam buku kerja juga dimaksudkan untuk digunakan dengan Material Bonus."
+          }
+        }
+      ]
+    },
+    {
+      "id": "unit-01-guide-pronunciation-guide",
+      "type": "CONTENT",
+      "title": {
+        "sourceLanguage": "mixed",
+        "sourceText": "Pronunciation Guide",
+        "id": "Panduan Pelafalan"
+      },
+      "blocks": [
+        {
+          "type": "text",
+          "style": "body",
+          "text": {
+            "sourceLanguage": "mixed",
+            "sourceText": "Pronunciation Guide",
+            "id": "Panduan Pengucapan"
+          }
+        },
+        {
+          "type": "text",
+          "style": "body",
+          "text": {
+            "sourceLanguage": "en",
+            "sourceText": "Tagalog has its own set of phonological rules and principles. Acquiring a solid understanding of these rules and principles, coupled with the phonetic knowledge of how the sounds of Tagalog are articulated by actual native speakers, is the first step in making one’s speech comprehensible to Philippine ears. Tagalog has a total inventory of 25 sounds, comprising 18 consonants, 5 vowels and 2 semi-vowels or glides. The present-day Tagalog alphabet, like the sixteenth-century Spanish alphabet on which it was based, is highly phonetic. For the English-speaking student of Tagalog, the nasals <m, n> and glides <y, w> are essentially identical in spelling and pronunciation to their English equivalents. However, Tagalog has a velar nasal, spelled ng, that will seem unfamiliar to English speakers. Its symbol, <ng>, represents a sound different from the <n> and <g> that make it up (namely, the last sound in the English word bang; and, unlike in English, it may appear at the beginning of a word, as in ngayon “now.”",
+            "id": "Tagalog memiliki aturan dan prinsip fonologisnya sendiri. Mendapatkan pemahaman yang solid tentang aturan dan prinsip ini, ditambah dengan pengetahuan fonetik tentang bagaimana suara dari Tagalog diartikulasikan oleh pembicara asli sebenarnya, adalah langkah pertama dalam membuat pidato seseorang dapat dipahami oleh telinga Filipina. Tagalog memiliki total inventaris dari 25 suara, terdiri dari 18 konsonan, 5 vokal dan 2 semi-vowels atau glides. Untuk mahasiswa Inggris - berbicara Tagalog, nacal < m, n > dan glides < y, w > pada dasarnya identik dalam ekuivalen bahasa Inggris mereka. Namun, Tagalog memiliki nasal velar, dieja ng, yang akan tampak asing bagi pembicara Inggris. Simbol, < ng >, merupakan suara yang berbeda dari < n > dan < g > yang membuatnya (yaitu, suara terakhir dalam bang kata bahasa Inggris; dan, tidak seperti dalam bahasa Inggris, mungkin muncul di awal kata, seperti dalam ngayon \"sekarang\"."
+          }
+        },
+        {
+          "type": "text",
+          "style": "body",
+          "text": {
+            "sourceLanguage": "en",
+            "sourceText": "A few other letter combinations display the same behavior, in that their phonetic whole is different from the sum of their phonetic parts: in particular, <sy> (which is comparable to the first sound in the English word shoe), <dy> (like the first sound in judge), and <ts> (like the first sound in chair). The remaining sounds are fairly straightforward, but care must be taken not to import any foreign details into one’s Tagalog pronunciation. The symbols <t> as in tatlo “three” and <d> as in dingding “wall” represent dental stops, produced with the tongue pressed against the back of the teeth, not at the alveolar ridge (behind the top front teeth) as in English. Furthermore, the voiceless stops in Tagalog, which are represented by the symbols <p>, <t>, and <k>, are not aspirated, as they are in English. That is to say, there is no puff of air accompanying the vowel in the word pa “still” as there is in the English word paw.",
+            "id": "Beberapa kombinasi huruf lain menunjukkan perilaku yang sama, dalam bahwa keseluruhan fonetik mereka berbeda dari jumlah bagian fonetik mereka: khususnya, < sy > (yang sebanding dengan suara pertama dalam sepatu kata Inggris), < dy > (seperti suara pertama dalam menilai), dan < ts > (seperti suara pertama di kursi). Suara-suara yang tersisa cukup sederhana, tapi perawatan harus diambil untuk tidak mengimpor setiap rincian asing ke dalam pengucapan Tagalog seseorang. Simbol < t > seperti dalam tatlo \"tiga\" dan < d > seperti dalam dingding \"dinding\" mewakili gigi berhenti, dihasilkan dengan lidah ditekan terhadap bagian belakang gigi, bukan di punggung bukit alveolar (di belakang gigi depan atas) seperti dalam bahasa Inggris. Selain itu, berhenti tanpa suara dalam Tagalog, yang diwakili oleh simbol < p >, < t >, dan < k >, tidak diaspirasi, karena mereka dalam bahasa Inggris. Yaitu, tidak ada puff udara yang mendampingi vokal dalam kata pa \"masih\" karena ada dalam bahasa Inggris kata paw."
+          }
+        },
+        {
+          "type": "text",
+          "style": "body",
+          "text": {
+            "sourceLanguage": "en",
+            "sourceText": "Tagalog makes frequent use of the glottal stop, which shouldn’t be totally unfamiliar to English speakers, as it’s the sound that appears in the middle of the exclamation uh-oh or right before the m in nutmeg in all but the most hyper-articulated of pronunciations. One final phonetic discrepancy worth mention is that the Tagalog <b> in a word like baka “cow” is often produced by native speakers as an implosive, with air being sucked into the mouth for a brief moment before being expelled again in the course of the vowel; the perceptual effect is that of a mild “twang.” These are the basics of Tagalog phonetics, which any diligent student who has at her or his disposal a high quality recording and a sharp set of ears can acquire.",
+            "id": "Tagalog sering menggunakan stop glottal, yang seharusnya tidak benar-benar asing bagi pembicara bahasa Inggris, karena suara yang muncul di tengah-tengah ekspresan - oh atau tepat sebelum m dalam nutmeg dalam semua tapi yang paling hyper- artikulated dari pengucapan. Satu perbedaan fonetik terakhir yang layak disebutkan adalah bahwa Tagalog < b > dalam kata seperti baka \"sapi\" sering dihasilkan oleh pembicara asli sebagai ledakan, dengan udara yang tersedot ke mulut untuk sesaat sebelum diusir lagi dalam perjalanan vokal; efek perseptual adalah bahwa yang ringan \"twang\". Ini adalah dasar dari Tagalog fonetik, yang setiap siswa rajin yang memiliki di dirinya atau nya pembuangan rekaman kualitas tinggi dan satu set tajam telinga dapat memperoleh."
+          }
+        },
+        {
+          "type": "text",
+          "style": "body",
+          "text": {
+            "sourceLanguage": "en",
+            "sourceText": "These basic phonetic characteristics are the quirks of Tagalog phonology. Take the vowels, for example. The five Tagalog vowels (a, e, i o, u) are by and large distinct from each other. Each can be uniquely mapped in terms of tongue height and backness, as the chart below shows:",
+            "id": "Ini karakteristik fonetik dasar adalah unik dari fonologi Tagalog. Ambil huruf vokal, sebagai contoh."
+          }
+        },
+        {
+          "type": "table",
+          "rows": [
+            {
+              "cells": [
+                {
+                  "sourceLanguage": "mixed",
+                  "sourceText": "Front",
+                  "id": "Depan"
+                },
+                {
+                  "sourceLanguage": "mixed",
+                  "sourceText": "Central",
+                  "id": "Pusat"
+                },
+                {
+                  "sourceLanguage": "mixed",
+                  "sourceText": "Back",
+                  "id": "Mundur"
+                }
+              ]
+            },
+            {
+              "cells": [
+                {
+                  "sourceLanguage": "mixed",
+                  "sourceText": "HIGH",
+                  "id": "HIGH"
+                },
+                {
+                  "sourceLanguage": "fil",
+                  "sourceText": "i",
+                  "id": ".",
+                  "tagalog": "i"
+                },
+                {
+                  "sourceLanguage": "fil",
+                  "sourceText": "u",
+                  "id": "u",
+                  "tagalog": "u"
+                }
+              ]
+            },
+            {
+              "cells": [
+                {
+                  "sourceLanguage": "mixed",
+                  "sourceText": "MID",
+                  "id": "MID"
+                },
+                {
+                  "sourceLanguage": "fil",
+                  "sourceText": "e",
+                  "id": "e",
+                  "tagalog": "e"
+                },
+                {
+                  "sourceLanguage": "fil",
+                  "sourceText": "o",
+                  "id": "atau",
+                  "tagalog": "o"
+                }
+              ]
+            },
+            {
+              "cells": [
+                {
+                  "sourceLanguage": "mixed",
+                  "sourceText": "LOW",
+                  "id": "LOW"
+                },
+                {
+                  "sourceLanguage": "fil",
+                  "sourceText": "a",
+                  "id": "ap",
+                  "tagalog": "a"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "style": "body",
+          "text": {
+            "sourceLanguage": "en",
+            "sourceText": "Starting with the front vowels, for example, mesa means “table,” whereas misa means “Catholic mass.” But that distinction relies on the fact that the vowels in question are stressed. When these two vowels are unstressed, the contrast is lost, so there need be no difference in vowel quality between the first syllable in bili “purchase” and the last syllable in pare “priest,” each being optionally produced as either [i] or [e] or something in between the two in quality. The same logic applies to the back vowels, [u] and [o]: when in stressed position, they are contrastive; e.g., Kora “Cora” (a girl’s name) vs. kura “parish priest’” But when unstressed, the distinction vanishes; thus, the pronunciation of the second syllable of guro “teacher” is no different from the second syllable of puro “pure.” Finally, the Tagalog low vowel [a] is reduced to a more centralized [ə] in unstressed position, comparable to the difference in English <a> between frat and fraternity. Hence, a Tagalog word like alam “know,” with the stress on the second syllable, is commonly pronounced [əlam].",
+            "id": "Dimulai dengan huruf vokal depan, misalnya, mesa berarti \"tabel\", sedangkan misa berarti \"massa Katolik\". Tapi perbedaan itu bergantung pada fakta bahwa huruf vokal dalam pertanyaan adalah stres. Ketika kedua huruf vokal ini tidak menekankan, kontrasnya hilang, jadi tidak perlu ada perbedaan dalam kualitas vokal antara suku kata pertama dalam bili \"pembelian\" dan suku kata terakhir dalam \"pase\", keduanya diproduksi secara opsional sebagai baik [i] atau [e] atau sesuatu di antara kedua kualitas. Logika yang sama berlaku untuk huruf vokal belakang, [u] dan [o]: ketika dalam posisi stres, mereka berlawanan, misalnya, Kora \"Cora\" (nama seorang gadis) vs kura \"parish imam '\" tapi ketika tidak tertekan, perbedaan menghilang; sehingga, pengucapan kedua suku kata dari guro \"guru\" tidak berbeda dari suku kedua puro \"murni\". Akhirnya, Tagalog rendah vokal [a] dikurangi menjadi lebih tersentralisasi [simpatik] dalam posisi unstressed, dibandingkan dengan perbedaan dalam bahasa Inggris < a > antara frat dan persaudaraan. Oleh karena itu, kata Tagalog seperti alam \"tahu\", dengan stres pada suku kata kedua, biasanya diucapkan [Alalam]."
+          }
+        },
+        {
+          "type": "text",
+          "style": "body",
+          "text": {
+            "sourceLanguage": "en",
+            "sourceText": "The consonants of Tagalog also display interesting phonological behavior. Intervocalic effects are particularly common. [d], [k], and [g], when between vowels, sound differently than they do when not between vowels. [d] between vowels becomes a flapped [r]—this is the reason a verb like dating “to arrive” is reduplicated into the contemplative form darating “will arrive” instead of da-dating. The voiceless velar stop [k] between vowels has the tendency to become a velar fricative [x], like the final sound in the German name Bach; and even in word-initial position, it often comes out as [kx]. Meanwhile, [g] often undergoes lenition between vowels, changing from a voiced velar stop to a slightly softer sound, a so-called “approximant,” which is conventionally marked in the International Phonetic Alphabet with the symbol <ɣ>. Hence the <g> in the Tagalog word toga “judicial robe” isn’t nearly as acoustically prominent as its counterpart in the English cognate toga.",
+            "id": "Konsonan dari Tagalog juga menampilkan perilaku fonologi yang menarik. Efek intervolik sangat umum. [d] antara huruf vokal menjadi sebuah flapped [r] - ini adalah alasan kata kerja seperti kencan \"tiba\" direduplikasi ke dalam bentuk kontemplatif darating \"akan tiba\" bukannya da- kencan. Pemberhentian velar voiceIess [k] antara huruf voicaIes memiliki kecenderungan untuk menjadi sebuah getaran velar [x], seperti suara terakhir dalam nama Jerman Bach; dan bahkan dalam posisi awal-kata, itu sering keluar sebagai [kx]. Sementara itu, [g] sering melakukan lensisi antara huruf voised velar berhenti, ke suara sedikit lebih lembut, begitu - disebut \"perkiraan\", yang secara umum ditandai dalam International Phonetic Alphabet dengan simbol < viden >. Oleh karena itu < g > dalam kata Tagalog toga \"jubah peradilan\" tidak hampir sebagai menonjol akustik sebagai rekan-rekan dalam toga Inggris Koluate."
+          }
+        },
+        {
+          "type": "text",
+          "style": "body",
+          "text": {
+            "sourceLanguage": "en",
+            "sourceText": "One final word is in order on the Tagalog glottal stop, which in IPA notation is marked with the symbol <ʔ>. While it may be easy enough for English speakers to pronounce on command, students must be careful not to overproduce it in the misguided hope of giving their Tagalog pronunciation a more authentic sound. Crucially, a large number of Tagalog words ending in a glottal stop sound very much like other words that end in open vowels, but give rise to totally different meanings. Consider the following minimal pair (both with stress on the first syllable): [bagə] “glowing ember” ~ [bagəʔ] “lung.” This is unlike English, where a word like momma could be pronounced either as [mɑmə] or as [mɑməʔ] with no difference in meaning.",
+            "id": "Satu kata terakhir adalah dalam rangka pada berhenti glottal Tagalog, yang dalam notasi IPA ditandai dengan simbol < Thay>. Sementara mungkin cukup mudah bagi pembicara bahasa Inggris untuk mengucapkan atas perintah, siswa harus berhati-hati untuk tidak melebih-lebihkan dalam harapan menyesatkan memberikan pengucapan Tagalog mereka sebuah suara yang lebih otentik. Secara radikal, sejumlah besar kata-kata Tagalog berakhir di berhenti glottal suara sangat banyak seperti kata-kata lain yang berakhir dalam vokal terbuka, tetapi menimbulkan untuk benar-benar makna yang berbeda. Pertimbangkan pasangan minimal berikut (keduanya dengan stres pada suku kata pertama): [bagbaglas] \"bara yang bersinar\" ~ [bagogsy] \"paru-paru. Ini tidak seperti bahasa Inggris, di mana kata seperti momma dapat diucapkan baik sebagai [mmigmar] atau sebagai [mblumsy] tanpa perbedaan dalam makna."
+          }
+        },
+        {
+          "type": "text",
+          "style": "body",
+          "text": {
+            "sourceLanguage": "en",
+            "sourceText": "Mastering the above-mentioned rules and principles of Tagalog phonology is an indispensible step in learning to speak well. But it’s a challenge that can easily be met.",
+            "id": "Memimpin bagian atas - yang disebutkan aturan dan prinsip-prinsip fonologi Tagalog adalah langkah yang tidak dapat dijelaskan untuk belajar dengan baik. tapi itu adalah tantangan yang dapat dengan mudah dipenuhi."
+          }
+        },
+        {
+          "type": "text",
+          "style": "body",
+          "text": {
+            "sourceLanguage": "en",
+            "sourceText": "Consonants and Vowels of Tagalog",
+            "id": "Konsonan dan Vowels dari Tagalog"
+          }
+        },
+        {
+          "type": "table",
+          "rows": [
+            {
+              "cells": [
+                {
+                  "sourceLanguage": "mixed",
+                  "sourceText": "Letter",
+                  "id": "Huruf"
+                },
+                {
+                  "sourceLanguage": "en",
+                  "sourceText": "How to Pronounce It",
+                  "id": "Bagaimana Pravounce It"
+                },
+                {
+                  "sourceLanguage": "mixed",
+                  "sourceText": "Example",
+                  "id": "Contoh"
+                }
+              ]
+            },
+            {
+              "cells": [
+                {
+                  "sourceLanguage": "fil",
+                  "sourceText": "a",
+                  "id": "ap",
+                  "tagalog": "a"
+                },
+                {
+                  "sourceLanguage": "en",
+                  "sourceText": "Between the a in father and the a in apple\n\nIn unstressed position (and occasionally in stressed position) like the a in about",
+                  "id": "Antara ayah dan apel Dalam posisi yang tidak menekankan (dan kadang-kadang dalam posisi stres) seperti di sekitar"
+                },
+                {
+                  "sourceLanguage": "fil",
+                  "sourceText": "aso (dog)\n\npagod (fatigue)",
+                  "id": "anjing (anjing) Fatigue",
+                  "tagalog": "aso (dog)\n\npagod (fatigue)"
+                }
+              ]
+            },
+            {
+              "cells": [
+                {
+                  "sourceLanguage": "fil",
+                  "sourceText": "b",
+                  "id": "b",
+                  "tagalog": "b"
+                },
+                {
+                  "sourceLanguage": "en",
+                  "sourceText": "Like b in bed",
+                  "id": "♪ Like b in bed ♪"
+                },
+                {
+                  "sourceLanguage": "fil",
+                  "sourceText": "bata (child)",
+                  "id": "muda (anak)",
+                  "tagalog": "bata (child)"
+                }
+              ]
+            },
+            {
+              "cells": [
+                {
+                  "sourceLanguage": "fil",
+                  "sourceText": "k",
+                  "id": "k",
+                  "tagalog": "k"
+                },
+                {
+                  "sourceLanguage": "en",
+                  "sourceText": "Like k in kite\n\nBetween vowels, similar to ch in German Bach",
+                  "id": "Seperti k di layang-layang Antara huruf vokal, mirip dengan ch di Jerman Bach"
+                },
+                {
+                  "sourceLanguage": "fil",
+                  "sourceText": "kamay (hand)\n\nako (me)",
+                  "id": "Tangan (tangan) aku (aku)",
+                  "tagalog": "kamay (hand)\n\nako (me)"
+                }
+              ]
+            },
+            {
+              "cells": [
+                {
+                  "sourceLanguage": "fil",
+                  "sourceText": "d",
+                  "id": "d",
+                  "tagalog": "d"
+                },
+                {
+                  "sourceLanguage": "en",
+                  "sourceText": "Like d in dog, but with the tongue against the back of the teeth\n\nWhen followed by y, like j in judge",
+                  "id": "Seperti d dalam anjing, tetapi dengan lidah terhadap bagian belakang gigi Ketika diikuti oleh y, seperti j di hakim"
+                },
+                {
+                  "sourceLanguage": "en",
+                  "sourceText": "dito (here)\n\ndyan (there)",
+                  "id": "dito (di sini) dyan (ada)"
+                }
+              ]
+            },
+            {
+              "cells": [
+                {
+                  "sourceLanguage": "fil",
+                  "sourceText": "e",
+                  "id": "e",
+                  "tagalog": "e"
+                },
+                {
+                  "sourceLanguage": "en",
+                  "sourceText": "Like e in hey, but not as drawn out",
+                  "id": "# Like e in hey, but not as drawn out #"
+                },
+                {
+                  "sourceLanguage": "fil",
+                  "sourceText": "eskrima (Filipino fencing)",
+                  "id": "Sérma (Filigine anggar)",
+                  "tagalog": "eskrima (Filipino fencing)"
+                }
+              ]
+            },
+            {
+              "cells": [
+                {
+                  "sourceLanguage": "fil",
+                  "sourceText": "g",
+                  "id": "g",
+                  "tagalog": "g"
+                },
+                {
+                  "sourceLanguage": "en",
+                  "sourceText": "Like g in go\n\nBetween vowels tends to soften, such that the airflow doesn’t come to a complete stop",
+                  "id": "Like g in go Antara vokal cenderung untuk melunak, sehingga aliran udara tidak datang ke berhenti lengkap"
+                },
+                {
+                  "sourceLanguage": "fil",
+                  "sourceText": "ganda (beauty)\n\nbago (new)",
+                  "id": "Beauty (bastles) sebelum (baru)",
+                  "tagalog": "ganda (beauty)\n\nbago (new)"
+                }
+              ]
+            },
+            {
+              "cells": [
+                {
+                  "sourceLanguage": "fil",
+                  "sourceText": "h",
+                  "id": "dia bilang",
+                  "tagalog": "h"
+                },
+                {
+                  "sourceLanguage": "en",
+                  "sourceText": "Like h in house",
+                  "id": "Seperti h di rumah"
+                },
+                {
+                  "sourceLanguage": "fil",
+                  "sourceText": "habang (while)",
+                  "id": "(sementara)",
+                  "tagalog": "habang (while)"
+                }
+              ]
+            },
+            {
+              "cells": [
+                {
+                  "sourceLanguage": "fil",
+                  "sourceText": "i",
+                  "id": ".",
+                  "tagalog": "i"
+                },
+                {
+                  "sourceLanguage": "en",
+                  "sourceText": "Like ee in bee\n\nWhen unstressed, like i in ship or e in rest",
+                  "id": "Like ee in bee Ketika tidak stres, seperti saya di kapal atau e dalam istirahat"
+                },
+                {
+                  "sourceLanguage": "en",
+                  "sourceText": "isa (one)\n\nkasi (because)",
+                  "id": "isa (satu) kasi (karena)"
+                }
+              ]
+            },
+            {
+              "cells": [
+                {
+                  "sourceLanguage": "fil",
+                  "sourceText": "l",
+                  "id": "l",
+                  "tagalog": "l"
+                },
+                {
+                  "sourceLanguage": "en",
+                  "sourceText": "Like l in light",
+                  "id": "Seperti l dalam cahaya"
+                },
+                {
+                  "sourceLanguage": "fil",
+                  "sourceText": "lola (grandmother)",
+                  "id": "nenek (nenek)",
+                  "tagalog": "lola (grandmother)"
+                }
+              ]
+            },
+            {
+              "cells": [
+                {
+                  "sourceLanguage": "fil",
+                  "sourceText": "m",
+                  "id": "m",
+                  "tagalog": "m"
+                },
+                {
+                  "sourceLanguage": "en",
+                  "sourceText": "Like m in more",
+                  "id": "Seperti saya di lebih"
+                },
+                {
+                  "sourceLanguage": "fil",
+                  "sourceText": "mata (eye)",
+                  "id": "mata (ya)",
+                  "tagalog": "mata (eye)"
+                }
+              ]
+            },
+            {
+              "cells": [
+                {
+                  "sourceLanguage": "fil",
+                  "sourceText": "n",
+                  "id": "p.",
+                  "tagalog": "n"
+                },
+                {
+                  "sourceLanguage": "en",
+                  "sourceText": "Like n in new",
+                  "id": "Seperti n di baru"
+                },
+                {
+                  "sourceLanguage": "fil",
+                  "sourceText": "nobyo (boyfriend)",
+                  "id": "pacar (teman)",
+                  "tagalog": "nobyo (boyfriend)"
+                }
+              ]
+            },
+            {
+              "cells": [
+                {
+                  "sourceLanguage": "fil",
+                  "sourceText": "ng",
+                  "id": "dari",
+                  "tagalog": "ng"
+                },
+                {
+                  "sourceLanguage": "en",
+                  "sourceText": "Like ng in bang",
+                  "id": "Like ng in bang"
+                },
+                {
+                  "sourceLanguage": "fil",
+                  "sourceText": "ngayon (now)",
+                  "id": "sekarang (sekarang)",
+                  "tagalog": "ngayon (now)"
+                }
+              ]
+            },
+            {
+              "cells": [
+                {
+                  "sourceLanguage": "fil",
+                  "sourceText": "o",
+                  "id": "atau",
+                  "tagalog": "o"
+                },
+                {
+                  "sourceLanguage": "en",
+                  "sourceText": "Like o in row, but not as drawn out\n\nWhen unstressed, like oo in book",
+                  "id": "Like o in row, but not as drawn out When unstressed, like oo in book"
+                },
+                {
+                  "sourceLanguage": "fil",
+                  "sourceText": "opo (yes)\n\naso (dog)",
+                  "id": "opo (ya) anjing (anjing)",
+                  "tagalog": "opo (yes)\n\naso (dog)"
+                }
+              ]
+            },
+            {
+              "cells": [
+                {
+                  "sourceLanguage": "fil",
+                  "sourceText": "p",
+                  "id": "p",
+                  "tagalog": "p"
+                },
+                {
+                  "sourceLanguage": "en",
+                  "sourceText": "Like p in put, but with no puff of air",
+                  "id": "# Like p in put, but with no puff of air #"
+                },
+                {
+                  "sourceLanguage": "fil",
+                  "sourceText": "pangalan (name)",
+                  "id": "(nama)",
+                  "tagalog": "pangalan (name)"
+                }
+              ]
+            },
+            {
+              "cells": [
+                {
+                  "sourceLanguage": "fil",
+                  "sourceText": "r",
+                  "id": "rh",
+                  "tagalog": "r"
+                },
+                {
+                  "sourceLanguage": "en",
+                  "sourceText": "Like r in ladder",
+                  "id": "Seperti r di tangga"
+                },
+                {
+                  "sourceLanguage": "fil",
+                  "sourceText": "restawran (restaurant)",
+                  "id": "restaurant (recurant)",
+                  "tagalog": "restawran (restaurant)"
+                }
+              ]
+            },
+            {
+              "cells": [
+                {
+                  "sourceLanguage": "fil",
+                  "sourceText": "s",
+                  "id": "s.",
+                  "tagalog": "s"
+                },
+                {
+                  "sourceLanguage": "en",
+                  "sourceText": "Like s in salad\n\nWhen followed by y, like sh in ship",
+                  "id": "Seperti s dalam salad Ketika diikuti oleh y, seperti sh di kapal"
+                },
+                {
+                  "sourceLanguage": "fil",
+                  "sourceText": "sakit (sick)\n\ntelebisyon (TV)",
+                  "id": "Penyakit (sakit) Televisi (TV)",
+                  "tagalog": "sakit (sick)\n\ntelebisyon (TV)"
+                }
+              ]
+            },
+            {
+              "cells": [
+                {
+                  "sourceLanguage": "fil",
+                  "sourceText": "t",
+                  "id": "t",
+                  "tagalog": "t"
+                },
+                {
+                  "sourceLanguage": "en",
+                  "sourceText": "Like t in tip, but with the tongue against the teeth, and no puff of air\n\nWhen followed by s or y, like ch in chew",
+                  "id": "Seperti t dalam tip, tetapi dengan lidah terhadap gigi, dan tidak ada puff udara Ketika diikuti oleh s atau y, seperti ch dalam mengunyah"
+                },
+                {
+                  "sourceLanguage": "fil",
+                  "sourceText": "tatlo (three)\n\ntsaa (tea), tyan (stomach)",
+                  "id": "tiga (tiga) Teh (teh), tyan (perut)",
+                  "tagalog": "tatlo (three)\n\ntsaa (tea), tyan (stomach)"
+                }
+              ]
+            },
+            {
+              "cells": [
+                {
+                  "sourceLanguage": "fil",
+                  "sourceText": "u",
+                  "id": "u",
+                  "tagalog": "u"
+                },
+                {
+                  "sourceLanguage": "en",
+                  "sourceText": "Like oo in food",
+                  "id": "Seperti tidak ada makanan."
+                },
+                {
+                  "sourceLanguage": "fil",
+                  "sourceText": "umaga (morning)",
+                  "id": "Selamat pagi.",
+                  "tagalog": "umaga (morning)"
+                }
+              ]
+            },
+            {
+              "cells": [
+                {
+                  "sourceLanguage": "fil",
+                  "sourceText": "w",
+                  "id": "w.",
+                  "tagalog": "w"
+                },
+                {
+                  "sourceLanguage": "en",
+                  "sourceText": "Like w in wax",
+                  "id": "Seperti w dalam lilin"
+                },
+                {
+                  "sourceLanguage": "fil",
+                  "sourceText": "wakas (end)",
+                  "id": "akhir (akhir)",
+                  "tagalog": "wakas (end)"
+                }
+              ]
+            },
+            {
+              "cells": [
+                {
+                  "sourceLanguage": "fil",
+                  "sourceText": "y",
+                  "id": "y",
+                  "tagalog": "y"
+                },
+                {
+                  "sourceLanguage": "en",
+                  "sourceText": "Like y in yellow",
+                  "id": "Seperti y dalam kuning"
+                },
+                {
+                  "sourceLanguage": "fil",
+                  "sourceText": "yamang (since)",
+                  "id": "sejak (sejak)",
+                  "tagalog": "yamang (since)"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "unit-01-language-the-tagalog-language",
+      "type": "CONTENT",
+      "title": {
+        "sourceLanguage": "mixed",
+        "sourceText": "The Tagalog Language",
+        "id": "Bahasa Tagalog"
+      },
+      "blocks": [
+        {
+          "type": "text",
+          "style": "body",
+          "text": {
+            "sourceLanguage": "mixed",
+            "sourceText": "The Tagalog Language",
+            "id": "Bahasa Tagalog"
+          }
+        },
+        {
+          "type": "text",
+          "style": "body",
+          "text": {
+            "sourceLanguage": "en",
+            "sourceText": "Tagalog is classified as an Austronesian language and is spoken by 90 million Filipinos in the Philippines as well as more than a million in Saudi Arabia and the United States. The primary language in the Central and Southern Luzon regions of the Philippines, Tagalog has been spoken historically in and around Manila, the capital of the Philippines, and the eight provinces that first rose up in arms against Spanish colonial rule. It is the basis of the national language, Filipino. Linguistically, Filipino and Tagalog share the same syntax, morphology, and phonology. Tagalog uses the Pilipino alphabet, composed of twenty letters, while Filipino uses the Filipino alphabet, which is composed of twenty-six letters from the English alphabet plus the Tagalog letter ng and the Spanish letter ñ to accommodate borrowed words from Spanish and English, not to mention the names Filipinos give themselves that utilize foreign letters. The term Tagalog for the language has more currency among foreign-language learners and even among Filipinos than the term Filipino.",
+            "id": "Tagalog diklasifikasikan sebagai bahasa Autragesia dan diucapkan oleh 90 juta Filipina di Filipina serta lebih dari satu juta di Arab Saudi dan Amerika Serikat. Bahasa utama di daerah Tengah dan Selatan Luzon di Filipina, Tagalog telah diucapkan secara historis di dalam dan di sekitar Manila, ibukota Filipina, dan delapan provinsi yang pertama kali bangkit dalam senjata melawan pemerintahan kolonial Spanyol. Secara bahasa, Filipina dan Tagalog berbagi sintaks yang sama, morfologi, dan fonologi. Tagalog menggunakan alfabet Pilipino, terdiri dari dua puluh huruf, sementara Filipino menggunakan alfabet Filipina, yang terdiri dari dua puluh enam huruf dari alfabet Inggris ditambah huruf Tagalog ng dan huruf Gat dan huruf Spanyol memungkinkan untuk meminjam kata-kata dari Spanyol dan Inggris, belum lagi nama-nama Filipinos memberi mereka sendiri yang memanfaatkan asing Istilah Tagalog untuk bahasa memiliki lebih banyak mata uang di antara para cendekiawan sebelumnya dan bahkan di antara Filipina daripada bahasa Filipina."
+          }
+        },
+        {
+          "type": "text",
+          "style": "body",
+          "text": {
+            "sourceLanguage": "en",
+            "sourceText": "The word Tagalog derives from the words taga, meaning “from,” and ilog, meaning “river”; thus its original meaning was “river dwellers.” Before the arrival of the Spanish, almost all Tagalog speakers were able to read and write Tagalog in the baybayin script, a system of writing with borrowings from Sanskrit. Spanish colonization of the Philippines beginning in the late sixteenth century changed the written form of the language. Spanish friars Romanized the orthography of Tagalog using both baybayin and the Latin alphabet in the first book published in the Philippines, entitled Doctrina Cristiana, in 1593. Since then, Tagalog speakers have continued to use the Latin alphabet to read and write in the language, while baybayin gradually fell into disuse.",
+            "id": "Kata Tagalog berasal dari kata-kata taga, yang berarti \"dari\", dan ilog, yang berarti \"sungai\"; sehingga makna aslinya adalah \"penduduk sungai\". Sebelum kedatangan Spanyol, hampir semua pembicara Tagalog mampu membaca dan menulis Tagalog dalam naskah baybayyin, sebuah sistem menulis dengan peminjam dari Sansekerta. Kolonisasi Spanyol di Filipina dimulai pada akhir abad ke-16 mengubah bentuk bahasa yang tertulis. biarawan Spanyol Romanized ortografi dari Tagalog menggunakan baybayin dan alfabet Latin dalam buku pertama yang diterbitkan di Filipina, berjudul Doctrina Cristiana, pada tahun 1593. Sejak itu, pembicara Tagalog terus menggunakan alfabet Latin untuk dibaca dan ditulis dalam bahasa tersebut, sementara baybayin secara bertahap jatuh ke dalam ketiadaan."
+          }
+        },
+        {
+          "type": "text",
+          "style": "body",
+          "text": {
+            "sourceLanguage": "en",
+            "sourceText": "The first orthography in the Philippines, which was used up until the Spanish colonization of the Philippines",
+            "id": "Ortografi pertama di Filipina, yang digunakan sampai penjajahan Spanyol Filipina"
+          }
+        },
+        {
+          "type": "image",
+          "path": "assets/17.jpg"
+        },
+        {
+          "type": "text",
+          "style": "body",
+          "text": {
+            "sourceLanguage": "en",
+            "sourceText": "In addiion to the use of Latin letters, Tagalog adopted many Spanish words during the almost four centuries of Spanish colonial rule. About 40 percent of Tagalog words today are derived from Spanish. Many English words have also penetrated the Tagalog vernacular due to more than a hundred years of formal and informal American colonization of the Philippines.",
+            "id": "Dalam addiion untuk penggunaan huruf Latin, Tagalog mengadopsi banyak kata-kata Spanyol selama hampir empat abad pemerintahan kolonial Spanyol sekitar 40 persen dari kata-kata Tagalog hari ini berasal dari bahasa Spanyol banyak kata-kata bahasa Inggris juga telah menembus vernacular Tagalog karena lebih dari seratus tahun penjajahan formal dan informal Amerika Filipina."
+          }
+        },
+        {
+          "type": "text",
+          "style": "body",
+          "text": {
+            "sourceLanguage": "en",
+            "sourceText": "Yet there are many ways in which Tagalog is very different from the European languages that have influenced it. Unlike in English and Spanish, in Tagalog the third-person singular personal pronouns are gender-neutral, with no masculine or feminine forms. For example, siya, a third-person personal pronoun, can mean “he” or “she.” Another characteristic of the language is the traditional use of the words ho and po as polite forms to address elders and/or superiors in a professional setting. For example, “Kinain ko ang kanin.” (“I ate the rice.”) becomes “Kinain ko po ang kanin.” (“I ate the rice, sir/ma’am.”) when speaking to someone older than yourself.",
+            "id": "Namun ada banyak cara di mana Tagalog sangat berbeda dari bahasa-bahasa Eropa yang telah mempengaruhinya. Misalnya, siya, orang ketiga kata ganti pribadi, dapat berarti \"dia\" atau \"dia\". Ciri lain dari bahasa adalah penggunaan tradisional dari kata-kata ho dan po sebagai bentuk sopan untuk mengatasi orang tua dan / atau atasan dalam pengaturan profesional. Sebagai contoh, \"Kinain ko ang kanin\". (\"I eat the rice\".) menjadi \"Kinain ko po ang kanin\". (\"I ate the rice, sir / ma\".) ketika berbicara dengan seseorang yang lebih tua dari dirimu."
+          }
+        },
+        {
+          "type": "text",
+          "style": "body",
+          "text": {
+            "sourceLanguage": "en",
+            "sourceText": "At a more fundamental level, with regard to word order Tagalog places emphasis on the predicate rather than the subject. Hence, the most common way of forming a sentence is predicate/subject rather than subject/predicate. For example, Mabait siya translates literally as “Kind he/she.” This sentence can also be stated using the subject/predicate word order where the predicate is preceded by the marker ay, as in Siya ay mabait. (He/She is kind.) However, this subject-predicate word order is mostly used in formal settings.",
+            "id": "Pada tingkat yang lebih mendasar, mengenai urutan kata tempat Tagalog menekankan pada predikat daripada subjek. Oleh karena itu, cara yang paling umum untuk membentuk kalimat adalah memprediksi / subjek daripada subjek / predikat. Sebagai contoh, Mabait siya diterjemahkan secara harfiah sebagai \"Jenis he / dia\". Kalimat ini juga dapat dinyatakan menggunakan perintah kata / predikat mana predikat diawali oleh ay penanda, seperti di Siya ay mabait. (He / She adalah baik.) Namun, perintah kata subject- predikat ini sebagian besar digunakan dalam pengaturan formal."
+          }
+        },
+        {
+          "type": "text",
+          "style": "body",
+          "text": {
+            "sourceLanguage": "en",
+            "sourceText": "Other distinctive features of the language are linkers and particles, such as the marker just mentioned, but the heart of the language is in the use of affixes. Affixes turn a stem or root word into a noun, an adjective, or a verb. Affixes used to form verbs in different time frames signal different types of focuses, such as actor, object, location, and direction, to name a few. A firm grasp of the various affixes will increase your vocabulary exponentially, throwing wide open the portal to learning the Tagalog language and Filipino way of perceiving the world.",
+            "id": "Fitur khas lainnya bahasa adalah linkers dan partikel, seperti penanda baru saja disebutkan, tetapi jantung bahasa adalah dalam penggunaan affiks. Affix digunakan untuk membentuk kata kerja dalam berbagai waktu sinyal frame yang berbeda berbagai fokus, seperti aktor, objek, lokasi, dan arah, untuk nama beberapa."
+          }
+        },
+        {
+          "type": "text",
+          "style": "body",
+          "text": {
+            "sourceLanguage": "en",
+            "sourceText": "In regard to pronunciation, the rule is “how you write the word is how you pronounce it.” So for example, baka (cow) is pronounced “ba-ka” (“bah-ka,” without the “h” sound). The “a” sound is similar to the “a” in ah. The two exceptions to this rule are the words ng (a direct object marker, which is not translated, or the possessive marker, which translates as “of”) and mga (the plural marker), the equivalent of s, -es, -ies, or the irregular form of plural nouns in English. Some examples of the use of mga are: mga baka (cows) and mga bata (children). Ng is pronounced “nang,” with the open “a” sound as in none combined with the final velar “ng” sound in sing. This sound also occurs in Tagalog is the initial velar ng, as in ngayon (now, today), which does not occur in English. Mga is the shortened form of manga (ma-nga) Both of the a’s are pronounced like “ah.” The first syllable is pronounced ma, like in mama, and the second syllable is pronounced like the sound of “ng” in sing plus “a.” The trick to pronouncing nga is to say “si” in sing silently and then voice the “ng” and add “a.”",
+            "id": "Dalam hal pengucapan, aturan adalah \"bagaimana Anda menulis kata adalah bagaimana Anda mengucapkannya\". Jadi misalnya, baka (sapi) diucapkan \"bakka\" (\"bahka\", tanpa \"h\" sound \"). Suara\" mirip dengan \"a\" dalam ah. Dua pengecualian dalam aturan ini adalah kata-kata ng (penanda obyek langsung, yang tidak diterjemahkan, atau penanda posesif, yang diterjemahkan sebagai \"dari\") dan mga (penanda plural), setara dengan s, -es, -ies, atau bentuk tidak teratur dari pualam dalam bahasa Inggris. Beberapa contoh penggunaan mga (sapi) dan mga baka (anak-anak). Ng diucapkan \"nang\", dengan terbuka \"a\" suara seperti dalam none dikombinasikan dengan akhir velar \"ng\" suara dalam bernyanyi. Suara ini juga terjadi di Tagalog adalah velar ng, seperti dalam ngayon (sekarang, hari ini), yang tidak terjadi dalam bahasa Inggris. Mga adalah bentuk terpendek dari manga (ma-nga) Kedua dari a 's diucapkan seperti \"ah\". suku suku kata pertama diucapkan ma, seperti pada mama, dan suku kata kedua diucapkan seperti suara \"ng\" dalam bernyanyi ditambah \"a\". Trik untuk mengucapkan nga adalah untuk mengatakan \"si\" dalam bernyanyi diam-diam dan kemudian suara \"ng\" dan menambahkan \"a\"."
+          }
+        },
+        {
+          "type": "text",
+          "style": "body",
+          "text": {
+            "sourceLanguage": "en",
+            "sourceText": "There are four major stresses in Tagalog. With malumay (gentle), the stress is on the second-to-last syllable; malumi (grave) is a combination of the malumay plus a glottal stop; with mabilis (fast), the stress is on the last syllable; and maragsa (marked with a circumflex accent in old Tagalog books) is a combination of mabilis and a glottal catch on the vowel sound. Hence, both malumi and maragsa words only end in vowels, never on a consonant. There is also a fifth stress called mariin (emphatic, or having an acute accent on the last syllable or an oxytone), which may be a combination of two of the four major stresses previously mentioned. Learning how to pronounce the words is crucial, since there are quite a number of Tagalog words that have the same spelling but different meanings when pronounced with a different stress, as for example in basa (malumay stress) “read” and basâ (maragsa stress) “wet.” In the past, written language utilized accent marks, but now the stress marks are no longer used. You will have to rely on the Bonus Material of the book for the correct pronunciation of the words used in the exercises.",
+            "id": "Ada empat besar tekanan di Tagalog. Dengan malumay (lembut), stres adalah pada suku kata kedua-terakhir; malumi (kuburan) adalah kombinasi dari malumay plus stop glottal; dengan mabilis (cepat), stres adalah pada suku kata terakhir; dan maragsa (ditandai dengan aksen keliling dalam buku Tagalog tua) adalah kombinasi dari mabil dan menangkap glottal pada suara vowel. Oleh karena itu, baik malumi dan maragsa kata hanya berakhir pada huruf vokal, tidak pernah pada konsonan. ada juga stres kelima disebut mariin (penekanan, atau memiliki aksen akut pada suku kata terakhir atau oxtone), yang mungkin merupakan kombinasi dari dua dari empat tekanan utama sebelumnya disebutkan. Mempelajari bagaimana mengucapkan kata-kata sangat penting, karena ada cukup sejumlah kata Tagalog yang memiliki ejaan yang sama tetapi makna yang berbeda ketika diucapkan dengan stres yang berbeda, sebagai contoh dalam Basa (malumay stres) \"membaca\" dan basa \". Di masa lalu, bahasa tertulis digunakan tanda aksen, tapi sekarang tanda stres tidak lagi Anda harus bergantung pada Material Bonus buku untuk pengucapan yang benar dari kata-kata yang digunakan dalam latihan."
+          }
+        }
+      ]
+    },
+    {
+      "id": "unit-01-greetings-mga-pagbati",
+      "type": "OVERVIEW",
+      "title": {
+        "sourceLanguage": "mixed",
+        "sourceText": "Mga Pagbati",
+        "id": "Sapaan"
+      },
+      "blocks": [
+        {
+          "type": "text",
+          "style": "body",
+          "text": {
+            "sourceLanguage": "mixed",
+            "sourceText": "Mga Pagbati\n\nGreetings",
+            "id": "Mga Pagbati Salam"
+          }
+        },
+        {
+          "type": "text",
+          "style": "body",
+          "text": {
+            "sourceLanguage": "en",
+            "sourceText": "An Overview of Mga Pagbati Greetings",
+            "id": "Sambutan dari Mga Pagbati Salam"
+          }
+        },
+        {
+          "type": "text",
+          "style": "body",
+          "text": {
+            "sourceLanguage": "mixed",
+            "sourceText": "Objectives",
+            "id": "Objeksi"
+          }
+        },
+        {
+          "type": "text",
+          "style": "body",
+          "text": {
+            "sourceLanguage": "en",
+            "sourceText": "• Express greetings and good-byes",
+            "id": "Salam dari Express dan selamat tinggal."
+          }
+        },
+        {
+          "type": "text",
+          "style": "body",
+          "text": {
+            "sourceLanguage": "en",
+            "sourceText": "• Express politeness using the appropriate terms in Filipino social etiquette",
+            "id": "Kesopanan Express menggunakan istilah yang sesuai dalam etiket sosial Filipina"
+          }
+        },
+        {
+          "type": "text",
+          "style": "body",
+          "text": {
+            "sourceLanguage": "mixed",
+            "sourceText": "Vocabulary",
+            "id": "Kosakata"
+          }
+        },
+        {
+          "type": "text",
+          "style": "body",
+          "text": {
+            "sourceLanguage": "mixed",
+            "sourceText": "• Common Greetings and Expressions",
+            "id": "Common Salam dan Ekspresinya"
+          }
+        },
+        {
+          "type": "text",
+          "style": "body",
+          "text": {
+            "sourceLanguage": "fil",
+            "sourceText": "Dialogue: Magandang Umaga Po! Good Morning, Sir/Madam!",
+            "id": "Dialog:Selamat pagi Po!",
+            "tagalog": "Dialogue: Magandang Umaga Po! Good Morning, Sir/Madam!"
+          }
+        },
+        {
+          "type": "text",
+          "style": "body",
+          "text": {
+            "sourceLanguage": "mixed",
+            "sourceText": "Dialogue Comprehension",
+            "id": "Pemahaman Dialog"
+          }
+        },
+        {
+          "type": "text",
+          "style": "body",
+          "text": {
+            "sourceLanguage": "mixed",
+            "sourceText": "Activities",
+            "id": "Aktivitas"
+          }
+        },
+        {
+          "type": "text",
+          "style": "body",
+          "text": {
+            "sourceLanguage": "mixed",
+            "sourceText": "Activity 1: Greetings",
+            "id": "Salam."
+          }
+        },
+        {
+          "type": "text",
+          "style": "body",
+          "text": {
+            "sourceLanguage": "mixed",
+            "sourceText": "Activity 2: Role-Play",
+            "id": "Aktivitas 2: Role-Play"
+          }
+        },
+        {
+          "type": "text",
+          "style": "body",
+          "text": {
+            "sourceLanguage": "en",
+            "sourceText": "Activity 3: Fill in the Blanks",
+            "id": "Activity 3: Fill in the Blacks"
+          }
+        },
+        {
+          "type": "text",
+          "style": "body",
+          "text": {
+            "sourceLanguage": "mixed",
+            "sourceText": "Vocabulary (00–1)",
+            "id": "Kosakata (00–1)"
+          }
+        },
+        {
+          "type": "image",
+          "path": "assets/gcd.jpg"
+        },
+        {
+          "type": "text",
+          "style": "body",
+          "text": {
+            "sourceLanguage": "en",
+            "sourceText": "The following are common expressions for greeting someone and saying good-bye.",
+            "id": "Berikut ini adalah ekspresi umum untuk menyapa seseorang dan mengucapkan selamat tinggal."
+          }
+        },
+        {
+          "type": "table",
+          "rows": [
+            {
+              "cells": [
+                {
+                  "sourceLanguage": "mixed",
+                  "sourceText": "Expressions",
+                  "id": "Ekstensi"
+                }
+              ]
+            },
+            {
+              "cells": [
+                {
+                  "sourceLanguage": "fil",
+                  "sourceText": "Magandang umaga (ho/po).",
+                  "id": "Pagi.",
+                  "tagalog": "Magandang umaga (ho/po)."
+                },
+                {
+                  "sourceLanguage": "mixed",
+                  "sourceText": "Good morning (sir/madam).",
+                  "id": "Selamat pagi."
+                }
+              ]
+            },
+            {
+              "cells": [
+                {
+                  "sourceLanguage": "fil",
+                  "sourceText": "Magandang umaga din naman (ho/po).",
+                  "id": "Selamat pagi (ho / po).",
+                  "tagalog": "Magandang umaga din naman (ho/po)."
+                },
+                {
+                  "sourceLanguage": "en",
+                  "sourceText": "Good morning to you too (sir/madam).",
+                  "id": "Selamat pagi untuk Anda juga (Sir / Madam)."
+                }
+              ]
+            },
+            {
+              "cells": [
+                {
+                  "sourceLanguage": "fil",
+                  "sourceText": "Magandang tanghali (po/ho).",
+                  "id": "Selamat siang.",
+                  "tagalog": "Magandang tanghali (po/ho)."
+                },
+                {
+                  "sourceLanguage": "mixed",
+                  "sourceText": "Good noon (sir/madam).",
+                  "id": "Selamat siang (Sir / Madam)."
+                }
+              ]
+            },
+            {
+              "cells": [
+                {
+                  "sourceLanguage": "fil",
+                  "sourceText": "Magandang tanghali din naman (po/ho).",
+                  "id": "Selamat siang (po / ho) juga.",
+                  "tagalog": "Magandang tanghali din naman (po/ho)."
+                },
+                {
+                  "sourceLanguage": "en",
+                  "sourceText": "Good noon to you too (sir/madam).",
+                  "id": "Selamat siang untuk Anda juga (Sir / Madam)."
+                }
+              ]
+            },
+            {
+              "cells": [
+                {
+                  "sourceLanguage": "fil",
+                  "sourceText": "Magandang hapon, Marco.",
+                  "id": "Selamat siang, Marco.",
+                  "tagalog": "Magandang hapon, Marco."
+                },
+                {
+                  "sourceLanguage": "mixed",
+                  "sourceText": "Good afternoon, Marco.",
+                  "id": "Selamat siang, Marco."
+                }
+              ]
+            },
+            {
+              "cells": [
+                {
+                  "sourceLanguage": "fil",
+                  "sourceText": "Magandang hapon din naman, Karla.",
+                  "id": "Selamat siang, Karla.",
+                  "tagalog": "Magandang hapon din naman, Karla."
+                },
+                {
+                  "sourceLanguage": "en",
+                  "sourceText": "Good afternoon to you too, Karla.",
+                  "id": "Selamat siang juga, Karla."
+                }
+              ]
+            },
+            {
+              "cells": [
+                {
+                  "sourceLanguage": "fil",
+                  "sourceText": "Magandang gabi, Mike.",
+                  "id": "Selamat malam, Mike.",
+                  "tagalog": "Magandang gabi, Mike."
+                },
+                {
+                  "sourceLanguage": "mixed",
+                  "sourceText": "Good evening, Mike.",
+                  "id": "Selamat malam, Mike."
+                }
+              ]
+            },
+            {
+              "cells": [
+                {
+                  "sourceLanguage": "fil",
+                  "sourceText": "Magandang gabi din naman, Patrick.",
+                  "id": "Selamat malam, Patrick.",
+                  "tagalog": "Magandang gabi din naman, Patrick."
+                },
+                {
+                  "sourceLanguage": "en",
+                  "sourceText": "Good evening to you too, Patrick.",
+                  "id": "Selamat malam juga, Patrick."
+                }
+              ]
+            },
+            {
+              "cells": [
+                {
+                  "sourceLanguage": "fil",
+                  "sourceText": "Kumusta ka? (informal)",
+                  "id": "Bagaimana kabarmu?",
+                  "tagalog": "Kumusta ka? (informal)"
+                },
+                {
+                  "sourceLanguage": "en",
+                  "sourceText": "How are you?",
+                  "id": "Bagaimana kabarmu?"
+                }
+              ]
+            },
+            {
+              "cells": [
+                {
+                  "sourceLanguage": "fil",
+                  "sourceText": "Kumusta (po/ho) kayo? (formal)",
+                  "id": "Bagaimana kabarmu?",
+                  "tagalog": "Kumusta (po/ho) kayo? (formal)"
+                },
+                {
+                  "sourceLanguage": "en",
+                  "sourceText": "How are you (sir/madam)?",
+                  "id": "Apa kabar, Tuan / Nyonya?"
+                }
+              ]
+            },
+            {
+              "cells": [
+                {
+                  "sourceLanguage": "fil",
+                  "sourceText": "Ayos lang./Okey lang.",
+                  "id": "Bagus. / Oke.",
+                  "tagalog": "Ayos lang./Okey lang."
+                },
+                {
+                  "sourceLanguage": "mixed",
+                  "sourceText": "Fine.",
+                  "id": "Baik."
+                }
+              ]
+            },
+            {
+              "cells": [
+                {
+                  "sourceLanguage": "fil",
+                  "sourceText": "Kumusta na?",
+                  "id": "Bagaimana bisa?",
+                  "tagalog": "Kumusta na?"
+                },
+                {
+                  "sourceLanguage": "mixed",
+                  "sourceText": "How’s it going?",
+                  "id": "Bagaimana kabarmu?"
+                }
+              ]
+            },
+            {
+              "cells": [
+                {
+                  "sourceLanguage": "fil",
+                  "sourceText": "Heto buhay pa.",
+                  "id": "Di sini masih ada kehidupan.",
+                  "tagalog": "Heto buhay pa."
+                },
+                {
+                  "sourceLanguage": "mixed",
+                  "sourceText": "Here, still alive.",
+                  "id": "Di sini, masih hidup."
+                }
+              ]
+            },
+            {
+              "cells": [
+                {
+                  "sourceLanguage": "fil",
+                  "sourceText": "Kumusta ang trabaho mo?",
+                  "id": "Bagaimana dengan pekerjaanmu?",
+                  "tagalog": "Kumusta ang trabaho mo?"
+                },
+                {
+                  "sourceLanguage": "en",
+                  "sourceText": "How is your work?",
+                  "id": "Bagaimana pekerjaanmu?"
+                }
+              ]
+            },
+            {
+              "cells": [
+                {
+                  "sourceLanguage": "fil",
+                  "sourceText": "Mabuti naman.",
+                  "id": "Bahagia.",
+                  "tagalog": "Mabuti naman."
+                },
+                {
+                  "sourceLanguage": "mixed",
+                  "sourceText": "Good.",
+                  "id": "Bagus."
+                }
+              ]
+            },
+            {
+              "cells": [
+                {
+                  "sourceLanguage": "fil",
+                  "sourceText": "Kumusta ang mga klase mo?",
+                  "id": "Bagaimana dengan kelasmu?",
+                  "tagalog": "Kumusta ang mga klase mo?"
+                },
+                {
+                  "sourceLanguage": "en",
+                  "sourceText": "How are your classes?",
+                  "id": "Bagaimana kelasmu?"
+                }
+              ]
+            },
+            {
+              "cells": [
+                {
+                  "sourceLanguage": "fil",
+                  "sourceText": "Ayos na ayos/Okey na okey.",
+                  "id": "Tidak apa-apa. / Oke, tak apa-apa.",
+                  "tagalog": "Ayos na ayos/Okey na okey."
+                },
+                {
+                  "sourceLanguage": "mixed",
+                  "sourceText": "Great!",
+                  "id": "Bagus!"
+                }
+              ]
+            },
+            {
+              "cells": [
+                {
+                  "sourceLanguage": "fil",
+                  "sourceText": "Ano na?",
+                  "id": "Lalu apa?",
+                  "tagalog": "Ano na?"
+                },
+                {
+                  "sourceLanguage": "mixed",
+                  "sourceText": "What’s up?",
+                  "id": "Ada apa?"
+                }
+              ]
+            },
+            {
+              "cells": [
+                {
+                  "sourceLanguage": "fil",
+                  "sourceText": "Wala naman./Walang bago.",
+                  "id": "Tidak. / Tidak ada yang baru.",
+                  "tagalog": "Wala naman./Walang bago."
+                },
+                {
+                  "sourceLanguage": "mixed",
+                  "sourceText": "Nothing much./Nothing new.",
+                  "id": "Tidak banyak. / Tidak ada yang baru."
+                }
+              ]
+            },
+            {
+              "cells": [
+                {
+                  "sourceLanguage": "fil",
+                  "sourceText": "Ano’ng bago?",
+                  "id": "Tempat baru apa?",
+                  "tagalog": "Ano’ng bago?"
+                },
+                {
+                  "sourceLanguage": "mixed",
+                  "sourceText": "What’s new?",
+                  "id": "Apa yang baru?"
+                }
+              ]
+            },
+            {
+              "cells": [
+                {
+                  "sourceLanguage": "fil",
+                  "sourceText": "Gaya pa rin nang dati.",
+                  "id": "Sama saja.",
+                  "tagalog": "Gaya pa rin nang dati."
+                },
+                {
+                  "sourceLanguage": "en",
+                  "sourceText": "Still the same.",
+                  "id": "Masih sama."
+                }
+              ]
+            },
+            {
+              "cells": [
+                {
+                  "sourceLanguage": "fil",
+                  "sourceText": "O sige (po/ho).",
+                  "id": "Baiklah.",
+                  "tagalog": "O sige (po/ho)."
+                },
+                {
+                  "sourceLanguage": "en",
+                  "sourceText": "All right, see you later (sir/madam)./Good-bye.",
+                  "id": "Baiklah, sampai nanti (pak / nyonya). / Selamat tinggal."
+                }
+              ]
+            },
+            {
+              "cells": [
+                {
+                  "sourceLanguage": "fil",
+                  "sourceText": "O sige (po/ho). Ingat ka!",
+                  "id": "Baiklah.",
+                  "tagalog": "O sige (po/ho). Ingat ka!"
+                },
+                {
+                  "sourceLanguage": "en",
+                  "sourceText": "All right, see you later (sir/madam). Take care!",
+                  "id": "Baiklah, sampai nanti (pak / nyonya). Hati-hati!"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "image",
+          "path": "assets/21.jpg"
+        },
+        {
+          "type": "text",
+          "style": "body",
+          "text": {
+            "sourceLanguage": "fil",
+            "sourceText": "Dialogue: Magandang Umaga Po! Good Morning!",
+            "id": "Dialog:Selamat pagi Po!",
+            "tagalog": "Dialogue: Magandang Umaga Po! Good Morning!"
+          }
+        },
+        {
+          "type": "text",
+          "style": "body",
+          "text": {
+            "sourceLanguage": "en",
+            "sourceText": "Read the dialogues and complete the Dialogue Comprehension activity that follows.",
+            "id": "Baca dialog dan selesaikan Aktivitas Komprehensi Dialog yang selanjutnya."
+          }
+        },
+        {
+          "type": "text",
+          "style": "body",
+          "text": {
+            "sourceLanguage": "en",
+            "sourceText": "1. Patrick meets his teacher, Mr. Santos. It is morning.",
+            "id": "Patrick bertemu gurunya, Pak Santos."
+          }
+        },
+        {
+          "type": "table",
+          "rows": [
+            {
+              "cells": [
+                {
+                  "sourceLanguage": "mixed",
+                  "sourceText": "Patrick:",
+                  "id": "Patrick:"
+                },
+                {
+                  "sourceLanguage": "fil",
+                  "sourceText": "Magandang umaga po, Sir Santos.",
+                  "id": "Selamat pagi, Tuan Santos.",
+                  "tagalog": "Magandang umaga po, Sir Santos."
+                }
+              ]
+            },
+            {
+              "cells": [
+                {
+                  "sourceLanguage": "mixed",
+                  "sourceText": "Ginoong Santos:",
+                  "id": "Ginoong Santos:"
+                },
+                {
+                  "sourceLanguage": "fil",
+                  "sourceText": "Magandang umaga rin naman. Kumusta ka?",
+                  "id": "Bagaimana denganmu?",
+                  "tagalog": "Magandang umaga rin naman. Kumusta ka?"
+                }
+              ]
+            },
+            {
+              "cells": [
+                {
+                  "sourceLanguage": "mixed",
+                  "sourceText": "Patrick:",
+                  "id": "Patrick:"
+                },
+                {
+                  "sourceLanguage": "fil",
+                  "sourceText": "Mabuti naman po. Kumusta po kayo?",
+                  "id": "Bagaimana denganmu?",
+                  "tagalog": "Mabuti naman po. Kumusta po kayo?"
+                }
+              ]
+            },
+            {
+              "cells": [
+                {
+                  "sourceLanguage": "mixed",
+                  "sourceText": "Ginoong Santos:",
+                  "id": "Ginoong Santos:"
+                },
+                {
+                  "sourceLanguage": "fil",
+                  "sourceText": "Ayos naman. Kumusta ang mga klase mo?",
+                  "id": "Bagaimana dengan kelasmu?",
+                  "tagalog": "Ayos naman. Kumusta ang mga klase mo?"
+                }
+              ]
+            },
+            {
+              "cells": [
+                {
+                  "sourceLanguage": "mixed",
+                  "sourceText": "Patrick:",
+                  "id": "Patrick:"
+                },
+                {
+                  "sourceLanguage": "fil",
+                  "sourceText": "Ayos naman po.",
+                  "id": "Tidak apa-apa.",
+                  "tagalog": "Ayos naman po."
+                }
+              ]
+            },
+            {
+              "cells": [
+                {
+                  "sourceLanguage": "mixed",
+                  "sourceText": "Ginoong Santos:",
+                  "id": "Ginoong Santos:"
+                },
+                {
+                  "sourceLanguage": "fil",
+                  "sourceText": "O sige.",
+                  "id": "Baiklah.",
+                  "tagalog": "O sige."
+                }
+              ]
+            },
+            {
+              "cells": [
+                {
+                  "sourceLanguage": "mixed",
+                  "sourceText": "Patrick:",
+                  "id": "Patrick:"
+                },
+                {
+                  "sourceLanguage": "fil",
+                  "sourceText": "O sige po. Ingat po kayo.",
+                  "id": "Oke, maafkan aku.",
+                  "tagalog": "O sige po. Ingat po kayo."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "style": "body",
+          "text": {
+            "sourceLanguage": "en",
+            "sourceText": "Note: When one is talking to an elderly person or someone who holds a high position, po or ho must be used. These words are comparable to sir and madam in English. When speaking to elderly person, the person must also be addressed by his or her title, such as lolo/lola (grandfather/grandmother), aling/mang (miss/mister), kuya/ate (big brother/big sister), etc. On the other hand, po or ho and terms of address are not necessary when talking with friends or someone close to your age.",
+            "id": "Catatan: Ketika seseorang berbicara dengan orang tua atau seseorang yang memegang posisi tinggi, po atau ho harus digunakan kata-kata ini sebanding dengan Sir dan Madam dalam bahasa Inggris. Ketika berbicara dengan orang tua, orang juga harus dialamatkan oleh nya atau judul, seperti lolo / lola (kakek / nenek), memanggil / mang (miss / mister), kuya / ate (big brother / big sister), dll. Di sisi lain, po atau ho dan alamat tidak diperlukan ketika berbicara dengan teman atau seseorang dekat usia Anda."
+          }
+        },
+        {
+          "type": "image",
+          "path": "assets/22.jpg"
+        },
+        {
+          "type": "text",
+          "style": "body",
+          "text": {
+            "sourceLanguage": "en",
+            "sourceText": "2. Sandra meets her friend, Katherine. It is evening.",
+            "id": "Sandra bertemu temannya, Katherine."
+          }
+        },
+        {
+          "type": "table",
+          "rows": [
+            {
+              "cells": [
+                {
+                  "sourceLanguage": "mixed",
+                  "sourceText": "Sandra:",
+                  "id": "Sandra:"
+                },
+                {
+                  "sourceLanguage": "fil",
+                  "sourceText": "Magandang gabi, Katherine!",
+                  "id": "Selamat malam, Katherine!",
+                  "tagalog": "Magandang gabi, Katherine!"
+                }
+              ]
+            },
+            {
+              "cells": [
+                {
+                  "sourceLanguage": "mixed",
+                  "sourceText": "Katherine:",
+                  "id": "Katherine:"
+                },
+                {
+                  "sourceLanguage": "fil",
+                  "sourceText": "Magandang gabi rin naman. Kumusta na?",
+                  "id": "Bagaimana dengan malam yang baik?",
+                  "tagalog": "Magandang gabi rin naman. Kumusta na?"
+                }
+              ]
+            },
+            {
+              "cells": [
+                {
+                  "sourceLanguage": "mixed",
+                  "sourceText": "Sandra:",
+                  "id": "Sandra:"
+                },
+                {
+                  "sourceLanguage": "fil",
+                  "sourceText": "Ayos naman. Kumusta ang trabaho mo?",
+                  "id": "Bagaimana dengan pekerjaanmu?",
+                  "tagalog": "Ayos naman. Kumusta ang trabaho mo?"
+                }
+              ]
+            },
+            {
+              "cells": [
+                {
+                  "sourceLanguage": "mixed",
+                  "sourceText": "Katherine:",
+                  "id": "Katherine:"
+                },
+                {
+                  "sourceLanguage": "fil",
+                  "sourceText": "Okey lang!",
+                  "id": "Tidak apa-apa!",
+                  "tagalog": "Okey lang!"
+                }
+              ]
+            },
+            {
+              "cells": [
+                {
+                  "sourceLanguage": "mixed",
+                  "sourceText": "Sandra:",
+                  "id": "Sandra:"
+                },
+                {
+                  "sourceLanguage": "fil",
+                  "sourceText": "O sige!",
+                  "id": "Baiklah!",
+                  "tagalog": "O sige!"
+                }
+              ]
+            },
+            {
+              "cells": [
+                {
+                  "sourceLanguage": "mixed",
+                  "sourceText": "Katherine:",
+                  "id": "Katherine:"
+                },
+                {
+                  "sourceLanguage": "fil",
+                  "sourceText": "O sige! Ingat ka!",
+                  "id": "Oke, hati-hati!",
+                  "tagalog": "O sige! Ingat ka!"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "style": "body",
+          "text": {
+            "sourceLanguage": "mixed",
+            "sourceText": "Dialogue Comprehension",
+            "id": "Pemahaman Dialog"
+          }
+        },
+        {
+          "type": "text",
+          "style": "body",
+          "text": {
+            "sourceLanguage": "en",
+            "sourceText": "Now that you have read the dialogue, place a check mark in the appropriate blank opposite the statement, depending on whether the statement is true, Tama, or false, Mali.",
+            "id": "Sekarang Anda telah membaca dialognya, letakkan tanda centang pada pernyataan berlawanan yang tepat, tergantung apakah pernyataan itu benar, Tama, atau salah, Mali."
+          }
+        },
+        {
+          "type": "table",
+          "rows": [
+            {
+              "cells": [
+                {
+                  "sourceLanguage": "mixed",
+                  "sourceText": "TAMA",
+                  "id": "TAMA"
+                },
+                {
+                  "sourceLanguage": "mixed",
+                  "sourceText": "MALI",
+                  "id": "MALI"
+                }
+              ]
+            },
+            {
+              "cells": [
+                {
+                  "sourceLanguage": "mixed",
+                  "sourceText": "1. Patrick greeted Mr. Santos with “Good afternoon.”",
+                  "id": "Patrick menyambut Tuan Santos dengan \"Selamat siang\"."
+                },
+                {
+                  "sourceLanguage": "mixed",
+                  "sourceText": "_______",
+                  "id": "_______"
+                },
+                {
+                  "sourceLanguage": "mixed",
+                  "sourceText": "_______",
+                  "id": "_______"
+                }
+              ]
+            },
+            {
+              "cells": [
+                {
+                  "sourceLanguage": "mixed",
+                  "sourceText": "2. Patrick is doing great.",
+                  "id": "Patrick melakukannya dengan baik."
+                },
+                {
+                  "sourceLanguage": "mixed",
+                  "sourceText": "_______",
+                  "id": "_______"
+                },
+                {
+                  "sourceLanguage": "mixed",
+                  "sourceText": "_______",
+                  "id": "_______"
+                }
+              ]
+            },
+            {
+              "cells": [
+                {
+                  "sourceLanguage": "en",
+                  "sourceText": "3. Patrick’s classes are all good.",
+                  "id": "Kelas Patrick semuanya bagus."
+                },
+                {
+                  "sourceLanguage": "mixed",
+                  "sourceText": "_______",
+                  "id": "_______"
+                },
+                {
+                  "sourceLanguage": "mixed",
+                  "sourceText": "_______",
+                  "id": "_______"
+                }
+              ]
+            },
+            {
+              "cells": [
+                {
+                  "sourceLanguage": "en",
+                  "sourceText": "4. Sandra is not doing okay.",
+                  "id": "Sandra tidak baik-baik saja."
+                },
+                {
+                  "sourceLanguage": "mixed",
+                  "sourceText": "_______",
+                  "id": "_______"
+                },
+                {
+                  "sourceLanguage": "mixed",
+                  "sourceText": "_______",
+                  "id": "_______"
+                }
+              ]
+            },
+            {
+              "cells": [
+                {
+                  "sourceLanguage": "mixed",
+                  "sourceText": "5. Katherine’s work is good.",
+                  "id": "lima pekerjaan Katherine bagus."
+                },
+                {
+                  "sourceLanguage": "mixed",
+                  "sourceText": "_______",
+                  "id": "_______"
+                },
+                {
+                  "sourceLanguage": "mixed",
+                  "sourceText": "_______",
+                  "id": "_______"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "style": "body",
+          "text": {
+            "sourceLanguage": "mixed",
+            "sourceText": "Activities",
+            "id": "Aktivitas"
+          }
+        },
+        {
+          "type": "text",
+          "style": "body",
+          "text": {
+            "sourceLanguage": "mixed",
+            "sourceText": "Activity 1",
+            "id": "Aktivitas 1"
+          }
+        },
+        {
+          "type": "text",
+          "style": "body",
+          "text": {
+            "sourceLanguage": "en",
+            "sourceText": "Choose the appropriate expression or expressions to greet the following people. Put a check mark in the blank if the greeting is appropriate and an X if it is inappropriate.",
+            "id": "Pilih ekspresi atau ekspresi yang sesuai untuk menyambut orang-orang berikut. Masukan tanda cek pada kosong jika ucapan yang sesuai dan X jika tidak sesuai."
+          }
+        },
+        {
+          "type": "table",
+          "rows": [
+            {
+              "cells": [
+                {
+                  "sourceLanguage": "mixed",
+                  "sourceText": "1.",
+                  "id": "1."
+                },
+                {
+                  "sourceLanguage": "mixed",
+                  "sourceText": "Your Tagalog teacher, Professor Maria Manalo",
+                  "id": "Guru Tagalog-mu, Profesor Maria Manalo"
+                }
+              ]
+            },
+            {
+              "cells": [
+                {
+                  "sourceLanguage": "fil",
+                  "sourceText": "_______ 1. Magandang umaga po, Maria!",
+                  "id": "..,....,..",
+                  "tagalog": "_______ 1. Magandang umaga po, Maria!"
+                }
+              ]
+            },
+            {
+              "cells": [
+                {
+                  "sourceLanguage": "fil",
+                  "sourceText": "_______ 2. Kumusta na po, Manalo?",
+                  "id": ".....",
+                  "tagalog": "_______ 2. Kumusta na po, Manalo?"
+                }
+              ]
+            },
+            {
+              "cells": [
+                {
+                  "sourceLanguage": "fil",
+                  "sourceText": "_______ 3. Magandang umaga po, Prop. Manalo.",
+                  "id": "Selamat pagi, Prop Manalo.",
+                  "tagalog": "_______ 3. Magandang umaga po, Prop. Manalo."
+                }
+              ]
+            },
+            {
+              "cells": [
+                {
+                  "sourceLanguage": "mixed",
+                  "sourceText": "2.",
+                  "id": "2."
+                },
+                {
+                  "sourceLanguage": "mixed",
+                  "sourceText": "Your friend, Katherine Cruz",
+                  "id": "Temanmu, Katherine Cruz"
+                }
+              ]
+            },
+            {
+              "cells": [
+                {
+                  "sourceLanguage": "fil",
+                  "sourceText": "_______ 1. Katherine, kumusta ka na?",
+                  "id": "Bagaimana denganmu?",
+                  "tagalog": "_______ 1. Katherine, kumusta ka na?"
+                }
+              ]
+            },
+            {
+              "cells": [
+                {
+                  "sourceLanguage": "fil",
+                  "sourceText": "_______ 2. Katherine, ano na po’ng bago?",
+                  "id": "Katherine, tempat baru apa itu?",
+                  "tagalog": "_______ 2. Katherine, ano na po’ng bago?"
+                }
+              ]
+            },
+            {
+              "cells": [
+                {
+                  "sourceLanguage": "fil",
+                  "sourceText": "_______ 3. Magandang umaga po, Katherine.",
+                  "id": "Selamat pagi, Katherine.",
+                  "tagalog": "_______ 3. Magandang umaga po, Katherine."
+                }
+              ]
+            },
+            {
+              "cells": [
+                {
+                  "sourceLanguage": "mixed",
+                  "sourceText": "3.",
+                  "id": "3."
+                },
+                {
+                  "sourceLanguage": "mixed",
+                  "sourceText": "Your grandfather, Lolo Bert",
+                  "id": "Kakekmu, Lolo Bert."
+                }
+              ]
+            },
+            {
+              "cells": [
+                {
+                  "sourceLanguage": "fil",
+                  "sourceText": "_______ 1. Magandang hapon po, Lolo.",
+                  "id": "Selamat siang, Kakek.",
+                  "tagalog": "_______ 1. Magandang hapon po, Lolo."
+                }
+              ]
+            },
+            {
+              "cells": [
+                {
+                  "sourceLanguage": "fil",
+                  "sourceText": "_______ 2. Ano na, Lolo?",
+                  "id": "_........",
+                  "tagalog": "_______ 2. Ano na, Lolo?"
+                }
+              ]
+            },
+            {
+              "cells": [
+                {
+                  "sourceLanguage": "fil",
+                  "sourceText": "_______ 3. Kumusta po kayo?",
+                  "id": "Bagaimana denganmu?",
+                  "tagalog": "_______ 3. Kumusta po kayo?"
+                }
+              ]
+            },
+            {
+              "cells": [
+                {
+                  "sourceLanguage": "mixed",
+                  "sourceText": "4.",
+                  "id": "4."
+                },
+                {
+                  "sourceLanguage": "mixed",
+                  "sourceText": "An elderly stranger",
+                  "id": "Orang asing tua"
+                }
+              ]
+            },
+            {
+              "cells": [
+                {
+                  "sourceLanguage": "fil",
+                  "sourceText": "_______ 1. Magandang umaga.",
+                  "id": ".....",
+                  "tagalog": "_______ 1. Magandang umaga."
+                }
+              ]
+            },
+            {
+              "cells": [
+                {
+                  "sourceLanguage": "fil",
+                  "sourceText": "_______ 2. Kumusta po kayo?",
+                  "id": ".....",
+                  "tagalog": "_______ 2. Kumusta po kayo?"
+                }
+              ]
+            },
+            {
+              "cells": [
+                {
+                  "sourceLanguage": "fil",
+                  "sourceText": "_______ 3. Kumusta na?",
+                  "id": "Tiga.",
+                  "tagalog": "_______ 3. Kumusta na?"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "style": "body",
+          "text": {
+            "sourceLanguage": "mixed",
+            "sourceText": "Activity 2",
+            "id": "Aktivitas 2"
+          }
+        },
+        {
+          "type": "text",
+          "style": "body",
+          "text": {
+            "sourceLanguage": "en",
+            "sourceText": "Work with a partner and act out the following scenarios. What would you say in these situations? Refer to the vocabulary at the beginning of the unit if you need to.",
+            "id": "Bekerja dengan pasangan dan bertindak keluar skenario berikut apa yang akan Anda katakan dalam situasi ini? refer ke kosakata pada awal unit jika Anda perlu."
+          }
+        },
+        {
+          "type": "text",
+          "style": "body",
+          "text": {
+            "sourceLanguage": "en",
+            "sourceText": "1. It is 10:00 a.m. You meet your classmate, Joseph. How do you greet him?",
+            "id": "Ini jam 10 pagi, kau bertemu teman sekelasmu, Joseph, bagaimana kau menyapanya?"
+          }
+        },
+        {
+          "type": "text",
+          "style": "body",
+          "text": {
+            "sourceLanguage": "mixed",
+            "sourceText": "______________________________________________________",
+            "id": "______________________________________________________"
+          }
+        },
+        {
+          "type": "text",
+          "style": "body",
+          "text": {
+            "sourceLanguage": "en",
+            "sourceText": "2. It is 12:00 p.m. You meet your friend’s mother, Edna. How do you greet her?",
+            "id": "2: 00 malam ini kau bertemu dengan ibu temanmu, Edna bagaimana kau menyapanya?"
+          }
+        },
+        {
+          "type": "text",
+          "style": "body",
+          "text": {
+            "sourceLanguage": "mixed",
+            "sourceText": "______________________________________________________",
+            "id": "______________________________________________________"
+          }
+        },
+        {
+          "type": "text",
+          "style": "body",
+          "text": {
+            "sourceLanguage": "en",
+            "sourceText": "3. It is 3:00 p.m. You meet your Tagalog professor, Mr. Cruz. How do you greet him?",
+            "id": "3: 00 malam ini kau bertemu profesor Tagalog mu, Tuan Cruz bagaimana kau menyapanya?"
+          }
+        },
+        {
+          "type": "text",
+          "style": "body",
+          "text": {
+            "sourceLanguage": "mixed",
+            "sourceText": "______________________________________________________",
+            "id": "______________________________________________________"
+          }
+        },
+        {
+          "type": "text",
+          "style": "body",
+          "text": {
+            "sourceLanguage": "en",
+            "sourceText": "4. It is 7:00 p.m. You meet your roommate, Martha. How do you greet her?",
+            "id": "4: 00 malam ini kau bertemu dengan teman sekamarmu, Martha bagaimana kau menyapanya?"
+          }
+        },
+        {
+          "type": "text",
+          "style": "body",
+          "text": {
+            "sourceLanguage": "mixed",
+            "sourceText": "______________________________________________________",
+            "id": "______________________________________________________"
+          }
+        },
+        {
+          "type": "text",
+          "style": "body",
+          "text": {
+            "sourceLanguage": "mixed",
+            "sourceText": "Activity 3",
+            "id": "Aktivitas 3"
+          }
+        },
+        {
+          "type": "text",
+          "style": "body",
+          "text": {
+            "sourceLanguage": "en",
+            "sourceText": "You run into Mr. Cruz, your old neighbor. Fill in the blanks with the appropriate response.",
+            "id": "Kau bertemu Tn. Cruz, tetangga lamamu, isi kekosongan dengan respon yang tepat."
+          }
+        },
+        {
+          "type": "image",
+          "path": "assets/24a.jpg"
+        },
+        {
+          "type": "table",
+          "rows": [
+            {
+              "cells": [
+                {
+                  "sourceLanguage": "mixed",
+                  "sourceText": "Marco:",
+                  "id": "Marco:"
+                },
+                {
+                  "sourceLanguage": "mixed",
+                  "sourceText": "______________________ (Good afternoon, Mr. Cruz.)",
+                  "id": "_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ ((Selamat siang, Tuan Cruz.)"
+                }
+              ]
+            },
+            {
+              "cells": [
+                {
+                  "sourceLanguage": "mixed",
+                  "sourceText": "Ginoong Cruz:",
+                  "id": "Ginoong Cruz:"
+                },
+                {
+                  "sourceLanguage": "en",
+                  "sourceText": "______________________ (Good afternoon to you, too. How are you?)",
+                  "id": "Apa kabar?"
+                }
+              ]
+            },
+            {
+              "cells": [
+                {
+                  "sourceLanguage": "mixed",
+                  "sourceText": "Marco:",
+                  "id": "Marco:"
+                },
+                {
+                  "sourceLanguage": "en",
+                  "sourceText": "______________________ (I’m great. How are you, sir?)",
+                  "id": "Bagaimana kabarmu, Pak?"
+                }
+              ]
+            },
+            {
+              "cells": [
+                {
+                  "sourceLanguage": "mixed",
+                  "sourceText": "Ginoong Cruz:",
+                  "id": "Ginoong Cruz:"
+                },
+                {
+                  "sourceLanguage": "en",
+                  "sourceText": "______________________ (I’m well. How are your parents?)",
+                  "id": "Bagaimana kabar orang tuamu?"
+                }
+              ]
+            },
+            {
+              "cells": [
+                {
+                  "sourceLanguage": "mixed",
+                  "sourceText": "Marco:",
+                  "id": "Marco:"
+                },
+                {
+                  "sourceLanguage": "mixed",
+                  "sourceText": "______________________ (Good, sir.)",
+                  "id": "_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _"
+                }
+              ]
+            },
+            {
+              "cells": [
+                {
+                  "sourceLanguage": "mixed",
+                  "sourceText": "Ginoong Cruz:",
+                  "id": "Ginoong Cruz:"
+                },
+                {
+                  "sourceLanguage": "mixed",
+                  "sourceText": "______________________ (All right, goodbye.)",
+                  "id": "_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _"
+                }
+              ]
+            },
+            {
+              "cells": [
+                {
+                  "sourceLanguage": "mixed",
+                  "sourceText": "Marco:",
+                  "id": "Marco:"
+                },
+                {
+                  "sourceLanguage": "mixed",
+                  "sourceText": "______________________ (All right, goodbye. Take care, sir.)",
+                  "id": "(Baiklah, sampai jumpa.)"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "unit-01-unit1-tungkol-sa-sarili",
+      "type": "CONTENT",
+      "title": {
+        "sourceLanguage": "fil",
+        "sourceText": "Tungkol sa Sarili",
+        "id": "Tentang Diri",
+        "tagalog": "Tungkol sa Sarili"
+      },
+      "blocks": [
+        {
+          "type": "text",
+          "style": "body",
+          "text": {
+            "sourceLanguage": "en",
+            "sourceText": "Culturally, in their personal behavior and social interactions, Filipinos tend to emphasize the collective as opposed to the individual. According to the late University of the Philippines professor Virgilio G. Enriquez, who is known as the father of Philippine psychology, kapwa, meaning “both” or “the self in the other,” is the core value among Filipinos. One cannot think of oneself without thinking about the other, and vice versa. This core value is manifested in a variety of ways. For example, a person will not cross or dispute with members of her or his barkada, or “peer group,” if it means burning bridges. This is also why many Filipinos are very family- and community-oriented. Other Filipino values stem from this concept of kapwa, for example pakikisama or pakikipagkapwa-tao (getting along with the group or treating another as a fellow human being) and bayanihan (collective spirit). Hence, the self is seeing yourself in your fellow-human being.",
+            "id": "Secara budaya, dalam perilaku dan interaksi sosial pribadi mereka, Filipinos cenderung menekankan kolektif sebagai lawan individu menurut akhir University of the Filipina professor Virgilio G. Enriquez, yang dikenal sebagai ayah psikologi Filipina, kapwa, yang berarti \"baik\" atau \"diri di sisi lain\", adalah nilai inti di antara Filipina. Orang tidak bisa berpikir tentang diri sendiri tanpa berpikir tentang yang lain, dan sebaliknya. nilai inti ini diwujudkan dalam berbagai cara. Nilai Filipino lainnya berasal dari konsep kapwa ini, sebagai contoh pakikisama atau pakakipagwa- tao (bergaul dengan kelompok atau memperlakukan orang lain sebagai sesama manusia) dan bayanihan (semangat kolektif). Oleh karena itu, diri melihat diri Anda dalam sesama-manusia."
+          }
+        },
+        {
+          "type": "image",
+          "path": "assets/25a.jpg"
+        },
+        {
+          "type": "text",
+          "style": "body",
+          "text": {
+            "sourceLanguage": "en",
+            "sourceText": "A group of Filipino friends playing basketball, a typical leisure activity in the Philippines.",
+            "id": "Sekelompok teman Filipina bermain basket, aktivitas luang khas di Filipina."
+          }
+        },
+        {
+          "type": "image",
+          "path": "assets/25b.jpg"
+        },
+        {
+          "type": "text",
+          "style": "body",
+          "text": {
+            "sourceLanguage": "en",
+            "sourceText": "A woman makes sure her mother’s needs are attended to, illustrating the concept of utang na loob.",
+            "id": "Seorang wanita memastikan kebutuhan ibunya diurus, menggambarkan konsep Utang na loob."
+          }
+        },
+        {
+          "type": "text",
+          "style": "body",
+          "text": {
+            "sourceLanguage": "en",
+            "sourceText": "Hiya, or “shame,” is another concept that is central to the Filipino identity. People will go to great lengths to avoid being shamed or having shame fall on their family, even if doing so is beyond their means financially. For example, if a person is planning to host a large party, such as a wedding, the guest list has to include almost everyone that the person knows, regardless of whether she or he can afford it, for fear of being shamed by others. To be known as having no shame, or walang hiya, will ruin your and your family’s reputation.",
+            "id": "Hiya, atau \"malu\" adalah konsep lain yang merupakan pusat dari identitas Filipina orang-orang akan berusaha keras untuk menghindari dipermalukan atau memiliki rasa malu jatuh pada keluarga mereka, bahkan jika demikian di luar sarana mereka secara finansial. Sebagai contoh, jika seseorang berencana untuk menjadi tuan rumah pesta besar, seperti pernikahan, daftar tamu harus mencakup hampir semua orang yang orang tahu, terlepas dari dia atau dia mampu, karena takut dipermalukan oleh orang lain."
+          }
+        },
+        {
+          "type": "text",
+          "style": "body",
+          "text": {
+            "sourceLanguage": "en",
+            "sourceText": "Humor is often used as a tool to strengthen kapwa, for example, to diffuse tension between arguing friends. Humor can also be self-deprecating or gently mocking. By transforming a mistake into a light moment, one can relieve the other person of the embarrassment of having to correct her- or himself and allow that person to take responsibility for the error in a way that saves face.",
+            "id": "Humor sering digunakan sebagai alat untuk memperkuat kapwa, misalnya, untuk menyebarkan ketegangan antara perdebatan teman. Humor juga dapat mencela diri sendiri atau mengejek dengan lembut. Dengan mengubah kesalahan menjadi saat cahaya, orang dapat meringankan orang lain malu harus memperbaiki dirinya - atau dirinya sendiri dan memungkinkan orang itu untuk bertanggung jawab atas kesalahan dengan cara yang menyelamatkan wajah."
+          }
+        },
+        {
+          "type": "text",
+          "style": "body",
+          "text": {
+            "sourceLanguage": "en",
+            "sourceText": "A Filipino system for keeping relationships and communal ties intact is known as utang na loob, literally “debt of one’s inner self” or “debt of gratitutde.” Utang na loob can be understood as reciprocity. Simply put, if someone has done a favor for you, in the context of Filipino culture, it is advisable to “repay” that person in a socially acceptable way. Failure to fulfill this moral debt subjects you to being labeled walang hiya (no shame) and thus ostracized from the collective.",
+            "id": "Sebuah sistem Filipina untuk menjaga hubungan dan ikatan komunal utuh dikenal sebagai Utang na loeb, benar-benar \"utang dari diri dalam diri seseorang\" atau \"utang paratitde\". Utang na loeb dapat dipahami sebagai timbal-balik. Kegagalan untuk memenuhi subjek utang moral ini Anda untuk dicap walang hiya (tidak malu) dan dengan demikian dikucilkan dari kolektif."
+          }
+        },
+        {
+          "type": "text",
+          "style": "body",
+          "text": {
+            "sourceLanguage": "en",
+            "sourceText": "Bahala na, literally translated as “leave it to God” or “come what may,” is another common value among Filipinos. Said to be derived from Bathala, the pre-Hispanic term for “Supreme Being,” bahala na is the recourse that remains when you are faced with a difficult challenge and have exhausted every solution, without success. You go forth, trusting that events will follow their natural course, essentially “leaving it in God’s hands.” However, Virgilio Enriquez interpreted bahala na as the Filipinos’ courage and owning up to the consequences of an action or situation in the face of uncertainty.",
+            "id": "Bahala na, diterjemahkan sebagai \"menyerahkannya kepada Tuhan\" atau \"datang apa yang mungkin\", adalah nilai lain dari filipinos. Dikatakan berasal dari Bathala, istilah sebelum Hispanik untuk \"Menjadi Agung\", atau \"datang apa yang mungkin\", adalah apa yang tersisa ketika Anda dihadapkan dengan tantangan sulit dan telah habis setiap solusi, tanpa keberhasilan. Anda pergi, percaya bahwa peristiwa akan mengikuti kursus alami mereka, pada dasarnya \"meninggalkan itu di tangan Tuhan\". Namun, Virgilio Enriquez ditafsirkan bahala na sebagai keberanian Filipina 'dan memiliki konsekuensi dari tindakan atau situasi dalam menghadapi ketidakpastian."
+          }
+        }
+      ]
+    }
+  ]
+}

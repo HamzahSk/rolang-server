@@ -1,0 +1,655 @@
+{
+  "schemaVersion": 1,
+  "source": {
+    "title": "Elementary Tagalog",
+    "authors": [
+      "Jiedson R. Domigpe",
+      "Nenita Pambid Domingo"
+    ],
+    "publisher": "Tuttle Publishing",
+    "isbn": "978-0-8048-4117-7",
+    "epubSha256": "54550082c1d33a1321505f727a13bab49cec65b347fe2f6fb385e86d5f751ba3"
+  },
+  "documents": [
+    {
+      "source": "OEBPS/Text/Lesson1.xhtml",
+      "sha256": "3ee2237f70afca76c9754fa1d7fe853b6f8301093198026ec7fadfa973b24265",
+      "normalizedSourceCharacters": 22209,
+      "extractedTextBlocks": 611,
+      "extractedTextCharacters": 19428,
+      "normalizedSourceWords": 3150,
+      "extractedSourceWords": 3151,
+      "sourceWordCoverage": 0.996825,
+      "imageReferences": [
+        "assets/gcd.jpg",
+        "assets/29.jpg",
+        "assets/31a.jpg",
+        "assets/39.jpg",
+        "assets/cd.jpg"
+      ]
+    },
+    {
+      "source": "OEBPS/Text/Lesson2.xhtml",
+      "sha256": "0a2cb9818ceb85b4d3dacf8cfa9e63dbd5520d595e8c29a020416d7f47e88c52",
+      "normalizedSourceCharacters": 34135,
+      "extractedTextBlocks": 801,
+      "extractedTextCharacters": 30774,
+      "normalizedSourceWords": 4894,
+      "extractedSourceWords": 4899,
+      "sourceWordCoverage": 0.999796,
+      "imageReferences": [
+        "assets/gcd.jpg",
+        "assets/43.jpg",
+        "assets/45.jpg",
+        "assets/46.jpg",
+        "assets/cd.jpg"
+      ]
+    },
+    {
+      "source": "OEBPS/Text/Lesson3.xhtml",
+      "sha256": "ad0ca518ed71389dbc26c9142bb8139096e03bb37a64e3c9d2c36a143fb20e80",
+      "normalizedSourceCharacters": 17031,
+      "extractedTextBlocks": 457,
+      "extractedTextCharacters": 15001,
+      "normalizedSourceWords": 2413,
+      "extractedSourceWords": 2419,
+      "sourceWordCoverage": 0.997099,
+      "imageReferences": [
+        "assets/gcd.jpg",
+        "assets/63.jpg",
+        "assets/70.jpg",
+        "assets/71.jpg",
+        "assets/cd.jpg"
+      ]
+    },
+    {
+      "source": "OEBPS/Text/Lesson4.xhtml",
+      "sha256": "3b4fa7da6d1ed1b3868ed8fb981492e9c5b0d2c408539299741bf8f942a0d3b9",
+      "normalizedSourceCharacters": 21887,
+      "extractedTextBlocks": 600,
+      "extractedTextCharacters": 19320,
+      "normalizedSourceWords": 3041,
+      "extractedSourceWords": 3029,
+      "sourceWordCoverage": 0.987175,
+      "imageReferences": [
+        "assets/gcd.jpg",
+        "assets/76.jpg",
+        "assets/77.jpg",
+        "assets/79.jpg",
+        "assets/79b.jpg",
+        "assets/86.jpg",
+        "assets/cd.jpg"
+      ]
+    },
+    {
+      "source": "OEBPS/Text/Lesson5.xhtml",
+      "sha256": "54b80e0e0c2d2f995f1ca0387fb0c2e45333f5646572b2dee43eda420ae0f6c8",
+      "normalizedSourceCharacters": 18486,
+      "extractedTextBlocks": 475,
+      "extractedTextCharacters": 16396,
+      "normalizedSourceWords": 2613,
+      "extractedSourceWords": 2606,
+      "sourceWordCoverage": 0.990815,
+      "imageReferences": [
+        "assets/gcd.jpg",
+        "assets/91.jpg",
+        "assets/91b.jpg",
+        "assets/98.jpg",
+        "assets/99.jpg",
+        "assets/100.jpg",
+        "assets/cd.jpg",
+        "assets/101.jpg"
+      ]
+    },
+    {
+      "source": "OEBPS/Text/Lesson6.xhtml",
+      "sha256": "1214f7365ddc0be690e4b25a9c70b96e85606856171150a998fad429e42f9ce8",
+      "normalizedSourceCharacters": 24774,
+      "extractedTextBlocks": 626,
+      "extractedTextCharacters": 21972,
+      "normalizedSourceWords": 3554,
+      "extractedSourceWords": 3551,
+      "sourceWordCoverage": 0.994091,
+      "imageReferences": [
+        "assets/gcd.jpg",
+        "assets/104.jpg",
+        "assets/sad.jpg",
+        "assets/hp.jpg",
+        "assets/114.jpg",
+        "assets/115b.jpg",
+        "assets/115.jpg",
+        "assets/cd.jpg"
+      ]
+    },
+    {
+      "source": "OEBPS/Text/Lesson7.xhtml",
+      "sha256": "dc3a90c9cf08c479dad4eb5c013c743c5d3426aa1427685aab4b3eb6f2f164fc",
+      "normalizedSourceCharacters": 36073,
+      "extractedTextBlocks": 740,
+      "extractedTextCharacters": 32774,
+      "normalizedSourceWords": 5313,
+      "extractedSourceWords": 5311,
+      "sourceWordCoverage": 0.996424,
+      "imageReferences": [
+        "assets/gcd.jpg",
+        "assets/120.jpg",
+        "assets/123.jpg",
+        "assets/135.jpg",
+        "assets/cd.jpg"
+      ]
+    },
+    {
+      "source": "OEBPS/Text/Lesson8.xhtml",
+      "sha256": "a23027a3cf04bc62054dddfcc2389042b01d7c04cab793c079c402d479ab6960",
+      "normalizedSourceCharacters": 26810,
+      "extractedTextBlocks": 673,
+      "extractedTextCharacters": 24021,
+      "normalizedSourceWords": 3936,
+      "extractedSourceWords": 3987,
+      "sourceWordCoverage": 0.997713,
+      "imageReferences": [
+        "assets/gcd.jpg",
+        "assets/140.jpg",
+        "assets/141a.jpg",
+        "assets/141b.jpg",
+        "assets/141c.jpg",
+        "assets/141d.jpg",
+        "assets/150.jpg",
+        "assets/151.jpg",
+        "assets/152a.jpg",
+        "assets/152.jpg",
+        "assets/cd.jpg",
+        "assets/152b.jpg"
+      ]
+    },
+    {
+      "source": "OEBPS/Text/Lesson9.xhtml",
+      "sha256": "13f116a103a8d169c67a48d0a1080db2e29029120b491d87925153e59132109b",
+      "normalizedSourceCharacters": 27171,
+      "extractedTextBlocks": 742,
+      "extractedTextCharacters": 24425,
+      "normalizedSourceWords": 3842,
+      "extractedSourceWords": 3890,
+      "sourceWordCoverage": 0.982041,
+      "imageReferences": [
+        "assets/gcd.jpg",
+        "assets/155.jpg",
+        "assets/158a.jpg",
+        "assets/158b.jpg",
+        "assets/159.jpg",
+        "assets/168.jpg",
+        "assets/cd.jpg",
+        "assets/169.jpg"
+      ]
+    },
+    {
+      "source": "OEBPS/Text/Lesson10.xhtml",
+      "sha256": "66c976a8838b8b29d78a49db935de86292e3a80eeb6375e8daa2369a5df6b7ac",
+      "normalizedSourceCharacters": 20000,
+      "extractedTextBlocks": 454,
+      "extractedTextCharacters": 18050,
+      "normalizedSourceWords": 2943,
+      "extractedSourceWords": 2950,
+      "sourceWordCoverage": 0.998641,
+      "imageReferences": [
+        "assets/gcd.jpg",
+        "assets/174.jpg",
+        "assets/175.jpg",
+        "assets/176.jpg",
+        "assets/184.jpg",
+        "assets/cd.jpg"
+      ]
+    },
+    {
+      "source": "OEBPS/Text/Lesson11.xhtml",
+      "sha256": "293a1d252356cd4aeb2d4fe0b106cb593b10688523bbf26f4fa7b5ae0a5ad85b",
+      "normalizedSourceCharacters": 25851,
+      "extractedTextBlocks": 568,
+      "extractedTextCharacters": 23557,
+      "normalizedSourceWords": 3546,
+      "extractedSourceWords": 3553,
+      "sourceWordCoverage": 0.990412,
+      "imageReferences": [
+        "assets/gcd.jpg",
+        "assets/188.jpg",
+        "assets/188a.jpg",
+        "assets/188b.jpg",
+        "assets/189.jpg",
+        "assets/190.jpg",
+        "assets/191a.jpg",
+        "assets/191b.jpg",
+        "assets/191c.jpg",
+        "assets/192.jpg",
+        "assets/199a.jpg",
+        "assets/199b.jpg",
+        "assets/200a.jpg",
+        "assets/200.jpg",
+        "assets/201.jpg",
+        "assets/cd.jpg"
+      ]
+    },
+    {
+      "source": "OEBPS/Text/Lesson12.xhtml",
+      "sha256": "fb6780f46d39092ffcbd0a1654a3b04045617a2c10d55793e2399b8d9f40c956",
+      "normalizedSourceCharacters": 23030,
+      "extractedTextBlocks": 512,
+      "extractedTextCharacters": 20730,
+      "normalizedSourceWords": 3368,
+      "extractedSourceWords": 3352,
+      "sourceWordCoverage": 0.985451,
+      "imageReferences": [
+        "assets/gcd.jpg",
+        "assets/205.jpg",
+        "assets/206.jpg",
+        "assets/207.jpg",
+        "assets/214a.jpg",
+        "assets/214.jpg",
+        "assets/cd.jpg"
+      ]
+    },
+    {
+      "source": "OEBPS/Text/Lesson13.xhtml",
+      "sha256": "7f5cb512cd6d13f1aa71bd0da1bc38e66aafb325cfb42f852134bb5414b9622c",
+      "normalizedSourceCharacters": 19174,
+      "extractedTextBlocks": 408,
+      "extractedTextCharacters": 17314,
+      "normalizedSourceWords": 2764,
+      "extractedSourceWords": 2756,
+      "sourceWordCoverage": 0.988784,
+      "imageReferences": [
+        "assets/gcd.jpg",
+        "assets/221.jpg",
+        "assets/221a.jpg",
+        "assets/223a.jpg",
+        "assets/223.jpg",
+        "assets/226.jpg",
+        "assets/230.jpg",
+        "assets/cd.jpg",
+        "assets/231.jpg"
+      ]
+    },
+    {
+      "source": "OEBPS/Text/Lesson14.xhtml",
+      "sha256": "df93c8fe92bec7ada6ba69a6d9003fad74077aaf5e323435121b6b5e35fbee9a",
+      "normalizedSourceCharacters": 25126,
+      "extractedTextBlocks": 538,
+      "extractedTextCharacters": 22578,
+      "normalizedSourceWords": 3482,
+      "extractedSourceWords": 3482,
+      "sourceWordCoverage": 0.996841,
+      "imageReferences": [
+        "assets/gcd.jpg",
+        "assets/234.jpg",
+        "assets/234a.jpg",
+        "assets/235.jpg",
+        "assets/237.jpg",
+        "assets/244a.jpg",
+        "assets/244b.jpg",
+        "assets/244c.jpg",
+        "assets/245a.jpg",
+        "assets/245b.jpg",
+        "assets/246a.jpg",
+        "assets/246b.jpg",
+        "assets/cd.jpg"
+      ]
+    },
+    {
+      "source": "OEBPS/Text/Lesson15.xhtml",
+      "sha256": "5ec7788b5a4c15e6d728fb340cddaad602b8602361af9fc95b5a5139f3dca483",
+      "normalizedSourceCharacters": 21597,
+      "extractedTextBlocks": 495,
+      "extractedTextCharacters": 19216,
+      "normalizedSourceWords": 3117,
+      "extractedSourceWords": 3117,
+      "sourceWordCoverage": 0.993904,
+      "imageReferences": [
+        "assets/gcd.jpg",
+        "assets/249.jpg",
+        "assets/250.jpg",
+        "assets/251a.jpg",
+        "assets/251b.jpg",
+        "assets/251c.jpg",
+        "assets/257.jpg",
+        "assets/258a.jpg",
+        "assets/258b.jpg",
+        "assets/cd.jpg"
+      ]
+    },
+    {
+      "source": "OEBPS/Text/Lesson16.xhtml",
+      "sha256": "c4ddfabc6e17b8712f29607719513716d723c64e6063a07898801db0cb088b02",
+      "normalizedSourceCharacters": 20720,
+      "extractedTextBlocks": 464,
+      "extractedTextCharacters": 18574,
+      "normalizedSourceWords": 3028,
+      "extractedSourceWords": 3036,
+      "sourceWordCoverage": 0.999009,
+      "imageReferences": [
+        "assets/gcd.jpg",
+        "assets/264.jpg",
+        "assets/269.jpg",
+        "assets/272.jpg",
+        "assets/cd.jpg"
+      ]
+    },
+    {
+      "source": "OEBPS/Text/Lesson17.xhtml",
+      "sha256": "9e9040ddcf54d3d931fbdf1b10ed82cd5d9c8852a8490ca1b2af85412ee0aa33",
+      "normalizedSourceCharacters": 21918,
+      "extractedTextBlocks": 539,
+      "extractedTextCharacters": 19383,
+      "normalizedSourceWords": 3012,
+      "extractedSourceWords": 3016,
+      "sourceWordCoverage": 0.996348,
+      "imageReferences": [
+        "assets/gcd.jpg",
+        "assets/261.jpg",
+        "assets/280.jpg",
+        "assets/286.jpg",
+        "assets/287.jpg",
+        "assets/cd.jpg"
+      ]
+    },
+    {
+      "source": "OEBPS/Text/Lesson18.xhtml",
+      "sha256": "79e9a39d121f2dfe5958575cbb67b816d6517170279fc5fb349ffb88bafdffd3",
+      "normalizedSourceCharacters": 28773,
+      "extractedTextBlocks": 650,
+      "extractedTextCharacters": 26916,
+      "normalizedSourceWords": 4173,
+      "extractedSourceWords": 4320,
+      "sourceWordCoverage": 0.978433,
+      "imageReferences": [
+        "assets/gcd.jpg",
+        "assets/291.jpg",
+        "assets/292.jpg",
+        "assets/293a.jpg",
+        "assets/293.jpg",
+        "assets/293b.jpg",
+        "assets/cd.jpg",
+        "assets/303.jpg"
+      ]
+    },
+    {
+      "source": "OEBPS/Text/Lesson19.xhtml",
+      "sha256": "d411dac93967fc4dcc54e9f85e9b5639e86688a324e335749f31520e30861c2b",
+      "normalizedSourceCharacters": 28166,
+      "extractedTextBlocks": 512,
+      "extractedTextCharacters": 25879,
+      "normalizedSourceWords": 4217,
+      "extractedSourceWords": 4216,
+      "sourceWordCoverage": 0.994783,
+      "imageReferences": [
+        "assets/gcd.jpg",
+        "assets/310.jpg",
+        "assets/cd.jpg"
+      ]
+    },
+    {
+      "source": "OEBPS/Text/Lesson20.xhtml",
+      "sha256": "874e7bb9efd5d23886864b57d4a98aeb8f61ae94f9e0870d8f34d82c27c9161d",
+      "normalizedSourceCharacters": 19871,
+      "extractedTextBlocks": 605,
+      "extractedTextCharacters": 16945,
+      "normalizedSourceWords": 2598,
+      "extractedSourceWords": 2576,
+      "sourceWordCoverage": 0.978445,
+      "imageReferences": [
+        "assets/gcd.jpg",
+        "assets/323.jpg",
+        "assets/324a.jpg",
+        "assets/324b.jpg",
+        "assets/324c.jpg",
+        "assets/327a.jpg",
+        "assets/327b.jpg",
+        "assets/cd.jpg",
+        "assets/334.jpg"
+      ]
+    },
+    {
+      "source": "OEBPS/Text/Lesson21.xhtml",
+      "sha256": "2c91c65f80f4f4e7f33a6946e2a5075667b06dc39464138d7f3c9ea21f31e116",
+      "normalizedSourceCharacters": 17771,
+      "extractedTextBlocks": 460,
+      "extractedTextCharacters": 15742,
+      "normalizedSourceWords": 2322,
+      "extractedSourceWords": 2324,
+      "sourceWordCoverage": 0.996985,
+      "imageReferences": [
+        "assets/gcd.jpg",
+        "assets/337.jpg",
+        "assets/343.jpg",
+        "assets/344a.jpg",
+        "assets/344b.jpg",
+        "assets/344c.jpg",
+        "assets/344d.jpg",
+        "assets/cd.jpg"
+      ]
+    },
+    {
+      "source": "OEBPS/Text/Lesson22.xhtml",
+      "sha256": "40390e0153f7c8a3f9620192a052c890a521c9b2117e5cf36f8e9d208bd262fe",
+      "normalizedSourceCharacters": 46857,
+      "extractedTextBlocks": 710,
+      "extractedTextCharacters": 43781,
+      "normalizedSourceWords": 6973,
+      "extractedSourceWords": 6968,
+      "sourceWordCoverage": 0.995267,
+      "imageReferences": [
+        "assets/gcd.jpg",
+        "assets/352.jpg",
+        "assets/353.jpg",
+        "assets/368.jpg",
+        "assets/cd.jpg"
+      ]
+    },
+    {
+      "source": "OEBPS/Text/Lesson23.xhtml",
+      "sha256": "d7e29b311dc2225326a72b34d15375733d0ece9211dca6a1d5d4e1aaaff0b71f",
+      "normalizedSourceCharacters": 20146,
+      "extractedTextBlocks": 382,
+      "extractedTextCharacters": 18515,
+      "normalizedSourceWords": 2936,
+      "extractedSourceWords": 2949,
+      "sourceWordCoverage": 0.992166,
+      "imageReferences": [
+        "assets/gcd.jpg",
+        "assets/374.jpg",
+        "assets/374a.jpg",
+        "assets/382.jpg",
+        "assets/cd.jpg"
+      ]
+    },
+    {
+      "source": "OEBPS/Text/Lesson24.xhtml",
+      "sha256": "ca6426222da1d3122750edf79926d2003fc34fff7842a8d5fd8b17e9cac573ea",
+      "normalizedSourceCharacters": 24427,
+      "extractedTextBlocks": 508,
+      "extractedTextCharacters": 22099,
+      "normalizedSourceWords": 3475,
+      "extractedSourceWords": 3485,
+      "sourceWordCoverage": 0.997986,
+      "imageReferences": [
+        "assets/gcd.jpg",
+        "assets/387.jpg",
+        "assets/387a.jpg",
+        "assets/394.jpg",
+        "assets/395.jpg",
+        "assets/cd.jpg"
+      ]
+    },
+    {
+      "source": "OEBPS/Text/Introduction.xhtml",
+      "sha256": "ef8710185523799557d0fc5eb21c4881f870b07e3d9e4c0f6dc25d33a3a77789",
+      "normalizedSourceCharacters": 8311,
+      "extractedTextBlocks": 24,
+      "extractedTextCharacters": 8275,
+      "normalizedSourceWords": 1275,
+      "extractedSourceWords": 1276,
+      "sourceWordCoverage": 1.0,
+      "imageReferences": []
+    },
+    {
+      "source": "OEBPS/Text/Guide.xhtml",
+      "sha256": "394a29c6bfe79d204e575797fbe35a7b162d2a9dbc8b7ce4ed3873081e35b0a2",
+      "normalizedSourceCharacters": 7780,
+      "extractedTextBlocks": 85,
+      "extractedTextCharacters": 7388,
+      "normalizedSourceWords": 1304,
+      "extractedSourceWords": 1304,
+      "sourceWordCoverage": 0.996933,
+      "imageReferences": []
+    },
+    {
+      "source": "OEBPS/Text/Language.xhtml",
+      "sha256": "eef9e22ef363baea99f1f9e8feebf323e87aaf25939ed2981d769e50bba5ee5b",
+      "normalizedSourceCharacters": 6359,
+      "extractedTextBlocks": 11,
+      "extractedTextCharacters": 6324,
+      "normalizedSourceWords": 1066,
+      "extractedSourceWords": 1067,
+      "sourceWordCoverage": 0.996248,
+      "imageReferences": [
+        "assets/17.jpg"
+      ]
+    },
+    {
+      "source": "OEBPS/Text/Greetings.xhtml",
+      "sha256": "11fa735b30be42dfe9c6833c000c6c48a29cb2134c7b74cca60fda4fe73e76a5",
+      "normalizedSourceCharacters": 5813,
+      "extractedTextBlocks": 162,
+      "extractedTextCharacters": 5061,
+      "normalizedSourceWords": 752,
+      "extractedSourceWords": 754,
+      "sourceWordCoverage": 1.0,
+      "imageReferences": [
+        "assets/gcd.jpg",
+        "assets/21.jpg",
+        "assets/22.jpg",
+        "assets/24a.jpg"
+      ]
+    },
+    {
+      "source": "OEBPS/Text/Unit1.xhtml",
+      "sha256": "0728743ed86c5b4dbc2f87e90b97840de72fe8198a836e0e5684ed2cce3069ca",
+      "normalizedSourceCharacters": 3237,
+      "extractedTextBlocks": 8,
+      "extractedTextCharacters": 3189,
+      "normalizedSourceWords": 541,
+      "extractedSourceWords": 538,
+      "sourceWordCoverage": 0.994455,
+      "imageReferences": [
+        "assets/25a.jpg",
+        "assets/25b.jpg"
+      ]
+    },
+    {
+      "source": "OEBPS/Text/Unit2.xhtml",
+      "sha256": "8a138fa95b3e036e3111d55123340a380b33d87ff06af3b1db781d2b002b6157",
+      "normalizedSourceCharacters": 3543,
+      "extractedTextBlocks": 10,
+      "extractedTextCharacters": 3485,
+      "normalizedSourceWords": 596,
+      "extractedSourceWords": 594,
+      "sourceWordCoverage": 0.996644,
+      "imageReferences": [
+        "assets/72.jpg",
+        "assets/73a.jpg",
+        "assets/73b.jpg"
+      ]
+    },
+    {
+      "source": "OEBPS/Text/Unit3.xhtml",
+      "sha256": "472b681b62ec3a94f87a2c5b15e680f8e1dcd06d6c11beba7a60ba480f069168",
+      "normalizedSourceCharacters": 2671,
+      "extractedTextBlocks": 9,
+      "extractedTextCharacters": 2625,
+      "normalizedSourceWords": 443,
+      "extractedSourceWords": 441,
+      "sourceWordCoverage": 0.995485,
+      "imageReferences": [
+        "assets/116a.jpg",
+        "assets/116b.jpg",
+        "assets/117a.jpg",
+        "assets/117b.jpg"
+      ]
+    },
+    {
+      "source": "OEBPS/Text/Unit4.xhtml",
+      "sha256": "bbcc52d3dee6c815adc90a30bc3344f6bc56b194333900efaae363134cb93bb8",
+      "normalizedSourceCharacters": 2609,
+      "extractedTextBlocks": 10,
+      "extractedTextCharacters": 2569,
+      "normalizedSourceWords": 444,
+      "extractedSourceWords": 442,
+      "sourceWordCoverage": 0.995495,
+      "imageReferences": [
+        "assets/170a.jpg",
+        "assets/170b.jpg",
+        "assets/171a.jpg",
+        "assets/171b.jpg"
+      ]
+    },
+    {
+      "source": "OEBPS/Text/Unit5.xhtml",
+      "sha256": "b72af45ceb29b26f6c66d7a4b473b222eb70c6cbc20f562bd6a7c743cde33c4d",
+      "normalizedSourceCharacters": 3879,
+      "extractedTextBlocks": 8,
+      "extractedTextCharacters": 3843,
+      "normalizedSourceWords": 632,
+      "extractedSourceWords": 630,
+      "sourceWordCoverage": 0.996835,
+      "imageReferences": [
+        "assets/217a.jpg",
+        "assets/217b.jpg"
+      ]
+    },
+    {
+      "source": "OEBPS/Text/Unit6.xhtml",
+      "sha256": "e2fb97f2d58b15483e9620e9edc14210da384cb49b38cce2dd8b289d5b313e10",
+      "normalizedSourceCharacters": 5279,
+      "extractedTextBlocks": 9,
+      "extractedTextCharacters": 5217,
+      "normalizedSourceWords": 868,
+      "extractedSourceWords": 866,
+      "sourceWordCoverage": 0.997696,
+      "imageReferences": [
+        "assets/260.jpg",
+        "assets/261.jpg"
+      ]
+    },
+    {
+      "source": "OEBPS/Text/Unit7.xhtml",
+      "sha256": "5495de49d65382f566b6828587d8c0a73136b2cbaa3be6926178324db7bf1fd9",
+      "normalizedSourceCharacters": 4311,
+      "extractedTextBlocks": 12,
+      "extractedTextCharacters": 4266,
+      "normalizedSourceWords": 693,
+      "extractedSourceWords": 691,
+      "sourceWordCoverage": 0.997114,
+      "imageReferences": [
+        "assets/304.jpg",
+        "assets/305a.jpg",
+        "assets/305b.jpg"
+      ]
+    },
+    {
+      "source": "OEBPS/Text/Unit8.xhtml",
+      "sha256": "974545a027214b5cb2f321b6aba7487e1831173f655cee9979f79f3a3f3b7471",
+      "normalizedSourceCharacters": 9281,
+      "extractedTextBlocks": 9,
+      "extractedTextCharacters": 9204,
+      "normalizedSourceWords": 1440,
+      "extractedSourceWords": 1434,
+      "sourceWordCoverage": 0.995833,
+      "imageReferences": [
+        "assets/348.jpg",
+        "assets/349.jpg"
+      ]
+    }
+  ],
+  "documentCount": 36,
+  "lessonCount": 24,
+  "unitCount": 8,
+  "assetCount": 167
+}

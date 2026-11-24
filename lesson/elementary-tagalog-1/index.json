@@ -1,0 +1,1114 @@
+{
+  "schemaVersion": 1,
+  "id": "elementary-tagalog-1",
+  "level": "BEGINNER",
+  "languagePair": {
+    "reference": "id",
+    "target": "fil"
+  },
+  "title": {
+    "id": "Elementary Tagalog 1",
+    "fil": "Elementary Tagalog 1"
+  },
+  "description": {
+    "id": "Kursus lengkap bahasa Tagalog tingkat dasar berdasarkan buku Elementary Tagalog.",
+    "fil": "Kumpletong panimulang kurso sa Tagalog batay sa aklat na Elementary Tagalog."
+  },
+  "source": {
+    "title": "Elementary Tagalog",
+    "authors": [
+      "Jiedson R. Domigpe",
+      "Nenita Pambid Domingo"
+    ],
+    "publisher": "Tuttle Publishing",
+    "isbn": "978-0-8048-4117-7"
+  },
+  "cover": "assets/cover.jpg",
+  "assetIndex": {
+    "path": "assets/index.json",
+    "sha256": "d6b6d78797bebe255cca6e2a7a2a07a8e23c61e29dfbbcebf7cc6764c13013f2"
+  },
+  "sourceAudit": {
+    "path": "source-audit.json",
+    "sha256": "d01f850235b38b8eaf043fba9c964434d6efce534a4731f3bd7e0d2c03004449"
+  },
+  "units": [
+    {
+      "id": "unit-01-self",
+      "title": {
+        "id": "Tentang Diri",
+        "fil": "Tungkol sa Sarili"
+      },
+      "path": "units/01-about-self.json",
+      "lessons": [
+        "elementary-tagalog-1-lesson-01",
+        "elementary-tagalog-1-lesson-02",
+        "elementary-tagalog-1-lesson-03"
+      ],
+      "assets": [
+        "assets/17.jpg",
+        "assets/gcd.jpg",
+        "assets/21.jpg",
+        "assets/22.jpg",
+        "assets/24a.jpg",
+        "assets/25a.jpg",
+        "assets/25b.jpg"
+      ],
+      "sha256": "37677c56341c778b63ddab26fb1bce1fcd1b652eac0150ccd312e8ad019dda0f"
+    },
+    {
+      "id": "unit-02-family",
+      "title": {
+        "id": "Keluarga",
+        "fil": "Pamilya"
+      },
+      "path": "units/02-family.json",
+      "lessons": [
+        "elementary-tagalog-1-lesson-04",
+        "elementary-tagalog-1-lesson-05",
+        "elementary-tagalog-1-lesson-06"
+      ],
+      "assets": [
+        "assets/72.jpg",
+        "assets/73a.jpg",
+        "assets/73b.jpg"
+      ],
+      "sha256": "8c273347b1b043e918833570389492076bcb42ad528d836923ab65d20450d599"
+    },
+    {
+      "id": "unit-03-activities",
+      "title": {
+        "id": "Kegiatan",
+        "fil": "Mga Gawain"
+      },
+      "path": "units/03-activities.json",
+      "lessons": [
+        "elementary-tagalog-1-lesson-07",
+        "elementary-tagalog-1-lesson-08",
+        "elementary-tagalog-1-lesson-09"
+      ],
+      "assets": [
+        "assets/116a.jpg",
+        "assets/116b.jpg",
+        "assets/117a.jpg",
+        "assets/117b.jpg"
+      ],
+      "sha256": "39a0cd379c9ebe62a23a7be6d7b11698cce942adba539bb1e846c6abf63ff2ac"
+    },
+    {
+      "id": "unit-04-home",
+      "title": {
+        "id": "Rumah",
+        "fil": "Tahanan"
+      },
+      "path": "units/04-home.json",
+      "lessons": [
+        "elementary-tagalog-1-lesson-10",
+        "elementary-tagalog-1-lesson-11",
+        "elementary-tagalog-1-lesson-12"
+      ],
+      "assets": [
+        "assets/170a.jpg",
+        "assets/170b.jpg",
+        "assets/171a.jpg",
+        "assets/171b.jpg"
+      ],
+      "sha256": "9228f0bd24aab1d66e0a9505fefbaa8c1fd9b311689517364e074884c1d85306"
+    },
+    {
+      "id": "unit-05-health",
+      "title": {
+        "id": "Kesehatan",
+        "fil": "Kalusugan"
+      },
+      "path": "units/05-health.json",
+      "lessons": [
+        "elementary-tagalog-1-lesson-13",
+        "elementary-tagalog-1-lesson-14",
+        "elementary-tagalog-1-lesson-15"
+      ],
+      "assets": [
+        "assets/217a.jpg",
+        "assets/217b.jpg"
+      ],
+      "sha256": "92e354f387af0797ab51fa689f0d141fc3aeb1b9ecd2bc7c7b5a12a7a4c7efc2"
+    },
+    {
+      "id": "unit-06-food",
+      "title": {
+        "id": "Makanan",
+        "fil": "Pagkain"
+      },
+      "path": "units/06-food.json",
+      "lessons": [
+        "elementary-tagalog-1-lesson-16",
+        "elementary-tagalog-1-lesson-17",
+        "elementary-tagalog-1-lesson-18"
+      ],
+      "assets": [
+        "assets/260.jpg",
+        "assets/261.jpg"
+      ],
+      "sha256": "416b25060a0b2d246e63c1bb4962442e1243f6db3b0c943b366ff30cad254dfa"
+    },
+    {
+      "id": "unit-07-travel",
+      "title": {
+        "id": "Perjalanan",
+        "fil": "Paglalakbay"
+      },
+      "path": "units/07-travel.json",
+      "lessons": [
+        "elementary-tagalog-1-lesson-19",
+        "elementary-tagalog-1-lesson-20",
+        "elementary-tagalog-1-lesson-21"
+      ],
+      "assets": [
+        "assets/304.jpg",
+        "assets/305a.jpg",
+        "assets/305b.jpg"
+      ],
+      "sha256": "12ae1c09a0567f533e7d37f97e10e6c5717bab35d62f658bc54a757b27afafaf"
+    },
+    {
+      "id": "unit-08-popular-culture",
+      "title": {
+        "id": "Budaya Populer di Filipina",
+        "fil": "Kulturang Popular sa Pilipinas"
+      },
+      "path": "units/08-popular-culture.json",
+      "lessons": [
+        "elementary-tagalog-1-lesson-22",
+        "elementary-tagalog-1-lesson-23",
+        "elementary-tagalog-1-lesson-24"
+      ],
+      "assets": [
+        "assets/348.jpg",
+        "assets/349.jpg"
+      ],
+      "sha256": "ddf82d31edb7bf75d9d5e85fa05c3dc526ddc6175cccd7243203e495bbf5afb5"
+    }
+  ],
+  "lessons": [
+    {
+      "id": "elementary-tagalog-1-lesson-01",
+      "unitId": "unit-01-self",
+      "order": 1,
+      "path": "01-first-day-of-class.json",
+      "title": {
+        "id": "Hari Pertama di Kelas",
+        "fil": "Unang Araw ng Klase"
+      },
+      "summary": {
+        "id": "Hari Pertama di Kelas",
+        "fil": "Unang Araw ng Klase"
+      },
+      "objectives": [
+        {
+          "sourceLanguage": "en",
+          "sourceText": "• Ask questions using the interrogative pronouns sino (who) and ano (what)",
+          "id": "Ajukan pertanyaan menggunakan pernyataan interogasi sino (siapa) dan ano (apa)"
+        },
+        {
+          "sourceLanguage": "en",
+          "sourceText": "• Respond to inquiries using short and long responses",
+          "id": "Respon pertanyaan menggunakan tanggapan pendek dan panjang"
+        },
+        {
+          "sourceLanguage": "en",
+          "sourceText": "• Construct identificational and predicational statements",
+          "id": "Konstruksi pernyataan identifikasi dan prestimasi"
+        }
+      ],
+      "assets": [
+        "assets/gcd.jpg",
+        "assets/29.jpg",
+        "assets/31a.jpg",
+        "assets/39.jpg",
+        "assets/cd.jpg"
+      ],
+      "sha256": "43f1b9da0d99aa0ce325dd465e30423451b724961743e493bce4bb8ee0248d08"
+    },
+    {
+      "id": "elementary-tagalog-1-lesson-02",
+      "unitId": "unit-01-self",
+      "order": 2,
+      "path": "02-introductions.json",
+      "title": {
+        "id": "Perkenalan",
+        "fil": "Pagpapakilala"
+      },
+      "summary": {
+        "id": "Perkenalan",
+        "fil": "Pagpapakilala"
+      },
+      "objectives": [
+        {
+          "sourceLanguage": "mixed",
+          "sourceText": "• Introduce yourself and others",
+          "id": "Perkenalkan dirimu dan orang lain."
+        },
+        {
+          "sourceLanguage": "en",
+          "sourceText": "• Ask and respond to questions eliciting basic biographical information",
+          "id": "Tanyakan dan menanggapi pertanyaan yang memancarkan informasi biografis dasar"
+        },
+        {
+          "sourceLanguage": "en",
+          "sourceText": "• Ask and respond to yes-no questions",
+          "id": "Tanyakan dan menanggapi yes- tidak ada pertanyaan"
+        }
+      ],
+      "assets": [
+        "assets/gcd.jpg",
+        "assets/43.jpg",
+        "assets/45.jpg",
+        "assets/46.jpg",
+        "assets/cd.jpg"
+      ],
+      "sha256": "b8021def16db0287a90967f1165682164bff589603dfb054a76102708cc7f5f9"
+    },
+    {
+      "id": "elementary-tagalog-1-lesson-03",
+      "unitId": "unit-01-self",
+      "order": 3,
+      "path": "03-likes-and-dislikes.json",
+      "title": {
+        "id": "Hal yang Disukai dan Tidak Disukai",
+        "fil": "Mga Gusto at Ayaw"
+      },
+      "summary": {
+        "id": "Hal yang Disukai dan Tidak Disukai",
+        "fil": "Mga Gusto at Ayaw"
+      },
+      "objectives": [
+        {
+          "sourceLanguage": "en",
+          "sourceText": "• Ask and respond to questions about your likes and dislikes",
+          "id": "Tanyakan dan menanggapi pertanyaan tentang suka dan tidak suka Anda"
+        },
+        {
+          "sourceLanguage": "en",
+          "sourceText": "• Talk about your favorite sports and people",
+          "id": "Bicara tentang olahraga favorit Anda dan orang-orang"
+        }
+      ],
+      "assets": [
+        "assets/gcd.jpg",
+        "assets/63.jpg",
+        "assets/70.jpg",
+        "assets/71.jpg",
+        "assets/cd.jpg"
+      ],
+      "sha256": "17a3ef271931cbf73788a7b4d3cadfa4fbcf91b2d6be63c8e0678462dd11179a"
+    },
+    {
+      "id": "elementary-tagalog-1-lesson-04",
+      "unitId": "unit-02-family",
+      "order": 4,
+      "path": "04-my-family.json",
+      "title": {
+        "id": "Keluarga Saya",
+        "fil": "Ang Pamilya Ko"
+      },
+      "summary": {
+        "id": "Keluarga Saya",
+        "fil": "Ang Pamilya Ko"
+      },
+      "objectives": [
+        {
+          "sourceLanguage": "en",
+          "sourceText": "• Ask and answer questions about one’s age",
+          "id": "Ajukan dan menjawab pertanyaan tentang usia seseorang"
+        },
+        {
+          "sourceLanguage": "en",
+          "sourceText": "• Describe family relationships using kinship terms",
+          "id": "Deskripsikan hubungan keluarga menggunakan istilah kekerabatan"
+        },
+        {
+          "sourceLanguage": "en",
+          "sourceText": "• Introduce or talk about family members",
+          "id": "Memperkenalkan atau berbicara tentang anggota keluarga"
+        }
+      ],
+      "assets": [
+        "assets/gcd.jpg",
+        "assets/76.jpg",
+        "assets/77.jpg",
+        "assets/79.jpg",
+        "assets/79b.jpg",
+        "assets/86.jpg",
+        "assets/cd.jpg"
+      ],
+      "sha256": "64a4b205eb487feb807f3ef95b7daedef9fdd48800dd4b7d69f66f5c06466dba"
+    },
+    {
+      "id": "elementary-tagalog-1-lesson-05",
+      "unitId": "unit-02-family",
+      "order": 5,
+      "path": "05-describing-family-members.json",
+      "title": {
+        "id": "Menggambarkan Anggota Keluarga",
+        "fil": "Paglalarawan ng mga Miyembro ng Pamilya"
+      },
+      "summary": {
+        "id": "Menggambarkan Anggota Keluarga",
+        "fil": "Paglalarawan ng mga Miyembro ng Pamilya"
+      },
+      "objectives": [
+        {
+          "sourceLanguage": "en",
+          "sourceText": "• Describe people using ma-adjectives",
+          "id": "Deskripsikan orang menggunakan kata sifat"
+        },
+        {
+          "sourceLanguage": "en",
+          "sourceText": "• Describe people using the naka- prefix",
+          "id": "Deskripsikan orang menggunakan awalan naka-"
+        }
+      ],
+      "assets": [
+        "assets/gcd.jpg",
+        "assets/91.jpg",
+        "assets/91b.jpg",
+        "assets/98.jpg",
+        "assets/99.jpg",
+        "assets/100.jpg",
+        "assets/cd.jpg",
+        "assets/101.jpg"
+      ],
+      "sha256": "0820d8aa913075b41ba03e8208fcd4d29b12f81da281658817b9cfdb6c554fe9"
+    },
+    {
+      "id": "elementary-tagalog-1-lesson-06",
+      "unitId": "unit-02-family",
+      "order": 6,
+      "path": "06-talking-about-family.json",
+      "title": {
+        "id": "Berbicara tentang Keluarga",
+        "fil": "Pag-uusap Tungkol sa Pamilya"
+      },
+      "summary": {
+        "id": "Berbicara tentang Keluarga",
+        "fil": "Pag-uusap Tungkol sa Pamilya"
+      },
+      "objectives": [
+        {
+          "sourceLanguage": "en",
+          "sourceText": "• Read and write short biographical texts",
+          "id": "Baca dan tulis teks biografi pendek"
+        },
+        {
+          "sourceLanguage": "en",
+          "sourceText": "• Ask and answer basic biographical questions about people",
+          "id": "Tanyakan dan jawab pertanyaan biografis dasar tentang orang"
+        }
+      ],
+      "assets": [
+        "assets/gcd.jpg",
+        "assets/104.jpg",
+        "assets/sad.jpg",
+        "assets/hp.jpg",
+        "assets/114.jpg",
+        "assets/115b.jpg",
+        "assets/115.jpg",
+        "assets/cd.jpg"
+      ],
+      "sha256": "ff4218413803957a3548da9e01fa129ac65e0c90c518c25b17ef9854d56b93b5"
+    },
+    {
+      "id": "elementary-tagalog-1-lesson-07",
+      "unitId": "unit-03-activities",
+      "order": 7,
+      "path": "07-daily-activities.json",
+      "title": {
+        "id": "Kegiatan Sehari-hari",
+        "fil": "Mga Gawain sa Araw-araw"
+      },
+      "summary": {
+        "id": "Kegiatan Sehari-hari",
+        "fil": "Mga Gawain sa Araw-araw"
+      },
+      "objectives": [
+        {
+          "sourceLanguage": "en",
+          "sourceText": "• Be able to talk about daily activities",
+          "id": "Bisa berbicara tentang kegiatan sehari-hari"
+        },
+        {
+          "sourceLanguage": "en",
+          "sourceText": "• Be able to talk about past and future activities",
+          "id": "Bisa berbicara tentang aktivitas masa lalu dan masa depan"
+        }
+      ],
+      "assets": [
+        "assets/gcd.jpg",
+        "assets/120.jpg",
+        "assets/123.jpg",
+        "assets/135.jpg",
+        "assets/cd.jpg"
+      ],
+      "sha256": "6a4096a55f0c738cb0cdef2519744e88620f026695e0b3fcc576e2338622faf5"
+    },
+    {
+      "id": "elementary-tagalog-1-lesson-08",
+      "unitId": "unit-03-activities",
+      "order": 8,
+      "path": "08-hobbies.json",
+      "title": {
+        "id": "Hobi",
+        "fil": "Mga Libangan"
+      },
+      "summary": {
+        "id": "Hobi",
+        "fil": "Mga Libangan"
+      },
+      "objectives": [
+        {
+          "sourceLanguage": "en",
+          "sourceText": "• Be able to talk about one’s hobbies and leisure-time activities",
+          "id": "Bisa berbicara tentang hobi seseorang dan aktivitas santai-waktu"
+        },
+        {
+          "sourceLanguage": "en",
+          "sourceText": "• Be able to express preferences regarding activities",
+          "id": "Mampu mengekspresikan preferensi mengenai aktivitas"
+        }
+      ],
+      "assets": [
+        "assets/gcd.jpg",
+        "assets/140.jpg",
+        "assets/141a.jpg",
+        "assets/141b.jpg",
+        "assets/141c.jpg",
+        "assets/141d.jpg",
+        "assets/150.jpg",
+        "assets/151.jpg",
+        "assets/152a.jpg",
+        "assets/152.jpg",
+        "assets/cd.jpg",
+        "assets/152b.jpg"
+      ],
+      "sha256": "b0c41b81b5bb7c30b883534c517af827d01fd409720eec1ecddc4da4879a0c1c"
+    },
+    {
+      "id": "elementary-tagalog-1-lesson-09",
+      "unitId": "unit-03-activities",
+      "order": 9,
+      "path": "09-shopping.json",
+      "title": {
+        "id": "Berbelanja",
+        "fil": "Pamimili"
+      },
+      "summary": {
+        "id": "Berbelanja",
+        "fil": "Pamimili"
+      },
+      "objectives": [
+        {
+          "sourceLanguage": "en",
+          "sourceText": "• Use appropriate expressions in the context of shopping",
+          "id": "Gunakan ekspresi yang sesuai dalam konteks belanja"
+        },
+        {
+          "sourceLanguage": "en",
+          "sourceText": "• Engage in small talk about shopping",
+          "id": "Terlibat dalam pembicaraan kecil tentang belanja"
+        }
+      ],
+      "assets": [
+        "assets/gcd.jpg",
+        "assets/155.jpg",
+        "assets/158a.jpg",
+        "assets/158b.jpg",
+        "assets/159.jpg",
+        "assets/168.jpg",
+        "assets/cd.jpg",
+        "assets/169.jpg"
+      ],
+      "sha256": "5969839a6d3a560c6ffae7c9e4b71ff4a925845450ba526b2d1b6c9aa5723cb6"
+    },
+    {
+      "id": "elementary-tagalog-1-lesson-10",
+      "unitId": "unit-04-home",
+      "order": 10,
+      "path": "10-my-house.json",
+      "title": {
+        "id": "Rumah Saya",
+        "fil": "Ang Aking Bahay"
+      },
+      "summary": {
+        "id": "Rumah Saya",
+        "fil": "Ang Aking Bahay"
+      },
+      "objectives": [
+        {
+          "sourceLanguage": "en",
+          "sourceText": "• Describe specific location of an object",
+          "id": "Jelaskan lokasi spesifik dari sebuah objek"
+        },
+        {
+          "sourceLanguage": "en",
+          "sourceText": "• List the different objects in the house",
+          "id": "Daftar objek yang berbeda di rumah"
+        }
+      ],
+      "assets": [
+        "assets/gcd.jpg",
+        "assets/174.jpg",
+        "assets/175.jpg",
+        "assets/176.jpg",
+        "assets/184.jpg",
+        "assets/cd.jpg"
+      ],
+      "sha256": "0a9b6a733edbe8e2fed44207046ee4718d554aef77d21b2b6776c01a52381e43"
+    },
+    {
+      "id": "elementary-tagalog-1-lesson-11",
+      "unitId": "unit-04-home",
+      "order": 11,
+      "path": "11-my-favorite-place.json",
+      "title": {
+        "id": "Tempat Favorit Saya",
+        "fil": "Ang Paborito Kong Lugar"
+      },
+      "summary": {
+        "id": "Tempat Favorit Saya",
+        "fil": "Ang Paborito Kong Lugar"
+      },
+      "objectives": [
+        {
+          "sourceLanguage": "en",
+          "sourceText": "• Express preference about various places",
+          "id": "Favorit Express tentang berbagai tempat"
+        },
+        {
+          "sourceLanguage": "en",
+          "sourceText": "• Describe and provide basic information about different locations",
+          "id": "Jelaskan dan menyediakan informasi dasar tentang lokasi yang berbeda"
+        }
+      ],
+      "assets": [
+        "assets/gcd.jpg",
+        "assets/188.jpg",
+        "assets/188a.jpg",
+        "assets/188b.jpg",
+        "assets/189.jpg",
+        "assets/190.jpg",
+        "assets/191a.jpg",
+        "assets/191b.jpg",
+        "assets/191c.jpg",
+        "assets/192.jpg",
+        "assets/199a.jpg",
+        "assets/199b.jpg",
+        "assets/200a.jpg",
+        "assets/200.jpg",
+        "assets/201.jpg",
+        "assets/cd.jpg"
+      ],
+      "sha256": "f94c4fe58872a86f0a8af8234c019bd5acf8646baec7d331ca9fc070ffd62519"
+    },
+    {
+      "id": "elementary-tagalog-1-lesson-12",
+      "unitId": "unit-04-home",
+      "order": 12,
+      "path": "12-my-hometown.json",
+      "title": {
+        "id": "Kampung Halaman Saya",
+        "fil": "Ang Bayan Ko"
+      },
+      "summary": {
+        "id": "Kampung Halaman Saya",
+        "fil": "Ang Bayan Ko"
+      },
+      "objectives": [
+        {
+          "sourceLanguage": "en",
+          "sourceText": "• Give and ask for directions",
+          "id": "Berikan dan meminta arah"
+        },
+        {
+          "sourceLanguage": "en",
+          "sourceText": "• Express simple requests and commands",
+          "id": "Permintaan sederhana dan perintah ekspres"
+        }
+      ],
+      "assets": [
+        "assets/gcd.jpg",
+        "assets/205.jpg",
+        "assets/206.jpg",
+        "assets/207.jpg",
+        "assets/214a.jpg",
+        "assets/214.jpg",
+        "assets/cd.jpg"
+      ],
+      "sha256": "36a8cc6726e33e083f445f57884942d948418308aae8b6a10fd2fa9438bdeb11"
+    },
+    {
+      "id": "elementary-tagalog-1-lesson-13",
+      "unitId": "unit-05-health",
+      "order": 13,
+      "path": "13-various-illnesses.json",
+      "title": {
+        "id": "Berbagai Penyakit",
+        "fil": "Mga Iba’t ibang Sakit"
+      },
+      "summary": {
+        "id": "Berbagai Penyakit",
+        "fil": "Mga Iba’t ibang Sakit"
+      },
+      "objectives": [
+        {
+          "sourceLanguage": "en",
+          "sourceText": "• Talk about the physical symptoms of common ailments",
+          "id": "Bicara tentang gejala fisik penyakit umum"
+        },
+        {
+          "sourceLanguage": "en",
+          "sourceText": "• Develop the language skills to suggest possible remedies",
+          "id": "Develop keterampilan bahasa untuk menyarankan perbaikan mungkin"
+        },
+        {
+          "sourceLanguage": "en",
+          "sourceText": "• Use helping verbs and negative commands in a sentence",
+          "id": "Gunakan bantuan kata kerja dan perintah negatif dalam sebuah kalimat"
+        }
+      ],
+      "assets": [
+        "assets/gcd.jpg",
+        "assets/221.jpg",
+        "assets/221a.jpg",
+        "assets/223a.jpg",
+        "assets/223.jpg",
+        "assets/226.jpg",
+        "assets/230.jpg",
+        "assets/cd.jpg",
+        "assets/231.jpg"
+      ],
+      "sha256": "4b952c92f8d619ef0937e4235534db30a2f59837ba452bdb55073018c083bcb7"
+    },
+    {
+      "id": "elementary-tagalog-1-lesson-14",
+      "unitId": "unit-05-health",
+      "order": 14,
+      "path": "14-going-to-the-doctor.json",
+      "title": {
+        "id": "Berkunjung ke Dokter",
+        "fil": "Pagbisita sa Doktor"
+      },
+      "summary": {
+        "id": "Berkunjung ke Dokter",
+        "fil": "Pagbisita sa Doktor"
+      },
+      "objectives": [
+        {
+          "sourceLanguage": "en",
+          "sourceText": "• Use appropriate expressions in the context of a doctor’s consultation",
+          "id": "Gunakan ekspresi yang sesuai dalam konteks konsultasi dokter"
+        },
+        {
+          "sourceLanguage": "en",
+          "sourceText": "• Describe minor aches and pains",
+          "id": "Deskripsikan sakit kecil dan sakit"
+        }
+      ],
+      "assets": [
+        "assets/gcd.jpg",
+        "assets/234.jpg",
+        "assets/234a.jpg",
+        "assets/235.jpg",
+        "assets/237.jpg",
+        "assets/244a.jpg",
+        "assets/244b.jpg",
+        "assets/244c.jpg",
+        "assets/245a.jpg",
+        "assets/245b.jpg",
+        "assets/246a.jpg",
+        "assets/246b.jpg",
+        "assets/cd.jpg"
+      ],
+      "sha256": "0ae5849a7e0f27c6318f1f96eac2724ab341c25a2a8057be32289779786c2788"
+    },
+    {
+      "id": "elementary-tagalog-1-lesson-15",
+      "unitId": "unit-05-health",
+      "order": 15,
+      "path": "15-various-remedies.json",
+      "title": {
+        "id": "Berbagai Pengobatan",
+        "fil": "Mga Iba’t ibang Lunas"
+      },
+      "summary": {
+        "id": "Berbagai Pengobatan",
+        "fil": "Mga Iba’t ibang Lunas"
+      },
+      "objectives": [
+        {
+          "sourceLanguage": "en",
+          "sourceText": "• Talk about medicinal plants and other non-traditional form of medication",
+          "id": "Bicara tentang tanaman obat dan lain-tradisional bentuk obat"
+        },
+        {
+          "sourceLanguage": "en",
+          "sourceText": "• Express different things that one wants, needs, or does not want to do",
+          "id": "Ekspres berbeda hal yang seseorang ingin, kebutuhan, atau tidak ingin melakukan"
+        }
+      ],
+      "assets": [
+        "assets/gcd.jpg",
+        "assets/249.jpg",
+        "assets/250.jpg",
+        "assets/251a.jpg",
+        "assets/251b.jpg",
+        "assets/251c.jpg",
+        "assets/257.jpg",
+        "assets/258a.jpg",
+        "assets/258b.jpg",
+        "assets/cd.jpg"
+      ],
+      "sha256": "3662ce48caeb4cc1c9121a1f0c5a8e77d0be978f15c30af5f275675ea90fa544"
+    },
+    {
+      "id": "elementary-tagalog-1-lesson-16",
+      "unitId": "unit-06-food",
+      "order": 16,
+      "path": "16-at-the-market.json",
+      "title": {
+        "id": "Di Pasar",
+        "fil": "Sa Palengke"
+      },
+      "summary": {
+        "id": "Di Pasar",
+        "fil": "Sa Palengke"
+      },
+      "objectives": [
+        {
+          "sourceLanguage": "en",
+          "sourceText": "• Use appropriate expressions in the context of shopping",
+          "id": "Gunakan ekspresi yang sesuai dalam konteks belanja"
+        },
+        {
+          "sourceLanguage": "en",
+          "sourceText": "• Engage in small talk about shopping",
+          "id": "Terlibat dalam pembicaraan kecil tentang belanja"
+        }
+      ],
+      "assets": [
+        "assets/gcd.jpg",
+        "assets/264.jpg",
+        "assets/269.jpg",
+        "assets/272.jpg",
+        "assets/cd.jpg"
+      ],
+      "sha256": "93fb39185436a6ed7390da6a2570f448aac6551d77b4804ee56f4bce63037f4d"
+    },
+    {
+      "id": "elementary-tagalog-1-lesson-17",
+      "unitId": "unit-06-food",
+      "order": 17,
+      "path": "17-eating-out.json",
+      "title": {
+        "id": "Makan di Luar",
+        "fil": "Pagkain sa Labas"
+      },
+      "summary": {
+        "id": "Makan di Luar",
+        "fil": "Pagkain sa Labas"
+      },
+      "objectives": [
+        {
+          "sourceLanguage": "en",
+          "sourceText": "• Order food at a restaurant",
+          "id": "Pesan makanan di restoran."
+        },
+        {
+          "sourceLanguage": "en",
+          "sourceText": "• Express preferences regarding food and drink",
+          "id": "Pilihan Express tentang makanan dan minuman"
+        },
+        {
+          "sourceLanguage": "mixed",
+          "sourceText": "• Make requests",
+          "id": "Buat permintaan"
+        }
+      ],
+      "assets": [
+        "assets/gcd.jpg",
+        "assets/261.jpg",
+        "assets/280.jpg",
+        "assets/286.jpg",
+        "assets/287.jpg",
+        "assets/cd.jpg"
+      ],
+      "sha256": "fc94397d1c4b6e250953bb431bb9957df9b797db0aa6c84f92593e4758d590a7"
+    },
+    {
+      "id": "elementary-tagalog-1-lesson-18",
+      "unitId": "unit-06-food",
+      "order": 18,
+      "path": "18-cooking.json",
+      "title": {
+        "id": "Memasak",
+        "fil": "Pagluluto"
+      },
+      "summary": {
+        "id": "Memasak",
+        "fil": "Pagluluto"
+      },
+      "objectives": [
+        {
+          "sourceLanguage": "en",
+          "sourceText": "• Give and follow instructions",
+          "id": "Berikan dan ikuti instruksi"
+        },
+        {
+          "sourceLanguage": "en",
+          "sourceText": "• Talk about common food preparation techniques in Filipino cooking",
+          "id": "Berbicara tentang teknik persiapan makanan umum dalam memasak Filipina"
+        }
+      ],
+      "assets": [
+        "assets/gcd.jpg",
+        "assets/291.jpg",
+        "assets/292.jpg",
+        "assets/293a.jpg",
+        "assets/293.jpg",
+        "assets/293b.jpg",
+        "assets/cd.jpg",
+        "assets/303.jpg"
+      ],
+      "sha256": "48c489279540f227f14fc02f15d6f582703c9d006e6b4011fbd915a478fe2e28"
+    },
+    {
+      "id": "elementary-tagalog-1-lesson-19",
+      "unitId": "unit-07-travel",
+      "order": 19,
+      "path": "19-vacation.json",
+      "title": {
+        "id": "Liburan",
+        "fil": "Bakasyon"
+      },
+      "summary": {
+        "id": "Liburan",
+        "fil": "Bakasyon"
+      },
+      "objectives": [
+        {
+          "sourceLanguage": "en",
+          "sourceText": "• Talk about a previous vacation",
+          "id": "Bicara tentang liburan sebelumnya"
+        },
+        {
+          "sourceLanguage": "mixed",
+          "sourceText": "• Describe places",
+          "id": "Deskripsikan tempat"
+        },
+        {
+          "sourceLanguage": "mixed",
+          "sourceText": "• Reserve a plane ticket",
+          "id": "Reserve tiket pesawat"
+        },
+        {
+          "sourceLanguage": "en",
+          "sourceText": "• Give and ask for directions",
+          "id": "Berikan dan meminta arah"
+        }
+      ],
+      "assets": [
+        "assets/gcd.jpg",
+        "assets/310.jpg",
+        "assets/cd.jpg"
+      ],
+      "sha256": "c57a4c4d786756460afb5c5a41762848458ac65276e96f5a1d86bcf7989a8c53"
+    },
+    {
+      "id": "elementary-tagalog-1-lesson-20",
+      "unitId": "unit-07-travel",
+      "order": 20,
+      "path": "20-fiestas.json",
+      "title": {
+        "id": "Pesta dan Perayaan",
+        "fil": "Mga Pista"
+      },
+      "summary": {
+        "id": "Pesta dan Perayaan",
+        "fil": "Mga Pista"
+      },
+      "objectives": [
+        {
+          "sourceLanguage": "en",
+          "sourceText": "• Discuss some specific holidays and festivities",
+          "id": "Diskusikan beberapa hari libur tertentu dan perayaan"
+        },
+        {
+          "sourceLanguage": "mixed",
+          "sourceText": "• Say dates",
+          "id": "Katakanlah tanggal"
+        }
+      ],
+      "assets": [
+        "assets/gcd.jpg",
+        "assets/323.jpg",
+        "assets/324a.jpg",
+        "assets/324b.jpg",
+        "assets/324c.jpg",
+        "assets/327a.jpg",
+        "assets/327b.jpg",
+        "assets/cd.jpg",
+        "assets/334.jpg"
+      ],
+      "sha256": "48ca6ccf0f0e227304f2d0642b4f1883a7bdd2caa6e77e8b89fef1abba990218"
+    },
+    {
+      "id": "elementary-tagalog-1-lesson-21",
+      "unitId": "unit-07-travel",
+      "order": 21,
+      "path": "21-places-in-the-philippines.json",
+      "title": {
+        "id": "Berbagai Tempat di Filipina",
+        "fil": "Mga Iba’t ibang Lugar sa Pilipinas"
+      },
+      "summary": {
+        "id": "Berbagai Tempat di Filipina",
+        "fil": "Mga Iba’t ibang Lugar sa Pilipinas"
+      },
+      "objectives": [
+        {
+          "sourceLanguage": "en",
+          "sourceText": "• Give detailed description of events",
+          "id": "Berikan deskripsi rinci dari kejadian"
+        },
+        {
+          "sourceLanguage": "en",
+          "sourceText": "• Express reaction/feeling about events",
+          "id": "Reaksi Express & lt; br / & gt; merasa tentang peristiwa"
+        },
+        {
+          "sourceLanguage": "mixed",
+          "sourceText": "• Narrate events in detail",
+          "id": "Narasi peristiwa secara rinci"
+        }
+      ],
+      "assets": [
+        "assets/gcd.jpg",
+        "assets/337.jpg",
+        "assets/343.jpg",
+        "assets/344a.jpg",
+        "assets/344b.jpg",
+        "assets/344c.jpg",
+        "assets/344d.jpg",
+        "assets/cd.jpg"
+      ],
+      "sha256": "91f7df1a3615ddc5842ebe536d9475d4d152c2784ec594a9e77e1e96271a9cb1"
+    },
+    {
+      "id": "elementary-tagalog-1-lesson-22",
+      "unitId": "unit-08-popular-culture",
+      "order": 22,
+      "path": "22-legends.json",
+      "title": {
+        "id": "Legenda",
+        "fil": "Mga Alamat"
+      },
+      "summary": {
+        "id": "Legenda",
+        "fil": "Mga Alamat"
+      },
+      "objectives": [
+        {
+          "sourceLanguage": "en",
+          "sourceText": "• Familiarize yourself with some popular Filipino legends",
+          "id": "Mempopulerkan dirimu dengan beberapa legenda Filipina populer"
+        },
+        {
+          "sourceLanguage": "mixed",
+          "sourceText": "• Use locative verbs",
+          "id": "Gunakan kata kerja locatif"
+        },
+        {
+          "sourceLanguage": "mixed",
+          "sourceText": "• Narrate a story",
+          "id": "Narasi sebuah cerita"
+        }
+      ],
+      "assets": [
+        "assets/gcd.jpg",
+        "assets/352.jpg",
+        "assets/353.jpg",
+        "assets/368.jpg",
+        "assets/cd.jpg"
+      ],
+      "sha256": "c083b486ed9b52222ca929bdd9bfe3837a1de9f188b46c402838a40064c723a1"
+    },
+    {
+      "id": "elementary-tagalog-1-lesson-23",
+      "unitId": "unit-08-popular-culture",
+      "order": 23,
+      "path": "23-cinema-and-television.json",
+      "title": {
+        "id": "Film dan Televisi",
+        "fil": "Sine at Telebisyon"
+      },
+      "summary": {
+        "id": "Film dan Televisi",
+        "fil": "Sine at Telebisyon"
+      },
+      "objectives": [
+        {
+          "sourceLanguage": "en",
+          "sourceText": "• Give and understand a summary of a movie",
+          "id": "Berikan dan memahami ringkasan film"
+        },
+        {
+          "sourceLanguage": "en",
+          "sourceText": "• Express your response to a movie",
+          "id": "Ekspres Respon Anda untuk sebuah film"
+        }
+      ],
+      "assets": [
+        "assets/gcd.jpg",
+        "assets/374.jpg",
+        "assets/374a.jpg",
+        "assets/382.jpg",
+        "assets/cd.jpg"
+      ],
+      "sha256": "5f85edad82598b67d25f343004753b459fde99a78feb287ef095f93b6647f312"
+    },
+    {
+      "id": "elementary-tagalog-1-lesson-24",
+      "unitId": "unit-08-popular-culture",
+      "order": 24,
+      "path": "24-music-and-dance.json",
+      "title": {
+        "id": "Musik dan Tari",
+        "fil": "Musika at Sayaw"
+      },
+      "summary": {
+        "id": "Musik dan Tari",
+        "fil": "Musika at Sayaw"
+      },
+      "objectives": [
+        {
+          "sourceLanguage": "en",
+          "sourceText": "• Understand a Filipino song",
+          "id": "Memahami lagu Filipina"
+        },
+        {
+          "sourceLanguage": "en",
+          "sourceText": "• Express your abilities or what you can or cannot do",
+          "id": "Ekspres kemampuan Anda atau apa yang Anda dapat atau tidak bisa melakukan"
+        }
+      ],
+      "assets": [
+        "assets/gcd.jpg",
+        "assets/387.jpg",
+        "assets/387a.jpg",
+        "assets/394.jpg",
+        "assets/395.jpg",
+        "assets/cd.jpg"
+      ],
+      "sha256": "583560c8815eabb14001b9f85709976ebf79e7c2287a3e18b42f0ae05e43dec3"
+    }
+  ]
+}

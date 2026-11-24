@@ -1,0 +1,4882 @@
+{
+  "schemaVersion": 1,
+  "id": "elementary-tagalog-1-lesson-04",
+  "courseId": "elementary-tagalog-1",
+  "unitId": "unit-02-family",
+  "order": 4,
+  "level": "BEGINNER",
+  "title": {
+    "id": "Keluarga Saya",
+    "fil": "Ang Pamilya Ko"
+  },
+  "summary": {
+    "id": "Keluarga Saya",
+    "fil": "Ang Pamilya Ko"
+  },
+  "objectives": [
+    {
+      "sourceLanguage": "en",
+      "sourceText": "• Ask and answer questions about one’s age",
+      "id": "Ajukan dan menjawab pertanyaan tentang usia seseorang"
+    },
+    {
+      "sourceLanguage": "en",
+      "sourceText": "• Describe family relationships using kinship terms",
+      "id": "Deskripsikan hubungan keluarga menggunakan istilah kekerabatan"
+    },
+    {
+      "sourceLanguage": "en",
+      "sourceText": "• Introduce or talk about family members",
+      "id": "Memperkenalkan atau berbicara tentang anggota keluarga"
+    }
+  ],
+  "source": {
+    "book": "Elementary Tagalog",
+    "file": "OEBPS/Text/Lesson4.xhtml"
+  },
+  "assets": [
+    "assets/gcd.jpg",
+    "assets/76.jpg",
+    "assets/77.jpg",
+    "assets/79.jpg",
+    "assets/79b.jpg",
+    "assets/86.jpg",
+    "assets/cd.jpg"
+  ],
+  "sections": [
+    {
+      "id": "lesson-04-overview",
+      "type": "OVERVIEW",
+      "title": {
+        "sourceLanguage": "mixed",
+        "sourceText": "Overview",
+        "id": "Gambaran Umum"
+      },
+      "blocks": [
+        {
+          "type": "text",
+          "style": "body",
+          "text": {
+            "sourceLanguage": "en",
+            "sourceText": "An Overview of Lesson 4",
+            "id": "Gambaran Umum Pelajaran 4"
+          }
+        },
+        {
+          "type": "text",
+          "style": "body",
+          "text": {
+            "sourceLanguage": "mixed",
+            "sourceText": "Objectives",
+            "id": "Objeksi"
+          }
+        },
+        {
+          "type": "text",
+          "style": "body",
+          "text": {
+            "sourceLanguage": "en",
+            "sourceText": "• Ask and answer questions about one’s age",
+            "id": "Ajukan dan menjawab pertanyaan tentang usia seseorang"
+          }
+        },
+        {
+          "type": "text",
+          "style": "body",
+          "text": {
+            "sourceLanguage": "en",
+            "sourceText": "• Describe family relationships using kinship terms",
+            "id": "Deskripsikan hubungan keluarga menggunakan istilah kekerabatan"
+          }
+        },
+        {
+          "type": "text",
+          "style": "body",
+          "text": {
+            "sourceLanguage": "en",
+            "sourceText": "• Introduce or talk about family members",
+            "id": "Memperkenalkan atau berbicara tentang anggota keluarga"
+          }
+        },
+        {
+          "type": "text",
+          "style": "body",
+          "text": {
+            "sourceLanguage": "mixed",
+            "sourceText": "Vocabulary",
+            "id": "Kosakata"
+          }
+        },
+        {
+          "type": "text",
+          "style": "body",
+          "text": {
+            "sourceLanguage": "mixed",
+            "sourceText": "• Family Relationships",
+            "id": "Keluarga Hubungan"
+          }
+        },
+        {
+          "type": "text",
+          "style": "body",
+          "text": {
+            "sourceLanguage": "mixed",
+            "sourceText": "• Demonstrative Pronouns",
+            "id": "Demonstrasi Pronouns"
+          }
+        },
+        {
+          "type": "text",
+          "style": "body",
+          "text": {
+            "sourceLanguage": "mixed",
+            "sourceText": "• Affixes and Enclitics",
+            "id": "Affixes dan Enclicics"
+          }
+        },
+        {
+          "type": "text",
+          "style": "body",
+          "text": {
+            "sourceLanguage": "mixed",
+            "sourceText": "• Possessive Pronouns",
+            "id": "Possesif Pronouns"
+          }
+        },
+        {
+          "type": "text",
+          "style": "body",
+          "text": {
+            "sourceLanguage": "mixed",
+            "sourceText": "• Numbers",
+            "id": "Nomor:"
+          }
+        },
+        {
+          "type": "text",
+          "style": "body",
+          "text": {
+            "sourceLanguage": "mixed",
+            "sourceText": "• Idioms and Expressions",
+            "id": "Ekspresi dan Idiom"
+          }
+        },
+        {
+          "type": "text",
+          "style": "body",
+          "text": {
+            "sourceLanguage": "en",
+            "sourceText": "Dialogue: Pagbisita sa Bahay ni Mark Visiting Mark at His Home",
+            "id": "Dialog: Pagbibita sa Bahay ni Mark Visiting Mark di Rumah-Nya"
+          }
+        },
+        {
+          "type": "text",
+          "style": "body",
+          "text": {
+            "sourceLanguage": "mixed",
+            "sourceText": "Dialogue Comprehension",
+            "id": "Pemahaman Dialog"
+          }
+        },
+        {
+          "type": "text",
+          "style": "body",
+          "text": {
+            "sourceLanguage": "mixed",
+            "sourceText": "Activities",
+            "id": "Aktivitas"
+          }
+        },
+        {
+          "type": "text",
+          "style": "body",
+          "text": {
+            "sourceLanguage": "mixed",
+            "sourceText": "Activity 1: Family Tree",
+            "id": "Aktivitas 1: Pohon Keluarga"
+          }
+        },
+        {
+          "type": "text",
+          "style": "body",
+          "text": {
+            "sourceLanguage": "mixed",
+            "sourceText": "Activity 2: Interview",
+            "id": "Aktivitas 2: Wawancara"
+          }
+        },
+        {
+          "type": "text",
+          "style": "body",
+          "text": {
+            "sourceLanguage": "mixed",
+            "sourceText": "Activity 3: Reading",
+            "id": "Aktivitas 3: Membaca"
+          }
+        },
+        {
+          "type": "text",
+          "style": "body",
+          "text": {
+            "sourceLanguage": "mixed",
+            "sourceText": "Grammar",
+            "id": "Tata Bahasa"
+          }
+        },
+        {
+          "type": "text",
+          "style": "body",
+          "text": {
+            "sourceLanguage": "fil",
+            "sourceText": "Definition of terms: Ng Phrase, Ng Pronouns, Affix, Prefix, Suffix",
+            "id": "Definisi dari proms: Dengan Fase, oleh Pronouns, Affix, Prefix, Suffix",
+            "tagalog": "Definition of terms: Ng Phrase, Ng Pronouns, Affix, Prefix, Suffix"
+          }
+        },
+        {
+          "type": "text",
+          "style": "body",
+          "text": {
+            "sourceLanguage": "mixed",
+            "sourceText": "Examining Form",
+            "id": "Mengkaji Bentuk"
+          }
+        },
+        {
+          "type": "table",
+          "rows": [
+            {
+              "cells": [
+                {
+                  "sourceLanguage": "mixed",
+                  "sourceText": "I.",
+                  "id": "Aku..."
+                },
+                {
+                  "sourceLanguage": "mixed",
+                  "sourceText": "Possessive Noun Markers and Possessive Pronouns",
+                  "id": "Posesif Noun Markers dan Pronouns Possesif"
+                }
+              ]
+            },
+            {
+              "cells": [
+                {
+                  "sourceLanguage": "en",
+                  "sourceText": "Grammar Presentation: Possessive Markers and Pronouns and Demonstrative Pronouns",
+                  "id": "Penyajian Tata Bahasa: Possessive Markers and Pronouns and Demonstration Pronouns"
+                }
+              ]
+            },
+            {
+              "cells": [
+                {
+                  "sourceLanguage": "mixed",
+                  "sourceText": "Grammar Notes",
+                  "id": "Catatan Tata Bahasa"
+                }
+              ]
+            },
+            {
+              "cells": [
+                {
+                  "sourceLanguage": "mixed",
+                  "sourceText": "II.",
+                  "id": "II."
+                },
+                {
+                  "sourceLanguage": "mixed",
+                  "sourceText": "Numbers",
+                  "id": "Nomor"
+                }
+              ]
+            },
+            {
+              "cells": [
+                {
+                  "sourceLanguage": "en",
+                  "sourceText": "Grammar Presentation: Numbers in Context",
+                  "id": "Penyajian Tata Bahasa: Nomor dalam Konteks"
+                }
+              ]
+            },
+            {
+              "cells": [
+                {
+                  "sourceLanguage": "mixed",
+                  "sourceText": "Grammar Notes",
+                  "id": "Catatan Tata Bahasa"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "style": "body",
+          "text": {
+            "sourceLanguage": "mixed",
+            "sourceText": "Practice",
+            "id": "Latihan"
+          }
+        },
+        {
+          "type": "text",
+          "style": "body",
+          "text": {
+            "sourceLanguage": "en",
+            "sourceText": "I. Speaking Practice",
+            "id": "I. Latihan Berbicara"
+          }
+        },
+        {
+          "type": "text",
+          "style": "body",
+          "text": {
+            "sourceLanguage": "mixed",
+            "sourceText": "II. Reading Practice",
+            "id": "II. Latihan Membaca"
+          }
+        },
+        {
+          "type": "text",
+          "style": "body",
+          "text": {
+            "sourceLanguage": "mixed",
+            "sourceText": "III. Writing Practice",
+            "id": "III. Latihan Menulis"
+          }
+        },
+        {
+          "type": "text",
+          "style": "body",
+          "text": {
+            "sourceLanguage": "mixed",
+            "sourceText": "IV. Listening Practice",
+            "id": "IV. Latihan Menyimak"
+          }
+        }
+      ]
+    },
+    {
+      "id": "lesson-04-vocabulary",
+      "type": "VOCABULARY",
+      "title": {
+        "sourceLanguage": "mixed",
+        "sourceText": "Vocabulary",
+        "id": "Kosakata"
+      },
+      "blocks": [
+        {
+          "type": "text",
+          "style": "body",
+          "text": {
+            "sourceLanguage": "mixed",
+            "sourceText": "Vocabulary (04–1)",
+            "id": "Kosakata (04–1)"
+          }
+        },
+        {
+          "type": "image",
+          "path": "assets/gcd.jpg"
+        },
+        {
+          "type": "text",
+          "style": "body",
+          "text": {
+            "sourceLanguage": "en",
+            "sourceText": "The vocabulary will help you speak about family relationships and participate in the activities in this lesson. Memorize the vocabulary words before proceeding to the dialogue.",
+            "id": "Kosakata tersebut akan membantu Anda berbicara tentang hubungan keluarga dan berpartisipasi dalam kegiatan dalam pelajaran ini. mengingat kata-kata kosa kata sebelum melanjutkan dialog."
+          }
+        },
+        {
+          "type": "table",
+          "rows": [
+            {
+              "cells": [
+                {
+                  "sourceLanguage": "en",
+                  "sourceText": "Kinship Terms and Other Relations",
+                  "id": "Kinship Terms dan Hubungan Lain"
+                }
+              ]
+            },
+            {
+              "cells": [
+                {
+                  "sourceLanguage": "fil",
+                  "sourceText": "anak",
+                  "id": "anak (anak, anak)",
+                  "tagalog": "anak"
+                },
+                {
+                  "sourceLanguage": "mixed",
+                  "sourceText": "child (son, daughter)",
+                  "id": "anak (anak, anak)"
+                }
+              ]
+            },
+            {
+              "cells": [
+                {
+                  "sourceLanguage": "fil",
+                  "sourceText": "apo",
+                  "id": "cucu (cucu, cucu)",
+                  "tagalog": "apo"
+                },
+                {
+                  "sourceLanguage": "mixed",
+                  "sourceText": "grandchild (grandson, granddaughter)",
+                  "id": "cucu (cucu, cucu)"
+                }
+              ]
+            },
+            {
+              "cells": [
+                {
+                  "sourceLanguage": "fil",
+                  "sourceText": "asawa",
+                  "id": "pasangan, suami, istri",
+                  "tagalog": "asawa"
+                },
+                {
+                  "sourceLanguage": "mixed",
+                  "sourceText": "spouse, husband, wife",
+                  "id": "pasangan, suami, istri"
+                }
+              ]
+            },
+            {
+              "cells": [
+                {
+                  "sourceLanguage": "fil",
+                  "sourceText": "ate",
+                  "id": "Kakak",
+                  "tagalog": "ate"
+                },
+                {
+                  "sourceLanguage": "mixed",
+                  "sourceText": "elder sister",
+                  "id": "Kakak"
+                }
+              ]
+            },
+            {
+              "cells": [
+                {
+                  "sourceLanguage": "fil",
+                  "sourceText": "bunso",
+                  "id": "adik bungsu",
+                  "tagalog": "bunso"
+                },
+                {
+                  "sourceLanguage": "mixed",
+                  "sourceText": "youngest sibling",
+                  "id": "adik bungsu"
+                }
+              ]
+            },
+            {
+              "cells": [
+                {
+                  "sourceLanguage": "fil",
+                  "sourceText": "inaanak",
+                  "id": "godchild (godson, goddaughter)",
+                  "tagalog": "inaanak"
+                },
+                {
+                  "sourceLanguage": "mixed",
+                  "sourceText": "godchild (godson, goddaughter)",
+                  "id": "godchild (godson, goddaughter)"
+                }
+              ]
+            },
+            {
+              "cells": [
+                {
+                  "sourceLanguage": "fil",
+                  "sourceText": "kaibigan",
+                  "id": "teman",
+                  "tagalog": "kaibigan"
+                },
+                {
+                  "sourceLanguage": "mixed",
+                  "sourceText": "friend",
+                  "id": "teman"
+                }
+              ]
+            },
+            {
+              "cells": [
+                {
+                  "sourceLanguage": "fil",
+                  "sourceText": "kaklase",
+                  "id": "teman sekelas",
+                  "tagalog": "kaklase"
+                },
+                {
+                  "sourceLanguage": "mixed",
+                  "sourceText": "classmate",
+                  "id": "teman sekelas"
+                }
+              ]
+            },
+            {
+              "cells": [
+                {
+                  "sourceLanguage": "fil",
+                  "sourceText": "kamag-anak",
+                  "id": "relatif",
+                  "tagalog": "kamag-anak"
+                },
+                {
+                  "sourceLanguage": "mixed",
+                  "sourceText": "relative",
+                  "id": "relatif"
+                }
+              ]
+            },
+            {
+              "cells": [
+                {
+                  "sourceLanguage": "fil",
+                  "sourceText": "kapatid",
+                  "id": "(Saudara, adik)",
+                  "tagalog": "kapatid"
+                },
+                {
+                  "sourceLanguage": "mixed",
+                  "sourceText": "sibling (brother, sister)",
+                  "id": "(Saudara, adik)"
+                }
+              ]
+            },
+            {
+              "cells": [
+                {
+                  "sourceLanguage": "fil",
+                  "sourceText": "kuya",
+                  "id": "Kakak.",
+                  "tagalog": "kuya"
+                },
+                {
+                  "sourceLanguage": "mixed",
+                  "sourceText": "elder brother",
+                  "id": "Kakak."
+                }
+              ]
+            },
+            {
+              "cells": [
+                {
+                  "sourceLanguage": "fil",
+                  "sourceText": "lola",
+                  "id": "nenek",
+                  "tagalog": "lola"
+                },
+                {
+                  "sourceLanguage": "mixed",
+                  "sourceText": "grandmother",
+                  "id": "nenek"
+                }
+              ]
+            },
+            {
+              "cells": [
+                {
+                  "sourceLanguage": "fil",
+                  "sourceText": "lolo",
+                  "id": "Kakek",
+                  "tagalog": "lolo"
+                },
+                {
+                  "sourceLanguage": "mixed",
+                  "sourceText": "grandfather",
+                  "id": "Kakek"
+                }
+              ]
+            },
+            {
+              "cells": [
+                {
+                  "sourceLanguage": "fil",
+                  "sourceText": "mag-anak",
+                  "id": "keluarga",
+                  "tagalog": "mag-anak"
+                },
+                {
+                  "sourceLanguage": "mixed",
+                  "sourceText": "family",
+                  "id": "keluarga"
+                }
+              ]
+            },
+            {
+              "cells": [
+                {
+                  "sourceLanguage": "fil",
+                  "sourceText": "magulang",
+                  "id": "induk",
+                  "tagalog": "magulang"
+                },
+                {
+                  "sourceLanguage": "mixed",
+                  "sourceText": "parent",
+                  "id": "induk"
+                }
+              ]
+            },
+            {
+              "cells": [
+                {
+                  "sourceLanguage": "fil",
+                  "sourceText": "misis",
+                  "id": "istri",
+                  "tagalog": "misis"
+                },
+                {
+                  "sourceLanguage": "mixed",
+                  "sourceText": "wife",
+                  "id": "istri"
+                }
+              ]
+            },
+            {
+              "cells": [
+                {
+                  "sourceLanguage": "fil",
+                  "sourceText": "mister",
+                  "id": "suami",
+                  "tagalog": "mister"
+                },
+                {
+                  "sourceLanguage": "mixed",
+                  "sourceText": "husband",
+                  "id": "suami"
+                }
+              ]
+            },
+            {
+              "cells": [
+                {
+                  "sourceLanguage": "fil",
+                  "sourceText": "nanay/ina",
+                  "id": "ibu",
+                  "tagalog": "nanay/ina"
+                },
+                {
+                  "sourceLanguage": "mixed",
+                  "sourceText": "mother",
+                  "id": "ibu"
+                }
+              ]
+            },
+            {
+              "cells": [
+                {
+                  "sourceLanguage": "fil",
+                  "sourceText": "ninang",
+                  "id": "ibu baptis",
+                  "tagalog": "ninang"
+                },
+                {
+                  "sourceLanguage": "mixed",
+                  "sourceText": "godmother",
+                  "id": "ibu baptis"
+                }
+              ]
+            },
+            {
+              "cells": [
+                {
+                  "sourceLanguage": "fil",
+                  "sourceText": "ninong",
+                  "id": "ayah baptis",
+                  "tagalog": "ninong"
+                },
+                {
+                  "sourceLanguage": "mixed",
+                  "sourceText": "godfather",
+                  "id": "ayah baptis"
+                }
+              ]
+            },
+            {
+              "cells": [
+                {
+                  "sourceLanguage": "fil",
+                  "sourceText": "pamangkin",
+                  "id": "Keponakan, keponakan",
+                  "tagalog": "pamangkin"
+                },
+                {
+                  "sourceLanguage": "mixed",
+                  "sourceText": "nephew, niece",
+                  "id": "Keponakan, keponakan"
+                }
+              ]
+            },
+            {
+              "cells": [
+                {
+                  "sourceLanguage": "fil",
+                  "sourceText": "panganay",
+                  "id": "kakak tertua, anak tertua",
+                  "tagalog": "panganay"
+                },
+                {
+                  "sourceLanguage": "mixed",
+                  "sourceText": "oldest sibling, eldest child",
+                  "id": "kakak tertua, anak tertua"
+                }
+              ]
+            },
+            {
+              "cells": [
+                {
+                  "sourceLanguage": "fil",
+                  "sourceText": "pinsan",
+                  "id": "sepupu",
+                  "tagalog": "pinsan"
+                },
+                {
+                  "sourceLanguage": "mixed",
+                  "sourceText": "cousin",
+                  "id": "sepupu"
+                }
+              ]
+            },
+            {
+              "cells": [
+                {
+                  "sourceLanguage": "fil",
+                  "sourceText": "tatay/ama",
+                  "id": "ayah",
+                  "tagalog": "tatay/ama"
+                },
+                {
+                  "sourceLanguage": "mixed",
+                  "sourceText": "father",
+                  "id": "ayah"
+                }
+              ]
+            },
+            {
+              "cells": [
+                {
+                  "sourceLanguage": "fil",
+                  "sourceText": "tita/tiya/tia",
+                  "id": "Bibi",
+                  "tagalog": "tita/tiya/tia"
+                },
+                {
+                  "sourceLanguage": "mixed",
+                  "sourceText": "aunt",
+                  "id": "Bibi"
+                }
+              ]
+            },
+            {
+              "cells": [
+                {
+                  "sourceLanguage": "fil",
+                  "sourceText": "tito/tiyo/tio",
+                  "id": "Paman.",
+                  "tagalog": "tito/tiyo/tio"
+                },
+                {
+                  "sourceLanguage": "mixed",
+                  "sourceText": "uncle",
+                  "id": "Paman."
+                }
+              ]
+            },
+            {
+              "cells": [
+                {
+                  "sourceLanguage": "mixed",
+                  "sourceText": "Possessive Pronouns and Plural Interrogatives",
+                  "id": "Possesif Pronouns dan Plural Interrogatives"
+                }
+              ]
+            },
+            {
+              "cells": [
+                {
+                  "sourceLanguage": "fil",
+                  "sourceText": "anu-ano",
+                  "id": "apa yang",
+                  "tagalog": "anu-ano"
+                },
+                {
+                  "sourceLanguage": "en",
+                  "sourceText": "what are",
+                  "id": "apa yang"
+                }
+              ]
+            },
+            {
+              "cells": [
+                {
+                  "sourceLanguage": "fil",
+                  "sourceText": "ko",
+                  "id": "my",
+                  "tagalog": "ko"
+                },
+                {
+                  "sourceLanguage": "mixed",
+                  "sourceText": "my",
+                  "id": "my"
+                }
+              ]
+            },
+            {
+              "cells": [
+                {
+                  "sourceLanguage": "fil",
+                  "sourceText": "mo",
+                  "id": "Anda",
+                  "tagalog": "mo"
+                },
+                {
+                  "sourceLanguage": "mixed",
+                  "sourceText": "your",
+                  "id": "Anda"
+                }
+              ]
+            },
+            {
+              "cells": [
+                {
+                  "sourceLanguage": "fil",
+                  "sourceText": "namin",
+                  "id": "kami (eksklusif; tidak termasuk pendengar)",
+                  "tagalog": "namin"
+                },
+                {
+                  "sourceLanguage": "en",
+                  "sourceText": "our (exclusive; not including the listener)",
+                  "id": "kami (eksklusif; tidak termasuk pendengar)"
+                }
+              ]
+            },
+            {
+              "cells": [
+                {
+                  "sourceLanguage": "fil",
+                  "sourceText": "natin",
+                  "id": "kami (inklusif; termasuk pendengar)",
+                  "tagalog": "natin"
+                },
+                {
+                  "sourceLanguage": "en",
+                  "sourceText": "our (inclusive; including the listener)",
+                  "id": "kami (inklusif; termasuk pendengar)"
+                }
+              ]
+            },
+            {
+              "cells": [
+                {
+                  "sourceLanguage": "fil",
+                  "sourceText": "nila",
+                  "id": "mereka",
+                  "tagalog": "nila"
+                },
+                {
+                  "sourceLanguage": "mixed",
+                  "sourceText": "their",
+                  "id": "mereka"
+                }
+              ]
+            },
+            {
+              "cells": [
+                {
+                  "sourceLanguage": "fil",
+                  "sourceText": "ninyo",
+                  "id": "Anda (plural)",
+                  "tagalog": "ninyo"
+                },
+                {
+                  "sourceLanguage": "mixed",
+                  "sourceText": "your (plural)",
+                  "id": "Anda (plural)"
+                }
+              ]
+            },
+            {
+              "cells": [
+                {
+                  "sourceLanguage": "fil",
+                  "sourceText": "niya",
+                  "id": "dia / dia",
+                  "tagalog": "niya"
+                },
+                {
+                  "sourceLanguage": "en",
+                  "sourceText": "his/her",
+                  "id": "dia / dia"
+                }
+              ]
+            },
+            {
+              "cells": [
+                {
+                  "sourceLanguage": "fil",
+                  "sourceText": "sinu-sino",
+                  "id": "yang",
+                  "tagalog": "sinu-sino"
+                },
+                {
+                  "sourceLanguage": "en",
+                  "sourceText": "who are",
+                  "id": "yang"
+                }
+              ]
+            },
+            {
+              "cells": [
+                {
+                  "sourceLanguage": "mixed",
+                  "sourceText": "Demonstrative Pronouns",
+                  "id": "Pronouns Demonstrasi"
+                }
+              ]
+            },
+            {
+              "cells": [
+                {
+                  "sourceLanguage": "fil",
+                  "sourceText": "nandito",
+                  "id": "di sini",
+                  "tagalog": "nandito"
+                },
+                {
+                  "sourceLanguage": "mixed",
+                  "sourceText": "here",
+                  "id": "di sini"
+                }
+              ]
+            },
+            {
+              "cells": [
+                {
+                  "sourceLanguage": "fil",
+                  "sourceText": "nandiyan",
+                  "id": "Di dalam surga itu ada bidadari-bidadari yang baik-baik lagi cantik-cantik.",
+                  "tagalog": "nandiyan"
+                },
+                {
+                  "sourceLanguage": "en",
+                  "sourceText": "there (near the listener)",
+                  "id": "Di dalam surga itu ada bidadari-bidadari yang baik-baik lagi cantik-cantik."
+                }
+              ]
+            },
+            {
+              "cells": [
+                {
+                  "sourceLanguage": "fil",
+                  "sourceText": "nandoon",
+                  "id": "(Di dalam surga itu) maksudnya, dalam kedua surga itu dan pada gedung-gedung dan istana-istana yang ada di dalamnya (ada bidadari-bidadari yang selalu menundukkan pandangan matanya) artinya, pandangan mereka terbatas hanya kepada suami-suami mereka saja yang terdiri dari manusia dan jin.",
+                  "tagalog": "nandoon"
+                },
+                {
+                  "sourceLanguage": "en",
+                  "sourceText": "there (far from both the speaker and the listener)",
+                  "id": "(Di dalam surga itu) maksudnya, dalam kedua surga itu dan pada gedung-gedung dan istana-istana yang ada di dalamnya (ada bidadari-bidadari yang selalu menundukkan pandangan matanya) artinya, pandangan mereka terbatas hanya kepada suami-suami mereka saja yang terdiri dari manusia dan jin."
+                }
+              ]
+            },
+            {
+              "cells": [
+                {
+                  "sourceLanguage": "mixed",
+                  "sourceText": "Numbers",
+                  "id": "Nomor"
+                }
+              ]
+            },
+            {
+              "cells": [
+                {
+                  "sourceLanguage": "fil",
+                  "sourceText": "isa",
+                  "id": "satu",
+                  "tagalog": "isa"
+                },
+                {
+                  "sourceLanguage": "mixed",
+                  "sourceText": "one",
+                  "id": "satu"
+                }
+              ]
+            },
+            {
+              "cells": [
+                {
+                  "sourceLanguage": "fil",
+                  "sourceText": "dalawa",
+                  "id": "dua",
+                  "tagalog": "dalawa"
+                },
+                {
+                  "sourceLanguage": "mixed",
+                  "sourceText": "two",
+                  "id": "dua"
+                }
+              ]
+            },
+            {
+              "cells": [
+                {
+                  "sourceLanguage": "fil",
+                  "sourceText": "tatlo",
+                  "id": "tiga",
+                  "tagalog": "tatlo"
+                },
+                {
+                  "sourceLanguage": "mixed",
+                  "sourceText": "three",
+                  "id": "tiga"
+                }
+              ]
+            },
+            {
+              "cells": [
+                {
+                  "sourceLanguage": "fil",
+                  "sourceText": "apat",
+                  "id": "empat",
+                  "tagalog": "apat"
+                },
+                {
+                  "sourceLanguage": "mixed",
+                  "sourceText": "four",
+                  "id": "empat"
+                }
+              ]
+            },
+            {
+              "cells": [
+                {
+                  "sourceLanguage": "fil",
+                  "sourceText": "lima",
+                  "id": "lima",
+                  "tagalog": "lima"
+                },
+                {
+                  "sourceLanguage": "mixed",
+                  "sourceText": "five",
+                  "id": "lima"
+                }
+              ]
+            },
+            {
+              "cells": [
+                {
+                  "sourceLanguage": "fil",
+                  "sourceText": "anim",
+                  "id": "enam",
+                  "tagalog": "anim"
+                },
+                {
+                  "sourceLanguage": "mixed",
+                  "sourceText": "six",
+                  "id": "enam"
+                }
+              ]
+            },
+            {
+              "cells": [
+                {
+                  "sourceLanguage": "fil",
+                  "sourceText": "pito",
+                  "id": "tujuh",
+                  "tagalog": "pito"
+                },
+                {
+                  "sourceLanguage": "mixed",
+                  "sourceText": "seven",
+                  "id": "tujuh"
+                }
+              ]
+            },
+            {
+              "cells": [
+                {
+                  "sourceLanguage": "fil",
+                  "sourceText": "walo",
+                  "id": "delapan",
+                  "tagalog": "walo"
+                },
+                {
+                  "sourceLanguage": "mixed",
+                  "sourceText": "eight",
+                  "id": "delapan"
+                }
+              ]
+            },
+            {
+              "cells": [
+                {
+                  "sourceLanguage": "fil",
+                  "sourceText": "siyam",
+                  "id": "sembilan",
+                  "tagalog": "siyam"
+                },
+                {
+                  "sourceLanguage": "mixed",
+                  "sourceText": "nine",
+                  "id": "sembilan"
+                }
+              ]
+            },
+            {
+              "cells": [
+                {
+                  "sourceLanguage": "fil",
+                  "sourceText": "sampu",
+                  "id": "sepuluh",
+                  "tagalog": "sampu"
+                },
+                {
+                  "sourceLanguage": "mixed",
+                  "sourceText": "ten",
+                  "id": "sepuluh"
+                }
+              ]
+            },
+            {
+              "cells": [
+                {
+                  "sourceLanguage": "fil",
+                  "sourceText": "labing-isa",
+                  "id": "sebelas",
+                  "tagalog": "labing-isa"
+                },
+                {
+                  "sourceLanguage": "mixed",
+                  "sourceText": "eleven",
+                  "id": "sebelas"
+                }
+              ]
+            },
+            {
+              "cells": [
+                {
+                  "sourceLanguage": "fil",
+                  "sourceText": "labindalawa",
+                  "id": "Dua belas",
+                  "tagalog": "labindalawa"
+                },
+                {
+                  "sourceLanguage": "mixed",
+                  "sourceText": "twelve",
+                  "id": "Dua belas"
+                }
+              ]
+            },
+            {
+              "cells": [
+                {
+                  "sourceLanguage": "fil",
+                  "sourceText": "labintatlo",
+                  "id": "tiga belas",
+                  "tagalog": "labintatlo"
+                },
+                {
+                  "sourceLanguage": "mixed",
+                  "sourceText": "thirteen",
+                  "id": "tiga belas"
+                }
+              ]
+            },
+            {
+              "cells": [
+                {
+                  "sourceLanguage": "fil",
+                  "sourceText": "labing-apat",
+                  "id": "empat belas",
+                  "tagalog": "labing-apat"
+                },
+                {
+                  "sourceLanguage": "mixed",
+                  "sourceText": "fourteen",
+                  "id": "empat belas"
+                }
+              ]
+            },
+            {
+              "cells": [
+                {
+                  "sourceLanguage": "fil",
+                  "sourceText": "labinlima",
+                  "id": "lima belas",
+                  "tagalog": "labinlima"
+                },
+                {
+                  "sourceLanguage": "mixed",
+                  "sourceText": "fifteen",
+                  "id": "lima belas"
+                }
+              ]
+            },
+            {
+              "cells": [
+                {
+                  "sourceLanguage": "fil",
+                  "sourceText": "labing-anim",
+                  "id": "enam belas",
+                  "tagalog": "labing-anim"
+                },
+                {
+                  "sourceLanguage": "mixed",
+                  "sourceText": "sixteen",
+                  "id": "enam belas"
+                }
+              ]
+            },
+            {
+              "cells": [
+                {
+                  "sourceLanguage": "fil",
+                  "sourceText": "labimpito",
+                  "id": "Tujuh belas",
+                  "tagalog": "labimpito"
+                },
+                {
+                  "sourceLanguage": "mixed",
+                  "sourceText": "seventeen",
+                  "id": "Tujuh belas"
+                }
+              ]
+            },
+            {
+              "cells": [
+                {
+                  "sourceLanguage": "fil",
+                  "sourceText": "labingwalo",
+                  "id": "delapan belas",
+                  "tagalog": "labingwalo"
+                },
+                {
+                  "sourceLanguage": "mixed",
+                  "sourceText": "eighteen",
+                  "id": "delapan belas"
+                }
+              ]
+            },
+            {
+              "cells": [
+                {
+                  "sourceLanguage": "fil",
+                  "sourceText": "labinsiyam",
+                  "id": "19",
+                  "tagalog": "labinsiyam"
+                },
+                {
+                  "sourceLanguage": "mixed",
+                  "sourceText": "nineteen",
+                  "id": "19"
+                }
+              ]
+            },
+            {
+              "cells": [
+                {
+                  "sourceLanguage": "fil",
+                  "sourceText": "dalawampu",
+                  "id": "dua puluh",
+                  "tagalog": "dalawampu"
+                },
+                {
+                  "sourceLanguage": "mixed",
+                  "sourceText": "twenty",
+                  "id": "dua puluh"
+                }
+              ]
+            },
+            {
+              "cells": [
+                {
+                  "sourceLanguage": "fil",
+                  "sourceText": "tatlumpu",
+                  "id": "30",
+                  "tagalog": "tatlumpu"
+                },
+                {
+                  "sourceLanguage": "mixed",
+                  "sourceText": "thirty",
+                  "id": "30"
+                }
+              ]
+            },
+            {
+              "cells": [
+                {
+                  "sourceLanguage": "fil",
+                  "sourceText": "apatnapu",
+                  "id": "40",
+                  "tagalog": "apatnapu"
+                },
+                {
+                  "sourceLanguage": "mixed",
+                  "sourceText": "forty",
+                  "id": "40"
+                }
+              ]
+            },
+            {
+              "cells": [
+                {
+                  "sourceLanguage": "fil",
+                  "sourceText": "limampu",
+                  "id": "lima puluh",
+                  "tagalog": "limampu"
+                },
+                {
+                  "sourceLanguage": "mixed",
+                  "sourceText": "fifty",
+                  "id": "lima puluh"
+                }
+              ]
+            },
+            {
+              "cells": [
+                {
+                  "sourceLanguage": "mixed",
+                  "sourceText": "Affixes and Enclitics",
+                  "id": "Affixes dan Enklics"
+                }
+              ]
+            },
+            {
+              "cells": [
+                {
+                  "sourceLanguage": "fil",
+                  "sourceText": "-pu",
+                  "id": "ditambahkan sebagai akhiran ke nomor 2 sampai 9 untuk mengindikasikan grup dari puluhan",
+                  "tagalog": "-pu"
+                },
+                {
+                  "sourceLanguage": "en",
+                  "sourceText": "added as a suffix to numbers 2 to 9 to indicate group of tens",
+                  "id": "ditambahkan sebagai akhiran ke nomor 2 sampai 9 untuk mengindikasikan grup dari puluhan"
+                }
+              ]
+            },
+            {
+              "cells": [
+                {
+                  "sourceLanguage": "fil",
+                  "sourceText": "labing-",
+                  "id": "ditambahkan sebagai prefiks ke nomor 1 sampai 9 untuk menunjukkan nomor 11 sampai 19",
+                  "tagalog": "labing-"
+                },
+                {
+                  "sourceLanguage": "en",
+                  "sourceText": "added as a prefix to numbers 1 to 9 to indicate numbers 11 to 19",
+                  "id": "ditambahkan sebagai prefiks ke nomor 1 sampai 9 untuk menunjukkan nomor 11 sampai 19"
+                }
+              ]
+            },
+            {
+              "cells": [
+                {
+                  "sourceLanguage": "fil",
+                  "sourceText": "labin-",
+                  "id": "dan satu varian dari buruh. Hal itu sudah ditentukan untuk kata-kata yang diawali dengan huruf-huruf d, l, r, s, t.",
+                  "tagalog": "labin-"
+                },
+                {
+                  "sourceLanguage": "en",
+                  "sourceText": "a variant of labing. It is prefixed to words beginning with the letters d, l, r, s, t.",
+                  "id": "dan satu varian dari buruh. Hal itu sudah ditentukan untuk kata-kata yang diawali dengan huruf-huruf d, l, r, s, t."
+                }
+              ]
+            },
+            {
+              "cells": [
+                {
+                  "sourceLanguage": "fil",
+                  "sourceText": "labim-",
+                  "id": "varian dari buruh. Hal ini sudah ditentukan untuk kata-kata dimulai dengan huruf b dan p.",
+                  "tagalog": "labim-"
+                },
+                {
+                  "sourceLanguage": "en",
+                  "sourceText": "a variant of labing. It is prefixed to words beginning with letters b and p.",
+                  "id": "varian dari buruh. Hal ini sudah ditentukan untuk kata-kata dimulai dengan huruf b dan p."
+                }
+              ]
+            },
+            {
+              "cells": [
+                {
+                  "sourceLanguage": "fil",
+                  "sourceText": "na",
+                  "id": "sudah",
+                  "tagalog": "na"
+                },
+                {
+                  "sourceLanguage": "mixed",
+                  "sourceText": "already",
+                  "id": "sudah"
+                }
+              ]
+            },
+            {
+              "cells": [
+                {
+                  "sourceLanguage": "mixed",
+                  "sourceText": "Idioms and Expressions",
+                  "id": "Idiom and Expressions"
+                }
+              ]
+            },
+            {
+              "cells": [
+                {
+                  "sourceLanguage": "fil",
+                  "sourceText": "Halika! Kain tayo.",
+                  "id": "Mari kita makan.",
+                  "tagalog": "Halika! Kain tayo."
+                },
+                {
+                  "sourceLanguage": "mixed",
+                  "sourceText": "Come! Let’s eat.",
+                  "id": "Mari kita makan."
+                }
+              ]
+            },
+            {
+              "cells": [
+                {
+                  "sourceLanguage": "fil",
+                  "sourceText": "Heto ang ____ ko.",
+                  "id": "Berikut ini adalah _ _ _ _.",
+                  "tagalog": "Heto ang ____ ko."
+                },
+                {
+                  "sourceLanguage": "en",
+                  "sourceText": "Here is my_____.",
+                  "id": "Berikut ini adalah _ _ _ _."
+                }
+              ]
+            },
+            {
+              "cells": [
+                {
+                  "sourceLanguage": "fil",
+                  "sourceText": "Ilang taon na si ____ ?",
+                  "id": "Berapa umur...?",
+                  "tagalog": "Ilang taon na si ____ ?"
+                },
+                {
+                  "sourceLanguage": "en",
+                  "sourceText": "How old is ...?",
+                  "id": "Berapa umur...?"
+                }
+              ]
+            },
+            {
+              "cells": [
+                {
+                  "sourceLanguage": "fil",
+                  "sourceText": "Tuloy ka.",
+                  "id": "Masuklah.",
+                  "tagalog": "Tuloy ka."
+                },
+                {
+                  "sourceLanguage": "mixed",
+                  "sourceText": "Come in.",
+                  "id": "Masuklah."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "image",
+          "path": "assets/76.jpg"
+        }
+      ]
+    },
+    {
+      "id": "lesson-04-dialogue-pagbisita-sa-bahay-ni-mark-visiting-mark-at-his-home",
+      "type": "DIALOGUE",
+      "title": {
+        "sourceLanguage": "en",
+        "sourceText": "Dialogue: Pagbisita sa Bahay ni Mark Visiting Mark at his Home",
+        "id": "Dialog: Pagobita sa Bahay ni Mark Visiting Mark di rumahnya"
+      },
+      "blocks": [
+        {
+          "type": "text",
+          "style": "body",
+          "text": {
+            "sourceLanguage": "en",
+            "sourceText": "Dialogue: Pagbisita sa Bahay ni Mark Visiting Mark at His Home",
+            "id": "Dialog: Pagbibita sa Bahay ni Mark Visiting Mark di Rumah-Nya"
+          }
+        },
+        {
+          "type": "text",
+          "style": "body",
+          "text": {
+            "sourceLanguage": "en",
+            "sourceText": "The dialogue illustrates how to use the words and expressions you studied above. Read it aloud with a partner and complete the Dialogue Comprehension activity that follows.",
+            "id": "Dialog menggambarkan bagaimana menggunakan kata-kata dan ekspresi yang Anda pelajari di atas. Baca dengan suara keras dengan pasangan dan menyelesaikan aktivitas Komprehensi Dialog yang berikut."
+          }
+        },
+        {
+          "type": "text",
+          "style": "body",
+          "text": {
+            "sourceLanguage": "en",
+            "sourceText": "Julian is visiting his friend, Mark.",
+            "id": "Julian mengunjungi temannya, Mark."
+          }
+        },
+        {
+          "type": "table",
+          "rows": [
+            {
+              "cells": [
+                {
+                  "sourceLanguage": "mixed",
+                  "sourceText": "Julian:",
+                  "id": "Julian:"
+                },
+                {
+                  "sourceLanguage": "fil",
+                  "sourceText": "Magandang hapon po! Nandiyan po ba si Mark?",
+                  "id": "Selamat sore, apakah Mark ada?",
+                  "tagalog": "Magandang hapon po! Nandiyan po ba si Mark?"
+                }
+              ]
+            },
+            {
+              "cells": [
+                {
+                  "sourceLanguage": "mixed",
+                  "sourceText": "Tatay:",
+                  "id": "Tatay:"
+                },
+                {
+                  "sourceLanguage": "fil",
+                  "sourceText": "Oo, tuloy ka. Mark! Nandito na ang kaibigan mo.",
+                  "id": "Ya, kau di sini, Mark.",
+                  "tagalog": "Oo, tuloy ka. Mark! Nandito na ang kaibigan mo."
+                }
+              ]
+            },
+            {
+              "cells": [
+                {
+                  "sourceLanguage": "mixed",
+                  "sourceText": "Mark:",
+                  "id": "Mark:"
+                },
+                {
+                  "sourceLanguage": "fil",
+                  "sourceText": "O Julian. Halika. ‘Tay, heto po ang kaibigan ko, si Julian. Julian heto ang tatay ko.",
+                  "id": "'Ayo, di sini adalah teman saya Julian, Julian, yang ayahku.",
+                  "tagalog": "O Julian. Halika. ‘Tay, heto po ang kaibigan ko, si Julian. Julian heto ang tatay ko."
+                }
+              ]
+            },
+            {
+              "cells": [
+                {
+                  "sourceLanguage": "mixed",
+                  "sourceText": "Tatay:",
+                  "id": "Tatay:"
+                },
+                {
+                  "sourceLanguage": "fil",
+                  "sourceText": "O kumusta ka, iho? Halika, kain tayo.",
+                  "id": "Atau bagaimana denganmu?",
+                  "tagalog": "O kumusta ka, iho? Halika, kain tayo."
+                }
+              ]
+            },
+            {
+              "cells": [
+                {
+                  "sourceLanguage": "mixed",
+                  "sourceText": "Julian:",
+                  "id": "Julian:"
+                },
+                {
+                  "sourceLanguage": "fil",
+                  "sourceText": "Salamat po, Tito. Mark, sinu-sino ang mga nandito?",
+                  "id": "Terima kasih, Titus. / Mark, siapa disini?",
+                  "tagalog": "Salamat po, Tito. Mark, sinu-sino ang mga nandito?"
+                }
+              ]
+            },
+            {
+              "cells": [
+                {
+                  "sourceLanguage": "mixed",
+                  "sourceText": "Mark:",
+                  "id": "Mark:"
+                },
+                {
+                  "sourceLanguage": "fil",
+                  "sourceText": "Nandito ang lahat ng kamag-anak namin. Nandoon ang mga tito at tita ko. Pagkatapos, nasa itaas naman ang mga pinsan ko at ang mga kapatid ko.",
+                  "id": "Semua kerabat kita di sini, titos dan bibiku ada di sini, lalu sepupu dan saudara-saudaraku bangun.",
+                  "tagalog": "Nandito ang lahat ng kamag-anak namin. Nandoon ang mga tito at tita ko. Pagkatapos, nasa itaas naman ang mga pinsan ko at ang mga kapatid ko."
+                }
+              ]
+            },
+            {
+              "cells": [
+                {
+                  "sourceLanguage": "mixed",
+                  "sourceText": "Julian:",
+                  "id": "Julian:"
+                },
+                {
+                  "sourceLanguage": "fil",
+                  "sourceText": "Sino naman ang nasa kusina?",
+                  "id": "Siapa yang ada di dapur?",
+                  "tagalog": "Sino naman ang nasa kusina?"
+                }
+              ]
+            },
+            {
+              "cells": [
+                {
+                  "sourceLanguage": "mixed",
+                  "sourceText": "Mark:",
+                  "id": "Mark:"
+                },
+                {
+                  "sourceLanguage": "fil",
+                  "sourceText": "Sina Lola at Lolo at ang mga kaibigan ni Nanay.",
+                  "id": "Nenek, kakek dan teman ibu.",
+                  "tagalog": "Sina Lola at Lolo at ang mga kaibigan ni Nanay."
+                }
+              ]
+            },
+            {
+              "cells": [
+                {
+                  "sourceLanguage": "mixed",
+                  "sourceText": "Julian:",
+                  "id": "Julian:"
+                },
+                {
+                  "sourceLanguage": "fil",
+                  "sourceText": "Mark, mukhang batang-bata ang lolo at lola mo. Ilang taon na sila?",
+                  "id": "Mark, kakek dan nenekmu terlihat lebih muda, dan berapa umur mereka?",
+                  "tagalog": "Mark, mukhang batang-bata ang lolo at lola mo. Ilang taon na sila?"
+                }
+              ]
+            },
+            {
+              "cells": [
+                {
+                  "sourceLanguage": "mixed",
+                  "sourceText": "Mark:",
+                  "id": "Mark:"
+                },
+                {
+                  "sourceLanguage": "fil",
+                  "sourceText": "Animnapu na si Lola at animnapu’t dalawa si Lolo. O sige. Kain muna tayo.",
+                  "id": "Nenekku berusia 60 tahun, dan kakekku berusia 2 tahun, O Ring, pertama-tama.",
+                  "tagalog": "Animnapu na si Lola at animnapu’t dalawa si Lolo. O sige. Kain muna tayo."
+                }
+              ]
+            },
+            {
+              "cells": [
+                {
+                  "sourceLanguage": "mixed",
+                  "sourceText": "Julian:",
+                  "id": "Julian:"
+                },
+                {
+                  "sourceLanguage": "fil",
+                  "sourceText": "O sige.",
+                  "id": "Baiklah.",
+                  "tagalog": "O sige."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "style": "body",
+          "text": {
+            "sourceLanguage": "mixed",
+            "sourceText": "Dialogue Comprehension",
+            "id": "Pemahaman Dialog"
+          }
+        },
+        {
+          "type": "text",
+          "style": "body",
+          "text": {
+            "sourceLanguage": "en",
+            "sourceText": "Based on the dialogue, answer the following questions in Tagalog.",
+            "id": "Berdasarkan dialog, menjawab pertanyaan berikut dalam Tagalog."
+          }
+        },
+        {
+          "type": "text",
+          "style": "body",
+          "text": {
+            "sourceLanguage": "fil",
+            "sourceText": "1. Sino ang kaibigan ni Mark?",
+            "id": "Siapa temannya Mark?",
+            "tagalog": "1. Sino ang kaibigan ni Mark?"
+          }
+        },
+        {
+          "type": "text",
+          "style": "body",
+          "text": {
+            "sourceLanguage": "mixed",
+            "sourceText": "____________________________________",
+            "id": "____________________________________"
+          }
+        },
+        {
+          "type": "text",
+          "style": "body",
+          "text": {
+            "sourceLanguage": "fil",
+            "sourceText": "2. Sinu-sino ang mga nasa bahay nina Mark?",
+            "id": "Siapa rumah Mark?",
+            "tagalog": "2. Sinu-sino ang mga nasa bahay nina Mark?"
+          }
+        },
+        {
+          "type": "text",
+          "style": "body",
+          "text": {
+            "sourceLanguage": "mixed",
+            "sourceText": "____________________________________",
+            "id": "____________________________________"
+          }
+        },
+        {
+          "type": "text",
+          "style": "body",
+          "text": {
+            "sourceLanguage": "fil",
+            "sourceText": "3. Nasaan ang mga pinsan ni Mark?",
+            "id": "3. / Di mana sepupu Mark?",
+            "tagalog": "3. Nasaan ang mga pinsan ni Mark?"
+          }
+        },
+        {
+          "type": "text",
+          "style": "body",
+          "text": {
+            "sourceLanguage": "mixed",
+            "sourceText": "____________________________________",
+            "id": "____________________________________"
+          }
+        },
+        {
+          "type": "text",
+          "style": "body",
+          "text": {
+            "sourceLanguage": "fil",
+            "sourceText": "4. Ilang taon na ang lolo ni Mark?",
+            "id": "Berapa umur kakeknya Mark?",
+            "tagalog": "4. Ilang taon na ang lolo ni Mark?"
+          }
+        },
+        {
+          "type": "text",
+          "style": "body",
+          "text": {
+            "sourceLanguage": "mixed",
+            "sourceText": "____________________________________",
+            "id": "____________________________________"
+          }
+        },
+        {
+          "type": "text",
+          "style": "body",
+          "text": {
+            "sourceLanguage": "fil",
+            "sourceText": "5. Ilang taon na ang lola ni Mark?",
+            "id": "Berapa umur nenek Mark?",
+            "tagalog": "5. Ilang taon na ang lola ni Mark?"
+          }
+        },
+        {
+          "type": "text",
+          "style": "body",
+          "text": {
+            "sourceLanguage": "mixed",
+            "sourceText": "____________________________________",
+            "id": "____________________________________"
+          }
+        }
+      ]
+    },
+    {
+      "id": "lesson-04-activities",
+      "type": "ACTIVITY",
+      "title": {
+        "sourceLanguage": "mixed",
+        "sourceText": "Activities",
+        "id": "Aktivitas"
+      },
+      "blocks": [
+        {
+          "type": "text",
+          "style": "body",
+          "text": {
+            "sourceLanguage": "mixed",
+            "sourceText": "Activities",
+            "id": "Aktivitas"
+          }
+        },
+        {
+          "type": "text",
+          "style": "body",
+          "text": {
+            "sourceLanguage": "mixed",
+            "sourceText": "Activity 1",
+            "id": "Aktivitas 1"
+          }
+        },
+        {
+          "type": "text",
+          "style": "body",
+          "text": {
+            "sourceLanguage": "en",
+            "sourceText": "A. Work with a partner. First, create a family tree for your immediate family using the spaces provided, then describe your relationship to each person, using complete sentences in Tagalog.",
+            "id": "A. bekerja dengan partner. pertama, buat pohon keluarga untuk keluarga dekat anda menggunakan ruang yang tersedia, kemudian jelaskan hubungan anda dengan setiap orang, menggunakan kalimat lengkap di Tagalog."
+          }
+        },
+        {
+          "type": "image",
+          "path": "assets/77.jpg"
+        },
+        {
+          "type": "table",
+          "rows": [
+            {
+              "cells": [
+                {
+                  "sourceLanguage": "mixed",
+                  "sourceText": "EXAMPLE:",
+                  "id": "EXAMPLE:"
+                }
+              ]
+            },
+            {
+              "cells": [
+                {
+                  "sourceLanguage": "fil",
+                  "sourceText": "Si Mario ang lolo ko.",
+                  "id": "Mario adalah kakekku.",
+                  "tagalog": "Si Mario ang lolo ko."
+                },
+                {
+                  "sourceLanguage": "fil",
+                  "sourceText": "Si Karla ang nanay ko.",
+                  "id": "Karla adalah ibuku.",
+                  "tagalog": "Si Karla ang nanay ko."
+                }
+              ]
+            },
+            {
+              "cells": [
+                {
+                  "sourceLanguage": "mixed",
+                  "sourceText": "________________________",
+                  "id": "________________________"
+                },
+                {
+                  "sourceLanguage": "mixed",
+                  "sourceText": "__________________________",
+                  "id": "__________________________"
+                }
+              ]
+            },
+            {
+              "cells": [
+                {
+                  "sourceLanguage": "mixed",
+                  "sourceText": "________________________",
+                  "id": "________________________"
+                },
+                {
+                  "sourceLanguage": "mixed",
+                  "sourceText": "__________________________",
+                  "id": "__________________________"
+                }
+              ]
+            },
+            {
+              "cells": [
+                {
+                  "sourceLanguage": "mixed",
+                  "sourceText": "________________________",
+                  "id": "________________________"
+                },
+                {
+                  "sourceLanguage": "mixed",
+                  "sourceText": "__________________________",
+                  "id": "__________________________"
+                }
+              ]
+            },
+            {
+              "cells": [
+                {
+                  "sourceLanguage": "mixed",
+                  "sourceText": "________________________",
+                  "id": "________________________"
+                },
+                {
+                  "sourceLanguage": "mixed",
+                  "sourceText": "__________________________",
+                  "id": "__________________________"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "style": "body",
+          "text": {
+            "sourceLanguage": "en",
+            "sourceText": "B. Interview\n\nNext, ask a classmate about the people on his or her family tree.",
+            "id": "Wawancara B. @ item Spelling dictionary Selanjutnya, tanya teman sekelas tentang orang-orang di pohon keluarganya."
+          }
+        },
+        {
+          "type": "table",
+          "rows": [
+            {
+              "cells": [
+                {
+                  "sourceLanguage": "mixed",
+                  "sourceText": "Mga Tanong",
+                  "id": "Mga Tanong"
+                },
+                {
+                  "sourceLanguage": "mixed",
+                  "sourceText": "Sagot",
+                  "id": "Sagot"
+                }
+              ]
+            },
+            {
+              "cells": [
+                {
+                  "sourceLanguage": "fil",
+                  "sourceText": "1. Pinsan\n\nQ: Sinu-sino ang mga pinsan mo?",
+                  "id": "1 Pins Siapa sepupumu?",
+                  "tagalog": "1. Pinsan\n\nQ: Sinu-sino ang mga pinsan mo?"
+                },
+                {
+                  "sourceLanguage": "fil",
+                  "sourceText": "A: Sina Maria, Mike at Patricia ang mga pinsan ko.",
+                  "id": "Sepupuku, Maria, Mike dan Patricia.",
+                  "tagalog": "A: Sina Maria, Mike at Patricia ang mga pinsan ko."
+                }
+              ]
+            },
+            {
+              "cells": [
+                {
+                  "sourceLanguage": "fil",
+                  "sourceText": "2. Tito at Tita\n\nQ:",
+                  "id": "Titus dan Tit. Q:",
+                  "tagalog": "2. Tito at Tita\n\nQ:"
+                },
+                {
+                  "sourceLanguage": "mixed",
+                  "sourceText": "A:",
+                  "id": "A:"
+                }
+              ]
+            },
+            {
+              "cells": [
+                {
+                  "sourceLanguage": "fil",
+                  "sourceText": "3. Lola at Lolo\n\nQ:",
+                  "id": "3, Nenek dan Kakek. Q:",
+                  "tagalog": "3. Lola at Lolo\n\nQ:"
+                },
+                {
+                  "sourceLanguage": "mixed",
+                  "sourceText": "A:",
+                  "id": "A:"
+                }
+              ]
+            },
+            {
+              "cells": [
+                {
+                  "sourceLanguage": "fil",
+                  "sourceText": "4. Nanay at Tatay\n\nQ:",
+                  "id": "Ibu dan Ayah Q:",
+                  "tagalog": "4. Nanay at Tatay\n\nQ:"
+                },
+                {
+                  "sourceLanguage": "mixed",
+                  "sourceText": "A:",
+                  "id": "A:"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "style": "body",
+          "text": {
+            "sourceLanguage": "mixed",
+            "sourceText": "Activity 2",
+            "id": "Aktivitas 2"
+          }
+        },
+        {
+          "type": "text",
+          "style": "body",
+          "text": {
+            "sourceLanguage": "en",
+            "sourceText": "A. Based on the information solicited by the chart below, formulate questions using the interrogative pronouns that are provided. Once you have finished, use these questions to interview a classmate. Record your findings in the chart.",
+            "id": "A. Berdasarkan informasi diminta oleh bagan di bawah ini, merumuskan pertanyaan menggunakan pernyataan interogasi yang disediakan. Setelah Anda selesai, gunakan pertanyaan-pertanyaan ini untuk mewawancarai teman sekelas."
+          }
+        },
+        {
+          "type": "table",
+          "rows": [
+            {
+              "cells": [
+                {
+                  "sourceLanguage": "mixed",
+                  "sourceText": "EXAMPLE:",
+                  "id": "EXAMPLE:"
+                }
+              ]
+            },
+            {
+              "cells": [
+                {
+                  "sourceLanguage": "mixed",
+                  "sourceText": "Student 1:",
+                  "id": "Siswa 1:"
+                },
+                {
+                  "sourceLanguage": "fil",
+                  "sourceText": "Ano ang pangalan ng tatay mo? What is the name of your father?",
+                  "id": "Siapa nama ayahmu, dan apa subjek hari ayahmu?",
+                  "tagalog": "Ano ang pangalan ng tatay mo? What is the name of your father?"
+                }
+              ]
+            },
+            {
+              "cells": [
+                {
+                  "sourceLanguage": "mixed",
+                  "sourceText": "Student 2:",
+                  "id": "Siswa 2:"
+                },
+                {
+                  "sourceLanguage": "fil",
+                  "sourceText": "Benildo ang pangalan ng tatay ko. The name of my father is Benildo.",
+                  "id": "Nama ayahku Benildo, nama ayahku Benildo.",
+                  "tagalog": "Benildo ang pangalan ng tatay ko. The name of my father is Benildo."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "table",
+          "rows": [
+            {
+              "cells": [
+                {
+                  "sourceLanguage": "mixed",
+                  "sourceText": "Tatay",
+                  "id": "Tatay"
+                },
+                {
+                  "sourceLanguage": "mixed",
+                  "sourceText": "Nanay",
+                  "id": "Nanay"
+                }
+              ]
+            },
+            {
+              "cells": [
+                {
+                  "sourceLanguage": "fil",
+                  "sourceText": "Pangalan",
+                  "id": "Nama",
+                  "tagalog": "Pangalan"
+                }
+              ]
+            },
+            {
+              "cells": [
+                {
+                  "sourceLanguage": "fil",
+                  "sourceText": "Tirahan",
+                  "id": "Rumah",
+                  "tagalog": "Tirahan"
+                }
+              ]
+            },
+            {
+              "cells": [
+                {
+                  "sourceLanguage": "fil",
+                  "sourceText": "Trabaho",
+                  "id": "Kantor",
+                  "tagalog": "Trabaho"
+                }
+              ]
+            },
+            {
+              "cells": [
+                {
+                  "sourceLanguage": "fil",
+                  "sourceText": "Eskwelahan",
+                  "id": "Escles",
+                  "tagalog": "Eskwelahan"
+                }
+              ]
+            },
+            {
+              "cells": [
+                {
+                  "sourceLanguage": "fil",
+                  "sourceText": "Gusto",
+                  "id": "Disukai",
+                  "tagalog": "Gusto"
+                }
+              ]
+            },
+            {
+              "cells": [
+                {
+                  "sourceLanguage": "fil",
+                  "sourceText": "Ayaw",
+                  "id": "Tidak sama sekali",
+                  "tagalog": "Ayaw"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "style": "body",
+          "text": {
+            "sourceLanguage": "fil",
+            "sourceText": "1. Ano ang pangalan ng tatay mo? ______________",
+            "id": "Siapa nama ayahmu?",
+            "tagalog": "1. Ano ang pangalan ng tatay mo? ______________"
+          }
+        },
+        {
+          "type": "text",
+          "style": "body",
+          "text": {
+            "sourceLanguage": "fil",
+            "sourceText": "2. Saan _________________________________",
+            "id": "2..,..",
+            "tagalog": "2. Saan _________________________________"
+          }
+        },
+        {
+          "type": "text",
+          "style": "body",
+          "text": {
+            "sourceLanguage": "fil",
+            "sourceText": "3. Saan _________________________________",
+            "id": "3.....",
+            "tagalog": "3. Saan _________________________________"
+          }
+        },
+        {
+          "type": "text",
+          "style": "body",
+          "text": {
+            "sourceLanguage": "fil",
+            "sourceText": "4. Saan _________________________________",
+            "id": "4..,..",
+            "tagalog": "4. Saan _________________________________"
+          }
+        },
+        {
+          "type": "text",
+          "style": "body",
+          "text": {
+            "sourceLanguage": "fil",
+            "sourceText": "5. Ano _________________________________",
+            "id": "5..,..",
+            "tagalog": "5. Ano _________________________________"
+          }
+        },
+        {
+          "type": "text",
+          "style": "body",
+          "text": {
+            "sourceLanguage": "fil",
+            "sourceText": "6. Ano _________________________________",
+            "id": "6..,....,..",
+            "tagalog": "6. Ano _________________________________"
+          }
+        },
+        {
+          "type": "text",
+          "style": "body",
+          "text": {
+            "sourceLanguage": "en",
+            "sourceText": "B. Report your answers to the class.",
+            "id": "B. Laporkan jawabanmu ke kelas."
+          }
+        },
+        {
+          "type": "text",
+          "style": "body",
+          "text": {
+            "sourceLanguage": "mixed",
+            "sourceText": "EXAMPLE:",
+            "id": "EXAMPLE:"
+          }
+        },
+        {
+          "type": "text",
+          "style": "body",
+          "text": {
+            "sourceLanguage": "en",
+            "sourceText": "Benildo ang pangalan ng tatay ni Marie. The name of Marie’s father is Benildo.",
+            "id": "Nama ayah Marie adalah Benildo."
+          }
+        },
+        {
+          "type": "text",
+          "style": "body",
+          "text": {
+            "sourceLanguage": "mixed",
+            "sourceText": "Activity 3",
+            "id": "Aktivitas 3"
+          }
+        },
+        {
+          "type": "text",
+          "style": "body",
+          "text": {
+            "sourceLanguage": "en",
+            "sourceText": "Complete the paragraph below using the word bank. You may use the words more than once.",
+            "id": "Lengkap paragraf di bawah ini menggunakan kata bank. Anda dapat menggunakan kata-kata lebih dari sekali."
+          }
+        },
+        {
+          "type": "image",
+          "path": "assets/79.jpg"
+        },
+        {
+          "type": "image",
+          "path": "assets/79b.jpg"
+        },
+        {
+          "type": "text",
+          "style": "body",
+          "text": {
+            "sourceLanguage": "fil",
+            "sourceText": "May dalawang ______________________ sina Mario at Susan. Jessica at Kris ang mga pangalan nila. May ______________ na si Jessica, Bobby ang pangalan niya. Mike naman ang pangalan ng __________ nina Jessica at Bobby. Si Kris ang _____________ ni Jessica. May asawa na si Kris. Emily ang pangalan ng ______________________ ni Kris. May ________________________ na sina Kris at Emily. Melissa ang pangalan ng anak nila. ___________ ni Mike si Melissa at mga ___________ naman nina Mario at Susana sina Mike at Melissa. ______________ ni Melissa si Bobby at __________________ naman nina Kris at Emily si Mike.",
+            "id": "Mario dan Susan, Jessica dan Kris punya dua nama. Ada nama Emily.",
+            "tagalog": "May dalawang ______________________ sina Mario at Susan. Jessica at Kris ang mga pangalan nila. May ______________ na si Jessica, Bobby ang pangalan niya. Mike naman ang pangalan ng __________ nina Jessica at Bobby. Si Kris ang _____________ ni Jessica. May asawa na si Kris. Emily ang pangalan ng ______________________ ni Kris. May ________________________ na sina Kris at Emily. Melissa ang pangalan ng anak nila. ___________ ni Mike si Melissa at mga ___________ naman nina Mario at Susana sina Mike at Melissa. ______________ ni Melissa si Bobby at __________________ naman nina Kris at Emily si Mike."
+          }
+        }
+      ]
+    },
+    {
+      "id": "lesson-04-grammar",
+      "type": "GRAMMAR",
+      "title": {
+        "sourceLanguage": "mixed",
+        "sourceText": "Grammar",
+        "id": "Tata Bahasa"
+      },
+      "blocks": [
+        {
+          "type": "text",
+          "style": "body",
+          "text": {
+            "sourceLanguage": "mixed",
+            "sourceText": "Grammar",
+            "id": "Tata Bahasa"
+          }
+        },
+        {
+          "type": "text",
+          "style": "body",
+          "text": {
+            "sourceLanguage": "mixed",
+            "sourceText": "Definition of Terms",
+            "id": "Definisi Istilah"
+          }
+        },
+        {
+          "type": "table",
+          "rows": [
+            {
+              "cells": [
+                {
+                  "sourceLanguage": "mixed",
+                  "sourceText": "Ng Phrase",
+                  "id": "Phrase Ng"
+                },
+                {
+                  "sourceLanguage": "en",
+                  "sourceText": "A ng phrase is composed of a ng marker and a noun. The ng markers examined in this lesson are used to indicate possession or ownership.\n\nEXAMPLES:\n\nTatay ni Mark si Jose. Jose is Mark’s father.\n\nAnak ng kaibigan ko si Jossie. Jossie is my friend’s daughter.",
+                  "id": "Frase ng terdiri dari penanda ng dan kata benda. Tanda ng yang diperiksa dalam pelajaran ini digunakan untuk mengindikasikan kepemilikan atau kepemilikan. EXAMPLES: Tatay ni Mark si Jose Jose adalah ayah Mark. Anak ng kaibigan ko si Jossie."
+                }
+              ]
+            },
+            {
+              "cells": [
+                {
+                  "sourceLanguage": "mixed",
+                  "sourceText": "Ng Pronouns",
+                  "id": "Ng Pronouns"
+                },
+                {
+                  "sourceLanguage": "fil",
+                  "sourceText": "Possessive pronouns that substitute for noun phrases marked by ng markers.\n\nEXAMPLES:\n\nTatay ni Mark si Jose → Tatay niya si Jose. Jose is his father.\n\nAnak ni Linda at Boy si Marco → Anak nila si Marco. Marco is their son.",
+                  "id": "Positive pronun hat substitutute for noun prases ditandai oleh spidol. EXAMPLES: Ayah Mark adalah Joseph Joseph adalah ayahnya. Linda dan Boy memiliki Marco Matheson putri mereka Marco.",
+                  "tagalog": "Possessive pronouns that substitute for noun phrases marked by ng markers.\n\nEXAMPLES:\n\nTatay ni Mark si Jose → Tatay niya si Jose. Jose is his father.\n\nAnak ni Linda at Boy si Marco → Anak nila si Marco. Marco is their son."
+                }
+              ]
+            },
+            {
+              "cells": [
+                {
+                  "sourceLanguage": "mixed",
+                  "sourceText": "Affix",
+                  "id": "Affix"
+                },
+                {
+                  "sourceLanguage": "en",
+                  "sourceText": "A syllable that is attached to a word to produce an inflected or derived form.",
+                  "id": "Sebuah suku kata yang melekat pada kata untuk menghasilkan sebuah bentuk meningkat atau diturunkan."
+                }
+              ]
+            },
+            {
+              "cells": [
+                {
+                  "sourceLanguage": "mixed",
+                  "sourceText": "Prefix",
+                  "id": "Awalan"
+                },
+                {
+                  "sourceLanguage": "en",
+                  "sourceText": "An affix that is added in front of the word.",
+                  "id": "Sebuah affix yang ditambahkan di depan kata."
+                }
+              ]
+            },
+            {
+              "cells": [
+                {
+                  "sourceLanguage": "mixed",
+                  "sourceText": "Suffix",
+                  "id": "Suffix"
+                },
+                {
+                  "sourceLanguage": "en",
+                  "sourceText": "An affix added at the end of the word.",
+                  "id": "Sebuah affix ditambahkan di akhir kata."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "style": "body",
+          "text": {
+            "sourceLanguage": "mixed",
+            "sourceText": "Examining Form",
+            "id": "Mengkaji Bentuk"
+          }
+        },
+        {
+          "type": "text",
+          "style": "body",
+          "text": {
+            "sourceLanguage": "en",
+            "sourceText": "The sentences below illustrate the grammar patterns presented in this lesson. Review the sentences and complete the tasks indicated. Discuss your answers with a partner. Consult the following section to check your answers.",
+            "id": "Kalimat di bawah ini menggambarkan pola tata bahasa yang ditampilkan dalam pelajaran ini. Membalas kalimat dan menyelesaikan tugas yang ditunjukkan. Diskusikan jawaban Anda dengan pasangan. Konsumsi bagian berikut untuk memeriksa jawaban Anda."
+          }
+        },
+        {
+          "type": "text",
+          "style": "body",
+          "text": {
+            "sourceLanguage": "fil",
+            "sourceText": "1. Tay, heto po ang kaibigan ko, si Julian.",
+            "id": "1 Tay, ini temanku, Julian.",
+            "tagalog": "1. Tay, heto po ang kaibigan ko, si Julian."
+          }
+        },
+        {
+          "type": "text",
+          "style": "body",
+          "text": {
+            "sourceLanguage": "fil",
+            "sourceText": "2. Nandito ang lahat ng kamag-anak namin.",
+            "id": "Semua kerabat kita ada di sini.",
+            "tagalog": "2. Nandito ang lahat ng kamag-anak namin."
+          }
+        },
+        {
+          "type": "text",
+          "style": "body",
+          "text": {
+            "sourceLanguage": "fil",
+            "sourceText": "3. Mukhang batang-bata ang lolo at lola mo.",
+            "id": "Kakek dan nenekmu terlihat lebih muda.",
+            "tagalog": "3. Mukhang batang-bata ang lolo at lola mo."
+          }
+        },
+        {
+          "type": "text",
+          "style": "body",
+          "text": {
+            "sourceLanguage": "fil",
+            "sourceText": "4. Nandoon sina Lola at Lolo at ang mga kaibigan ni Nanay.",
+            "id": "4. / Nenek, kakek dan teman ibu ada di sana.",
+            "tagalog": "4. Nandoon sina Lola at Lolo at ang mga kaibigan ni Nanay."
+          }
+        },
+        {
+          "type": "text",
+          "style": "body",
+          "text": {
+            "sourceLanguage": "fil",
+            "sourceText": "5. Animnapu na si lola at animnapu’t dalawa na si lolo.",
+            "id": "5. 60 - 2 - tahun - nenek tua dan 60 - 2 kakek.",
+            "tagalog": "5. Animnapu na si lola at animnapu’t dalawa na si lolo."
+          }
+        },
+        {
+          "type": "text",
+          "style": "body",
+          "text": {
+            "sourceLanguage": "fil",
+            "sourceText": "6. Limang taon na siya.",
+            "id": "Dia berusia lima tahun.",
+            "tagalog": "6. Limang taon na siya."
+          }
+        },
+        {
+          "type": "text",
+          "style": "body",
+          "text": {
+            "sourceLanguage": "fil",
+            "sourceText": "7. Sampung taon na si Nina.",
+            "id": "Nina sudah berusia sepuluh tahun.",
+            "tagalog": "7. Sampung taon na si Nina."
+          }
+        },
+        {
+          "type": "text",
+          "style": "body",
+          "text": {
+            "sourceLanguage": "en",
+            "sourceText": "a. Underline all the possessive phrases in numbers 1 to 4.",
+            "id": "garis bawahi semua frase posesif dalam nomor 1 sampai 4."
+          }
+        },
+        {
+          "type": "text",
+          "style": "body",
+          "text": {
+            "sourceLanguage": "en",
+            "sourceText": "b. What is the proper word order in a possessive phrase in Tagalog? Compare it with the proper word order of a possessive phrase in English.",
+            "id": "b. Apa urutan kata yang tepat dalam frasa posesif dalam Tagalog? Bandingkan dengan urutan kata yang tepat dari frasa posesif dalam bahasa Inggris."
+          }
+        },
+        {
+          "type": "text",
+          "style": "body",
+          "text": {
+            "sourceLanguage": "en",
+            "sourceText": "c. Box all the numbers and circle the subjects in numbers 5 to 7.",
+            "id": "C kotak semua angka dan lingkaran subjek dalam nomor 5 sampai 7."
+          }
+        },
+        {
+          "type": "text",
+          "style": "body",
+          "text": {
+            "sourceLanguage": "en",
+            "sourceText": "d. Notice that in numbers 6 and 7, the numbers have -ng attached to them. Why do you think it is needed?",
+            "id": "d. Perhatikan bahwa dalam angka 6 dan 7, angka telah -ng melekat pada mereka."
+          }
+        },
+        {
+          "type": "text",
+          "style": "body",
+          "text": {
+            "sourceLanguage": "mixed",
+            "sourceText": "EXAMPLES:",
+            "id": "EXAMPLES:"
+          }
+        },
+        {
+          "type": "text",
+          "style": "body",
+          "text": {
+            "sourceLanguage": "fil",
+            "sourceText": "Tatay ni Mark si Jose. Jose is Mark’s father.",
+            "id": "Ayahnya Mark adalah Joseph.",
+            "tagalog": "Tatay ni Mark si Jose. Jose is Mark’s father."
+          }
+        },
+        {
+          "type": "text",
+          "style": "body",
+          "text": {
+            "sourceLanguage": "fil",
+            "sourceText": "Anak ng kaibigan ko si Jossie. Jossie is my friend’s daughter.",
+            "id": "Putri teman saya Jossie, Joshsie, adalah teman saya Kings putri.",
+            "tagalog": "Anak ng kaibigan ko si Jossie. Jossie is my friend’s daughter."
+          }
+        },
+        {
+          "type": "text",
+          "style": "body",
+          "text": {
+            "sourceLanguage": "en",
+            "sourceText": "I. Possessive Noun Markers and Possessive Pronouns",
+            "id": "I. Possesif Noun Markers dan Possesif Pronouns"
+          }
+        },
+        {
+          "type": "text",
+          "style": "body",
+          "text": {
+            "sourceLanguage": "en",
+            "sourceText": "There are noun markers that indicate possession in Tagalog. These noun markers are:",
+            "id": "Ada penanda kata benda yang menunjukkan kepemilikan dalam Tagalog."
+          }
+        },
+        {
+          "type": "text",
+          "style": "body",
+          "text": {
+            "sourceLanguage": "fil",
+            "sourceText": "Possessive Noun Markers",
+            "id": "Positif Tidak-Markers",
+            "tagalog": "Possessive Noun Markers"
+          }
+        },
+        {
+          "type": "text",
+          "style": "body",
+          "text": {
+            "sourceLanguage": "en",
+            "sourceText": "Ni + name of a person or animal",
+            "id": "Ni + nama seseorang atau binatang"
+          }
+        },
+        {
+          "type": "text",
+          "style": "body",
+          "text": {
+            "sourceLanguage": "en",
+            "sourceText": "Nina + name(s) of persons or animals",
+            "id": "Nina + nama orang atau hewan"
+          }
+        },
+        {
+          "type": "text",
+          "style": "body",
+          "text": {
+            "sourceLanguage": "fil",
+            "sourceText": "Ng + common noun",
+            "id": "Dengan kata benda + umum",
+            "tagalog": "Ng + common noun"
+          }
+        },
+        {
+          "type": "text",
+          "style": "body",
+          "text": {
+            "sourceLanguage": "fil",
+            "sourceText": "Ng mga + common noun(s)",
+            "id": "Dari kata benda + umum",
+            "tagalog": "Ng mga + common noun(s)"
+          }
+        },
+        {
+          "type": "text",
+          "style": "body",
+          "text": {
+            "sourceLanguage": "en",
+            "sourceText": "Possessive pronouns also indicate possession. The possessive pronouns are:",
+            "id": "Possesif pronouns juga menunjukkan kepemilikan. Pengucapan posesif adalah:"
+          }
+        },
+        {
+          "type": "table",
+          "rows": [
+            {
+              "cells": [
+                {
+                  "sourceLanguage": "mixed",
+                  "sourceText": "Possessive Pronouns",
+                  "id": "Posesif Pronouns"
+                }
+              ]
+            },
+            {
+              "cells": [
+                {
+                  "sourceLanguage": "mixed",
+                  "sourceText": "Singular",
+                  "id": "Singular"
+                },
+                {
+                  "sourceLanguage": "mixed",
+                  "sourceText": "Plural",
+                  "id": "Plural"
+                }
+              ]
+            },
+            {
+              "cells": [
+                {
+                  "sourceLanguage": "mixed",
+                  "sourceText": "First Person",
+                  "id": "Orang Pertama"
+                },
+                {
+                  "sourceLanguage": "fil",
+                  "sourceText": "ko",
+                  "id": "Aku.",
+                  "tagalog": "ko"
+                },
+                {
+                  "sourceLanguage": "fil",
+                  "sourceText": "natin (inclusive)\n\nnamin (exclusive)",
+                  "id": "(Inklusif) (eksklusif)",
+                  "tagalog": "natin (inclusive)\n\nnamin (exclusive)"
+                }
+              ]
+            },
+            {
+              "cells": [
+                {
+                  "sourceLanguage": "mixed",
+                  "sourceText": "Second Person",
+                  "id": "Orang Kedua"
+                },
+                {
+                  "sourceLanguage": "fil",
+                  "sourceText": "mo",
+                  "id": "Anda",
+                  "tagalog": "mo"
+                },
+                {
+                  "sourceLanguage": "fil",
+                  "sourceText": "ninyo",
+                  "id": "Anda",
+                  "tagalog": "ninyo"
+                }
+              ]
+            },
+            {
+              "cells": [
+                {
+                  "sourceLanguage": "mixed",
+                  "sourceText": "Third Person",
+                  "id": "Orang Ketiga"
+                },
+                {
+                  "sourceLanguage": "fil",
+                  "sourceText": "niya",
+                  "id": "dia bilang",
+                  "tagalog": "niya"
+                },
+                {
+                  "sourceLanguage": "fil",
+                  "sourceText": "nila",
+                  "id": "mereka",
+                  "tagalog": "nila"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "style": "body",
+          "text": {
+            "sourceLanguage": "en",
+            "sourceText": "As in English, one uses these markers and possessive pronouns to indicate:",
+            "id": "Seperti dalam bahasa Inggris, seseorang menggunakan penanda ini dan pronoun posesif untuk menunjukkan:"
+          }
+        },
+        {
+          "type": "table",
+          "rows": [
+            {
+              "cells": [
+                {
+                  "sourceLanguage": "mixed",
+                  "sourceText": "1.",
+                  "id": "1."
+                },
+                {
+                  "sourceLanguage": "mixed",
+                  "sourceText": "Relationships",
+                  "id": "Hubungan"
+                }
+              ]
+            },
+            {
+              "cells": [
+                {
+                  "sourceLanguage": "fil",
+                  "sourceText": "Tatay ni Patrick Patrick’s father",
+                  "id": "Dengan Patrick Patrick Sapagkat ayah",
+                  "tagalog": "Tatay ni Patrick Patrick’s father"
+                }
+              ]
+            },
+            {
+              "cells": [
+                {
+                  "sourceLanguage": "fil",
+                  "sourceText": "Tatay niya His father",
+                  "id": "Ayahnya, Ayahnya.",
+                  "tagalog": "Tatay niya His father"
+                }
+              ]
+            },
+            {
+              "cells": [
+                {
+                  "sourceLanguage": "mixed",
+                  "sourceText": "2.",
+                  "id": "2."
+                },
+                {
+                  "sourceLanguage": "mixed",
+                  "sourceText": "Ownership",
+                  "id": "Kepemilikan"
+                }
+              ]
+            },
+            {
+              "cells": [
+                {
+                  "sourceLanguage": "en",
+                  "sourceText": "Kotse nina Mike at Pat Mike’s and Pat’s car",
+                  "id": "Kotse nina Mike di Pat Mike dan mobil Pat"
+                }
+              ]
+            },
+            {
+              "cells": [
+                {
+                  "sourceLanguage": "fil",
+                  "sourceText": "Kotse nila Their car",
+                  "id": "Mobil mereka",
+                  "tagalog": "Kotse nila Their car"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "style": "body",
+          "text": {
+            "sourceLanguage": "mixed",
+            "sourceText": "Grammar Presentation",
+            "id": "Penyajian Tata Bahasa"
+          }
+        },
+        {
+          "type": "text",
+          "style": "body",
+          "text": {
+            "sourceLanguage": "en",
+            "sourceText": "Possessive Markers and Pronouns and Demonstrative Pronouns",
+            "id": "Posesif Markers dan Pronouns dan Demonstratif Pronouns"
+          }
+        },
+        {
+          "type": "text",
+          "style": "body",
+          "text": {
+            "sourceLanguage": "en",
+            "sourceText": "1. In Tagalog, possessive phrases are formed by adding possessive markers or pronouns after the nouns they modify. The table below shows the appropriate word order.",
+            "id": "1. Dalam Tagalog, frasa posesif dibentuk dengan menambahkan penanda posesif atau pengucapan setelah nouns mereka modifikasi. Tabel di bawah ini menunjukkan urutan kata yang sesuai."
+          }
+        },
+        {
+          "type": "table",
+          "rows": [
+            {
+              "cells": [
+                {
+                  "sourceLanguage": "mixed",
+                  "sourceText": "Possessive Markers",
+                  "id": "Posesif Markers"
+                }
+              ]
+            },
+            {
+              "cells": [
+                {
+                  "sourceLanguage": "mixed",
+                  "sourceText": "Noun",
+                  "id": "Kata benda"
+                },
+                {
+                  "sourceLanguage": "mixed",
+                  "sourceText": "Possessive Marker",
+                  "id": "Posesif Marker"
+                },
+                {
+                  "sourceLanguage": "mixed",
+                  "sourceText": "Noun",
+                  "id": "Kata benda"
+                }
+              ]
+            },
+            {
+              "cells": [
+                {
+                  "sourceLanguage": "fil",
+                  "sourceText": "Tatay",
+                  "id": "Ayah",
+                  "tagalog": "Tatay"
+                },
+                {
+                  "sourceLanguage": "fil",
+                  "sourceText": "ni\n\nnina",
+                  "id": "keduanya tidak mengatakan",
+                  "tagalog": "ni\n\nnina"
+                },
+                {
+                  "sourceLanguage": "fil",
+                  "sourceText": "Maria",
+                  "id": "Mary",
+                  "tagalog": "Maria"
+                }
+              ]
+            },
+            {
+              "cells": [
+                {
+                  "sourceLanguage": "mixed",
+                  "sourceText": "Possessive Marker",
+                  "id": "Posesif Marker"
+                },
+                {
+                  "sourceLanguage": "mixed",
+                  "sourceText": "Noun",
+                  "id": "Kata benda"
+                }
+              ]
+            },
+            {
+              "cells": [
+                {
+                  "sourceLanguage": "fil",
+                  "sourceText": "ng\n\nng mga",
+                  "id": "dari Ofs",
+                  "tagalog": "ng\n\nng mga"
+                },
+                {
+                  "sourceLanguage": "fil",
+                  "sourceText": "bata",
+                  "id": "anak",
+                  "tagalog": "bata"
+                }
+              ]
+            },
+            {
+              "cells": [
+                {
+                  "sourceLanguage": "mixed",
+                  "sourceText": "Possessive Pronouns",
+                  "id": "Posesif Pronouns"
+                }
+              ]
+            },
+            {
+              "cells": [
+                {
+                  "sourceLanguage": "mixed",
+                  "sourceText": "Noun",
+                  "id": "Kata benda"
+                },
+                {
+                  "sourceLanguage": "mixed",
+                  "sourceText": "Possessive Pronoun",
+                  "id": "Possesif Pronoun"
+                }
+              ]
+            },
+            {
+              "cells": [
+                {
+                  "sourceLanguage": "fil",
+                  "sourceText": "Nanay",
+                  "id": "Ibu",
+                  "tagalog": "Nanay"
+                },
+                {
+                  "sourceLanguage": "fil",
+                  "sourceText": "ko natin (inclusive)\n\nnamin (exclusive)\n\nmo ninyo\n\nniya nila",
+                  "id": "Aku (inklusif) (eksklusif) Anda mereka mengatakan",
+                  "tagalog": "ko natin (inclusive)\n\nnamin (exclusive)\n\nmo ninyo\n\nniya nila"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "style": "body",
+          "text": {
+            "sourceLanguage": "mixed",
+            "sourceText": "EXAMPLES:",
+            "id": "EXAMPLES:"
+          }
+        },
+        {
+          "type": "text",
+          "style": "body",
+          "text": {
+            "sourceLanguage": "fil",
+            "sourceText": "Ang pinsan ko My cousin",
+            "id": "Sepupuku cookin saya",
+            "tagalog": "Ang pinsan ko My cousin"
+          }
+        },
+        {
+          "type": "text",
+          "style": "body",
+          "text": {
+            "sourceLanguage": "fil",
+            "sourceText": "Ang nanay ng estudyante The student’s mother",
+            "id": "Ibu siswa",
+            "tagalog": "Ang nanay ng estudyante The student’s mother"
+          }
+        },
+        {
+          "type": "text",
+          "style": "body",
+          "text": {
+            "sourceLanguage": "en",
+            "sourceText": "Ang lolo at lola ni Maria Maria’s grandfather and grandmother",
+            "id": "Ang lolo di lola ni kakek Maria dan nenek"
+          }
+        },
+        {
+          "type": "text",
+          "style": "body",
+          "text": {
+            "sourceLanguage": "en",
+            "sourceText": "2. The correct way to use possessive phrases in identificational sentences is illustrated in the table below. As discussed in previous lessons, both the subject and predicate are marked by ang markers in an identificational sentence.",
+            "id": "2 cara yang benar untuk menggunakan frasa posesif dalam kalimat identifikasi menggambarkan di tabel di bawah seperti yang didiskusikan dalam pelajaran sebelumnya, baik subjek dan predikat ditandai oleh penanda ang dalam sebuah kalimat identifikasi."
+          }
+        },
+        {
+          "type": "table",
+          "rows": [
+            {
+              "cells": [
+                {
+                  "sourceLanguage": "en",
+                  "sourceText": "Possessive Nouns/Pronouns in an Identificational Sentence",
+                  "id": "Posesif Nouns / Pronouns dalam Identifikasi Sendence"
+                }
+              ]
+            },
+            {
+              "cells": [
+                {
+                  "sourceLanguage": "mixed",
+                  "sourceText": "Subject",
+                  "id": "Subjek"
+                },
+                {
+                  "sourceLanguage": "mixed",
+                  "sourceText": "Predicate",
+                  "id": "Predikat"
+                }
+              ]
+            },
+            {
+              "cells": [
+                {
+                  "sourceLanguage": "mixed",
+                  "sourceText": "Marker",
+                  "id": "Penanda"
+                },
+                {
+                  "sourceLanguage": "mixed",
+                  "sourceText": "Noun",
+                  "id": "Kata benda"
+                },
+                {
+                  "sourceLanguage": "mixed",
+                  "sourceText": "Marker",
+                  "id": "Penanda"
+                },
+                {
+                  "sourceLanguage": "mixed",
+                  "sourceText": "Noun",
+                  "id": "Kata benda"
+                },
+                {
+                  "sourceLanguage": "mixed",
+                  "sourceText": "Possessive Noun",
+                  "id": "Noun Possesif"
+                }
+              ]
+            },
+            {
+              "cells": [
+                {
+                  "sourceLanguage": "fil",
+                  "sourceText": "Si",
+                  "id": "Si",
+                  "tagalog": "Si"
+                },
+                {
+                  "sourceLanguage": "fil",
+                  "sourceText": "Lydia",
+                  "id": "Lydia",
+                  "tagalog": "Lydia"
+                },
+                {
+                  "sourceLanguage": "fil",
+                  "sourceText": "ang",
+                  "id": "jawabannya",
+                  "tagalog": "ang"
+                },
+                {
+                  "sourceLanguage": "fil",
+                  "sourceText": "nanay",
+                  "id": "Ibu",
+                  "tagalog": "nanay"
+                },
+                {
+                  "sourceLanguage": "fil",
+                  "sourceText": "ni Jamie.",
+                  "id": "Tanya Jamie.",
+                  "tagalog": "ni Jamie."
+                }
+              ]
+            },
+            {
+              "cells": [
+                {
+                  "sourceLanguage": "fil",
+                  "sourceText": "Sina",
+                  "id": "Saudara",
+                  "tagalog": "Sina"
+                },
+                {
+                  "sourceLanguage": "fil",
+                  "sourceText": "Mark at Susana",
+                  "id": "Mark dan Susana",
+                  "tagalog": "Mark at Susana"
+                },
+                {
+                  "sourceLanguage": "fil",
+                  "sourceText": "ang mga",
+                  "id": "berikut",
+                  "tagalog": "ang mga"
+                },
+                {
+                  "sourceLanguage": "fil",
+                  "sourceText": "kapatid",
+                  "id": "Saudara",
+                  "tagalog": "kapatid"
+                },
+                {
+                  "sourceLanguage": "fil",
+                  "sourceText": "nina Patrick at Jose.",
+                  "id": "Oleh Patrick dan Joseph.",
+                  "tagalog": "nina Patrick at Jose."
+                }
+              ]
+            },
+            {
+              "cells": [
+                {
+                  "sourceLanguage": "mixed",
+                  "sourceText": "Marker",
+                  "id": "Penanda"
+                },
+                {
+                  "sourceLanguage": "mixed",
+                  "sourceText": "Noun",
+                  "id": "Kata benda"
+                },
+                {
+                  "sourceLanguage": "mixed",
+                  "sourceText": "Marker",
+                  "id": "Penanda"
+                },
+                {
+                  "sourceLanguage": "mixed",
+                  "sourceText": "Noun",
+                  "id": "Kata benda"
+                },
+                {
+                  "sourceLanguage": "mixed",
+                  "sourceText": "Possessive Pronoun",
+                  "id": "Possesif Pronoun"
+                }
+              ]
+            },
+            {
+              "cells": [
+                {
+                  "sourceLanguage": "fil",
+                  "sourceText": "Si",
+                  "id": "Si",
+                  "tagalog": "Si"
+                },
+                {
+                  "sourceLanguage": "fil",
+                  "sourceText": "Mark",
+                  "id": "Tanda",
+                  "tagalog": "Mark"
+                },
+                {
+                  "sourceLanguage": "fil",
+                  "sourceText": "ang",
+                  "id": "jawabannya",
+                  "tagalog": "ang"
+                },
+                {
+                  "sourceLanguage": "fil",
+                  "sourceText": "anak",
+                  "id": "Nak.",
+                  "tagalog": "anak"
+                },
+                {
+                  "sourceLanguage": "fil",
+                  "sourceText": "ko natin (inclusive)\n\nnamin (exclusive)\n\nmo ninyo\n\nniya nila",
+                  "id": "Aku (inklusif) (eksklusif) Anda mereka mengatakan",
+                  "tagalog": "ko natin (inclusive)\n\nnamin (exclusive)\n\nmo ninyo\n\nniya nila"
+                }
+              ]
+            },
+            {
+              "cells": [
+                {
+                  "sourceLanguage": "mixed",
+                  "sourceText": "Pronoun",
+                  "id": "Pronoun"
+                },
+                {
+                  "sourceLanguage": "mixed",
+                  "sourceText": "Marker",
+                  "id": "Penanda"
+                },
+                {
+                  "sourceLanguage": "mixed",
+                  "sourceText": "Noun",
+                  "id": "Kata benda"
+                },
+                {
+                  "sourceLanguage": "mixed",
+                  "sourceText": "Possessive Noun",
+                  "id": "Noun Possesif"
+                }
+              ]
+            },
+            {
+              "cells": [
+                {
+                  "sourceLanguage": "fil",
+                  "sourceText": "Ako\n\nIkaw\n\nSiya",
+                  "id": "Aku. Kau. Dia",
+                  "tagalog": "Ako\n\nIkaw\n\nSiya"
+                },
+                {
+                  "sourceLanguage": "fil",
+                  "sourceText": "ang",
+                  "id": "jawabannya",
+                  "tagalog": "ang"
+                },
+                {
+                  "sourceLanguage": "fil",
+                  "sourceText": "tatay",
+                  "id": "ayah",
+                  "tagalog": "tatay"
+                },
+                {
+                  "sourceLanguage": "fil",
+                  "sourceText": "ng estudyante.",
+                  "id": "Murid.",
+                  "tagalog": "ng estudyante."
+                }
+              ]
+            },
+            {
+              "cells": [
+                {
+                  "sourceLanguage": "fil",
+                  "sourceText": "Tayo\n\nKami\n\nKayo\n\nSila",
+                  "id": "Mari kita Kami Kalian Mereka",
+                  "tagalog": "Tayo\n\nKami\n\nKayo\n\nSila"
+                },
+                {
+                  "sourceLanguage": "fil",
+                  "sourceText": "ang mga",
+                  "id": "berikut",
+                  "tagalog": "ang mga"
+                },
+                {
+                  "sourceLanguage": "fil",
+                  "sourceText": "magulang",
+                  "id": "induk",
+                  "tagalog": "magulang"
+                },
+                {
+                  "sourceLanguage": "fil",
+                  "sourceText": "ng mga bata.",
+                  "id": "meminta anak-anak.",
+                  "tagalog": "ng mga bata."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "style": "body",
+          "text": {
+            "sourceLanguage": "en",
+            "sourceText": "The following are some examples of sentences with possessive phrases using ng markers and pronouns:",
+            "id": "Berikut ini beberapa contoh kalimat dengan frasa posesif menggunakan penanda ng dan kata ganti:"
+          }
+        },
+        {
+          "type": "text",
+          "style": "body",
+          "text": {
+            "sourceLanguage": "mixed",
+            "sourceText": "EXAMPLES:",
+            "id": "EXAMPLES:"
+          }
+        },
+        {
+          "type": "text",
+          "style": "body",
+          "text": {
+            "sourceLanguage": "fil",
+            "sourceText": "Si Lydia po ang nanay ni Jamie. Lydia is Jamie’s mom, sir/madam.",
+            "id": "Lydia adalah ibunya Jamie. / Lydia ibu jamies, kar / Madam.",
+            "tagalog": "Si Lydia po ang nanay ni Jamie. Lydia is Jamie’s mom, sir/madam."
+          }
+        },
+        {
+          "type": "text",
+          "style": "body",
+          "text": {
+            "sourceLanguage": "fil",
+            "sourceText": "Sina Marco at Paul ang mga kapatid ni Mandy. Marc and Paul are Mandy’s siblings.",
+            "id": "Marco dan Paul adalah saudara Mandy dan saudari, Marc dan Paul adalah Mandyscony.",
+            "tagalog": "Sina Marco at Paul ang mga kapatid ni Mandy. Marc and Paul are Mandy’s siblings."
+          }
+        },
+        {
+          "type": "text",
+          "style": "body",
+          "text": {
+            "sourceLanguage": "fil",
+            "sourceText": "Siya ang tatay ng bata. He is the child’s father.",
+            "id": "Dia ayah dari anak itu.",
+            "tagalog": "Siya ang tatay ng bata. He is the child’s father."
+          }
+        },
+        {
+          "type": "text",
+          "style": "body",
+          "text": {
+            "sourceLanguage": "fil",
+            "sourceText": "Sinu-sino ang mga kamag-anak ninyo? Who are your relatives?",
+            "id": "Siapa kerabatmu?",
+            "tagalog": "Sinu-sino ang mga kamag-anak ninyo? Who are your relatives?"
+          }
+        },
+        {
+          "type": "text",
+          "style": "body",
+          "text": {
+            "sourceLanguage": "fil",
+            "sourceText": "Sina Mark, Justin, Minda at Geline ang mga kamag-anak ko. Mark, Justin, Minda, and Geline are my relatives.",
+            "id": "Mark, Justin, Minda dan Garine adalah kerabatku Mark, Justin, Minda, dan Garine adalah bahan-bahan ku",
+            "tagalog": "Sina Mark, Justin, Minda at Geline ang mga kamag-anak ko. Mark, Justin, Minda, and Geline are my relatives."
+          }
+        },
+        {
+          "type": "text",
+          "style": "body",
+          "text": {
+            "sourceLanguage": "en",
+            "sourceText": "3. The correct way to use possessive phrases in predicational statements is shown in the following table.",
+            "id": "Cara yang benar untuk menggunakan frasa posesif dalam pernyataan presesif ditunjukkan di meja berikut."
+          }
+        },
+        {
+          "type": "table",
+          "rows": [
+            {
+              "cells": [
+                {
+                  "sourceLanguage": "en",
+                  "sourceText": "Possessive Nouns/Pronouns in a Predicational Sentence",
+                  "id": "Possessive Nouns / Pronouns in a Prediemically Sentence"
+                }
+              ]
+            },
+            {
+              "cells": [
+                {
+                  "sourceLanguage": "mixed",
+                  "sourceText": "Predicate",
+                  "id": "Predikat"
+                },
+                {
+                  "sourceLanguage": "mixed",
+                  "sourceText": "Subject",
+                  "id": "Subjek"
+                }
+              ]
+            },
+            {
+              "cells": [
+                {
+                  "sourceLanguage": "mixed",
+                  "sourceText": "Adverb",
+                  "id": "Adverb"
+                },
+                {
+                  "sourceLanguage": "mixed",
+                  "sourceText": "Marker",
+                  "id": "Penanda"
+                },
+                {
+                  "sourceLanguage": "mixed",
+                  "sourceText": "Noun",
+                  "id": "Kata benda"
+                },
+                {
+                  "sourceLanguage": "mixed",
+                  "sourceText": "Possessive Noun",
+                  "id": "Noun Possesif"
+                }
+              ]
+            },
+            {
+              "cells": [
+                {
+                  "sourceLanguage": "fil",
+                  "sourceText": "Nandito",
+                  "id": "Ada di sini",
+                  "tagalog": "Nandito"
+                },
+                {
+                  "sourceLanguage": "fil",
+                  "sourceText": "ang",
+                  "id": "jawabannya",
+                  "tagalog": "ang"
+                },
+                {
+                  "sourceLanguage": "fil",
+                  "sourceText": "nanay",
+                  "id": "Ibu",
+                  "tagalog": "nanay"
+                },
+                {
+                  "sourceLanguage": "fil",
+                  "sourceText": "ni Patrick.\n\nnina Patrick.\n\nng bata.\n\nng mga bata.",
+                  "id": "Oleh Patrick. Oleh Patrick. Anak itu. meminta anak-anak.",
+                  "tagalog": "ni Patrick.\n\nnina Patrick.\n\nng bata.\n\nng mga bata."
+                }
+              ]
+            },
+            {
+              "cells": [
+                {
+                  "sourceLanguage": "mixed",
+                  "sourceText": "Adverb",
+                  "id": "Adverb"
+                },
+                {
+                  "sourceLanguage": "mixed",
+                  "sourceText": "Marker",
+                  "id": "Penanda"
+                },
+                {
+                  "sourceLanguage": "mixed",
+                  "sourceText": "Noun",
+                  "id": "Kata benda"
+                },
+                {
+                  "sourceLanguage": "mixed",
+                  "sourceText": "Possessive Pronoun",
+                  "id": "Possesif Pronoun"
+                }
+              ]
+            },
+            {
+              "cells": [
+                {
+                  "sourceLanguage": "fil",
+                  "sourceText": "Nandoon",
+                  "id": "Innovated",
+                  "tagalog": "Nandoon"
+                },
+                {
+                  "sourceLanguage": "fil",
+                  "sourceText": "ang",
+                  "id": "jawabannya",
+                  "tagalog": "ang"
+                },
+                {
+                  "sourceLanguage": "fil",
+                  "sourceText": "tatay",
+                  "id": "ayah",
+                  "tagalog": "tatay"
+                },
+                {
+                  "sourceLanguage": "fil",
+                  "sourceText": "ko natin (inclusive)\n\nnamin (exclusive)\n\nmo ninyo\n\nniya nila",
+                  "id": "Aku (inklusif) (eksklusif) Anda mereka mengatakan",
+                  "tagalog": "ko natin (inclusive)\n\nnamin (exclusive)\n\nmo ninyo\n\nniya nila"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "style": "body",
+          "text": {
+            "sourceLanguage": "mixed",
+            "sourceText": "EXAMPLES:",
+            "id": "EXAMPLES:"
+          }
+        },
+        {
+          "type": "text",
+          "style": "body",
+          "text": {
+            "sourceLanguage": "en",
+            "sourceText": "Nasaan ang nanay ni Patrick? Where is Patrick’s mom?",
+            "id": "Dimana ibunya Patrick?"
+          }
+        },
+        {
+          "type": "text",
+          "style": "body",
+          "text": {
+            "sourceLanguage": "en",
+            "sourceText": "Nandito ang nanay ni Patrick. Patrick’s mother is here. (near the person speaking)",
+            "id": "Ibu Patrick ada di sini."
+          }
+        },
+        {
+          "type": "text",
+          "style": "body",
+          "text": {
+            "sourceLanguage": "mixed",
+            "sourceText": "Nandiyan ba ang anak ko? Is my child there? (near the person addressed)",
+            "id": "Nandiyan ba ang anak ko?",
+            "tagalog": "Nandiyan ba ang anak ko?"
+          }
+        },
+        {
+          "type": "text",
+          "style": "body",
+          "text": {
+            "sourceLanguage": "en",
+            "sourceText": "Nandoon po ang anak ninyo. Your child is over there, sir/ madam. (The child is far from both the speaker and the person addressed.)",
+            "id": "Nandoon po ang anak Anda. anak Anda di sana, Sir / madam (Anak itu jauh dari pembicara dan orang yang ditujukan.)"
+          }
+        },
+        {
+          "type": "text",
+          "style": "body",
+          "text": {
+            "sourceLanguage": "en",
+            "sourceText": "The predicates in these particular sentences are demonstrative pronouns, specifically nandito (in the place where the speaker is), nandiyan (in the place where the person spoken to is), and nandoon (which refers to a person who or a thing that is there or in a place far off from both the speaker and the person spoken to). These demonstrative pronouns might be used in response to a nasaan (where) question, when talking about the location of an object or a person. They can also be used to make simple declarative statements.",
+            "id": "Prediksi dalam kalimat-kalimat ini adalah pernyataan demonstratif, terutama nandito (di tempat pembicara), nandiyan (di tempat orang itu berbicara), dan nandoon (yang mengacu pada seseorang yang ada atau sesuatu yang ada atau di tempat yang jauh dari pembicara dan orang yang diajak bicara). Frasa demonstratif ini mungkin digunakan dalam menanggapi sebuah nasaan (di mana) pertanyaan, ketika berbicara tentang lokasi sebuah objek atau seseorang. mereka juga dapat digunakan untuk membuat pernyataan deklarasi sederhana."
+          }
+        },
+        {
+          "type": "text",
+          "style": "body",
+          "text": {
+            "sourceLanguage": "mixed",
+            "sourceText": "Grammar Notes",
+            "id": "Catatan Tata Bahasa"
+          }
+        },
+        {
+          "type": "table",
+          "rows": [
+            {
+              "cells": [
+                {
+                  "sourceLanguage": "mixed",
+                  "sourceText": "1. Ng possessive pronouns and markers always come after the noun they modify.\n\nTatay ni Mark. Mark’s father.\n\nTatay ko. My father\n\n*Ni Mark tatay (incorrect)\n\n*Ko tatay. (incorrect)",
+                  "id": "1 Ng posesif pronoun dan spidol selalu datang setelah kata benda yang mereka ubah. Tatay ni Mark, ayah Mark. Tatay ko, ayahku. * Ni Mark tatay (salah) * Ko tate. (Salah)",
+                  "tagalog": "Ng Tatay ni Mark. Tatay ko. Ni Mark tatay Ko tatay."
+                }
+              ]
+            },
+            {
+              "cells": [
+                {
+                  "sourceLanguage": "en",
+                  "sourceText": "2. Possessive pronouns replace possessive nouns. They agree in number with the noun they replace.\n\nSi Maria ang nanay nina Patrick. Maria is Patrick’s and his siblings’ mother.\n\nSi Maria ang nanay nila. Maria is their mother.",
+                  "id": "2 possesif pronouns mengganti posesif nouns. mereka setuju dalam jumlah dengan kata benda mereka ganti. Si Maria ang nanay nina Patrick Maria adalah Patrick dan ibu saudaranya. Si Maria ang nanay nila Maria adalah ibu mereka"
+                }
+              ]
+            },
+            {
+              "cells": [
+                {
+                  "sourceLanguage": "mixed",
+                  "sourceText": "3. The third-person singular pronoun niya is pronounced n’ya, and the second-person plural ninyo is pronounced n’yo.\n\nNiya → N’ya\n\nNinyo → N’yo",
+                  "id": "3 orang ke-30 tunggal pronoun niya diucapkan n 'ya, dan orang kedua plural ninyo diucapkan n' yo. Niya tertawa. Ninyo Yao N 'yo",
+                  "tagalog": "niya n’ya ninyo n’yo Niya N’ya Ninyo N’yo"
+                }
+              ]
+            },
+            {
+              "cells": [
+                {
+                  "sourceLanguage": "en",
+                  "sourceText": "4. The interrogative pronoun sinu-sino (who are) is used when the speaker is seeking a plural answer. The response must use the response marker sina followed by a series of names. The last name in the series is preceded by the conjunction at (and). In the same manner, when the interrogative pronoun anu-ano (what are) is used, the speaker expects a plural answer. The response can be a series of nouns, and the last noun is conjoined by at.\n\nQ: Sino ang kamag-anak mo? Who is your relative?\n\nA: Si Maria ang kamag-anak ko. Maria is my relative.\n\nQ: Sinu-sino ang mga kamag-anak mo? Who are your relatives?\n\nA: Sina Matt, Anne, at Paul ang mga kamag-anak ko. Matt, Anne, and Paul are my relatives.",
+                  "id": "4. Pengucapan interogasi -sino (yang) digunakan ketika pembicara sedang mencari jawaban plural. Respon harus menggunakan penanda respon sina diikuti oleh serangkaian nama. Nama terakhir dalam seri diawali dengan conjunction di (dan). Dengan cara yang sama, ketika anu- kompogatif (apa yang digunakan), pembicara mengharapkan jawaban plural. Respon dapat berupa serangkaian kata benda, dan kata benda terakhir adalah bergabung dengan di. \"Sino ang kamag-anak mo\"? A: Si Maria ang kamag-anak ko Maria adalah kerabatku. Q: Sinu-sino ang mga kamag-anak mo? A: Sina Matt, Anne, di Paul ang mga kamag-anak ko."
+                }
+              ]
+            },
+            {
+              "cells": [
+                {
+                  "sourceLanguage": "en",
+                  "sourceText": "5. The adverbs nandito, nandiyan, and nandoon are used to respond to a nasaan (where) question and indicate location.\n\nnandito here (close to the speaker)\n\nnandiyan there (close to the listener)\n\nnandoon there (far from both the speaker and listener)\n\nNasaan ang tatay ko? Where is my father?\n\nNandoon siya. He is over there.\n\nNandito po ba si Lolo? Is Grandfather here?\n\nWala. Nasa loob ng bahay si Lolo. No. Grandfather is inside the house.",
+                  "id": "Pengarah nandito, nandiyan, dan nandoon digunakan untuk menanggapi sebuah nasaan (di mana) pertanyaan dan menunjukkan lokasi. nandito di sini (dekat dengan speaker) nandiyan ada (dekat dengan pendengar) nandoon disana (jauh dari speaker dan pendengar) Nasaan ang tatay ko? Nandoon Siya, dia di sana. Apa kakek di sini? Wala, Nasa loob ng bahay si Lolo."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "style": "body",
+          "text": {
+            "sourceLanguage": "mixed",
+            "sourceText": "II. Numbers",
+            "id": "Nomor II"
+          }
+        },
+        {
+          "type": "text",
+          "style": "body",
+          "text": {
+            "sourceLanguage": "en",
+            "sourceText": "The table below indicates the cardinal numbers from 1 to 99. Cardinal numbers can be used to answer the questions ilan (how many), gaano (how much), and magkano (how much does it cost).",
+            "id": "Tabel di bawah ini mengindikasikan nomor kardinal dari 1 sampai 99. nomor Kardinal dapat digunakan untuk menjawab pertanyaan ilan (berapa banyak), gaano (berapa banyak), dan magkano (berapa harganya)."
+          }
+        },
+        {
+          "type": "table",
+          "rows": [
+            {
+              "cells": [
+                {
+                  "sourceLanguage": "mixed",
+                  "sourceText": "Labing",
+                  "id": "Buruh"
+                },
+                {
+                  "sourceLanguage": "mixed",
+                  "sourceText": "Pu",
+                  "id": "Pu"
+                },
+                {
+                  "sourceLanguage": "mixed",
+                  "sourceText": "Pu’t",
+                  "id": "Pu tidak"
+                }
+              ]
+            },
+            {
+              "cells": [
+                {
+                  "sourceLanguage": "fil",
+                  "sourceText": "isa",
+                  "id": "satu",
+                  "tagalog": "isa"
+                },
+                {
+                  "sourceLanguage": "mixed",
+                  "sourceText": "1",
+                  "id": "1"
+                },
+                {
+                  "sourceLanguage": "fil",
+                  "sourceText": "labing-isa",
+                  "id": "sebelas",
+                  "tagalog": "labing-isa"
+                },
+                {
+                  "sourceLanguage": "mixed",
+                  "sourceText": "11",
+                  "id": "11"
+                },
+                {
+                  "sourceLanguage": "fil",
+                  "sourceText": "dalawampu",
+                  "id": "Dua puluh",
+                  "tagalog": "dalawampu"
+                },
+                {
+                  "sourceLanguage": "mixed",
+                  "sourceText": "20",
+                  "id": "20"
+                },
+                {
+                  "sourceLanguage": "fil",
+                  "sourceText": "dalawampu’t isa",
+                  "id": "Dua puluh perempat dari satu",
+                  "tagalog": "dalawampu’t isa"
+                },
+                {
+                  "sourceLanguage": "mixed",
+                  "sourceText": "21",
+                  "id": "21"
+                }
+              ]
+            },
+            {
+              "cells": [
+                {
+                  "sourceLanguage": "fil",
+                  "sourceText": "dalawa",
+                  "id": "dua",
+                  "tagalog": "dalawa"
+                },
+                {
+                  "sourceLanguage": "mixed",
+                  "sourceText": "2",
+                  "id": "2"
+                },
+                {
+                  "sourceLanguage": "fil",
+                  "sourceText": "labindalawa",
+                  "id": "Dua belas",
+                  "tagalog": "labindalawa"
+                },
+                {
+                  "sourceLanguage": "mixed",
+                  "sourceText": "12",
+                  "id": "12"
+                },
+                {
+                  "sourceLanguage": "fil",
+                  "sourceText": "tatlumpu",
+                  "id": "30.",
+                  "tagalog": "tatlumpu"
+                },
+                {
+                  "sourceLanguage": "mixed",
+                  "sourceText": "30",
+                  "id": "30"
+                },
+                {
+                  "sourceLanguage": "fil",
+                  "sourceText": "tatlumpu’t dalawa",
+                  "id": "Tiga puluh tiga puluh - dua",
+                  "tagalog": "tatlumpu’t dalawa"
+                },
+                {
+                  "sourceLanguage": "mixed",
+                  "sourceText": "32",
+                  "id": "32"
+                }
+              ]
+            },
+            {
+              "cells": [
+                {
+                  "sourceLanguage": "fil",
+                  "sourceText": "tatlo",
+                  "id": "tiga",
+                  "tagalog": "tatlo"
+                },
+                {
+                  "sourceLanguage": "mixed",
+                  "sourceText": "3",
+                  "id": "3"
+                },
+                {
+                  "sourceLanguage": "fil",
+                  "sourceText": "labintatlo",
+                  "id": "Tiga belas",
+                  "tagalog": "labintatlo"
+                },
+                {
+                  "sourceLanguage": "mixed",
+                  "sourceText": "13",
+                  "id": "13"
+                },
+                {
+                  "sourceLanguage": "fil",
+                  "sourceText": "apatnapu",
+                  "id": "Empat puluh",
+                  "tagalog": "apatnapu"
+                },
+                {
+                  "sourceLanguage": "mixed",
+                  "sourceText": "40",
+                  "id": "40"
+                },
+                {
+                  "sourceLanguage": "fil",
+                  "sourceText": "apatnapu’t tatlo",
+                  "id": "Empat puluh lahith tiga",
+                  "tagalog": "apatnapu’t tatlo"
+                },
+                {
+                  "sourceLanguage": "mixed",
+                  "sourceText": "43",
+                  "id": "43"
+                }
+              ]
+            },
+            {
+              "cells": [
+                {
+                  "sourceLanguage": "fil",
+                  "sourceText": "apat",
+                  "id": "empat",
+                  "tagalog": "apat"
+                },
+                {
+                  "sourceLanguage": "mixed",
+                  "sourceText": "4",
+                  "id": "4"
+                },
+                {
+                  "sourceLanguage": "fil",
+                  "sourceText": "labing-apat",
+                  "id": "empat belas",
+                  "tagalog": "labing-apat"
+                },
+                {
+                  "sourceLanguage": "mixed",
+                  "sourceText": "14",
+                  "id": "14"
+                },
+                {
+                  "sourceLanguage": "fil",
+                  "sourceText": "limampu",
+                  "id": "Lima puluh",
+                  "tagalog": "limampu"
+                },
+                {
+                  "sourceLanguage": "mixed",
+                  "sourceText": "50",
+                  "id": "50"
+                },
+                {
+                  "sourceLanguage": "fil",
+                  "sourceText": "limampu’t apat",
+                  "id": "Lima puluh lima puluh - empat",
+                  "tagalog": "limampu’t apat"
+                },
+                {
+                  "sourceLanguage": "mixed",
+                  "sourceText": "54",
+                  "id": "54"
+                }
+              ]
+            },
+            {
+              "cells": [
+                {
+                  "sourceLanguage": "fil",
+                  "sourceText": "lima",
+                  "id": "lima",
+                  "tagalog": "lima"
+                },
+                {
+                  "sourceLanguage": "mixed",
+                  "sourceText": "5",
+                  "id": "5"
+                },
+                {
+                  "sourceLanguage": "fil",
+                  "sourceText": "labinlima",
+                  "id": "Lima belas",
+                  "tagalog": "labinlima"
+                },
+                {
+                  "sourceLanguage": "mixed",
+                  "sourceText": "15",
+                  "id": "15"
+                },
+                {
+                  "sourceLanguage": "fil",
+                  "sourceText": "animnapu",
+                  "id": "Enam puluh",
+                  "tagalog": "animnapu"
+                },
+                {
+                  "sourceLanguage": "mixed",
+                  "sourceText": "60",
+                  "id": "60"
+                },
+                {
+                  "sourceLanguage": "fil",
+                  "sourceText": "animnapu’t lima",
+                  "id": "Enam puluh lima",
+                  "tagalog": "animnapu’t lima"
+                },
+                {
+                  "sourceLanguage": "mixed",
+                  "sourceText": "65",
+                  "id": "65"
+                }
+              ]
+            },
+            {
+              "cells": [
+                {
+                  "sourceLanguage": "fil",
+                  "sourceText": "anim",
+                  "id": "enam",
+                  "tagalog": "anim"
+                },
+                {
+                  "sourceLanguage": "mixed",
+                  "sourceText": "6",
+                  "id": "6"
+                },
+                {
+                  "sourceLanguage": "fil",
+                  "sourceText": "labing-anim",
+                  "id": "enam belas",
+                  "tagalog": "labing-anim"
+                },
+                {
+                  "sourceLanguage": "mixed",
+                  "sourceText": "16",
+                  "id": "16"
+                },
+                {
+                  "sourceLanguage": "fil",
+                  "sourceText": "pitumpu",
+                  "id": "tujuh puluh",
+                  "tagalog": "pitumpu"
+                },
+                {
+                  "sourceLanguage": "mixed",
+                  "sourceText": "70",
+                  "id": "70"
+                },
+                {
+                  "sourceLanguage": "fil",
+                  "sourceText": "pitumpu’t anim",
+                  "id": "Tujuh puluh - enam",
+                  "tagalog": "pitumpu’t anim"
+                },
+                {
+                  "sourceLanguage": "mixed",
+                  "sourceText": "76",
+                  "id": "76"
+                }
+              ]
+            },
+            {
+              "cells": [
+                {
+                  "sourceLanguage": "fil",
+                  "sourceText": "pito",
+                  "id": "tujuh",
+                  "tagalog": "pito"
+                },
+                {
+                  "sourceLanguage": "mixed",
+                  "sourceText": "7",
+                  "id": "7"
+                },
+                {
+                  "sourceLanguage": "fil",
+                  "sourceText": "labimpito",
+                  "id": "18acture",
+                  "tagalog": "labimpito"
+                },
+                {
+                  "sourceLanguage": "mixed",
+                  "sourceText": "17",
+                  "id": "17"
+                },
+                {
+                  "sourceLanguage": "fil",
+                  "sourceText": "walumpu",
+                  "id": "Delapan puluh",
+                  "tagalog": "walumpu"
+                },
+                {
+                  "sourceLanguage": "mixed",
+                  "sourceText": "80",
+                  "id": "80"
+                },
+                {
+                  "sourceLanguage": "fil",
+                  "sourceText": "walumpu’t pito",
+                  "id": "Delapan puluh $8t tujuh",
+                  "tagalog": "walumpu’t pito"
+                },
+                {
+                  "sourceLanguage": "mixed",
+                  "sourceText": "87",
+                  "id": "87"
+                }
+              ]
+            },
+            {
+              "cells": [
+                {
+                  "sourceLanguage": "fil",
+                  "sourceText": "walo",
+                  "id": "delapan",
+                  "tagalog": "walo"
+                },
+                {
+                  "sourceLanguage": "mixed",
+                  "sourceText": "8",
+                  "id": "8"
+                },
+                {
+                  "sourceLanguage": "fil",
+                  "sourceText": "labingwalo",
+                  "id": "delapan belas",
+                  "tagalog": "labingwalo"
+                },
+                {
+                  "sourceLanguage": "mixed",
+                  "sourceText": "18",
+                  "id": "18"
+                },
+                {
+                  "sourceLanguage": "fil",
+                  "sourceText": "siyamnapu",
+                  "id": "Sembilan",
+                  "tagalog": "siyamnapu"
+                },
+                {
+                  "sourceLanguage": "mixed",
+                  "sourceText": "90",
+                  "id": "90"
+                },
+                {
+                  "sourceLanguage": "fil",
+                  "sourceText": "siyamnapu’t walo",
+                  "id": "Delapan belas",
+                  "tagalog": "siyamnapu’t walo"
+                },
+                {
+                  "sourceLanguage": "mixed",
+                  "sourceText": "98",
+                  "id": "98"
+                }
+              ]
+            },
+            {
+              "cells": [
+                {
+                  "sourceLanguage": "fil",
+                  "sourceText": "siyam",
+                  "id": "sembilan",
+                  "tagalog": "siyam"
+                },
+                {
+                  "sourceLanguage": "mixed",
+                  "sourceText": "9",
+                  "id": "9"
+                },
+                {
+                  "sourceLanguage": "fil",
+                  "sourceText": "labinsiyam",
+                  "id": "Abad ke-19",
+                  "tagalog": "labinsiyam"
+                },
+                {
+                  "sourceLanguage": "mixed",
+                  "sourceText": "19",
+                  "id": "19"
+                }
+              ]
+            },
+            {
+              "cells": [
+                {
+                  "sourceLanguage": "fil",
+                  "sourceText": "sampu",
+                  "id": "Sepuluh",
+                  "tagalog": "sampu"
+                },
+                {
+                  "sourceLanguage": "mixed",
+                  "sourceText": "10",
+                  "id": "10"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "style": "body",
+          "text": {
+            "sourceLanguage": "mixed",
+            "sourceText": "Grammar Presentation",
+            "id": "Penyajian Tata Bahasa"
+          }
+        },
+        {
+          "type": "text",
+          "style": "body",
+          "text": {
+            "sourceLanguage": "mixed",
+            "sourceText": "Numbers in Context",
+            "id": "Nomor dalam Konteks"
+          }
+        },
+        {
+          "type": "text",
+          "style": "body",
+          "text": {
+            "sourceLanguage": "en",
+            "sourceText": "The table below illustrates how to say one’s age. In the first structure, the number is in the predicate position followed by an enclitic na, which literally means “already” or “now,” and this is followed by the subject. In the second structure, the number is also in the predicate position but is used as a modifier of the word taon. Notice that there is a -ng in between the number and the word taon (year) when the number ends in a vowel. The suffix -ng functions as a linker, a concept that will be discussed in subsequent lessons. For now, it is best to memorize the structure as a chunk.",
+            "id": "Tabel di bawah ini menggambarkan bagaimana untuk mengatakan usia seseorang. Dalam struktur pertama, nomor dalam posisi predikte diikuti oleh sebuah na enclitic, yang secara harfiah berarti \"sudah\" atau \"sekarang\", dan ini diikuti oleh subjek. Perhatikan bahwa ada -ng di antara angka dan kata taon (tahun) ketika angka berakhir dalam vokal."
+          }
+        },
+        {
+          "type": "table",
+          "rows": [
+            {
+              "cells": [
+                {
+                  "sourceLanguage": "mixed",
+                  "sourceText": "Numbers",
+                  "id": "Nomor"
+                },
+                {
+                  "sourceLanguage": "mixed",
+                  "sourceText": "Enclitic",
+                  "id": "EnklikName"
+                },
+                {
+                  "sourceLanguage": "mixed",
+                  "sourceText": "Subject",
+                  "id": "Subjek"
+                }
+              ]
+            },
+            {
+              "cells": [
+                {
+                  "sourceLanguage": "fil",
+                  "sourceText": "Labingwalo",
+                  "id": "Sebelas",
+                  "tagalog": "Labingwalo"
+                },
+                {
+                  "sourceLanguage": "fil",
+                  "sourceText": "na",
+                  "id": "artikel yang",
+                  "tagalog": "na"
+                },
+                {
+                  "sourceLanguage": "fil",
+                  "sourceText": "si Karla.\n\n(ang phrase)",
+                  "id": "bertanya Karla. (The prase)",
+                  "tagalog": "si Karla.\n\n(ang phrase)"
+                }
+              ]
+            },
+            {
+              "cells": [
+                {
+                  "sourceLanguage": "mixed",
+                  "sourceText": "Numbers",
+                  "id": "Nomor"
+                },
+                {
+                  "sourceLanguage": "mixed",
+                  "sourceText": "Linker",
+                  "id": "Linker"
+                },
+                {
+                  "sourceLanguage": "mixed",
+                  "sourceText": "Year",
+                  "id": "Tahun"
+                },
+                {
+                  "sourceLanguage": "mixed",
+                  "sourceText": "Enclitic",
+                  "id": "EnklikName"
+                },
+                {
+                  "sourceLanguage": "mixed",
+                  "sourceText": "Subject",
+                  "id": "Subjek"
+                }
+              ]
+            },
+            {
+              "cells": [
+                {
+                  "sourceLanguage": "fil",
+                  "sourceText": "Sampu",
+                  "id": "Sepuluh",
+                  "tagalog": "Sampu"
+                },
+                {
+                  "sourceLanguage": "fil",
+                  "sourceText": "-ng",
+                  "id": "-ng",
+                  "tagalog": "-ng"
+                },
+                {
+                  "sourceLanguage": "fil",
+                  "sourceText": "taon",
+                  "id": "tahun",
+                  "tagalog": "taon"
+                },
+                {
+                  "sourceLanguage": "fil",
+                  "sourceText": "na",
+                  "id": "artikel yang",
+                  "tagalog": "na"
+                },
+                {
+                  "sourceLanguage": "fil",
+                  "sourceText": "ang bata\n\n(ang phrase)",
+                  "id": "anak (The prase)",
+                  "tagalog": "ang bata\n\n(ang phrase)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "style": "body",
+          "text": {
+            "sourceLanguage": "mixed",
+            "sourceText": "EXAMPLES:",
+            "id": "EXAMPLES:"
+          }
+        },
+        {
+          "type": "text",
+          "style": "body",
+          "text": {
+            "sourceLanguage": "fil",
+            "sourceText": "Ilang taon na ang nanay mo? How old is your mother now?",
+            "id": "Berapa umur ibumu, dan berapa umurnya?",
+            "tagalog": "Ilang taon na ang nanay mo? How old is your mother now?"
+          }
+        },
+        {
+          "type": "text",
+          "style": "body",
+          "text": {
+            "sourceLanguage": "fil",
+            "sourceText": "Limampu’t walo na si Nanay. Mom is already fifty-eight.",
+            "id": "Lima puluh delapan adalah Ibu, ibu adalah sekutu lima puluh delapan.",
+            "tagalog": "Limampu’t walo na si Nanay. Mom is already fifty-eight."
+          }
+        },
+        {
+          "type": "text",
+          "style": "body",
+          "text": {
+            "sourceLanguage": "mixed",
+            "sourceText": "Ilang taon na po kayo? How old are you now, sir/madam?",
+            "id": "Ilang taon na po kayo Berapa umurmu sekarang, pak / Madam?",
+            "tagalog": "Ilang taon na po kayo?"
+          }
+        },
+        {
+          "type": "text",
+          "style": "body",
+          "text": {
+            "sourceLanguage": "mixed",
+            "sourceText": "Animnapu’t limang taon na ako. I am already sixty-five years old.",
+            "id": "Animnau 't limang taon na ako. Aku sudah enam tahun lima tahun.",
+            "tagalog": "Animnapu’t limang taon na ako."
+          }
+        },
+        {
+          "type": "text",
+          "style": "body",
+          "text": {
+            "sourceLanguage": "en",
+            "sourceText": "Ilang taon na ang lolo at lola mo? How old are your grandfather and grandmother now?",
+            "id": "Ilang taon na ang lolo di lola mo? berapa umur kakek dan nenekmu sekarang?"
+          }
+        },
+        {
+          "type": "text",
+          "style": "body",
+          "text": {
+            "sourceLanguage": "fil",
+            "sourceText": "Pitumpu’t siyam na si Lolo at pitumpu’t walo si Lola. Grandfather is already seventy-nine, and grandmother is seventy-eight.",
+            "id": "Seventyputh nine Grandpa and eventyputh eight are Grandhear is alley seventy-nine, and grandma is seventy-eventy.",
+            "tagalog": "Pitumpu’t siyam na si Lolo at pitumpu’t walo si Lola. Grandfather is already seventy-nine, and grandmother is seventy-eight."
+          }
+        },
+        {
+          "type": "text",
+          "style": "body",
+          "text": {
+            "sourceLanguage": "mixed",
+            "sourceText": "Grammar Notes",
+            "id": "Catatan Tata Bahasa"
+          }
+        },
+        {
+          "type": "table",
+          "rows": [
+            {
+              "cells": [
+                {
+                  "sourceLanguage": "en",
+                  "sourceText": "1. Labi is added as a prefix to numbers 1 to 9 in order to make the numbers 11 to 19. The prefix labing has two variants:\n\n\n\n\nLabin- before numbers that begin with the letters d, l, r, s, and t\n\nLabim- before numbers that begin with the letters b and p\n\nLabing- before numbers that begin with a vowel, for example, isa (one), apat (four), and anim (six)\n\n\n\n\nLabindalawa twelve\n\nLabimpito seventeen\n\nLabing-isa eleven",
+                  "id": "1 Labi ditambahkan sebagai awalan ke nomor 1 sampai 9 untuk membuat angka 11 sampai 19. awalan memiliki dua varian: Labin-sebelum nomor yang dimulai dengan huruf d, l, r, s, dan t Bum- sebelum angka yang dimulai dengan huruf b dan p Buruh sebelum angka yang dimulai dengan huruf vokal, misalnya, isa (satu), apat (empat), dan anim (enam) Labindalawa 12 Labimpito tujuh belas Buruh - isa sebelas"
+                }
+              ]
+            },
+            {
+              "cells": [
+                {
+                  "sourceLanguage": "en",
+                  "sourceText": "2. Pu is added as a suffix to numbers 2 to 9 to indicate a group of tens.\n\nApatnapu = “four tens” = forty",
+                  "id": "Pu ditambahkan sebagai akhiran ke nomor 2 sampai 9 untuk menunjukkan sekelompok puluhan. Apatnapu = \"empat puluhan\" = empat puluh"
+                }
+              ]
+            },
+            {
+              "cells": [
+                {
+                  "sourceLanguage": "en",
+                  "sourceText": "3. Use m and na to connect the suffix pu to numerals.\n\nm: occurs after vowels\n\ndalawampu twenty\n\ntatlumpu thirty\n\nlimampu fifty\n\npitumpu seventy\n\nwalumpu eighty\n\nNotice that the letter o in the numerals tatlo, pito, and walo changes to u.\n\nna: occurs after consonants\n\napatnapu forty\n\nanimnapu sixty\n\nsiyamnapu ninety",
+                  "id": "3. Gunakan m dan na untuk menghubungkan nilai akhiran ke angka. m: terjadi setelah vokal dalawampu dua puluh taslumpu tiga puluh limampu fifty pitumpu tujuh puluh welumpu delapan puluh Perhatikan bahwa huruf o di angka tatlo, pito, dan walo berubah ke u. na: terjadi setelah consonants apatnapu empat puluh aniznapu enam puluh siyamnalu 90"
+                }
+              ]
+            },
+            {
+              "cells": [
+                {
+                  "sourceLanguage": "en",
+                  "sourceText": "4. To say the numbers 21 to 99 requires the conjunction at. However, in everyday speech, at is often contracted.\n\n77 (= 70 + 7)\n\nPitumpu at pito\n\nPitumpu’t pito (everyday speech)",
+                  "id": "4 untuk mengatakan angka 21 sampai 99 membutuhkan conjunction di Namun, dalam pidato sehari-hari, pada umumnya dikontrak. 77 (= 70 + 7) Pitumpu at pito Pitumpu 't pito (pidato sehari-hari)"
+                }
+              ]
+            },
+            {
+              "cells": [
+                {
+                  "sourceLanguage": "en",
+                  "sourceText": "5. When asking and responding to questions pertaining to age, the enclitic na is usually used. Literally, it means “now” or “already.”\n\nIlang taon ka na? How old are you (now)?\n\nDalawampu’t isa na ako. I am twenty-one years old now.",
+                  "id": "5 ketika bertanya dan menjawab pertanyaan berkaitan dengan usia, enclitic na biasanya digunakan secara harfiah, itu berarti \"sekarang\" atau \"sudah\". Ilang taon ka na? Dalawampu 't isa na ako."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "lesson-04-practice",
+      "type": "PRACTICE",
+      "title": {
+        "sourceLanguage": "mixed",
+        "sourceText": "Practice",
+        "id": "Latihan"
+      },
+      "blocks": [
+        {
+          "type": "text",
+          "style": "body",
+          "text": {
+            "sourceLanguage": "mixed",
+            "sourceText": "Practice",
+            "id": "Latihan"
+          }
+        },
+        {
+          "type": "text",
+          "style": "body",
+          "text": {
+            "sourceLanguage": "en",
+            "sourceText": "Now let’s practice using the structures we have just learned.",
+            "id": "Sekarang mari kita berlatih menggunakan struktur yang baru saja kita pelajari."
+          }
+        },
+        {
+          "type": "text",
+          "style": "body",
+          "text": {
+            "sourceLanguage": "en",
+            "sourceText": "I. Speaking Practice",
+            "id": "I. Latihan Berbicara"
+          }
+        },
+        {
+          "type": "text",
+          "style": "body",
+          "text": {
+            "sourceLanguage": "en",
+            "sourceText": "Answer the chart below and then work with a partner. Referring to the grammar explanation that you have just studied, take turns asking each other the age of each person listed in the first column. Use the example below to model your dialogue.",
+            "id": "Jawab bagan di bawah ini dan kemudian bekerja dengan pasangan. Mengarah ke penjelasan tata bahasa yang baru saja Anda pelajari, bergantian saling bertanya usia masing-masing orang yang terdaftar di kolom pertama. Gunakan contoh di bawah untuk memodelkan dialog Anda."
+          }
+        },
+        {
+          "type": "text",
+          "style": "body",
+          "text": {
+            "sourceLanguage": "mixed",
+            "sourceText": "EXAMPLE:",
+            "id": "EXAMPLE:"
+          }
+        },
+        {
+          "type": "text",
+          "style": "body",
+          "text": {
+            "sourceLanguage": "en",
+            "sourceText": "S1: Ilang taon ka na? How old are you now?",
+            "id": "S1: llang taon ka na Berapa umurmu sekarang?"
+          }
+        },
+        {
+          "type": "text",
+          "style": "body",
+          "text": {
+            "sourceLanguage": "mixed",
+            "sourceText": "S2: Dalawampu’t walo na ako. I am now twenty-eight years old.",
+            "id": "aku sekarang berumur dua belas tahun.",
+            "tagalog": "Dalawampu’t walo na ako."
+          }
+        },
+        {
+          "type": "text",
+          "style": "body",
+          "text": {
+            "sourceLanguage": "mixed",
+            "sourceText": "S1: Ano ang pangalan ng kaibigan mo? What is the name of your friend?",
+            "id": "S1: Ano ang pangalan ng kaibigan mo?",
+            "tagalog": "Ano ang pangalan ng kaibigan mo?"
+          }
+        },
+        {
+          "type": "text",
+          "style": "body",
+          "text": {
+            "sourceLanguage": "fil",
+            "sourceText": "S2: Martha. Martha.",
+            "id": "Martha.",
+            "tagalog": "S2: Martha. Martha."
+          }
+        },
+        {
+          "type": "text",
+          "style": "body",
+          "text": {
+            "sourceLanguage": "fil",
+            "sourceText": "S1: Ilang taon na si Martha? How old is Martha now?",
+            "id": "Berapa usia Martha?",
+            "tagalog": "S1: Ilang taon na si Martha? How old is Martha now?"
+          }
+        },
+        {
+          "type": "text",
+          "style": "body",
+          "text": {
+            "sourceLanguage": "mixed",
+            "sourceText": "S2: Dalawampu na si Martha. Martha is now twenty years old.",
+            "id": "Dalawampu na si Martha Martha sekarang berumur 20 tahun",
+            "tagalog": "Dalawampu na si Martha."
+          }
+        },
+        {
+          "type": "table",
+          "rows": [
+            {
+              "cells": [
+                {
+                  "sourceLanguage": "mixed",
+                  "sourceText": "Pangalan",
+                  "id": "Pangalan"
+                },
+                {
+                  "sourceLanguage": "mixed",
+                  "sourceText": "Taon",
+                  "id": "Taon"
+                }
+              ]
+            },
+            {
+              "cells": [
+                {
+                  "sourceLanguage": "fil",
+                  "sourceText": "1. Pangalan mo",
+                  "id": "1.",
+                  "tagalog": "1. Pangalan mo"
+                }
+              ]
+            },
+            {
+              "cells": [
+                {
+                  "sourceLanguage": "fil",
+                  "sourceText": "Pangalan: ______________________",
+                  "id": "Nama:......",
+                  "tagalog": "Pangalan: ______________________"
+                }
+              ]
+            },
+            {
+              "cells": [
+                {
+                  "sourceLanguage": "fil",
+                  "sourceText": "2. Pangalan ng kaibigan mo",
+                  "id": "Nama temanmu.",
+                  "tagalog": "2. Pangalan ng kaibigan mo"
+                }
+              ]
+            },
+            {
+              "cells": [
+                {
+                  "sourceLanguage": "fil",
+                  "sourceText": "Pangalan: ______________________",
+                  "id": "Nama:......",
+                  "tagalog": "Pangalan: ______________________"
+                }
+              ]
+            },
+            {
+              "cells": [
+                {
+                  "sourceLanguage": "fil",
+                  "sourceText": "3. Pangalan ng nanay mo",
+                  "id": "3 nama ibumu",
+                  "tagalog": "3. Pangalan ng nanay mo"
+                }
+              ]
+            },
+            {
+              "cells": [
+                {
+                  "sourceLanguage": "fil",
+                  "sourceText": "Pangalan: ______________________",
+                  "id": "Nama:......",
+                  "tagalog": "Pangalan: ______________________"
+                }
+              ]
+            },
+            {
+              "cells": [
+                {
+                  "sourceLanguage": "fil",
+                  "sourceText": "4. Pangalan ng tatay mo",
+                  "id": "4 nama ayahmu",
+                  "tagalog": "4. Pangalan ng tatay mo"
+                }
+              ]
+            },
+            {
+              "cells": [
+                {
+                  "sourceLanguage": "fil",
+                  "sourceText": "Pangalan: ______________________",
+                  "id": "Nama:......",
+                  "tagalog": "Pangalan: ______________________"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "style": "body",
+          "text": {
+            "sourceLanguage": "mixed",
+            "sourceText": "II. Reading Practice",
+            "id": "II. Latihan Membaca"
+          }
+        },
+        {
+          "type": "text",
+          "style": "body",
+          "text": {
+            "sourceLanguage": "en",
+            "sourceText": "Read Mario’s story about his family and then answer the Reading Comprehension questions in Tagalog.",
+            "id": "Baca cerita Mario tentang keluarganya dan kemudian menjawab Pertanyaan Reading Comprehension di Tagalog."
+          }
+        },
+        {
+          "type": "image",
+          "path": "assets/86.jpg"
+        },
+        {
+          "type": "text",
+          "style": "body",
+          "text": {
+            "sourceLanguage": "mixed",
+            "sourceText": "Ang Pamilya ni Mario Cruz",
+            "id": "Ang Pamilya ni Mario Cruz"
+          }
+        },
+        {
+          "type": "text",
+          "style": "body",
+          "text": {
+            "sourceLanguage": "fil",
+            "sourceText": "Siya si Mario Cruz. Dalawampu’t limang taon na siya. Nakatira siya sa Parañaque. Taga-Maynila ang nanay ni Mario at taga-Cebu naman ang tatay niya. Nars ang nanay niya at abogado naman ang tatay niya. Kasama ni Mario ang tatay at nanay niya sa bahay nila. May asawa na si Mario, Lita ang pangalan. Nagtatrabaho si Lita sa bangko. Doktor naman si Mario. May dalawa silang anak, si Paolo at si Joan. Third year high school na si Paolo sa St. Mary’s Academy at nasa elementarya pa lang si Joan sa Sacred Heart. Mababait at matatalino ang mga anak nina Mario.",
+            "id": "Dia adalah Mario Cruz, berusia dua belas tahun, tinggal di Parañaque, ibu Mario, dan ayahnya dari Cebu, ibunya adalah seorang ibu, dan ayahnya seorang pengacara, dan Mario tinggal bersama ibunya di rumahnya. Ada dua anak, Paolo, dan Joan, sekolah menengah tahun ketiga dengan Paolo di St Mary dewasa Academy, dan Joan berada di sekolah dasar di Hati Suci, dan anak-anak Mario yang lembut dan cerdas.",
+            "tagalog": "Siya si Mario Cruz. Dalawampu’t limang taon na siya. Nakatira siya sa Parañaque. Taga-Maynila ang nanay ni Mario at taga-Cebu naman ang tatay niya. Nars ang nanay niya at abogado naman ang tatay niya. Kasama ni Mario ang tatay at nanay niya sa bahay nila. May asawa na si Mario, Lita ang pangalan. Nagtatrabaho si Lita sa bangko. Doktor naman si Mario. May dalawa silang anak, si Paolo at si Joan. Third year high school na si Paolo sa St. Mary’s Academy at nasa elementarya pa lang si Joan sa Sacred Heart. Mababait at matatalino ang mga anak nina Mario."
+          }
+        },
+        {
+          "type": "text",
+          "style": "body",
+          "text": {
+            "sourceLanguage": "mixed",
+            "sourceText": "Reading Comprehension",
+            "id": "Pemahaman Bacaan"
+          }
+        },
+        {
+          "type": "text",
+          "style": "body",
+          "text": {
+            "sourceLanguage": "fil",
+            "sourceText": "1. Ilang taon na si Mario?",
+            "id": "Berapa umur Mario?",
+            "tagalog": "1. Ilang taon na si Mario?"
+          }
+        },
+        {
+          "type": "text",
+          "style": "body",
+          "text": {
+            "sourceLanguage": "mixed",
+            "sourceText": "____________________________________",
+            "id": "____________________________________"
+          }
+        },
+        {
+          "type": "text",
+          "style": "body",
+          "text": {
+            "sourceLanguage": "fil",
+            "sourceText": "2. Saan siya nakatira?",
+            "id": "Di mana dia tinggal?",
+            "tagalog": "2. Saan siya nakatira?"
+          }
+        },
+        {
+          "type": "text",
+          "style": "body",
+          "text": {
+            "sourceLanguage": "mixed",
+            "sourceText": "____________________________________",
+            "id": "____________________________________"
+          }
+        },
+        {
+          "type": "text",
+          "style": "body",
+          "text": {
+            "sourceLanguage": "fil",
+            "sourceText": "3. Ano ang trabaho ng nanay at tatay niya?",
+            "id": "Apa pekerjaan ibu dan ayahnya?",
+            "tagalog": "3. Ano ang trabaho ng nanay at tatay niya?"
+          }
+        },
+        {
+          "type": "text",
+          "style": "body",
+          "text": {
+            "sourceLanguage": "mixed",
+            "sourceText": "____________________________________",
+            "id": "____________________________________"
+          }
+        },
+        {
+          "type": "text",
+          "style": "body",
+          "text": {
+            "sourceLanguage": "fil",
+            "sourceText": "4. Ano ang pangalan ng asawa niya?",
+            "id": "Siapa nama suaminya?",
+            "tagalog": "4. Ano ang pangalan ng asawa niya?"
+          }
+        },
+        {
+          "type": "text",
+          "style": "body",
+          "text": {
+            "sourceLanguage": "mixed",
+            "sourceText": "____________________________________",
+            "id": "____________________________________"
+          }
+        },
+        {
+          "type": "text",
+          "style": "body",
+          "text": {
+            "sourceLanguage": "fil",
+            "sourceText": "5. Ilarawan ang mga anak nina Mario.",
+            "id": "Jelaskan anak-anak Mario.",
+            "tagalog": "5. Ilarawan ang mga anak nina Mario."
+          }
+        },
+        {
+          "type": "text",
+          "style": "body",
+          "text": {
+            "sourceLanguage": "mixed",
+            "sourceText": "____________________________________",
+            "id": "____________________________________"
+          }
+        },
+        {
+          "type": "text",
+          "style": "body",
+          "text": {
+            "sourceLanguage": "mixed",
+            "sourceText": "III. Writing Practice",
+            "id": "III. Latihan Menulis"
+          }
+        },
+        {
+          "type": "text",
+          "style": "body",
+          "text": {
+            "sourceLanguage": "en",
+            "sourceText": "Write a short paragraph about your family. Use the paragraph above as a model for your essay.",
+            "id": "Tulis paragraf pendek tentang keluargamu, gunakan paragraf di atas sebagai model untuk esaimu."
+          }
+        },
+        {
+          "type": "text",
+          "style": "body",
+          "text": {
+            "sourceLanguage": "mixed",
+            "sourceText": "___________________________________________",
+            "id": "___________________________________________"
+          }
+        },
+        {
+          "type": "text",
+          "style": "body",
+          "text": {
+            "sourceLanguage": "mixed",
+            "sourceText": "___________________________________________",
+            "id": "___________________________________________"
+          }
+        },
+        {
+          "type": "text",
+          "style": "body",
+          "text": {
+            "sourceLanguage": "mixed",
+            "sourceText": "___________________________________________",
+            "id": "___________________________________________"
+          }
+        },
+        {
+          "type": "text",
+          "style": "body",
+          "text": {
+            "sourceLanguage": "mixed",
+            "sourceText": "___________________________________________",
+            "id": "___________________________________________"
+          }
+        },
+        {
+          "type": "text",
+          "style": "body",
+          "text": {
+            "sourceLanguage": "mixed",
+            "sourceText": "___________________________________________",
+            "id": "___________________________________________"
+          }
+        },
+        {
+          "type": "text",
+          "style": "body",
+          "text": {
+            "sourceLanguage": "mixed",
+            "sourceText": "___________________________________________",
+            "id": "___________________________________________"
+          }
+        },
+        {
+          "type": "text",
+          "style": "body",
+          "text": {
+            "sourceLanguage": "mixed",
+            "sourceText": "___________________________________________",
+            "id": "___________________________________________"
+          }
+        },
+        {
+          "type": "text",
+          "style": "body",
+          "text": {
+            "sourceLanguage": "en",
+            "sourceText": "To Download the audio files, please click here.",
+            "id": "Untuk Unduh berkas audio, silakan klik di sini."
+          }
+        },
+        {
+          "type": "image",
+          "path": "assets/cd.jpg"
+        },
+        {
+          "type": "text",
+          "style": "body",
+          "text": {
+            "sourceLanguage": "mixed",
+            "sourceText": "IV. Listening Practice",
+            "id": "IV. Latihan Menyimak"
+          }
+        },
+        {
+          "type": "text",
+          "style": "body",
+          "text": {
+            "sourceLanguage": "en",
+            "sourceText": "Using the Bonus Material of the book, listen to audio file (04–2) and answer the following questions in English.",
+            "id": "Menggunakan Material Bonus buku, mendengarkan file audio (04-2) dan menjawab pertanyaan berikut dalam bahasa Inggris."
+          }
+        },
+        {
+          "type": "text",
+          "style": "body",
+          "text": {
+            "sourceLanguage": "mixed",
+            "sourceText": "EXAMPLE:",
+            "id": "EXAMPLE:"
+          }
+        },
+        {
+          "type": "text",
+          "style": "body",
+          "text": {
+            "sourceLanguage": "fil",
+            "sourceText": "You will hear: Ano ang pangalan ng nanay mo?",
+            "id": "Siapa nama ibumu?",
+            "tagalog": "You will hear: Ano ang pangalan ng nanay mo?"
+          }
+        },
+        {
+          "type": "text",
+          "style": "body",
+          "text": {
+            "sourceLanguage": "fil",
+            "sourceText": "You write: Editha ang pangalan ng nanay ko.",
+            "id": "Kau menulis, nama ibuku Editha.",
+            "tagalog": "You write: Editha ang pangalan ng nanay ko."
+          }
+        },
+        {
+          "type": "text",
+          "style": "body",
+          "text": {
+            "sourceLanguage": "mixed",
+            "sourceText": "1. _________________________________",
+            "id": "1. _________________________________"
+          }
+        },
+        {
+          "type": "text",
+          "style": "body",
+          "text": {
+            "sourceLanguage": "mixed",
+            "sourceText": "2. _________________________________",
+            "id": "2. _________________________________"
+          }
+        },
+        {
+          "type": "text",
+          "style": "body",
+          "text": {
+            "sourceLanguage": "mixed",
+            "sourceText": "3. _________________________________",
+            "id": "3. _________________________________"
+          }
+        },
+        {
+          "type": "text",
+          "style": "body",
+          "text": {
+            "sourceLanguage": "mixed",
+            "sourceText": "4. _________________________________",
+            "id": "4. _________________________________"
+          }
+        },
+        {
+          "type": "text",
+          "style": "body",
+          "text": {
+            "sourceLanguage": "mixed",
+            "sourceText": "5. _________________________________",
+            "id": "5. _________________________________"
+          }
+        }
+      ]
+    }
+  ]
+}
