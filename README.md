@@ -49,7 +49,10 @@ Generated content must be committed and published only from the `data` branch.
 
 The source audit records structural metadata from the reference EPUB but never
 publishes its prose. Story text, translations, vocabulary, notes, and exercises
-are original RoLang content.
+are original RoLang content. Although the cover declares 100 stories, the EPUB
+contains 104 numbered story entries: 25 and 46 are skipped, while 101–106 are
+included. Its only embedded bitmap is the cover, so no copyrighted book image is
+published with the stories.
 
 ```sh
 python3 tools/analyze_story_epub.py \
