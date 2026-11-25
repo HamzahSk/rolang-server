@@ -17,12 +17,12 @@
     {
       "sourceLanguage": "en",
       "sourceText": "• Read and write short biographical texts",
-      "id": "Baca dan tulis teks biografi pendek"
+      "id": "• Membaca dan menulis teks biografi singkat"
     },
     {
       "sourceLanguage": "en",
       "sourceText": "• Ask and answer basic biographical questions about people",
-      "id": "Tanyakan dan jawab pertanyaan biografis dasar tentang orang"
+      "id": "• Mengajukan dan menjawab pertanyaan biografis dasar tentang seseorang"
     }
   ],
   "source": {
@@ -41,220 +41,154 @@
   ],
   "sections": [
     {
-      "id": "lesson-06-overview",
-      "type": "OVERVIEW",
+      "type": "INTRODUCTION",
       "title": {
-        "sourceLanguage": "mixed",
-        "sourceText": "Overview",
-        "id": "Gambaran Umum"
+        "sourceLanguage": "en",
+        "sourceText": "An Overview of Lesson 6",
+        "id": "Pengantar Pelajaran 6"
       },
       "blocks": [
         {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "en",
-            "sourceText": "An Overview of Lesson 6",
-            "id": "Gambaran Umum Pelajaran 6"
-          }
+          "type": "list",
+          "style": "objectives",
+          "items": [
+            {
+              "sourceLanguage": "en",
+              "sourceText": "• Read and write short biographical texts",
+              "id": "• Membaca dan menulis teks biografi singkat"
+            },
+            {
+              "sourceLanguage": "en",
+              "sourceText": "• Ask and answer basic biographical questions about people",
+              "id": "• Mengajukan dan menjawab pertanyaan biografis dasar tentang seseorang"
+            }
+          ]
         },
         {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "en",
-            "sourceText": "This lesson combines all the vocabulary and grammar rules that we have studied and learned so far from Lessons 1, 2, 3, 4, and 5.",
-            "id": "Pelajaran ini menggabungkan semua kosakata dan aturan tata bahasa yang telah kita pelajari dan pelajari sejauh ini dari Lessons 1, 2, 3, 4, dan 5."
-          }
-        },
-        {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "mixed",
-            "sourceText": "Objectives",
-            "id": "Objeksi"
-          }
-        },
-        {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "en",
-            "sourceText": "• Read and write short biographical texts",
-            "id": "Baca dan tulis teks biografi pendek"
-          }
-        },
-        {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "en",
-            "sourceText": "• Ask and answer basic biographical questions about people",
-            "id": "Tanyakan dan jawab pertanyaan biografis dasar tentang orang"
-          }
-        },
-        {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "mixed",
-            "sourceText": "Vocabulary",
-            "id": "Kosakata"
-          }
-        },
-        {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "mixed",
-            "sourceText": "• Nouns",
-            "id": "Nouns"
-          }
-        },
-        {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "en",
-            "sourceText": "• Names of the Months",
-            "id": "Nama: Bulan"
-          }
-        },
-        {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "mixed",
-            "sourceText": "• Adjectives",
-            "id": "Advances"
-          }
-        },
-        {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "mixed",
-            "sourceText": "• Existential Particles",
-            "id": "Partikel Existential"
-          }
-        },
-        {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "mixed",
-            "sourceText": "• Prefixes",
-            "id": "Prefiks"
-          }
-        },
-        {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "mixed",
-            "sourceText": "• Enclitics",
-            "id": "Enkliknya"
-          }
-        },
-        {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "mixed",
-            "sourceText": "• Markers",
-            "id": "Markers:"
-          }
-        },
-        {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "mixed",
-            "sourceText": "• Idioms and Expressions",
-            "id": "Ekspresi dan Idiom"
-          }
-        },
-        {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "mixed",
-            "sourceText": "Reading Text: Ang Pamilya ni Josie Josie’s Family",
-            "id": "Teks Bacaan: Ang Pamilya ni Josie 's Family"
-          }
-        },
-        {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "mixed",
-            "sourceText": "Reading Comprehension",
-            "id": "Pemahaman Bacaan"
-          }
-        },
-        {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "mixed",
-            "sourceText": "Activities",
-            "id": "Aktivitas"
-          }
-        },
-        {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "mixed",
-            "sourceText": "Activity 1: Interview",
-            "id": "Aktivitas 1: Wawancara"
-          }
-        },
-        {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "mixed",
-            "sourceText": "Activity 2: Speaking Practice",
-            "id": "Aktivitas 2: Latihan Berbicara"
-          }
-        },
-        {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "mixed",
-            "sourceText": "Activity 3: Interview",
-            "id": "Aktivitas 3: Wawancara"
-          }
-        },
-        {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "mixed",
-            "sourceText": "Grammar",
-            "id": "Tata Bahasa"
-          }
-        },
-        {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "mixed",
-            "sourceText": "Definition of terms: Existential Particles",
-            "id": "Definisi dari istilah: Partikel Ekssistensial"
-          }
-        },
-        {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "mixed",
-            "sourceText": "Examining Form",
-            "id": "Mengkaji Bentuk"
-          }
+          "type": "list",
+          "style": "outline",
+          "items": [
+            {
+              "sourceLanguage": "en",
+              "sourceText": "This lesson combines all the vocabulary and grammar rules that we have studied and learned so far from Lessons 1, 2, 3, 4, and 5.",
+              "id": "Pelajaran ini menggabungkan semua kosakata dan aturan tata bahasa yang telah kita pelajari dan pelajari sejauh ini dari Lessons 1, 2, 3, 4, dan 5."
+            },
+            {
+              "sourceLanguage": "mixed",
+              "sourceText": "Vocabulary",
+              "id": "Kosakata"
+            },
+            {
+              "sourceLanguage": "mixed",
+              "sourceText": "• Nouns",
+              "id": "Nouns"
+            },
+            {
+              "sourceLanguage": "en",
+              "sourceText": "• Names of the Months",
+              "id": "Nama: Bulan"
+            },
+            {
+              "sourceLanguage": "mixed",
+              "sourceText": "• Adjectives",
+              "id": "Advances"
+            },
+            {
+              "sourceLanguage": "mixed",
+              "sourceText": "• Existential Particles",
+              "id": "Partikel Existential"
+            },
+            {
+              "sourceLanguage": "mixed",
+              "sourceText": "• Prefixes",
+              "id": "Prefiks"
+            },
+            {
+              "sourceLanguage": "mixed",
+              "sourceText": "• Enclitics",
+              "id": "Enkliknya"
+            },
+            {
+              "sourceLanguage": "mixed",
+              "sourceText": "• Markers",
+              "id": "Markers:"
+            },
+            {
+              "sourceLanguage": "mixed",
+              "sourceText": "• Idioms and Expressions",
+              "id": "Ekspresi dan Idiom"
+            },
+            {
+              "sourceLanguage": "mixed",
+              "sourceText": "Reading Text: Ang Pamilya ni Josie Josie’s Family",
+              "id": "Teks Bacaan: Ang Pamilya ni Josie 's Family"
+            },
+            {
+              "sourceLanguage": "mixed",
+              "sourceText": "Reading Comprehension",
+              "id": "Pemahaman Bacaan"
+            },
+            {
+              "sourceLanguage": "mixed",
+              "sourceText": "Activities",
+              "id": "Aktivitas"
+            },
+            {
+              "sourceLanguage": "mixed",
+              "sourceText": "Activity 1: Interview",
+              "id": "Aktivitas 1: Wawancara"
+            },
+            {
+              "sourceLanguage": "mixed",
+              "sourceText": "Activity 2: Speaking Practice",
+              "id": "Aktivitas 2: Latihan Berbicara"
+            },
+            {
+              "sourceLanguage": "mixed",
+              "sourceText": "Activity 3: Interview",
+              "id": "Aktivitas 3: Wawancara"
+            },
+            {
+              "sourceLanguage": "mixed",
+              "sourceText": "Grammar",
+              "id": "Tata Bahasa"
+            },
+            {
+              "sourceLanguage": "mixed",
+              "sourceText": "Definition of terms: Existential Particles",
+              "id": "Definisi dari istilah: Partikel Ekssistensial"
+            },
+            {
+              "sourceLanguage": "mixed",
+              "sourceText": "Examining Form",
+              "id": "Mengkaji Bentuk"
+            },
+            {
+              "sourceLanguage": "mixed",
+              "sourceText": "Practice",
+              "id": "Latihan"
+            },
+            {
+              "sourceLanguage": "en",
+              "sourceText": "I. Speaking Practice",
+              "id": "I. Latihan Berbicara"
+            },
+            {
+              "sourceLanguage": "mixed",
+              "sourceText": "II. Reading Practice",
+              "id": "II. Latihan Membaca"
+            },
+            {
+              "sourceLanguage": "mixed",
+              "sourceText": "III. Writing Practice",
+              "id": "III. Latihan Menulis"
+            },
+            {
+              "sourceLanguage": "mixed",
+              "sourceText": "IV. Listening Practice",
+              "id": "IV. Latihan Menyimak"
+            }
+          ]
         },
         {
           "type": "table",
@@ -297,7 +231,8 @@
                 {
                   "sourceLanguage": "en",
                   "sourceText": "Grammar Presentation: Sentence Structures with Mayroon and Wala",
-                  "id": "Penyajian Tata Bahasa: Struktur Hukuman dengan Mayroon dan Wala"
+                  "id": "Penyajian Tata Bahasa: Struktur Hukuman dengan Mayroon dan Wala",
+                  "tagalog": "Mayroon Wala"
                 }
               ]
             },
@@ -334,57 +269,13 @@
                 }
               ]
             }
-          ]
-        },
-        {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "mixed",
-            "sourceText": "Practice",
-            "id": "Latihan"
-          }
-        },
-        {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "en",
-            "sourceText": "I. Speaking Practice",
-            "id": "I. Latihan Berbicara"
-          }
-        },
-        {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "mixed",
-            "sourceText": "II. Reading Practice",
-            "id": "II. Latihan Membaca"
-          }
-        },
-        {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "mixed",
-            "sourceText": "III. Writing Practice",
-            "id": "III. Latihan Menulis"
-          }
-        },
-        {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "mixed",
-            "sourceText": "IV. Listening Practice",
-            "id": "IV. Latihan Menyimak"
-          }
+          ],
+          "role": "outline"
         }
-      ]
+      ],
+      "id": "lesson-06-01-an-overview-of-lesson-6"
     },
     {
-      "id": "lesson-06-vocabulary",
       "type": "VOCABULARY",
       "title": {
         "sourceLanguage": "mixed",
@@ -394,7 +285,7 @@
       "blocks": [
         {
           "type": "text",
-          "style": "body",
+          "style": "heading",
           "text": {
             "sourceLanguage": "mixed",
             "sourceText": "Vocabulary (06–1)",
@@ -415,796 +306,702 @@
           }
         },
         {
-          "type": "table",
-          "rows": [
+          "type": "vocabulary",
+          "entries": [
             {
-              "cells": [
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "Nouns",
-                  "id": "Kata benda"
-                }
-              ]
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "alaga",
+                "id": "pet",
+                "tagalog": "alaga"
+              },
+              "meaning": {
+                "sourceLanguage": "mixed",
+                "sourceText": "pet",
+                "id": "pet"
+              }
             },
             {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "alaga",
-                  "id": "pet",
-                  "tagalog": "alaga"
-                },
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "pet",
-                  "id": "pet"
-                }
-              ]
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "aso",
+                "id": "anjing",
+                "tagalog": "aso"
+              },
+              "meaning": {
+                "sourceLanguage": "mixed",
+                "sourceText": "dog",
+                "id": "anjing"
+              }
             },
             {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "aso",
-                  "id": "anjing",
-                  "tagalog": "aso"
-                },
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "dog",
-                  "id": "anjing"
-                }
-              ]
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "baboy",
+                "id": "babi",
+                "tagalog": "baboy"
+              },
+              "meaning": {
+                "sourceLanguage": "mixed",
+                "sourceText": "pig",
+                "id": "babi"
+              }
             },
             {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "baboy",
-                  "id": "babi",
-                  "tagalog": "baboy"
-                },
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "pig",
-                  "id": "babi"
-                }
-              ]
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "bahay- bakasyunan",
+                "id": "rumah liburan",
+                "tagalog": "bahay- bakasyunan"
+              },
+              "meaning": {
+                "sourceLanguage": "mixed",
+                "sourceText": "vacation house",
+                "id": "rumah liburan"
+              }
             },
             {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "bahay- bakasyunan",
-                  "id": "rumah liburan",
-                  "tagalog": "bahay- bakasyunan"
-                },
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "vacation house",
-                  "id": "rumah liburan"
-                }
-              ]
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "ibon",
+                "id": "burung",
+                "tagalog": "ibon"
+              },
+              "meaning": {
+                "sourceLanguage": "mixed",
+                "sourceText": "bird",
+                "id": "burung"
+              }
             },
             {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "ibon",
-                  "id": "burung",
-                  "tagalog": "ibon"
-                },
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "bird",
-                  "id": "burung"
-                }
-              ]
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "isda",
+                "id": "ikan",
+                "tagalog": "isda"
+              },
+              "meaning": {
+                "sourceLanguage": "mixed",
+                "sourceText": "fish",
+                "id": "ikan"
+              }
             },
             {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "isda",
-                  "id": "ikan",
-                  "tagalog": "isda"
-                },
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "fish",
-                  "id": "ikan"
-                }
-              ]
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "kabayo",
+                "id": "kuda",
+                "tagalog": "kabayo"
+              },
+              "meaning": {
+                "sourceLanguage": "mixed",
+                "sourceText": "horse",
+                "id": "kuda"
+              }
             },
             {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "kabayo",
-                  "id": "kuda",
-                  "tagalog": "kabayo"
-                },
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "horse",
-                  "id": "kuda"
-                }
-              ]
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "kotse",
+                "id": "mobil",
+                "tagalog": "kotse"
+              },
+              "meaning": {
+                "sourceLanguage": "mixed",
+                "sourceText": "car",
+                "id": "mobil"
+              }
             },
             {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "kotse",
-                  "id": "mobil",
-                  "tagalog": "kotse"
-                },
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "car",
-                  "id": "mobil"
-                }
-              ]
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "kuneho",
+                "id": "kelinci",
+                "tagalog": "kuneho"
+              },
+              "meaning": {
+                "sourceLanguage": "mixed",
+                "sourceText": "rabbit",
+                "id": "kelinci"
+              }
             },
             {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "kuneho",
-                  "id": "kelinci",
-                  "tagalog": "kuneho"
-                },
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "rabbit",
-                  "id": "kelinci"
-                }
-              ]
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "loro",
+                "id": "burung beo",
+                "tagalog": "loro"
+              },
+              "meaning": {
+                "sourceLanguage": "mixed",
+                "sourceText": "parrot",
+                "id": "burung beo"
+              }
             },
             {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "loro",
-                  "id": "burung beo",
-                  "tagalog": "loro"
-                },
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "parrot",
-                  "id": "burung beo"
-                }
-              ]
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "manok",
+                "id": "ayam",
+                "tagalog": "manok"
+              },
+              "meaning": {
+                "sourceLanguage": "mixed",
+                "sourceText": "chicken",
+                "id": "ayam"
+              }
             },
             {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "manok",
-                  "id": "ayam",
-                  "tagalog": "manok"
-                },
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "chicken",
-                  "id": "ayam"
-                }
-              ]
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "matalik na kaibigan",
+                "id": "sahabat",
+                "tagalog": "matalik na kaibigan"
+              },
+              "meaning": {
+                "sourceLanguage": "mixed",
+                "sourceText": "best friend",
+                "id": "sahabat"
+              }
             },
             {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "matalik na kaibigan",
-                  "id": "sahabat",
-                  "tagalog": "matalik na kaibigan"
-                },
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "best friend",
-                  "id": "sahabat"
-                }
-              ]
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "pagong",
+                "id": "kura-kura",
+                "tagalog": "pagong"
+              },
+              "meaning": {
+                "sourceLanguage": "mixed",
+                "sourceText": "turtle",
+                "id": "kura-kura"
+              }
             },
             {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "pagong",
-                  "id": "kura-kura",
-                  "tagalog": "pagong"
-                },
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "turtle",
-                  "id": "kura-kura"
-                }
-              ]
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "pera",
+                "id": "uang",
+                "tagalog": "pera"
+              },
+              "meaning": {
+                "sourceLanguage": "mixed",
+                "sourceText": "money",
+                "id": "uang"
+              }
             },
             {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "pera",
-                  "id": "uang",
-                  "tagalog": "pera"
-                },
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "money",
-                  "id": "uang"
-                }
-              ]
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "pusa",
+                "id": "kucing",
+                "tagalog": "pusa"
+              },
+              "meaning": {
+                "sourceLanguage": "mixed",
+                "sourceText": "cat",
+                "id": "kucing"
+              }
             },
             {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "pusa",
-                  "id": "kucing",
-                  "tagalog": "pusa"
-                },
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "cat",
-                  "id": "kucing"
-                }
-              ]
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "tandang",
+                "id": "Ayam jantan.",
+                "tagalog": "tandang"
+              },
+              "meaning": {
+                "sourceLanguage": "mixed",
+                "sourceText": "rooster",
+                "id": "Ayam jantan."
+              }
             },
             {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "tandang",
-                  "id": "Ayam jantan.",
-                  "tagalog": "tandang"
-                },
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "rooster",
-                  "id": "Ayam jantan."
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "tao",
-                  "id": "orang",
-                  "tagalog": "tao"
-                },
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "person",
-                  "id": "orang"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "Markers",
-                  "id": "Penanda"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "noon(g)",
-                  "id": "penanda waktu lalu",
-                  "tagalog": "noon(g)"
-                },
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "past time marker",
-                  "id": "penanda waktu lalu"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "en",
-                  "sourceText": "Names of the Months",
-                  "id": "Nama Bulan"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "Enero",
-                  "id": "Januari",
-                  "tagalog": "Enero"
-                },
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "January",
-                  "id": "Januari"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "Pebrero",
-                  "id": "Februari",
-                  "tagalog": "Pebrero"
-                },
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "February",
-                  "id": "Februari"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "Marso",
-                  "id": "Maret",
-                  "tagalog": "Marso"
-                },
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "March",
-                  "id": "Maret"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "Abril",
-                  "id": "April",
-                  "tagalog": "Abril"
-                },
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "April",
-                  "id": "April"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "Mayo",
-                  "id": "Mei",
-                  "tagalog": "Mayo"
-                },
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "May",
-                  "id": "Mei"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "Hunyo",
-                  "id": "Juni",
-                  "tagalog": "Hunyo"
-                },
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "June",
-                  "id": "Juni"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "Hulyo",
-                  "id": "Juli",
-                  "tagalog": "Hulyo"
-                },
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "July",
-                  "id": "Juli"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "Agosto",
-                  "id": "Agustus",
-                  "tagalog": "Agosto"
-                },
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "August",
-                  "id": "Agustus"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "Setyembre",
-                  "id": "September",
-                  "tagalog": "Setyembre"
-                },
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "September",
-                  "id": "September"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "Oktubre",
-                  "id": "Oktober",
-                  "tagalog": "Oktubre"
-                },
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "October",
-                  "id": "Oktober"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "Nobyembre",
-                  "id": "November",
-                  "tagalog": "Nobyembre"
-                },
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "November",
-                  "id": "November"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "Disyembre",
-                  "id": "Desember",
-                  "tagalog": "Disyembre"
-                },
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "December",
-                  "id": "Desember"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "Adjectives",
-                  "id": "Kata sifat"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "mahirap",
-                  "id": "miskin",
-                  "tagalog": "mahirap"
-                },
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "poor",
-                  "id": "miskin"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "malinis",
-                  "id": "bersih",
-                  "tagalog": "malinis"
-                },
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "clean",
-                  "id": "bersih"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "malungkot",
-                  "id": "sedih",
-                  "tagalog": "malungkot"
-                },
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "sad",
-                  "id": "sedih"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "marumi",
-                  "id": "kotor",
-                  "tagalog": "marumi"
-                },
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "dirty",
-                  "id": "kotor"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "masaya",
-                  "id": "bahagia; ceria",
-                  "tagalog": "masaya"
-                },
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "happy; cheerful",
-                  "id": "bahagia; ceria"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "masipag",
-                  "id": "bekerja keras",
-                  "tagalog": "masipag"
-                },
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "hard working",
-                  "id": "bekerja keras"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "matapat",
-                  "id": "jujur",
-                  "tagalog": "matapat"
-                },
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "honest",
-                  "id": "jujur"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "matiyaga",
-                  "id": "pasien",
-                  "tagalog": "matiyaga"
-                },
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "patient",
-                  "id": "pasien"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "mayaman",
-                  "id": "kaya",
-                  "tagalog": "mayaman"
-                },
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "rich",
-                  "id": "kaya"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "sinungaling",
-                  "id": "pembohong",
-                  "tagalog": "sinungaling"
-                },
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "liar",
-                  "id": "pembohong"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "tamad",
-                  "id": "malas",
-                  "tagalog": "tamad"
-                },
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "lazy",
-                  "id": "malas"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "Existential Particles",
-                  "id": "Partikel Existential"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "may",
-                  "id": "untuk memiliki; ada / are / was",
-                  "tagalog": "may"
-                },
-                {
-                  "sourceLanguage": "en",
-                  "sourceText": "to have; there is/ are/was",
-                  "id": "untuk memiliki; ada / are / was"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "mayroon",
-                  "id": "untuk memiliki; ada / are / was",
-                  "tagalog": "mayroon"
-                },
-                {
-                  "sourceLanguage": "en",
-                  "sourceText": "to have; there is/are/was",
-                  "id": "untuk memiliki; ada / are / was"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "wala",
-                  "id": "tidak memiliki; ada / are / adalah tidak ada",
-                  "tagalog": "wala"
-                },
-                {
-                  "sourceLanguage": "en",
-                  "sourceText": "to not have; there is/are/was no",
-                  "id": "tidak memiliki; ada / are / adalah tidak ada"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "Prefixes",
-                  "id": "Prefiks"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "ika-",
-                  "id": "ternyata nomor kardinal menjadi nomor ordinal",
-                  "tagalog": "ika-"
-                },
-                {
-                  "sourceLanguage": "en",
-                  "sourceText": "turns a cardinal number into an ordinal number",
-                  "id": "ternyata nomor kardinal menjadi nomor ordinal"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "Enclitics",
-                  "id": "Enkliknya"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "daw/raw",
-                  "id": "mereka mengatakan",
-                  "tagalog": "daw/raw"
-                },
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "they say",
-                  "id": "mereka mengatakan"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "din/rin",
-                  "id": "juga; baik",
-                  "tagalog": "din/rin"
-                },
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "also; either",
-                  "id": "juga; baik"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "pa",
-                  "id": "masih",
-                  "tagalog": "pa"
-                },
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "still",
-                  "id": "masih"
-                }
-              ]
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "tao",
+                "id": "orang",
+                "tagalog": "tao"
+              },
+              "meaning": {
+                "sourceLanguage": "mixed",
+                "sourceText": "person",
+                "id": "orang"
+              }
             }
-          ]
+          ],
+          "title": {
+            "sourceLanguage": "mixed",
+            "sourceText": "Nouns",
+            "id": "Kata benda"
+          }
+        },
+        {
+          "type": "vocabulary",
+          "entries": [
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "noon(g)",
+                "id": "penanda waktu lalu",
+                "tagalog": "noon(g)"
+              },
+              "meaning": {
+                "sourceLanguage": "mixed",
+                "sourceText": "past time marker",
+                "id": "penanda waktu lalu"
+              }
+            }
+          ],
+          "title": {
+            "sourceLanguage": "mixed",
+            "sourceText": "Markers",
+            "id": "Penanda"
+          }
+        },
+        {
+          "type": "vocabulary",
+          "entries": [
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "Enero",
+                "id": "Januari",
+                "tagalog": "Enero"
+              },
+              "meaning": {
+                "sourceLanguage": "mixed",
+                "sourceText": "January",
+                "id": "Januari"
+              }
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "Pebrero",
+                "id": "Februari",
+                "tagalog": "Pebrero"
+              },
+              "meaning": {
+                "sourceLanguage": "mixed",
+                "sourceText": "February",
+                "id": "Februari"
+              }
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "Marso",
+                "id": "Maret",
+                "tagalog": "Marso"
+              },
+              "meaning": {
+                "sourceLanguage": "mixed",
+                "sourceText": "March",
+                "id": "Maret"
+              }
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "Abril",
+                "id": "April",
+                "tagalog": "Abril"
+              },
+              "meaning": {
+                "sourceLanguage": "mixed",
+                "sourceText": "April",
+                "id": "April"
+              }
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "Mayo",
+                "id": "Mei",
+                "tagalog": "Mayo"
+              },
+              "meaning": {
+                "sourceLanguage": "mixed",
+                "sourceText": "May",
+                "id": "Mei"
+              }
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "Hunyo",
+                "id": "Juni",
+                "tagalog": "Hunyo"
+              },
+              "meaning": {
+                "sourceLanguage": "mixed",
+                "sourceText": "June",
+                "id": "Juni"
+              }
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "Hulyo",
+                "id": "Juli",
+                "tagalog": "Hulyo"
+              },
+              "meaning": {
+                "sourceLanguage": "mixed",
+                "sourceText": "July",
+                "id": "Juli"
+              }
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "Agosto",
+                "id": "Agustus",
+                "tagalog": "Agosto"
+              },
+              "meaning": {
+                "sourceLanguage": "mixed",
+                "sourceText": "August",
+                "id": "Agustus"
+              }
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "Setyembre",
+                "id": "September",
+                "tagalog": "Setyembre"
+              },
+              "meaning": {
+                "sourceLanguage": "mixed",
+                "sourceText": "September",
+                "id": "September"
+              }
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "Oktubre",
+                "id": "Oktober",
+                "tagalog": "Oktubre"
+              },
+              "meaning": {
+                "sourceLanguage": "mixed",
+                "sourceText": "October",
+                "id": "Oktober"
+              }
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "Nobyembre",
+                "id": "November",
+                "tagalog": "Nobyembre"
+              },
+              "meaning": {
+                "sourceLanguage": "mixed",
+                "sourceText": "November",
+                "id": "November"
+              }
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "Disyembre",
+                "id": "Desember",
+                "tagalog": "Disyembre"
+              },
+              "meaning": {
+                "sourceLanguage": "mixed",
+                "sourceText": "December",
+                "id": "Desember"
+              }
+            }
+          ],
+          "title": {
+            "sourceLanguage": "en",
+            "sourceText": "Names of the Months",
+            "id": "Nama Bulan"
+          }
+        },
+        {
+          "type": "vocabulary",
+          "entries": [
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "mahirap",
+                "id": "miskin",
+                "tagalog": "mahirap"
+              },
+              "meaning": {
+                "sourceLanguage": "mixed",
+                "sourceText": "poor",
+                "id": "miskin"
+              }
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "malinis",
+                "id": "bersih",
+                "tagalog": "malinis"
+              },
+              "meaning": {
+                "sourceLanguage": "mixed",
+                "sourceText": "clean",
+                "id": "bersih"
+              }
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "malungkot",
+                "id": "sedih",
+                "tagalog": "malungkot"
+              },
+              "meaning": {
+                "sourceLanguage": "mixed",
+                "sourceText": "sad",
+                "id": "sedih"
+              }
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "marumi",
+                "id": "kotor",
+                "tagalog": "marumi"
+              },
+              "meaning": {
+                "sourceLanguage": "mixed",
+                "sourceText": "dirty",
+                "id": "kotor"
+              }
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "masaya",
+                "id": "bahagia; ceria",
+                "tagalog": "masaya"
+              },
+              "meaning": {
+                "sourceLanguage": "mixed",
+                "sourceText": "happy; cheerful",
+                "id": "bahagia; ceria"
+              }
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "masipag",
+                "id": "bekerja keras",
+                "tagalog": "masipag"
+              },
+              "meaning": {
+                "sourceLanguage": "mixed",
+                "sourceText": "hard working",
+                "id": "bekerja keras"
+              }
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "matapat",
+                "id": "jujur",
+                "tagalog": "matapat"
+              },
+              "meaning": {
+                "sourceLanguage": "mixed",
+                "sourceText": "honest",
+                "id": "jujur"
+              }
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "matiyaga",
+                "id": "pasien",
+                "tagalog": "matiyaga"
+              },
+              "meaning": {
+                "sourceLanguage": "mixed",
+                "sourceText": "patient",
+                "id": "pasien"
+              }
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "mayaman",
+                "id": "kaya",
+                "tagalog": "mayaman"
+              },
+              "meaning": {
+                "sourceLanguage": "mixed",
+                "sourceText": "rich",
+                "id": "kaya"
+              }
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "sinungaling",
+                "id": "pembohong",
+                "tagalog": "sinungaling"
+              },
+              "meaning": {
+                "sourceLanguage": "mixed",
+                "sourceText": "liar",
+                "id": "pembohong"
+              }
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "tamad",
+                "id": "malas",
+                "tagalog": "tamad"
+              },
+              "meaning": {
+                "sourceLanguage": "mixed",
+                "sourceText": "lazy",
+                "id": "malas"
+              }
+            }
+          ],
+          "title": {
+            "sourceLanguage": "mixed",
+            "sourceText": "Adjectives",
+            "id": "Kata sifat"
+          }
+        },
+        {
+          "type": "vocabulary",
+          "entries": [
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "may",
+                "id": "untuk memiliki; ada / are / was",
+                "tagalog": "may"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "to have; there is/ are/was",
+                "id": "untuk memiliki; ada / are / was"
+              }
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "mayroon",
+                "id": "untuk memiliki; ada / are / was",
+                "tagalog": "mayroon"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "to have; there is/are/was",
+                "id": "untuk memiliki; ada / are / was"
+              }
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "wala",
+                "id": "tidak memiliki; ada / are / adalah tidak ada",
+                "tagalog": "wala"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "to not have; there is/are/was no",
+                "id": "tidak memiliki; ada / are / adalah tidak ada"
+              }
+            }
+          ],
+          "title": {
+            "sourceLanguage": "mixed",
+            "sourceText": "Existential Particles",
+            "id": "Partikel Existential"
+          }
+        },
+        {
+          "type": "vocabulary",
+          "entries": [
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "ika-",
+                "id": "ternyata nomor kardinal menjadi nomor ordinal",
+                "tagalog": "ika-"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "turns a cardinal number into an ordinal number",
+                "id": "ternyata nomor kardinal menjadi nomor ordinal"
+              }
+            }
+          ],
+          "title": {
+            "sourceLanguage": "mixed",
+            "sourceText": "Prefixes",
+            "id": "Prefiks"
+          }
+        },
+        {
+          "type": "vocabulary",
+          "entries": [
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "daw/raw",
+                "id": "mereka mengatakan",
+                "tagalog": "daw/raw"
+              },
+              "meaning": {
+                "sourceLanguage": "mixed",
+                "sourceText": "they say",
+                "id": "mereka mengatakan"
+              }
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "din/rin",
+                "id": "juga; baik",
+                "tagalog": "din/rin"
+              },
+              "meaning": {
+                "sourceLanguage": "mixed",
+                "sourceText": "also; either",
+                "id": "juga; baik"
+              }
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "pa",
+                "id": "masih",
+                "tagalog": "pa"
+              },
+              "meaning": {
+                "sourceLanguage": "mixed",
+                "sourceText": "still",
+                "id": "masih"
+              }
+            }
+          ],
+          "title": {
+            "sourceLanguage": "mixed",
+            "sourceText": "Enclitics",
+            "id": "Enkliknya"
+          }
         },
         {
           "type": "text",
-          "style": "body",
+          "style": "heading",
           "text": {
             "sourceLanguage": "mixed",
             "sourceText": "Idioms and Expressions",
@@ -1266,7 +1063,8 @@
           "text": {
             "sourceLanguage": "en",
             "sourceText": "Ano ang trabaho nila? What do they do for a living?",
-            "id": "Apa yang mereka lakukan untuk hidup?"
+            "id": "Apa yang mereka lakukan untuk hidup?",
+            "tagalog": "Ano ang trabaho nila?"
           }
         },
         {
@@ -1285,7 +1083,8 @@
           "text": {
             "sourceLanguage": "en",
             "sourceText": "Ilan ang kapatid mo? How many siblings do you have?",
-            "id": "Ilan ang kapatid mo?"
+            "id": "Ilan ang kapatid mo?",
+            "tagalog": "Ilan ang kapatid mo?"
           }
         },
         {
@@ -1384,33 +1183,25 @@
           "text": {
             "sourceLanguage": "en",
             "sourceText": "Taga saan ka? Where are you from?",
-            "id": "Dari mana asalmu?"
+            "id": "Dari mana asalmu?",
+            "tagalog": "Taga saan ka?"
           }
         },
         {
           "type": "image",
           "path": "assets/104.jpg"
         }
-      ]
+      ],
+      "id": "lesson-06-02-vocabulary"
     },
     {
-      "id": "lesson-06-reading-text-ang-pamilya-ni-josie-josie-s-family",
-      "type": "DIALOGUE",
+      "type": "LEARNING_MATERIAL",
       "title": {
         "sourceLanguage": "mixed",
         "sourceText": "Reading Text: Ang Pamilya ni Josie Josie’s Family",
         "id": "Teks Bacaan: Ang Pamilya ni Josie 's Family"
       },
       "blocks": [
-        {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "mixed",
-            "sourceText": "Reading Text: Ang Pamilya ni Josie Josie’s Family",
-            "id": "Teks Bacaan: Ang Pamilya ni Josie 's Family"
-          }
-        },
         {
           "type": "text",
           "style": "body",
@@ -1439,19 +1230,21 @@
             "id": "Josie juga punya anjing peliharaan, namanya kecil, dan dia punya tenga yang besar.",
             "tagalog": "Mayroon ding alagang aso sina Josie. Bantay ang pangalan niya. Maliit si Bantay at may malaki siyang tenga. Wala silang pusa."
           }
-        },
+        }
+      ],
+      "id": "lesson-06-03-reading-text-ang-pamilya-ni-josie-josie-s-family"
+    },
+    {
+      "type": "EXERCISES",
+      "title": {
+        "sourceLanguage": "mixed",
+        "sourceText": "Reading Comprehension",
+        "id": "Pemahaman Bacaan"
+      },
+      "blocks": [
         {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "mixed",
-            "sourceText": "Reading Comprehension",
-            "id": "Pemahaman Bacaan"
-          }
-        },
-        {
-          "type": "text",
-          "style": "body",
+          "type": "exercise",
+          "role": "content",
           "text": {
             "sourceLanguage": "en",
             "sourceText": "For each of the following statements about the reading, place a check mark in the appropriate blank, depending on whether the statement is true, Tama, or false, Mali.",
@@ -1459,7 +1252,8 @@
           }
         },
         {
-          "type": "table",
+          "type": "exercise",
+          "role": "worksheet",
           "rows": [
             {
               "cells": [
@@ -1572,38 +1366,20 @@
             }
           ]
         }
-      ]
+      ],
+      "id": "lesson-06-04-reading-comprehension"
     },
     {
-      "id": "lesson-06-activities",
-      "type": "ACTIVITY",
+      "type": "EXERCISES",
       "title": {
         "sourceLanguage": "mixed",
-        "sourceText": "Activities",
-        "id": "Aktivitas"
+        "sourceText": "Activity 1",
+        "id": "Aktivitas 1"
       },
       "blocks": [
         {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "mixed",
-            "sourceText": "Activities",
-            "id": "Aktivitas"
-          }
-        },
-        {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "mixed",
-            "sourceText": "Activity 1",
-            "id": "Aktivitas 1"
-          }
-        },
-        {
-          "type": "text",
-          "style": "body",
+          "type": "exercise",
+          "role": "instruction",
           "text": {
             "sourceLanguage": "en",
             "sourceText": "Interview your classmates to find out whether they have the items listed in the first column of the table below. Model your interview using the sample dialogue, and record your classmates’ responses. At the end of the activity, tally who has and who does not have the items listed in the first column.",
@@ -1611,7 +1387,8 @@
           }
         },
         {
-          "type": "table",
+          "type": "exercise",
+          "role": "worksheet",
           "rows": [
             {
               "cells": [
@@ -1632,7 +1409,8 @@
                 {
                   "sourceLanguage": "en",
                   "sourceText": "Mayroon ka bang aso? Do you have a dog?",
-                  "id": "Mayroon ka bang aso?"
+                  "id": "Mayroon ka bang aso?",
+                  "tagalog": "Mayroon ka bang aso? aso?"
                 }
               ]
             },
@@ -1661,14 +1439,16 @@
                 {
                   "sourceLanguage": "en",
                   "sourceText": "Wala. Wala akong aso. No. I don’t have a dog.",
-                  "id": "Wala, Wala akong aso Tidak, aku tidak punya anjing."
+                  "id": "Wala, Wala akong aso Tidak, aku tidak punya anjing.",
+                  "tagalog": "Wala. Wala akong aso. aso"
                 }
               ]
             }
           ]
         },
         {
-          "type": "table",
+          "type": "exercise",
+          "role": "worksheet",
           "rows": [
             {
               "cells": [
@@ -1741,19 +1521,21 @@
               ]
             }
           ]
-        },
+        }
+      ],
+      "id": "lesson-06-05-activity-1"
+    },
+    {
+      "type": "EXERCISES",
+      "title": {
+        "sourceLanguage": "mixed",
+        "sourceText": "Activity 2",
+        "id": "Aktivitas 2"
+      },
+      "blocks": [
         {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "mixed",
-            "sourceText": "Activity 2",
-            "id": "Aktivitas 2"
-          }
-        },
-        {
-          "type": "text",
-          "style": "body",
+          "type": "exercise",
+          "role": "instruction",
           "text": {
             "sourceLanguage": "en",
             "sourceText": "Work with a partner. Study the table below, and, using the existential particles may and wala, discuss who has or does not have the pets listed in the first column. You may need the enclitics din and rin to indicate whether Edison, they, grandfather or Jose’s child own the same pet. A smiley face indicates possession, and a sad face indicates non-possession. Use the examples to model your sentences. Don’t forget the linkers!",
@@ -1762,6 +1544,7 @@
         },
         {
           "type": "table",
+          "role": "dialogue-context",
           "rows": [
             {
               "cells": [
@@ -1771,69 +1554,73 @@
                   "id": "EXAMPLE:"
                 }
               ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "S1:",
-                  "id": "S1:"
-                },
-                {
-                  "sourceLanguage": "en",
-                  "sourceText": "Walang pagong si Edison. Edison has no turtle.",
-                  "id": "Walang page si Edison. / Edison tak punya kura-kura."
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "S2:",
-                  "id": "S2:"
-                },
-                {
-                  "sourceLanguage": "en",
-                  "sourceText": "Wala rin silang pagong. They also don’t have a turtle.",
-                  "id": "Wala rin silang pagong mereka juga tidak memiliki kura-kura."
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "S1:",
-                  "id": "S1:"
-                },
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "May pagong si Lolo. Grandpa has a turtle.",
-                  "id": "Kakek punya kura-kura, Kakek punya ternak.",
-                  "tagalog": "May pagong si Lolo. Grandpa has a turtle."
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "S2:",
-                  "id": "S2:"
-                },
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "May pagong din ang anak ni Jose. Jose’s child has a turtle too.",
-                  "id": "Putra Joseph juga punya kura-kura.",
-                  "tagalog": "May pagong din ang anak ni Jose. Jose’s child has a turtle too."
-                }
-              ]
             }
           ]
         },
         {
-          "type": "table",
+          "type": "dialogue",
+          "turns": [
+            {
+              "speaker": "S1",
+              "speakerText": {
+                "sourceLanguage": "mixed",
+                "sourceText": "S1:",
+                "id": "S1:"
+              },
+              "text": {
+                "sourceLanguage": "en",
+                "sourceText": "Walang pagong si Edison. Edison has no turtle.",
+                "id": "Walang page si Edison. / Edison tak punya kura-kura.",
+                "tagalog": "Walang pagong si Edison. pagong"
+              }
+            },
+            {
+              "speaker": "S2",
+              "speakerText": {
+                "sourceLanguage": "mixed",
+                "sourceText": "S2:",
+                "id": "S2:"
+              },
+              "text": {
+                "sourceLanguage": "en",
+                "sourceText": "Wala rin silang pagong. They also don’t have a turtle.",
+                "id": "Wala rin silang pagong mereka juga tidak memiliki kura-kura.",
+                "tagalog": "Wala rin silang pagong. pagong"
+              }
+            },
+            {
+              "speaker": "S1",
+              "speakerText": {
+                "sourceLanguage": "mixed",
+                "sourceText": "S1:",
+                "id": "S1:"
+              },
+              "text": {
+                "sourceLanguage": "fil",
+                "sourceText": "May pagong si Lolo. Grandpa has a turtle.",
+                "id": "Kakek punya kura-kura, Kakek punya ternak.",
+                "tagalog": "May pagong si Lolo. Grandpa has a turtle."
+              }
+            },
+            {
+              "speaker": "S2",
+              "speakerText": {
+                "sourceLanguage": "mixed",
+                "sourceText": "S2:",
+                "id": "S2:"
+              },
+              "text": {
+                "sourceLanguage": "fil",
+                "sourceText": "May pagong din ang anak ni Jose. Jose’s child has a turtle too.",
+                "id": "Putra Joseph juga punya kura-kura.",
+                "tagalog": "May pagong din ang anak ni Jose. Jose’s child has a turtle too."
+              }
+            }
+          ]
+        },
+        {
+          "type": "exercise",
+          "role": "worksheet",
           "rows": [
             {
               "cells": [
@@ -1995,19 +1782,21 @@
         {
           "type": "image",
           "path": "assets/sad.jpg"
-        },
+        }
+      ],
+      "id": "lesson-06-06-activity-2"
+    },
+    {
+      "type": "EXERCISES",
+      "title": {
+        "sourceLanguage": "mixed",
+        "sourceText": "Activity 3",
+        "id": "Aktivitas 3"
+      },
+      "blocks": [
         {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "mixed",
-            "sourceText": "Activity 3",
-            "id": "Aktivitas 3"
-          }
-        },
-        {
-          "type": "text",
-          "style": "body",
+          "type": "exercise",
+          "role": "content",
           "text": {
             "sourceLanguage": "en",
             "sourceText": "Find a classmate for each month of the year and record their names and birthdates in the table. Use the example to model your interview.",
@@ -2016,6 +1805,7 @@
         },
         {
           "type": "table",
+          "role": "dialogue-context",
           "rows": [
             {
               "cells": [
@@ -2025,40 +1815,45 @@
                   "id": "EXAMPLE:"
                 }
               ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "S1:",
-                  "id": "S1:"
-                },
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "Kailan ka ipinanganak? When were you born?",
-                  "id": "Kapan kau lahir?",
-                  "tagalog": "Kailan ka ipinanganak? When were you born?"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "S2:",
-                  "id": "S2:"
-                },
-                {
-                  "sourceLanguage": "en",
-                  "sourceText": "Ipinanganak ako noong ikadalawampu ng Enero. I was born on the 20th of January.",
-                  "id": "{\\ 4cH1011FF\\ fnGill Sans Ultra Bold Condensed\\ fs16} Ipinanak ako noong iadalawampu ng Enero."
-                }
-              ]
             }
           ]
         },
         {
-          "type": "table",
+          "type": "dialogue",
+          "turns": [
+            {
+              "speaker": "S1",
+              "speakerText": {
+                "sourceLanguage": "mixed",
+                "sourceText": "S1:",
+                "id": "S1:"
+              },
+              "text": {
+                "sourceLanguage": "fil",
+                "sourceText": "Kailan ka ipinanganak? When were you born?",
+                "id": "Kapan kau lahir?",
+                "tagalog": "Kailan ka ipinanganak? When were you born?"
+              }
+            },
+            {
+              "speaker": "S2",
+              "speakerText": {
+                "sourceLanguage": "mixed",
+                "sourceText": "S2:",
+                "id": "S2:"
+              },
+              "text": {
+                "sourceLanguage": "en",
+                "sourceText": "Ipinanganak ako noong ikadalawampu ng Enero. I was born on the 20th of January.",
+                "id": "{\\ 4cH1011FF\\ fnGill Sans Ultra Bold Condensed\\ fs16} Ipinanak ako noong iadalawampu ng Enero.",
+                "tagalog": "Ipinanganak ako noong ikadalawampu ng Enero."
+              }
+            }
+          ]
+        },
+        {
+          "type": "exercise",
+          "role": "worksheet",
           "rows": [
             {
               "cells": [
@@ -2182,35 +1977,17 @@
             }
           ]
         }
-      ]
+      ],
+      "id": "lesson-06-07-activity-3"
     },
     {
-      "id": "lesson-06-grammar",
-      "type": "GRAMMAR",
+      "type": "LEARNING_MATERIAL",
       "title": {
         "sourceLanguage": "mixed",
-        "sourceText": "Grammar",
-        "id": "Tata Bahasa"
+        "sourceText": "Definition of Terms",
+        "id": "Definisi Istilah"
       },
       "blocks": [
-        {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "mixed",
-            "sourceText": "Grammar",
-            "id": "Tata Bahasa"
-          }
-        },
-        {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "mixed",
-            "sourceText": "Definition of Terms",
-            "id": "Definisi Istilah"
-          }
-        },
         {
           "type": "table",
           "rows": [
@@ -2228,17 +2005,20 @@
                 }
               ]
             }
-          ]
-        },
-        {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "mixed",
-            "sourceText": "Examining Form",
-            "id": "Mengkaji Bentuk"
-          }
-        },
+          ],
+          "role": "reference"
+        }
+      ],
+      "id": "lesson-06-08-definition-of-terms"
+    },
+    {
+      "type": "LEARNING_MATERIAL",
+      "title": {
+        "sourceLanguage": "mixed",
+        "sourceText": "Examining Form",
+        "id": "Menganalisis Bentuk"
+      },
+      "blocks": [
         {
           "type": "text",
           "style": "body",
@@ -2372,18 +2152,21 @@
           "text": {
             "sourceLanguage": "en",
             "sourceText": "c. What is the difference between may and mayroon?",
-            "id": "Apa perbedaan antara mungkin dan mayroon?"
+            "id": "Apa perbedaan antara mungkin dan mayroon?",
+            "tagalog": "may mayroon"
           }
-        },
-        {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "mixed",
-            "sourceText": "I. The Existential Particles May, Mayroon, and Wala",
-            "id": "I. Partikel Existential Mei, Mayroon, dan Wala"
-          }
-        },
+        }
+      ],
+      "id": "lesson-06-09-examining-form"
+    },
+    {
+      "type": "LEARNING_MATERIAL",
+      "title": {
+        "sourceLanguage": "mixed",
+        "sourceText": "I. The Existential Particles May, Mayroon, and Wala",
+        "id": "I. Partikel Existential Mei, Mayroon, dan Wala"
+      },
+      "blocks": [
         {
           "type": "text",
           "style": "body",
@@ -2453,7 +2236,8 @@
                 }
               ]
             }
-          ]
+          ],
+          "role": "reference"
         },
         {
           "type": "text",
@@ -2488,7 +2272,8 @@
           "text": {
             "sourceLanguage": "en",
             "sourceText": "• Wala is the negative form of mayroon and may.",
-            "id": "Wala adalah bentuk negatif dari mayroon dan mungkin."
+            "id": "Wala adalah bentuk negatif dari mayroon dan mungkin.",
+            "tagalog": "Wala mayroon may"
           }
         },
         {
@@ -2499,16 +2284,18 @@
             "sourceText": "We will first study the sentence structures associated with may and then with mayroon and wala.",
             "id": "Pertama-tama kita akan mempelajari struktur kalimat yang berhubungan dengan May dan kemudian dengan mayroon dan wala."
           }
-        },
-        {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "mixed",
-            "sourceText": "Grammar Presentation",
-            "id": "Penyajian Tata Bahasa"
-          }
-        },
+        }
+      ],
+      "id": "lesson-06-10-i-the-existential-particles-may-mayroon-and-wala"
+    },
+    {
+      "type": "LEARNING_MATERIAL",
+      "title": {
+        "sourceLanguage": "mixed",
+        "sourceText": "Grammar Presentation",
+        "id": "Penyajian Tata Bahasa"
+      },
+      "blocks": [
         {
           "type": "text",
           "style": "body",
@@ -2612,36 +2399,53 @@
                 }
               ]
             }
+          ],
+          "role": "reference"
+        }
+      ],
+      "id": "lesson-06-11-grammar-presentation"
+    },
+    {
+      "type": "EXAMPLES",
+      "title": {
+        "sourceLanguage": "mixed",
+        "sourceText": "EXAMPLES:",
+        "id": "Contoh"
+      },
+      "blocks": [
+        {
+          "type": "example",
+          "items": [
+            {
+              "sourceLanguage": "fil",
+              "sourceText": "May bahay-bakasyunan ako sa Baguio. I have a vacation house in Baguio.",
+              "id": "Aku punya rumah jauh dari Baguio, aku punya rumah liburan di Baguio.",
+              "tagalog": "May bahay-bakasyunan ako sa Baguio. I have a vacation house in Baguio."
+            }
           ]
         },
         {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "mixed",
-            "sourceText": "EXAMPLES:",
-            "id": "EXAMPLES:"
-          }
-        },
-        {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "fil",
-            "sourceText": "May bahay-bakasyunan ako sa Baguio. I have a vacation house in Baguio.",
-            "id": "Aku punya rumah jauh dari Baguio, aku punya rumah liburan di Baguio.",
-            "tagalog": "May bahay-bakasyunan ako sa Baguio. I have a vacation house in Baguio."
-          }
-        },
-        {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "en",
-            "sourceText": "May ibon sa balkonahe. There is a bird on the balcony.",
-            "id": "May ibon sa balkonayhe."
-          }
-        },
+          "type": "example",
+          "items": [
+            {
+              "sourceLanguage": "en",
+              "sourceText": "May ibon sa balkonahe. There is a bird on the balcony.",
+              "id": "May ibon sa balkonayhe.",
+              "tagalog": "May ibon sa balkonahe."
+            }
+          ]
+        }
+      ],
+      "id": "lesson-06-12-examples"
+    },
+    {
+      "type": "LEARNING_MATERIAL",
+      "title": {
+        "sourceLanguage": "mixed",
+        "sourceText": "Grammar Presentation",
+        "id": "Penyajian Tata Bahasa"
+      },
+      "blocks": [
         {
           "type": "text",
           "style": "body",
@@ -2706,36 +2510,53 @@
                 }
               ]
             }
+          ],
+          "role": "reference"
+        }
+      ],
+      "id": "lesson-06-13-grammar-presentation-2"
+    },
+    {
+      "type": "EXAMPLES",
+      "title": {
+        "sourceLanguage": "mixed",
+        "sourceText": "EXAMPLES:",
+        "id": "Contoh"
+      },
+      "blocks": [
+        {
+          "type": "example",
+          "items": [
+            {
+              "sourceLanguage": "fil",
+              "sourceText": "May pera ka ba? Do you have money?",
+              "id": "Kau punya uang?",
+              "tagalog": "May pera ka ba? Do you have money?"
+            }
           ]
         },
         {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "mixed",
-            "sourceText": "EXAMPLES:",
-            "id": "EXAMPLES:"
-          }
-        },
-        {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "fil",
-            "sourceText": "May pera ka ba? Do you have money?",
-            "id": "Kau punya uang?",
-            "tagalog": "May pera ka ba? Do you have money?"
-          }
-        },
-        {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "en",
-            "sourceText": "May kotse ka raw. They say you have a car.",
-            "id": "Mereka bilang kau punya mobil."
-          }
-        },
+          "type": "example",
+          "items": [
+            {
+              "sourceLanguage": "en",
+              "sourceText": "May kotse ka raw. They say you have a car.",
+              "id": "Mereka bilang kau punya mobil.",
+              "tagalog": "May kotse ka raw."
+            }
+          ]
+        }
+      ],
+      "id": "lesson-06-14-examples-2"
+    },
+    {
+      "type": "LEARNING_MATERIAL",
+      "title": {
+        "sourceLanguage": "mixed",
+        "sourceText": "Grammar Presentation",
+        "id": "Penyajian Tata Bahasa"
+      },
+      "blocks": [
         {
           "type": "text",
           "style": "body",
@@ -2800,46 +2621,53 @@
                 }
               ]
             }
+          ],
+          "role": "reference"
+        }
+      ],
+      "id": "lesson-06-15-grammar-presentation-3"
+    },
+    {
+      "type": "EXAMPLES",
+      "title": {
+        "sourceLanguage": "mixed",
+        "sourceText": "EXAMPLES:",
+        "id": "Contoh"
+      },
+      "blocks": [
+        {
+          "type": "example",
+          "items": [
+            {
+              "sourceLanguage": "fil",
+              "sourceText": "May alaga din po si Mike. Mike has a pet too, sir/madam.",
+              "id": "Mike memiliki hewan peliharaan juga, kar / Madam, juga memiliki hewan peliharaan.",
+              "tagalog": "May alaga din po si Mike. Mike has a pet too, sir/madam."
+            }
           ]
         },
         {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "mixed",
-            "sourceText": "EXAMPLES:",
-            "id": "EXAMPLES:"
-          }
-        },
-        {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "fil",
-            "sourceText": "May alaga din po si Mike. Mike has a pet too, sir/madam.",
-            "id": "Mike memiliki hewan peliharaan juga, kar / Madam, juga memiliki hewan peliharaan.",
-            "tagalog": "May alaga din po si Mike. Mike has a pet too, sir/madam."
-          }
-        },
-        {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "mixed",
-            "sourceText": "May ibon po sa balkonahe ninyo. There is a bird on your balcony, sir/madam.",
-            "id": "Mungkin ibon po sa balkonayhe ninyo.",
-            "tagalog": "May ibon po sa balkonahe ninyo."
-          }
-        },
-        {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "mixed",
-            "sourceText": "Grammar Notes",
-            "id": "Catatan Tata Bahasa"
-          }
-        },
+          "type": "example",
+          "items": [
+            {
+              "sourceLanguage": "mixed",
+              "sourceText": "May ibon po sa balkonahe ninyo. There is a bird on your balcony, sir/madam.",
+              "id": "Mungkin ibon po sa balkonayhe ninyo.",
+              "tagalog": "May ibon po sa balkonahe ninyo."
+            }
+          ]
+        }
+      ],
+      "id": "lesson-06-16-examples-3"
+    },
+    {
+      "type": "LEARNING_MATERIAL",
+      "title": {
+        "sourceLanguage": "mixed",
+        "sourceText": "Grammar Notes",
+        "id": "Catatan Tata Bahasa"
+      },
+      "blocks": [
         {
           "type": "table",
           "rows": [
@@ -2896,21 +2724,25 @@
                 {
                   "sourceLanguage": "en",
                   "sourceText": "6. The possessor is always an ang phrase.\n\nMay bahay-bakasyunan si Mike. Mike has a vacation house.\n\nMay bahay-bakasyunan ang lalaki. The man has a vacation house.",
-                  "id": "6. \"The Posissor\" selalu sebuah \"ang frase\". Semoga Bahay- bakasyunan si Mike, Mike punya rumah liburan. Semoga Bahay- bakajanu ang lalaki. pria itu memiliki rumah liburan."
+                  "id": "6. \"The Posissor\" selalu sebuah \"ang frase\". Semoga Bahay- bakasyunan si Mike, Mike punya rumah liburan. Semoga Bahay- bakajanu ang lalaki. pria itu memiliki rumah liburan.",
+                  "tagalog": "ang May bahay-bakasyunan si Mike. si Mike. May bahay-bakasyunan ang lalaki. ang lalaki."
                 }
               ]
             }
-          ]
-        },
-        {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "mixed",
-            "sourceText": "Grammar Presentation",
-            "id": "Penyajian Tata Bahasa"
-          }
-        },
+          ],
+          "role": "reference"
+        }
+      ],
+      "id": "lesson-06-17-grammar-notes"
+    },
+    {
+      "type": "LEARNING_MATERIAL",
+      "title": {
+        "sourceLanguage": "mixed",
+        "sourceText": "Grammar Presentation",
+        "id": "Penyajian Tata Bahasa"
+      },
+      "blocks": [
         {
           "type": "text",
           "style": "body",
@@ -3036,44 +2868,64 @@
                 }
               ]
             }
+          ],
+          "role": "reference"
+        }
+      ],
+      "id": "lesson-06-18-grammar-presentation-4"
+    },
+    {
+      "type": "EXAMPLES",
+      "title": {
+        "sourceLanguage": "mixed",
+        "sourceText": "EXAMPLES:",
+        "id": "Contoh"
+      },
+      "blocks": [
+        {
+          "type": "example",
+          "items": [
+            {
+              "sourceLanguage": "en",
+              "sourceText": "Mayroong aso sina Mike at Carlos. Mike and Carlos have a dog.",
+              "id": "Mayroong aso sina Mike di Carlos.",
+              "tagalog": "Mayroong aso sina Mike at Carlos."
+            }
           ]
         },
         {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "mixed",
-            "sourceText": "EXAMPLES:",
-            "id": "EXAMPLES:"
-          }
+          "type": "example",
+          "items": [
+            {
+              "sourceLanguage": "en",
+              "sourceText": "Mayroong pagong sa garahe. There is a turtle in the garage.",
+              "id": "Mayroong pagong sa garahe, ada kura-kura di garasi.",
+              "tagalog": "Mayroong pagong sa garahe."
+            }
+          ]
         },
         {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "en",
-            "sourceText": "Mayroong aso sina Mike at Carlos. Mike and Carlos have a dog.",
-            "id": "Mayroong aso sina Mike di Carlos."
-          }
-        },
-        {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "en",
-            "sourceText": "Mayroong pagong sa garahe. There is a turtle in the garage.",
-            "id": "Mayroong pagong sa garahe, ada kura-kura di garasi."
-          }
-        },
-        {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "en",
-            "sourceText": "Walang alagang aso si Maria. Maria doesn’t have a pet dog.",
-            "id": "Walang algang aso si Maria. / Maria tidak punya anjing peliharaan."
-          }
-        },
+          "type": "example",
+          "items": [
+            {
+              "sourceLanguage": "en",
+              "sourceText": "Walang alagang aso si Maria. Maria doesn’t have a pet dog.",
+              "id": "Walang algang aso si Maria. / Maria tidak punya anjing peliharaan.",
+              "tagalog": "Walang alagang aso si Maria."
+            }
+          ]
+        }
+      ],
+      "id": "lesson-06-19-examples-4"
+    },
+    {
+      "type": "LEARNING_MATERIAL",
+      "title": {
+        "sourceLanguage": "mixed",
+        "sourceText": "Grammar Presentation",
+        "id": "Penyajian Tata Bahasa"
+      },
+      "blocks": [
         {
           "type": "text",
           "style": "body",
@@ -3213,46 +3065,64 @@
                 }
               ]
             }
+          ],
+          "role": "reference"
+        }
+      ],
+      "id": "lesson-06-20-grammar-presentation-5"
+    },
+    {
+      "type": "EXAMPLES",
+      "title": {
+        "sourceLanguage": "mixed",
+        "sourceText": "EXAMPLES:",
+        "id": "Contoh"
+      },
+      "blocks": [
+        {
+          "type": "example",
+          "items": [
+            {
+              "sourceLanguage": "fil",
+              "sourceText": "Mayroon daw loro ang tita mo. They say your aunt has a parrot.",
+              "id": "Tita Anda dikatakan memiliki burung beo, tapi itu bibi Anda memiliki burung beo.",
+              "tagalog": "Mayroon daw loro ang tita mo. They say your aunt has a parrot."
+            }
           ]
         },
         {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "mixed",
-            "sourceText": "EXAMPLES:",
-            "id": "EXAMPLES:"
-          }
+          "type": "example",
+          "items": [
+            {
+              "sourceLanguage": "en",
+              "sourceText": "Wala pong tao sa bahay. There’s no one in the house, sir/madam.",
+              "id": "Wala pong tao sa bahay.",
+              "tagalog": "Wala pong tao sa bahay."
+            }
+          ]
         },
         {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "fil",
-            "sourceText": "Mayroon daw loro ang tita mo. They say your aunt has a parrot.",
-            "id": "Tita Anda dikatakan memiliki burung beo, tapi itu bibi Anda memiliki burung beo.",
-            "tagalog": "Mayroon daw loro ang tita mo. They say your aunt has a parrot."
-          }
-        },
-        {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "en",
-            "sourceText": "Wala pong tao sa bahay. There’s no one in the house, sir/madam.",
-            "id": "Wala pong tao sa bahay."
-          }
-        },
-        {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "fil",
-            "sourceText": "Wala nang pera si Miguel. Miguel doesn’t have money anymore.",
-            "id": "Miguel tak punya uang, Miguel dosncot punya uang lagi.",
-            "tagalog": "Wala nang pera si Miguel. Miguel doesn’t have money anymore."
-          }
-        },
+          "type": "example",
+          "items": [
+            {
+              "sourceLanguage": "fil",
+              "sourceText": "Wala nang pera si Miguel. Miguel doesn’t have money anymore.",
+              "id": "Miguel tak punya uang, Miguel dosncot punya uang lagi.",
+              "tagalog": "Wala nang pera si Miguel. Miguel doesn’t have money anymore."
+            }
+          ]
+        }
+      ],
+      "id": "lesson-06-21-examples-5"
+    },
+    {
+      "type": "LEARNING_MATERIAL",
+      "title": {
+        "sourceLanguage": "mixed",
+        "sourceText": "Grammar Presentation",
+        "id": "Penyajian Tata Bahasa"
+      },
+      "blocks": [
         {
           "type": "text",
           "style": "body",
@@ -3317,7 +3187,8 @@
                 }
               ]
             }
-          ]
+          ],
+          "role": "reference"
         },
         {
           "type": "text",
@@ -3395,55 +3266,64 @@
                 }
               ]
             }
+          ],
+          "role": "reference"
+        }
+      ],
+      "id": "lesson-06-22-grammar-presentation-6"
+    },
+    {
+      "type": "EXAMPLES",
+      "title": {
+        "sourceLanguage": "mixed",
+        "sourceText": "EXAMPLES:",
+        "id": "Contoh"
+      },
+      "blocks": [
+        {
+          "type": "example",
+          "items": [
+            {
+              "sourceLanguage": "fil",
+              "sourceText": "Mayroon po ba kayong bahay-bakasyunan sa Subic? Do you have a vacation house in Subic?",
+              "id": "Apakah Anda memiliki rumah terpisah di Subic?",
+              "tagalog": "Mayroon po ba kayong bahay-bakasyunan sa Subic? Do you have a vacation house in Subic?"
+            }
           ]
         },
         {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "mixed",
-            "sourceText": "EXAMPLES:",
-            "id": "EXAMPLES:"
-          }
+          "type": "example",
+          "items": [
+            {
+              "sourceLanguage": "fil",
+              "sourceText": "Mayroon din bang mga manok sa bahay ni Lola? Are there chickens also in grandmother’s house?",
+              "id": "Apakah ada ayam di rumah nenek juga?",
+              "tagalog": "Mayroon din bang mga manok sa bahay ni Lola? Are there chickens also in grandmother’s house?"
+            }
+          ]
         },
         {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "fil",
-            "sourceText": "Mayroon po ba kayong bahay-bakasyunan sa Subic? Do you have a vacation house in Subic?",
-            "id": "Apakah Anda memiliki rumah terpisah di Subic?",
-            "tagalog": "Mayroon po ba kayong bahay-bakasyunan sa Subic? Do you have a vacation house in Subic?"
-          }
-        },
-        {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "fil",
-            "sourceText": "Mayroon din bang mga manok sa bahay ni Lola? Are there chickens also in grandmother’s house?",
-            "id": "Apakah ada ayam di rumah nenek juga?",
-            "tagalog": "Mayroon din bang mga manok sa bahay ni Lola? Are there chickens also in grandmother’s house?"
-          }
-        },
-        {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "en",
-            "sourceText": "*Walang na akong pera. (incorrect) I don’t have money anymore.",
-            "id": "Aku tidak punya uang lagi."
-          }
-        },
-        {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "mixed",
-            "sourceText": "Grammar Notes",
-            "id": "Catatan Tata Bahasa"
-          }
-        },
+          "type": "example",
+          "items": [
+            {
+              "sourceLanguage": "en",
+              "sourceText": "*Walang na akong pera. (incorrect) I don’t have money anymore.",
+              "id": "Aku tidak punya uang lagi.",
+              "tagalog": "*Walang na akong pera."
+            }
+          ]
+        }
+      ],
+      "id": "lesson-06-23-examples-6"
+    },
+    {
+      "type": "LEARNING_MATERIAL",
+      "title": {
+        "sourceLanguage": "mixed",
+        "sourceText": "Grammar Notes",
+        "id": "Catatan Tata Bahasa"
+      },
+      "blocks": [
         {
           "type": "table",
           "rows": [
@@ -3471,21 +3351,25 @@
                 {
                   "sourceLanguage": "en",
                   "sourceText": "3. If the pronoun or enclitic ends with a consonant, there is no need to use a linker.\n\nMayroon daw pusa si Mike. They say Mike has a cat.\n\nWala raw kotse ang lalaki. They say the man has no car.\n\n*Mayroon raw na pusa si Mike. (incorrect)",
-                  "id": "Jika pronoun atau enclitic berakhir dengan consonant, tidak perlu menggunakan penghubung. Mayroon daw pusa si Mike, mereka bilang Mike punya kucing. Wala kotse mentah ang lalaki. mereka mengatakan pria itu tidak memiliki mobil. * Mayroon raw na pusa si Mike. (tidak benar)"
+                  "id": "Jika pronoun atau enclitic berakhir dengan consonant, tidak perlu menggunakan penghubung. Mayroon daw pusa si Mike, mereka bilang Mike punya kucing. Wala kotse mentah ang lalaki. mereka mengatakan pria itu tidak memiliki mobil. * Mayroon raw na pusa si Mike. (tidak benar)",
+                  "tagalog": "Mayroon daw pusa si Mike. Wala raw kotse ang lalaki. Mayroon raw na pusa si Mike."
                 }
               ]
             }
-          ]
-        },
-        {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "mixed",
-            "sourceText": "II. The Prefix Ika-",
-            "id": "The Prefix Ik-"
-          }
-        },
+          ],
+          "role": "reference"
+        }
+      ],
+      "id": "lesson-06-24-grammar-notes-2"
+    },
+    {
+      "type": "LEARNING_MATERIAL",
+      "title": {
+        "sourceLanguage": "mixed",
+        "sourceText": "II. The Prefix Ika-",
+        "id": "The Prefix Ik-"
+      },
+      "blocks": [
         {
           "type": "text",
           "style": "body",
@@ -3932,7 +3816,8 @@
                 }
               ]
             }
-          ]
+          ],
+          "role": "reference"
         },
         {
           "type": "text",
@@ -3987,35 +3872,53 @@
                 }
               ]
             }
+          ],
+          "role": "reference"
+        }
+      ],
+      "id": "lesson-06-25-ii-the-prefix-ika"
+    },
+    {
+      "type": "EXAMPLES",
+      "title": {
+        "sourceLanguage": "mixed",
+        "sourceText": "EXAMPLES:",
+        "id": "Contoh"
+      },
+      "blocks": [
+        {
+          "type": "example",
+          "items": [
+            {
+              "sourceLanguage": "en",
+              "sourceText": "Ikapito ng Enero the seventh of January",
+              "id": "Ikapito ng Enero 7 Januari",
+              "tagalog": "Ikapito ng Enero"
+            }
           ]
         },
         {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "mixed",
-            "sourceText": "EXAMPLES:",
-            "id": "EXAMPLES:"
-          }
-        },
-        {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "en",
-            "sourceText": "Ikapito ng Enero the seventh of January",
-            "id": "Ikapito ng Enero 7 Januari"
-          }
-        },
-        {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "en",
-            "sourceText": "Ikadalawampu’t walo ng Abril the twenty-eighth of April",
-            "id": "Ikadalawampu 't walo ng Abril - Delapan April"
-          }
-        },
+          "type": "example",
+          "items": [
+            {
+              "sourceLanguage": "en",
+              "sourceText": "Ikadalawampu’t walo ng Abril the twenty-eighth of April",
+              "id": "Ikadalawampu 't walo ng Abril - Delapan April",
+              "tagalog": "Ikadalawampu’t walo ng Abril"
+            }
+          ]
+        }
+      ],
+      "id": "lesson-06-26-examples-7"
+    },
+    {
+      "type": "LEARNING_MATERIAL",
+      "title": {
+        "sourceLanguage": "mixed",
+        "sourceText": "II. The Prefix Ika-",
+        "id": "The Prefix Ik-"
+      },
+      "blocks": [
         {
           "type": "text",
           "style": "body",
@@ -4069,45 +3972,53 @@
                 }
               ]
             }
+          ],
+          "role": "reference"
+        }
+      ],
+      "id": "lesson-06-27-ii-the-prefix-ika-2"
+    },
+    {
+      "type": "EXAMPLES",
+      "title": {
+        "sourceLanguage": "mixed",
+        "sourceText": "EXAMPLES:",
+        "id": "Contoh"
+      },
+      "blocks": [
+        {
+          "type": "example",
+          "items": [
+            {
+              "sourceLanguage": "fil",
+              "sourceText": "Kailan ka ipinanganak? When were you born?",
+              "id": "Kapan kau lahir?",
+              "tagalog": "Kailan ka ipinanganak? When were you born?"
+            }
           ]
         },
         {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "mixed",
-            "sourceText": "EXAMPLES:",
-            "id": "EXAMPLES:"
-          }
-        },
-        {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "fil",
-            "sourceText": "Kailan ka ipinanganak? When were you born?",
-            "id": "Kapan kau lahir?",
-            "tagalog": "Kailan ka ipinanganak? When were you born?"
-          }
-        },
-        {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "en",
-            "sourceText": "Ipinanganak ako noong ikadalawampu’t apat ng Abril. I was born on the twenty-fourth of April.",
-            "id": "Ipinangak ako noong iadalawampu 't apat ng Abril."
-          }
-        },
-        {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "mixed",
-            "sourceText": "Grammar Notes",
-            "id": "Catatan Tata Bahasa"
-          }
-        },
+          "type": "example",
+          "items": [
+            {
+              "sourceLanguage": "en",
+              "sourceText": "Ipinanganak ako noong ikadalawampu’t apat ng Abril. I was born on the twenty-fourth of April.",
+              "id": "Ipinangak ako noong iadalawampu 't apat ng Abril.",
+              "tagalog": "Ipinanganak ako noong ikadalawampu’t apat ng Abril."
+            }
+          ]
+        }
+      ],
+      "id": "lesson-06-28-examples-8"
+    },
+    {
+      "type": "LEARNING_MATERIAL",
+      "title": {
+        "sourceLanguage": "mixed",
+        "sourceText": "Grammar Notes",
+        "id": "Catatan Tata Bahasa"
+      },
+      "blocks": [
         {
           "type": "table",
           "rows": [
@@ -4120,13 +4031,14 @@
                 }
               ]
             }
-          ]
+          ],
+          "role": "reference"
         }
-      ]
+      ],
+      "id": "lesson-06-29-grammar-notes-3"
     },
     {
-      "id": "lesson-06-practice",
-      "type": "PRACTICE",
+      "type": "EXERCISES",
       "title": {
         "sourceLanguage": "mixed",
         "sourceText": "Practice",
@@ -4134,17 +4046,8 @@
       },
       "blocks": [
         {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "mixed",
-            "sourceText": "Practice",
-            "id": "Latihan"
-          }
-        },
-        {
-          "type": "text",
-          "style": "body",
+          "type": "exercise",
+          "role": "content",
           "text": {
             "sourceLanguage": "mixed",
             "sourceText": "I. Speaking",
@@ -4152,8 +4055,8 @@
           }
         },
         {
-          "type": "text",
-          "style": "body",
+          "type": "exercise",
+          "role": "instruction",
           "text": {
             "sourceLanguage": "en",
             "sourceText": "Translate the following questions into Tagalog using the spaces provided below. Afterwards, interview a classmate using these questions. Record the classmate’s answers in the space provided.",
@@ -4161,7 +4064,8 @@
           }
         },
         {
-          "type": "table",
+          "type": "exercise",
+          "role": "worksheet",
           "rows": [
             {
               "cells": [
@@ -4201,8 +4105,8 @@
           ]
         },
         {
-          "type": "text",
-          "style": "body",
+          "type": "exercise",
+          "role": "question",
           "text": {
             "sourceLanguage": "en",
             "sourceText": "1. What is your name? ________________________________",
@@ -4210,8 +4114,8 @@
           }
         },
         {
-          "type": "text",
-          "style": "body",
+          "type": "exercise",
+          "role": "content",
           "text": {
             "sourceLanguage": "mixed",
             "sourceText": "A: ________________________________",
@@ -4219,8 +4123,8 @@
           }
         },
         {
-          "type": "text",
-          "style": "body",
+          "type": "exercise",
+          "role": "question",
           "text": {
             "sourceLanguage": "en",
             "sourceText": "2. Where are you from? ________________________________",
@@ -4228,8 +4132,8 @@
           }
         },
         {
-          "type": "text",
-          "style": "body",
+          "type": "exercise",
+          "role": "content",
           "text": {
             "sourceLanguage": "mixed",
             "sourceText": "A: ________________________________",
@@ -4237,8 +4141,8 @@
           }
         },
         {
-          "type": "text",
-          "style": "body",
+          "type": "exercise",
+          "role": "question",
           "text": {
             "sourceLanguage": "en",
             "sourceText": "3. Where do you live? ________________________________",
@@ -4246,8 +4150,8 @@
           }
         },
         {
-          "type": "text",
-          "style": "body",
+          "type": "exercise",
+          "role": "content",
           "text": {
             "sourceLanguage": "mixed",
             "sourceText": "A: ________________________________",
@@ -4255,8 +4159,8 @@
           }
         },
         {
-          "type": "text",
-          "style": "body",
+          "type": "exercise",
+          "role": "question",
           "text": {
             "sourceLanguage": "en",
             "sourceText": "4. How old are you? ________________________________",
@@ -4264,8 +4168,8 @@
           }
         },
         {
-          "type": "text",
-          "style": "body",
+          "type": "exercise",
+          "role": "content",
           "text": {
             "sourceLanguage": "mixed",
             "sourceText": "A: ________________________________",
@@ -4273,8 +4177,8 @@
           }
         },
         {
-          "type": "text",
-          "style": "body",
+          "type": "exercise",
+          "role": "question",
           "text": {
             "sourceLanguage": "en",
             "sourceText": "5. Where do you go to school? ________________________________",
@@ -4282,8 +4186,8 @@
           }
         },
         {
-          "type": "text",
-          "style": "body",
+          "type": "exercise",
+          "role": "content",
           "text": {
             "sourceLanguage": "mixed",
             "sourceText": "A: ________________________________",
@@ -4291,8 +4195,8 @@
           }
         },
         {
-          "type": "text",
-          "style": "body",
+          "type": "exercise",
+          "role": "question",
           "text": {
             "sourceLanguage": "en",
             "sourceText": "6. Do you have a job? ________________________________",
@@ -4300,8 +4204,8 @@
           }
         },
         {
-          "type": "text",
-          "style": "body",
+          "type": "exercise",
+          "role": "content",
           "text": {
             "sourceLanguage": "mixed",
             "sourceText": "A: ________________________________",
@@ -4309,8 +4213,8 @@
           }
         },
         {
-          "type": "text",
-          "style": "body",
+          "type": "exercise",
+          "role": "question",
           "text": {
             "sourceLanguage": "en",
             "sourceText": "(If yes) Where do you work?________________________________",
@@ -4318,8 +4222,8 @@
           }
         },
         {
-          "type": "text",
-          "style": "body",
+          "type": "exercise",
+          "role": "question",
           "text": {
             "sourceLanguage": "en",
             "sourceText": "7. What are your parents’ names? ________________________________",
@@ -4327,8 +4231,8 @@
           }
         },
         {
-          "type": "text",
-          "style": "body",
+          "type": "exercise",
+          "role": "content",
           "text": {
             "sourceLanguage": "mixed",
             "sourceText": "A: ________________________________",
@@ -4336,8 +4240,8 @@
           }
         },
         {
-          "type": "text",
-          "style": "body",
+          "type": "exercise",
+          "role": "question",
           "text": {
             "sourceLanguage": "en",
             "sourceText": "8. What do they do for a living? ________________________________",
@@ -4345,8 +4249,8 @@
           }
         },
         {
-          "type": "text",
-          "style": "body",
+          "type": "exercise",
+          "role": "content",
           "text": {
             "sourceLanguage": "mixed",
             "sourceText": "A: ________________________________",
@@ -4354,8 +4258,8 @@
           }
         },
         {
-          "type": "text",
-          "style": "body",
+          "type": "exercise",
+          "role": "question",
           "text": {
             "sourceLanguage": "en",
             "sourceText": "9. Describe them. ________________________________",
@@ -4363,8 +4267,8 @@
           }
         },
         {
-          "type": "text",
-          "style": "body",
+          "type": "exercise",
+          "role": "content",
           "text": {
             "sourceLanguage": "mixed",
             "sourceText": "A: ________________________________",
@@ -4372,8 +4276,8 @@
           }
         },
         {
-          "type": "text",
-          "style": "body",
+          "type": "exercise",
+          "role": "question",
           "text": {
             "sourceLanguage": "en",
             "sourceText": "10. Do you have siblings? ________________________________",
@@ -4381,8 +4285,8 @@
           }
         },
         {
-          "type": "text",
-          "style": "body",
+          "type": "exercise",
+          "role": "content",
           "text": {
             "sourceLanguage": "mixed",
             "sourceText": "A: ________________________________",
@@ -4390,8 +4294,8 @@
           }
         },
         {
-          "type": "text",
-          "style": "body",
+          "type": "exercise",
+          "role": "question",
           "text": {
             "sourceLanguage": "en",
             "sourceText": "11. How many siblings do you have? ________________________________",
@@ -4399,8 +4303,8 @@
           }
         },
         {
-          "type": "text",
-          "style": "body",
+          "type": "exercise",
+          "role": "content",
           "text": {
             "sourceLanguage": "mixed",
             "sourceText": "A: ________________________________",
@@ -4408,8 +4312,8 @@
           }
         },
         {
-          "type": "text",
-          "style": "body",
+          "type": "exercise",
+          "role": "question",
           "text": {
             "sourceLanguage": "en",
             "sourceText": "12. What are their names? ________________________________",
@@ -4417,8 +4321,8 @@
           }
         },
         {
-          "type": "text",
-          "style": "body",
+          "type": "exercise",
+          "role": "content",
           "text": {
             "sourceLanguage": "mixed",
             "sourceText": "A: ________________________________",
@@ -4426,8 +4330,8 @@
           }
         },
         {
-          "type": "text",
-          "style": "body",
+          "type": "exercise",
+          "role": "question",
           "text": {
             "sourceLanguage": "en",
             "sourceText": "13. Describe them. ________________________________",
@@ -4435,8 +4339,8 @@
           }
         },
         {
-          "type": "text",
-          "style": "body",
+          "type": "exercise",
+          "role": "content",
           "text": {
             "sourceLanguage": "mixed",
             "sourceText": "A: ________________________________",
@@ -4444,8 +4348,8 @@
           }
         },
         {
-          "type": "text",
-          "style": "body",
+          "type": "exercise",
+          "role": "question",
           "text": {
             "sourceLanguage": "en",
             "sourceText": "14. Do you have a best friend? ________________________________",
@@ -4453,8 +4357,8 @@
           }
         },
         {
-          "type": "text",
-          "style": "body",
+          "type": "exercise",
+          "role": "content",
           "text": {
             "sourceLanguage": "mixed",
             "sourceText": "A: ________________________________",
@@ -4462,8 +4366,8 @@
           }
         },
         {
-          "type": "text",
-          "style": "body",
+          "type": "exercise",
+          "role": "question",
           "text": {
             "sourceLanguage": "en",
             "sourceText": "15. Who is your best friend? ________________________________",
@@ -4471,8 +4375,8 @@
           }
         },
         {
-          "type": "text",
-          "style": "body",
+          "type": "exercise",
+          "role": "content",
           "text": {
             "sourceLanguage": "mixed",
             "sourceText": "A: ________________________________",
@@ -4480,8 +4384,8 @@
           }
         },
         {
-          "type": "text",
-          "style": "body",
+          "type": "exercise",
+          "role": "question",
           "text": {
             "sourceLanguage": "en",
             "sourceText": "16. Describe him/her. ________________________________",
@@ -4489,8 +4393,8 @@
           }
         },
         {
-          "type": "text",
-          "style": "body",
+          "type": "exercise",
+          "role": "content",
           "text": {
             "sourceLanguage": "mixed",
             "sourceText": "A: ________________________________",
@@ -4498,8 +4402,8 @@
           }
         },
         {
-          "type": "text",
-          "style": "body",
+          "type": "exercise",
+          "role": "question",
           "text": {
             "sourceLanguage": "en",
             "sourceText": "17. Do you have pets? ________________________________",
@@ -4507,8 +4411,8 @@
           }
         },
         {
-          "type": "text",
-          "style": "body",
+          "type": "exercise",
+          "role": "content",
           "text": {
             "sourceLanguage": "mixed",
             "sourceText": "A: ________________________________",
@@ -4516,8 +4420,8 @@
           }
         },
         {
-          "type": "text",
-          "style": "body",
+          "type": "exercise",
+          "role": "question",
           "text": {
             "sourceLanguage": "en",
             "sourceText": "18. What are their names? ________________________________",
@@ -4525,8 +4429,8 @@
           }
         },
         {
-          "type": "text",
-          "style": "body",
+          "type": "exercise",
+          "role": "content",
           "text": {
             "sourceLanguage": "mixed",
             "sourceText": "A: ________________________________",
@@ -4534,8 +4438,8 @@
           }
         },
         {
-          "type": "text",
-          "style": "body",
+          "type": "exercise",
+          "role": "question",
           "text": {
             "sourceLanguage": "en",
             "sourceText": "19. Describe them. ________________________________",
@@ -4543,8 +4447,8 @@
           }
         },
         {
-          "type": "text",
-          "style": "body",
+          "type": "exercise",
+          "role": "content",
           "text": {
             "sourceLanguage": "mixed",
             "sourceText": "A: ________________________________",
@@ -4552,8 +4456,8 @@
           }
         },
         {
-          "type": "text",
-          "style": "body",
+          "type": "exercise",
+          "role": "question",
           "text": {
             "sourceLanguage": "en",
             "sourceText": "20. What are your likes and dislikes? ________________________________",
@@ -4561,8 +4465,8 @@
           }
         },
         {
-          "type": "text",
-          "style": "body",
+          "type": "exercise",
+          "role": "content",
           "text": {
             "sourceLanguage": "mixed",
             "sourceText": "A: ________________________________",
@@ -4570,8 +4474,8 @@
           }
         },
         {
-          "type": "text",
-          "style": "body",
+          "type": "exercise",
+          "role": "content",
           "text": {
             "sourceLanguage": "mixed",
             "sourceText": "II. Reading",
@@ -4579,8 +4483,8 @@
           }
         },
         {
-          "type": "text",
-          "style": "body",
+          "type": "exercise",
+          "role": "instruction",
           "text": {
             "sourceLanguage": "en",
             "sourceText": "Read the dialogue between Cherry, Aling Maria, and Marc and then answer the Reading Comprehension questions in Tagalog.",
@@ -4592,158 +4496,154 @@
           "path": "assets/114.jpg"
         },
         {
+          "type": "dialogue",
+          "turns": [
+            {
+              "speaker": "Cherry",
+              "speakerText": {
+                "sourceLanguage": "mixed",
+                "sourceText": "Cherry:",
+                "id": "Cherry:"
+              },
+              "text": {
+                "sourceLanguage": "fil",
+                "sourceText": "Nanay, ito po ang kaibigan ko, si Marc. Marc, ito ang nanay ko.",
+                "id": "Ibu, ini adalah teman saya Marc.",
+                "tagalog": "Nanay, ito po ang kaibigan ko, si Marc. Marc, ito ang nanay ko."
+              }
+            },
+            {
+              "speaker": "Marc",
+              "speakerText": {
+                "sourceLanguage": "mixed",
+                "sourceText": "Marc:",
+                "id": "Marc:"
+              },
+              "text": {
+                "sourceLanguage": "fil",
+                "sourceText": "Kumusta po kayo, Tita?",
+                "id": "Bagaimana denganmu, Titita?",
+                "tagalog": "Kumusta po kayo, Tita?"
+              }
+            },
+            {
+              "speaker": "Aling Maria",
+              "speakerText": {
+                "sourceLanguage": "mixed",
+                "sourceText": "Aling Maria:",
+                "id": "Aling Maria:"
+              },
+              "text": {
+                "sourceLanguage": "fil",
+                "sourceText": "Mabuti naman. Taga saan ang pamilya mo, Marc?",
+                "id": "Untungnya, di mana keluargamu, Marc?",
+                "tagalog": "Mabuti naman. Taga saan ang pamilya mo, Marc?"
+              }
+            },
+            {
+              "speaker": "Marc",
+              "speakerText": {
+                "sourceLanguage": "mixed",
+                "sourceText": "Marc:",
+                "id": "Marc:"
+              },
+              "text": {
+                "sourceLanguage": "fil",
+                "sourceText": "Taga-Bicol po.",
+                "id": "Guicol.",
+                "tagalog": "Taga-Bicol po."
+              }
+            },
+            {
+              "speaker": "Aling Maria",
+              "speakerText": {
+                "sourceLanguage": "mixed",
+                "sourceText": "Aling Maria:",
+                "id": "Aling Maria:"
+              },
+              "text": {
+                "sourceLanguage": "fil",
+                "sourceText": "May kamag-anak ka ba dito sa Maynila?",
+                "id": "Apakah Anda memiliki kerabat di sini di Manila?",
+                "tagalog": "May kamag-anak ka ba dito sa Maynila?"
+              }
+            },
+            {
+              "speaker": "Marc",
+              "speakerText": {
+                "sourceLanguage": "mixed",
+                "sourceText": "Marc:",
+                "id": "Marc:"
+              },
+              "text": {
+                "sourceLanguage": "fil",
+                "sourceText": "Opo. Nandito po ang pamilya ko.",
+                "id": "Ya, keluargaku ada di sini.",
+                "tagalog": "Opo. Nandito po ang pamilya ko."
+              }
+            },
+            {
+              "speaker": "Aling Maria",
+              "speakerText": {
+                "sourceLanguage": "mixed",
+                "sourceText": "Aling Maria:",
+                "id": "Aling Maria:"
+              },
+              "text": {
+                "sourceLanguage": "fil",
+                "sourceText": "May mga kapatid ka ba?",
+                "id": "Kau punya saudara?",
+                "tagalog": "May mga kapatid ka ba?"
+              }
+            },
+            {
+              "speaker": "Marc",
+              "speakerText": {
+                "sourceLanguage": "mixed",
+                "sourceText": "Marc:",
+                "id": "Marc:"
+              },
+              "text": {
+                "sourceLanguage": "fil",
+                "sourceText": "Opo. Pero nasa Bicol po siya.",
+                "id": "Ya, tapi dia di Bicol.",
+                "tagalog": "Opo. Pero nasa Bicol po siya."
+              }
+            },
+            {
+              "speaker": "Aling Maria",
+              "speakerText": {
+                "sourceLanguage": "mixed",
+                "sourceText": "Aling Maria:",
+                "id": "Aling Maria:"
+              },
+              "text": {
+                "sourceLanguage": "fil",
+                "sourceText": "Mayroon din ba kayong bahay sa Bicol?",
+                "id": "Apakah Anda juga memiliki rumah di Bicol?",
+                "tagalog": "Mayroon din ba kayong bahay sa Bicol?"
+              }
+            },
+            {
+              "speaker": "Marc",
+              "speakerText": {
+                "sourceLanguage": "mixed",
+                "sourceText": "Marc:",
+                "id": "Marc:"
+              },
+              "text": {
+                "sourceLanguage": "fil",
+                "sourceText": "Wala po kaming bahay sa Bicol. Nakatira po ang kapatid ko sa bahay ng lola ko.",
+                "id": "Kami tidak memiliki rumah di Bicol, dan adikku tinggal di rumah nenekku.",
+                "tagalog": "Wala po kaming bahay sa Bicol. Nakatira po ang kapatid ko sa bahay ng lola ko."
+              }
+            }
+          ]
+        },
+        {
           "type": "table",
+          "role": "dialogue-context",
           "rows": [
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "Cherry:",
-                  "id": "Cherry:"
-                },
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "Nanay, ito po ang kaibigan ko, si Marc. Marc, ito ang nanay ko.",
-                  "id": "Ibu, ini adalah teman saya Marc.",
-                  "tagalog": "Nanay, ito po ang kaibigan ko, si Marc. Marc, ito ang nanay ko."
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "Marc:",
-                  "id": "Marc:"
-                },
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "Kumusta po kayo, Tita?",
-                  "id": "Bagaimana denganmu, Titita?",
-                  "tagalog": "Kumusta po kayo, Tita?"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "Aling Maria:",
-                  "id": "Aling Maria:"
-                },
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "Mabuti naman. Taga saan ang pamilya mo, Marc?",
-                  "id": "Untungnya, di mana keluargamu, Marc?",
-                  "tagalog": "Mabuti naman. Taga saan ang pamilya mo, Marc?"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "Marc:",
-                  "id": "Marc:"
-                },
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "Taga-Bicol po.",
-                  "id": "Guicol.",
-                  "tagalog": "Taga-Bicol po."
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "Aling Maria:",
-                  "id": "Aling Maria:"
-                },
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "May kamag-anak ka ba dito sa Maynila?",
-                  "id": "Apakah Anda memiliki kerabat di sini di Manila?",
-                  "tagalog": "May kamag-anak ka ba dito sa Maynila?"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "Marc:",
-                  "id": "Marc:"
-                },
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "Opo. Nandito po ang pamilya ko.",
-                  "id": "Ya, keluargaku ada di sini.",
-                  "tagalog": "Opo. Nandito po ang pamilya ko."
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "Aling Maria:",
-                  "id": "Aling Maria:"
-                },
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "May mga kapatid ka ba?",
-                  "id": "Kau punya saudara?",
-                  "tagalog": "May mga kapatid ka ba?"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "Marc:",
-                  "id": "Marc:"
-                },
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "Opo. Pero nasa Bicol po siya.",
-                  "id": "Ya, tapi dia di Bicol.",
-                  "tagalog": "Opo. Pero nasa Bicol po siya."
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "Aling Maria:",
-                  "id": "Aling Maria:"
-                },
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "Mayroon din ba kayong bahay sa Bicol?",
-                  "id": "Apakah Anda juga memiliki rumah di Bicol?",
-                  "tagalog": "Mayroon din ba kayong bahay sa Bicol?"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "Marc:",
-                  "id": "Marc:"
-                },
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "Wala po kaming bahay sa Bicol. Nakatira po ang kapatid ko sa bahay ng lola ko.",
-                  "id": "Kami tidak memiliki rumah di Bicol, dan adikku tinggal di rumah nenekku.",
-                  "tagalog": "Wala po kaming bahay sa Bicol. Nakatira po ang kapatid ko sa bahay ng lola ko."
-                }
-              ]
-            },
             {
               "cells": [
                 {
@@ -4758,35 +4658,42 @@
                   "tagalog": "Talaga? O sige. Maiwan ko na muna kayo. Magpupunta na ako sa trabaho."
                 }
               ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "Marc:",
-                  "id": "Marc:"
-                },
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "O sige po tita.",
-                  "id": "O go pota.",
-                  "tagalog": "O sige po tita."
-                }
-              ]
             }
           ]
         },
         {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "mixed",
-            "sourceText": "Reading Comprehension",
-            "id": "Pemahaman Bacaan"
-          }
-        },
+          "type": "dialogue",
+          "turns": [
+            {
+              "speaker": "Marc",
+              "speakerText": {
+                "sourceLanguage": "mixed",
+                "sourceText": "Marc:",
+                "id": "Marc:"
+              },
+              "text": {
+                "sourceLanguage": "fil",
+                "sourceText": "O sige po tita.",
+                "id": "O go pota.",
+                "tagalog": "O sige po tita."
+              }
+            }
+          ]
+        }
+      ],
+      "id": "lesson-06-30-practice"
+    },
+    {
+      "type": "EXERCISES",
+      "title": {
+        "sourceLanguage": "mixed",
+        "sourceText": "Reading Comprehension",
+        "id": "Pemahaman Bacaan"
+      },
+      "blocks": [
         {
-          "type": "table",
+          "type": "exercise",
+          "role": "worksheet",
           "rows": [
             {
               "cells": [
@@ -4911,8 +4818,8 @@
           ]
         },
         {
-          "type": "text",
-          "style": "body",
+          "type": "exercise",
+          "role": "content",
           "text": {
             "sourceLanguage": "mixed",
             "sourceText": "III. Writing",
@@ -4920,8 +4827,8 @@
           }
         },
         {
-          "type": "text",
-          "style": "body",
+          "type": "exercise",
+          "role": "instruction",
           "text": {
             "sourceLanguage": "en",
             "sourceText": "Using the existential particles may, mayroon, and wala, write five to ten complete sentences based on the information in the chart on a separate piece of paper.",
@@ -4937,7 +4844,8 @@
           "path": "assets/115.jpg"
         },
         {
-          "type": "table",
+          "type": "exercise",
+          "role": "worksheet",
           "rows": [
             {
               "cells": [
@@ -5068,8 +4976,8 @@
           ]
         },
         {
-          "type": "text",
-          "style": "body",
+          "type": "exercise",
+          "role": "content",
           "text": {
             "sourceLanguage": "en",
             "sourceText": "To Download the audio files, please click here.",
@@ -5079,19 +4987,21 @@
         {
           "type": "image",
           "path": "assets/cd.jpg"
-        },
+        }
+      ],
+      "id": "lesson-06-31-reading-comprehension-2"
+    },
+    {
+      "type": "EXERCISES",
+      "title": {
+        "sourceLanguage": "mixed",
+        "sourceText": "IV. Listening Practice",
+        "id": "IV. Latihan Menyimak"
+      },
+      "blocks": [
         {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "mixed",
-            "sourceText": "IV. Listening Practice",
-            "id": "IV. Latihan Menyimak"
-          }
-        },
-        {
-          "type": "text",
-          "style": "body",
+          "type": "exercise",
+          "role": "instruction",
           "text": {
             "sourceLanguage": "en",
             "sourceText": "Using the Bonus Material of the book, listen to audio file (06–2) and write the correct information in the spaces provided below.",
@@ -5099,7 +5009,8 @@
           }
         },
         {
-          "type": "table",
+          "type": "exercise",
+          "role": "worksheet",
           "rows": [
             {
               "cells": [
@@ -5167,7 +5078,33 @@
             }
           ]
         }
-      ]
+      ],
+      "id": "lesson-06-32-iv-listening-practice"
     }
-  ]
+  ],
+  "structureVersion": 2,
+  "contentAudit": {
+    "sourceTextItemsBefore": 626,
+    "sourceTextItemsAfter": 623,
+    "uniqueSourceItemsPreserved": 481,
+    "duplicateHeadingsRemoved": 4,
+    "blankFragmentsRemoved": 0,
+    "sectionTypes": {
+      "EXAMPLES": 8,
+      "EXERCISES": 7,
+      "INTRODUCTION": 1,
+      "LEARNING_MATERIAL": 15,
+      "VOCABULARY": 1
+    },
+    "blockTypes": {
+      "dialogue": 4,
+      "example": 19,
+      "exercise": 62,
+      "image": 26,
+      "list": 2,
+      "table": 19,
+      "text": 56,
+      "vocabulary": 7
+    }
+  }
 }

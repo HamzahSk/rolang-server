@@ -15,6 +15,12 @@ does not publish Stories yet. Every JSON document and JPEG reference is checked
 by `tools/validate_content.py`; indexes contain SHA-256 hashes used by Android
 before cached content is replaced.
 
+Each lesson uses semantic sections (`INTRODUCTION`, `LEARNING_MATERIAL`,
+`VOCABULARY`, `EXAMPLES`, `DIALOGUE`, `EXERCISES`, and `SUMMARY`) and dedicated
+blocks for vocabulary entries, dialogue turns, examples, and exercises. The
+original normalized source text remains attached to every localized item for
+auditing.
+
 ## Validate
 
 ```sh
@@ -32,6 +38,7 @@ python3 tools/import_epub.py \
   "/path/to/Elementary Tagalog  1.epub" \
   --english-indonesian /path/to/translate-en_id-1_9 \
   --tagalog-english /path/to/translate-tl_en-1_9
+python3 tools/restructure_lessons.py "/path/to/Elementary Tagalog  1.epub"
 python3 tools/validate_content.py .
 ```
 

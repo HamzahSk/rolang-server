@@ -64,6 +64,17 @@ def lesson_text(value: Any, location: str) -> None:
         fail(f"Filipino source must retain TTS text: {location}")
 
 
+def lesson_rows(value: Any, location: str) -> None:
+    if not isinstance(value, list) or not value:
+        fail(f"Empty rows: {location}")
+    for row_index, row in enumerate(value):
+        cells = row.get("cells") if isinstance(row, dict) else None
+        if not isinstance(cells, list) or not cells:
+            fail(f"Empty row: {location}[{row_index}]")
+        for cell_index, cell in enumerate(cells):
+            lesson_text(cell, f"{location}[{row_index}].cells[{cell_index}]")
+
+
 def validate_sections(document: dict[str, Any], course_dir: Path, known_assets: set[str], location: str) -> set[str]:
     sections = document.get("sections")
     if not isinstance(sections, list) or not sections:
@@ -71,7 +82,11 @@ def validate_sections(document: dict[str, Any], course_dir: Path, known_assets: 
     used: set[str] = set()
     for section_index, section in enumerate(sections):
         where = f"{location}.sections[{section_index}]"
-        if section.get("type") not in {"OVERVIEW", "VOCABULARY", "DIALOGUE", "ACTIVITY", "GRAMMAR", "PRACTICE", "CONTENT"}:
+        section_type = section.get("type")
+        if section_type not in {
+            "INTRODUCTION", "LEARNING_MATERIAL", "VOCABULARY", "EXAMPLES", "DIALOGUE", "EXERCISES", "SUMMARY",
+            "OVERVIEW", "ACTIVITY", "GRAMMAR", "PRACTICE", "CONTENT",
+        }:
             fail(f"Invalid section type: {where}")
         lesson_text(section.get("title"), f"{where}.title")
         blocks = section.get("blocks")
@@ -82,21 +97,62 @@ def validate_sections(document: dict[str, Any], course_dir: Path, known_assets: 
             if block.get("type") == "text":
                 lesson_text(block.get("text"), block_where)
             elif block.get("type") == "table":
-                rows = block.get("rows")
-                if not isinstance(rows, list) or not rows:
-                    fail(f"Empty table: {block_where}")
-                for row_index, row in enumerate(rows):
-                    cells = row.get("cells")
-                    if not isinstance(cells, list) or not cells:
-                        fail(f"Empty row: {block_where}.rows[{row_index}]")
-                    for cell_index, cell in enumerate(cells):
-                        lesson_text(cell, f"{block_where}.rows[{row_index}].cells[{cell_index}]")
+                lesson_rows(block.get("rows"), f"{block_where}.rows")
             elif block.get("type") == "image":
                 asset = block.get("path", "")
                 safe_relative(asset)
                 if asset not in known_assets or not (course_dir / asset).is_file():
                     fail(f"Missing image: {block_where} -> {asset}")
                 used.add(asset)
+            elif block.get("type") == "list":
+                items = block.get("items")
+                if not isinstance(items, list) or not items:
+                    fail(f"Empty list: {block_where}")
+                for item_index, item in enumerate(items):
+                    lesson_text(item, f"{block_where}.items[{item_index}]")
+            elif block.get("type") == "vocabulary":
+                if section_type != "VOCABULARY":
+                    fail(f"Vocabulary block outside vocabulary section: {block_where}")
+                if "title" in block:
+                    lesson_text(block["title"], f"{block_where}.title")
+                entries = block.get("entries")
+                if not isinstance(entries, list) or not entries:
+                    fail(f"Empty vocabulary group: {block_where}")
+                for entry_index, entry in enumerate(entries):
+                    lesson_text(entry.get("term"), f"{block_where}.entries[{entry_index}].term")
+                    lesson_text(entry.get("meaning"), f"{block_where}.entries[{entry_index}].meaning")
+            elif block.get("type") == "dialogue":
+                if section_type not in {"DIALOGUE", "EXERCISES"}:
+                    fail(f"Dialogue block in unrelated section: {block_where}")
+                turns = block.get("turns")
+                if not isinstance(turns, list) or not turns:
+                    fail(f"Empty dialogue: {block_where}")
+                for turn_index, turn in enumerate(turns):
+                    if not isinstance(turn.get("speaker"), str) or not turn["speaker"].strip():
+                        fail(f"Dialogue turn has no speaker: {block_where}.turns[{turn_index}]")
+                    lesson_text(turn.get("speakerText"), f"{block_where}.turns[{turn_index}].speakerText")
+                    lesson_text(turn.get("text"), f"{block_where}.turns[{turn_index}].text")
+            elif block.get("type") == "example":
+                if section_type != "EXAMPLES":
+                    fail(f"Example block outside examples section: {block_where}")
+                items = block.get("items")
+                rows = block.get("rows")
+                if isinstance(items, list) and items:
+                    for item_index, item in enumerate(items):
+                        lesson_text(item, f"{block_where}.items[{item_index}]")
+                elif rows:
+                    lesson_rows(rows, f"{block_where}.rows")
+                else:
+                    fail(f"Empty example: {block_where}")
+            elif block.get("type") == "exercise":
+                if section_type != "EXERCISES":
+                    fail(f"Exercise block outside exercise section: {block_where}")
+                if block.get("role") not in {"instruction", "question", "answer", "content", "worksheet"}:
+                    fail(f"Invalid exercise role: {block_where}")
+                if block.get("role") == "worksheet":
+                    lesson_rows(block.get("rows"), f"{block_where}.rows")
+                else:
+                    lesson_text(block.get("text"), block_where)
             else:
                 fail(f"Unknown block type: {block_where}")
     declared = document.get("assets")
@@ -164,6 +220,11 @@ def validate(root: Path) -> tuple[int, int, int]:
         lesson = load(lesson_path)
         if lesson.get("id") != reference.get("id") or lesson.get("order") != reference.get("order"):
             fail(f"Lesson metadata mismatch: {lesson_path}")
+        if lesson.get("structureVersion") != 2:
+            fail(f"Lesson is not semantically structured: {lesson_path}")
+        content_audit = lesson.get("contentAudit")
+        if not isinstance(content_audit, dict) or content_audit.get("sourceTextItemsAfter", 0) <= 0:
+            fail(f"Lesson has no structure audit: {lesson_path}")
         objectives = lesson.get("objectives")
         if not isinstance(objectives, list) or not objectives:
             fail(f"Lesson has no extracted objectives: {lesson_path}")
@@ -171,7 +232,7 @@ def validate(root: Path) -> tuple[int, int, int]:
             lesson_text(objective, f"{lesson_path}.objectives[{index}]")
         referenced_assets |= validate_sections(lesson, course_dir, known_assets, lesson_path.as_posix())
         section_types.update(section["type"] for section in lesson["sections"])
-    for required in ("VOCABULARY", "DIALOGUE", "ACTIVITY", "GRAMMAR", "PRACTICE"):
+    for required in ("INTRODUCTION", "VOCABULARY", "LEARNING_MATERIAL", "EXAMPLES", "EXERCISES"):
         if section_types[required] < 24:
             fail(f"Every lesson must include {required}")
 

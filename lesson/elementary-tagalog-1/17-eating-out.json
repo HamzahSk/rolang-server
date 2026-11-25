@@ -17,17 +17,17 @@
     {
       "sourceLanguage": "en",
       "sourceText": "• Order food at a restaurant",
-      "id": "Pesan makanan di restoran."
+      "id": "• Memesan makanan di restoran"
     },
     {
       "sourceLanguage": "en",
       "sourceText": "• Express preferences regarding food and drink",
-      "id": "Pilihan Express tentang makanan dan minuman"
+      "id": "• Menyatakan pilihan makanan dan minuman"
     },
     {
       "sourceLanguage": "mixed",
       "sourceText": "• Make requests",
-      "id": "Buat permintaan"
+      "id": "• Menyampaikan permintaan"
     }
   ],
   "source": {
@@ -44,220 +44,156 @@
   ],
   "sections": [
     {
-      "id": "lesson-17-overview",
-      "type": "OVERVIEW",
+      "type": "INTRODUCTION",
       "title": {
-        "sourceLanguage": "mixed",
-        "sourceText": "Overview",
-        "id": "Gambaran Umum"
+        "sourceLanguage": "en",
+        "sourceText": "An Overview of Lesson 17",
+        "id": "Pengantar Pelajaran 17"
       },
       "blocks": [
         {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "en",
-            "sourceText": "An Overview of Lesson 17",
-            "id": "Gambaran Umum Pelajaran 17"
-          }
+          "type": "list",
+          "style": "objectives",
+          "items": [
+            {
+              "sourceLanguage": "en",
+              "sourceText": "• Order food at a restaurant",
+              "id": "• Memesan makanan di restoran"
+            },
+            {
+              "sourceLanguage": "en",
+              "sourceText": "• Express preferences regarding food and drink",
+              "id": "• Menyatakan pilihan makanan dan minuman"
+            },
+            {
+              "sourceLanguage": "mixed",
+              "sourceText": "• Make requests",
+              "id": "• Menyampaikan permintaan"
+            }
+          ]
         },
         {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "mixed",
-            "sourceText": "Objectives",
-            "id": "Objeksi"
-          }
-        },
-        {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "en",
-            "sourceText": "• Order food at a restaurant",
-            "id": "Pesan makanan di restoran."
-          }
-        },
-        {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "en",
-            "sourceText": "• Express preferences regarding food and drink",
-            "id": "Pilihan Express tentang makanan dan minuman"
-          }
-        },
-        {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "mixed",
-            "sourceText": "• Make requests",
-            "id": "Buat permintaan"
-          }
-        },
-        {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "mixed",
-            "sourceText": "Vocabulary",
-            "id": "Kosakata"
-          }
-        },
-        {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "mixed",
-            "sourceText": "• Nouns",
-            "id": "Nouns"
-          }
-        },
-        {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "mixed",
-            "sourceText": "• Filipino Foods and Drinks",
-            "id": "Makanan dan minuman Filipina"
-          }
-        },
-        {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "mixed",
-            "sourceText": "• Adjectives",
-            "id": "Advances"
-          }
-        },
-        {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "en",
-            "sourceText": "• Verb Stems or Root Words",
-            "id": "Verb Stems atau Kata Root"
-          }
-        },
-        {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "en",
-            "sourceText": "• Object-Focus and Actor-Focus Verbs (-In-, I-, and Ma-)",
-            "id": "Object- Fokus dan Aktor- Fokus Verbs (-In-, I-, dan Ma -)"
-          }
-        },
-        {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "mixed",
-            "sourceText": "• Enclitics",
-            "id": "Enkliknya"
-          }
-        },
-        {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "mixed",
-            "sourceText": "• Prefixes",
-            "id": "Prefiks"
-          }
-        },
-        {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "mixed",
-            "sourceText": "• Idioms and Expressions",
-            "id": "Ekspresi dan Idiom"
-          }
-        },
-        {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "en",
-            "sourceText": "Dialogue: Pagkain sa isang Restawran Eating at a Restaurant",
-            "id": "Dialog: Pagkain sa isang Restawran Eating at a Restaurant"
-          }
-        },
-        {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "mixed",
-            "sourceText": "Dialogue Comprehension",
-            "id": "Pemahaman Dialog"
-          }
-        },
-        {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "mixed",
-            "sourceText": "Activities",
-            "id": "Aktivitas"
-          }
-        },
-        {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "mixed",
-            "sourceText": "Activity 1: Filipino Food",
-            "id": "Aktivitas 1: makanan Filipina"
-          }
-        },
-        {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "mixed",
-            "sourceText": "Activity 2: Interview",
-            "id": "Aktivitas 2: Wawancara"
-          }
-        },
-        {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "mixed",
-            "sourceText": "Activity 3: Role-play",
-            "id": "Aktivitas 3: Role- play"
-          }
-        },
-        {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "mixed",
-            "sourceText": "Grammar",
-            "id": "Tata Bahasa"
-          }
-        },
-        {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "en",
-            "sourceText": "Definition of Terms: Focus, Object-Focus Verbs, -In Verbs, I- Verbs, Paki-, and Enclitics",
-            "id": "Definisi Terms: Fokus, Object- Verbs Fokus, Dalam Verbs, I - Verbs, Pakistan, dan Enclitics"
-          }
-        },
-        {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "mixed",
-            "sourceText": "Examining Form",
-            "id": "Mengkaji Bentuk"
-          }
+          "type": "list",
+          "style": "outline",
+          "items": [
+            {
+              "sourceLanguage": "mixed",
+              "sourceText": "Vocabulary",
+              "id": "Kosakata"
+            },
+            {
+              "sourceLanguage": "mixed",
+              "sourceText": "• Nouns",
+              "id": "Nouns"
+            },
+            {
+              "sourceLanguage": "mixed",
+              "sourceText": "• Filipino Foods and Drinks",
+              "id": "Makanan dan minuman Filipina"
+            },
+            {
+              "sourceLanguage": "mixed",
+              "sourceText": "• Adjectives",
+              "id": "Advances"
+            },
+            {
+              "sourceLanguage": "en",
+              "sourceText": "• Verb Stems or Root Words",
+              "id": "Verb Stems atau Kata Root"
+            },
+            {
+              "sourceLanguage": "en",
+              "sourceText": "• Object-Focus and Actor-Focus Verbs (-In-, I-, and Ma-)",
+              "id": "Object- Fokus dan Aktor- Fokus Verbs (-In-, I-, dan Ma -)",
+              "tagalog": "-In- I- Ma-"
+            },
+            {
+              "sourceLanguage": "mixed",
+              "sourceText": "• Enclitics",
+              "id": "Enkliknya"
+            },
+            {
+              "sourceLanguage": "mixed",
+              "sourceText": "• Prefixes",
+              "id": "Prefiks"
+            },
+            {
+              "sourceLanguage": "mixed",
+              "sourceText": "• Idioms and Expressions",
+              "id": "Ekspresi dan Idiom"
+            },
+            {
+              "sourceLanguage": "en",
+              "sourceText": "Dialogue: Pagkain sa isang Restawran Eating at a Restaurant",
+              "id": "Dialog: Pagkain sa isang Restawran Eating at a Restaurant"
+            },
+            {
+              "sourceLanguage": "mixed",
+              "sourceText": "Dialogue Comprehension",
+              "id": "Pemahaman Dialog"
+            },
+            {
+              "sourceLanguage": "mixed",
+              "sourceText": "Activities",
+              "id": "Aktivitas"
+            },
+            {
+              "sourceLanguage": "mixed",
+              "sourceText": "Activity 1: Filipino Food",
+              "id": "Aktivitas 1: makanan Filipina"
+            },
+            {
+              "sourceLanguage": "mixed",
+              "sourceText": "Activity 2: Interview",
+              "id": "Aktivitas 2: Wawancara"
+            },
+            {
+              "sourceLanguage": "mixed",
+              "sourceText": "Activity 3: Role-play",
+              "id": "Aktivitas 3: Role- play"
+            },
+            {
+              "sourceLanguage": "mixed",
+              "sourceText": "Grammar",
+              "id": "Tata Bahasa"
+            },
+            {
+              "sourceLanguage": "en",
+              "sourceText": "Definition of Terms: Focus, Object-Focus Verbs, -In Verbs, I- Verbs, Paki-, and Enclitics",
+              "id": "Definisi Terms: Fokus, Object- Verbs Fokus, Dalam Verbs, I - Verbs, Pakistan, dan Enclitics",
+              "tagalog": "-In I- Paki-"
+            },
+            {
+              "sourceLanguage": "mixed",
+              "sourceText": "Examining Form",
+              "id": "Mengkaji Bentuk"
+            },
+            {
+              "sourceLanguage": "mixed",
+              "sourceText": "Practice",
+              "id": "Latihan"
+            },
+            {
+              "sourceLanguage": "en",
+              "sourceText": "I. Speaking Practice",
+              "id": "I. Latihan Berbicara"
+            },
+            {
+              "sourceLanguage": "mixed",
+              "sourceText": "II. Reading Practice",
+              "id": "II. Latihan Membaca"
+            },
+            {
+              "sourceLanguage": "mixed",
+              "sourceText": "III. Writing Practice",
+              "id": "III. Latihan Menulis"
+            },
+            {
+              "sourceLanguage": "mixed",
+              "sourceText": "IV. Listening Practice",
+              "id": "IV. Latihan Menyimak"
+            }
+          ]
         },
         {
           "type": "table",
@@ -294,57 +230,13 @@
                 }
               ]
             }
-          ]
-        },
-        {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "mixed",
-            "sourceText": "Practice",
-            "id": "Latihan"
-          }
-        },
-        {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "en",
-            "sourceText": "I. Speaking Practice",
-            "id": "I. Latihan Berbicara"
-          }
-        },
-        {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "mixed",
-            "sourceText": "II. Reading Practice",
-            "id": "II. Latihan Membaca"
-          }
-        },
-        {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "mixed",
-            "sourceText": "III. Writing Practice",
-            "id": "III. Latihan Menulis"
-          }
-        },
-        {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "mixed",
-            "sourceText": "IV. Listening Practice",
-            "id": "IV. Latihan Menyimak"
-          }
+          ],
+          "role": "outline"
         }
-      ]
+      ],
+      "id": "lesson-17-01-an-overview-of-lesson-17"
     },
     {
-      "id": "lesson-17-vocabulary",
       "type": "VOCABULARY",
       "title": {
         "sourceLanguage": "mixed",
@@ -354,7 +246,7 @@
       "blocks": [
         {
           "type": "text",
-          "style": "body",
+          "style": "heading",
           "text": {
             "sourceLanguage": "mixed",
             "sourceText": "Vocabulary (17–1)",
@@ -375,583 +267,513 @@
           }
         },
         {
-          "type": "table",
-          "rows": [
+          "type": "vocabulary",
+          "entries": [
             {
-              "cells": [
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "Nouns",
-                  "id": "Kata benda"
-                }
-              ]
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "baso",
+                "id": "kaca",
+                "tagalog": "baso"
+              },
+              "meaning": {
+                "sourceLanguage": "mixed",
+                "sourceText": "glass",
+                "id": "kaca"
+              }
             },
             {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "baso",
-                  "id": "kaca",
-                  "tagalog": "baso"
-                },
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "glass",
-                  "id": "kaca"
-                }
-              ]
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "bino",
+                "id": "anggur",
+                "tagalog": "bino"
+              },
+              "meaning": {
+                "sourceLanguage": "mixed",
+                "sourceText": "wine",
+                "id": "anggur"
+              }
             },
             {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "bino",
-                  "id": "anggur",
-                  "tagalog": "bino"
-                },
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "wine",
-                  "id": "anggur"
-                }
-              ]
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "kahera",
+                "id": "Kasir",
+                "tagalog": "kahera"
+              },
+              "meaning": {
+                "sourceLanguage": "mixed",
+                "sourceText": "cashier",
+                "id": "Kasir"
+              }
             },
             {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "kahera",
-                  "id": "Kasir",
-                  "tagalog": "kahera"
-                },
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "cashier",
-                  "id": "Kasir"
-                }
-              ]
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "kubiyertos/kubyertos",
+                "id": "perak, taplak meja",
+                "tagalog": "kubiyertos/kubyertos"
+              },
+              "meaning": {
+                "sourceLanguage": "mixed",
+                "sourceText": "silverware, tableware",
+                "id": "perak, taplak meja"
+              }
             },
             {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "kubiyertos/kubyertos",
-                  "id": "perak, taplak meja",
-                  "tagalog": "kubiyertos/kubyertos"
-                },
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "silverware, tableware",
-                  "id": "perak, taplak meja"
-                }
-              ]
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "kutsara",
+                "id": "sendok",
+                "tagalog": "kutsara"
+              },
+              "meaning": {
+                "sourceLanguage": "mixed",
+                "sourceText": "spoon",
+                "id": "sendok"
+              }
             },
             {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "kutsara",
-                  "id": "sendok",
-                  "tagalog": "kutsara"
-                },
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "spoon",
-                  "id": "sendok"
-                }
-              ]
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "kutsarita",
+                "id": "sendok teh",
+                "tagalog": "kutsarita"
+              },
+              "meaning": {
+                "sourceLanguage": "mixed",
+                "sourceText": "teaspoon",
+                "id": "sendok teh"
+              }
             },
             {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "kutsarita",
-                  "id": "sendok teh",
-                  "tagalog": "kutsarita"
-                },
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "teaspoon",
-                  "id": "sendok teh"
-                }
-              ]
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "kutsilyo",
+                "id": "pisau",
+                "tagalog": "kutsilyo"
+              },
+              "meaning": {
+                "sourceLanguage": "mixed",
+                "sourceText": "knife",
+                "id": "pisau"
+              }
             },
             {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "kutsilyo",
-                  "id": "pisau",
-                  "tagalog": "kutsilyo"
-                },
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "knife",
-                  "id": "pisau"
-                }
-              ]
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "lutong-bahay",
+                "id": "buatan sendiri, rumah-dimasak",
+                "tagalog": "lutong-bahay"
+              },
+              "meaning": {
+                "sourceLanguage": "mixed",
+                "sourceText": "homemade, home-cooked",
+                "id": "buatan sendiri, rumah-dimasak"
+              }
             },
             {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "lutong-bahay",
-                  "id": "buatan sendiri, rumah-dimasak",
-                  "tagalog": "lutong-bahay"
-                },
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "homemade, home-cooked",
-                  "id": "buatan sendiri, rumah-dimasak"
-                }
-              ]
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "pampagana",
+                "id": "appetizer",
+                "tagalog": "pampagana"
+              },
+              "meaning": {
+                "sourceLanguage": "mixed",
+                "sourceText": "appetizer",
+                "id": "appetizer"
+              }
             },
             {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "pampagana",
-                  "id": "appetizer",
-                  "tagalog": "pampagana"
-                },
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "appetizer",
-                  "id": "appetizer"
-                }
-              ]
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "pampalasa",
+                "id": "musiman",
+                "tagalog": "pampalasa"
+              },
+              "meaning": {
+                "sourceLanguage": "mixed",
+                "sourceText": "seasoning",
+                "id": "musiman"
+              }
             },
             {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "pampalasa",
-                  "id": "musiman",
-                  "tagalog": "pampalasa"
-                },
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "seasoning",
-                  "id": "musiman"
-                }
-              ]
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "pitsel",
+                "id": "pitcher, kendi",
+                "tagalog": "pitsel"
+              },
+              "meaning": {
+                "sourceLanguage": "mixed",
+                "sourceText": "pitcher, jug",
+                "id": "pitcher, kendi"
+              }
             },
             {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "pitsel",
-                  "id": "pitcher, kendi",
-                  "tagalog": "pitsel"
-                },
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "pitcher, jug",
-                  "id": "pitcher, kendi"
-                }
-              ]
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "platito",
+                "id": "piring, piring kecil",
+                "tagalog": "platito"
+              },
+              "meaning": {
+                "sourceLanguage": "mixed",
+                "sourceText": "saucer, small plate",
+                "id": "piring, piring kecil"
+              }
             },
             {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "platito",
-                  "id": "piring, piring kecil",
-                  "tagalog": "platito"
-                },
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "saucer, small plate",
-                  "id": "piring, piring kecil"
-                }
-              ]
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "plato",
+                "id": "piring",
+                "tagalog": "plato"
+              },
+              "meaning": {
+                "sourceLanguage": "mixed",
+                "sourceText": "plate",
+                "id": "piring"
+              }
             },
             {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "plato",
-                  "id": "piring",
-                  "tagalog": "plato"
-                },
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "plate",
-                  "id": "piring"
-                }
-              ]
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "reklamo",
+                "id": "pengaduan",
+                "tagalog": "reklamo"
+              },
+              "meaning": {
+                "sourceLanguage": "mixed",
+                "sourceText": "complaint",
+                "id": "pengaduan"
+              }
             },
             {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "reklamo",
-                  "id": "pengaduan",
-                  "tagalog": "reklamo"
-                },
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "complaint",
-                  "id": "pengaduan"
-                }
-              ]
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "sangkap",
+                "id": "bahan",
+                "tagalog": "sangkap"
+              },
+              "meaning": {
+                "sourceLanguage": "mixed",
+                "sourceText": "ingredient",
+                "id": "bahan"
+              }
             },
             {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "sangkap",
-                  "id": "bahan",
-                  "tagalog": "sangkap"
-                },
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "ingredient",
-                  "id": "bahan"
-                }
-              ]
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "sarsa",
+                "id": "saus",
+                "tagalog": "sarsa"
+              },
+              "meaning": {
+                "sourceLanguage": "mixed",
+                "sourceText": "sauce",
+                "id": "saus"
+              }
             },
             {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "sarsa",
-                  "id": "saus",
-                  "tagalog": "sarsa"
-                },
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "sauce",
-                  "id": "saus"
-                }
-              ]
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "sawsawan",
+                "id": "bumbu, saus atau cairan apapun untuk mencelupkan makanan",
+                "tagalog": "sawsawan"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "condiment, sauce or any liquid to dip food",
+                "id": "bumbu, saus atau cairan apapun untuk mencelupkan makanan"
+              }
             },
             {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "sawsawan",
-                  "id": "bumbu, saus atau cairan apapun untuk mencelupkan makanan",
-                  "tagalog": "sawsawan"
-                },
-                {
-                  "sourceLanguage": "en",
-                  "sourceText": "condiment, sauce or any liquid to dip food",
-                  "id": "bumbu, saus atau cairan apapun untuk mencelupkan makanan"
-                }
-              ]
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "sukli/barya",
+                "id": "perubahan (perubahan longgar)",
+                "tagalog": "sukli/barya"
+              },
+              "meaning": {
+                "sourceLanguage": "mixed",
+                "sourceText": "change (loose change)",
+                "id": "perubahan (perubahan longgar)"
+              }
             },
             {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "sukli/barya",
-                  "id": "perubahan (perubahan longgar)",
-                  "tagalog": "sukli/barya"
-                },
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "change (loose change)",
-                  "id": "perubahan (perubahan longgar)"
-                }
-              ]
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "tagapagluto",
+                "id": "koki, masak.",
+                "tagalog": "tagapagluto"
+              },
+              "meaning": {
+                "sourceLanguage": "mixed",
+                "sourceText": "chef, cook",
+                "id": "koki, masak."
+              }
             },
             {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "tagapagluto",
-                  "id": "koki, masak.",
-                  "tagalog": "tagapagluto"
-                },
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "chef, cook",
-                  "id": "koki, masak."
-                }
-              ]
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "tasa",
+                "id": "cangkir",
+                "tagalog": "tasa"
+              },
+              "meaning": {
+                "sourceLanguage": "mixed",
+                "sourceText": "cup",
+                "id": "cangkir"
+              }
             },
             {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "tasa",
-                  "id": "cangkir",
-                  "tagalog": "tasa"
-                },
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "cup",
-                  "id": "cangkir"
-                }
-              ]
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "tinidor/tenedor",
+                "id": "fork",
+                "tagalog": "tinidor/tenedor"
+              },
+              "meaning": {
+                "sourceLanguage": "mixed",
+                "sourceText": "fork",
+                "id": "fork"
+              }
             },
             {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "tinidor/tenedor",
-                  "id": "fork",
-                  "tagalog": "tinidor/tenedor"
-                },
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "fork",
-                  "id": "fork"
-                }
-              ]
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "tsit",
+                "id": "Bill, periksa.",
+                "tagalog": "tsit"
+              },
+              "meaning": {
+                "sourceLanguage": "mixed",
+                "sourceText": "bill, check",
+                "id": "Bill, periksa."
+              }
             },
             {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "tsit",
-                  "id": "Bill, periksa.",
-                  "tagalog": "tsit"
-                },
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "bill, check",
-                  "id": "Bill, periksa."
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "weyter",
-                  "id": "pelayan",
-                  "tagalog": "weyter"
-                },
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "waiter",
-                  "id": "pelayan"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "Adjectives",
-                  "id": "Kata sifat"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "nakakadiri",
-                  "id": "(Yang tidak berhenti) buahnya. karena musim-musiman (dan tidak terlarang mengambilnya) artinya, ia boleh diambil.",
-                  "tagalog": "nakakadiri"
-                },
-                {
-                  "sourceLanguage": "en",
-                  "sourceText": "awful (taste); disgust or distaste for something dirty",
-                  "id": "(Yang tidak berhenti) buahnya. karena musim-musiman (dan tidak terlarang mengambilnya) artinya, ia boleh diambil."
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "ubod ng sarap",
-                  "id": "sangat lezat",
-                  "tagalog": "ubod ng sarap"
-                },
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "very delicious",
-                  "id": "sangat lezat"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "pagkasarap-sarap",
-                  "id": "sangat lezat",
-                  "tagalog": "pagkasarap-sarap"
-                },
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "very delicious",
-                  "id": "sangat lezat"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "ang sarap-sarap",
-                  "id": "sangat lezat",
-                  "tagalog": "ang sarap-sarap"
-                },
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "very delicious",
-                  "id": "sangat lezat"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "napakasarap",
-                  "id": "sangat lezat",
-                  "tagalog": "napakasarap"
-                },
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "very delicious",
-                  "id": "sangat lezat"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "malinamnam",
-                  "id": "sangat lezat atau gurih",
-                  "tagalog": "malinamnam"
-                },
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "very tasty or savory",
-                  "id": "sangat lezat atau gurih"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "nakakagutom",
-                  "id": "afetizing; harfiah berarti \"membuat satu lapar\"",
-                  "tagalog": "nakakagutom"
-                },
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "appetizing; literally means “makes one hungry”",
-                  "id": "afetizing; harfiah berarti \"membuat satu lapar\""
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "tuyo",
-                  "id": "kering",
-                  "tagalog": "tuyo"
-                },
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "dry",
-                  "id": "kering"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "Enclitics",
-                  "id": "Enkliknya"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "lang",
-                  "id": "hanya, hanya",
-                  "tagalog": "lang"
-                },
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "just, only",
-                  "id": "hanya, hanya"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "naman",
-                  "id": "Kumohon.",
-                  "tagalog": "naman"
-                },
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "please",
-                  "id": "Kumohon."
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "nga",
-                  "id": "Kumohon.",
-                  "tagalog": "nga"
-                },
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "please",
-                  "id": "Kumohon."
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "Prefixes",
-                  "id": "Prefiks"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "paki-",
-                  "id": "prefiks verbal sama dengan bahasa Inggris \"please\"",
-                  "tagalog": "paki-"
-                },
-                {
-                  "sourceLanguage": "en",
-                  "sourceText": "verbal prefix equivalent to English “please”",
-                  "id": "prefiks verbal sama dengan bahasa Inggris \"please\""
-                }
-              ]
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "weyter",
+                "id": "pelayan",
+                "tagalog": "weyter"
+              },
+              "meaning": {
+                "sourceLanguage": "mixed",
+                "sourceText": "waiter",
+                "id": "pelayan"
+              }
             }
-          ]
+          ],
+          "title": {
+            "sourceLanguage": "mixed",
+            "sourceText": "Nouns",
+            "id": "Kata benda"
+          }
+        },
+        {
+          "type": "vocabulary",
+          "entries": [
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "nakakadiri",
+                "id": "(Yang tidak berhenti) buahnya. karena musim-musiman (dan tidak terlarang mengambilnya) artinya, ia boleh diambil.",
+                "tagalog": "nakakadiri"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "awful (taste); disgust or distaste for something dirty",
+                "id": "(Yang tidak berhenti) buahnya. karena musim-musiman (dan tidak terlarang mengambilnya) artinya, ia boleh diambil."
+              }
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "ubod ng sarap",
+                "id": "sangat lezat",
+                "tagalog": "ubod ng sarap"
+              },
+              "meaning": {
+                "sourceLanguage": "mixed",
+                "sourceText": "very delicious",
+                "id": "sangat lezat"
+              }
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "pagkasarap-sarap",
+                "id": "sangat lezat",
+                "tagalog": "pagkasarap-sarap"
+              },
+              "meaning": {
+                "sourceLanguage": "mixed",
+                "sourceText": "very delicious",
+                "id": "sangat lezat"
+              }
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "ang sarap-sarap",
+                "id": "sangat lezat",
+                "tagalog": "ang sarap-sarap"
+              },
+              "meaning": {
+                "sourceLanguage": "mixed",
+                "sourceText": "very delicious",
+                "id": "sangat lezat"
+              }
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "napakasarap",
+                "id": "sangat lezat",
+                "tagalog": "napakasarap"
+              },
+              "meaning": {
+                "sourceLanguage": "mixed",
+                "sourceText": "very delicious",
+                "id": "sangat lezat"
+              }
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "malinamnam",
+                "id": "sangat lezat atau gurih",
+                "tagalog": "malinamnam"
+              },
+              "meaning": {
+                "sourceLanguage": "mixed",
+                "sourceText": "very tasty or savory",
+                "id": "sangat lezat atau gurih"
+              }
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "nakakagutom",
+                "id": "afetizing; harfiah berarti \"membuat satu lapar\"",
+                "tagalog": "nakakagutom"
+              },
+              "meaning": {
+                "sourceLanguage": "mixed",
+                "sourceText": "appetizing; literally means “makes one hungry”",
+                "id": "afetizing; harfiah berarti \"membuat satu lapar\""
+              }
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "tuyo",
+                "id": "kering",
+                "tagalog": "tuyo"
+              },
+              "meaning": {
+                "sourceLanguage": "mixed",
+                "sourceText": "dry",
+                "id": "kering"
+              }
+            }
+          ],
+          "title": {
+            "sourceLanguage": "mixed",
+            "sourceText": "Adjectives",
+            "id": "Kata sifat"
+          }
+        },
+        {
+          "type": "vocabulary",
+          "entries": [
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "lang",
+                "id": "hanya, hanya",
+                "tagalog": "lang"
+              },
+              "meaning": {
+                "sourceLanguage": "mixed",
+                "sourceText": "just, only",
+                "id": "hanya, hanya"
+              }
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "naman",
+                "id": "Kumohon.",
+                "tagalog": "naman"
+              },
+              "meaning": {
+                "sourceLanguage": "mixed",
+                "sourceText": "please",
+                "id": "Kumohon."
+              }
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "nga",
+                "id": "Kumohon.",
+                "tagalog": "nga"
+              },
+              "meaning": {
+                "sourceLanguage": "mixed",
+                "sourceText": "please",
+                "id": "Kumohon."
+              }
+            }
+          ],
+          "title": {
+            "sourceLanguage": "mixed",
+            "sourceText": "Enclitics",
+            "id": "Enkliknya"
+          }
+        },
+        {
+          "type": "vocabulary",
+          "entries": [
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "paki-",
+                "id": "prefiks verbal sama dengan bahasa Inggris \"please\"",
+                "tagalog": "paki-"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "verbal prefix equivalent to English “please”",
+                "id": "prefiks verbal sama dengan bahasa Inggris \"please\""
+              }
+            }
+          ],
+          "title": {
+            "sourceLanguage": "mixed",
+            "sourceText": "Prefixes",
+            "id": "Prefiks"
+          }
+        },
+        {
+          "type": "text",
+          "style": "heading",
+          "text": {
+            "sourceLanguage": "mixed",
+            "sourceText": "Object-Focus and Actor-Focus Verbs",
+            "id": "Object- Fokus dan Aktor- Verbs Fokus"
+          }
         },
         {
           "type": "table",
+          "role": "vocabulary-reference",
           "rows": [
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "Object-Focus and Actor-Focus Verbs",
-                  "id": "Object- Fokus dan Aktor- Verbs Fokus"
-                }
-              ]
-            },
             {
               "cells": [
                 {
@@ -970,17 +792,23 @@
                   "id": "Definisi"
                 }
               ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "-In Verbs",
-                  "id": "- Di Verbs",
-                  "tagalog": "-In Verbs"
-                }
-              ]
-            },
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "style": "heading",
+          "text": {
+            "sourceLanguage": "fil",
+            "sourceText": "-In Verbs",
+            "id": "- Di Verbs",
+            "tagalog": "-In Verbs"
+          }
+        },
+        {
+          "type": "table",
+          "role": "vocabulary-reference",
+          "rows": [
             {
               "cells": [
                 {
@@ -1001,7 +829,13 @@
                   "id": "untuk mencapai"
                 }
               ]
-            },
+            }
+          ]
+        },
+        {
+          "type": "table",
+          "role": "vocabulary-reference",
+          "rows": [
             {
               "cells": [
                 {
@@ -1022,7 +856,13 @@
                   "id": "untuk membeli"
                 }
               ]
-            },
+            }
+          ]
+        },
+        {
+          "type": "table",
+          "role": "vocabulary-reference",
+          "rows": [
             {
               "cells": [
                 {
@@ -1043,7 +883,13 @@
                   "id": "untuk membawa, untuk mengambil"
                 }
               ]
-            },
+            }
+          ]
+        },
+        {
+          "type": "table",
+          "role": "vocabulary-reference",
+          "rows": [
             {
               "cells": [
                 {
@@ -1064,7 +910,13 @@
                   "id": "untuk digunakan"
                 }
               ]
-            },
+            }
+          ]
+        },
+        {
+          "type": "table",
+          "role": "vocabulary-reference",
+          "rows": [
             {
               "cells": [
                 {
@@ -1085,7 +937,13 @@
                   "id": "untuk meminta sesuatu"
                 }
               ]
-            },
+            }
+          ]
+        },
+        {
+          "type": "table",
+          "role": "vocabulary-reference",
+          "rows": [
             {
               "cells": [
                 {
@@ -1106,7 +964,13 @@
                   "id": "untuk minum"
                 }
               ]
-            },
+            }
+          ]
+        },
+        {
+          "type": "table",
+          "role": "vocabulary-reference",
+          "rows": [
             {
               "cells": [
                 {
@@ -1127,7 +991,13 @@
                   "id": "untuk makan"
                 }
               ]
-            },
+            }
+          ]
+        },
+        {
+          "type": "table",
+          "role": "vocabulary-reference",
+          "rows": [
             {
               "cells": [
                 {
@@ -1148,7 +1018,13 @@
                   "id": "untuk membersihkan"
                 }
               ]
-            },
+            }
+          ]
+        },
+        {
+          "type": "table",
+          "role": "vocabulary-reference",
+          "rows": [
             {
               "cells": [
                 {
@@ -1169,7 +1045,13 @@
                   "id": "untuk bertanya"
                 }
               ]
-            },
+            }
+          ]
+        },
+        {
+          "type": "table",
+          "role": "vocabulary-reference",
+          "rows": [
             {
               "cells": [
                 {
@@ -1190,7 +1072,13 @@
                   "id": "untuk memanggil"
                 }
               ]
-            },
+            }
+          ]
+        },
+        {
+          "type": "table",
+          "role": "vocabulary-reference",
+          "rows": [
             {
               "cells": [
                 {
@@ -1211,7 +1099,13 @@
                   "id": "untuk menyelesaikan"
                 }
               ]
-            },
+            }
+          ]
+        },
+        {
+          "type": "table",
+          "role": "vocabulary-reference",
+          "rows": [
             {
               "cells": [
                 {
@@ -1232,7 +1126,13 @@
                   "id": "untuk mengundang"
                 }
               ]
-            },
+            }
+          ]
+        },
+        {
+          "type": "table",
+          "role": "vocabulary-reference",
+          "rows": [
             {
               "cells": [
                 {
@@ -1253,7 +1153,13 @@
                   "id": "untuk mengambil / membawa sesuatu ke bawah"
                 }
               ]
-            },
+            }
+          ]
+        },
+        {
+          "type": "table",
+          "role": "vocabulary-reference",
+          "rows": [
             {
               "cells": [
                 {
@@ -1274,7 +1180,13 @@
                   "id": "untuk diberikan"
                 }
               ]
-            },
+            }
+          ]
+        },
+        {
+          "type": "table",
+          "role": "vocabulary-reference",
+          "rows": [
             {
               "cells": [
                 {
@@ -1295,7 +1207,13 @@
                   "id": "untuk lulus, untuk menyerahkan"
                 }
               ]
-            },
+            }
+          ]
+        },
+        {
+          "type": "table",
+          "role": "vocabulary-reference",
+          "rows": [
             {
               "cells": [
                 {
@@ -1316,455 +1234,399 @@
                   "id": "untuk kembali"
                 }
               ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "Ma- Verbs",
-                  "id": "Ma-Vebs",
-                  "tagalog": "Ma- Verbs"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "maalala",
-                  "id": "untuk mengingat",
-                  "tagalog": "maalala"
-                },
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "to remember",
-                  "id": "untuk mengingat"
-                }
-              ]
             }
           ]
         },
         {
-          "type": "table",
-          "rows": [
+          "type": "vocabulary",
+          "entries": [
             {
-              "cells": [
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "Filipino Foods and Drinks",
-                  "id": "Filipina Foods dan Minuman"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "adobo",
-                  "id": "Hidangan khas ayam dan daging babi dengan bawang putih, daun teluk, kecap, dan cuka",
-                  "tagalog": "adobo"
-                },
-                {
-                  "sourceLanguage": "en",
-                  "sourceText": "typical dish of chicken and pork with garlic, bay leaf, soy sauce, and vinegar",
-                  "id": "Hidangan khas ayam dan daging babi dengan bawang putih, daun teluk, kecap, dan cuka"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "buko dyus",
-                  "id": "{Y: i} jus kelapa",
-                  "tagalog": "buko dyus"
-                },
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "coconut juice",
-                  "id": "{Y: i} jus kelapa"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "goto",
-                  "id": "bubur beras dengan tripe",
-                  "tagalog": "goto"
-                },
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "rice porridge with tripe",
-                  "id": "bubur beras dengan tripe"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "halo-halo",
-                  "id": "Campuran dari es, susu dan berbagai buah-buahan yang diawetkan",
-                  "tagalog": "halo-halo"
-                },
-                {
-                  "sourceLanguage": "en",
-                  "sourceText": "mixture of shaved ice, milk, and various preserved fruits",
-                  "id": "Campuran dari es, susu dan berbagai buah-buahan yang diawetkan"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "kalamansi dyus",
-                  "id": "jus calamansi",
-                  "tagalog": "kalamansi dyus"
-                },
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "calamansi juice",
-                  "id": "jus calamansi"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "kaldereta",
-                  "id": "rebus (awalnya daging kambing)",
-                  "tagalog": "kaldereta"
-                },
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "stew (originally goat meat)",
-                  "id": "rebus (awalnya daging kambing)"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "lumpiya",
-                  "id": "Eggroll Filipina",
-                  "tagalog": "lumpiya"
-                },
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "Filipino eggroll",
-                  "id": "Eggroll Filipina"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "mais con yelo",
-                  "id": "campuran es dicukur, susu, dan jagung",
-                  "tagalog": "mais con yelo"
-                },
-                {
-                  "sourceLanguage": "en",
-                  "sourceText": "mixture of shaved ice, milk, and corn",
-                  "id": "campuran es dicukur, susu, dan jagung"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "manggo dyus",
-                  "id": "jus mangga",
-                  "tagalog": "manggo dyus"
-                },
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "mango juice",
-                  "id": "jus mangga"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "paksiw",
-                  "id": "ikan atau hidangan daging dimasak dalam cuka dengan garam, jahe, atau bawang putih",
-                  "tagalog": "paksiw"
-                },
-                {
-                  "sourceLanguage": "en",
-                  "sourceText": "a fish or meat dish cooked in vinegar with salt, ginger, or garlic",
-                  "id": "ikan atau hidangan daging dimasak dalam cuka dengan garam, jahe, atau bawang putih"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "pandan iced tea",
-                  "id": "pandan es teh dari aroma daun yang memberikan rasa minuman",
-                  "tagalog": "pandan iced tea"
-                },
-                {
-                  "sourceLanguage": "en",
-                  "sourceText": "pandan iced tea from aromatic leaves that gives the drink its flavor",
-                  "id": "pandan es teh dari aroma daun yang memberikan rasa minuman"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "pansit",
-                  "id": "Makan mie Filipina.",
-                  "tagalog": "pansit"
-                },
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "Filipino noodle dish",
-                  "id": "Makan mie Filipina."
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "pinaupong manok",
-                  "id": "(harfiah, \"ayam dibuat untuk duduk di garam\") ayam panggang",
-                  "tagalog": "pinaupong manok"
-                },
-                {
-                  "sourceLanguage": "en",
-                  "sourceText": "(literally, “chicken made to sit on salt”) roasted chicken",
-                  "id": "(harfiah, \"ayam dibuat untuk duduk di garam\") ayam panggang"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "sago at gulaman",
-                  "id": "minuman populer dengan agar- agar dan tapioca",
-                  "tagalog": "sago at gulaman"
-                },
-                {
-                  "sourceLanguage": "en",
-                  "sourceText": "a popular drink with agar-agar and tapioca",
-                  "id": "minuman populer dengan agar- agar dan tapioca"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "salabat",
-                  "id": "teh jahe",
-                  "tagalog": "salabat"
-                },
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "ginger tea",
-                  "id": "teh jahe"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "sinangag",
-                  "id": "nasi goreng",
-                  "tagalog": "sinangag"
-                },
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "fried rice",
-                  "id": "nasi goreng"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "sinigang",
-                  "id": "tamarind- sup berbasis dengan daging, ikan, atau udang, dan sayuran",
-                  "tagalog": "sinigang"
-                },
-                {
-                  "sourceLanguage": "en",
-                  "sourceText": "tamarind-based soup with meat, fish, or shrimp, and vegetables",
-                  "id": "tamarind- sup berbasis dengan daging, ikan, atau udang, dan sayuran"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "siopao",
-                  "id": "roti nasi kukus berisi daging babi dan telur merah atau kacang mongo",
-                  "tagalog": "siopao"
-                },
-                {
-                  "sourceLanguage": "en",
-                  "sourceText": "steamed rice bun containing pork and red egg or mongo beans",
-                  "id": "roti nasi kukus berisi daging babi dan telur merah atau kacang mongo"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "Idioms and Expressions",
-                  "id": "Idiom and Expressions"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "ang sarap",
-                  "id": "Enak.",
-                  "tagalog": "ang sarap"
-                },
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "yummy",
-                  "id": "Enak."
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "super sarap",
-                  "id": "sangat lezat",
-                  "tagalog": "super sarap"
-                },
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "very delicious",
-                  "id": "sangat lezat"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "kadiri",
-                  "id": "Yuck, menjijikkan, tidak menarik",
-                  "tagalog": "kadiri"
-                },
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "yuck, disgusting, unappealing",
-                  "id": "Yuck, menjijikkan, tidak menarik"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "Busog na busog na kami.",
-                  "id": "Kami sangat penuh.",
-                  "tagalog": "Busog na busog na kami."
-                },
-                {
-                  "sourceLanguage": "en",
-                  "sourceText": "We are very full.",
-                  "id": "Kami sangat penuh."
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "kaniya-kaniya",
-                  "id": "pemeriksaan terpisah",
-                  "tagalog": "kaniya-kaniya"
-                },
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "separate checks",
-                  "id": "pemeriksaan terpisah"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "Pakikuha mo naman ang menu.",
-                  "id": "Bisakah kita melihat menu? (lit., Tolong dapatkan menu.)",
-                  "tagalog": "Pakikuha mo naman ang menu."
-                },
-                {
-                  "sourceLanguage": "en",
-                  "sourceText": "Can we see the menu? (lit., Please get the menu.)",
-                  "id": "Bisakah kita melihat menu? (lit., Tolong dapatkan menu.)"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "Pakidala mo na lang ang tsit namin.",
-                  "id": "Bisakah kita mendapatkan tagihan kami? Tolong bawakan tagihan kami.",
-                  "tagalog": "Pakidala mo na lang ang tsit namin."
-                },
-                {
-                  "sourceLanguage": "en",
-                  "sourceText": "Can we get our bill? (lit., Please bring us our bill.)",
-                  "id": "Bisakah kita mendapatkan tagihan kami? Tolong bawakan tagihan kami."
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "Pakiulit mo naman ang . . .",
-                  "id": "Tolong ulangi...",
-                  "tagalog": "Pakiulit mo naman ang . . ."
-                },
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "Please repeat . . .",
-                  "id": "Tolong ulangi..."
-                }
-              ]
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "maalala",
+                "id": "untuk mengingat",
+                "tagalog": "maalala"
+              },
+              "meaning": {
+                "sourceLanguage": "mixed",
+                "sourceText": "to remember",
+                "id": "untuk mengingat"
+              }
             }
-          ]
+          ],
+          "title": {
+            "sourceLanguage": "fil",
+            "sourceText": "Ma- Verbs",
+            "id": "Ma-Vebs",
+            "tagalog": "Ma- Verbs"
+          }
+        },
+        {
+          "type": "vocabulary",
+          "entries": [
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "adobo",
+                "id": "Hidangan khas ayam dan daging babi dengan bawang putih, daun teluk, kecap, dan cuka",
+                "tagalog": "adobo"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "typical dish of chicken and pork with garlic, bay leaf, soy sauce, and vinegar",
+                "id": "Hidangan khas ayam dan daging babi dengan bawang putih, daun teluk, kecap, dan cuka"
+              }
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "buko dyus",
+                "id": "{Y: i} jus kelapa",
+                "tagalog": "buko dyus"
+              },
+              "meaning": {
+                "sourceLanguage": "mixed",
+                "sourceText": "coconut juice",
+                "id": "{Y: i} jus kelapa"
+              }
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "goto",
+                "id": "bubur beras dengan tripe",
+                "tagalog": "goto"
+              },
+              "meaning": {
+                "sourceLanguage": "mixed",
+                "sourceText": "rice porridge with tripe",
+                "id": "bubur beras dengan tripe"
+              }
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "halo-halo",
+                "id": "Campuran dari es, susu dan berbagai buah-buahan yang diawetkan",
+                "tagalog": "halo-halo"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "mixture of shaved ice, milk, and various preserved fruits",
+                "id": "Campuran dari es, susu dan berbagai buah-buahan yang diawetkan"
+              }
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "kalamansi dyus",
+                "id": "jus calamansi",
+                "tagalog": "kalamansi dyus"
+              },
+              "meaning": {
+                "sourceLanguage": "mixed",
+                "sourceText": "calamansi juice",
+                "id": "jus calamansi"
+              }
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "kaldereta",
+                "id": "rebus (awalnya daging kambing)",
+                "tagalog": "kaldereta"
+              },
+              "meaning": {
+                "sourceLanguage": "mixed",
+                "sourceText": "stew (originally goat meat)",
+                "id": "rebus (awalnya daging kambing)"
+              }
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "lumpiya",
+                "id": "Eggroll Filipina",
+                "tagalog": "lumpiya"
+              },
+              "meaning": {
+                "sourceLanguage": "mixed",
+                "sourceText": "Filipino eggroll",
+                "id": "Eggroll Filipina"
+              }
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "mais con yelo",
+                "id": "campuran es dicukur, susu, dan jagung",
+                "tagalog": "mais con yelo"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "mixture of shaved ice, milk, and corn",
+                "id": "campuran es dicukur, susu, dan jagung"
+              }
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "manggo dyus",
+                "id": "jus mangga",
+                "tagalog": "manggo dyus"
+              },
+              "meaning": {
+                "sourceLanguage": "mixed",
+                "sourceText": "mango juice",
+                "id": "jus mangga"
+              }
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "paksiw",
+                "id": "ikan atau hidangan daging dimasak dalam cuka dengan garam, jahe, atau bawang putih",
+                "tagalog": "paksiw"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "a fish or meat dish cooked in vinegar with salt, ginger, or garlic",
+                "id": "ikan atau hidangan daging dimasak dalam cuka dengan garam, jahe, atau bawang putih"
+              }
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "pandan iced tea",
+                "id": "pandan es teh dari aroma daun yang memberikan rasa minuman",
+                "tagalog": "pandan iced tea"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "pandan iced tea from aromatic leaves that gives the drink its flavor",
+                "id": "pandan es teh dari aroma daun yang memberikan rasa minuman"
+              }
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "pansit",
+                "id": "Makan mie Filipina.",
+                "tagalog": "pansit"
+              },
+              "meaning": {
+                "sourceLanguage": "mixed",
+                "sourceText": "Filipino noodle dish",
+                "id": "Makan mie Filipina."
+              }
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "pinaupong manok",
+                "id": "(harfiah, \"ayam dibuat untuk duduk di garam\") ayam panggang",
+                "tagalog": "pinaupong manok"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "(literally, “chicken made to sit on salt”) roasted chicken",
+                "id": "(harfiah, \"ayam dibuat untuk duduk di garam\") ayam panggang"
+              }
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "sago at gulaman",
+                "id": "minuman populer dengan agar- agar dan tapioca",
+                "tagalog": "sago at gulaman"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "a popular drink with agar-agar and tapioca",
+                "id": "minuman populer dengan agar- agar dan tapioca"
+              }
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "salabat",
+                "id": "teh jahe",
+                "tagalog": "salabat"
+              },
+              "meaning": {
+                "sourceLanguage": "mixed",
+                "sourceText": "ginger tea",
+                "id": "teh jahe"
+              }
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "sinangag",
+                "id": "nasi goreng",
+                "tagalog": "sinangag"
+              },
+              "meaning": {
+                "sourceLanguage": "mixed",
+                "sourceText": "fried rice",
+                "id": "nasi goreng"
+              }
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "sinigang",
+                "id": "tamarind- sup berbasis dengan daging, ikan, atau udang, dan sayuran",
+                "tagalog": "sinigang"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "tamarind-based soup with meat, fish, or shrimp, and vegetables",
+                "id": "tamarind- sup berbasis dengan daging, ikan, atau udang, dan sayuran"
+              }
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "siopao",
+                "id": "roti nasi kukus berisi daging babi dan telur merah atau kacang mongo",
+                "tagalog": "siopao"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "steamed rice bun containing pork and red egg or mongo beans",
+                "id": "roti nasi kukus berisi daging babi dan telur merah atau kacang mongo"
+              }
+            }
+          ],
+          "title": {
+            "sourceLanguage": "mixed",
+            "sourceText": "Filipino Foods and Drinks",
+            "id": "Filipina Foods dan Minuman"
+          }
+        },
+        {
+          "type": "vocabulary",
+          "entries": [
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "ang sarap",
+                "id": "Enak.",
+                "tagalog": "ang sarap"
+              },
+              "meaning": {
+                "sourceLanguage": "mixed",
+                "sourceText": "yummy",
+                "id": "Enak."
+              }
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "super sarap",
+                "id": "sangat lezat",
+                "tagalog": "super sarap"
+              },
+              "meaning": {
+                "sourceLanguage": "mixed",
+                "sourceText": "very delicious",
+                "id": "sangat lezat"
+              }
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "kadiri",
+                "id": "Yuck, menjijikkan, tidak menarik",
+                "tagalog": "kadiri"
+              },
+              "meaning": {
+                "sourceLanguage": "mixed",
+                "sourceText": "yuck, disgusting, unappealing",
+                "id": "Yuck, menjijikkan, tidak menarik"
+              }
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "Busog na busog na kami.",
+                "id": "Kami sangat penuh.",
+                "tagalog": "Busog na busog na kami."
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "We are very full.",
+                "id": "Kami sangat penuh."
+              }
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "kaniya-kaniya",
+                "id": "pemeriksaan terpisah",
+                "tagalog": "kaniya-kaniya"
+              },
+              "meaning": {
+                "sourceLanguage": "mixed",
+                "sourceText": "separate checks",
+                "id": "pemeriksaan terpisah"
+              }
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "Pakikuha mo naman ang menu.",
+                "id": "Bisakah kita melihat menu? (lit., Tolong dapatkan menu.)",
+                "tagalog": "Pakikuha mo naman ang menu."
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "Can we see the menu? (lit., Please get the menu.)",
+                "id": "Bisakah kita melihat menu? (lit., Tolong dapatkan menu.)"
+              }
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "Pakidala mo na lang ang tsit namin.",
+                "id": "Bisakah kita mendapatkan tagihan kami? Tolong bawakan tagihan kami.",
+                "tagalog": "Pakidala mo na lang ang tsit namin."
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "Can we get our bill? (lit., Please bring us our bill.)",
+                "id": "Bisakah kita mendapatkan tagihan kami? Tolong bawakan tagihan kami."
+              }
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "Pakiulit mo naman ang . . .",
+                "id": "Tolong ulangi...",
+                "tagalog": "Pakiulit mo naman ang . . ."
+              },
+              "meaning": {
+                "sourceLanguage": "mixed",
+                "sourceText": "Please repeat . . .",
+                "id": "Tolong ulangi..."
+              }
+            }
+          ],
+          "title": {
+            "sourceLanguage": "mixed",
+            "sourceText": "Idioms and Expressions",
+            "id": "Idiom and Expressions"
+          }
         },
         {
           "type": "image",
           "path": "assets/261.jpg"
         }
-      ]
+      ],
+      "id": "lesson-17-02-vocabulary"
     },
     {
-      "id": "lesson-17-dialogue-pagkain-sa-isang-restawran-eating-at-a-restaurant",
       "type": "DIALOGUE",
       "title": {
         "sourceLanguage": "en",
@@ -1777,37 +1639,33 @@
           "style": "body",
           "text": {
             "sourceLanguage": "en",
-            "sourceText": "Dialogue: Pagkain sa Isang Restawran Eating at a Restaurant",
-            "id": "Dialog: Pagkain sa Ilang Restawran Eating at a Restaurant"
-          }
-        },
-        {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "en",
             "sourceText": "Michael and Sandra are at a restaurant. Read their dialogue with the waiter and answer the Dialogue Comprehension questions.",
             "id": "Michael dan Sandra berada di restoran membaca dialog mereka dengan pelayan dan menjawab pertanyaan Comprehension Dialog."
           }
         },
         {
-          "type": "table",
-          "rows": [
+          "type": "dialogue",
+          "turns": [
             {
-              "cells": [
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "Weyter:",
-                  "id": "Weyter:"
-                },
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "Magandang gabi po. Marco po ang pangalan ko at ako po ang weyter ninyo ngayong gabi. Ang ispesyalti po namin ngayong gabi ay pinaupong manok. O sige po, babalik po ako para sa order ninyo.",
-                  "id": "Saya malam yang baik Marco, nama saya dan saya pelayan Anda malam ini, dan kami duduk ayam dan aku akan kembali untuk pesanan Anda.",
-                  "tagalog": "Magandang gabi po. Marco po ang pangalan ko at ako po ang weyter ninyo ngayong gabi. Ang ispesyalti po namin ngayong gabi ay pinaupong manok. O sige po, babalik po ako para sa order ninyo."
-                }
-              ]
-            },
+              "speaker": "Weyter",
+              "speakerText": {
+                "sourceLanguage": "mixed",
+                "sourceText": "Weyter:",
+                "id": "Weyter:"
+              },
+              "text": {
+                "sourceLanguage": "fil",
+                "sourceText": "Magandang gabi po. Marco po ang pangalan ko at ako po ang weyter ninyo ngayong gabi. Ang ispesyalti po namin ngayong gabi ay pinaupong manok. O sige po, babalik po ako para sa order ninyo.",
+                "id": "Saya malam yang baik Marco, nama saya dan saya pelayan Anda malam ini, dan kami duduk ayam dan aku akan kembali untuk pesanan Anda.",
+                "tagalog": "Magandang gabi po. Marco po ang pangalan ko at ako po ang weyter ninyo ngayong gabi. Ang ispesyalti po namin ngayong gabi ay pinaupong manok. O sige po, babalik po ako para sa order ninyo."
+              }
+            }
+          ]
+        },
+        {
+          "type": "table",
+          "role": "dialogue-context",
+          "rows": [
             {
               "cells": [
                 {
@@ -1816,127 +1674,130 @@
                   "id": "(Pelayan pergi untuk memberikan Sandra dan Michael waktu untuk melihat menu."
                 }
               ]
+            }
+          ]
+        },
+        {
+          "type": "dialogue",
+          "turns": [
+            {
+              "speaker": "Weyter",
+              "speakerText": {
+                "sourceLanguage": "mixed",
+                "sourceText": "Weyter:",
+                "id": "Weyter:"
+              },
+              "text": {
+                "sourceLanguage": "fil",
+                "sourceText": "Alam na po ba ninyo kung ano ang gusto ninyong orderin?",
+                "id": "Kau tahu apa yang ingin kau pesan?",
+                "tagalog": "Alam na po ba ninyo kung ano ang gusto ninyong orderin?"
+              }
             },
             {
-              "cells": [
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "Weyter:",
-                  "id": "Weyter:"
-                },
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "Alam na po ba ninyo kung ano ang gusto ninyong orderin?",
-                  "id": "Kau tahu apa yang ingin kau pesan?",
-                  "tagalog": "Alam na po ba ninyo kung ano ang gusto ninyong orderin?"
-                }
-              ]
+              "speaker": "Sandra",
+              "speakerText": {
+                "sourceLanguage": "mixed",
+                "sourceText": "Sandra:",
+                "id": "Sandra:"
+              },
+              "text": {
+                "sourceLanguage": "fil",
+                "sourceText": "Oo. Gusto ko ng pinaupong manok.",
+                "id": "Ya, aku ingin ayam untuk duduk.",
+                "tagalog": "Oo. Gusto ko ng pinaupong manok."
+              }
             },
             {
-              "cells": [
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "Sandra:",
-                  "id": "Sandra:"
-                },
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "Oo. Gusto ko ng pinaupong manok.",
-                  "id": "Ya, aku ingin ayam untuk duduk.",
-                  "tagalog": "Oo. Gusto ko ng pinaupong manok."
-                }
-              ]
+              "speaker": "Weyter",
+              "speakerText": {
+                "sourceLanguage": "mixed",
+                "sourceText": "Weyter:",
+                "id": "Weyter:"
+              },
+              "text": {
+                "sourceLanguage": "fil",
+                "sourceText": "Kayo po, sir?",
+                "id": "Ayolah, bung?",
+                "tagalog": "Kayo po, sir?"
+              }
             },
             {
-              "cells": [
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "Weyter:",
-                  "id": "Weyter:"
-                },
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "Kayo po, sir?",
-                  "id": "Ayolah, bung?",
-                  "tagalog": "Kayo po, sir?"
-                }
-              ]
+              "speaker": "Michael",
+              "speakerText": {
+                "sourceLanguage": "mixed",
+                "sourceText": "Michael:",
+                "id": "Michael:"
+              },
+              "text": {
+                "sourceLanguage": "fil",
+                "sourceText": "Gusto ko ng pansit.",
+                "id": "Aku suka celana.",
+                "tagalog": "Gusto ko ng pansit."
+              }
             },
             {
-              "cells": [
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "Michael:",
-                  "id": "Michael:"
-                },
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "Gusto ko ng pansit.",
-                  "id": "Aku suka celana.",
-                  "tagalog": "Gusto ko ng pansit."
-                }
-              ]
+              "speaker": "Weyter",
+              "speakerText": {
+                "sourceLanguage": "mixed",
+                "sourceText": "Weyter:",
+                "id": "Weyter:"
+              },
+              "text": {
+                "sourceLanguage": "fil",
+                "sourceText": "Ano po ang gusto ninyong inumin?",
+                "id": "Kau mau minum apa?",
+                "tagalog": "Ano po ang gusto ninyong inumin?"
+              }
             },
             {
-              "cells": [
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "Weyter:",
-                  "id": "Weyter:"
-                },
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "Ano po ang gusto ninyong inumin?",
-                  "id": "Kau mau minum apa?",
-                  "tagalog": "Ano po ang gusto ninyong inumin?"
-                }
-              ]
+              "speaker": "Sandra",
+              "speakerText": {
+                "sourceLanguage": "mixed",
+                "sourceText": "Sandra:",
+                "id": "Sandra:"
+              },
+              "text": {
+                "sourceLanguage": "fil",
+                "sourceText": "Buko dyus.",
+                "id": "Buko dyus.",
+                "tagalog": "Buko dyus."
+              }
             },
             {
-              "cells": [
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "Sandra:",
-                  "id": "Sandra:"
-                },
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "Buko dyus.",
-                  "id": "Buko dyus.",
-                  "tagalog": "Buko dyus."
-                }
-              ]
+              "speaker": "Michael",
+              "speakerText": {
+                "sourceLanguage": "mixed",
+                "sourceText": "Michael:",
+                "id": "Michael:"
+              },
+              "text": {
+                "sourceLanguage": "fil",
+                "sourceText": "Ako, tubig na lang. Boss, pakiulit mo naman ang inorder namin.",
+                "id": "Aku hanya air, Boss, dan Anda akan memesan lagi.",
+                "tagalog": "Ako, tubig na lang. Boss, pakiulit mo naman ang inorder namin."
+              }
             },
             {
-              "cells": [
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "Michael:",
-                  "id": "Michael:"
-                },
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "Ako, tubig na lang. Boss, pakiulit mo naman ang inorder namin.",
-                  "id": "Aku hanya air, Boss, dan Anda akan memesan lagi.",
-                  "tagalog": "Ako, tubig na lang. Boss, pakiulit mo naman ang inorder namin."
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "Weyter:",
-                  "id": "Weyter:"
-                },
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "O sige po. Isang pinaupong manok, isang pansit, buko dyus, at tubig.",
-                  "id": "Oke, ayam panggang, jerat, dyus kelapa, dan air.",
-                  "tagalog": "O sige po. Isang pinaupong manok, isang pansit, buko dyus, at tubig."
-                }
-              ]
-            },
+              "speaker": "Weyter",
+              "speakerText": {
+                "sourceLanguage": "mixed",
+                "sourceText": "Weyter:",
+                "id": "Weyter:"
+              },
+              "text": {
+                "sourceLanguage": "fil",
+                "sourceText": "O sige po. Isang pinaupong manok, isang pansit, buko dyus, at tubig.",
+                "id": "Oke, ayam panggang, jerat, dyus kelapa, dan air.",
+                "tagalog": "O sige po. Isang pinaupong manok, isang pansit, buko dyus, at tubig."
+              }
+            }
+          ]
+        },
+        {
+          "type": "table",
+          "role": "dialogue-context",
+          "rows": [
             {
               "cells": [
                 {
@@ -1945,169 +1806,168 @@
                   "id": "Pelayan keluar untuk mengambil makanan dari dapur dan kembali beberapa menit kemudian."
                 }
               ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "Weyter:",
-                  "id": "Weyter:"
-                },
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "Heto na po ang order ninyo.",
-                  "id": "Ini pesananmu.",
-                  "tagalog": "Heto na po ang order ninyo."
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "Michael:",
-                  "id": "Michael:"
-                },
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "Salamat.",
-                  "id": "Terima kasih.",
-                  "tagalog": "Salamat."
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "Weyter:",
-                  "id": "Weyter:"
-                },
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "Kumusta po ang pagkain?",
-                  "id": "Bagaimana dengan makanan?",
-                  "tagalog": "Kumusta po ang pagkain?"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "Sandra:",
-                  "id": "Sandra:"
-                },
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "Ang sarap-sarap ng lahat.",
-                  "id": "Semua orang menikmatinya.",
-                  "tagalog": "Ang sarap-sarap ng lahat."
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "Michael:",
-                  "id": "Michael:"
-                },
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "Pakikuha mo naman ang menu para sa dessert.",
-                  "id": "Tolong dapatkan menu untuk dissert.",
-                  "tagalog": "Pakikuha mo naman ang menu para sa dessert."
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "Weyter:",
-                  "id": "Weyter:"
-                },
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "Heto po, sir.",
-                  "id": "Ini dia, my.",
-                  "tagalog": "Heto po, sir."
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "Michael:",
-                  "id": "Michael:"
-                },
-                {
-                  "sourceLanguage": "en",
-                  "sourceText": "Salamat, ha. (Looks at the menu.)",
-                  "id": "Salamat, ha. (Lihat menu.)"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "Weyter:",
-                  "id": "Weyter:"
-                },
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "May gusto po ba kayo?",
-                  "id": "Kau ingin sesuatu?",
-                  "tagalog": "May gusto po ba kayo?"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "Sandra:",
-                  "id": "Sandra:"
-                },
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "Wala na. Busog na busog na kami. Pakidala mo na lang ang tsit namin.",
-                  "id": "Tidak, kami sudah kenyang, tolong bawa tenda kami bersamamu.",
-                  "tagalog": "Wala na. Busog na busog na kami. Pakidala mo na lang ang tsit namin."
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "Weyter:",
-                  "id": "Weyter:"
-                },
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "O sige po.",
-                  "id": "Oke.",
-                  "tagalog": "O sige po."
-                }
-              ]
             }
           ]
         },
         {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "mixed",
-            "sourceText": "Dialogue Comprehension",
-            "id": "Pemahaman Dialog"
-          }
-        },
+          "type": "dialogue",
+          "turns": [
+            {
+              "speaker": "Weyter",
+              "speakerText": {
+                "sourceLanguage": "mixed",
+                "sourceText": "Weyter:",
+                "id": "Weyter:"
+              },
+              "text": {
+                "sourceLanguage": "fil",
+                "sourceText": "Heto na po ang order ninyo.",
+                "id": "Ini pesananmu.",
+                "tagalog": "Heto na po ang order ninyo."
+              }
+            },
+            {
+              "speaker": "Michael",
+              "speakerText": {
+                "sourceLanguage": "mixed",
+                "sourceText": "Michael:",
+                "id": "Michael:"
+              },
+              "text": {
+                "sourceLanguage": "fil",
+                "sourceText": "Salamat.",
+                "id": "Terima kasih.",
+                "tagalog": "Salamat."
+              }
+            },
+            {
+              "speaker": "Weyter",
+              "speakerText": {
+                "sourceLanguage": "mixed",
+                "sourceText": "Weyter:",
+                "id": "Weyter:"
+              },
+              "text": {
+                "sourceLanguage": "fil",
+                "sourceText": "Kumusta po ang pagkain?",
+                "id": "Bagaimana dengan makanan?",
+                "tagalog": "Kumusta po ang pagkain?"
+              }
+            },
+            {
+              "speaker": "Sandra",
+              "speakerText": {
+                "sourceLanguage": "mixed",
+                "sourceText": "Sandra:",
+                "id": "Sandra:"
+              },
+              "text": {
+                "sourceLanguage": "fil",
+                "sourceText": "Ang sarap-sarap ng lahat.",
+                "id": "Semua orang menikmatinya.",
+                "tagalog": "Ang sarap-sarap ng lahat."
+              }
+            },
+            {
+              "speaker": "Michael",
+              "speakerText": {
+                "sourceLanguage": "mixed",
+                "sourceText": "Michael:",
+                "id": "Michael:"
+              },
+              "text": {
+                "sourceLanguage": "fil",
+                "sourceText": "Pakikuha mo naman ang menu para sa dessert.",
+                "id": "Tolong dapatkan menu untuk dissert.",
+                "tagalog": "Pakikuha mo naman ang menu para sa dessert."
+              }
+            },
+            {
+              "speaker": "Weyter",
+              "speakerText": {
+                "sourceLanguage": "mixed",
+                "sourceText": "Weyter:",
+                "id": "Weyter:"
+              },
+              "text": {
+                "sourceLanguage": "fil",
+                "sourceText": "Heto po, sir.",
+                "id": "Ini dia, my.",
+                "tagalog": "Heto po, sir."
+              }
+            },
+            {
+              "speaker": "Michael",
+              "speakerText": {
+                "sourceLanguage": "mixed",
+                "sourceText": "Michael:",
+                "id": "Michael:"
+              },
+              "text": {
+                "sourceLanguage": "en",
+                "sourceText": "Salamat, ha. (Looks at the menu.)",
+                "id": "Salamat, ha. (Lihat menu.)",
+                "tagalog": "Salamat, ha."
+              }
+            },
+            {
+              "speaker": "Weyter",
+              "speakerText": {
+                "sourceLanguage": "mixed",
+                "sourceText": "Weyter:",
+                "id": "Weyter:"
+              },
+              "text": {
+                "sourceLanguage": "fil",
+                "sourceText": "May gusto po ba kayo?",
+                "id": "Kau ingin sesuatu?",
+                "tagalog": "May gusto po ba kayo?"
+              }
+            },
+            {
+              "speaker": "Sandra",
+              "speakerText": {
+                "sourceLanguage": "mixed",
+                "sourceText": "Sandra:",
+                "id": "Sandra:"
+              },
+              "text": {
+                "sourceLanguage": "fil",
+                "sourceText": "Wala na. Busog na busog na kami. Pakidala mo na lang ang tsit namin.",
+                "id": "Tidak, kami sudah kenyang, tolong bawa tenda kami bersamamu.",
+                "tagalog": "Wala na. Busog na busog na kami. Pakidala mo na lang ang tsit namin."
+              }
+            },
+            {
+              "speaker": "Weyter",
+              "speakerText": {
+                "sourceLanguage": "mixed",
+                "sourceText": "Weyter:",
+                "id": "Weyter:"
+              },
+              "text": {
+                "sourceLanguage": "fil",
+                "sourceText": "O sige po.",
+                "id": "Oke.",
+                "tagalog": "O sige po."
+              }
+            }
+          ]
+        }
+      ],
+      "id": "lesson-17-03-dialogue-pagkain-sa-isang-restawran-eating-at-a-"
+    },
+    {
+      "type": "EXERCISES",
+      "title": {
+        "sourceLanguage": "mixed",
+        "sourceText": "Dialogue Comprehension",
+        "id": "Pemahaman Dialog"
+      },
+      "blocks": [
         {
-          "type": "table",
+          "type": "exercise",
+          "role": "worksheet",
           "rows": [
             {
               "cells": [
@@ -2231,38 +2091,20 @@
             }
           ]
         }
-      ]
+      ],
+      "id": "lesson-17-04-dialogue-comprehension"
     },
     {
-      "id": "lesson-17-activities",
-      "type": "ACTIVITY",
+      "type": "EXERCISES",
       "title": {
         "sourceLanguage": "mixed",
-        "sourceText": "Activities",
-        "id": "Aktivitas"
+        "sourceText": "Activity 1",
+        "id": "Aktivitas 1"
       },
       "blocks": [
         {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "mixed",
-            "sourceText": "Activities",
-            "id": "Aktivitas"
-          }
-        },
-        {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "mixed",
-            "sourceText": "Activity 1",
-            "id": "Aktivitas 1"
-          }
-        },
-        {
-          "type": "text",
-          "style": "body",
+          "type": "exercise",
+          "role": "instruction",
           "text": {
             "sourceLanguage": "en",
             "sourceText": "Look over the list of Filipino foods and drinks in the table below. Using complete sentences, state the foods that you like or might like and why. The example below can serve as a model for your sentences.",
@@ -2270,8 +2112,8 @@
           }
         },
         {
-          "type": "text",
-          "style": "body",
+          "type": "exercise",
+          "role": "content",
           "text": {
             "sourceLanguage": "mixed",
             "sourceText": "EXAMPLE:",
@@ -2279,8 +2121,8 @@
           }
         },
         {
-          "type": "text",
-          "style": "body",
+          "type": "exercise",
+          "role": "content",
           "text": {
             "sourceLanguage": "fil",
             "sourceText": "S1: Gusto ko ng adobo kasi masarap ito. Nagluluto ang nanay ko ng adobo lagi at tuwing kumakain ako ng adobo naaalala ko ang pamilya ko.",
@@ -2289,7 +2131,8 @@
           }
         },
         {
-          "type": "table",
+          "type": "exercise",
+          "role": "worksheet",
           "rows": [
             {
               "cells": [
@@ -2334,19 +2177,21 @@
               ]
             }
           ]
-        },
+        }
+      ],
+      "id": "lesson-17-05-activity-1"
+    },
+    {
+      "type": "EXERCISES",
+      "title": {
+        "sourceLanguage": "mixed",
+        "sourceText": "Activity 2",
+        "id": "Aktivitas 2"
+      },
+      "blocks": [
         {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "mixed",
-            "sourceText": "Activity 2",
-            "id": "Aktivitas 2"
-          }
-        },
-        {
-          "type": "text",
-          "style": "body",
+          "type": "exercise",
+          "role": "content",
           "text": {
             "sourceLanguage": "en",
             "sourceText": "Step 1: Answer the following questions as they pertain to you. Complete the chart with your responses.",
@@ -2354,7 +2199,8 @@
           }
         },
         {
-          "type": "table",
+          "type": "exercise",
+          "role": "worksheet",
           "rows": [
             {
               "cells": [
@@ -2426,8 +2272,8 @@
           ]
         },
         {
-          "type": "text",
-          "style": "body",
+          "type": "exercise",
+          "role": "content",
           "text": {
             "sourceLanguage": "en",
             "sourceText": "Step 2: Interview three of your classmates using the questions below. List their names and record their responses in the table below.",
@@ -2435,7 +2281,8 @@
           }
         },
         {
-          "type": "table",
+          "type": "exercise",
+          "role": "worksheet",
           "rows": [
             {
               "cells": [
@@ -2500,8 +2347,8 @@
           ]
         },
         {
-          "type": "text",
-          "style": "body",
+          "type": "exercise",
+          "role": "content",
           "text": {
             "sourceLanguage": "en",
             "sourceText": "Step 3: Based on the information that you have gathered, write a short paragraph about each one of the three classmates you interviewed. The example below can serve to model your paragraph.",
@@ -2509,8 +2356,8 @@
           }
         },
         {
-          "type": "text",
-          "style": "body",
+          "type": "exercise",
+          "role": "question",
           "text": {
             "sourceLanguage": "fil",
             "sourceText": "1. Gustong kumain ni Bogart sa labas. ‘Italiannis’ ang paborito niyang restawran. Gusto niyang orderin ang manok at pasta doon. Kumakain siya sa labas nang dalawang beses sa isang linggo.",
@@ -2519,8 +2366,8 @@
           }
         },
         {
-          "type": "text",
-          "style": "body",
+          "type": "exercise",
+          "role": "question",
           "text": {
             "sourceLanguage": "mixed",
             "sourceText": "2. ____________________________________________________",
@@ -2528,35 +2375,8 @@
           }
         },
         {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "mixed",
-            "sourceText": "____________________________________________________",
-            "id": "____________________________________________________"
-          }
-        },
-        {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "mixed",
-            "sourceText": "____________________________________________________",
-            "id": "____________________________________________________"
-          }
-        },
-        {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "mixed",
-            "sourceText": "____________________________________________________",
-            "id": "____________________________________________________"
-          }
-        },
-        {
-          "type": "text",
-          "style": "body",
+          "type": "exercise",
+          "role": "question",
           "text": {
             "sourceLanguage": "mixed",
             "sourceText": "3. ____________________________________________________",
@@ -2564,80 +2384,28 @@
           }
         },
         {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "mixed",
-            "sourceText": "____________________________________________________",
-            "id": "____________________________________________________"
-          }
-        },
-        {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "mixed",
-            "sourceText": "____________________________________________________",
-            "id": "____________________________________________________"
-          }
-        },
-        {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "mixed",
-            "sourceText": "____________________________________________________",
-            "id": "____________________________________________________"
-          }
-        },
-        {
-          "type": "text",
-          "style": "body",
+          "type": "exercise",
+          "role": "question",
           "text": {
             "sourceLanguage": "mixed",
             "sourceText": "4. ____________________________________________________",
             "id": "4. ____________________________________________________"
           }
-        },
+        }
+      ],
+      "id": "lesson-17-06-activity-2"
+    },
+    {
+      "type": "EXERCISES",
+      "title": {
+        "sourceLanguage": "mixed",
+        "sourceText": "Activity 3",
+        "id": "Aktivitas 3"
+      },
+      "blocks": [
         {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "mixed",
-            "sourceText": "____________________________________________________",
-            "id": "____________________________________________________"
-          }
-        },
-        {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "mixed",
-            "sourceText": "____________________________________________________",
-            "id": "____________________________________________________"
-          }
-        },
-        {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "mixed",
-            "sourceText": "____________________________________________________",
-            "id": "____________________________________________________"
-          }
-        },
-        {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "mixed",
-            "sourceText": "Activity 3",
-            "id": "Aktivitas 3"
-          }
-        },
-        {
-          "type": "text",
-          "style": "body",
+          "type": "exercise",
+          "role": "content",
           "text": {
             "sourceLanguage": "en",
             "sourceText": "In groups of three or four, write a dialogue that corresponds to one of the following prompts. Be sure to use paki- in your dialogue. For the usage of paki-, refer to the dialogue on Pagkain sa Isang Restawran. Incorporate the lines provided below in your dialogue.",
@@ -2649,8 +2417,8 @@
           "path": "assets/280.jpg"
         },
         {
-          "type": "text",
-          "style": "body",
+          "type": "exercise",
+          "role": "content",
           "text": {
             "sourceLanguage": "fil",
             "sourceText": "a. Kumuha ng mesa para sa apat. Humingi ng menu at umorder ng mga pagkain.",
@@ -2659,116 +2427,26 @@
           }
         },
         {
-          "type": "text",
-          "style": "body",
+          "type": "exercise",
+          "role": "content",
           "text": {
             "sourceLanguage": "fil",
             "sourceText": "b. May problema sa pagkain mo; malamig na ang inorder mong soup. Sabihin mo sa weyter na ayaw mo ito at gusto mong initin ng weyter ang order mo.",
             "id": "B. Anda memiliki gangguan makan, Anda memesan babyup dingin, biarkan pelayan tahu Anda tidak menyukainya dan Anda ingin pelayan untuk panas pesanan Anda.",
             "tagalog": "b. May problema sa pagkain mo; malamig na ang inorder mong soup. Sabihin mo sa weyter na ayaw mo ito at gusto mong initin ng weyter ang order mo."
           }
-        },
-        {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "mixed",
-            "sourceText": "____________________________________________________",
-            "id": "____________________________________________________"
-          }
-        },
-        {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "mixed",
-            "sourceText": "____________________________________________________",
-            "id": "____________________________________________________"
-          }
-        },
-        {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "mixed",
-            "sourceText": "____________________________________________________",
-            "id": "____________________________________________________"
-          }
-        },
-        {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "mixed",
-            "sourceText": "____________________________________________________",
-            "id": "____________________________________________________"
-          }
-        },
-        {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "mixed",
-            "sourceText": "____________________________________________________",
-            "id": "____________________________________________________"
-          }
-        },
-        {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "mixed",
-            "sourceText": "____________________________________________________",
-            "id": "____________________________________________________"
-          }
-        },
-        {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "mixed",
-            "sourceText": "____________________________________________________",
-            "id": "____________________________________________________"
-          }
-        },
-        {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "mixed",
-            "sourceText": "____________________________________________________",
-            "id": "____________________________________________________"
-          }
         }
-      ]
+      ],
+      "id": "lesson-17-07-activity-3"
     },
     {
-      "id": "lesson-17-grammar",
-      "type": "GRAMMAR",
+      "type": "LEARNING_MATERIAL",
       "title": {
         "sourceLanguage": "mixed",
-        "sourceText": "Grammar",
-        "id": "Tata Bahasa"
+        "sourceText": "Definition of Terms",
+        "id": "Definisi Istilah"
       },
       "blocks": [
-        {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "mixed",
-            "sourceText": "Grammar",
-            "id": "Tata Bahasa"
-          }
-        },
-        {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "mixed",
-            "sourceText": "Definition of Terms",
-            "id": "Definisi Istilah"
-          }
-        },
         {
           "type": "table",
           "rows": [
@@ -2805,7 +2483,8 @@
                 {
                   "sourceLanguage": "mixed",
                   "sourceText": "-In Verbs",
-                  "id": "- Di Verbs"
+                  "id": "- Di Verbs",
+                  "tagalog": "-In Verbs -In"
                 },
                 {
                   "sourceLanguage": "en",
@@ -2856,17 +2535,20 @@
                 }
               ]
             }
-          ]
-        },
-        {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "mixed",
-            "sourceText": "Examining Form",
-            "id": "Mengkaji Bentuk"
-          }
-        },
+          ],
+          "role": "reference"
+        }
+      ],
+      "id": "lesson-17-08-definition-of-terms"
+    },
+    {
+      "type": "LEARNING_MATERIAL",
+      "title": {
+        "sourceLanguage": "mixed",
+        "sourceText": "Examining Form",
+        "id": "Menganalisis Bentuk"
+      },
+      "blocks": [
         {
           "type": "text",
           "style": "body",
@@ -2957,7 +2639,8 @@
                 }
               ]
             }
-          ]
+          ],
+          "role": "reference"
         },
         {
           "type": "text",
@@ -2985,16 +2668,18 @@
             "sourceText": "c. List all the differences in structure in column A and column B.",
             "id": "daftar semua perbedaan dalam struktur kolom A dan kolom B"
           }
-        },
-        {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "en",
-            "sourceText": "I. Different Ways to Say “Please”",
-            "id": "I. Cara yang berbeda untuk mengatakan \"Tolong\""
-          }
-        },
+        }
+      ],
+      "id": "lesson-17-09-examining-form"
+    },
+    {
+      "type": "LEARNING_MATERIAL",
+      "title": {
+        "sourceLanguage": "en",
+        "sourceText": "I. Different Ways to Say “Please”",
+        "id": "I. Cara yang berbeda untuk mengatakan \"Tolong\""
+      },
+      "blocks": [
         {
           "type": "text",
           "style": "body",
@@ -3052,26 +2737,40 @@
             "sourceText": "In this first form, naman is not obligatory, and that is why it is inside the parenthesis above. This structure is normally used when there is an object in the sentence. Unlike the verbs that were introduced in the previous lessons, such as mag-, -um-, and ma-, the verbal affix paki- requires an ang phrase to mark its object and ng phrase to mark its actor.",
             "id": "Dalam bentuk pertama ini, naman tidak wajib, dan itulah mengapa ada di dalam tanda kurung di atas. struktur ini biasanya digunakan ketika ada obyek dalam kalimat. Tidak seperti kata kerja yang diperkenalkan dalam pelajaran sebelumnya, seperti mag-, -um-, dan ma-, verbal affix paki- membutuhkan sebuah frase ang untuk menandai objek dan frase ng untuk menandai aktor."
           }
-        },
+        }
+      ],
+      "id": "lesson-17-10-i-different-ways-to-say-please"
+    },
+    {
+      "type": "EXAMPLES",
+      "title": {
+        "sourceLanguage": "mixed",
+        "sourceText": "EXAMPLE",
+        "id": "Contoh"
+      },
+      "blocks": [
         {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "mixed",
-            "sourceText": "EXAMPLE",
-            "id": "EXAMPLE"
-          }
-        },
-        {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "fil",
-            "sourceText": "Paki- + kuha (get) + naman ang bag ko. Please/ Kindly get my bag.",
-            "id": "Tolong foto + (dapatkan) + tasku. Tolong / Tolong ambilkan tasku.",
-            "tagalog": "Paki- + kuha (get) + naman ang bag ko. Please/ Kindly get my bag."
-          }
-        },
+          "type": "example",
+          "items": [
+            {
+              "sourceLanguage": "fil",
+              "sourceText": "Paki- + kuha (get) + naman ang bag ko. Please/ Kindly get my bag.",
+              "id": "Tolong foto + (dapatkan) + tasku. Tolong / Tolong ambilkan tasku.",
+              "tagalog": "Paki- + kuha (get) + naman ang bag ko. Please/ Kindly get my bag."
+            }
+          ]
+        }
+      ],
+      "id": "lesson-17-11-example"
+    },
+    {
+      "type": "LEARNING_MATERIAL",
+      "title": {
+        "sourceLanguage": "en",
+        "sourceText": "I. Different Ways to Say “Please”",
+        "id": "I. Cara yang berbeda untuk mengatakan \"Tolong\""
+      },
+      "blocks": [
         {
           "type": "text",
           "style": "body",
@@ -3099,36 +2798,51 @@
             "sourceText": "Simply using naman or nga in imperative sentences makes the command more polite, depending on the intonation or how the statement is delivered. Naman/nga can be used for both transitive and intransitive verbs. However, when the verb is intransitive, i.e. does not take an object, naman and nga is preferable.",
             "id": "Hanya menggunakan naman atau nga dalam kalimat yang penting membuat perintah lebih sopan, tergantung pada intonasi atau bagaimana pernyataan disampaikan. Naman / nga dapat digunakan untuk baik verb transitif dan tidak tertransitif. Namun, ketika kata kerja intransitif, yaitu tidak mengambil objek, naman dan nga lebih disukai."
           }
+        }
+      ],
+      "id": "lesson-17-12-i-different-ways-to-say-please-2"
+    },
+    {
+      "type": "EXAMPLES",
+      "title": {
+        "sourceLanguage": "mixed",
+        "sourceText": "EXAMPLES:",
+        "id": "Contoh"
+      },
+      "blocks": [
+        {
+          "type": "example",
+          "items": [
+            {
+              "sourceLanguage": "fil",
+              "sourceText": "Maglinis ka ng kusina. Clean the kitchen.",
+              "id": "Bersihkan dapur, bersihkan dapur.",
+              "tagalog": "Maglinis ka ng kusina. Clean the kitchen."
+            }
+          ]
         },
         {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "mixed",
-            "sourceText": "EXAMPLES:",
-            "id": "EXAMPLES:"
-          }
-        },
-        {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "fil",
-            "sourceText": "Maglinis ka ng kusina. Clean the kitchen.",
-            "id": "Bersihkan dapur, bersihkan dapur.",
-            "tagalog": "Maglinis ka ng kusina. Clean the kitchen."
-          }
-        },
-        {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "fil",
-            "sourceText": "Maglinis ka naman ng kusina. Kindly/Please clean the kitchen.",
-            "id": "Bersihkan dapur. / Tolong bersihkan dapurnya.",
-            "tagalog": "Maglinis ka naman ng kusina. Kindly/Please clean the kitchen."
-          }
-        },
+          "type": "example",
+          "items": [
+            {
+              "sourceLanguage": "fil",
+              "sourceText": "Maglinis ka naman ng kusina. Kindly/Please clean the kitchen.",
+              "id": "Bersihkan dapur. / Tolong bersihkan dapurnya.",
+              "tagalog": "Maglinis ka naman ng kusina. Kindly/Please clean the kitchen."
+            }
+          ]
+        }
+      ],
+      "id": "lesson-17-13-examples"
+    },
+    {
+      "type": "LEARNING_MATERIAL",
+      "title": {
+        "sourceLanguage": "en",
+        "sourceText": "I. Different Ways to Say “Please”",
+        "id": "I. Cara yang berbeda untuk mengatakan \"Tolong\""
+      },
+      "blocks": [
         {
           "type": "text",
           "style": "body",
@@ -3176,44 +2890,51 @@
             "sourceText": "Unlike the first and second structures, this construction is used when there is no action word in the sentence. Normally, nga is employed when the speaker wants someone to give him or her something. This is handy when buying goods at a sari-sari store or at a food court.",
             "id": "Tidak seperti struktur pertama dan kedua, konstruksi ini digunakan ketika tidak ada kata aksi dalam kalian. biasanya, nga dipekerjakan ketika pembicara ingin seseorang untuk memberinya atau sesuatu."
           }
+        }
+      ],
+      "id": "lesson-17-14-i-different-ways-to-say-please-3"
+    },
+    {
+      "type": "EXAMPLES",
+      "title": {
+        "sourceLanguage": "mixed",
+        "sourceText": "EXAMPLES:",
+        "id": "Contoh"
+      },
+      "blocks": [
+        {
+          "type": "example",
+          "items": [
+            {
+              "sourceLanguage": "mixed",
+              "sourceText": "Coke nga ho. One Coke please, sir/madam.",
+              "id": "Tolong satu Cola, Pak / Nyonya.",
+              "tagalog": "Coke nga ho."
+            }
+          ]
         },
         {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "mixed",
-            "sourceText": "EXAMPLES:",
-            "id": "EXAMPLES:"
-          }
-        },
-        {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "mixed",
-            "sourceText": "Coke nga ho. One Coke please, sir/madam.",
-            "id": "Tolong satu Cola, Pak / Nyonya.",
-            "tagalog": "Coke nga ho."
-          }
-        },
-        {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "en",
-            "sourceText": "Dalawang order ng pansit nga ho. Two orders of pancit please, sir/madam.",
-            "id": "Dua pesanan pansit, Pak / Madam."
-          }
-        },
-        {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "mixed",
-            "sourceText": "Grammar Presentation",
-            "id": "Penyajian Tata Bahasa"
-          }
-        },
+          "type": "example",
+          "items": [
+            {
+              "sourceLanguage": "en",
+              "sourceText": "Dalawang order ng pansit nga ho. Two orders of pancit please, sir/madam.",
+              "id": "Dua pesanan pansit, Pak / Madam.",
+              "tagalog": "Dalawang order ng pansit nga ho."
+            }
+          ]
+        }
+      ],
+      "id": "lesson-17-15-examples-2"
+    },
+    {
+      "type": "LEARNING_MATERIAL",
+      "title": {
+        "sourceLanguage": "mixed",
+        "sourceText": "Grammar Presentation",
+        "id": "Penyajian Tata Bahasa"
+      },
+      "blocks": [
         {
           "type": "text",
           "style": "body",
@@ -3398,7 +3119,8 @@
                 }
               ]
             }
-          ]
+          ],
+          "role": "reference"
         },
         {
           "type": "text",
@@ -3437,46 +3159,62 @@
             "sourceText": "Here are more examples of request sentences with the enclitics po and naman.",
             "id": "Berikut ini lebih banyak contoh dari permintaan kalimat dengan po enclitics dan naman."
           }
+        }
+      ],
+      "id": "lesson-17-16-grammar-presentation"
+    },
+    {
+      "type": "EXAMPLES",
+      "title": {
+        "sourceLanguage": "mixed",
+        "sourceText": "EXAMPLES:",
+        "id": "Contoh"
+      },
+      "blocks": [
+        {
+          "type": "example",
+          "items": [
+            {
+              "sourceLanguage": "fil",
+              "sourceText": "Nanay, pakihingi naman po ang menu sa weyter. Mom, please ask for the menu from the waiter.",
+              "id": "Bu, minta menu untuk pelayan.",
+              "tagalog": "Nanay, pakihingi naman po ang menu sa weyter. Mom, please ask for the menu from the waiter."
+            }
+          ]
         },
         {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "mixed",
-            "sourceText": "EXAMPLES:",
-            "id": "EXAMPLES:"
-          }
+          "type": "example",
+          "items": [
+            {
+              "sourceLanguage": "fil",
+              "sourceText": "Weyter, pakilinis mo naman ang mesa namin. Waiter, please clean our table.",
+              "id": "Weyter, kau bersihkan meja kami pelayan, tolong meja film.",
+              "tagalog": "Weyter, pakilinis mo naman ang mesa namin. Waiter, please clean our table."
+            }
+          ]
         },
         {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "fil",
-            "sourceText": "Nanay, pakihingi naman po ang menu sa weyter. Mom, please ask for the menu from the waiter.",
-            "id": "Bu, minta menu untuk pelayan.",
-            "tagalog": "Nanay, pakihingi naman po ang menu sa weyter. Mom, please ask for the menu from the waiter."
-          }
-        },
-        {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "fil",
-            "sourceText": "Weyter, pakilinis mo naman ang mesa namin. Waiter, please clean our table.",
-            "id": "Weyter, kau bersihkan meja kami pelayan, tolong meja film.",
-            "tagalog": "Weyter, pakilinis mo naman ang mesa namin. Waiter, please clean our table."
-          }
-        },
-        {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "fil",
-            "sourceText": "Pakitawag mo naman ang weyter natin. Please call our (inclusive) waiter.",
-            "id": "Tolong hubungi pelayan kami.",
-            "tagalog": "Pakitawag mo naman ang weyter natin. Please call our (inclusive) waiter."
-          }
-        },
+          "type": "example",
+          "items": [
+            {
+              "sourceLanguage": "fil",
+              "sourceText": "Pakitawag mo naman ang weyter natin. Please call our (inclusive) waiter.",
+              "id": "Tolong hubungi pelayan kami.",
+              "tagalog": "Pakitawag mo naman ang weyter natin. Please call our (inclusive) waiter."
+            }
+          ]
+        }
+      ],
+      "id": "lesson-17-17-examples-3"
+    },
+    {
+      "type": "LEARNING_MATERIAL",
+      "title": {
+        "sourceLanguage": "mixed",
+        "sourceText": "Grammar Presentation",
+        "id": "Penyajian Tata Bahasa"
+      },
+      "blocks": [
         {
           "type": "text",
           "style": "body",
@@ -3687,47 +3425,64 @@
                 }
               ]
             }
+          ],
+          "role": "reference"
+        }
+      ],
+      "id": "lesson-17-18-grammar-presentation-2"
+    },
+    {
+      "type": "EXAMPLES",
+      "title": {
+        "sourceLanguage": "mixed",
+        "sourceText": "EXAMPLES:",
+        "id": "Contoh"
+      },
+      "blocks": [
+        {
+          "type": "example",
+          "items": [
+            {
+              "sourceLanguage": "fil",
+              "sourceText": "Bumili ka naman ng manok. Please buy chicken.",
+              "id": "Beli ayam, tolong ayam.",
+              "tagalog": "Bumili ka naman ng manok. Please buy chicken."
+            }
           ]
         },
         {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "mixed",
-            "sourceText": "EXAMPLES:",
-            "id": "EXAMPLES:"
-          }
+          "type": "example",
+          "items": [
+            {
+              "sourceLanguage": "fil",
+              "sourceText": "Magdala ka nga ng tubig sa amin. Please bring us some water.",
+              "id": "Ambil air bersama kami, Tolong bawa air Yme.",
+              "tagalog": "Magdala ka nga ng tubig sa amin. Please bring us some water."
+            }
+          ]
         },
         {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "fil",
-            "sourceText": "Bumili ka naman ng manok. Please buy chicken.",
-            "id": "Beli ayam, tolong ayam.",
-            "tagalog": "Bumili ka naman ng manok. Please buy chicken."
-          }
-        },
-        {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "fil",
-            "sourceText": "Magdala ka nga ng tubig sa amin. Please bring us some water.",
-            "id": "Ambil air bersama kami, Tolong bawa air Yme.",
-            "tagalog": "Magdala ka nga ng tubig sa amin. Please bring us some water."
-          }
-        },
-        {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "fil",
-            "sourceText": "Mag-abot ka naman sa kanila ng pagkain. Please hand them over some food.",
-            "id": "Ambil makanan untuk mereka.",
-            "tagalog": "Mag-abot ka naman sa kanila ng pagkain. Please hand them over some food."
-          }
-        },
+          "type": "example",
+          "items": [
+            {
+              "sourceLanguage": "fil",
+              "sourceText": "Mag-abot ka naman sa kanila ng pagkain. Please hand them over some food.",
+              "id": "Ambil makanan untuk mereka.",
+              "tagalog": "Mag-abot ka naman sa kanila ng pagkain. Please hand them over some food."
+            }
+          ]
+        }
+      ],
+      "id": "lesson-17-19-examples-4"
+    },
+    {
+      "type": "LEARNING_MATERIAL",
+      "title": {
+        "sourceLanguage": "mixed",
+        "sourceText": "Grammar Presentation",
+        "id": "Penyajian Tata Bahasa"
+      },
+      "blocks": [
         {
           "type": "text",
           "style": "body",
@@ -3804,7 +3559,8 @@
                 }
               ]
             }
-          ]
+          ],
+          "role": "reference"
         },
         {
           "type": "text",
@@ -3812,7 +3568,8 @@
           "text": {
             "sourceLanguage": "en",
             "sourceText": "EXAMPLES: Kendi nga po. I want some candy, please.",
-            "id": "Aku mau permen."
+            "id": "Aku mau permen.",
+            "tagalog": "Kendi nga po."
           }
         },
         {
@@ -3834,16 +3591,18 @@
             "id": "Lima ayam intes, tolong.",
             "tagalog": "Lima nga pong isaw. Five chicken intestines, please."
           }
-        },
-        {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "mixed",
-            "sourceText": "Grammar Notes",
-            "id": "Catatan Tata Bahasa"
-          }
-        },
+        }
+      ],
+      "id": "lesson-17-20-grammar-presentation-3"
+    },
+    {
+      "type": "LEARNING_MATERIAL",
+      "title": {
+        "sourceLanguage": "mixed",
+        "sourceText": "Grammar Notes",
+        "id": "Catatan Tata Bahasa"
+      },
+      "blocks": [
         {
           "type": "table",
           "rows": [
@@ -3852,7 +3611,8 @@
                 {
                   "sourceLanguage": "en",
                   "sourceText": "1. The verb paki- is object-focus; this means its object is the topic of the sentence and is in the ang form: an ang phrase or an ang pronoun.\n\nPakiinom mo ang gatas. Please drink the milk.\n\nPakibigay mo ang tsit sa akin. Please give me the bill.\n\nPakisundo siya sa palengke. Kindly pick him/her up at the market.",
-                  "id": "Paki- kata kerja adalah objektif, ini berarti objek adalah topik dari kalimat dan dalam bentuk ang: sebuah frase ang atau sebuah kata ganti. Pakistan mo ang gatas Silakan minum susu. Pakistan mo ang tsit sa akin. Pakisundo siya sa palengke."
+                  "id": "Paki- kata kerja adalah objektif, ini berarti objek adalah topik dari kalimat dan dalam bentuk ang: sebuah frase ang atau sebuah kata ganti. Pakistan mo ang gatas Silakan minum susu. Pakistan mo ang tsit sa akin. Pakisundo siya sa palengke.",
+                  "tagalog": "paki- ang Pakiinom mo ang gatas . Pakibigay mo ang tsit sa akin. Pakisundo siya sa palengke."
                 }
               ]
             },
@@ -3891,7 +3651,8 @@
                 {
                   "sourceLanguage": "en",
                   "sourceText": "5. Paki- can be combined with the enclitic naman or nga. Doing so makes the request more polite. The English translation does not capture this nuance in the Tagalog sentence.\n\nPakiinom mo naman ang gatas. Please drink the milk.\n\nPakibigay mo nga ang tsit sa akin. Please give me the bill.",
-                  "id": "5 Pakistan dapat dikombinasikan dengan naman enklitik atau nga. melakukan sehingga membuat permintaan lebih sopan. terjemahan Inggris tidak menangkap nuansa ini dalam kalimat Tagalog. Pakistan mo naman ang gatas Silakan minum susu. Pakistan mo nga ang tsit sa akin."
+                  "id": "5 Pakistan dapat dikombinasikan dengan naman enklitik atau nga. melakukan sehingga membuat permintaan lebih sopan. terjemahan Inggris tidak menangkap nuansa ini dalam kalimat Tagalog. Pakistan mo naman ang gatas Silakan minum susu. Pakistan mo nga ang tsit sa akin.",
+                  "tagalog": "Paki- naman nga Pakiinom mo ang gatas. Pakibigay mo ang tsit sa akin."
                 }
               ]
             },
@@ -3904,40 +3665,23 @@
                 }
               ]
             }
-          ]
+          ],
+          "role": "reference"
         }
-      ]
+      ],
+      "id": "lesson-17-21-grammar-notes"
     },
     {
-      "id": "lesson-17-practice",
-      "type": "PRACTICE",
+      "type": "EXERCISES",
       "title": {
-        "sourceLanguage": "mixed",
-        "sourceText": "Practice",
-        "id": "Latihan"
+        "sourceLanguage": "en",
+        "sourceText": "I. Speaking Practice",
+        "id": "I. Latihan Berbicara"
       },
       "blocks": [
         {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "mixed",
-            "sourceText": "Practice",
-            "id": "Latihan"
-          }
-        },
-        {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "en",
-            "sourceText": "I. Speaking Practice",
-            "id": "I. Latihan Berbicara"
-          }
-        },
-        {
-          "type": "text",
-          "style": "body",
+          "type": "exercise",
+          "role": "instruction",
           "text": {
             "sourceLanguage": "en",
             "sourceText": "Interview three of your classmates and ask them what they ate, drank, or brought with them for breakfast from home. Fill in their responses in the table below. Use the example to model your interview.",
@@ -3945,8 +3689,8 @@
           }
         },
         {
-          "type": "text",
-          "style": "body",
+          "type": "exercise",
+          "role": "question",
           "text": {
             "sourceLanguage": "fil",
             "sourceText": "Student 1: Ano ang kinain mo kaninang umaga at saan?",
@@ -3955,8 +3699,8 @@
           }
         },
         {
-          "type": "text",
-          "style": "body",
+          "type": "exercise",
+          "role": "content",
           "text": {
             "sourceLanguage": "fil",
             "sourceText": "Student 2: Kumain ako ng isang mansanas at yogurt kaninang umaga sa bahay.",
@@ -3965,7 +3709,8 @@
           }
         },
         {
-          "type": "table",
+          "type": "exercise",
+          "role": "worksheet",
           "rows": [
             {
               "cells": [
@@ -4049,17 +3794,18 @@
           ]
         },
         {
-          "type": "text",
-          "style": "body",
+          "type": "exercise",
+          "role": "content",
           "text": {
             "sourceLanguage": "en",
             "sourceText": "Pagbuo ng Pangungusap (Constructing a Sentence)",
-            "id": "Pagbuo ng Pangungugetah (Konstruksi sebuah Kalimat)"
+            "id": "Pagbuo ng Pangungugetah (Konstruksi sebuah Kalimat)",
+            "tagalog": "Pagbuo ng Pangungusap"
           }
         },
         {
-          "type": "text",
-          "style": "body",
+          "type": "exercise",
+          "role": "content",
           "text": {
             "sourceLanguage": "en",
             "sourceText": "Now express in complete sentences what you learned from your classmates. Use the example below to model your sentences. Afterwards, share what you have written with the rest of the class.",
@@ -4067,8 +3813,8 @@
           }
         },
         {
-          "type": "text",
-          "style": "body",
+          "type": "exercise",
+          "role": "question",
           "text": {
             "sourceLanguage": "fil",
             "sourceText": "1. Kaninang umaga, kinain ni Nelson ang sinangag at itlog sa ‘Kwatog,’ ininom niya ang gatas sa bahay at binaon niya ang tinapay sa eskwelahan.",
@@ -4077,8 +3823,8 @@
           }
         },
         {
-          "type": "text",
-          "style": "body",
+          "type": "exercise",
+          "role": "question",
           "text": {
             "sourceLanguage": "mixed",
             "sourceText": "2. ____________________________________________________",
@@ -4086,8 +3832,8 @@
           }
         },
         {
-          "type": "text",
-          "style": "body",
+          "type": "exercise",
+          "role": "question",
           "text": {
             "sourceLanguage": "mixed",
             "sourceText": "3. ____________________________________________________",
@@ -4095,26 +3841,28 @@
           }
         },
         {
-          "type": "text",
-          "style": "body",
+          "type": "exercise",
+          "role": "question",
           "text": {
             "sourceLanguage": "mixed",
             "sourceText": "4. ____________________________________________________",
             "id": "4. ____________________________________________________"
           }
-        },
+        }
+      ],
+      "id": "lesson-17-22-i-speaking-practice"
+    },
+    {
+      "type": "EXERCISES",
+      "title": {
+        "sourceLanguage": "mixed",
+        "sourceText": "II. Reading Practice",
+        "id": "II. Latihan Membaca"
+      },
+      "blocks": [
         {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "mixed",
-            "sourceText": "II. Reading Practice",
-            "id": "II. Latihan Membaca"
-          }
-        },
-        {
-          "type": "text",
-          "style": "body",
+          "type": "exercise",
+          "role": "content",
           "text": {
             "sourceLanguage": "en",
             "sourceText": "Below is a review for a Filipino restaurant. Read the review and answer the Reading Comprehension questions that follow.",
@@ -4126,8 +3874,8 @@
           "path": "assets/286.jpg"
         },
         {
-          "type": "text",
-          "style": "body",
+          "type": "exercise",
+          "role": "content",
           "text": {
             "sourceLanguage": "fil",
             "sourceText": "Kamay Kainan: Ang Paborito Ko Mula Noon Hanggang Ngayon",
@@ -4136,8 +3884,8 @@
           }
         },
         {
-          "type": "text",
-          "style": "body",
+          "type": "exercise",
+          "role": "content",
           "text": {
             "sourceLanguage": "fil",
             "sourceText": "Isa sa mga paborito kong alaala ay noong nasa kolehiyo ako. Naaalala ko na madalas kaming gumimik at kumain sa labas ng mga kaibigan ko. Isang araw, naisipan naming mag-reunion at nagpasiya kami na kumain sa ‘Kamay Kainan’ sa may Market Market sa Fort Bonifacio. Mayroon silang Php 300.00 na eatall-you-can na may tatlumpung iba’tibang pagkain na pwedeng pagpilian.",
@@ -4146,8 +3894,8 @@
           }
         },
         {
-          "type": "text",
-          "style": "body",
+          "type": "exercise",
+          "role": "content",
           "text": {
             "sourceLanguage": "fil",
             "sourceText": "Karamihan sa mga pagkain doon ay pagkaing Pilipino at sa palagay ko, masarap ang pagkain doon at talagang sulit ang bayad namin. Gusto ko ang lugar na iyon dahil kasinsarap ng luto ng nanay ko ang mga pagkain nila.",
@@ -4156,8 +3904,8 @@
           }
         },
         {
-          "type": "text",
-          "style": "body",
+          "type": "exercise",
+          "role": "content",
           "text": {
             "sourceLanguage": "fil",
             "sourceText": "Ang mga weyter at tagapagluto doon ay mababait at magagalang. Ibinibigay nila ang pinakamabuting serbisyo na pwede nilang ibigay. Lagi silang pumupunta sa mesa namin para alamin kung mayroon kaming kailangan.",
@@ -4166,26 +3914,29 @@
           }
         },
         {
-          "type": "text",
-          "style": "body",
+          "type": "exercise",
+          "role": "content",
           "text": {
             "sourceLanguage": "fil",
             "sourceText": "Talagang inirerekomenda ko ang restawran na ito sa lahat. Mura na, masarap pa, at mayroon pa si-lang magaling na serbisyo.",
             "id": "Aku rekomendasikan restoran ini untuk semua orang. / Mura, ini lezat, dan ada pelayanan yang baik.",
             "tagalog": "Talagang inirerekomenda ko ang restawran na ito sa lahat. Mura na, masarap pa, at mayroon pa si-lang magaling na serbisyo."
           }
-        },
+        }
+      ],
+      "id": "lesson-17-23-ii-reading-practice"
+    },
+    {
+      "type": "EXERCISES",
+      "title": {
+        "sourceLanguage": "mixed",
+        "sourceText": "Reading Comprehension",
+        "id": "Pemahaman Bacaan"
+      },
+      "blocks": [
         {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "mixed",
-            "sourceText": "Reading Comprehension",
-            "id": "Pemahaman Bacaan"
-          }
-        },
-        {
-          "type": "table",
+          "type": "exercise",
+          "role": "worksheet",
           "rows": [
             {
               "cells": [
@@ -4308,19 +4059,21 @@
               ]
             }
           ]
-        },
+        }
+      ],
+      "id": "lesson-17-24-reading-comprehension"
+    },
+    {
+      "type": "EXERCISES",
+      "title": {
+        "sourceLanguage": "mixed",
+        "sourceText": "III. Writing Practice",
+        "id": "III. Latihan Menulis"
+      },
+      "blocks": [
         {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "mixed",
-            "sourceText": "III. Writing Practice",
-            "id": "III. Latihan Menulis"
-          }
-        },
-        {
-          "type": "text",
-          "style": "body",
+          "type": "exercise",
+          "role": "content",
           "text": {
             "sourceLanguage": "en",
             "sourceText": "In the boxes below, write four different requests or questions that one usually makes to a waiter. Be sure to use one of the forms learned in this lesson to say “please.”",
@@ -4328,8 +4081,8 @@
           }
         },
         {
-          "type": "text",
-          "style": "body",
+          "type": "exercise",
+          "role": "content",
           "text": {
             "sourceLanguage": "mixed",
             "sourceText": "EXAMPLES:",
@@ -4337,8 +4090,8 @@
           }
         },
         {
-          "type": "text",
-          "style": "body",
+          "type": "exercise",
+          "role": "content",
           "text": {
             "sourceLanguage": "fil",
             "sourceText": "Kunin mo naman ang menu. Kindly get the menu.",
@@ -4347,8 +4100,8 @@
           }
         },
         {
-          "type": "text",
-          "style": "body",
+          "type": "exercise",
+          "role": "content",
           "text": {
             "sourceLanguage": "fil",
             "sourceText": "Pakikuha mo nga ang menu.",
@@ -4361,8 +4114,8 @@
           "path": "assets/287.jpg"
         },
         {
-          "type": "text",
-          "style": "body",
+          "type": "exercise",
+          "role": "content",
           "text": {
             "sourceLanguage": "en",
             "sourceText": "To Download the audio files, please click here.",
@@ -4372,19 +4125,21 @@
         {
           "type": "image",
           "path": "assets/cd.jpg"
-        },
+        }
+      ],
+      "id": "lesson-17-25-iii-writing-practice"
+    },
+    {
+      "type": "EXERCISES",
+      "title": {
+        "sourceLanguage": "mixed",
+        "sourceText": "IV. Listening Practice",
+        "id": "IV. Latihan Menyimak"
+      },
+      "blocks": [
         {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "mixed",
-            "sourceText": "IV. Listening Practice",
-            "id": "IV. Latihan Menyimak"
-          }
-        },
-        {
-          "type": "text",
-          "style": "body",
+          "type": "exercise",
+          "role": "instruction",
           "text": {
             "sourceLanguage": "en",
             "sourceText": "Using the Bonus Material of the book, listen to audio file (17–2) and complete the box below.",
@@ -4392,7 +4147,8 @@
           }
         },
         {
-          "type": "table",
+          "type": "exercise",
+          "role": "worksheet",
           "rows": [
             {
               "cells": [
@@ -4420,7 +4176,34 @@
             }
           ]
         }
-      ]
+      ],
+      "id": "lesson-17-26-iv-listening-practice"
     }
-  ]
+  ],
+  "structureVersion": 2,
+  "contentAudit": {
+    "sourceTextItemsBefore": 539,
+    "sourceTextItemsAfter": 517,
+    "uniqueSourceItemsPreserved": 421,
+    "duplicateHeadingsRemoved": 4,
+    "blankFragmentsRemoved": 17,
+    "sectionTypes": {
+      "DIALOGUE": 1,
+      "EXAMPLES": 5,
+      "EXERCISES": 9,
+      "INTRODUCTION": 1,
+      "LEARNING_MATERIAL": 9,
+      "VOCABULARY": 1
+    },
+    "blockTypes": {
+      "dialogue": 3,
+      "example": 11,
+      "exercise": 41,
+      "image": 6,
+      "list": 2,
+      "table": 26,
+      "text": 37,
+      "vocabulary": 7
+    }
+  }
 }

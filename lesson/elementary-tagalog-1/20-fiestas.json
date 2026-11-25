@@ -17,12 +17,12 @@
     {
       "sourceLanguage": "en",
       "sourceText": "• Discuss some specific holidays and festivities",
-      "id": "Diskusikan beberapa hari libur tertentu dan perayaan"
+      "id": "• Membahas hari raya dan perayaan tertentu"
     },
     {
       "sourceLanguage": "mixed",
       "sourceText": "• Say dates",
-      "id": "Katakanlah tanggal"
+      "id": "• Menyebutkan tanggal"
     }
   ],
   "source": {
@@ -42,197 +42,144 @@
   ],
   "sections": [
     {
-      "id": "lesson-20-mga-pista",
-      "type": "OVERVIEW",
+      "type": "INTRODUCTION",
       "title": {
-        "sourceLanguage": "mixed",
-        "sourceText": "Mga Pista",
-        "id": "Pesta dan Perayaan"
+        "sourceLanguage": "en",
+        "sourceText": "An Overview of Lesson 20",
+        "id": "Pengantar Pelajaran 20"
       },
       "blocks": [
         {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "en",
-            "sourceText": "An Overview of Lesson 20",
-            "id": "Gambaran Umum Pelajaran 20"
-          }
+          "type": "list",
+          "style": "objectives",
+          "items": [
+            {
+              "sourceLanguage": "en",
+              "sourceText": "• Discuss some specific holidays and festivities",
+              "id": "• Membahas hari raya dan perayaan tertentu"
+            },
+            {
+              "sourceLanguage": "mixed",
+              "sourceText": "• Say dates",
+              "id": "• Menyebutkan tanggal"
+            }
+          ]
         },
         {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "mixed",
-            "sourceText": "Objectives",
-            "id": "Objeksi"
-          }
-        },
-        {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "en",
-            "sourceText": "• Discuss some specific holidays and festivities",
-            "id": "Diskusikan beberapa hari libur tertentu dan perayaan"
-          }
-        },
-        {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "mixed",
-            "sourceText": "• Say dates",
-            "id": "Katakanlah tanggal"
-          }
-        },
-        {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "mixed",
-            "sourceText": "Vocabulary",
-            "id": "Kosakata"
-          }
-        },
-        {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "mixed",
-            "sourceText": "• Nouns",
-            "id": "Nouns"
-          }
-        },
-        {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "mixed",
-            "sourceText": "• Holidays",
-            "id": "Holidays"
-          }
-        },
-        {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "mixed",
-            "sourceText": "• Spanish-Derived Numbers",
-            "id": "Bilangan Spanyol-Bergerigi"
-          }
-        },
-        {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "fil",
-            "sourceText": "• Ipag- Verbs",
-            "id": "Punya% bs",
-            "tagalog": "• Ipag- Verbs"
-          }
-        },
-        {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "fil",
-            "sourceText": "• -An Verbs",
-            "id": "- Sebuah Vebs",
-            "tagalog": "• -An Verbs"
-          }
-        },
-        {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "fil",
-            "sourceText": "• Mang- Verbs",
-            "id": "Lung-Vebs",
-            "tagalog": "• Mang- Verbs"
-          }
-        },
-        {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "en",
-            "sourceText": "• Verbs (-In and I- Object-Focus and Corresponding Mag- and -Um- Actor-Focus)",
-            "id": "Verbs (Dalam dan saya- Object- Fokus dan Korespondensi Mag- dan -Um- Aktor- Fokus)"
-          }
-        },
-        {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "mixed",
-            "sourceText": "Reading Text: Mga Pista Festivals",
-            "id": "Teks Bacaan: Jaman Mga Pista"
-          }
-        },
-        {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "mixed",
-            "sourceText": "Reading Comprehension",
-            "id": "Pemahaman Bacaan"
-          }
-        },
-        {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "mixed",
-            "sourceText": "Activities",
-            "id": "Aktivitas"
-          }
-        },
-        {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "mixed",
-            "sourceText": "Activity 1: Interview",
-            "id": "Aktivitas 1: Wawancara"
-          }
-        },
-        {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "mixed",
-            "sourceText": "Activity 2: Holiday and Festival Calendar",
-            "id": "Aktivitas 2: Liburan dan Kalender Festival"
-          }
-        },
-        {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "fil",
-            "sourceText": "Activity 3: Ano Kaya?",
-            "id": "Aktivitas 3:",
-            "tagalog": "Activity 3: Ano Kaya?"
-          }
-        },
-        {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "mixed",
-            "sourceText": "Grammar",
-            "id": "Tata Bahasa"
-          }
-        },
-        {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "mixed",
-            "sourceText": "Examining Form",
-            "id": "Mengkaji Bentuk"
-          }
+          "type": "list",
+          "style": "outline",
+          "items": [
+            {
+              "sourceLanguage": "mixed",
+              "sourceText": "Vocabulary",
+              "id": "Kosakata"
+            },
+            {
+              "sourceLanguage": "mixed",
+              "sourceText": "• Nouns",
+              "id": "Nouns"
+            },
+            {
+              "sourceLanguage": "mixed",
+              "sourceText": "• Holidays",
+              "id": "Holidays"
+            },
+            {
+              "sourceLanguage": "mixed",
+              "sourceText": "• Spanish-Derived Numbers",
+              "id": "Bilangan Spanyol-Bergerigi"
+            },
+            {
+              "sourceLanguage": "fil",
+              "sourceText": "• Ipag- Verbs",
+              "id": "Punya% bs",
+              "tagalog": "• Ipag- Verbs"
+            },
+            {
+              "sourceLanguage": "fil",
+              "sourceText": "• -An Verbs",
+              "id": "- Sebuah Vebs",
+              "tagalog": "• -An Verbs"
+            },
+            {
+              "sourceLanguage": "fil",
+              "sourceText": "• Mang- Verbs",
+              "id": "Lung-Vebs",
+              "tagalog": "• Mang- Verbs"
+            },
+            {
+              "sourceLanguage": "en",
+              "sourceText": "• Verbs (-In and I- Object-Focus and Corresponding Mag- and -Um- Actor-Focus)",
+              "id": "Verbs (Dalam dan saya- Object- Fokus dan Korespondensi Mag- dan -Um- Aktor- Fokus)",
+              "tagalog": "-In I- Mag- -Um-"
+            },
+            {
+              "sourceLanguage": "mixed",
+              "sourceText": "Reading Text: Mga Pista Festivals",
+              "id": "Teks Bacaan: Jaman Mga Pista"
+            },
+            {
+              "sourceLanguage": "mixed",
+              "sourceText": "Reading Comprehension",
+              "id": "Pemahaman Bacaan"
+            },
+            {
+              "sourceLanguage": "mixed",
+              "sourceText": "Activities",
+              "id": "Aktivitas"
+            },
+            {
+              "sourceLanguage": "mixed",
+              "sourceText": "Activity 1: Interview",
+              "id": "Aktivitas 1: Wawancara"
+            },
+            {
+              "sourceLanguage": "mixed",
+              "sourceText": "Activity 2: Holiday and Festival Calendar",
+              "id": "Aktivitas 2: Liburan dan Kalender Festival"
+            },
+            {
+              "sourceLanguage": "fil",
+              "sourceText": "Activity 3: Ano Kaya?",
+              "id": "Aktivitas 3:",
+              "tagalog": "Activity 3: Ano Kaya?"
+            },
+            {
+              "sourceLanguage": "mixed",
+              "sourceText": "Grammar",
+              "id": "Tata Bahasa"
+            },
+            {
+              "sourceLanguage": "mixed",
+              "sourceText": "Examining Form",
+              "id": "Mengkaji Bentuk"
+            },
+            {
+              "sourceLanguage": "mixed",
+              "sourceText": "Practice",
+              "id": "Latihan"
+            },
+            {
+              "sourceLanguage": "en",
+              "sourceText": "I. Speaking Practice",
+              "id": "I. Latihan Berbicara"
+            },
+            {
+              "sourceLanguage": "mixed",
+              "sourceText": "II. Reading Practice",
+              "id": "II. Latihan Membaca"
+            },
+            {
+              "sourceLanguage": "mixed",
+              "sourceText": "III. Writing Practice",
+              "id": "III. Latihan Menulis"
+            },
+            {
+              "sourceLanguage": "mixed",
+              "sourceText": "IV. Listening Practice",
+              "id": "IV. Latihan Menyimak"
+            }
+          ]
         },
         {
           "type": "table",
@@ -247,7 +194,8 @@
                 {
                   "sourceLanguage": "en",
                   "sourceText": "Incompleted Aspect (-In and I- Verbs)",
-                  "id": "Incomplete Aspek (Dalam dan I - Verbs)"
+                  "id": "Incomplete Aspek (Dalam dan I - Verbs)",
+                  "tagalog": "-In I-"
                 }
               ]
             },
@@ -301,57 +249,13 @@
                 }
               ]
             }
-          ]
-        },
-        {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "mixed",
-            "sourceText": "Practice",
-            "id": "Latihan"
-          }
-        },
-        {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "en",
-            "sourceText": "I. Speaking Practice",
-            "id": "I. Latihan Berbicara"
-          }
-        },
-        {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "mixed",
-            "sourceText": "II. Reading Practice",
-            "id": "II. Latihan Membaca"
-          }
-        },
-        {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "mixed",
-            "sourceText": "III. Writing Practice",
-            "id": "III. Latihan Menulis"
-          }
-        },
-        {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "mixed",
-            "sourceText": "IV. Listening Practice",
-            "id": "IV. Latihan Menyimak"
-          }
+          ],
+          "role": "outline"
         }
-      ]
+      ],
+      "id": "lesson-20-01-an-overview-of-lesson-20"
     },
     {
-      "id": "lesson-20-vocabulary",
       "type": "VOCABULARY",
       "title": {
         "sourceLanguage": "mixed",
@@ -361,7 +265,7 @@
       "blocks": [
         {
           "type": "text",
-          "style": "body",
+          "style": "heading",
           "text": {
             "sourceLanguage": "mixed",
             "sourceText": "Vocabulary (20–1)",
@@ -382,754 +286,659 @@
           }
         },
         {
-          "type": "table",
-          "rows": [
+          "type": "vocabulary",
+          "entries": [
             {
-              "cells": [
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "Nouns",
-                  "id": "Kata benda"
-                }
-              ]
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "bayan",
+                "id": "kota",
+                "tagalog": "bayan"
+              },
+              "meaning": {
+                "sourceLanguage": "mixed",
+                "sourceText": "town",
+                "id": "kota"
+              }
             },
             {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "bayan",
-                  "id": "kota",
-                  "tagalog": "bayan"
-                },
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "town",
-                  "id": "kota"
-                }
-              ]
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "buhay",
+                "id": "hidup",
+                "tagalog": "buhay"
+              },
+              "meaning": {
+                "sourceLanguage": "mixed",
+                "sourceText": "life",
+                "id": "hidup"
+              }
             },
             {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "buhay",
-                  "id": "hidup",
-                  "tagalog": "buhay"
-                },
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "life",
-                  "id": "hidup"
-                }
-              ]
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "kasuotan",
+                "id": "lemari pakaian",
+                "tagalog": "kasuotan"
+              },
+              "meaning": {
+                "sourceLanguage": "mixed",
+                "sourceText": "wardrobe",
+                "id": "lemari pakaian"
+              }
             },
             {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "kasuotan",
-                  "id": "lemari pakaian",
-                  "tagalog": "kasuotan"
-                },
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "wardrobe",
-                  "id": "lemari pakaian"
-                }
-              ]
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "nayon",
+                "id": "desa",
+                "tagalog": "nayon"
+              },
+              "meaning": {
+                "sourceLanguage": "mixed",
+                "sourceText": "village",
+                "id": "desa"
+              }
             },
             {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "nayon",
-                  "id": "desa",
-                  "tagalog": "nayon"
-                },
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "village",
-                  "id": "desa"
-                }
-              ]
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "pagdiriwang",
+                "id": "perayaan / festival",
+                "tagalog": "pagdiriwang"
+              },
+              "meaning": {
+                "sourceLanguage": "mixed",
+                "sourceText": "celebration/festival",
+                "id": "perayaan / festival"
+              }
             },
             {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "pagdiriwang",
-                  "id": "perayaan / festival",
-                  "tagalog": "pagdiriwang"
-                },
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "celebration/festival",
-                  "id": "perayaan / festival"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "parada",
-                  "id": "parade",
-                  "tagalog": "parada"
-                },
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "parade",
-                  "id": "parade"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "Holidays",
-                  "id": "Liburan"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "Araw ng mga Ama",
-                  "id": "Hari Ayah",
-                  "tagalog": "Araw ng mga Ama"
-                },
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "Father’s Day",
-                  "id": "Hari Ayah"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "Araw ng Kalayaan",
-                  "id": "Hari Kemerdekaan",
-                  "tagalog": "Araw ng Kalayaan"
-                },
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "Independence Day",
-                  "id": "Hari Kemerdekaan"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "Araw ng mga",
-                  "id": "National Heroes '",
-                  "tagalog": "Araw ng mga"
-                },
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "National Heroes’",
-                  "id": "National Heroes '"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "Bayani",
-                  "id": "Hari",
-                  "tagalog": "Bayani"
-                },
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "Day",
-                  "id": "Hari"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "Araw ng mga Ina",
-                  "id": "Hari Ibu",
-                  "tagalog": "Araw ng mga Ina"
-                },
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "Mother’s Day",
-                  "id": "Hari Ibu"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "Araw ng Manggagawa",
-                  "id": "Hari Buruh",
-                  "tagalog": "Araw ng Manggagawa"
-                },
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "Labor Day",
-                  "id": "Hari Buruh"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "Araw ng Pasasalamat",
-                  "id": "Hari Thanksgiving",
-                  "tagalog": "Araw ng Pasasalamat"
-                },
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "Thanksgiving Day",
-                  "id": "Hari Thanksgiving"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "Araw ng mga Patay",
-                  "id": "All Souls 'Day",
-                  "tagalog": "Araw ng mga Patay"
-                },
-                {
-                  "sourceLanguage": "en",
-                  "sourceText": "All Souls’ Day",
-                  "id": "All Souls 'Day"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "Araw ng mga",
-                  "id": "Hari Valentine",
-                  "tagalog": "Araw ng mga"
-                },
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "Valentine’s Day",
-                  "id": "Hari Valentine"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "Puso",
-                  "id": "(Hati manusia pada waktu itu sangat takut) amat takut dan cemas.",
-                  "tagalog": "Puso"
-                },
-                {
-                  "sourceLanguage": "en",
-                  "sourceText": "(Day of the Hearts, literally)",
-                  "id": "(Hati manusia pada waktu itu sangat takut) amat takut dan cemas."
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "Bagong taon",
-                  "id": "Hari Tahun Baru",
-                  "tagalog": "Bagong taon"
-                },
-                {
-                  "sourceLanguage": "en",
-                  "sourceText": "New Year’s Day",
-                  "id": "Hari Tahun Baru"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "Biyernes Santo",
-                  "id": "Baik Jumat",
-                  "tagalog": "Biyernes Santo"
-                },
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "Good Friday",
-                  "id": "Baik Jumat"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "Huwebes Santo",
-                  "id": "Maundy Kamis",
-                  "tagalog": "Huwebes Santo"
-                },
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "Maundy Thursday",
-                  "id": "Maundy Kamis"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "Pasko ng Pagkabuhay",
-                  "id": "Paskah",
-                  "tagalog": "Pasko ng Pagkabuhay"
-                },
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "Easter",
-                  "id": "Paskah"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "Pasko",
-                  "id": "Natal",
-                  "tagalog": "Pasko"
-                },
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "Christmas",
-                  "id": "Natal"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "Semana Santa",
-                  "id": "Minggu Suci",
-                  "tagalog": "Semana Santa"
-                },
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "Holy Week",
-                  "id": "Minggu Suci"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "Undas",
-                  "id": "All Saints Day",
-                  "tagalog": "Undas"
-                },
-                {
-                  "sourceLanguage": "en",
-                  "sourceText": "All Saints Day",
-                  "id": "All Saints Day"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "Spanish-Derived Numbers",
-                  "id": "Spanish-Derived Numbers"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "uno",
-                  "id": "satu",
-                  "tagalog": "uno"
-                },
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "one",
-                  "id": "satu"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "a-primero",
-                  "id": "pertama",
-                  "tagalog": "a-primero"
-                },
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "first",
-                  "id": "pertama"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "dos",
-                  "id": "dua",
-                  "tagalog": "dos"
-                },
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "two",
-                  "id": "dua"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "tres",
-                  "id": "tiga",
-                  "tagalog": "tres"
-                },
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "three",
-                  "id": "tiga"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "kuwatro",
-                  "id": "empat",
-                  "tagalog": "kuwatro"
-                },
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "four",
-                  "id": "empat"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "singko",
-                  "id": "lima",
-                  "tagalog": "singko"
-                },
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "five",
-                  "id": "lima"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "sais",
-                  "id": "enam",
-                  "tagalog": "sais"
-                },
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "six",
-                  "id": "enam"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "siyete",
-                  "id": "tujuh",
-                  "tagalog": "siyete"
-                },
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "seven",
-                  "id": "tujuh"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "otso",
-                  "id": "delapan",
-                  "tagalog": "otso"
-                },
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "eight",
-                  "id": "delapan"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "nuwebe",
-                  "id": "sembilan",
-                  "tagalog": "nuwebe"
-                },
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "nine",
-                  "id": "sembilan"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "diyes",
-                  "id": "sepuluh",
-                  "tagalog": "diyes"
-                },
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "ten",
-                  "id": "sepuluh"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "onse",
-                  "id": "sebelas",
-                  "tagalog": "onse"
-                },
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "eleven",
-                  "id": "sebelas"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "dose",
-                  "id": "Dua belas",
-                  "tagalog": "dose"
-                },
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "twelve",
-                  "id": "Dua belas"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "trese",
-                  "id": "tiga belas",
-                  "tagalog": "trese"
-                },
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "thirteen",
-                  "id": "tiga belas"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "katorse",
-                  "id": "empat belas",
-                  "tagalog": "katorse"
-                },
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "fourteen",
-                  "id": "empat belas"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "kinse",
-                  "id": "lima belas",
-                  "tagalog": "kinse"
-                },
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "fifteen",
-                  "id": "lima belas"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "disisais",
-                  "id": "enam belas",
-                  "tagalog": "disisais"
-                },
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "sixteen",
-                  "id": "enam belas"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "disisiyete",
-                  "id": "Tujuh belas",
-                  "tagalog": "disisiyete"
-                },
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "seventeen",
-                  "id": "Tujuh belas"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "disiotso",
-                  "id": "delapan belas",
-                  "tagalog": "disiotso"
-                },
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "eighteen",
-                  "id": "delapan belas"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "disinuwebe",
-                  "id": "19",
-                  "tagalog": "disinuwebe"
-                },
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "nineteen",
-                  "id": "19"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "bente",
-                  "id": "dua puluh",
-                  "tagalog": "bente"
-                },
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "twenty",
-                  "id": "dua puluh"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "bente uno",
-                  "id": "twenty- satu",
-                  "tagalog": "bente uno"
-                },
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "twenty-one",
-                  "id": "twenty- satu"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "trenta",
-                  "id": "30",
-                  "tagalog": "trenta"
-                },
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "thirty",
-                  "id": "30"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "trentay uno",
-                  "id": "ketiga puluh satu",
-                  "tagalog": "trentay uno"
-                },
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "thirty-one",
-                  "id": "ketiga puluh satu"
-                }
-              ]
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "parada",
+                "id": "parade",
+                "tagalog": "parada"
+              },
+              "meaning": {
+                "sourceLanguage": "mixed",
+                "sourceText": "parade",
+                "id": "parade"
+              }
             }
-          ]
+          ],
+          "title": {
+            "sourceLanguage": "mixed",
+            "sourceText": "Nouns",
+            "id": "Kata benda"
+          }
+        },
+        {
+          "type": "vocabulary",
+          "entries": [
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "Araw ng mga Ama",
+                "id": "Hari Ayah",
+                "tagalog": "Araw ng mga Ama"
+              },
+              "meaning": {
+                "sourceLanguage": "mixed",
+                "sourceText": "Father’s Day",
+                "id": "Hari Ayah"
+              }
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "Araw ng Kalayaan",
+                "id": "Hari Kemerdekaan",
+                "tagalog": "Araw ng Kalayaan"
+              },
+              "meaning": {
+                "sourceLanguage": "mixed",
+                "sourceText": "Independence Day",
+                "id": "Hari Kemerdekaan"
+              }
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "Araw ng mga",
+                "id": "National Heroes '",
+                "tagalog": "Araw ng mga"
+              },
+              "meaning": {
+                "sourceLanguage": "mixed",
+                "sourceText": "National Heroes’",
+                "id": "National Heroes '"
+              }
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "Bayani",
+                "id": "Hari",
+                "tagalog": "Bayani"
+              },
+              "meaning": {
+                "sourceLanguage": "mixed",
+                "sourceText": "Day",
+                "id": "Hari"
+              }
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "Araw ng mga Ina",
+                "id": "Hari Ibu",
+                "tagalog": "Araw ng mga Ina"
+              },
+              "meaning": {
+                "sourceLanguage": "mixed",
+                "sourceText": "Mother’s Day",
+                "id": "Hari Ibu"
+              }
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "Araw ng Manggagawa",
+                "id": "Hari Buruh",
+                "tagalog": "Araw ng Manggagawa"
+              },
+              "meaning": {
+                "sourceLanguage": "mixed",
+                "sourceText": "Labor Day",
+                "id": "Hari Buruh"
+              }
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "Araw ng Pasasalamat",
+                "id": "Hari Thanksgiving",
+                "tagalog": "Araw ng Pasasalamat"
+              },
+              "meaning": {
+                "sourceLanguage": "mixed",
+                "sourceText": "Thanksgiving Day",
+                "id": "Hari Thanksgiving"
+              }
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "Araw ng mga Patay",
+                "id": "All Souls 'Day",
+                "tagalog": "Araw ng mga Patay"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "All Souls’ Day",
+                "id": "All Souls 'Day"
+              }
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "Araw ng mga",
+                "id": "Hari Valentine",
+                "tagalog": "Araw ng mga"
+              },
+              "meaning": {
+                "sourceLanguage": "mixed",
+                "sourceText": "Valentine’s Day",
+                "id": "Hari Valentine"
+              }
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "Puso",
+                "id": "(Hati manusia pada waktu itu sangat takut) amat takut dan cemas.",
+                "tagalog": "Puso"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "(Day of the Hearts, literally)",
+                "id": "(Hati manusia pada waktu itu sangat takut) amat takut dan cemas."
+              }
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "Bagong taon",
+                "id": "Hari Tahun Baru",
+                "tagalog": "Bagong taon"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "New Year’s Day",
+                "id": "Hari Tahun Baru"
+              }
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "Biyernes Santo",
+                "id": "Baik Jumat",
+                "tagalog": "Biyernes Santo"
+              },
+              "meaning": {
+                "sourceLanguage": "mixed",
+                "sourceText": "Good Friday",
+                "id": "Baik Jumat"
+              }
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "Huwebes Santo",
+                "id": "Maundy Kamis",
+                "tagalog": "Huwebes Santo"
+              },
+              "meaning": {
+                "sourceLanguage": "mixed",
+                "sourceText": "Maundy Thursday",
+                "id": "Maundy Kamis"
+              }
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "Pasko ng Pagkabuhay",
+                "id": "Paskah",
+                "tagalog": "Pasko ng Pagkabuhay"
+              },
+              "meaning": {
+                "sourceLanguage": "mixed",
+                "sourceText": "Easter",
+                "id": "Paskah"
+              }
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "Pasko",
+                "id": "Natal",
+                "tagalog": "Pasko"
+              },
+              "meaning": {
+                "sourceLanguage": "mixed",
+                "sourceText": "Christmas",
+                "id": "Natal"
+              }
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "Semana Santa",
+                "id": "Minggu Suci",
+                "tagalog": "Semana Santa"
+              },
+              "meaning": {
+                "sourceLanguage": "mixed",
+                "sourceText": "Holy Week",
+                "id": "Minggu Suci"
+              }
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "Undas",
+                "id": "All Saints Day",
+                "tagalog": "Undas"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "All Saints Day",
+                "id": "All Saints Day"
+              }
+            }
+          ],
+          "title": {
+            "sourceLanguage": "mixed",
+            "sourceText": "Holidays",
+            "id": "Liburan"
+          }
+        },
+        {
+          "type": "vocabulary",
+          "entries": [
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "uno",
+                "id": "satu",
+                "tagalog": "uno"
+              },
+              "meaning": {
+                "sourceLanguage": "mixed",
+                "sourceText": "one",
+                "id": "satu"
+              }
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "a-primero",
+                "id": "pertama",
+                "tagalog": "a-primero"
+              },
+              "meaning": {
+                "sourceLanguage": "mixed",
+                "sourceText": "first",
+                "id": "pertama"
+              }
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "dos",
+                "id": "dua",
+                "tagalog": "dos"
+              },
+              "meaning": {
+                "sourceLanguage": "mixed",
+                "sourceText": "two",
+                "id": "dua"
+              }
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "tres",
+                "id": "tiga",
+                "tagalog": "tres"
+              },
+              "meaning": {
+                "sourceLanguage": "mixed",
+                "sourceText": "three",
+                "id": "tiga"
+              }
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "kuwatro",
+                "id": "empat",
+                "tagalog": "kuwatro"
+              },
+              "meaning": {
+                "sourceLanguage": "mixed",
+                "sourceText": "four",
+                "id": "empat"
+              }
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "singko",
+                "id": "lima",
+                "tagalog": "singko"
+              },
+              "meaning": {
+                "sourceLanguage": "mixed",
+                "sourceText": "five",
+                "id": "lima"
+              }
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "sais",
+                "id": "enam",
+                "tagalog": "sais"
+              },
+              "meaning": {
+                "sourceLanguage": "mixed",
+                "sourceText": "six",
+                "id": "enam"
+              }
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "siyete",
+                "id": "tujuh",
+                "tagalog": "siyete"
+              },
+              "meaning": {
+                "sourceLanguage": "mixed",
+                "sourceText": "seven",
+                "id": "tujuh"
+              }
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "otso",
+                "id": "delapan",
+                "tagalog": "otso"
+              },
+              "meaning": {
+                "sourceLanguage": "mixed",
+                "sourceText": "eight",
+                "id": "delapan"
+              }
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "nuwebe",
+                "id": "sembilan",
+                "tagalog": "nuwebe"
+              },
+              "meaning": {
+                "sourceLanguage": "mixed",
+                "sourceText": "nine",
+                "id": "sembilan"
+              }
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "diyes",
+                "id": "sepuluh",
+                "tagalog": "diyes"
+              },
+              "meaning": {
+                "sourceLanguage": "mixed",
+                "sourceText": "ten",
+                "id": "sepuluh"
+              }
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "onse",
+                "id": "sebelas",
+                "tagalog": "onse"
+              },
+              "meaning": {
+                "sourceLanguage": "mixed",
+                "sourceText": "eleven",
+                "id": "sebelas"
+              }
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "dose",
+                "id": "Dua belas",
+                "tagalog": "dose"
+              },
+              "meaning": {
+                "sourceLanguage": "mixed",
+                "sourceText": "twelve",
+                "id": "Dua belas"
+              }
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "trese",
+                "id": "tiga belas",
+                "tagalog": "trese"
+              },
+              "meaning": {
+                "sourceLanguage": "mixed",
+                "sourceText": "thirteen",
+                "id": "tiga belas"
+              }
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "katorse",
+                "id": "empat belas",
+                "tagalog": "katorse"
+              },
+              "meaning": {
+                "sourceLanguage": "mixed",
+                "sourceText": "fourteen",
+                "id": "empat belas"
+              }
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "kinse",
+                "id": "lima belas",
+                "tagalog": "kinse"
+              },
+              "meaning": {
+                "sourceLanguage": "mixed",
+                "sourceText": "fifteen",
+                "id": "lima belas"
+              }
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "disisais",
+                "id": "enam belas",
+                "tagalog": "disisais"
+              },
+              "meaning": {
+                "sourceLanguage": "mixed",
+                "sourceText": "sixteen",
+                "id": "enam belas"
+              }
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "disisiyete",
+                "id": "Tujuh belas",
+                "tagalog": "disisiyete"
+              },
+              "meaning": {
+                "sourceLanguage": "mixed",
+                "sourceText": "seventeen",
+                "id": "Tujuh belas"
+              }
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "disiotso",
+                "id": "delapan belas",
+                "tagalog": "disiotso"
+              },
+              "meaning": {
+                "sourceLanguage": "mixed",
+                "sourceText": "eighteen",
+                "id": "delapan belas"
+              }
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "disinuwebe",
+                "id": "19",
+                "tagalog": "disinuwebe"
+              },
+              "meaning": {
+                "sourceLanguage": "mixed",
+                "sourceText": "nineteen",
+                "id": "19"
+              }
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "bente",
+                "id": "dua puluh",
+                "tagalog": "bente"
+              },
+              "meaning": {
+                "sourceLanguage": "mixed",
+                "sourceText": "twenty",
+                "id": "dua puluh"
+              }
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "bente uno",
+                "id": "twenty- satu",
+                "tagalog": "bente uno"
+              },
+              "meaning": {
+                "sourceLanguage": "mixed",
+                "sourceText": "twenty-one",
+                "id": "twenty- satu"
+              }
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "trenta",
+                "id": "30",
+                "tagalog": "trenta"
+              },
+              "meaning": {
+                "sourceLanguage": "mixed",
+                "sourceText": "thirty",
+                "id": "30"
+              }
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "trentay uno",
+                "id": "ketiga puluh satu",
+                "tagalog": "trentay uno"
+              },
+              "meaning": {
+                "sourceLanguage": "mixed",
+                "sourceText": "thirty-one",
+                "id": "ketiga puluh satu"
+              }
+            }
+          ],
+          "title": {
+            "sourceLanguage": "mixed",
+            "sourceText": "Spanish-Derived Numbers",
+            "id": "Spanish-Derived Numbers"
+          }
+        },
+        {
+          "type": "text",
+          "style": "heading",
+          "text": {
+            "sourceLanguage": "mixed",
+            "sourceText": "Verbs",
+            "id": "Verbs"
+          }
         },
         {
           "type": "table",
+          "role": "vocabulary-reference",
           "rows": [
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "Verbs",
-                  "id": "Verbs"
-                }
-              ]
-            },
             {
               "cells": [
                 {
@@ -1148,23 +957,32 @@
                   "id": "Definisi"
                 }
               ]
-            },
+            }
+          ]
+        },
+        {
+          "type": "vocabulary",
+          "entries": [
             {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "-In Verbs",
-                  "id": "- Di Verbs",
-                  "tagalog": "-In Verbs"
-                },
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "Mag- Verbs",
-                  "id": "Dapatkan Verbs Anda",
-                  "tagalog": "Mag- Verbs"
-                }
-              ]
-            },
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "-In Verbs",
+                "id": "- Di Verbs",
+                "tagalog": "-In Verbs"
+              },
+              "meaning": {
+                "sourceLanguage": "fil",
+                "sourceText": "Mag- Verbs",
+                "id": "Dapatkan Verbs Anda",
+                "tagalog": "Mag- Verbs"
+              }
+            }
+          ]
+        },
+        {
+          "type": "table",
+          "role": "vocabulary-reference",
+          "rows": [
             {
               "cells": [
                 {
@@ -1184,7 +1002,13 @@
                   "id": "untuk mengingat"
                 }
               ]
-            },
+            }
+          ]
+        },
+        {
+          "type": "table",
+          "role": "vocabulary-reference",
+          "rows": [
             {
               "cells": [
                 {
@@ -1205,7 +1029,13 @@
                   "id": "untuk membuat sesuatu basah"
                 }
               ]
-            },
+            }
+          ]
+        },
+        {
+          "type": "table",
+          "role": "vocabulary-reference",
+          "rows": [
             {
               "cells": [
                 {
@@ -1226,7 +1056,13 @@
                   "id": "untuk mengangkat atau membawa"
                 }
               ]
-            },
+            }
+          ]
+        },
+        {
+          "type": "table",
+          "role": "vocabulary-reference",
+          "rows": [
             {
               "cells": [
                 {
@@ -1247,7 +1083,13 @@
                   "id": "untuk bermain"
                 }
               ]
-            },
+            }
+          ]
+        },
+        {
+          "type": "table",
+          "role": "vocabulary-reference",
+          "rows": [
             {
               "cells": [
                 {
@@ -1268,23 +1110,32 @@
                   "id": "untuk bertahan"
                 }
               ]
-            },
+            }
+          ]
+        },
+        {
+          "type": "vocabulary",
+          "entries": [
             {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "-In Verbs",
-                  "id": "- Di Verbs",
-                  "tagalog": "-In Verbs"
-                },
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "-Um- Verbs",
-                  "id": "E-Verbs",
-                  "tagalog": "-Um- Verbs"
-                }
-              ]
-            },
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "-In Verbs",
+                "id": "- Di Verbs",
+                "tagalog": "-In Verbs"
+              },
+              "meaning": {
+                "sourceLanguage": "fil",
+                "sourceText": "-Um- Verbs",
+                "id": "E-Verbs",
+                "tagalog": "-Um- Verbs"
+              }
+            }
+          ]
+        },
+        {
+          "type": "table",
+          "role": "vocabulary-reference",
+          "rows": [
             {
               "cells": [
                 {
@@ -1305,7 +1156,13 @@
                   "id": "untuk memukul"
                 }
               ]
-            },
+            }
+          ]
+        },
+        {
+          "type": "table",
+          "role": "vocabulary-reference",
+          "rows": [
             {
               "cells": [
                 {
@@ -1326,7 +1183,13 @@
                   "id": "untuk membuat, memperbaiki, melakukan"
                 }
               ]
-            },
+            }
+          ]
+        },
+        {
+          "type": "table",
+          "role": "vocabulary-reference",
+          "rows": [
             {
               "cells": [
                 {
@@ -1347,7 +1210,13 @@
                   "id": "untuk digagalkan"
                 }
               ]
-            },
+            }
+          ]
+        },
+        {
+          "type": "table",
+          "role": "vocabulary-reference",
+          "rows": [
             {
               "cells": [
                 {
@@ -1368,7 +1237,13 @@
                   "id": "untuk mengejar"
                 }
               ]
-            },
+            }
+          ]
+        },
+        {
+          "type": "table",
+          "role": "vocabulary-reference",
+          "rows": [
             {
               "cells": [
                 {
@@ -1389,7 +1264,13 @@
                   "id": "untuk bernyanyi"
                 }
               ]
-            },
+            }
+          ]
+        },
+        {
+          "type": "table",
+          "role": "vocabulary-reference",
+          "rows": [
             {
               "cells": [
                 {
@@ -1410,7 +1291,13 @@
                   "id": "untuk memilih"
                 }
               ]
-            },
+            }
+          ]
+        },
+        {
+          "type": "table",
+          "role": "vocabulary-reference",
+          "rows": [
             {
               "cells": [
                 {
@@ -1431,7 +1318,13 @@
                   "id": "menari"
                 }
               ]
-            },
+            }
+          ]
+        },
+        {
+          "type": "table",
+          "role": "vocabulary-reference",
+          "rows": [
             {
               "cells": [
                 {
@@ -1452,23 +1345,32 @@
                   "id": "untuk memainkan alat musik"
                 }
               ]
-            },
+            }
+          ]
+        },
+        {
+          "type": "vocabulary",
+          "entries": [
             {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "I- Verbs",
-                  "id": "I - Vebbs",
-                  "tagalog": "I- Verbs"
-                },
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "Mag- Verbs",
-                  "id": "Dapatkan Verbs Anda",
-                  "tagalog": "Mag- Verbs"
-                }
-              ]
-            },
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "I- Verbs",
+                "id": "I - Vebbs",
+                "tagalog": "I- Verbs"
+              },
+              "meaning": {
+                "sourceLanguage": "fil",
+                "sourceText": "Mag- Verbs",
+                "id": "Dapatkan Verbs Anda",
+                "tagalog": "Mag- Verbs"
+              }
+            }
+          ]
+        },
+        {
+          "type": "table",
+          "role": "vocabulary-reference",
+          "rows": [
             {
               "cells": [
                 {
@@ -1489,7 +1391,13 @@
                   "id": "untuk menyampaikan berita"
                 }
               ]
-            },
+            }
+          ]
+        },
+        {
+          "type": "table",
+          "role": "vocabulary-reference",
+          "rows": [
             {
               "cells": [
                 {
@@ -1510,7 +1418,13 @@
                   "id": "untuk melempar, melemparkan"
                 }
               ]
-            },
+            }
+          ]
+        },
+        {
+          "type": "table",
+          "role": "vocabulary-reference",
+          "rows": [
             {
               "cells": [
                 {
@@ -1531,7 +1445,13 @@
                   "id": "untuk menjatuhkan"
                 }
               ]
-            },
+            }
+          ]
+        },
+        {
+          "type": "table",
+          "role": "vocabulary-reference",
+          "rows": [
             {
               "cells": [
                 {
@@ -1553,7 +1473,13 @@
                   "tagalog": "Definition"
                 }
               ]
-            },
+            }
+          ]
+        },
+        {
+          "type": "table",
+          "role": "vocabulary-reference",
+          "rows": [
             {
               "cells": [
                 {
@@ -1574,7 +1500,13 @@
                   "id": "untuk merayakan"
                 }
               ]
-            },
+            }
+          ]
+        },
+        {
+          "type": "table",
+          "role": "vocabulary-reference",
+          "rows": [
             {
               "cells": [
                 {
@@ -1596,7 +1528,13 @@
                   "tagalog": "Definition"
                 }
               ]
-            },
+            }
+          ]
+        },
+        {
+          "type": "table",
+          "role": "vocabulary-reference",
+          "rows": [
             {
               "cells": [
                 {
@@ -1617,7 +1555,13 @@
                   "id": "untuk membaptis"
                 }
               ]
-            },
+            }
+          ]
+        },
+        {
+          "type": "table",
+          "role": "vocabulary-reference",
+          "rows": [
             {
               "cells": [
                 {
@@ -1638,23 +1582,32 @@
                   "id": "untuk melindungi"
                 }
               ]
-            },
+            }
+          ]
+        },
+        {
+          "type": "vocabulary",
+          "entries": [
             {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "Mang- Verbs",
-                  "id": "Mang- Vebs",
-                  "tagalog": "Mang- Verbs"
-                },
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "Definition",
-                  "id": "Definisi",
-                  "tagalog": "Definition"
-                }
-              ]
-            },
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "Mang- Verbs",
+                "id": "Mang- Vebs",
+                "tagalog": "Mang- Verbs"
+              },
+              "meaning": {
+                "sourceLanguage": "fil",
+                "sourceText": "Definition",
+                "id": "Definisi",
+                "tagalog": "Definition"
+              }
+            }
+          ]
+        },
+        {
+          "type": "table",
+          "role": "vocabulary-reference",
+          "rows": [
             {
               "cells": [
                 {
@@ -1674,7 +1627,13 @@
                   "id": "tak terhingga"
                 }
               ]
-            },
+            }
+          ]
+        },
+        {
+          "type": "table",
+          "role": "vocabulary-reference",
+          "rows": [
             {
               "cells": [
                 {
@@ -1694,7 +1653,13 @@
                   "id": "selesai"
                 }
               ]
-            },
+            }
+          ]
+        },
+        {
+          "type": "table",
+          "role": "vocabulary-reference",
+          "rows": [
             {
               "cells": [
                 {
@@ -1714,7 +1679,13 @@
                   "id": "tidak selesai"
                 }
               ]
-            },
+            }
+          ]
+        },
+        {
+          "type": "table",
+          "role": "vocabulary-reference",
+          "rows": [
             {
               "cells": [
                 {
@@ -1734,7 +1705,13 @@
                   "id": "merenungkan"
                 }
               ]
-            },
+            }
+          ]
+        },
+        {
+          "type": "table",
+          "role": "vocabulary-reference",
+          "rows": [
             {
               "cells": [
                 {
@@ -1754,7 +1731,13 @@
                   "id": "tak terhingga"
                 }
               ]
-            },
+            }
+          ]
+        },
+        {
+          "type": "table",
+          "role": "vocabulary-reference",
+          "rows": [
             {
               "cells": [
                 {
@@ -1774,7 +1757,13 @@
                   "id": "selesai"
                 }
               ]
-            },
+            }
+          ]
+        },
+        {
+          "type": "table",
+          "role": "vocabulary-reference",
+          "rows": [
             {
               "cells": [
                 {
@@ -1794,7 +1783,13 @@
                   "id": "tidak selesai"
                 }
               ]
-            },
+            }
+          ]
+        },
+        {
+          "type": "table",
+          "role": "vocabulary-reference",
+          "rows": [
             {
               "cells": [
                 {
@@ -1818,69 +1813,52 @@
           ]
         },
         {
-          "type": "table",
-          "rows": [
+          "type": "vocabulary",
+          "entries": [
             {
-              "cells": [
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "Idioms and Expressions",
-                  "id": "Idiom and Expressions"
-                }
-              ]
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": ". . . ang ibig sabihin",
+                "id": "Artinya..,..",
+                "tagalog": ". . . ang ibig sabihin"
+              },
+              "meaning": {
+                "sourceLanguage": "mixed",
+                "sourceText": "It means . . .",
+                "id": "Artinya..,.."
+              }
             },
             {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": ". . . ang ibig sabihin",
-                  "id": "Artinya..,..",
-                  "tagalog": ". . . ang ibig sabihin"
-                },
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "It means . . .",
-                  "id": "Artinya..,.."
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "ayon sa",
-                  "id": "menurut",
-                  "tagalog": "ayon sa"
-                },
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "according to",
-                  "id": "menurut"
-                }
-              ]
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "ayon sa",
+                "id": "menurut",
+                "tagalog": "ayon sa"
+              },
+              "meaning": {
+                "sourceLanguage": "mixed",
+                "sourceText": "according to",
+                "id": "menurut"
+              }
             }
-          ]
+          ],
+          "title": {
+            "sourceLanguage": "mixed",
+            "sourceText": "Idioms and Expressions",
+            "id": "Idiom and Expressions"
+          }
         }
-      ]
+      ],
+      "id": "lesson-20-02-vocabulary"
     },
     {
-      "id": "lesson-20-reading-text-mga-pista-festivals",
-      "type": "DIALOGUE",
+      "type": "LEARNING_MATERIAL",
       "title": {
         "sourceLanguage": "mixed",
         "sourceText": "Reading Text: Mga Pista Festivals",
         "id": "Teks Bacaan: Jaman Mga Pista"
       },
       "blocks": [
-        {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "mixed",
-            "sourceText": "Reading Text: Mga Pista Festivals",
-            "id": "Teks Bacaan: Jaman Mga Pista"
-          }
-        },
         {
           "type": "text",
           "style": "body",
@@ -1965,18 +1943,21 @@
             "id": "Itu dibuat di Kara ribuan, Aklan Orang melukis tubuh mereka hitam dan juga memakai pakaian berwarna-warni saat mereka menari dan berteriak halala biria.",
             "tagalog": "Ginagawa ang ati-atihan sa Kalibo, Aklan. Pinipintahan ng mga tao ang katawan nila ng kulay itim at nagsusuot din sila ng mga makukulay na damit habang sila ay sumasayaw at sumisigaw ng “hala bira”."
           }
-        },
+        }
+      ],
+      "id": "lesson-20-03-reading-text-mga-pista-festivals"
+    },
+    {
+      "type": "EXERCISES",
+      "title": {
+        "sourceLanguage": "mixed",
+        "sourceText": "Reading Comprehension",
+        "id": "Pemahaman Bacaan"
+      },
+      "blocks": [
         {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "mixed",
-            "sourceText": "Reading Comprehension",
-            "id": "Pemahaman Bacaan"
-          }
-        },
-        {
-          "type": "table",
+          "type": "exercise",
+          "role": "worksheet",
           "rows": [
             {
               "cells": [
@@ -2124,29 +2105,20 @@
             }
           ]
         }
-      ]
+      ],
+      "id": "lesson-20-04-reading-comprehension"
     },
     {
-      "id": "lesson-20-activities",
-      "type": "ACTIVITY",
+      "type": "EXERCISES",
       "title": {
         "sourceLanguage": "mixed",
         "sourceText": "Activities",
-        "id": "Aktivitas"
+        "id": "Latihan"
       },
       "blocks": [
         {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "mixed",
-            "sourceText": "Activities",
-            "id": "Aktivitas"
-          }
-        },
-        {
-          "type": "text",
-          "style": "body",
+          "type": "exercise",
+          "role": "content",
           "text": {
             "sourceLanguage": "mixed",
             "sourceText": "Activity I",
@@ -2154,8 +2126,8 @@
           }
         },
         {
-          "type": "text",
-          "style": "body",
+          "type": "exercise",
+          "role": "instruction",
           "text": {
             "sourceLanguage": "en",
             "sourceText": "Work with a partner. Discuss some of the holidays and festivities that happen in your area. In the table below, describe the kinds of activities that take place during these celebrations.",
@@ -2163,7 +2135,8 @@
           }
         },
         {
-          "type": "table",
+          "type": "exercise",
+          "role": "worksheet",
           "rows": [
             {
               "cells": [
@@ -2228,8 +2201,8 @@
           ]
         },
         {
-          "type": "text",
-          "style": "body",
+          "type": "exercise",
+          "role": "content",
           "text": {
             "sourceLanguage": "mixed",
             "sourceText": "Activity II",
@@ -2237,8 +2210,8 @@
           }
         },
         {
-          "type": "text",
-          "style": "body",
+          "type": "exercise",
+          "role": "content",
           "text": {
             "sourceLanguage": "en",
             "sourceText": "Think about the different holidays that you celebrate throughout the year. Next to the months in the chart below, identify these holidays and describe how each is usually celebrated.",
@@ -2246,7 +2219,8 @@
           }
         },
         {
-          "type": "table",
+          "type": "exercise",
+          "role": "worksheet",
           "rows": [
             {
               "cells": [
@@ -2361,8 +2335,8 @@
           ]
         },
         {
-          "type": "text",
-          "style": "body",
+          "type": "exercise",
+          "role": "content",
           "text": {
             "sourceLanguage": "mixed",
             "sourceText": "Activity III",
@@ -2370,8 +2344,8 @@
           }
         },
         {
-          "type": "text",
-          "style": "body",
+          "type": "exercise",
+          "role": "question",
           "text": {
             "sourceLanguage": "en",
             "sourceText": "Work with a partner and study the illustrations below, which document specific festivals and celebrations that take place throughout the Philippines. Based on your observations, how do you think each fiesta is celebrated?",
@@ -2379,8 +2353,8 @@
           }
         },
         {
-          "type": "text",
-          "style": "body",
+          "type": "exercise",
+          "role": "content",
           "text": {
             "sourceLanguage": "fil",
             "sourceText": "Parada ng Kalabaw",
@@ -2393,8 +2367,8 @@
           "path": "assets/327a.jpg"
         },
         {
-          "type": "text",
-          "style": "body",
+          "type": "exercise",
+          "role": "content",
           "text": {
             "sourceLanguage": "fil",
             "sourceText": "Parada ng Lechon",
@@ -2406,35 +2380,17 @@
           "type": "image",
           "path": "assets/327b.jpg"
         }
-      ]
+      ],
+      "id": "lesson-20-05-activities"
     },
     {
-      "id": "lesson-20-grammar",
-      "type": "GRAMMAR",
+      "type": "LEARNING_MATERIAL",
       "title": {
         "sourceLanguage": "mixed",
-        "sourceText": "Grammar",
-        "id": "Tata Bahasa"
+        "sourceText": "Examining Form",
+        "id": "Menganalisis Bentuk"
       },
       "blocks": [
-        {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "mixed",
-            "sourceText": "Grammar",
-            "id": "Tata Bahasa"
-          }
-        },
-        {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "mixed",
-            "sourceText": "Examining Form",
-            "id": "Mengkaji Bentuk"
-          }
-        },
         {
           "type": "text",
           "style": "body",
@@ -2687,7 +2643,8 @@
                 }
               ]
             }
-          ]
+          ],
+          "role": "reference"
         },
         {
           "type": "text",
@@ -2760,16 +2717,18 @@
             "sourceText": "4. Underline all the dates in numbers 4 and 5. What is the difference between A and B?",
             "id": "4 garis bawah semua tanggal dalam angka 4 dan 5 apa perbedaan antara A dan B?"
           }
-        },
-        {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "en",
-            "sourceText": "I. Incompleted Aspect (-In/I- Verbs)",
-            "id": "I. Incomplete Aspek (Dalam / I Verbs)"
-          }
-        },
+        }
+      ],
+      "id": "lesson-20-06-examining-form"
+    },
+    {
+      "type": "LEARNING_MATERIAL",
+      "title": {
+        "sourceLanguage": "en",
+        "sourceText": "I. Incompleted Aspect (-In/I- Verbs)",
+        "id": "I. Incomplete Aspek (Dalam / I Verbs)"
+      },
+      "blocks": [
         {
           "type": "text",
           "style": "body",
@@ -2913,7 +2872,8 @@
                 }
               ]
             }
-          ]
+          ],
+          "role": "reference"
         },
         {
           "type": "text",
@@ -3020,7 +2980,8 @@
                 }
               ]
             }
-          ]
+          ],
+          "role": "reference"
         },
         {
           "type": "table",
@@ -3118,17 +3079,20 @@
                 }
               ]
             }
-          ]
-        },
-        {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "mixed",
-            "sourceText": "Grammar Presentation",
-            "id": "Penyajian Tata Bahasa"
-          }
-        },
+          ],
+          "role": "reference"
+        }
+      ],
+      "id": "lesson-20-07-i-incompleted-aspect-in-i-verbs"
+    },
+    {
+      "type": "LEARNING_MATERIAL",
+      "title": {
+        "sourceLanguage": "mixed",
+        "sourceText": "Grammar Presentation",
+        "id": "Penyajian Tata Bahasa"
+      },
+      "blocks": [
         {
           "type": "text",
           "style": "body",
@@ -3222,7 +3186,8 @@
                 }
               ]
             }
-          ]
+          ],
+          "role": "reference"
         },
         {
           "type": "text",
@@ -3360,56 +3325,64 @@
                 }
               ]
             }
+          ],
+          "role": "reference"
+        }
+      ],
+      "id": "lesson-20-08-grammar-presentation"
+    },
+    {
+      "type": "EXAMPLES",
+      "title": {
+        "sourceLanguage": "mixed",
+        "sourceText": "EXAMPLES:",
+        "id": "Contoh"
+      },
+      "blocks": [
+        {
+          "type": "example",
+          "items": [
+            {
+              "sourceLanguage": "mixed",
+              "sourceText": "Ano ang ginugulo mo? What are you disarranging/messing up?",
+              "id": "Apa yang kau kacaukan?",
+              "tagalog": "Ano ang ginugulo mo?"
+            }
           ]
         },
         {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "mixed",
-            "sourceText": "EXAMPLES:",
-            "id": "EXAMPLES:"
-          }
+          "type": "example",
+          "items": [
+            {
+              "sourceLanguage": "fil",
+              "sourceText": "Ano ang dinadala mo dito? What are you bringing here?",
+              "id": "Apa yang kau bawa ke sini?",
+              "tagalog": "Ano ang dinadala mo dito? What are you bringing here?"
+            }
+          ]
         },
         {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "mixed",
-            "sourceText": "Ano ang ginugulo mo? What are you disarranging/messing up?",
-            "id": "Apa yang kau kacaukan?",
-            "tagalog": "Ano ang ginugulo mo?"
-          }
-        },
-        {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "fil",
-            "sourceText": "Ano ang dinadala mo dito? What are you bringing here?",
-            "id": "Apa yang kau bawa ke sini?",
-            "tagalog": "Ano ang dinadala mo dito? What are you bringing here?"
-          }
-        },
-        {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "fil",
-            "sourceText": "Ano ang binubunggo niya? What is he hitting?",
-            "id": "Apa yang dia memukul, dan apa yang heting?",
-            "tagalog": "Ano ang binubunggo niya? What is he hitting?"
-          }
-        },
-        {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "mixed",
-            "sourceText": "Grammar Notes",
-            "id": "Catatan Tata Bahasa"
-          }
-        },
+          "type": "example",
+          "items": [
+            {
+              "sourceLanguage": "fil",
+              "sourceText": "Ano ang binubunggo niya? What is he hitting?",
+              "id": "Apa yang dia memukul, dan apa yang heting?",
+              "tagalog": "Ano ang binubunggo niya? What is he hitting?"
+            }
+          ]
+        }
+      ],
+      "id": "lesson-20-09-examples"
+    },
+    {
+      "type": "LEARNING_MATERIAL",
+      "title": {
+        "sourceLanguage": "mixed",
+        "sourceText": "Grammar Notes",
+        "id": "Catatan Tata Bahasa"
+      },
+      "blocks": [
         {
           "type": "table",
           "rows": [
@@ -3432,17 +3405,20 @@
                 }
               ]
             }
-          ]
-        },
-        {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "mixed",
-            "sourceText": "II. Saying Dates",
-            "id": "Mengatakan Tanggal"
-          }
-        },
+          ],
+          "role": "reference"
+        }
+      ],
+      "id": "lesson-20-10-grammar-notes"
+    },
+    {
+      "type": "LEARNING_MATERIAL",
+      "title": {
+        "sourceLanguage": "mixed",
+        "sourceText": "II. Saying Dates",
+        "id": "Mengatakan Tanggal"
+      },
+      "blocks": [
         {
           "type": "text",
           "style": "body",
@@ -3874,7 +3850,8 @@
                 }
               ]
             }
-          ]
+          ],
+          "role": "reference"
         },
         {
           "type": "text",
@@ -3938,17 +3915,20 @@
                 }
               ]
             }
-          ]
-        },
-        {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "mixed",
-            "sourceText": "Grammar Presentation",
-            "id": "Penyajian Tata Bahasa"
-          }
-        },
+          ],
+          "role": "reference"
+        }
+      ],
+      "id": "lesson-20-11-ii-saying-dates"
+    },
+    {
+      "type": "LEARNING_MATERIAL",
+      "title": {
+        "sourceLanguage": "mixed",
+        "sourceText": "Grammar Presentation",
+        "id": "Penyajian Tata Bahasa"
+      },
+      "blocks": [
         {
           "type": "text",
           "style": "body",
@@ -4047,113 +4027,127 @@
                 }
               ]
             }
+          ],
+          "role": "reference"
+        }
+      ],
+      "id": "lesson-20-12-grammar-presentation-2"
+    },
+    {
+      "type": "EXAMPLES",
+      "title": {
+        "sourceLanguage": "mixed",
+        "sourceText": "EXAMPLES:",
+        "id": "Contoh"
+      },
+      "blocks": [
+        {
+          "type": "example",
+          "items": [
+            {
+              "sourceLanguage": "fil",
+              "sourceText": "Ipinagdiriwang ang Pasko tuwing a-bente singko ng Disyembre. (conversational)",
+              "id": "Natal dirayakan setiap tanggal delapan Desember.",
+              "tagalog": "Ipinagdiriwang ang Pasko tuwing a-bente singko ng Disyembre. (conversational)"
+            }
           ]
         },
         {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "mixed",
-            "sourceText": "EXAMPLES:",
-            "id": "EXAMPLES:"
-          }
+          "type": "example",
+          "items": [
+            {
+              "sourceLanguage": "fil",
+              "sourceText": "Ipinagdiriwang ang Pasko tuwing ika dalawampu’t lima ng Disyembre. (formal)",
+              "id": "Natal dirayakan setiap twentyth fiveth Desember. (formal)",
+              "tagalog": "Ipinagdiriwang ang Pasko tuwing ika dalawampu’t lima ng Disyembre. (formal)"
+            }
+          ]
         },
         {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "fil",
-            "sourceText": "Ipinagdiriwang ang Pasko tuwing a-bente singko ng Disyembre. (conversational)",
-            "id": "Natal dirayakan setiap tanggal delapan Desember.",
-            "tagalog": "Ipinagdiriwang ang Pasko tuwing a-bente singko ng Disyembre. (conversational)"
-          }
+          "type": "example",
+          "items": [
+            {
+              "sourceLanguage": "en",
+              "sourceText": "Christmas is celebrated every 25th of December.",
+              "id": "Natal dirayakan setiap 25 Desember."
+            }
+          ]
         },
         {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "fil",
-            "sourceText": "Ipinagdiriwang ang Pasko tuwing ika dalawampu’t lima ng Disyembre. (formal)",
-            "id": "Natal dirayakan setiap twentyth fiveth Desember. (formal)",
-            "tagalog": "Ipinagdiriwang ang Pasko tuwing ika dalawampu’t lima ng Disyembre. (formal)"
-          }
+          "type": "example",
+          "items": [
+            {
+              "sourceLanguage": "fil",
+              "sourceText": "Ibinibigay ni Mario ang mga bulaklak kay Lisa tuwing a-katorse ng Pebrero. (conversational)",
+              "id": "Mario memberikan bunga untuk Lisa setiap tahun Februari.",
+              "tagalog": "Ibinibigay ni Mario ang mga bulaklak kay Lisa tuwing a-katorse ng Pebrero. (conversational)"
+            }
+          ]
         },
         {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "en",
-            "sourceText": "Christmas is celebrated every 25th of December.",
-            "id": "Natal dirayakan setiap 25 Desember."
-          }
+          "type": "example",
+          "items": [
+            {
+              "sourceLanguage": "fil",
+              "sourceText": "Ibinibigay ni Mario ang mga bulaklak kay Lisa tuwing ikalabing-apat ng Pebrero. (formal)",
+              "id": "Mario memberikan bunga untuk Lisa setiap empat belas Februari. (formal)",
+              "tagalog": "Ibinibigay ni Mario ang mga bulaklak kay Lisa tuwing ikalabing-apat ng Pebrero. (formal)"
+            }
+          ]
         },
         {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "fil",
-            "sourceText": "Ibinibigay ni Mario ang mga bulaklak kay Lisa tuwing a-katorse ng Pebrero. (conversational)",
-            "id": "Mario memberikan bunga untuk Lisa setiap tahun Februari.",
-            "tagalog": "Ibinibigay ni Mario ang mga bulaklak kay Lisa tuwing a-katorse ng Pebrero. (conversational)"
-          }
+          "type": "example",
+          "items": [
+            {
+              "sourceLanguage": "mixed",
+              "sourceText": "Mario gives Lisa flowers every February 14th.",
+              "id": "Mario memberikan bunga Lisa setiap 14 Februari."
+            }
+          ]
         },
         {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "fil",
-            "sourceText": "Ibinibigay ni Mario ang mga bulaklak kay Lisa tuwing ikalabing-apat ng Pebrero. (formal)",
-            "id": "Mario memberikan bunga untuk Lisa setiap empat belas Februari. (formal)",
-            "tagalog": "Ibinibigay ni Mario ang mga bulaklak kay Lisa tuwing ikalabing-apat ng Pebrero. (formal)"
-          }
+          "type": "example",
+          "items": [
+            {
+              "sourceLanguage": "fil",
+              "sourceText": "Magpupunta ako sa Palawan sa a-primero ng Enero. (conversational)",
+              "id": "Aku akan pergi ke Light of January.",
+              "tagalog": "Magpupunta ako sa Palawan sa a-primero ng Enero. (conversational)"
+            }
+          ]
         },
         {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "mixed",
-            "sourceText": "Mario gives Lisa flowers every February 14th.",
-            "id": "Mario memberikan bunga Lisa setiap 14 Februari."
-          }
+          "type": "example",
+          "items": [
+            {
+              "sourceLanguage": "fil",
+              "sourceText": "Magpupunta ako sa Palawan sa ikaisa ng Enero. (formal)",
+              "id": "Aku akan pergi ke Pasula pada akhir Januari. (formal)",
+              "tagalog": "Magpupunta ako sa Palawan sa ikaisa ng Enero. (formal)"
+            }
+          ]
         },
         {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "fil",
-            "sourceText": "Magpupunta ako sa Palawan sa a-primero ng Enero. (conversational)",
-            "id": "Aku akan pergi ke Light of January.",
-            "tagalog": "Magpupunta ako sa Palawan sa a-primero ng Enero. (conversational)"
-          }
-        },
-        {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "fil",
-            "sourceText": "Magpupunta ako sa Palawan sa ikaisa ng Enero. (formal)",
-            "id": "Aku akan pergi ke Pasula pada akhir Januari. (formal)",
-            "tagalog": "Magpupunta ako sa Palawan sa ikaisa ng Enero. (formal)"
-          }
-        },
-        {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "en",
-            "sourceText": "I will go to the Philippines on January 1st.",
-            "id": "Aku akan pergi ke Filipina pada tanggal 1 Januari."
-          }
-        },
-        {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "mixed",
-            "sourceText": "Grammar Notes",
-            "id": "Catatan Tata Bahasa"
-          }
-        },
+          "type": "example",
+          "items": [
+            {
+              "sourceLanguage": "en",
+              "sourceText": "I will go to the Philippines on January 1st.",
+              "id": "Aku akan pergi ke Filipina pada tanggal 1 Januari."
+            }
+          ]
+        }
+      ],
+      "id": "lesson-20-13-examples-2"
+    },
+    {
+      "type": "LEARNING_MATERIAL",
+      "title": {
+        "sourceLanguage": "mixed",
+        "sourceText": "Grammar Notes",
+        "id": "Catatan Tata Bahasa"
+      },
+      "blocks": [
         {
           "type": "table",
           "rows": [
@@ -4166,40 +4160,23 @@
                 }
               ]
             }
-          ]
+          ],
+          "role": "reference"
         }
-      ]
+      ],
+      "id": "lesson-20-14-grammar-notes-2"
     },
     {
-      "id": "lesson-20-practice",
-      "type": "PRACTICE",
+      "type": "EXERCISES",
       "title": {
-        "sourceLanguage": "mixed",
-        "sourceText": "Practice",
-        "id": "Latihan"
+        "sourceLanguage": "en",
+        "sourceText": "I. Speaking Practice",
+        "id": "I. Latihan Berbicara"
       },
       "blocks": [
         {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "mixed",
-            "sourceText": "Practice",
-            "id": "Latihan"
-          }
-        },
-        {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "en",
-            "sourceText": "I. Speaking Practice",
-            "id": "I. Latihan Berbicara"
-          }
-        },
-        {
-          "type": "text",
-          "style": "body",
+          "type": "exercise",
+          "role": "instruction",
           "text": {
             "sourceLanguage": "en",
             "sourceText": "Work with a partner. Review the following schedule and ask each other when the various events happen. Note that, in real life, the fiestas may happen in a different month than shown here. This calendar is only for purposes of practicing the structure of saying dates.",
@@ -4207,8 +4184,8 @@
           }
         },
         {
-          "type": "text",
-          "style": "body",
+          "type": "exercise",
+          "role": "content",
           "text": {
             "sourceLanguage": "mixed",
             "sourceText": "EXAMPLE:",
@@ -4216,8 +4193,8 @@
           }
         },
         {
-          "type": "text",
-          "style": "body",
+          "type": "exercise",
+          "role": "question",
           "text": {
             "sourceLanguage": "fil",
             "sourceText": "S1: Kailan ang Moriones?",
@@ -4226,8 +4203,8 @@
           }
         },
         {
-          "type": "text",
-          "style": "body",
+          "type": "exercise",
+          "role": "content",
           "text": {
             "sourceLanguage": "fil",
             "sourceText": "S2: Sa ikasiyam ng Abril ang Moriones.\n\nSa a-nuwebe ng Abril ang Moriones.",
@@ -4236,7 +4213,8 @@
           }
         },
         {
-          "type": "table",
+          "type": "exercise",
+          "role": "worksheet",
           "rows": [
             {
               "cells": [
@@ -4464,19 +4442,21 @@
               ]
             }
           ]
-        },
+        }
+      ],
+      "id": "lesson-20-15-i-speaking-practice"
+    },
+    {
+      "type": "EXERCISES",
+      "title": {
+        "sourceLanguage": "en",
+        "sourceText": "II. Writing and Speaking Practice",
+        "id": "Menulis dan Berbicara Praktek"
+      },
+      "blocks": [
         {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "en",
-            "sourceText": "II. Writing and Speaking Practice",
-            "id": "Menulis dan Berbicara Praktek"
-          }
-        },
-        {
-          "type": "text",
-          "style": "body",
+          "type": "exercise",
+          "role": "question",
           "text": {
             "sourceLanguage": "en",
             "sourceText": "Choose two countries that celebrate the same holiday and compare how they are celebrated. What are some of the similarities and differences? Use the table below to record your responses.",
@@ -4484,7 +4464,8 @@
           }
         },
         {
-          "type": "table",
+          "type": "exercise",
+          "role": "worksheet",
           "rows": [
             {
               "cells": [
@@ -4506,19 +4487,21 @@
               ]
             }
           ]
-        },
+        }
+      ],
+      "id": "lesson-20-16-ii-writing-and-speaking-practice"
+    },
+    {
+      "type": "EXERCISES",
+      "title": {
+        "sourceLanguage": "en",
+        "sourceText": "III. Writing and Reading Practice",
+        "id": "III, Menulis dan Membaca Latihan"
+      },
+      "blocks": [
         {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "en",
-            "sourceText": "III. Writing and Reading Practice",
-            "id": "III, Menulis dan Membaca Latihan"
-          }
-        },
-        {
-          "type": "text",
-          "style": "body",
+          "type": "exercise",
+          "role": "question",
           "text": {
             "sourceLanguage": "en",
             "sourceText": "If you could invent your own holiday and/or celebration, what would it be? Draw a picture of this holiday/ celebration on a separate sheet of paper. Afterwards, describe this invented holiday/celebration by answering the questions. When you are finished, exchange descriptions with a classmate and read what he or she wrote.",
@@ -4526,8 +4509,8 @@
           }
         },
         {
-          "type": "text",
-          "style": "body",
+          "type": "exercise",
+          "role": "question",
           "text": {
             "sourceLanguage": "fil",
             "sourceText": "Ano ang pangalan ng pista? ___________________________",
@@ -4536,8 +4519,8 @@
           }
         },
         {
-          "type": "text",
-          "style": "body",
+          "type": "exercise",
+          "role": "question",
           "text": {
             "sourceLanguage": "fil",
             "sourceText": "Saan ginagawa ang pista? _____________________________",
@@ -4546,8 +4529,8 @@
           }
         },
         {
-          "type": "text",
-          "style": "body",
+          "type": "exercise",
+          "role": "question",
           "text": {
             "sourceLanguage": "fil",
             "sourceText": "Kailan ginagawa ang pista? ___________________________",
@@ -4556,8 +4539,8 @@
           }
         },
         {
-          "type": "text",
-          "style": "body",
+          "type": "exercise",
+          "role": "question",
           "text": {
             "sourceLanguage": "fil",
             "sourceText": "Anu-ano ang mga ginagawa sa pista? ___________________________",
@@ -4566,35 +4549,8 @@
           }
         },
         {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "mixed",
-            "sourceText": "____________________________",
-            "id": "____________________________"
-          }
-        },
-        {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "mixed",
-            "sourceText": "____________________________",
-            "id": "____________________________"
-          }
-        },
-        {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "mixed",
-            "sourceText": "_____________________________________",
-            "id": "_____________________________________"
-          }
-        },
-        {
-          "type": "text",
-          "style": "body",
+          "type": "exercise",
+          "role": "question",
           "text": {
             "sourceLanguage": "fil",
             "sourceText": "Bakit ito ginagawa? __________________________________",
@@ -4603,26 +4559,8 @@
           }
         },
         {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "mixed",
-            "sourceText": "____________________________",
-            "id": "____________________________"
-          }
-        },
-        {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "mixed",
-            "sourceText": "_____________________________________",
-            "id": "_____________________________________"
-          }
-        },
-        {
-          "type": "text",
-          "style": "body",
+          "type": "exercise",
+          "role": "content",
           "text": {
             "sourceLanguage": "en",
             "sourceText": "To Download the audio files, please click here.",
@@ -4632,19 +4570,21 @@
         {
           "type": "image",
           "path": "assets/cd.jpg"
-        },
+        }
+      ],
+      "id": "lesson-20-17-iii-writing-and-reading-practice"
+    },
+    {
+      "type": "EXERCISES",
+      "title": {
+        "sourceLanguage": "mixed",
+        "sourceText": "IV. Listening Practice",
+        "id": "IV. Latihan Menyimak"
+      },
+      "blocks": [
         {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "mixed",
-            "sourceText": "IV. Listening Practice",
-            "id": "IV. Latihan Menyimak"
-          }
-        },
-        {
-          "type": "text",
-          "style": "body",
+          "type": "exercise",
+          "role": "instruction",
           "text": {
             "sourceLanguage": "en",
             "sourceText": "Using the Bonus Material of the book, listen to audio file (20–2) and complete the box below.",
@@ -4656,7 +4596,8 @@
           "path": "assets/334.jpg"
         },
         {
-          "type": "table",
+          "type": "exercise",
+          "role": "worksheet",
           "rows": [
             {
               "cells": [
@@ -4716,7 +4657,32 @@
             }
           ]
         }
-      ]
+      ],
+      "id": "lesson-20-18-iv-listening-practice"
     }
-  ]
+  ],
+  "structureVersion": 2,
+  "contentAudit": {
+    "sourceTextItemsBefore": 605,
+    "sourceTextItemsAfter": 592,
+    "uniqueSourceItemsPreserved": 469,
+    "duplicateHeadingsRemoved": 4,
+    "blankFragmentsRemoved": 5,
+    "sectionTypes": {
+      "EXAMPLES": 2,
+      "EXERCISES": 6,
+      "INTRODUCTION": 1,
+      "LEARNING_MATERIAL": 8,
+      "VOCABULARY": 1
+    },
+    "blockTypes": {
+      "example": 12,
+      "exercise": 27,
+      "image": 9,
+      "list": 2,
+      "table": 42,
+      "text": 27,
+      "vocabulary": 8
+    }
+  }
 }

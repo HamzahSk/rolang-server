@@ -17,17 +17,17 @@
     {
       "sourceLanguage": "en",
       "sourceText": "• Talk about the physical symptoms of common ailments",
-      "id": "Bicara tentang gejala fisik penyakit umum"
+      "id": "• Membicarakan gejala fisik penyakit yang umum"
     },
     {
       "sourceLanguage": "en",
       "sourceText": "• Develop the language skills to suggest possible remedies",
-      "id": "Develop keterampilan bahasa untuk menyarankan perbaikan mungkin"
+      "id": "• Mengembangkan kemampuan untuk menyarankan pengobatan"
     },
     {
       "sourceLanguage": "en",
       "sourceText": "• Use helping verbs and negative commands in a sentence",
-      "id": "Gunakan bantuan kata kerja dan perintah negatif dalam sebuah kalimat"
+      "id": "• Menggunakan kata kerja bantu dan perintah negatif dalam kalimat"
     }
   ],
   "source": {
@@ -47,202 +47,144 @@
   ],
   "sections": [
     {
-      "id": "lesson-13-overview",
-      "type": "OVERVIEW",
+      "type": "INTRODUCTION",
       "title": {
-        "sourceLanguage": "mixed",
-        "sourceText": "Overview",
-        "id": "Gambaran Umum"
+        "sourceLanguage": "en",
+        "sourceText": "An Overview of Lesson 13",
+        "id": "Pengantar Pelajaran 13"
       },
       "blocks": [
         {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "en",
-            "sourceText": "An Overview of Lesson 13",
-            "id": "Gambaran Umum Pelajaran 13"
-          }
+          "type": "list",
+          "style": "objectives",
+          "items": [
+            {
+              "sourceLanguage": "en",
+              "sourceText": "• Talk about the physical symptoms of common ailments",
+              "id": "• Membicarakan gejala fisik penyakit yang umum"
+            },
+            {
+              "sourceLanguage": "en",
+              "sourceText": "• Develop the language skills to suggest possible remedies",
+              "id": "• Mengembangkan kemampuan untuk menyarankan pengobatan"
+            },
+            {
+              "sourceLanguage": "en",
+              "sourceText": "• Use helping verbs and negative commands in a sentence",
+              "id": "• Menggunakan kata kerja bantu dan perintah negatif dalam kalimat"
+            }
+          ]
         },
         {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "mixed",
-            "sourceText": "Objectives",
-            "id": "Objeksi"
-          }
-        },
-        {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "en",
-            "sourceText": "• Talk about the physical symptoms of common ailments",
-            "id": "Bicara tentang gejala fisik penyakit umum"
-          }
-        },
-        {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "en",
-            "sourceText": "• Develop the language skills to suggest possible remedies",
-            "id": "Develop keterampilan bahasa untuk menyarankan perbaikan mungkin"
-          }
-        },
-        {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "en",
-            "sourceText": "• Use helping verbs and negative commands in a sentence",
-            "id": "Gunakan bantuan kata kerja dan perintah negatif dalam sebuah kalimat"
-          }
-        },
-        {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "mixed",
-            "sourceText": "Vocabulary",
-            "id": "Kosakata"
-          }
-        },
-        {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "mixed",
-            "sourceText": "• Nouns",
-            "id": "Nouns"
-          }
-        },
-        {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "en",
-            "sourceText": "• Parts of the Body",
-            "id": "Bagian dari Tubuh"
-          }
-        },
-        {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "mixed",
-            "sourceText": "• Adjectives",
-            "id": "Advances"
-          }
-        },
-        {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "mixed",
-            "sourceText": "• Verbs",
-            "id": "Verbs:"
-          }
-        },
-        {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "mixed",
-            "sourceText": "• Helping Verbs",
-            "id": "Membantu Verbs"
-          }
-        },
-        {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "mixed",
-            "sourceText": "• Phrases",
-            "id": "Phrases"
-          }
-        },
-        {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "mixed",
-            "sourceText": "Reading Text: Isang Paalala A Reminder",
-            "id": "Teks Bacaan: Ilang Paalala Sebuah Pengingat"
-          }
-        },
-        {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "mixed",
-            "sourceText": "Reading Comprehension",
-            "id": "Pemahaman Bacaan"
-          }
-        },
-        {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "mixed",
-            "sourceText": "Activities",
-            "id": "Aktivitas"
-          }
-        },
-        {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "en",
-            "sourceText": "Activity 1: Things You Can and Cannot Do",
-            "id": "Activity 1: Things You Can and Cannot Do"
-          }
-        },
-        {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "mixed",
-            "sourceText": "Activity 2: Asking for Permission",
-            "id": "Aktivitas 2: Meminta izin"
-          }
-        },
-        {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "mixed",
-            "sourceText": "Activity 3: Description",
-            "id": "Aktivitas 3: Deskripsi"
-          }
-        },
-        {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "mixed",
-            "sourceText": "Grammar",
-            "id": "Tata Bahasa"
-          }
-        },
-        {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "mixed",
-            "sourceText": "Definition of Terms: Helping Verbs, Main Verbs",
-            "id": "Definisi Terms: Membantu Verbs, Verbs Utama"
-          }
-        },
-        {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "mixed",
-            "sourceText": "Examining Form",
-            "id": "Mengkaji Bentuk"
-          }
+          "type": "list",
+          "style": "outline",
+          "items": [
+            {
+              "sourceLanguage": "mixed",
+              "sourceText": "Vocabulary",
+              "id": "Kosakata"
+            },
+            {
+              "sourceLanguage": "mixed",
+              "sourceText": "• Nouns",
+              "id": "Nouns"
+            },
+            {
+              "sourceLanguage": "en",
+              "sourceText": "• Parts of the Body",
+              "id": "Bagian dari Tubuh"
+            },
+            {
+              "sourceLanguage": "mixed",
+              "sourceText": "• Adjectives",
+              "id": "Advances"
+            },
+            {
+              "sourceLanguage": "mixed",
+              "sourceText": "• Verbs",
+              "id": "Verbs:"
+            },
+            {
+              "sourceLanguage": "mixed",
+              "sourceText": "• Helping Verbs",
+              "id": "Membantu Verbs"
+            },
+            {
+              "sourceLanguage": "mixed",
+              "sourceText": "• Phrases",
+              "id": "Phrases"
+            },
+            {
+              "sourceLanguage": "mixed",
+              "sourceText": "Reading Text: Isang Paalala A Reminder",
+              "id": "Teks Bacaan: Ilang Paalala Sebuah Pengingat"
+            },
+            {
+              "sourceLanguage": "mixed",
+              "sourceText": "Reading Comprehension",
+              "id": "Pemahaman Bacaan"
+            },
+            {
+              "sourceLanguage": "mixed",
+              "sourceText": "Activities",
+              "id": "Aktivitas"
+            },
+            {
+              "sourceLanguage": "en",
+              "sourceText": "Activity 1: Things You Can and Cannot Do",
+              "id": "Activity 1: Things You Can and Cannot Do"
+            },
+            {
+              "sourceLanguage": "mixed",
+              "sourceText": "Activity 2: Asking for Permission",
+              "id": "Aktivitas 2: Meminta izin"
+            },
+            {
+              "sourceLanguage": "mixed",
+              "sourceText": "Activity 3: Description",
+              "id": "Aktivitas 3: Deskripsi"
+            },
+            {
+              "sourceLanguage": "mixed",
+              "sourceText": "Grammar",
+              "id": "Tata Bahasa"
+            },
+            {
+              "sourceLanguage": "mixed",
+              "sourceText": "Definition of Terms: Helping Verbs, Main Verbs",
+              "id": "Definisi Terms: Membantu Verbs, Verbs Utama"
+            },
+            {
+              "sourceLanguage": "mixed",
+              "sourceText": "Examining Form",
+              "id": "Mengkaji Bentuk"
+            },
+            {
+              "sourceLanguage": "mixed",
+              "sourceText": "Practice",
+              "id": "Latihan"
+            },
+            {
+              "sourceLanguage": "en",
+              "sourceText": "I. Speaking Practice",
+              "id": "I. Latihan Berbicara"
+            },
+            {
+              "sourceLanguage": "mixed",
+              "sourceText": "II. Reading Practice",
+              "id": "II. Latihan Membaca"
+            },
+            {
+              "sourceLanguage": "mixed",
+              "sourceText": "III. Writing Practice",
+              "id": "III. Latihan Menulis"
+            },
+            {
+              "sourceLanguage": "mixed",
+              "sourceText": "IV. Listening Practice",
+              "id": "IV. Latihan Menyimak"
+            }
+          ]
         },
         {
           "type": "table",
@@ -279,57 +221,13 @@
                 }
               ]
             }
-          ]
-        },
-        {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "mixed",
-            "sourceText": "Practice",
-            "id": "Latihan"
-          }
-        },
-        {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "en",
-            "sourceText": "I. Speaking Practice",
-            "id": "I. Latihan Berbicara"
-          }
-        },
-        {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "mixed",
-            "sourceText": "II. Reading Practice",
-            "id": "II. Latihan Membaca"
-          }
-        },
-        {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "mixed",
-            "sourceText": "III. Writing Practice",
-            "id": "III. Latihan Menulis"
-          }
-        },
-        {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "mixed",
-            "sourceText": "IV. Listening Practice",
-            "id": "IV. Latihan Menyimak"
-          }
+          ],
+          "role": "outline"
         }
-      ]
+      ],
+      "id": "lesson-13-01-an-overview-of-lesson-13"
     },
     {
-      "id": "lesson-13-vocabulary",
       "type": "VOCABULARY",
       "title": {
         "sourceLanguage": "mixed",
@@ -339,7 +237,7 @@
       "blocks": [
         {
           "type": "text",
-          "style": "body",
+          "style": "heading",
           "text": {
             "sourceLanguage": "mixed",
             "sourceText": "Vocabulary (13–1)",
@@ -360,1078 +258,938 @@
           }
         },
         {
-          "type": "table",
-          "rows": [
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "Nouns",
-                  "id": "Kata benda"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "balinguyngoy",
-                  "id": "mimisan",
-                  "tagalog": "balinguyngoy"
-                },
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "nosebleed",
-                  "id": "mimisan"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "bulutong-tubig",
-                  "id": "cacar air",
-                  "tagalog": "bulutong-tubig"
-                },
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "chicken pox",
-                  "id": "cacar air"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "dalandan",
-                  "id": "oranye, citrus",
-                  "tagalog": "dalandan"
-                },
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "orange, citrus",
-                  "id": "oranye, citrus"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "gamot",
-                  "id": "obat, obat",
-                  "tagalog": "gamot"
-                },
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "medication, medicine",
-                  "id": "obat, obat"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "hika",
-                  "id": "asma",
-                  "tagalog": "hika"
-                },
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "asthma",
-                  "id": "asma"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "kalamansi",
-                  "id": "jeruk, buah asam kecil",
-                  "tagalog": "kalamansi"
-                },
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "citrus, small acidic fruit",
-                  "id": "jeruk, buah asam kecil"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "katas",
-                  "id": "jus",
-                  "tagalog": "katas"
-                },
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "juice",
-                  "id": "jus"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "kolera",
-                  "id": "kolera",
-                  "tagalog": "kolera"
-                },
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "cholera",
-                  "id": "kolera"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "lagnat",
-                  "id": "demam",
-                  "tagalog": "lagnat"
-                },
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "fever",
-                  "id": "demam"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "lugaw",
-                  "id": "bubur",
-                  "tagalog": "lugaw"
-                },
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "porridge",
-                  "id": "bubur"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "lunas",
-                  "id": "perawatan",
-                  "tagalog": "lunas"
-                },
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "treatment",
-                  "id": "perawatan"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "malaria",
-                  "id": "malaria",
-                  "tagalog": "malaria"
-                },
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "malaria",
-                  "id": "malaria"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "paalala",
-                  "id": "perhatikan, pengingat",
-                  "tagalog": "paalala"
-                },
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "notice, reminder",
-                  "id": "perhatikan, pengingat"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "pakiramdam",
-                  "id": "merasa",
-                  "tagalog": "pakiramdam"
-                },
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "feeling",
-                  "id": "merasa"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "sakit",
-                  "id": "penyakit, penyakit, penyakit",
-                  "tagalog": "sakit"
-                },
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "ailment, illness, disease",
-                  "id": "penyakit, penyakit, penyakit"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "sakit ng ulo",
-                  "id": "sakit kepala",
-                  "tagalog": "sakit ng ulo"
-                },
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "headache",
-                  "id": "sakit kepala"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "sakit ng ngipin",
-                  "id": "Sakit gigi",
-                  "tagalog": "sakit ng ngipin"
-                },
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "toothache",
-                  "id": "Sakit gigi"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "sinat",
-                  "id": "demam sedikit",
-                  "tagalog": "sinat"
-                },
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "slight fever",
-                  "id": "demam sedikit"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "sintoma",
-                  "id": "gejala",
-                  "tagalog": "sintoma"
-                },
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "symptom",
-                  "id": "gejala"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "sipon",
-                  "id": "dingin",
-                  "tagalog": "sipon"
-                },
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "cold",
-                  "id": "dingin"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "sopdrink",
-                  "id": "soda",
-                  "tagalog": "sopdrink"
-                },
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "soda",
-                  "id": "soda"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "suha",
-                  "id": "Gragefruit, pomelo",
-                  "tagalog": "suha"
-                },
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "grapefruit, pomelo",
-                  "id": "Gragefruit, pomelo"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "sugat",
-                  "id": "luka",
-                  "tagalog": "sugat"
-                },
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "wound",
-                  "id": "luka"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "tigdas",
-                  "id": "campak",
-                  "tagalog": "tigdas"
-                },
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "measles",
-                  "id": "campak"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "trangkaso",
-                  "id": "flu",
-                  "tagalog": "trangkaso"
-                },
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "flu",
-                  "id": "flu"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "ubo",
-                  "id": "batuk",
-                  "tagalog": "ubo"
-                },
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "cough",
-                  "id": "batuk"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "en",
-                  "sourceText": "Parts of the Body",
-                  "id": "Bagian dari Tubuh"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "balat",
-                  "id": "kulit",
-                  "tagalog": "balat"
-                },
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "skin",
-                  "id": "kulit"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "balikat",
-                  "id": "bahu",
-                  "tagalog": "balikat"
-                },
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "shoulder",
-                  "id": "bahu"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "binti",
-                  "id": "kaki",
-                  "tagalog": "binti"
-                },
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "leg",
-                  "id": "kaki"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "braso",
-                  "id": "lengan",
-                  "tagalog": "braso"
-                },
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "arm",
-                  "id": "lengan"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "daliri",
-                  "id": "jari",
-                  "tagalog": "daliri"
-                },
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "finger",
-                  "id": "jari"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "hita",
-                  "id": "paha",
-                  "tagalog": "hita"
-                },
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "thigh",
-                  "id": "paha"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "kamay",
-                  "id": "tangan",
-                  "tagalog": "kamay"
-                },
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "hand",
-                  "id": "tangan"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "katawan",
-                  "id": "tubuh",
-                  "tagalog": "katawan"
-                },
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "body",
-                  "id": "tubuh"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "lalamunan",
-                  "id": "tenggorokan",
-                  "tagalog": "lalamunan"
-                },
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "throat",
-                  "id": "tenggorokan"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "leeg",
-                  "id": "leher",
-                  "tagalog": "leeg"
-                },
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "neck",
-                  "id": "leher"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "likod",
-                  "id": "kembali",
-                  "tagalog": "likod"
-                },
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "back",
-                  "id": "kembali"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "paa",
-                  "id": "kaki",
-                  "tagalog": "paa"
-                },
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "foot",
-                  "id": "kaki"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "siko",
-                  "id": "siku",
-                  "tagalog": "siko"
-                },
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "elbow",
-                  "id": "siku"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "tiyan",
-                  "id": "perut",
-                  "tagalog": "tiyan"
-                },
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "stomach",
-                  "id": "perut"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "tuhod",
-                  "id": "lutut",
-                  "tagalog": "tuhod"
-                },
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "knee",
-                  "id": "lutut"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "ulo",
-                  "id": "kepala",
-                  "tagalog": "ulo"
-                },
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "head",
-                  "id": "kepala"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "Adjectives",
-                  "id": "Kata sifat"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "makati",
-                  "id": "gatal",
-                  "tagalog": "makati"
-                },
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "itchy",
-                  "id": "gatal"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "maga",
-                  "id": "bengkak",
-                  "tagalog": "maga"
-                },
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "swollen",
-                  "id": "bengkak"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "mahapdi",
-                  "id": "♪ burning feeling ♪",
-                  "tagalog": "mahapdi"
-                },
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "burning feeling",
-                  "id": "♪ burning feeling ♪"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "malalambot",
-                  "id": "soft (plural)",
-                  "tagalog": "malalambot"
-                },
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "soft (plural)",
-                  "id": "soft (plural)"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "mapula",
-                  "id": "merah",
-                  "tagalog": "mapula"
-                },
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "red",
-                  "id": "merah"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "masakit",
-                  "id": "menyakitkan",
-                  "tagalog": "masakit"
-                },
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "painful",
-                  "id": "menyakitkan"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "mabigat",
-                  "id": "stincenuous",
-                  "tagalog": "mabigat"
-                },
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "strenuous",
-                  "id": "stincenuous"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "nakakapagod",
-                  "id": "melelahkan, melelahkan",
-                  "tagalog": "nakakapagod"
-                },
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "tiring, tiresome",
-                  "id": "melelahkan, melelahkan"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "Verbs",
-                  "id": "Verbs"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "alam (object focus)",
-                  "id": "untuk mengetahui sesuatu",
-                  "tagalog": "alam (object focus)"
-                },
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "to know something",
-                  "id": "untuk mengetahui sesuatu"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "bumisita",
-                  "id": "untuk mengunjungi",
-                  "tagalog": "bumisita"
-                },
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "to visit",
-                  "id": "untuk mengunjungi"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "dumudugo",
-                  "id": "pendarahan",
-                  "tagalog": "dumudugo"
-                },
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "bleeding",
-                  "id": "pendarahan"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "magpahinga",
-                  "id": "untuk beristirahat",
-                  "tagalog": "magpahinga"
-                },
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "to rest",
-                  "id": "untuk beristirahat"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "nahihilo",
-                  "id": "merasa mual / merasa pusing",
-                  "tagalog": "nahihilo"
-                },
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "feeling nauseous/ feeling dizzy",
-                  "id": "merasa mual / merasa pusing"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "nagtatae",
-                  "id": "mengalami diare",
-                  "tagalog": "nagtatae"
-                },
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "having diarrhea",
-                  "id": "mengalami diare"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "sumasakit",
-                  "id": "sakit",
-                  "tagalog": "sumasakit"
-                },
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "aching",
-                  "id": "sakit"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "tandaan",
-                  "id": "ingat (objektif-fokus kata kerja)",
-                  "tagalog": "tandaan"
-                },
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "remember (object-focus verb)",
-                  "id": "ingat (objektif-fokus kata kerja)"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "uminom",
-                  "id": "(Sesudah itu kalian minum) yakni sesudah memakan buah pohon zaqqum itu (air yang sangat panas).",
-                  "tagalog": "uminom"
-                },
-                {
-                  "sourceLanguage": "en",
-                  "sourceText": "to take (medicine); to drink",
-                  "id": "(Sesudah itu kalian minum) yakni sesudah memakan buah pohon zaqqum itu (air yang sangat panas)."
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "yumuko",
-                  "id": "untuk membungkuk",
-                  "tagalog": "yumuko"
-                },
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "to stoop",
-                  "id": "untuk membungkuk"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "Helping Verbs",
-                  "id": "Membantu Verbs"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "bawal",
-                  "id": "dilarang, dilarang",
-                  "tagalog": "bawal"
-                },
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "forbidden, prohibited",
-                  "id": "dilarang, dilarang"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "dapat",
-                  "id": "mesti",
-                  "tagalog": "dapat"
-                },
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "should",
-                  "id": "mesti"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "huwag",
-                  "id": "jangan",
-                  "tagalog": "huwag"
-                },
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "don’t",
-                  "id": "jangan"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "puwede",
-                  "id": "dapat",
-                  "tagalog": "puwede"
-                },
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "can",
-                  "id": "dapat"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "Phrases",
-                  "id": "Phrases"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "ayon sa",
-                  "id": "menurut",
-                  "tagalog": "ayon sa"
-                },
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "according to",
-                  "id": "menurut"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "kung may sakit",
-                  "id": "jika sakit / ketika sakit",
-                  "tagalog": "kung may sakit"
-                },
-                {
-                  "sourceLanguage": "en",
-                  "sourceText": "if sick/when sick",
-                  "id": "jika sakit / ketika sakit"
-                }
-              ]
+          "type": "vocabulary",
+          "entries": [
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "balinguyngoy",
+                "id": "mimisan",
+                "tagalog": "balinguyngoy"
+              },
+              "meaning": {
+                "sourceLanguage": "mixed",
+                "sourceText": "nosebleed",
+                "id": "mimisan"
+              }
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "bulutong-tubig",
+                "id": "cacar air",
+                "tagalog": "bulutong-tubig"
+              },
+              "meaning": {
+                "sourceLanguage": "mixed",
+                "sourceText": "chicken pox",
+                "id": "cacar air"
+              }
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "dalandan",
+                "id": "oranye, citrus",
+                "tagalog": "dalandan"
+              },
+              "meaning": {
+                "sourceLanguage": "mixed",
+                "sourceText": "orange, citrus",
+                "id": "oranye, citrus"
+              }
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "gamot",
+                "id": "obat, obat",
+                "tagalog": "gamot"
+              },
+              "meaning": {
+                "sourceLanguage": "mixed",
+                "sourceText": "medication, medicine",
+                "id": "obat, obat"
+              }
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "hika",
+                "id": "asma",
+                "tagalog": "hika"
+              },
+              "meaning": {
+                "sourceLanguage": "mixed",
+                "sourceText": "asthma",
+                "id": "asma"
+              }
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "kalamansi",
+                "id": "jeruk, buah asam kecil",
+                "tagalog": "kalamansi"
+              },
+              "meaning": {
+                "sourceLanguage": "mixed",
+                "sourceText": "citrus, small acidic fruit",
+                "id": "jeruk, buah asam kecil"
+              }
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "katas",
+                "id": "jus",
+                "tagalog": "katas"
+              },
+              "meaning": {
+                "sourceLanguage": "mixed",
+                "sourceText": "juice",
+                "id": "jus"
+              }
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "kolera",
+                "id": "kolera",
+                "tagalog": "kolera"
+              },
+              "meaning": {
+                "sourceLanguage": "mixed",
+                "sourceText": "cholera",
+                "id": "kolera"
+              }
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "lagnat",
+                "id": "demam",
+                "tagalog": "lagnat"
+              },
+              "meaning": {
+                "sourceLanguage": "mixed",
+                "sourceText": "fever",
+                "id": "demam"
+              }
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "lugaw",
+                "id": "bubur",
+                "tagalog": "lugaw"
+              },
+              "meaning": {
+                "sourceLanguage": "mixed",
+                "sourceText": "porridge",
+                "id": "bubur"
+              }
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "lunas",
+                "id": "perawatan",
+                "tagalog": "lunas"
+              },
+              "meaning": {
+                "sourceLanguage": "mixed",
+                "sourceText": "treatment",
+                "id": "perawatan"
+              }
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "malaria",
+                "id": "malaria",
+                "tagalog": "malaria"
+              },
+              "meaning": {
+                "sourceLanguage": "mixed",
+                "sourceText": "malaria",
+                "id": "malaria"
+              }
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "paalala",
+                "id": "perhatikan, pengingat",
+                "tagalog": "paalala"
+              },
+              "meaning": {
+                "sourceLanguage": "mixed",
+                "sourceText": "notice, reminder",
+                "id": "perhatikan, pengingat"
+              }
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "pakiramdam",
+                "id": "merasa",
+                "tagalog": "pakiramdam"
+              },
+              "meaning": {
+                "sourceLanguage": "mixed",
+                "sourceText": "feeling",
+                "id": "merasa"
+              }
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "sakit",
+                "id": "penyakit, penyakit, penyakit",
+                "tagalog": "sakit"
+              },
+              "meaning": {
+                "sourceLanguage": "mixed",
+                "sourceText": "ailment, illness, disease",
+                "id": "penyakit, penyakit, penyakit"
+              }
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "sakit ng ulo",
+                "id": "sakit kepala",
+                "tagalog": "sakit ng ulo"
+              },
+              "meaning": {
+                "sourceLanguage": "mixed",
+                "sourceText": "headache",
+                "id": "sakit kepala"
+              }
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "sakit ng ngipin",
+                "id": "Sakit gigi",
+                "tagalog": "sakit ng ngipin"
+              },
+              "meaning": {
+                "sourceLanguage": "mixed",
+                "sourceText": "toothache",
+                "id": "Sakit gigi"
+              }
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "sinat",
+                "id": "demam sedikit",
+                "tagalog": "sinat"
+              },
+              "meaning": {
+                "sourceLanguage": "mixed",
+                "sourceText": "slight fever",
+                "id": "demam sedikit"
+              }
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "sintoma",
+                "id": "gejala",
+                "tagalog": "sintoma"
+              },
+              "meaning": {
+                "sourceLanguage": "mixed",
+                "sourceText": "symptom",
+                "id": "gejala"
+              }
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "sipon",
+                "id": "dingin",
+                "tagalog": "sipon"
+              },
+              "meaning": {
+                "sourceLanguage": "mixed",
+                "sourceText": "cold",
+                "id": "dingin"
+              }
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "sopdrink",
+                "id": "soda",
+                "tagalog": "sopdrink"
+              },
+              "meaning": {
+                "sourceLanguage": "mixed",
+                "sourceText": "soda",
+                "id": "soda"
+              }
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "suha",
+                "id": "Gragefruit, pomelo",
+                "tagalog": "suha"
+              },
+              "meaning": {
+                "sourceLanguage": "mixed",
+                "sourceText": "grapefruit, pomelo",
+                "id": "Gragefruit, pomelo"
+              }
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "sugat",
+                "id": "luka",
+                "tagalog": "sugat"
+              },
+              "meaning": {
+                "sourceLanguage": "mixed",
+                "sourceText": "wound",
+                "id": "luka"
+              }
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "tigdas",
+                "id": "campak",
+                "tagalog": "tigdas"
+              },
+              "meaning": {
+                "sourceLanguage": "mixed",
+                "sourceText": "measles",
+                "id": "campak"
+              }
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "trangkaso",
+                "id": "flu",
+                "tagalog": "trangkaso"
+              },
+              "meaning": {
+                "sourceLanguage": "mixed",
+                "sourceText": "flu",
+                "id": "flu"
+              }
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "ubo",
+                "id": "batuk",
+                "tagalog": "ubo"
+              },
+              "meaning": {
+                "sourceLanguage": "mixed",
+                "sourceText": "cough",
+                "id": "batuk"
+              }
             }
-          ]
+          ],
+          "title": {
+            "sourceLanguage": "mixed",
+            "sourceText": "Nouns",
+            "id": "Kata benda"
+          }
+        },
+        {
+          "type": "vocabulary",
+          "entries": [
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "balat",
+                "id": "kulit",
+                "tagalog": "balat"
+              },
+              "meaning": {
+                "sourceLanguage": "mixed",
+                "sourceText": "skin",
+                "id": "kulit"
+              }
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "balikat",
+                "id": "bahu",
+                "tagalog": "balikat"
+              },
+              "meaning": {
+                "sourceLanguage": "mixed",
+                "sourceText": "shoulder",
+                "id": "bahu"
+              }
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "binti",
+                "id": "kaki",
+                "tagalog": "binti"
+              },
+              "meaning": {
+                "sourceLanguage": "mixed",
+                "sourceText": "leg",
+                "id": "kaki"
+              }
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "braso",
+                "id": "lengan",
+                "tagalog": "braso"
+              },
+              "meaning": {
+                "sourceLanguage": "mixed",
+                "sourceText": "arm",
+                "id": "lengan"
+              }
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "daliri",
+                "id": "jari",
+                "tagalog": "daliri"
+              },
+              "meaning": {
+                "sourceLanguage": "mixed",
+                "sourceText": "finger",
+                "id": "jari"
+              }
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "hita",
+                "id": "paha",
+                "tagalog": "hita"
+              },
+              "meaning": {
+                "sourceLanguage": "mixed",
+                "sourceText": "thigh",
+                "id": "paha"
+              }
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "kamay",
+                "id": "tangan",
+                "tagalog": "kamay"
+              },
+              "meaning": {
+                "sourceLanguage": "mixed",
+                "sourceText": "hand",
+                "id": "tangan"
+              }
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "katawan",
+                "id": "tubuh",
+                "tagalog": "katawan"
+              },
+              "meaning": {
+                "sourceLanguage": "mixed",
+                "sourceText": "body",
+                "id": "tubuh"
+              }
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "lalamunan",
+                "id": "tenggorokan",
+                "tagalog": "lalamunan"
+              },
+              "meaning": {
+                "sourceLanguage": "mixed",
+                "sourceText": "throat",
+                "id": "tenggorokan"
+              }
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "leeg",
+                "id": "leher",
+                "tagalog": "leeg"
+              },
+              "meaning": {
+                "sourceLanguage": "mixed",
+                "sourceText": "neck",
+                "id": "leher"
+              }
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "likod",
+                "id": "kembali",
+                "tagalog": "likod"
+              },
+              "meaning": {
+                "sourceLanguage": "mixed",
+                "sourceText": "back",
+                "id": "kembali"
+              }
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "paa",
+                "id": "kaki",
+                "tagalog": "paa"
+              },
+              "meaning": {
+                "sourceLanguage": "mixed",
+                "sourceText": "foot",
+                "id": "kaki"
+              }
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "siko",
+                "id": "siku",
+                "tagalog": "siko"
+              },
+              "meaning": {
+                "sourceLanguage": "mixed",
+                "sourceText": "elbow",
+                "id": "siku"
+              }
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "tiyan",
+                "id": "perut",
+                "tagalog": "tiyan"
+              },
+              "meaning": {
+                "sourceLanguage": "mixed",
+                "sourceText": "stomach",
+                "id": "perut"
+              }
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "tuhod",
+                "id": "lutut",
+                "tagalog": "tuhod"
+              },
+              "meaning": {
+                "sourceLanguage": "mixed",
+                "sourceText": "knee",
+                "id": "lutut"
+              }
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "ulo",
+                "id": "kepala",
+                "tagalog": "ulo"
+              },
+              "meaning": {
+                "sourceLanguage": "mixed",
+                "sourceText": "head",
+                "id": "kepala"
+              }
+            }
+          ],
+          "title": {
+            "sourceLanguage": "en",
+            "sourceText": "Parts of the Body",
+            "id": "Bagian dari Tubuh"
+          }
+        },
+        {
+          "type": "vocabulary",
+          "entries": [
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "makati",
+                "id": "gatal",
+                "tagalog": "makati"
+              },
+              "meaning": {
+                "sourceLanguage": "mixed",
+                "sourceText": "itchy",
+                "id": "gatal"
+              }
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "maga",
+                "id": "bengkak",
+                "tagalog": "maga"
+              },
+              "meaning": {
+                "sourceLanguage": "mixed",
+                "sourceText": "swollen",
+                "id": "bengkak"
+              }
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "mahapdi",
+                "id": "♪ burning feeling ♪",
+                "tagalog": "mahapdi"
+              },
+              "meaning": {
+                "sourceLanguage": "mixed",
+                "sourceText": "burning feeling",
+                "id": "♪ burning feeling ♪"
+              }
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "malalambot",
+                "id": "soft (plural)",
+                "tagalog": "malalambot"
+              },
+              "meaning": {
+                "sourceLanguage": "mixed",
+                "sourceText": "soft (plural)",
+                "id": "soft (plural)"
+              }
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "mapula",
+                "id": "merah",
+                "tagalog": "mapula"
+              },
+              "meaning": {
+                "sourceLanguage": "mixed",
+                "sourceText": "red",
+                "id": "merah"
+              }
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "masakit",
+                "id": "menyakitkan",
+                "tagalog": "masakit"
+              },
+              "meaning": {
+                "sourceLanguage": "mixed",
+                "sourceText": "painful",
+                "id": "menyakitkan"
+              }
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "mabigat",
+                "id": "stincenuous",
+                "tagalog": "mabigat"
+              },
+              "meaning": {
+                "sourceLanguage": "mixed",
+                "sourceText": "strenuous",
+                "id": "stincenuous"
+              }
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "nakakapagod",
+                "id": "melelahkan, melelahkan",
+                "tagalog": "nakakapagod"
+              },
+              "meaning": {
+                "sourceLanguage": "mixed",
+                "sourceText": "tiring, tiresome",
+                "id": "melelahkan, melelahkan"
+              }
+            }
+          ],
+          "title": {
+            "sourceLanguage": "mixed",
+            "sourceText": "Adjectives",
+            "id": "Kata sifat"
+          }
+        },
+        {
+          "type": "vocabulary",
+          "entries": [
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "alam (object focus)",
+                "id": "untuk mengetahui sesuatu",
+                "tagalog": "alam (object focus)"
+              },
+              "meaning": {
+                "sourceLanguage": "mixed",
+                "sourceText": "to know something",
+                "id": "untuk mengetahui sesuatu"
+              }
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "bumisita",
+                "id": "untuk mengunjungi",
+                "tagalog": "bumisita"
+              },
+              "meaning": {
+                "sourceLanguage": "mixed",
+                "sourceText": "to visit",
+                "id": "untuk mengunjungi"
+              }
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "dumudugo",
+                "id": "pendarahan",
+                "tagalog": "dumudugo"
+              },
+              "meaning": {
+                "sourceLanguage": "mixed",
+                "sourceText": "bleeding",
+                "id": "pendarahan"
+              }
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "magpahinga",
+                "id": "untuk beristirahat",
+                "tagalog": "magpahinga"
+              },
+              "meaning": {
+                "sourceLanguage": "mixed",
+                "sourceText": "to rest",
+                "id": "untuk beristirahat"
+              }
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "nahihilo",
+                "id": "merasa mual / merasa pusing",
+                "tagalog": "nahihilo"
+              },
+              "meaning": {
+                "sourceLanguage": "mixed",
+                "sourceText": "feeling nauseous/ feeling dizzy",
+                "id": "merasa mual / merasa pusing"
+              }
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "nagtatae",
+                "id": "mengalami diare",
+                "tagalog": "nagtatae"
+              },
+              "meaning": {
+                "sourceLanguage": "mixed",
+                "sourceText": "having diarrhea",
+                "id": "mengalami diare"
+              }
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "sumasakit",
+                "id": "sakit",
+                "tagalog": "sumasakit"
+              },
+              "meaning": {
+                "sourceLanguage": "mixed",
+                "sourceText": "aching",
+                "id": "sakit"
+              }
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "tandaan",
+                "id": "ingat (objektif-fokus kata kerja)",
+                "tagalog": "tandaan"
+              },
+              "meaning": {
+                "sourceLanguage": "mixed",
+                "sourceText": "remember (object-focus verb)",
+                "id": "ingat (objektif-fokus kata kerja)"
+              }
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "uminom",
+                "id": "(Sesudah itu kalian minum) yakni sesudah memakan buah pohon zaqqum itu (air yang sangat panas).",
+                "tagalog": "uminom"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "to take (medicine); to drink",
+                "id": "(Sesudah itu kalian minum) yakni sesudah memakan buah pohon zaqqum itu (air yang sangat panas)."
+              }
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "yumuko",
+                "id": "untuk membungkuk",
+                "tagalog": "yumuko"
+              },
+              "meaning": {
+                "sourceLanguage": "mixed",
+                "sourceText": "to stoop",
+                "id": "untuk membungkuk"
+              }
+            }
+          ],
+          "title": {
+            "sourceLanguage": "mixed",
+            "sourceText": "Verbs",
+            "id": "Verbs"
+          }
+        },
+        {
+          "type": "vocabulary",
+          "entries": [
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "bawal",
+                "id": "dilarang, dilarang",
+                "tagalog": "bawal"
+              },
+              "meaning": {
+                "sourceLanguage": "mixed",
+                "sourceText": "forbidden, prohibited",
+                "id": "dilarang, dilarang"
+              }
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "dapat",
+                "id": "mesti",
+                "tagalog": "dapat"
+              },
+              "meaning": {
+                "sourceLanguage": "mixed",
+                "sourceText": "should",
+                "id": "mesti"
+              }
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "huwag",
+                "id": "jangan",
+                "tagalog": "huwag"
+              },
+              "meaning": {
+                "sourceLanguage": "mixed",
+                "sourceText": "don’t",
+                "id": "jangan"
+              }
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "puwede",
+                "id": "dapat",
+                "tagalog": "puwede"
+              },
+              "meaning": {
+                "sourceLanguage": "mixed",
+                "sourceText": "can",
+                "id": "dapat"
+              }
+            }
+          ],
+          "title": {
+            "sourceLanguage": "mixed",
+            "sourceText": "Helping Verbs",
+            "id": "Membantu Verbs"
+          }
+        },
+        {
+          "type": "vocabulary",
+          "entries": [
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "ayon sa",
+                "id": "menurut",
+                "tagalog": "ayon sa"
+              },
+              "meaning": {
+                "sourceLanguage": "mixed",
+                "sourceText": "according to",
+                "id": "menurut"
+              }
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "kung may sakit",
+                "id": "jika sakit / ketika sakit",
+                "tagalog": "kung may sakit"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "if sick/when sick",
+                "id": "jika sakit / ketika sakit"
+              }
+            }
+          ],
+          "title": {
+            "sourceLanguage": "mixed",
+            "sourceText": "Phrases",
+            "id": "Phrases"
+          }
         },
         {
           "type": "image",
           "path": "assets/221.jpg"
         }
-      ]
+      ],
+      "id": "lesson-13-02-vocabulary"
     },
     {
-      "id": "lesson-13-reading-text-isang-paalala-a-reminder",
-      "type": "DIALOGUE",
+      "type": "LEARNING_MATERIAL",
       "title": {
         "sourceLanguage": "mixed",
         "sourceText": "Reading Text: Isang Paalala A Reminder",
         "id": "Teks Bacaan: Ilang Paalala Sebuah Pengingat"
       },
       "blocks": [
-        {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "mixed",
-            "sourceText": "Reading Text: Isang Paalala A Reminder",
-            "id": "Teks Bacaan: Ilang Paalala Sebuah Pengingat"
-          }
-        },
         {
           "type": "text",
           "style": "body",
@@ -1564,19 +1322,21 @@
             "id": "Anda dapat minum jus buah seperti lemonis, jeruk, dan sutra.",
             "tagalog": "4. Puwede kang uminom ng mga katas ng prutas tulad ng kalamansi, dalandan, at suha."
           }
-        },
+        }
+      ],
+      "id": "lesson-13-03-reading-text-isang-paalala-a-reminder"
+    },
+    {
+      "type": "EXERCISES",
+      "title": {
+        "sourceLanguage": "mixed",
+        "sourceText": "Reading Comprehension",
+        "id": "Pemahaman Bacaan"
+      },
+      "blocks": [
         {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "mixed",
-            "sourceText": "Reading Comprehension",
-            "id": "Pemahaman Bacaan"
-          }
-        },
-        {
-          "type": "text",
-          "style": "body",
+          "type": "exercise",
+          "role": "question",
           "text": {
             "sourceLanguage": "fil",
             "sourceText": "1. Ayon sa paalala, anu-ano ang mga sintoma ng trangkaso?",
@@ -1585,17 +1345,8 @@
           }
         },
         {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "mixed",
-            "sourceText": "___________________________________",
-            "id": "___________________________________"
-          }
-        },
-        {
-          "type": "text",
-          "style": "body",
+          "type": "exercise",
+          "role": "question",
           "text": {
             "sourceLanguage": "fil",
             "sourceText": "2. Anu-ano ang mga bawal gawin kung may trangkaso?",
@@ -1604,17 +1355,8 @@
           }
         },
         {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "mixed",
-            "sourceText": "___________________________________",
-            "id": "___________________________________"
-          }
-        },
-        {
-          "type": "text",
-          "style": "body",
+          "type": "exercise",
+          "role": "question",
           "text": {
             "sourceLanguage": "fil",
             "sourceText": "3. Kung may trangkaso, puwede bang gumawa ng mga nakakapagod na gawain?",
@@ -1623,17 +1365,8 @@
           }
         },
         {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "mixed",
-            "sourceText": "___________________________________",
-            "id": "___________________________________"
-          }
-        },
-        {
-          "type": "text",
-          "style": "body",
+          "type": "exercise",
+          "role": "question",
           "text": {
             "sourceLanguage": "fil",
             "sourceText": "4. Anu-ano ang mga puwedeng gawin kung may trangkaso?",
@@ -1642,65 +1375,29 @@
           }
         },
         {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "mixed",
-            "sourceText": "___________________________________",
-            "id": "___________________________________"
-          }
-        },
-        {
-          "type": "text",
-          "style": "body",
+          "type": "exercise",
+          "role": "question",
           "text": {
             "sourceLanguage": "fil",
             "sourceText": "5. Kung may trangkaso, bawal bang magpahinga?",
             "id": "Jika ada flu, apakah itu ilegal untuk beristirahat?",
             "tagalog": "5. Kung may trangkaso, bawal bang magpahinga?"
           }
-        },
-        {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "mixed",
-            "sourceText": "___________________________________",
-            "id": "___________________________________"
-          }
         }
-      ]
+      ],
+      "id": "lesson-13-04-reading-comprehension"
     },
     {
-      "id": "lesson-13-activities",
-      "type": "ACTIVITY",
+      "type": "EXERCISES",
       "title": {
         "sourceLanguage": "mixed",
-        "sourceText": "Activities",
-        "id": "Aktivitas"
+        "sourceText": "Activity 1",
+        "id": "Aktivitas 1"
       },
       "blocks": [
         {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "mixed",
-            "sourceText": "Activities",
-            "id": "Aktivitas"
-          }
-        },
-        {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "mixed",
-            "sourceText": "Activity 1",
-            "id": "Aktivitas 1"
-          }
-        },
-        {
-          "type": "text",
-          "style": "body",
+          "type": "exercise",
+          "role": "content",
           "text": {
             "sourceLanguage": "en",
             "sourceText": "Decide whether you can or cannot do the following activities under the following circumstances. Discuss your answers with a partner.",
@@ -1708,7 +1405,8 @@
           }
         },
         {
-          "type": "table",
+          "type": "exercise",
+          "role": "worksheet",
           "rows": [
             {
               "cells": [
@@ -1825,19 +1523,21 @@
               ]
             }
           ]
-        },
+        }
+      ],
+      "id": "lesson-13-05-activity-1"
+    },
+    {
+      "type": "EXERCISES",
+      "title": {
+        "sourceLanguage": "mixed",
+        "sourceText": "Activity 2",
+        "id": "Aktivitas 2"
+      },
+      "blocks": [
         {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "mixed",
-            "sourceText": "Activity 2",
-            "id": "Aktivitas 2"
-          }
-        },
-        {
-          "type": "text",
-          "style": "body",
+          "type": "exercise",
+          "role": "instruction",
           "text": {
             "sourceLanguage": "en",
             "sourceText": "Write a question using puwede to ask permission in each of the following scenarios. Provide explanations and, when appropriate, use polite enclitics. The example can serve to model your sentences.",
@@ -1853,7 +1553,8 @@
           "path": "assets/223.jpg"
         },
         {
-          "type": "table",
+          "type": "exercise",
+          "role": "worksheet",
           "rows": [
             {
               "cells": [
@@ -1998,19 +1699,21 @@
               ]
             }
           ]
-        },
+        }
+      ],
+      "id": "lesson-13-06-activity-2"
+    },
+    {
+      "type": "EXERCISES",
+      "title": {
+        "sourceLanguage": "mixed",
+        "sourceText": "Activity 3",
+        "id": "Aktivitas 3"
+      },
+      "blocks": [
         {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "mixed",
-            "sourceText": "Activity 3",
-            "id": "Aktivitas 3"
-          }
-        },
-        {
-          "type": "text",
-          "style": "body",
+          "type": "exercise",
+          "role": "content",
           "text": {
             "sourceLanguage": "en",
             "sourceText": "In the space provided, list all the physical symptoms that are associated with each of the ailments in the table below. Also include all the activities that one should or shouldn’t do to alleviate the pain. Remember to use dapat and huwag.",
@@ -2018,7 +1721,8 @@
           }
         },
         {
-          "type": "table",
+          "type": "exercise",
+          "role": "worksheet",
           "rows": [
             {
               "cells": [
@@ -2103,35 +1807,17 @@
             }
           ]
         }
-      ]
+      ],
+      "id": "lesson-13-07-activity-3"
     },
     {
-      "id": "lesson-13-grammar",
-      "type": "GRAMMAR",
+      "type": "LEARNING_MATERIAL",
       "title": {
         "sourceLanguage": "mixed",
-        "sourceText": "Grammar",
-        "id": "Tata Bahasa"
+        "sourceText": "Definition of Terms",
+        "id": "Definisi Istilah"
       },
       "blocks": [
-        {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "mixed",
-            "sourceText": "Grammar",
-            "id": "Tata Bahasa"
-          }
-        },
-        {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "mixed",
-            "sourceText": "Definition of Terms",
-            "id": "Definisi Istilah"
-          }
-        },
         {
           "type": "table",
           "rows": [
@@ -2145,7 +1831,8 @@
                 {
                   "sourceLanguage": "en",
                   "sourceText": "Modify the meaning of the main verb to express any of the following: negative commands, the ability to perform or carry out an action, or the necessity or obligation to do something.\n\nEXAMPLES:\n\nDapat kang uminom ng gamot. You should take medication.\n\nHuwag kang magtrabaho nang mabigat. Do not do strenuous work.\n\nBawal kang lumabas ng bahay. You are forbidden to go outside the house.\n\nPuwede ka nang pumasok sa eskwela. You can now go to school.",
-                  "id": "Ubah arti kata kerja utama untuk mengekspresikan hal berikut: perintah negatif, kemampuan untuk melakukan atau melakukan tindakan, atau kebutuhan atau kewajiban untuk melakukan sesuatu. EXAMPLES: Dapat kang ujinom ng gamot kau harus minum obat Huwag kang magtrabaho nang mabigat. Bawal Kang lumabas ng bahay, kau dilarang keluar rumah. Puwede ka nang pumasok sa eskwela."
+                  "id": "Ubah arti kata kerja utama untuk mengekspresikan hal berikut: perintah negatif, kemampuan untuk melakukan atau melakukan tindakan, atau kebutuhan atau kewajiban untuk melakukan sesuatu. EXAMPLES: Dapat kang ujinom ng gamot kau harus minum obat Huwag kang magtrabaho nang mabigat. Bawal Kang lumabas ng bahay, kau dilarang keluar rumah. Puwede ka nang pumasok sa eskwela.",
+                  "tagalog": "Dapat kang uminom ng gamot. Huwag kang magtrabaho nang mabigat. Bawal kang lumabas ng bahay. Puwede ka nang pumasok sa eskwela."
                 }
               ]
             },
@@ -2187,7 +1874,8 @@
                 {
                   "sourceLanguage": "en",
                   "sourceText": "The basic word in Tagalog without affixes or changes.\n\nEXAMPLES:\n\nDapat kang uminom ng gamot. You should take medication.\n\nBawal kang lumabas ng bahay. You are forbidden to go outside the house.\n\nPuwede ka nang pumasok sa eskwela. You can now go to school.",
-                  "id": "Kata dasar dalam Tagalog tanpa affix atau perubahan. EXAMPLES: Dapat kang ujinom ng gamot kau harus minum obat Bawal Kang lumabas ng bahay, kau dilarang keluar rumah. Puwede ka nang pumasok sa eskwela."
+                  "id": "Kata dasar dalam Tagalog tanpa affix atau perubahan. EXAMPLES: Dapat kang ujinom ng gamot kau harus minum obat Bawal Kang lumabas ng bahay, kau dilarang keluar rumah. Puwede ka nang pumasok sa eskwela.",
+                  "tagalog": "Dapat kang uminom ng gamot. Bawal kang lumabas ng bahay. Puwede ka nang pumasok sa eskwela."
                 }
               ]
             },
@@ -2219,17 +1907,20 @@
                 }
               ]
             }
-          ]
-        },
-        {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "mixed",
-            "sourceText": "Examining Form",
-            "id": "Mengkaji Bentuk"
-          }
-        },
+          ],
+          "role": "reference"
+        }
+      ],
+      "id": "lesson-13-08-definition-of-terms"
+    },
+    {
+      "type": "LEARNING_MATERIAL",
+      "title": {
+        "sourceLanguage": "mixed",
+        "sourceText": "Examining Form",
+        "id": "Menganalisis Bentuk"
+      },
+      "blocks": [
         {
           "type": "text",
           "style": "body",
@@ -2320,7 +2011,8 @@
                 }
               ]
             }
-          ]
+          ],
+          "role": "reference"
         },
         {
           "type": "text",
@@ -2348,16 +2040,18 @@
             "sourceText": "3. List all the differences and similarities in structure in column A and column B.",
             "id": "Daftar semua perbedaan dan kesamaan dalam struktur dalam kolom A dan kolom B"
           }
-        },
-        {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "en",
-            "sourceText": "I. Helping Verbs and Negative Markers",
-            "id": "I. Membantu Verbs dan Negatif Markers"
-          }
-        },
+        }
+      ],
+      "id": "lesson-13-09-examining-form"
+    },
+    {
+      "type": "LEARNING_MATERIAL",
+      "title": {
+        "sourceLanguage": "en",
+        "sourceText": "I. Helping Verbs and Negative Markers",
+        "id": "I. Membantu Verbs dan Negatif Penanda"
+      },
+      "blocks": [
         {
           "type": "text",
           "style": "body",
@@ -2434,7 +2128,8 @@
           "text": {
             "sourceLanguage": "en",
             "sourceText": "Dapat na kayong magpahinga. You (plural) should now take a rest.",
-            "id": "Dapat na kayong magpahinga."
+            "id": "Dapat na kayong magpahinga.",
+            "tagalog": "Dapat na kayo ng magpahinga."
           }
         },
         {
@@ -2443,7 +2138,8 @@
           "text": {
             "sourceLanguage": "en",
             "sourceText": "I = Infinitive form",
-            "id": "Aku = Bentuk yang tak terbatas"
+            "id": "Aku = Bentuk yang tak terbatas",
+            "tagalog": "Infinitive form"
           }
         },
         {
@@ -2471,7 +2167,8 @@
           "text": {
             "sourceLanguage": "en",
             "sourceText": "Dapat na kayong magpahinga. You (plural) should now take a rest.",
-            "id": "Dapat na kayong magpahinga."
+            "id": "Dapat na kayong magpahinga.",
+            "tagalog": "Dapat na kayo ng magpahinga."
           }
         },
         {
@@ -2509,7 +2206,8 @@
           "text": {
             "sourceLanguage": "en",
             "sourceText": "Dapat na kayong magpahinga. You (plural) should now take a rest.",
-            "id": "Dapat na kayong magpahinga."
+            "id": "Dapat na kayong magpahinga.",
+            "tagalog": "Dapat na kayo ng magpahinga."
           }
         },
         {
@@ -2518,7 +2216,8 @@
           "text": {
             "sourceLanguage": "en",
             "sourceText": "Puwede ring magpunta sa ospital. (You) Can also go to the hospital.",
-            "id": "Cincin puwede magpunta sa ospital. (Anda) dapat juga pergi ke rumah sakit."
+            "id": "Cincin puwede magpunta sa ospital. (Anda) dapat juga pergi ke rumah sakit.",
+            "tagalog": "Puwede rin g magpunta sa ospital."
           }
         },
         {
@@ -2529,16 +2228,18 @@
             "sourceText": "When you are using a helping verb or negative command and the subject actor is not a pronoun, the rules are slightly different, as will be explained below.",
             "id": "Ketika Anda menggunakan kata kerja bantuan atau perintah negatif dan aktor subjek bukan kata ganti, aturan sedikit berbeda, seperti yang akan dijelaskan di bawah ini."
           }
-        },
-        {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "mixed",
-            "sourceText": "Grammar Presentation",
-            "id": "Penyajian Tata Bahasa"
-          }
-        },
+        }
+      ],
+      "id": "lesson-13-10-i-helping-verbs-and-negative-markers"
+    },
+    {
+      "type": "LEARNING_MATERIAL",
+      "title": {
+        "sourceLanguage": "mixed",
+        "sourceText": "Grammar Presentation",
+        "id": "Penyajian Tata Bahasa"
+      },
+      "blocks": [
         {
           "type": "text",
           "style": "body",
@@ -2690,7 +2391,8 @@
                 }
               ]
             }
-          ]
+          ],
+          "role": "reference"
         },
         {
           "type": "text",
@@ -2700,46 +2402,62 @@
             "sourceText": "Notice the different word order in the examples below, where the actor of the verb is also a noun, or ang phrase:",
             "id": "Perhatikan urutan kata yang berbeda dalam contoh di bawah, di mana aktor dari kata kerja juga merupakan kata benda, atau kata benda:"
           }
+        }
+      ],
+      "id": "lesson-13-11-grammar-presentation"
+    },
+    {
+      "type": "EXAMPLES",
+      "title": {
+        "sourceLanguage": "mixed",
+        "sourceText": "EXAMPLES:",
+        "id": "Contoh"
+      },
+      "blocks": [
+        {
+          "type": "example",
+          "items": [
+            {
+              "sourceLanguage": "mixed",
+              "sourceText": "1. HELPING VERB + ENCLITIC + INFINITIVE + SUBJECT + PREPOSITIONAL PHRASE\n\nBawal hong pumasok ang anak ninyo sa eskwelahan. Your child is not allowed to go to school, sir/madam.",
+              "id": "1. Menolong VERB + ENCITIC + INFINIVE + SUBJECT + PREPOSITIONAL PHRASE Bawal hong pumasok ang anak ninyo sa eskwelahan. anak Anda tidak diizinkan untuk pergi ke sekolah, Sir / Madam.",
+              "tagalog": "Bawal hong pumasok ang anak ninyo sa eskwelahan. ang anak"
+            }
+          ]
         },
         {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "mixed",
-            "sourceText": "EXAMPLES:",
-            "id": "EXAMPLES:"
-          }
+          "type": "example",
+          "items": [
+            {
+              "sourceLanguage": "mixed",
+              "sourceText": "2. HELPING VERB + ENCLITIC + INFINITIVE + DIRECT OBJECT + SUBJECT\n\nDapat daw uminom ng gamot si Patrick. They say Patrick should take medicine.",
+              "id": "2. Menolong VERB + ENCITIC + INFINITIVE + DIRECT OBJECT + SUBJECT Dapat daw uminom ng gamot si Patrick, mereka bilang Patrick harus minum obat",
+              "tagalog": "Dapat daw uminom ng gamot si Patrick. si Patrick"
+            }
+          ]
         },
         {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "mixed",
-            "sourceText": "1. HELPING VERB + ENCLITIC + INFINITIVE + SUBJECT + PREPOSITIONAL PHRASE\n\nBawal hong pumasok ang anak ninyo sa eskwelahan. Your child is not allowed to go to school, sir/madam.",
-            "id": "1. Menolong VERB + ENCITIC + INFINIVE + SUBJECT + PREPOSITIONAL PHRASE Bawal hong pumasok ang anak ninyo sa eskwelahan. anak Anda tidak diizinkan untuk pergi ke sekolah, Sir / Madam.",
-            "tagalog": "Bawal hong pumasok ang anak ninyo sa eskwelahan. ang anak"
-          }
-        },
-        {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "mixed",
-            "sourceText": "2. HELPING VERB + ENCLITIC + INFINITIVE + DIRECT OBJECT + SUBJECT\n\nDapat daw uminom ng gamot si Patrick. They say Patrick should take medicine.",
-            "id": "2. Menolong VERB + ENCITIC + INFINITIVE + DIRECT OBJECT + SUBJECT Dapat daw uminom ng gamot si Patrick, mereka bilang Patrick harus minum obat",
-            "tagalog": "Dapat daw uminom ng gamot si Patrick. si Patrick"
-          }
-        },
-        {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "fil",
-            "sourceText": "3. HELPING VERB + ENCLITIC + INFINITIVE + DIRECT OBJECT + SUBJECT\n\nPuwede ho bang kumain ng malamig na pagkain ang kapatid ko? Can my sibling eat cold food, sir/madam?",
-            "id": "3. helaping VERB + ENCILIC + INFINITIVE + DIRECT OBECT + SUBJECT Bisakah saudaraku makan makanan dingin?",
-            "tagalog": "3. HELPING VERB + ENCLITIC + INFINITIVE + DIRECT OBJECT + SUBJECT\n\nPuwede ho bang kumain ng malamig na pagkain ang kapatid ko? Can my sibling eat cold food, sir/madam?"
-          }
-        },
+          "type": "example",
+          "items": [
+            {
+              "sourceLanguage": "fil",
+              "sourceText": "3. HELPING VERB + ENCLITIC + INFINITIVE + DIRECT OBJECT + SUBJECT\n\nPuwede ho bang kumain ng malamig na pagkain ang kapatid ko? Can my sibling eat cold food, sir/madam?",
+              "id": "3. helaping VERB + ENCILIC + INFINITIVE + DIRECT OBECT + SUBJECT Bisakah saudaraku makan makanan dingin?",
+              "tagalog": "3. HELPING VERB + ENCLITIC + INFINITIVE + DIRECT OBJECT + SUBJECT\n\nPuwede ho bang kumain ng malamig na pagkain ang kapatid ko? Can my sibling eat cold food, sir/madam?"
+            }
+          ]
+        }
+      ],
+      "id": "lesson-13-12-examples"
+    },
+    {
+      "type": "LEARNING_MATERIAL",
+      "title": {
+        "sourceLanguage": "mixed",
+        "sourceText": "Grammar Presentation",
+        "id": "Penyajian Tata Bahasa"
+      },
+      "blocks": [
         {
           "type": "text",
           "style": "body",
@@ -2927,65 +2645,75 @@
                 }
               ]
             }
+          ],
+          "role": "reference"
+        }
+      ],
+      "id": "lesson-13-13-grammar-presentation-2"
+    },
+    {
+      "type": "EXAMPLES",
+      "title": {
+        "sourceLanguage": "mixed",
+        "sourceText": "EXAMPLES:",
+        "id": "Contoh"
+      },
+      "blocks": [
+        {
+          "type": "example",
+          "items": [
+            {
+              "sourceLanguage": "en",
+              "sourceText": "Bawal kang pumasok sa eskwelahan. You are not allowed to go to school.",
+              "id": "Bawal Kang pumasok sa eskwelah. kamu tidak diizinkan untuk pergi ke sekolah.",
+              "tagalog": "Bawal kang pumasok sa eskwelahan."
+            }
           ]
         },
         {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "mixed",
-            "sourceText": "EXAMPLES:",
-            "id": "EXAMPLES:"
-          }
+          "type": "example",
+          "items": [
+            {
+              "sourceLanguage": "fil",
+              "sourceText": "Dapat daw siyang uminom ng gamot. They say he/she should take medicine.",
+              "id": "Dia mengatakan untuk mengambil obat, dan mereka berada di dunia he / dia harus minum obat.",
+              "tagalog": "Dapat daw siyang uminom ng gamot. They say he/she should take medicine."
+            }
+          ]
         },
         {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "en",
-            "sourceText": "Bawal kang pumasok sa eskwelahan. You are not allowed to go to school.",
-            "id": "Bawal Kang pumasok sa eskwelah. kamu tidak diizinkan untuk pergi ke sekolah."
-          }
+          "type": "example",
+          "items": [
+            {
+              "sourceLanguage": "fil",
+              "sourceText": "Puwede ho ba akong kumain ng malamig na pagkain? Can I eat cold food, sir/madam?",
+              "id": "Dapatkah saya makan makanan dingin Dapatkah Iat makanan dingin, kar / Madam?",
+              "tagalog": "Puwede ho ba akong kumain ng malamig na pagkain? Can I eat cold food, sir/madam?"
+            }
+          ]
         },
         {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "fil",
-            "sourceText": "Dapat daw siyang uminom ng gamot. They say he/she should take medicine.",
-            "id": "Dia mengatakan untuk mengambil obat, dan mereka berada di dunia he / dia harus minum obat.",
-            "tagalog": "Dapat daw siyang uminom ng gamot. They say he/she should take medicine."
-          }
-        },
-        {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "fil",
-            "sourceText": "Puwede ho ba akong kumain ng malamig na pagkain? Can I eat cold food, sir/madam?",
-            "id": "Dapatkah saya makan makanan dingin Dapatkah Iat makanan dingin, kar / Madam?",
-            "tagalog": "Puwede ho ba akong kumain ng malamig na pagkain? Can I eat cold food, sir/madam?"
-          }
-        },
-        {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "fil",
-            "sourceText": "Huwag kang maglaro sa labas. (You) Don’t play outside.",
-            "id": "Jangan bermain di luar.",
-            "tagalog": "Huwag kang maglaro sa labas. (You) Don’t play outside."
-          }
-        },
-        {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "mixed",
-            "sourceText": "Grammar Notes",
-            "id": "Catatan Tata Bahasa"
-          }
-        },
+          "type": "example",
+          "items": [
+            {
+              "sourceLanguage": "fil",
+              "sourceText": "Huwag kang maglaro sa labas. (You) Don’t play outside.",
+              "id": "Jangan bermain di luar.",
+              "tagalog": "Huwag kang maglaro sa labas. (You) Don’t play outside."
+            }
+          ]
+        }
+      ],
+      "id": "lesson-13-14-examples-2"
+    },
+    {
+      "type": "LEARNING_MATERIAL",
+      "title": {
+        "sourceLanguage": "mixed",
+        "sourceText": "Grammar Notes",
+        "id": "Catatan Tata Bahasa"
+      },
+      "blocks": [
         {
           "type": "table",
           "rows": [
@@ -3003,7 +2731,8 @@
                 {
                   "sourceLanguage": "en",
                   "sourceText": "2. When using helping verbs and/or the negative marker huwag, remember the HIL rule:\n\nH for Haul: All pronouns and enclitics should be placed immediately after the helping verb.\n\nEXAMPLES:\n\nBawal ka nang uminom ng dyus. You are forbidden to drink juice now.\n\nDapat siyang magpahinga. She/He should take a rest.\n\n\n\nI for Infinitive: The main verb has to be in the infinitive form.\n\nEXAMPLES:\n\nBawal ka nang uminom ng dyus. You are forbidden to drink juice.\n\nDapat siyang magpahinga. She/He should take a rest.\n\n\n\nL for Linker: The linkers -ng or -g must be attached to the pronoun or enclitic that precedes the main verb.\n\nEXAMPLES:\n\nBawal ka nang uminom ng dyus. You are forbidden to drink juice.\n\nDapat siyang magpahinga. She/He should take a rest.",
-                  "id": "Ketika menggunakan kata kerja dan / atau huwag penanda negatif, ingat aturan HIL: Semua kata ganti dan kata kerja harus ditempatkan segera setelah kata kerja. EXAMPLES: Bawal ka nang uminom ng dyus. Dapat siyang magpahinga. Kata kerja utama harus dalam bentuk infinitif. EXAMPLES: Bawal ka nang uminom ng dyus. Dapat siyang magpahinga. L untuk Linker: Linkers -ng atau -g harus melekat ke kata ganti atau enclitic yang mendahului kata kerja utama. EXAMPLES: Bawal ka nang uminom ng dyus. Dapat siyang magpahinga."
+                  "id": "Ketika menggunakan kata kerja dan / atau huwag penanda negatif, ingat aturan HIL: Semua kata ganti dan kata kerja harus ditempatkan segera setelah kata kerja. EXAMPLES: Bawal ka nang uminom ng dyus. Dapat siyang magpahinga. Kata kerja utama harus dalam bentuk infinitif. EXAMPLES: Bawal ka nang uminom ng dyus. Dapat siyang magpahinga. L untuk Linker: Linkers -ng atau -g harus melekat ke kata ganti atau enclitic yang mendahului kata kerja utama. EXAMPLES: Bawal ka nang uminom ng dyus. Dapat siyang magpahinga.",
+                  "tagalog": "huwag Haul Bawal ka na ng uminom ng dyus. Dapat siya ng magpahinga. Infinitive Bawal ka nang uminom ng dyus. Dapat siyang magpahinga . Linker -ng -g Bawal ka na ng uminom ng dyus. Dapat siya magpahinga."
                 }
               ]
             },
@@ -3016,40 +2745,23 @@
                 }
               ]
             }
-          ]
+          ],
+          "role": "reference"
         }
-      ]
+      ],
+      "id": "lesson-13-15-grammar-notes"
     },
     {
-      "id": "lesson-13-practice",
-      "type": "PRACTICE",
+      "type": "EXERCISES",
       "title": {
-        "sourceLanguage": "mixed",
-        "sourceText": "Practice",
-        "id": "Latihan"
+        "sourceLanguage": "en",
+        "sourceText": "I. Speaking Practice",
+        "id": "I. Latihan Berbicara"
       },
       "blocks": [
         {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "mixed",
-            "sourceText": "Practice",
-            "id": "Latihan"
-          }
-        },
-        {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "en",
-            "sourceText": "I. Speaking Practice",
-            "id": "I. Latihan Berbicara"
-          }
-        },
-        {
-          "type": "text",
-          "style": "body",
+          "type": "exercise",
+          "role": "content",
           "text": {
             "sourceLanguage": "en",
             "sourceText": "In the chart below, describe symptoms of common ailments associated with the parts of the body listed in the first column. Then, choosing a partner, describe what you have written and ask your partner to recommend two possible remedies. Take turns for each body part. Use the example below to model your sentences and your dialogue with your partner.",
@@ -3057,8 +2769,8 @@
           }
         },
         {
-          "type": "text",
-          "style": "body",
+          "type": "exercise",
+          "role": "content",
           "text": {
             "sourceLanguage": "fil",
             "sourceText": "STUDENT 1: Masakit na masakit ang mata ko. Mapulang-mapula ito at magang-maga din ito.",
@@ -3067,8 +2779,8 @@
           }
         },
         {
-          "type": "text",
-          "style": "body",
+          "type": "exercise",
+          "role": "content",
           "text": {
             "sourceLanguage": "fil",
             "sourceText": "STUDENT 2: Huwag kang pumasok sa eskwelahan. Dapat kang maglagay ng eyedrops.",
@@ -3077,7 +2789,8 @@
           }
         },
         {
-          "type": "table",
+          "type": "exercise",
+          "role": "worksheet",
           "rows": [
             {
               "cells": [
@@ -3159,19 +2872,21 @@
               ]
             }
           ]
-        },
+        }
+      ],
+      "id": "lesson-13-16-i-speaking-practice"
+    },
+    {
+      "type": "EXERCISES",
+      "title": {
+        "sourceLanguage": "mixed",
+        "sourceText": "II. Reading Practice",
+        "id": "II. Latihan Membaca"
+      },
+      "blocks": [
         {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "mixed",
-            "sourceText": "II. Reading Practice",
-            "id": "II. Latihan Membaca"
-          }
-        },
-        {
-          "type": "text",
-          "style": "body",
+          "type": "exercise",
+          "role": "instruction",
           "text": {
             "sourceLanguage": "en",
             "sourceText": "Read Rose’s entry in her diary when she was eight years old, then complete the activity that follows.",
@@ -3183,8 +2898,8 @@
           "path": "assets/230.jpg"
         },
         {
-          "type": "text",
-          "style": "body",
+          "type": "exercise",
+          "role": "content",
           "text": {
             "sourceLanguage": "mixed",
             "sourceText": "Nagkasakit Ako",
@@ -3192,8 +2907,8 @@
           }
         },
         {
-          "type": "text",
-          "style": "body",
+          "type": "exercise",
+          "role": "content",
           "text": {
             "sourceLanguage": "fil",
             "sourceText": "Tandang-tanda ko pa, noong walong taong gulang ako, nagkaroon ako ng sakit. Napakataas ng lagnat ko at masakit na masakit ang buong katawan ko. Wala noon sina Nanay at Tatay; nasa Maynila sila. Ang mga kapatid ko lang ang nasa bahay. Hindi nila alam ang gagawin nila para tumulong sa akin. Tumawag sila sa telepono nina Nanay at Tatay pero hindi sila sumagot. Pumunta ang mga kapatid ko sa bahay nina Lolo at Lola, pero walang tao sa bahay nila. Problemadong-problemado sila. Noong bumalik ang mga kapatid ko sa bahay, nakita nila na dumating na sina Nanay at Tatay. Masayang-masaya sila at nawala na ang takot nila.",
@@ -3202,8 +2917,8 @@
           }
         },
         {
-          "type": "text",
-          "style": "body",
+          "type": "exercise",
+          "role": "content",
           "text": {
             "sourceLanguage": "en",
             "sourceText": "Supply the main sentence or missing words based on Rose’s entry in her diary",
@@ -3211,8 +2926,8 @@
           }
         },
         {
-          "type": "text",
-          "style": "body",
+          "type": "exercise",
+          "role": "question",
           "text": {
             "sourceLanguage": "fil",
             "sourceText": "1. Noong walang taong gulang ako . . .",
@@ -3221,8 +2936,8 @@
           }
         },
         {
-          "type": "text",
-          "style": "body",
+          "type": "exercise",
+          "role": "question",
           "text": {
             "sourceLanguage": "fil",
             "sourceText": "2. Nagkaroon ako ng lagnat at masakit . . . .",
@@ -3231,8 +2946,8 @@
           }
         },
         {
-          "type": "text",
-          "style": "body",
+          "type": "exercise",
+          "role": "question",
           "text": {
             "sourceLanguage": "fil",
             "sourceText": "3. Tumawag ang mga kapatid ko sa . . . pero . . . .",
@@ -3241,8 +2956,8 @@
           }
         },
         {
-          "type": "text",
-          "style": "body",
+          "type": "exercise",
+          "role": "question",
           "text": {
             "sourceLanguage": "fil",
             "sourceText": "4. Pumunta ang mga kapatid ko sa . . . pero . . . .",
@@ -3251,27 +2966,29 @@
           }
         },
         {
-          "type": "text",
-          "style": "body",
+          "type": "exercise",
+          "role": "question",
           "text": {
             "sourceLanguage": "fil",
             "sourceText": "5. Buti na lang, noong bumalik ang mga kapatid ko . . . .",
             "id": "Yah, aku senang bahwa saudara-saudaraku kembali.",
             "tagalog": "5. Buti na lang, noong bumalik ang mga kapatid ko . . . ."
           }
-        },
+        }
+      ],
+      "id": "lesson-13-17-ii-reading-practice"
+    },
+    {
+      "type": "EXERCISES",
+      "title": {
+        "sourceLanguage": "mixed",
+        "sourceText": "III. Writing Practice",
+        "id": "III. Latihan Menulis"
+      },
+      "blocks": [
         {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "mixed",
-            "sourceText": "III. Writing Practice",
-            "id": "III. Latihan Menulis"
-          }
-        },
-        {
-          "type": "text",
-          "style": "body",
+          "type": "exercise",
+          "role": "content",
           "text": {
             "sourceLanguage": "en",
             "sourceText": "Following the example of Rose’s story, write a paragraph on a separate sheet of paper about a day that you were sick. You may use the questions below as prompts for writing your paragraph:",
@@ -3279,8 +2996,8 @@
           }
         },
         {
-          "type": "text",
-          "style": "body",
+          "type": "exercise",
+          "role": "question",
           "text": {
             "sourceLanguage": "fil",
             "sourceText": "a. Ano ang sakit mo?",
@@ -3289,8 +3006,8 @@
           }
         },
         {
-          "type": "text",
-          "style": "body",
+          "type": "exercise",
+          "role": "question",
           "text": {
             "sourceLanguage": "fil",
             "sourceText": "b. Anu-ano ang naramdaman mo?",
@@ -3299,8 +3016,8 @@
           }
         },
         {
-          "type": "text",
-          "style": "body",
+          "type": "exercise",
+          "role": "question",
           "text": {
             "sourceLanguage": "fil",
             "sourceText": "c. Anu-ano ang ginawa mo para bumuti ang pakiramdam mo?",
@@ -3309,8 +3026,8 @@
           }
         },
         {
-          "type": "text",
-          "style": "body",
+          "type": "exercise",
+          "role": "question",
           "text": {
             "sourceLanguage": "fil",
             "sourceText": "d. Sinu-sino ang tumulong sa iyo noong may sakit ka?",
@@ -3319,8 +3036,8 @@
           }
         },
         {
-          "type": "text",
-          "style": "body",
+          "type": "exercise",
+          "role": "question",
           "text": {
             "sourceLanguage": "fil",
             "sourceText": "e. Ano ang unang ginawa mo noong bumuti na ang pakiramdam mo?",
@@ -3329,8 +3046,8 @@
           }
         },
         {
-          "type": "text",
-          "style": "body",
+          "type": "exercise",
+          "role": "content",
           "text": {
             "sourceLanguage": "en",
             "sourceText": "To Download the audio files, please click here.",
@@ -3340,19 +3057,21 @@
         {
           "type": "image",
           "path": "assets/cd.jpg"
-        },
+        }
+      ],
+      "id": "lesson-13-18-iii-writing-practice"
+    },
+    {
+      "type": "EXERCISES",
+      "title": {
+        "sourceLanguage": "mixed",
+        "sourceText": "IV. Listening Practice",
+        "id": "IV. Latihan Menyimak"
+      },
+      "blocks": [
         {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "mixed",
-            "sourceText": "IV. Listening Practice",
-            "id": "IV. Latihan Menyimak"
-          }
-        },
-        {
-          "type": "text",
-          "style": "body",
+          "type": "exercise",
+          "role": "instruction",
           "text": {
             "sourceLanguage": "en",
             "sourceText": "Using the Bonus Material of the book, listen to audio file (13–2) and answer the following questions. Use the box below to write your answers.",
@@ -3364,7 +3083,8 @@
           "path": "assets/231.jpg"
         },
         {
-          "type": "table",
+          "type": "exercise",
+          "role": "worksheet",
           "rows": [
             {
               "cells": [
@@ -3420,7 +3140,32 @@
             }
           ]
         }
-      ]
+      ],
+      "id": "lesson-13-19-iv-listening-practice"
     }
-  ]
+  ],
+  "structureVersion": 2,
+  "contentAudit": {
+    "sourceTextItemsBefore": 408,
+    "sourceTextItemsAfter": 395,
+    "uniqueSourceItemsPreserved": 332,
+    "duplicateHeadingsRemoved": 4,
+    "blankFragmentsRemoved": 5,
+    "sectionTypes": {
+      "EXAMPLES": 2,
+      "EXERCISES": 8,
+      "INTRODUCTION": 1,
+      "LEARNING_MATERIAL": 7,
+      "VOCABULARY": 1
+    },
+    "blockTypes": {
+      "example": 7,
+      "exercise": 33,
+      "image": 9,
+      "list": 2,
+      "table": 6,
+      "text": 41,
+      "vocabulary": 6
+    }
+  }
 }

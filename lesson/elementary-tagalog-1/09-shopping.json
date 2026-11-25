@@ -17,12 +17,12 @@
     {
       "sourceLanguage": "en",
       "sourceText": "• Use appropriate expressions in the context of shopping",
-      "id": "Gunakan ekspresi yang sesuai dalam konteks belanja"
+      "id": "• Menggunakan ungkapan yang sesuai saat berbelanja"
     },
     {
       "sourceLanguage": "en",
       "sourceText": "• Engage in small talk about shopping",
-      "id": "Terlibat dalam pembicaraan kecil tentang belanja"
+      "id": "• Melakukan percakapan ringan tentang belanja"
     }
   ],
   "source": {
@@ -41,195 +41,141 @@
   ],
   "sections": [
     {
-      "id": "lesson-09-overview",
-      "type": "OVERVIEW",
+      "type": "INTRODUCTION",
       "title": {
-        "sourceLanguage": "mixed",
-        "sourceText": "Overview",
-        "id": "Gambaran Umum"
+        "sourceLanguage": "en",
+        "sourceText": "An Overview of Lesson 9",
+        "id": "Pengantar Pelajaran 9"
       },
       "blocks": [
         {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "en",
-            "sourceText": "An Overview of Lesson 9",
-            "id": "Gambaran Umum Pelajaran 9"
-          }
+          "type": "list",
+          "style": "objectives",
+          "items": [
+            {
+              "sourceLanguage": "en",
+              "sourceText": "• Use appropriate expressions in the context of shopping",
+              "id": "• Menggunakan ungkapan yang sesuai saat berbelanja"
+            },
+            {
+              "sourceLanguage": "en",
+              "sourceText": "• Engage in small talk about shopping",
+              "id": "• Melakukan percakapan ringan tentang belanja"
+            }
+          ]
         },
         {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "mixed",
-            "sourceText": "Objectives",
-            "id": "Objeksi"
-          }
-        },
-        {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "en",
-            "sourceText": "• Use appropriate expressions in the context of shopping",
-            "id": "Gunakan ekspresi yang sesuai dalam konteks belanja"
-          }
-        },
-        {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "en",
-            "sourceText": "• Engage in small talk about shopping",
-            "id": "Terlibat dalam pembicaraan kecil tentang belanja"
-          }
-        },
-        {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "mixed",
-            "sourceText": "Vocabulary",
-            "id": "Kosakata"
-          }
-        },
-        {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "mixed",
-            "sourceText": "• Numbers and Nouns",
-            "id": "Nomor dan Nouns"
-          }
-        },
-        {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "mixed",
-            "sourceText": "• Adjectives",
-            "id": "Advances"
-          }
-        },
-        {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "fil",
-            "sourceText": "• -Um- Verbs",
-            "id": "-um- Borbs",
-            "tagalog": "• -Um- Verbs"
-          }
-        },
-        {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "fil",
-            "sourceText": "• Mag-Verbs",
-            "id": "BeVerbs",
-            "tagalog": "• Mag-Verbs"
-          }
-        },
-        {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "mixed",
-            "sourceText": "• Affixes",
-            "id": "Affix"
-          }
-        },
-        {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "mixed",
-            "sourceText": "• Idioms and Expressions",
-            "id": "Ekspresi dan Idiom"
-          }
-        },
-        {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "en",
-            "sourceText": "Dialogue: Magkano Ito? How Much Is This?",
-            "id": "Dialog: Magkano Ito?"
-          }
-        },
-        {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "mixed",
-            "sourceText": "Dialogue Comprehension",
-            "id": "Pemahaman Dialog"
-          }
-        },
-        {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "mixed",
-            "sourceText": "Activities",
-            "id": "Aktivitas"
-          }
-        },
-        {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "en",
-            "sourceText": "Activity 1: I Like Your Dress",
-            "id": "Aktivitas 1: aku suka pakaianmu"
-          }
-        },
-        {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "mixed",
-            "sourceText": "Activity 2: Role Play",
-            "id": "Aktivitas 2: Permainan Peran"
-          }
-        },
-        {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "mixed",
-            "sourceText": "Activity 3: Information Gap",
-            "id": "Aktivitas 3: Informasi Gap"
-          }
-        },
-        {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "mixed",
-            "sourceText": "Grammar",
-            "id": "Tata Bahasa"
-          }
-        },
-        {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "en",
-            "sourceText": "Definition of Terms: Aspect, Verb Focus, Actor-Focus Verbs, Infix, Prefix, Intransitive Verb, Transitive Verb, Ditransitive Verb, and -Um- Verbs",
-            "id": "Definisi Terms: Aspek, Verb Focus, Actor-Focus Verb, Infix, Prefix, Intransitif Verb, Transitif Verb, Ditransitive Verb, dan -Um- Verbs"
-          }
-        },
-        {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "mixed",
-            "sourceText": "Examining Form",
-            "id": "Mengkaji Bentuk"
-          }
+          "type": "list",
+          "style": "outline",
+          "items": [
+            {
+              "sourceLanguage": "mixed",
+              "sourceText": "Vocabulary",
+              "id": "Kosakata"
+            },
+            {
+              "sourceLanguage": "mixed",
+              "sourceText": "• Numbers and Nouns",
+              "id": "Nomor dan Nouns"
+            },
+            {
+              "sourceLanguage": "mixed",
+              "sourceText": "• Adjectives",
+              "id": "Advances"
+            },
+            {
+              "sourceLanguage": "fil",
+              "sourceText": "• -Um- Verbs",
+              "id": "-um- Borbs",
+              "tagalog": "• -Um- Verbs"
+            },
+            {
+              "sourceLanguage": "fil",
+              "sourceText": "• Mag-Verbs",
+              "id": "BeVerbs",
+              "tagalog": "• Mag-Verbs"
+            },
+            {
+              "sourceLanguage": "mixed",
+              "sourceText": "• Affixes",
+              "id": "Affix"
+            },
+            {
+              "sourceLanguage": "mixed",
+              "sourceText": "• Idioms and Expressions",
+              "id": "Ekspresi dan Idiom"
+            },
+            {
+              "sourceLanguage": "en",
+              "sourceText": "Dialogue: Magkano Ito? How Much Is This?",
+              "id": "Dialog: Magkano Ito?"
+            },
+            {
+              "sourceLanguage": "mixed",
+              "sourceText": "Dialogue Comprehension",
+              "id": "Pemahaman Dialog"
+            },
+            {
+              "sourceLanguage": "mixed",
+              "sourceText": "Activities",
+              "id": "Aktivitas"
+            },
+            {
+              "sourceLanguage": "en",
+              "sourceText": "Activity 1: I Like Your Dress",
+              "id": "Aktivitas 1: aku suka pakaianmu"
+            },
+            {
+              "sourceLanguage": "mixed",
+              "sourceText": "Activity 2: Role Play",
+              "id": "Aktivitas 2: Permainan Peran"
+            },
+            {
+              "sourceLanguage": "mixed",
+              "sourceText": "Activity 3: Information Gap",
+              "id": "Aktivitas 3: Informasi Gap"
+            },
+            {
+              "sourceLanguage": "mixed",
+              "sourceText": "Grammar",
+              "id": "Tata Bahasa"
+            },
+            {
+              "sourceLanguage": "en",
+              "sourceText": "Definition of Terms: Aspect, Verb Focus, Actor-Focus Verbs, Infix, Prefix, Intransitive Verb, Transitive Verb, Ditransitive Verb, and -Um- Verbs",
+              "id": "Definisi Terms: Aspek, Verb Focus, Actor-Focus Verb, Infix, Prefix, Intransitif Verb, Transitif Verb, Ditransitive Verb, dan -Um- Verbs"
+            },
+            {
+              "sourceLanguage": "mixed",
+              "sourceText": "Examining Form",
+              "id": "Mengkaji Bentuk"
+            },
+            {
+              "sourceLanguage": "mixed",
+              "sourceText": "Practice",
+              "id": "Latihan"
+            },
+            {
+              "sourceLanguage": "en",
+              "sourceText": "I. Speaking Practice",
+              "id": "I. Latihan Berbicara"
+            },
+            {
+              "sourceLanguage": "mixed",
+              "sourceText": "II. Reading Practice",
+              "id": "II. Latihan Membaca"
+            },
+            {
+              "sourceLanguage": "mixed",
+              "sourceText": "III. Writing Practice",
+              "id": "III. Latihan Menulis"
+            },
+            {
+              "sourceLanguage": "mixed",
+              "sourceText": "IV. Listening Practice",
+              "id": "IV. Latihan Menyimak"
+            }
+          ]
         },
         {
           "type": "table",
@@ -269,7 +215,8 @@
                 {
                   "sourceLanguage": "en",
                   "sourceText": "Numbers: Daan at Libo (Hundred and Thousand)",
-                  "id": "Nomor: Daan di Libo (Seratus dan Seribu)"
+                  "id": "Nomor: Daan di Libo (Seratus dan Seribu)",
+                  "tagalog": "Daan at Libo"
                 }
               ]
             },
@@ -282,57 +229,13 @@
                 }
               ]
             }
-          ]
-        },
-        {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "mixed",
-            "sourceText": "Practice",
-            "id": "Latihan"
-          }
-        },
-        {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "en",
-            "sourceText": "I. Speaking Practice",
-            "id": "I. Latihan Berbicara"
-          }
-        },
-        {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "mixed",
-            "sourceText": "II. Reading Practice",
-            "id": "II. Latihan Membaca"
-          }
-        },
-        {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "mixed",
-            "sourceText": "III. Writing Practice",
-            "id": "III. Latihan Menulis"
-          }
-        },
-        {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "mixed",
-            "sourceText": "IV. Listening Practice",
-            "id": "IV. Latihan Menyimak"
-          }
+          ],
+          "role": "outline"
         }
-      ]
+      ],
+      "id": "lesson-09-01-an-overview-of-lesson-9"
     },
     {
-      "id": "lesson-09-vocabulary",
       "type": "VOCABULARY",
       "title": {
         "sourceLanguage": "mixed",
@@ -342,7 +245,7 @@
       "blocks": [
         {
           "type": "text",
-          "style": "body",
+          "style": "heading",
           "text": {
             "sourceLanguage": "mixed",
             "sourceText": "Vocabulary (09–1)",
@@ -363,1207 +266,1056 @@
           }
         },
         {
-          "type": "table",
-          "rows": [
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "Numbers and Nouns",
-                  "id": "Nomor dan Nouns"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "isang daan",
-                  "id": "seratus",
-                  "tagalog": "isang daan"
-                },
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "one hundred",
-                  "id": "seratus"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "dalawang daan",
-                  "id": "dua ratus",
-                  "tagalog": "dalawang daan"
-                },
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "two hundred",
-                  "id": "dua ratus"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "tatlong daan",
-                  "id": "tiga ratus",
-                  "tagalog": "tatlong daan"
-                },
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "three hundred",
-                  "id": "tiga ratus"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "apat na raan",
-                  "id": "400.",
-                  "tagalog": "apat na raan"
-                },
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "four hundred",
-                  "id": "400."
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "limang daan",
-                  "id": "lima ratus",
-                  "tagalog": "limang daan"
-                },
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "five hundred",
-                  "id": "lima ratus"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "anim na raan",
-                  "id": "enam ratus",
-                  "tagalog": "anim na raan"
-                },
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "six hundred",
-                  "id": "enam ratus"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "pitong daan",
-                  "id": "tujuh ratus",
-                  "tagalog": "pitong daan"
-                },
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "seven hundred",
-                  "id": "tujuh ratus"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "walong daan",
-                  "id": "delapan ratus",
-                  "tagalog": "walong daan"
-                },
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "eight hundred",
-                  "id": "delapan ratus"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "siyam na raan",
-                  "id": "Sembilan ratus",
-                  "tagalog": "siyam na raan"
-                },
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "nine hundred",
-                  "id": "Sembilan ratus"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "isang libo",
-                  "id": "seribu",
-                  "tagalog": "isang libo"
-                },
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "one thousand",
-                  "id": "seribu"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "dalawang libo",
-                  "id": "dua ribu",
-                  "tagalog": "dalawang libo"
-                },
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "two thousand",
-                  "id": "dua ribu"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "tatlong libo",
-                  "id": "tiga ribu",
-                  "tagalog": "tatlong libo"
-                },
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "three thousand",
-                  "id": "tiga ribu"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "apat na libo",
-                  "id": "empat ribu",
-                  "tagalog": "apat na libo"
-                },
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "four thousand",
-                  "id": "empat ribu"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "limang libo",
-                  "id": "lima ribu",
-                  "tagalog": "limang libo"
-                },
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "five thousand",
-                  "id": "lima ribu"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "anim na libo",
-                  "id": "enam ribu",
-                  "tagalog": "anim na libo"
-                },
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "six thousand",
-                  "id": "enam ribu"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "pitong libo",
-                  "id": "tujuh ribu",
-                  "tagalog": "pitong libo"
-                },
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "seven thousand",
-                  "id": "tujuh ribu"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "walong libo",
-                  "id": "Delapan ribu",
-                  "tagalog": "walong libo"
-                },
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "eight thousand",
-                  "id": "Delapan ribu"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "siyam na libo",
-                  "id": "Sembilan ribu",
-                  "tagalog": "siyam na libo"
-                },
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "nine thousand",
-                  "id": "Sembilan ribu"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "sampung libo",
-                  "id": "sepuluh ribu",
-                  "tagalog": "sampung libo"
-                },
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "ten thousand",
-                  "id": "sepuluh ribu"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "barya",
-                  "id": "perubahan longgar",
-                  "tagalog": "barya"
-                },
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "loose change",
-                  "id": "perubahan longgar"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "bayad",
-                  "id": "pembayaran",
-                  "tagalog": "bayad"
-                },
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "payment",
-                  "id": "pembayaran"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "manggas",
-                  "id": "arms",
-                  "tagalog": "manggas"
-                },
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "sleeves",
-                  "id": "arms"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "mamimili",
-                  "id": "pembeli",
-                  "tagalog": "mamimili"
-                },
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "buyer",
-                  "id": "pembeli"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "presyo",
-                  "id": "Harga",
-                  "tagalog": "presyo"
-                },
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "price",
-                  "id": "Harga"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "sukat",
-                  "id": "ukuran",
-                  "tagalog": "sukat"
-                },
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "size",
-                  "id": "ukuran"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "sukli",
-                  "id": "ubah",
-                  "tagalog": "sukli"
-                },
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "change",
-                  "id": "ubah"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "tela",
-                  "id": "kain, kain, tekstil",
-                  "tagalog": "tela"
-                },
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "fabric, cloth, textile",
-                  "id": "kain, kain, tekstil"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "tindero/a",
-                  "id": "pedagang, pemilik toko, penjual, petugas",
-                  "tagalog": "tindero/a"
-                },
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "merchant, storekeeper, seller, clerk",
-                  "id": "pedagang, pemilik toko, penjual, petugas"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "Adjectives",
-                  "id": "Kata sifat"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "bago",
-                  "id": "baru",
-                  "tagalog": "bago"
-                },
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "new",
-                  "id": "baru"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "baligtad",
-                  "id": "Atas - bawah, dalam - keluar",
-                  "tagalog": "baligtad"
-                },
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "upside-down, inside-out",
-                  "id": "Atas - bawah, dalam - keluar"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "kaunti",
-                  "id": "sedikit, sedikit",
-                  "tagalog": "kaunti"
-                },
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "few, little",
-                  "id": "sedikit, sedikit"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "luma",
-                  "id": "lama",
-                  "tagalog": "luma"
-                },
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "old",
-                  "id": "lama"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "mabigat",
-                  "id": "berat",
-                  "tagalog": "mabigat"
-                },
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "heavy",
-                  "id": "berat"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "magaan",
-                  "id": "cahaya (berat)",
-                  "tagalog": "magaan"
-                },
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "light (weight)",
-                  "id": "cahaya (berat)"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "mahaba",
-                  "id": "panjang",
-                  "tagalog": "mahaba"
-                },
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "long",
-                  "id": "panjang"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "mahal",
-                  "id": "mahal",
-                  "tagalog": "mahal"
-                },
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "expensive",
-                  "id": "mahal"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "maikli/maiksi/maigsi",
-                  "id": "pendek",
-                  "tagalog": "maikli/maiksi/maigsi"
-                },
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "short",
-                  "id": "pendek"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "makapal",
-                  "id": "tebal",
-                  "tagalog": "makapal"
-                },
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "thick",
-                  "id": "tebal"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "makinis",
-                  "id": "halus",
-                  "tagalog": "makinis"
-                },
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "smooth",
-                  "id": "halus"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "malambot",
-                  "id": "lembut",
-                  "tagalog": "malambot"
-                },
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "soft",
-                  "id": "lembut"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "malapad",
-                  "id": "lebar",
-                  "tagalog": "malapad"
-                },
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "wide",
-                  "id": "lebar"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "maluwag/maluwang",
-                  "id": "longgar",
-                  "tagalog": "maluwag/maluwang"
-                },
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "loose",
-                  "id": "longgar"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "manipis",
-                  "id": "tipis",
-                  "tagalog": "manipis"
-                },
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "thin",
-                  "id": "tipis"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "mapusyaw",
-                  "id": "warna ringanweather forecast",
-                  "tagalog": "mapusyaw"
-                },
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "light color",
-                  "id": "warna ringanweather forecast"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "marami",
-                  "id": "banyak, banyak",
-                  "tagalog": "marami"
-                },
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "many, plenty",
-                  "id": "banyak, banyak"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "marumi/madumi",
-                  "id": "kotor",
-                  "tagalog": "marumi/madumi"
-                },
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "dirty",
-                  "id": "kotor"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "matibay",
-                  "id": "tahan lama",
-                  "tagalog": "matibay"
-                },
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "durable",
-                  "id": "tahan lama"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "matigas",
-                  "id": "keras, keras",
-                  "tagalog": "matigas"
-                },
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "hard, tough",
-                  "id": "keras, keras"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "mura",
-                  "id": "murah, murah",
-                  "tagalog": "mura"
-                },
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "cheap, inexpensive",
-                  "id": "murah, murah"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "pangit",
-                  "id": "jelek",
-                  "tagalog": "pangit"
-                },
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "ugly",
-                  "id": "jelek"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "sira",
-                  "id": "hancur, hancur",
-                  "tagalog": "sira"
-                },
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "destroyed, broken",
-                  "id": "hancur, hancur"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "uso",
-                  "id": "trendi, gaya saat ini",
-                  "tagalog": "uso"
-                },
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "trendy, current style",
-                  "id": "trendi, gaya saat ini"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "-Um- Verbs",
-                  "id": "-Um- verbs"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "bumili",
-                  "id": "untuk membeli",
-                  "tagalog": "bumili"
-                },
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "to buy",
-                  "id": "untuk membeli"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "gumastos",
-                  "id": "untuk menghabiskan",
-                  "tagalog": "gumastos"
-                },
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "to spend",
-                  "id": "untuk menghabiskan"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "gumamit",
-                  "id": "untuk digunakan",
-                  "tagalog": "gumamit"
-                },
-                {
-                  "sourceLanguage": "en",
-                  "sourceText": "to use",
-                  "id": "untuk digunakan"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "humanap",
-                  "id": "untuk mencari sesuatu / seseorang",
-                  "tagalog": "humanap"
-                },
-                {
-                  "sourceLanguage": "en",
-                  "sourceText": "to look for something/ someone",
-                  "id": "untuk mencari sesuatu / seseorang"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "humingi",
-                  "id": "untuk meminta sesuatu",
-                  "tagalog": "humingi"
-                },
-                {
-                  "sourceLanguage": "en",
-                  "sourceText": "to ask for something",
-                  "id": "untuk meminta sesuatu"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "humiram",
-                  "id": "untuk meminjam, untuk memeriksa",
-                  "tagalog": "humiram"
-                },
-                {
-                  "sourceLanguage": "en",
-                  "sourceText": "to borrow, to check out",
-                  "id": "untuk meminjam, untuk memeriksa"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "kumuha",
-                  "id": "untuk mendapatkan",
-                  "tagalog": "kumuha"
-                },
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "to get",
-                  "id": "untuk mendapatkan"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "lumapit",
-                  "id": "untuk mendekati, untuk lebih dekat",
-                  "tagalog": "lumapit"
-                },
-                {
-                  "sourceLanguage": "en",
-                  "sourceText": "to approach, to get closer",
-                  "id": "untuk mendekati, untuk lebih dekat"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "pumasok",
-                  "id": "untuk masuk",
-                  "tagalog": "pumasok"
-                },
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "to enter",
-                  "id": "untuk masuk"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "pumunta",
-                  "id": "untuk pergi",
-                  "tagalog": "pumunta"
-                },
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "to go",
-                  "id": "untuk pergi"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "tumawag",
-                  "id": "untuk memanggil",
-                  "tagalog": "tumawag"
-                },
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "to call",
-                  "id": "untuk memanggil"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "tumingin",
-                  "id": "untuk melihat",
-                  "tagalog": "tumingin"
-                },
-                {
-                  "sourceLanguage": "en",
-                  "sourceText": "to look at",
-                  "id": "untuk melihat"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "tumulong",
-                  "id": "untuk membantu",
-                  "tagalog": "tumulong"
-                },
-                {
-                  "sourceLanguage": "en",
-                  "sourceText": "to help",
-                  "id": "untuk membantu"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "umutang",
-                  "id": "untuk meminjam uang, untuk membeli sesuatu pada kredit",
-                  "tagalog": "umutang"
-                },
-                {
-                  "sourceLanguage": "en",
-                  "sourceText": "to borrow money, to buy something on credit",
-                  "id": "untuk meminjam uang, untuk membeli sesuatu pada kredit"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "umuwi",
-                  "id": "untuk pulang",
-                  "tagalog": "umuwi"
-                },
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "to go home",
-                  "id": "untuk pulang"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "Mag- Verbs",
-                  "id": "Mag- Verbs"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "magbenta",
-                  "id": "untuk menjual",
-                  "tagalog": "magbenta"
-                },
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "to sell",
-                  "id": "untuk menjual"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "magbukas",
-                  "id": "untuk membuka sesuatu",
-                  "tagalog": "magbukas"
-                },
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "to open something",
-                  "id": "untuk membuka sesuatu"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "magtinda",
-                  "id": "untuk menjual",
-                  "tagalog": "magtinda"
-                },
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "to sell",
-                  "id": "untuk menjual"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "Affixes",
-                  "id": "Affix"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "daan",
-                  "id": "unit seratus",
-                  "tagalog": "daan"
-                },
-                {
-                  "sourceLanguage": "en",
-                  "sourceText": "a unit of hundred",
-                  "id": "unit seratus"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "libo",
-                  "id": "unit seribu",
-                  "tagalog": "libo"
-                },
-                {
-                  "sourceLanguage": "en",
-                  "sourceText": "a unit of thousand",
-                  "id": "unit seribu"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "-um-",
-                  "id": "seorang aktor fokus affix verbal",
-                  "tagalog": "-um-"
-                },
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "an actor focus verbal affix",
-                  "id": "seorang aktor fokus affix verbal"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "Pronouns",
-                  "id": "Pronouns"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "iyan",
-                  "id": "Sesungguhnya Kami yang memulai penciptaan bidadari dalam bentuk gadis-gadis perawan. Bidadari tersebut sangat dicintai oleh pasangan-pasangan mereka.",
-                  "tagalog": "iyan"
-                },
-                {
-                  "sourceLanguage": "en",
-                  "sourceText": "that (near the listener)",
-                  "id": "Sesungguhnya Kami yang memulai penciptaan bidadari dalam bentuk gadis-gadis perawan. Bidadari tersebut sangat dicintai oleh pasangan-pasangan mereka."
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "ito",
-                  "id": "ini (dekat speaker)",
-                  "tagalog": "ito"
-                },
-                {
-                  "sourceLanguage": "en",
-                  "sourceText": "this (near the speaker)",
-                  "id": "ini (dekat speaker)"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "iyon",
-                  "id": "yang (tersimpan) dalam Lauh Mahfuzh.",
-                  "tagalog": "iyon"
-                },
-                {
-                  "sourceLanguage": "en",
-                  "sourceText": "that (far from the speaker and listener)",
-                  "id": "yang (tersimpan) dalam Lauh Mahfuzh."
-                }
-              ]
+          "type": "vocabulary",
+          "entries": [
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "isang daan",
+                "id": "seratus",
+                "tagalog": "isang daan"
+              },
+              "meaning": {
+                "sourceLanguage": "mixed",
+                "sourceText": "one hundred",
+                "id": "seratus"
+              }
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "dalawang daan",
+                "id": "dua ratus",
+                "tagalog": "dalawang daan"
+              },
+              "meaning": {
+                "sourceLanguage": "mixed",
+                "sourceText": "two hundred",
+                "id": "dua ratus"
+              }
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "tatlong daan",
+                "id": "tiga ratus",
+                "tagalog": "tatlong daan"
+              },
+              "meaning": {
+                "sourceLanguage": "mixed",
+                "sourceText": "three hundred",
+                "id": "tiga ratus"
+              }
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "apat na raan",
+                "id": "400.",
+                "tagalog": "apat na raan"
+              },
+              "meaning": {
+                "sourceLanguage": "mixed",
+                "sourceText": "four hundred",
+                "id": "400."
+              }
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "limang daan",
+                "id": "lima ratus",
+                "tagalog": "limang daan"
+              },
+              "meaning": {
+                "sourceLanguage": "mixed",
+                "sourceText": "five hundred",
+                "id": "lima ratus"
+              }
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "anim na raan",
+                "id": "enam ratus",
+                "tagalog": "anim na raan"
+              },
+              "meaning": {
+                "sourceLanguage": "mixed",
+                "sourceText": "six hundred",
+                "id": "enam ratus"
+              }
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "pitong daan",
+                "id": "tujuh ratus",
+                "tagalog": "pitong daan"
+              },
+              "meaning": {
+                "sourceLanguage": "mixed",
+                "sourceText": "seven hundred",
+                "id": "tujuh ratus"
+              }
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "walong daan",
+                "id": "delapan ratus",
+                "tagalog": "walong daan"
+              },
+              "meaning": {
+                "sourceLanguage": "mixed",
+                "sourceText": "eight hundred",
+                "id": "delapan ratus"
+              }
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "siyam na raan",
+                "id": "Sembilan ratus",
+                "tagalog": "siyam na raan"
+              },
+              "meaning": {
+                "sourceLanguage": "mixed",
+                "sourceText": "nine hundred",
+                "id": "Sembilan ratus"
+              }
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "isang libo",
+                "id": "seribu",
+                "tagalog": "isang libo"
+              },
+              "meaning": {
+                "sourceLanguage": "mixed",
+                "sourceText": "one thousand",
+                "id": "seribu"
+              }
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "dalawang libo",
+                "id": "dua ribu",
+                "tagalog": "dalawang libo"
+              },
+              "meaning": {
+                "sourceLanguage": "mixed",
+                "sourceText": "two thousand",
+                "id": "dua ribu"
+              }
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "tatlong libo",
+                "id": "tiga ribu",
+                "tagalog": "tatlong libo"
+              },
+              "meaning": {
+                "sourceLanguage": "mixed",
+                "sourceText": "three thousand",
+                "id": "tiga ribu"
+              }
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "apat na libo",
+                "id": "empat ribu",
+                "tagalog": "apat na libo"
+              },
+              "meaning": {
+                "sourceLanguage": "mixed",
+                "sourceText": "four thousand",
+                "id": "empat ribu"
+              }
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "limang libo",
+                "id": "lima ribu",
+                "tagalog": "limang libo"
+              },
+              "meaning": {
+                "sourceLanguage": "mixed",
+                "sourceText": "five thousand",
+                "id": "lima ribu"
+              }
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "anim na libo",
+                "id": "enam ribu",
+                "tagalog": "anim na libo"
+              },
+              "meaning": {
+                "sourceLanguage": "mixed",
+                "sourceText": "six thousand",
+                "id": "enam ribu"
+              }
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "pitong libo",
+                "id": "tujuh ribu",
+                "tagalog": "pitong libo"
+              },
+              "meaning": {
+                "sourceLanguage": "mixed",
+                "sourceText": "seven thousand",
+                "id": "tujuh ribu"
+              }
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "walong libo",
+                "id": "Delapan ribu",
+                "tagalog": "walong libo"
+              },
+              "meaning": {
+                "sourceLanguage": "mixed",
+                "sourceText": "eight thousand",
+                "id": "Delapan ribu"
+              }
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "siyam na libo",
+                "id": "Sembilan ribu",
+                "tagalog": "siyam na libo"
+              },
+              "meaning": {
+                "sourceLanguage": "mixed",
+                "sourceText": "nine thousand",
+                "id": "Sembilan ribu"
+              }
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "sampung libo",
+                "id": "sepuluh ribu",
+                "tagalog": "sampung libo"
+              },
+              "meaning": {
+                "sourceLanguage": "mixed",
+                "sourceText": "ten thousand",
+                "id": "sepuluh ribu"
+              }
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "barya",
+                "id": "perubahan longgar",
+                "tagalog": "barya"
+              },
+              "meaning": {
+                "sourceLanguage": "mixed",
+                "sourceText": "loose change",
+                "id": "perubahan longgar"
+              }
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "bayad",
+                "id": "pembayaran",
+                "tagalog": "bayad"
+              },
+              "meaning": {
+                "sourceLanguage": "mixed",
+                "sourceText": "payment",
+                "id": "pembayaran"
+              }
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "manggas",
+                "id": "arms",
+                "tagalog": "manggas"
+              },
+              "meaning": {
+                "sourceLanguage": "mixed",
+                "sourceText": "sleeves",
+                "id": "arms"
+              }
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "mamimili",
+                "id": "pembeli",
+                "tagalog": "mamimili"
+              },
+              "meaning": {
+                "sourceLanguage": "mixed",
+                "sourceText": "buyer",
+                "id": "pembeli"
+              }
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "presyo",
+                "id": "Harga",
+                "tagalog": "presyo"
+              },
+              "meaning": {
+                "sourceLanguage": "mixed",
+                "sourceText": "price",
+                "id": "Harga"
+              }
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "sukat",
+                "id": "ukuran",
+                "tagalog": "sukat"
+              },
+              "meaning": {
+                "sourceLanguage": "mixed",
+                "sourceText": "size",
+                "id": "ukuran"
+              }
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "sukli",
+                "id": "ubah",
+                "tagalog": "sukli"
+              },
+              "meaning": {
+                "sourceLanguage": "mixed",
+                "sourceText": "change",
+                "id": "ubah"
+              }
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "tela",
+                "id": "kain, kain, tekstil",
+                "tagalog": "tela"
+              },
+              "meaning": {
+                "sourceLanguage": "mixed",
+                "sourceText": "fabric, cloth, textile",
+                "id": "kain, kain, tekstil"
+              }
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "tindero/a",
+                "id": "pedagang, pemilik toko, penjual, petugas",
+                "tagalog": "tindero/a"
+              },
+              "meaning": {
+                "sourceLanguage": "mixed",
+                "sourceText": "merchant, storekeeper, seller, clerk",
+                "id": "pedagang, pemilik toko, penjual, petugas"
+              }
             }
-          ]
+          ],
+          "title": {
+            "sourceLanguage": "mixed",
+            "sourceText": "Numbers and Nouns",
+            "id": "Nomor dan Nouns"
+          }
+        },
+        {
+          "type": "vocabulary",
+          "entries": [
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "bago",
+                "id": "baru",
+                "tagalog": "bago"
+              },
+              "meaning": {
+                "sourceLanguage": "mixed",
+                "sourceText": "new",
+                "id": "baru"
+              }
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "baligtad",
+                "id": "Atas - bawah, dalam - keluar",
+                "tagalog": "baligtad"
+              },
+              "meaning": {
+                "sourceLanguage": "mixed",
+                "sourceText": "upside-down, inside-out",
+                "id": "Atas - bawah, dalam - keluar"
+              }
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "kaunti",
+                "id": "sedikit, sedikit",
+                "tagalog": "kaunti"
+              },
+              "meaning": {
+                "sourceLanguage": "mixed",
+                "sourceText": "few, little",
+                "id": "sedikit, sedikit"
+              }
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "luma",
+                "id": "lama",
+                "tagalog": "luma"
+              },
+              "meaning": {
+                "sourceLanguage": "mixed",
+                "sourceText": "old",
+                "id": "lama"
+              }
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "mabigat",
+                "id": "berat",
+                "tagalog": "mabigat"
+              },
+              "meaning": {
+                "sourceLanguage": "mixed",
+                "sourceText": "heavy",
+                "id": "berat"
+              }
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "magaan",
+                "id": "cahaya (berat)",
+                "tagalog": "magaan"
+              },
+              "meaning": {
+                "sourceLanguage": "mixed",
+                "sourceText": "light (weight)",
+                "id": "cahaya (berat)"
+              }
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "mahaba",
+                "id": "panjang",
+                "tagalog": "mahaba"
+              },
+              "meaning": {
+                "sourceLanguage": "mixed",
+                "sourceText": "long",
+                "id": "panjang"
+              }
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "mahal",
+                "id": "mahal",
+                "tagalog": "mahal"
+              },
+              "meaning": {
+                "sourceLanguage": "mixed",
+                "sourceText": "expensive",
+                "id": "mahal"
+              }
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "maikli/maiksi/maigsi",
+                "id": "pendek",
+                "tagalog": "maikli/maiksi/maigsi"
+              },
+              "meaning": {
+                "sourceLanguage": "mixed",
+                "sourceText": "short",
+                "id": "pendek"
+              }
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "makapal",
+                "id": "tebal",
+                "tagalog": "makapal"
+              },
+              "meaning": {
+                "sourceLanguage": "mixed",
+                "sourceText": "thick",
+                "id": "tebal"
+              }
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "makinis",
+                "id": "halus",
+                "tagalog": "makinis"
+              },
+              "meaning": {
+                "sourceLanguage": "mixed",
+                "sourceText": "smooth",
+                "id": "halus"
+              }
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "malambot",
+                "id": "lembut",
+                "tagalog": "malambot"
+              },
+              "meaning": {
+                "sourceLanguage": "mixed",
+                "sourceText": "soft",
+                "id": "lembut"
+              }
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "malapad",
+                "id": "lebar",
+                "tagalog": "malapad"
+              },
+              "meaning": {
+                "sourceLanguage": "mixed",
+                "sourceText": "wide",
+                "id": "lebar"
+              }
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "maluwag/maluwang",
+                "id": "longgar",
+                "tagalog": "maluwag/maluwang"
+              },
+              "meaning": {
+                "sourceLanguage": "mixed",
+                "sourceText": "loose",
+                "id": "longgar"
+              }
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "manipis",
+                "id": "tipis",
+                "tagalog": "manipis"
+              },
+              "meaning": {
+                "sourceLanguage": "mixed",
+                "sourceText": "thin",
+                "id": "tipis"
+              }
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "mapusyaw",
+                "id": "warna ringanweather forecast",
+                "tagalog": "mapusyaw"
+              },
+              "meaning": {
+                "sourceLanguage": "mixed",
+                "sourceText": "light color",
+                "id": "warna ringanweather forecast"
+              }
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "marami",
+                "id": "banyak, banyak",
+                "tagalog": "marami"
+              },
+              "meaning": {
+                "sourceLanguage": "mixed",
+                "sourceText": "many, plenty",
+                "id": "banyak, banyak"
+              }
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "marumi/madumi",
+                "id": "kotor",
+                "tagalog": "marumi/madumi"
+              },
+              "meaning": {
+                "sourceLanguage": "mixed",
+                "sourceText": "dirty",
+                "id": "kotor"
+              }
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "matibay",
+                "id": "tahan lama",
+                "tagalog": "matibay"
+              },
+              "meaning": {
+                "sourceLanguage": "mixed",
+                "sourceText": "durable",
+                "id": "tahan lama"
+              }
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "matigas",
+                "id": "keras, keras",
+                "tagalog": "matigas"
+              },
+              "meaning": {
+                "sourceLanguage": "mixed",
+                "sourceText": "hard, tough",
+                "id": "keras, keras"
+              }
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "mura",
+                "id": "murah, murah",
+                "tagalog": "mura"
+              },
+              "meaning": {
+                "sourceLanguage": "mixed",
+                "sourceText": "cheap, inexpensive",
+                "id": "murah, murah"
+              }
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "pangit",
+                "id": "jelek",
+                "tagalog": "pangit"
+              },
+              "meaning": {
+                "sourceLanguage": "mixed",
+                "sourceText": "ugly",
+                "id": "jelek"
+              }
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "sira",
+                "id": "hancur, hancur",
+                "tagalog": "sira"
+              },
+              "meaning": {
+                "sourceLanguage": "mixed",
+                "sourceText": "destroyed, broken",
+                "id": "hancur, hancur"
+              }
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "uso",
+                "id": "trendi, gaya saat ini",
+                "tagalog": "uso"
+              },
+              "meaning": {
+                "sourceLanguage": "mixed",
+                "sourceText": "trendy, current style",
+                "id": "trendi, gaya saat ini"
+              }
+            }
+          ],
+          "title": {
+            "sourceLanguage": "mixed",
+            "sourceText": "Adjectives",
+            "id": "Kata sifat"
+          }
+        },
+        {
+          "type": "vocabulary",
+          "entries": [
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "bumili",
+                "id": "untuk membeli",
+                "tagalog": "bumili"
+              },
+              "meaning": {
+                "sourceLanguage": "mixed",
+                "sourceText": "to buy",
+                "id": "untuk membeli"
+              }
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "gumastos",
+                "id": "untuk menghabiskan",
+                "tagalog": "gumastos"
+              },
+              "meaning": {
+                "sourceLanguage": "mixed",
+                "sourceText": "to spend",
+                "id": "untuk menghabiskan"
+              }
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "gumamit",
+                "id": "untuk digunakan",
+                "tagalog": "gumamit"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "to use",
+                "id": "untuk digunakan"
+              }
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "humanap",
+                "id": "untuk mencari sesuatu / seseorang",
+                "tagalog": "humanap"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "to look for something/ someone",
+                "id": "untuk mencari sesuatu / seseorang"
+              }
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "humingi",
+                "id": "untuk meminta sesuatu",
+                "tagalog": "humingi"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "to ask for something",
+                "id": "untuk meminta sesuatu"
+              }
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "humiram",
+                "id": "untuk meminjam, untuk memeriksa",
+                "tagalog": "humiram"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "to borrow, to check out",
+                "id": "untuk meminjam, untuk memeriksa"
+              }
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "kumuha",
+                "id": "untuk mendapatkan",
+                "tagalog": "kumuha"
+              },
+              "meaning": {
+                "sourceLanguage": "mixed",
+                "sourceText": "to get",
+                "id": "untuk mendapatkan"
+              }
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "lumapit",
+                "id": "untuk mendekati, untuk lebih dekat",
+                "tagalog": "lumapit"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "to approach, to get closer",
+                "id": "untuk mendekati, untuk lebih dekat"
+              }
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "pumasok",
+                "id": "untuk masuk",
+                "tagalog": "pumasok"
+              },
+              "meaning": {
+                "sourceLanguage": "mixed",
+                "sourceText": "to enter",
+                "id": "untuk masuk"
+              }
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "pumunta",
+                "id": "untuk pergi",
+                "tagalog": "pumunta"
+              },
+              "meaning": {
+                "sourceLanguage": "mixed",
+                "sourceText": "to go",
+                "id": "untuk pergi"
+              }
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "tumawag",
+                "id": "untuk memanggil",
+                "tagalog": "tumawag"
+              },
+              "meaning": {
+                "sourceLanguage": "mixed",
+                "sourceText": "to call",
+                "id": "untuk memanggil"
+              }
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "tumingin",
+                "id": "untuk melihat",
+                "tagalog": "tumingin"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "to look at",
+                "id": "untuk melihat"
+              }
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "tumulong",
+                "id": "untuk membantu",
+                "tagalog": "tumulong"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "to help",
+                "id": "untuk membantu"
+              }
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "umutang",
+                "id": "untuk meminjam uang, untuk membeli sesuatu pada kredit",
+                "tagalog": "umutang"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "to borrow money, to buy something on credit",
+                "id": "untuk meminjam uang, untuk membeli sesuatu pada kredit"
+              }
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "umuwi",
+                "id": "untuk pulang",
+                "tagalog": "umuwi"
+              },
+              "meaning": {
+                "sourceLanguage": "mixed",
+                "sourceText": "to go home",
+                "id": "untuk pulang"
+              }
+            }
+          ],
+          "title": {
+            "sourceLanguage": "mixed",
+            "sourceText": "-Um- Verbs",
+            "id": "-Um- verbs"
+          }
+        },
+        {
+          "type": "vocabulary",
+          "entries": [
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "magbenta",
+                "id": "untuk menjual",
+                "tagalog": "magbenta"
+              },
+              "meaning": {
+                "sourceLanguage": "mixed",
+                "sourceText": "to sell",
+                "id": "untuk menjual"
+              }
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "magbukas",
+                "id": "untuk membuka sesuatu",
+                "tagalog": "magbukas"
+              },
+              "meaning": {
+                "sourceLanguage": "mixed",
+                "sourceText": "to open something",
+                "id": "untuk membuka sesuatu"
+              }
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "magtinda",
+                "id": "untuk menjual",
+                "tagalog": "magtinda"
+              },
+              "meaning": {
+                "sourceLanguage": "mixed",
+                "sourceText": "to sell",
+                "id": "untuk menjual"
+              }
+            }
+          ],
+          "title": {
+            "sourceLanguage": "mixed",
+            "sourceText": "Mag- Verbs",
+            "id": "Mag- Verbs"
+          }
+        },
+        {
+          "type": "vocabulary",
+          "entries": [
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "daan",
+                "id": "unit seratus",
+                "tagalog": "daan"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "a unit of hundred",
+                "id": "unit seratus"
+              }
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "libo",
+                "id": "unit seribu",
+                "tagalog": "libo"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "a unit of thousand",
+                "id": "unit seribu"
+              }
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "-um-",
+                "id": "seorang aktor fokus affix verbal",
+                "tagalog": "-um-"
+              },
+              "meaning": {
+                "sourceLanguage": "mixed",
+                "sourceText": "an actor focus verbal affix",
+                "id": "seorang aktor fokus affix verbal"
+              }
+            }
+          ],
+          "title": {
+            "sourceLanguage": "mixed",
+            "sourceText": "Affixes",
+            "id": "Affix"
+          }
+        },
+        {
+          "type": "vocabulary",
+          "entries": [
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "iyan",
+                "id": "Sesungguhnya Kami yang memulai penciptaan bidadari dalam bentuk gadis-gadis perawan. Bidadari tersebut sangat dicintai oleh pasangan-pasangan mereka.",
+                "tagalog": "iyan"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "that (near the listener)",
+                "id": "Sesungguhnya Kami yang memulai penciptaan bidadari dalam bentuk gadis-gadis perawan. Bidadari tersebut sangat dicintai oleh pasangan-pasangan mereka."
+              }
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "ito",
+                "id": "ini (dekat speaker)",
+                "tagalog": "ito"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "this (near the speaker)",
+                "id": "ini (dekat speaker)"
+              }
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "iyon",
+                "id": "yang (tersimpan) dalam Lauh Mahfuzh.",
+                "tagalog": "iyon"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "that (far from the speaker and listener)",
+                "id": "yang (tersimpan) dalam Lauh Mahfuzh."
+              }
+            }
+          ],
+          "title": {
+            "sourceLanguage": "mixed",
+            "sourceText": "Pronouns",
+            "id": "Kata ganti"
+          }
         },
         {
           "type": "text",
-          "style": "body",
+          "style": "heading",
           "text": {
             "sourceLanguage": "mixed",
             "sourceText": "Idioms and Expressions",
@@ -1586,7 +1338,8 @@
           "text": {
             "sourceLanguage": "en",
             "sourceText": "Bago ba ‘yan? Saan mo binili iyan? Is that new? Where did you buy it?",
-            "id": "Bago ba 'yan? Saan mo binili iyan?"
+            "id": "Bago ba 'yan? Saan mo binili iyan?",
+            "tagalog": "Bago ba ‘yan? Saan mo binili iyan?"
           }
         },
         {
@@ -1595,7 +1348,8 @@
           "text": {
             "sourceLanguage": "en",
             "sourceText": "Gusto mo bang isukat? Do you want to try it on?",
-            "id": "Gusto mo bang isukat?"
+            "id": "Gusto mo bang isukat?",
+            "tagalog": "Gusto mo bang isukat?"
           }
         },
         {
@@ -1614,7 +1368,8 @@
           "text": {
             "sourceLanguage": "en",
             "sourceText": "Magkano ang bili mo diyan? How much did you pay for that?",
-            "id": "Magkano ang bili mo diyan? berapa banyak kau membayar untuk itu?"
+            "id": "Magkano ang bili mo diyan? berapa banyak kau membayar untuk itu?",
+            "tagalog": "Magkano ang bili mo diyan?"
           }
         },
         {
@@ -1651,10 +1406,10 @@
           "type": "image",
           "path": "assets/155.jpg"
         }
-      ]
+      ],
+      "id": "lesson-09-02-vocabulary"
     },
     {
-      "id": "lesson-09-dialogue-magkano-ito-how-much-is-this",
       "type": "DIALOGUE",
       "title": {
         "sourceLanguage": "en",
@@ -1667,172 +1422,159 @@
           "style": "body",
           "text": {
             "sourceLanguage": "en",
-            "sourceText": "Dialogue: Magkano Ito? How Much Is This?",
-            "id": "Dialog: Magkano Ito?"
-          }
-        },
-        {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "en",
             "sourceText": "Annie is shopping for a dress at a department store. Read her exchange with a salesperson and answer the Dialogue Comprehension questions that follow.",
             "id": "Annie sedang berbelanja gaun di department store, membaca pertukarannya dengan seorang salesman dan menjawab pertanyaan Komprehensi Dialog yang selanjutnya."
           }
         },
         {
+          "type": "dialogue",
+          "turns": [
+            {
+              "speaker": "Saleslady",
+              "speakerText": {
+                "sourceLanguage": "mixed",
+                "sourceText": "Saleslady:",
+                "id": "Sales:"
+              },
+              "text": {
+                "sourceLanguage": "fil",
+                "sourceText": "Ano po yun, ma’ am?",
+                "id": "Apa itu, madam?",
+                "tagalog": "Ano po yun, ma’ am?"
+              }
+            },
+            {
+              "speaker": "Annie",
+              "speakerText": {
+                "sourceLanguage": "mixed",
+                "sourceText": "Annie:",
+                "id": "Annie:"
+              },
+              "text": {
+                "sourceLanguage": "fil",
+                "sourceText": "Humahanap ako ng bestida. Nasaan ba ang mga ito?",
+                "id": "Saya mencari gaun, di mana mereka?",
+                "tagalog": "Humahanap ako ng bestida. Nasaan ba ang mga ito?"
+              }
+            },
+            {
+              "speaker": "Saleslady",
+              "speakerText": {
+                "sourceLanguage": "mixed",
+                "sourceText": "Saleslady:",
+                "id": "Sales:"
+              },
+              "text": {
+                "sourceLanguage": "fil",
+                "sourceText": "Nandito po. Ano po bang klase ng bestida ang gusto ninyo?",
+                "id": "Ayo, apa jenis gaun yang Anda inginkan?",
+                "tagalog": "Nandito po. Ano po bang klase ng bestida ang gusto ninyo?"
+              }
+            },
+            {
+              "speaker": "Annie",
+              "speakerText": {
+                "sourceLanguage": "mixed",
+                "sourceText": "Annie:",
+                "id": "Annie:"
+              },
+              "text": {
+                "sourceLanguage": "fil",
+                "sourceText": "Gusto ko ng pormal na bestida.",
+                "id": "Aku ingin gaun formal.",
+                "tagalog": "Gusto ko ng pormal na bestida."
+              }
+            },
+            {
+              "speaker": "Saleslady",
+              "speakerText": {
+                "sourceLanguage": "mixed",
+                "sourceText": "Saleslady:",
+                "id": "Sales:"
+              },
+              "text": {
+                "sourceLanguage": "fil",
+                "sourceText": "Heto po. Mahaba at malambot po ang tela ng bestida na ito. Gusto po ba ninyo ito?",
+                "id": "Di sini, gaun ini memiliki panjang, kain lembut, dan kau menyukainya?",
+                "tagalog": "Heto po. Mahaba at malambot po ang tela ng bestida na ito. Gusto po ba ninyo ito?"
+              }
+            },
+            {
+              "speaker": "Annie",
+              "speakerText": {
+                "sourceLanguage": "mixed",
+                "sourceText": "Annie:",
+                "id": "Annie:"
+              },
+              "text": {
+                "sourceLanguage": "fil",
+                "sourceText": "Oo. Mayroon ka ba nito sa itim?",
+                "id": "Ya, apakah Anda memilikinya dalam warna hitam?",
+                "tagalog": "Oo. Mayroon ka ba nito sa itim?"
+              }
+            },
+            {
+              "speaker": "Saleslady",
+              "speakerText": {
+                "sourceLanguage": "mixed",
+                "sourceText": "Saleslady:",
+                "id": "Sales:"
+              },
+              "text": {
+                "sourceLanguage": "fil",
+                "sourceText": "Opo. Mayroon po kami. Ano ho ang sukat ninyo?",
+                "id": "Ya, kami tahu. / Kau mengukur seperti apa?",
+                "tagalog": "Opo. Mayroon po kami. Ano ho ang sukat ninyo?"
+              }
+            },
+            {
+              "speaker": "Annie",
+              "speakerText": {
+                "sourceLanguage": "mixed",
+                "sourceText": "Annie:",
+                "id": "Annie:"
+              },
+              "text": {
+                "sourceLanguage": "fil",
+                "sourceText": "Medium lang ako.",
+                "id": "Aku hanya melakukannya.",
+                "tagalog": "Medium lang ako."
+              }
+            },
+            {
+              "speaker": "Saleslady",
+              "speakerText": {
+                "sourceLanguage": "mixed",
+                "sourceText": "Saleslady:",
+                "id": "Sales:"
+              },
+              "text": {
+                "sourceLanguage": "fil",
+                "sourceText": "Ay! Wala na po kami n’yan sa medium, pero mayroon ho kaming small. Gusto ho ba ninyong isukat?",
+                "id": "Oh, kami tidak sedang lagi, tapi kami punya anak kecil.",
+                "tagalog": "Ay! Wala na po kami n’yan sa medium, pero mayroon ho kaming small. Gusto ho ba ninyong isukat?"
+              }
+            },
+            {
+              "speaker": "Annie",
+              "speakerText": {
+                "sourceLanguage": "mixed",
+                "sourceText": "Annie:",
+                "id": "Annie:"
+              },
+              "text": {
+                "sourceLanguage": "fil",
+                "sourceText": "O sige.",
+                "id": "Baiklah.",
+                "tagalog": "O sige."
+              }
+            }
+          ]
+        },
+        {
           "type": "table",
+          "role": "dialogue-context",
           "rows": [
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "Saleslady:",
-                  "id": "Sales:"
-                },
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "Ano po yun, ma’ am?",
-                  "id": "Apa itu, madam?",
-                  "tagalog": "Ano po yun, ma’ am?"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "Annie:",
-                  "id": "Annie:"
-                },
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "Humahanap ako ng bestida. Nasaan ba ang mga ito?",
-                  "id": "Saya mencari gaun, di mana mereka?",
-                  "tagalog": "Humahanap ako ng bestida. Nasaan ba ang mga ito?"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "Saleslady:",
-                  "id": "Sales:"
-                },
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "Nandito po. Ano po bang klase ng bestida ang gusto ninyo?",
-                  "id": "Ayo, apa jenis gaun yang Anda inginkan?",
-                  "tagalog": "Nandito po. Ano po bang klase ng bestida ang gusto ninyo?"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "Annie:",
-                  "id": "Annie:"
-                },
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "Gusto ko ng pormal na bestida.",
-                  "id": "Aku ingin gaun formal.",
-                  "tagalog": "Gusto ko ng pormal na bestida."
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "Saleslady:",
-                  "id": "Sales:"
-                },
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "Heto po. Mahaba at malambot po ang tela ng bestida na ito. Gusto po ba ninyo ito?",
-                  "id": "Di sini, gaun ini memiliki panjang, kain lembut, dan kau menyukainya?",
-                  "tagalog": "Heto po. Mahaba at malambot po ang tela ng bestida na ito. Gusto po ba ninyo ito?"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "Annie:",
-                  "id": "Annie:"
-                },
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "Oo. Mayroon ka ba nito sa itim?",
-                  "id": "Ya, apakah Anda memilikinya dalam warna hitam?",
-                  "tagalog": "Oo. Mayroon ka ba nito sa itim?"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "Saleslady:",
-                  "id": "Sales:"
-                },
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "Opo. Mayroon po kami. Ano ho ang sukat ninyo?",
-                  "id": "Ya, kami tahu. / Kau mengukur seperti apa?",
-                  "tagalog": "Opo. Mayroon po kami. Ano ho ang sukat ninyo?"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "Annie:",
-                  "id": "Annie:"
-                },
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "Medium lang ako.",
-                  "id": "Aku hanya melakukannya.",
-                  "tagalog": "Medium lang ako."
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "Saleslady:",
-                  "id": "Sales:"
-                },
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "Ay! Wala na po kami n’yan sa medium, pero mayroon ho kaming small. Gusto ho ba ninyong isukat?",
-                  "id": "Oh, kami tidak sedang lagi, tapi kami punya anak kecil.",
-                  "tagalog": "Ay! Wala na po kami n’yan sa medium, pero mayroon ho kaming small. Gusto ho ba ninyong isukat?"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "Annie:",
-                  "id": "Annie:"
-                },
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "O sige.",
-                  "id": "Baiklah.",
-                  "tagalog": "O sige."
-                }
-              ]
-            },
             {
               "cells": [
                 {
@@ -1842,126 +1584,126 @@
                   "tagalog": ". . . . ."
                 }
               ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "Annie:",
-                  "id": "Annie:"
-                },
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "Nako! Masikip yata.",
-                  "id": "Aku tidak tahu apa yang harus dilakukan.",
-                  "tagalog": "Nako! Masikip yata."
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "Saleslady:",
-                  "id": "Sales:"
-                },
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "Hindi po. Kasiyang-kasiya po sa inyo. Maluwag pa nga po.",
-                  "id": "Tidak, itu menyenangkan bagi Anda, itu mudah.",
-                  "tagalog": "Hindi po. Kasiyang-kasiya po sa inyo. Maluwag pa nga po."
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "Annie:",
-                  "id": "Annie:"
-                },
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "O sige na nga. Magkano ba ito?",
-                  "id": "Oke, berapa harganya?",
-                  "tagalog": "O sige na nga. Magkano ba ito?"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "Saleslady:",
-                  "id": "Sales:"
-                },
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "Isang libo lang po.",
-                  "id": "Hanya seribu.",
-                  "tagalog": "Isang libo lang po."
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "Annie:",
-                  "id": "Annie:"
-                },
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "O sige. Saan ako magbabayad?",
-                  "id": "Baiklah, di mana saya membayar?",
-                  "tagalog": "O sige. Saan ako magbabayad?"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "Saleslady:",
-                  "id": "Sales:"
-                },
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "Pumunta po kayo doon.",
-                  "id": "Pergi.",
-                  "tagalog": "Pumunta po kayo doon."
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "Annie:",
-                  "id": "Annie:"
-                },
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "O sige. Salamat, ha!",
-                  "id": "Oke, aku menghargainya!",
-                  "tagalog": "O sige. Salamat, ha!"
-                }
-              ]
             }
           ]
         },
         {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "mixed",
-            "sourceText": "Dialogue Comprehension",
-            "id": "Pemahaman Dialog"
-          }
-        },
+          "type": "dialogue",
+          "turns": [
+            {
+              "speaker": "Annie",
+              "speakerText": {
+                "sourceLanguage": "mixed",
+                "sourceText": "Annie:",
+                "id": "Annie:"
+              },
+              "text": {
+                "sourceLanguage": "fil",
+                "sourceText": "Nako! Masikip yata.",
+                "id": "Aku tidak tahu apa yang harus dilakukan.",
+                "tagalog": "Nako! Masikip yata."
+              }
+            },
+            {
+              "speaker": "Saleslady",
+              "speakerText": {
+                "sourceLanguage": "mixed",
+                "sourceText": "Saleslady:",
+                "id": "Sales:"
+              },
+              "text": {
+                "sourceLanguage": "fil",
+                "sourceText": "Hindi po. Kasiyang-kasiya po sa inyo. Maluwag pa nga po.",
+                "id": "Tidak, itu menyenangkan bagi Anda, itu mudah.",
+                "tagalog": "Hindi po. Kasiyang-kasiya po sa inyo. Maluwag pa nga po."
+              }
+            },
+            {
+              "speaker": "Annie",
+              "speakerText": {
+                "sourceLanguage": "mixed",
+                "sourceText": "Annie:",
+                "id": "Annie:"
+              },
+              "text": {
+                "sourceLanguage": "fil",
+                "sourceText": "O sige na nga. Magkano ba ito?",
+                "id": "Oke, berapa harganya?",
+                "tagalog": "O sige na nga. Magkano ba ito?"
+              }
+            },
+            {
+              "speaker": "Saleslady",
+              "speakerText": {
+                "sourceLanguage": "mixed",
+                "sourceText": "Saleslady:",
+                "id": "Sales:"
+              },
+              "text": {
+                "sourceLanguage": "fil",
+                "sourceText": "Isang libo lang po.",
+                "id": "Hanya seribu.",
+                "tagalog": "Isang libo lang po."
+              }
+            },
+            {
+              "speaker": "Annie",
+              "speakerText": {
+                "sourceLanguage": "mixed",
+                "sourceText": "Annie:",
+                "id": "Annie:"
+              },
+              "text": {
+                "sourceLanguage": "fil",
+                "sourceText": "O sige. Saan ako magbabayad?",
+                "id": "Baiklah, di mana saya membayar?",
+                "tagalog": "O sige. Saan ako magbabayad?"
+              }
+            },
+            {
+              "speaker": "Saleslady",
+              "speakerText": {
+                "sourceLanguage": "mixed",
+                "sourceText": "Saleslady:",
+                "id": "Sales:"
+              },
+              "text": {
+                "sourceLanguage": "fil",
+                "sourceText": "Pumunta po kayo doon.",
+                "id": "Pergi.",
+                "tagalog": "Pumunta po kayo doon."
+              }
+            },
+            {
+              "speaker": "Annie",
+              "speakerText": {
+                "sourceLanguage": "mixed",
+                "sourceText": "Annie:",
+                "id": "Annie:"
+              },
+              "text": {
+                "sourceLanguage": "fil",
+                "sourceText": "O sige. Salamat, ha!",
+                "id": "Oke, aku menghargainya!",
+                "tagalog": "O sige. Salamat, ha!"
+              }
+            }
+          ]
+        }
+      ],
+      "id": "lesson-09-03-dialogue-magkano-ito-how-much-is-this"
+    },
+    {
+      "type": "EXERCISES",
+      "title": {
+        "sourceLanguage": "mixed",
+        "sourceText": "Dialogue Comprehension",
+        "id": "Pemahaman Dialog"
+      },
+      "blocks": [
         {
-          "type": "text",
-          "style": "body",
+          "type": "exercise",
+          "role": "question",
           "text": {
             "sourceLanguage": "en",
             "sourceText": "1. What kind of dress was Annie looking for?",
@@ -1969,17 +1711,8 @@
           }
         },
         {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "mixed",
-            "sourceText": "___________________________________",
-            "id": "___________________________________"
-          }
-        },
-        {
-          "type": "text",
-          "style": "body",
+          "type": "exercise",
+          "role": "question",
           "text": {
             "sourceLanguage": "en",
             "sourceText": "2. What kind of dress did Annie buy?",
@@ -1987,17 +1720,8 @@
           }
         },
         {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "mixed",
-            "sourceText": "___________________________________",
-            "id": "___________________________________"
-          }
-        },
-        {
-          "type": "text",
-          "style": "body",
+          "type": "exercise",
+          "role": "question",
           "text": {
             "sourceLanguage": "en",
             "sourceText": "3. How much was the dress?",
@@ -2005,17 +1729,8 @@
           }
         },
         {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "mixed",
-            "sourceText": "___________________________________",
-            "id": "___________________________________"
-          }
-        },
-        {
-          "type": "text",
-          "style": "body",
+          "type": "exercise",
+          "role": "question",
           "text": {
             "sourceLanguage": "en",
             "sourceText": "4. What was Annie’s size?",
@@ -2023,65 +1738,29 @@
           }
         },
         {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "mixed",
-            "sourceText": "___________________________________",
-            "id": "___________________________________"
-          }
-        },
-        {
-          "type": "text",
-          "style": "body",
+          "type": "exercise",
+          "role": "question",
           "text": {
             "sourceLanguage": "fil",
             "sourceText": "5. Was Annie’s dress too snug?",
             "id": "Gaun Wasanie Annies terlalu ditembak?",
             "tagalog": "5. Was Annie’s dress too snug?"
           }
-        },
-        {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "mixed",
-            "sourceText": "___________________________________",
-            "id": "___________________________________"
-          }
         }
-      ]
+      ],
+      "id": "lesson-09-04-dialogue-comprehension"
     },
     {
-      "id": "lesson-09-activities",
-      "type": "ACTIVITY",
+      "type": "EXERCISES",
       "title": {
         "sourceLanguage": "mixed",
-        "sourceText": "Activities",
-        "id": "Aktivitas"
+        "sourceText": "Activity 1",
+        "id": "Aktivitas 1"
       },
       "blocks": [
         {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "mixed",
-            "sourceText": "Activities",
-            "id": "Aktivitas"
-          }
-        },
-        {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "mixed",
-            "sourceText": "Activity 1",
-            "id": "Aktivitas 1"
-          }
-        },
-        {
-          "type": "text",
-          "style": "body",
+          "type": "exercise",
+          "role": "content",
           "text": {
             "sourceLanguage": "en",
             "sourceText": "Walk around the class and talk to four of your classmates. Comment on what they are wearing. Use the expressions and questions below and fill in the chart as you go.",
@@ -2090,6 +1769,7 @@
         },
         {
           "type": "table",
+          "role": "dialogue-context",
           "rows": [
             {
               "cells": [
@@ -2099,22 +1779,32 @@
                   "id": "EXAMPLE:"
                 }
               ]
-            },
+            }
+          ]
+        },
+        {
+          "type": "dialogue",
+          "turns": [
             {
-              "cells": [
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "STUDENT 1:",
-                  "id": "STUDEN 1:"
-                },
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "Ang ganda ng damit mo ah. Bagay na bagay sa iyo!",
-                  "id": "Apa pakaian indah yang Anda kenakan!",
-                  "tagalog": "Ang ganda ng damit mo ah. Bagay na bagay sa iyo!"
-                }
-              ]
-            },
+              "speaker": "STUDENT 1",
+              "speakerText": {
+                "sourceLanguage": "mixed",
+                "sourceText": "STUDENT 1:",
+                "id": "STUDEN 1:"
+              },
+              "text": {
+                "sourceLanguage": "fil",
+                "sourceText": "Ang ganda ng damit mo ah. Bagay na bagay sa iyo!",
+                "id": "Apa pakaian indah yang Anda kenakan!",
+                "tagalog": "Ang ganda ng damit mo ah. Bagay na bagay sa iyo!"
+              }
+            }
+          ]
+        },
+        {
+          "type": "table",
+          "role": "dialogue-context",
+          "rows": [
             {
               "cells": [
                 {
@@ -2124,86 +1814,87 @@
                   "tagalog": "Bago ba iyan?"
                 }
               ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "STUDENT 2:",
-                  "id": "STUDEN 2:"
-                },
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "Hindi. Luma na ito.",
-                  "id": "Tidak, sudah tua.",
-                  "tagalog": "Hindi. Luma na ito."
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "STUDENT 1:",
-                  "id": "STUDEN 1:"
-                },
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "Kailan at saan mo binili iyan?",
-                  "id": "Kapan dan di mana kau membelinya?",
-                  "tagalog": "Kailan at saan mo binili iyan?"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "STUDENT 2:",
-                  "id": "STUDEN 2:"
-                },
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "Noong isang buwan sa Bench.",
-                  "id": "Dalam satu bulan Bench.",
-                  "tagalog": "Noong isang buwan sa Bench."
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "STUDENT 1:",
-                  "id": "STUDEN 1:"
-                },
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "Magkanong bili mo diyan?",
-                  "id": "Berapa banyak yang akan Anda beli dari itu?",
-                  "tagalog": "Magkanong bili mo diyan?"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "STUDENT 2:",
-                  "id": "STUDEN 2:"
-                },
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "Isang libo lang.",
-                  "id": "Hanya seribu.",
-                  "tagalog": "Isang libo lang."
-                }
-              ]
             }
           ]
         },
         {
-          "type": "table",
+          "type": "dialogue",
+          "turns": [
+            {
+              "speaker": "STUDENT 2",
+              "speakerText": {
+                "sourceLanguage": "mixed",
+                "sourceText": "STUDENT 2:",
+                "id": "STUDEN 2:"
+              },
+              "text": {
+                "sourceLanguage": "fil",
+                "sourceText": "Hindi. Luma na ito.",
+                "id": "Tidak, sudah tua.",
+                "tagalog": "Hindi. Luma na ito."
+              }
+            },
+            {
+              "speaker": "STUDENT 1",
+              "speakerText": {
+                "sourceLanguage": "mixed",
+                "sourceText": "STUDENT 1:",
+                "id": "STUDEN 1:"
+              },
+              "text": {
+                "sourceLanguage": "fil",
+                "sourceText": "Kailan at saan mo binili iyan?",
+                "id": "Kapan dan di mana kau membelinya?",
+                "tagalog": "Kailan at saan mo binili iyan?"
+              }
+            },
+            {
+              "speaker": "STUDENT 2",
+              "speakerText": {
+                "sourceLanguage": "mixed",
+                "sourceText": "STUDENT 2:",
+                "id": "STUDEN 2:"
+              },
+              "text": {
+                "sourceLanguage": "fil",
+                "sourceText": "Noong isang buwan sa Bench.",
+                "id": "Dalam satu bulan Bench.",
+                "tagalog": "Noong isang buwan sa Bench."
+              }
+            },
+            {
+              "speaker": "STUDENT 1",
+              "speakerText": {
+                "sourceLanguage": "mixed",
+                "sourceText": "STUDENT 1:",
+                "id": "STUDEN 1:"
+              },
+              "text": {
+                "sourceLanguage": "fil",
+                "sourceText": "Magkanong bili mo diyan?",
+                "id": "Berapa banyak yang akan Anda beli dari itu?",
+                "tagalog": "Magkanong bili mo diyan?"
+              }
+            },
+            {
+              "speaker": "STUDENT 2",
+              "speakerText": {
+                "sourceLanguage": "mixed",
+                "sourceText": "STUDENT 2:",
+                "id": "STUDEN 2:"
+              },
+              "text": {
+                "sourceLanguage": "fil",
+                "sourceText": "Isang libo lang.",
+                "id": "Hanya seribu.",
+                "tagalog": "Isang libo lang."
+              }
+            }
+          ]
+        },
+        {
+          "type": "exercise",
+          "role": "worksheet",
           "rows": [
             {
               "cells": [
@@ -2307,8 +1998,8 @@
           ]
         },
         {
-          "type": "text",
-          "style": "body",
+          "type": "exercise",
+          "role": "content",
           "text": {
             "sourceLanguage": "mixed",
             "sourceText": "Reporting",
@@ -2316,8 +2007,8 @@
           }
         },
         {
-          "type": "text",
-          "style": "body",
+          "type": "exercise",
+          "role": "content",
           "text": {
             "sourceLanguage": "en",
             "sourceText": "Now, using complete sentences, report on the information you have gathered from your classmates.",
@@ -2325,8 +2016,8 @@
           }
         },
         {
-          "type": "text",
-          "style": "body",
+          "type": "exercise",
+          "role": "question",
           "text": {
             "sourceLanguage": "fil",
             "sourceText": "1. Bumili si Fredy ng pantalon sa Bench noong isang buwan. Isang libong piso ang pantalon ni Fredy.",
@@ -2335,8 +2026,8 @@
           }
         },
         {
-          "type": "text",
-          "style": "body",
+          "type": "exercise",
+          "role": "question",
           "text": {
             "sourceLanguage": "mixed",
             "sourceText": "2. ___________________________________",
@@ -2344,17 +2035,8 @@
           }
         },
         {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "mixed",
-            "sourceText": "___________________________________",
-            "id": "___________________________________"
-          }
-        },
-        {
-          "type": "text",
-          "style": "body",
+          "type": "exercise",
+          "role": "question",
           "text": {
             "sourceLanguage": "mixed",
             "sourceText": "3. ___________________________________",
@@ -2362,17 +2044,8 @@
           }
         },
         {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "mixed",
-            "sourceText": "___________________________________",
-            "id": "___________________________________"
-          }
-        },
-        {
-          "type": "text",
-          "style": "body",
+          "type": "exercise",
+          "role": "question",
           "text": {
             "sourceLanguage": "mixed",
             "sourceText": "4. ___________________________________",
@@ -2380,44 +2053,28 @@
           }
         },
         {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "mixed",
-            "sourceText": "___________________________________",
-            "id": "___________________________________"
-          }
-        },
-        {
-          "type": "text",
-          "style": "body",
+          "type": "exercise",
+          "role": "question",
           "text": {
             "sourceLanguage": "mixed",
             "sourceText": "5. ___________________________________",
             "id": "5. ___________________________________"
           }
-        },
+        }
+      ],
+      "id": "lesson-09-05-activity-1"
+    },
+    {
+      "type": "EXERCISES",
+      "title": {
+        "sourceLanguage": "mixed",
+        "sourceText": "Activity 2",
+        "id": "Aktivitas 2"
+      },
+      "blocks": [
         {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "mixed",
-            "sourceText": "___________________________________",
-            "id": "___________________________________"
-          }
-        },
-        {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "mixed",
-            "sourceText": "Activity 2",
-            "id": "Aktivitas 2"
-          }
-        },
-        {
-          "type": "text",
-          "style": "body",
+          "type": "exercise",
+          "role": "instruction",
           "text": {
             "sourceLanguage": "en",
             "sourceText": "Work with a partner. Using the exchange between Annie and the salesperson in the dialogue as a model, create your own dialogue based on one of the following two scenarios. The dialogue should be from twelve to sixteen lines long.",
@@ -2425,8 +2082,8 @@
           }
         },
         {
-          "type": "text",
-          "style": "body",
+          "type": "exercise",
+          "role": "question",
           "text": {
             "sourceLanguage": "en",
             "sourceText": "1. You are buying a coat for yourself. You are not sure which one to buy. Ask a salesperson for his or her opinion.",
@@ -2434,26 +2091,28 @@
           }
         },
         {
-          "type": "text",
-          "style": "body",
+          "type": "exercise",
+          "role": "question",
           "text": {
             "sourceLanguage": "en",
             "sourceText": "2. You are buying a shirt for your friend. Ask a salesperson if the store has it in medium.",
             "id": "2, kau membeli baju untuk temanmu, tanya sales jika toko punya baju medium."
           }
-        },
+        }
+      ],
+      "id": "lesson-09-06-activity-2"
+    },
+    {
+      "type": "EXERCISES",
+      "title": {
+        "sourceLanguage": "mixed",
+        "sourceText": "Activity 3",
+        "id": "Aktivitas 3"
+      },
+      "blocks": [
         {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "mixed",
-            "sourceText": "Activity 3",
-            "id": "Aktivitas 3"
-          }
-        },
-        {
-          "type": "text",
-          "style": "body",
+          "type": "exercise",
+          "role": "content",
           "text": {
             "sourceLanguage": "en",
             "sourceText": "This is an information gap activity. Work with a partner. Carlos went shopping at the different stores in the Philippines. Student 1will use Activity Sheet 1. Student 2 will use Activity Sheet 2. Some information is missing from each student’s receipts. Get the missing information from your partner by asking questions. Do not show your activity sheet to your partner.",
@@ -2461,7 +2120,8 @@
           }
         },
         {
-          "type": "table",
+          "type": "exercise",
+          "role": "worksheet",
           "rows": [
             {
               "cells": [
@@ -2508,8 +2168,8 @@
           "path": "assets/158b.jpg"
         },
         {
-          "type": "text",
-          "style": "body",
+          "type": "exercise",
+          "role": "content",
           "text": {
             "sourceLanguage": "mixed",
             "sourceText": "Information Gap Activity",
@@ -2517,7 +2177,8 @@
           }
         },
         {
-          "type": "table",
+          "type": "exercise",
+          "role": "worksheet",
           "rows": [
             {
               "cells": [
@@ -2560,8 +2221,8 @@
           "path": "assets/158a.jpg"
         },
         {
-          "type": "text",
-          "style": "body",
+          "type": "exercise",
+          "role": "content",
           "text": {
             "sourceLanguage": "mixed",
             "sourceText": "Information Gap Activity",
@@ -2572,35 +2233,17 @@
           "type": "image",
           "path": "assets/159.jpg"
         }
-      ]
+      ],
+      "id": "lesson-09-07-activity-3"
     },
     {
-      "id": "lesson-09-grammar",
-      "type": "GRAMMAR",
+      "type": "LEARNING_MATERIAL",
       "title": {
         "sourceLanguage": "mixed",
-        "sourceText": "Grammar",
-        "id": "Tata Bahasa"
+        "sourceText": "Definition of Terms",
+        "id": "Definisi Istilah"
       },
       "blocks": [
-        {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "mixed",
-            "sourceText": "Grammar",
-            "id": "Tata Bahasa"
-          }
-        },
-        {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "mixed",
-            "sourceText": "Definition of Terms",
-            "id": "Definisi Istilah"
-          }
-        },
         {
           "type": "table",
           "rows": [
@@ -2730,17 +2373,20 @@
                 }
               ]
             }
-          ]
-        },
-        {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "mixed",
-            "sourceText": "Examining Form",
-            "id": "Mengkaji Bentuk"
-          }
-        },
+          ],
+          "role": "reference"
+        }
+      ],
+      "id": "lesson-09-08-definition-of-terms"
+    },
+    {
+      "type": "LEARNING_MATERIAL",
+      "title": {
+        "sourceLanguage": "mixed",
+        "sourceText": "Examining Form",
+        "id": "Menganalisis Bentuk"
+      },
+      "blocks": [
         {
           "type": "text",
           "style": "body",
@@ -2826,16 +2472,18 @@
             "sourceText": "c. What kind of verbal affix is -um-? Is it a prefix, an infix, or both?",
             "id": "c. & lt; / font & gt; & lt; font color = \"# ffff00\" & gt; Perbaikan verbal apa itu -um...? & lt; / font & gt; & lt; font color = \"# ffff00\" & gt; Apakah itu awalan, infix atau keduanya?"
           }
-        },
-        {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "mixed",
-            "sourceText": "I. -Um- Verbs",
-            "id": "I-Um-Verbs"
-          }
-        },
+        }
+      ],
+      "id": "lesson-09-09-examining-form"
+    },
+    {
+      "type": "LEARNING_MATERIAL",
+      "title": {
+        "sourceLanguage": "mixed",
+        "sourceText": "I. -Um- Verbs",
+        "id": "I-Um-Verbs"
+      },
+      "blocks": [
         {
           "type": "text",
           "style": "body",
@@ -2930,7 +2578,8 @@
           "text": {
             "sourceLanguage": "en",
             "sourceText": "lindol + -um- → lumindol for the earthquake to happen (earthquake happens)",
-            "id": "lindol + -um- lumindol untuk gempa bumi terjadi (gempa bumi terjadi)"
+            "id": "lindol + -um- lumindol untuk gempa bumi terjadi (gempa bumi terjadi)",
+            "tagalog": "lindol -um- lumindol"
           }
         },
         {
@@ -3055,7 +2704,8 @@
                 }
               ]
             }
-          ]
+          ],
+          "role": "reference"
         },
         {
           "type": "text",
@@ -3130,7 +2780,8 @@
                 }
               ]
             }
-          ]
+          ],
+          "role": "reference"
         },
         {
           "type": "text",
@@ -3140,36 +2791,51 @@
             "sourceText": "-Um- verbs and mag- verbs are actor-focus (subject) verbs. Both verbs can be used in sentences where the verb does not require an object to complete its meaning or when the object is indefinite. An object in a Tagalog sentence is indefinite when a ng marker precedes the word.",
             "id": "-Um- verbs dan mag- verbs adalah aktor- fokus (subjek). Kedua kata kerja dapat digunakan dalam kalimat dimana kata kerja tidak memerlukan sebuah objek untuk melengkapi maknanya atau ketika objek tidak terbatas. Objek dalam sebuah kalimat Tagalog tidak dapat dipastikan ketika penanda ng mendahului kata."
           }
+        }
+      ],
+      "id": "lesson-09-10-i-um-verbs"
+    },
+    {
+      "type": "EXAMPLES",
+      "title": {
+        "sourceLanguage": "mixed",
+        "sourceText": "EXAMPLES:",
+        "id": "Contoh"
+      },
+      "blocks": [
+        {
+          "type": "example",
+          "items": [
+            {
+              "sourceLanguage": "fil",
+              "sourceText": "Tumalon siya. He jumped.",
+              "id": "Dia melompat.",
+              "tagalog": "Tumalon siya. He jumped."
+            }
+          ]
         },
         {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "mixed",
-            "sourceText": "EXAMPLES:",
-            "id": "EXAMPLES:"
-          }
-        },
-        {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "fil",
-            "sourceText": "Tumalon siya. He jumped.",
-            "id": "Dia melompat.",
-            "tagalog": "Tumalon siya. He jumped."
-          }
-        },
-        {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "fil",
-            "sourceText": "Kumain ako ng kanin. I ate rice.",
-            "id": "Aku makan nasi, Ikace.",
-            "tagalog": "Kumain ako ng kanin. I ate rice."
-          }
-        },
+          "type": "example",
+          "items": [
+            {
+              "sourceLanguage": "fil",
+              "sourceText": "Kumain ako ng kanin. I ate rice.",
+              "id": "Aku makan nasi, Ikace.",
+              "tagalog": "Kumain ako ng kanin. I ate rice."
+            }
+          ]
+        }
+      ],
+      "id": "lesson-09-11-examples"
+    },
+    {
+      "type": "LEARNING_MATERIAL",
+      "title": {
+        "sourceLanguage": "mixed",
+        "sourceText": "I. -Um- Verbs",
+        "id": "I-Um-Verbs"
+      },
+      "blocks": [
         {
           "type": "text",
           "style": "body",
@@ -3340,24 +3006,27 @@
                 }
               ]
             }
-          ]
-        },
+          ],
+          "role": "reference"
+        }
+      ],
+      "id": "lesson-09-12-i-um-verbs-2"
+    },
+    {
+      "type": "LEARNING_MATERIAL",
+      "title": {
+        "sourceLanguage": "mixed",
+        "sourceText": "-Um- Verbs",
+        "id": "-Um- verbs"
+      },
+      "blocks": [
         {
           "type": "text",
-          "style": "body",
+          "style": "heading",
           "text": {
             "sourceLanguage": "mixed",
             "sourceText": "Grammar Presentation",
             "id": "Penyajian Tata Bahasa"
-          }
-        },
-        {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "mixed",
-            "sourceText": "-Um- Verbs",
-            "id": "-Um- verbs"
           }
         },
         {
@@ -3494,46 +3163,64 @@
                 }
               ]
             }
+          ],
+          "role": "reference"
+        }
+      ],
+      "id": "lesson-09-13-um-verbs"
+    },
+    {
+      "type": "EXAMPLES",
+      "title": {
+        "sourceLanguage": "mixed",
+        "sourceText": "EXAMPLES:",
+        "id": "Contoh"
+      },
+      "blocks": [
+        {
+          "type": "example",
+          "items": [
+            {
+              "sourceLanguage": "fil",
+              "sourceText": "Lumapit sila sa kaniya. They approached him/her.",
+              "id": "Mereka datang kepadanya, The Achachedhim / dia.",
+              "tagalog": "Lumapit sila sa kaniya. They approached him/her."
+            }
           ]
         },
         {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "mixed",
-            "sourceText": "EXAMPLES:",
-            "id": "EXAMPLES:"
-          }
+          "type": "example",
+          "items": [
+            {
+              "sourceLanguage": "fil",
+              "sourceText": "Pumupunta ba siya sa Mall of Asia tuwing Linggo? Does she/he go to Mall of Asia every Sunday?",
+              "id": "Apakah dia pergi ke Mall of Asia setiap hari Minggu?",
+              "tagalog": "Pumupunta ba siya sa Mall of Asia tuwing Linggo? Does she/he go to Mall of Asia every Sunday?"
+            }
+          ]
         },
         {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "fil",
-            "sourceText": "Lumapit sila sa kaniya. They approached him/her.",
-            "id": "Mereka datang kepadanya, The Achachedhim / dia.",
-            "tagalog": "Lumapit sila sa kaniya. They approached him/her."
-          }
-        },
-        {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "fil",
-            "sourceText": "Pumupunta ba siya sa Mall of Asia tuwing Linggo? Does she/he go to Mall of Asia every Sunday?",
-            "id": "Apakah dia pergi ke Mall of Asia setiap hari Minggu?",
-            "tagalog": "Pumupunta ba siya sa Mall of Asia tuwing Linggo? Does she/he go to Mall of Asia every Sunday?"
-          }
-        },
-        {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "en",
-            "sourceText": "Papasok sina Mike at Carlos sa Bench. Mike and Carlos will go inside Bench (store in the Philippines).",
-            "id": "Mike dan Carlos akan masuk ke dalam Bench (toko di Filipina)."
-          }
-        },
+          "type": "example",
+          "items": [
+            {
+              "sourceLanguage": "en",
+              "sourceText": "Papasok sina Mike at Carlos sa Bench. Mike and Carlos will go inside Bench (store in the Philippines).",
+              "id": "Mike dan Carlos akan masuk ke dalam Bench (toko di Filipina).",
+              "tagalog": "Papasok sina Mike at Carlos sa Bench."
+            }
+          ]
+        }
+      ],
+      "id": "lesson-09-14-examples-2"
+    },
+    {
+      "type": "LEARNING_MATERIAL",
+      "title": {
+        "sourceLanguage": "mixed",
+        "sourceText": "-Um- Verbs",
+        "id": "-Um- verbs"
+      },
+      "blocks": [
         {
           "type": "text",
           "style": "body",
@@ -3724,47 +3411,64 @@
                 }
               ]
             }
+          ],
+          "role": "reference"
+        }
+      ],
+      "id": "lesson-09-15-um-verbs-2"
+    },
+    {
+      "type": "EXAMPLES",
+      "title": {
+        "sourceLanguage": "mixed",
+        "sourceText": "EXAMPLES:",
+        "id": "Contoh"
+      },
+      "blocks": [
+        {
+          "type": "example",
+          "items": [
+            {
+              "sourceLanguage": "fil",
+              "sourceText": "Gumastos ng isang daang piso si Maria kagabi. Maria spent one hundred pesos last night.",
+              "id": "Maria menghabiskan seratus peso per malam pada akhir hari, Maria menghabiskan satu haundred belasan tadi malam.",
+              "tagalog": "Gumastos ng isang daang piso si Maria kagabi. Maria spent one hundred pesos last night."
+            }
           ]
         },
         {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "mixed",
-            "sourceText": "EXAMPLES:",
-            "id": "EXAMPLES:"
-          }
+          "type": "example",
+          "items": [
+            {
+              "sourceLanguage": "mixed",
+              "sourceText": "Humahanap ba ng pantalon si Christine sa Mega Mall? Is Christine looking for a pair of jeans at Mega Mall?",
+              "id": "Apakah Christine mencari sepasang celana jeans di Mega Mall?",
+              "tagalog": "Humahanap ba ng pantalon si Christine sa Mega Mall?"
+            }
+          ]
         },
         {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "fil",
-            "sourceText": "Gumastos ng isang daang piso si Maria kagabi. Maria spent one hundred pesos last night.",
-            "id": "Maria menghabiskan seratus peso per malam pada akhir hari, Maria menghabiskan satu haundred belasan tadi malam.",
-            "tagalog": "Gumastos ng isang daang piso si Maria kagabi. Maria spent one hundred pesos last night."
-          }
-        },
-        {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "mixed",
-            "sourceText": "Humahanap ba ng pantalon si Christine sa Mega Mall? Is Christine looking for a pair of jeans at Mega Mall?",
-            "id": "Apakah Christine mencari sepasang celana jeans di Mega Mall?",
-            "tagalog": "Humahanap ba ng pantalon si Christine sa Mega Mall?"
-          }
-        },
-        {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "fil",
-            "sourceText": "Bibili raw po ng sapatos sina Bobby at Kevin sa Glorieta. They say Bobby and Kevin will buy shoes at Glorieta, sir/madam.",
-            "id": "Dikatakan bahwa Bobby dan Kevin akan membeli sepatu di Glorieta, Mereka Bobby dan Kevin akan baik sepatu dan Glorieta, ar / Madam.",
-            "tagalog": "Bibili raw po ng sapatos sina Bobby at Kevin sa Glorieta. They say Bobby and Kevin will buy shoes at Glorieta, sir/madam."
-          }
-        },
+          "type": "example",
+          "items": [
+            {
+              "sourceLanguage": "fil",
+              "sourceText": "Bibili raw po ng sapatos sina Bobby at Kevin sa Glorieta. They say Bobby and Kevin will buy shoes at Glorieta, sir/madam.",
+              "id": "Dikatakan bahwa Bobby dan Kevin akan membeli sepatu di Glorieta, Mereka Bobby dan Kevin akan baik sepatu dan Glorieta, ar / Madam.",
+              "tagalog": "Bibili raw po ng sapatos sina Bobby at Kevin sa Glorieta. They say Bobby and Kevin will buy shoes at Glorieta, sir/madam."
+            }
+          ]
+        }
+      ],
+      "id": "lesson-09-16-examples-3"
+    },
+    {
+      "type": "LEARNING_MATERIAL",
+      "title": {
+        "sourceLanguage": "mixed",
+        "sourceText": "-Um- Verbs",
+        "id": "-Um- verbs"
+      },
+      "blocks": [
         {
           "type": "text",
           "style": "body",
@@ -3965,46 +3669,64 @@
                 }
               ]
             }
+          ],
+          "role": "reference"
+        }
+      ],
+      "id": "lesson-09-17-um-verbs-3"
+    },
+    {
+      "type": "EXAMPLES",
+      "title": {
+        "sourceLanguage": "mixed",
+        "sourceText": "EXAMPLES:",
+        "id": "Contoh"
+      },
+      "blocks": [
+        {
+          "type": "example",
+          "items": [
+            {
+              "sourceLanguage": "fil",
+              "sourceText": "Bumili sila ng pulseras sa Greenhills noong isang linggo. They bought a bracelet at Greenhills last week.",
+              "id": "Mereka membeli gelang untuk Greenhills dalam seminggu, dan mereka membelinya dari gelang dan Greenhills minggu lalu.",
+              "tagalog": "Bumili sila ng pulseras sa Greenhills noong isang linggo. They bought a bracelet at Greenhills last week."
+            }
           ]
         },
         {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "mixed",
-            "sourceText": "EXAMPLES:",
-            "id": "EXAMPLES:"
-          }
+          "type": "example",
+          "items": [
+            {
+              "sourceLanguage": "fil",
+              "sourceText": "Gumagastos ba kayo ng limang daang piso araw-araw? Do you (plural) spend five hundred pesos every day?",
+              "id": "Apakah Anda menghabiskan lima ratus peso setiap hari?",
+              "tagalog": "Gumagastos ba kayo ng limang daang piso araw-araw? Do you (plural) spend five hundred pesos every day?"
+            }
+          ]
         },
         {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "fil",
-            "sourceText": "Bumili sila ng pulseras sa Greenhills noong isang linggo. They bought a bracelet at Greenhills last week.",
-            "id": "Mereka membeli gelang untuk Greenhills dalam seminggu, dan mereka membelinya dari gelang dan Greenhills minggu lalu.",
-            "tagalog": "Bumili sila ng pulseras sa Greenhills noong isang linggo. They bought a bracelet at Greenhills last week."
-          }
-        },
-        {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "fil",
-            "sourceText": "Gumagastos ba kayo ng limang daang piso araw-araw? Do you (plural) spend five hundred pesos every day?",
-            "id": "Apakah Anda menghabiskan lima ratus peso setiap hari?",
-            "tagalog": "Gumagastos ba kayo ng limang daang piso araw-araw? Do you (plural) spend five hundred pesos every day?"
-          }
-        },
-        {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "en",
-            "sourceText": "Hahanap na ako ng bagong sumbrero sa Robinson’s Place bukas. I will now look for a new cap at Robinson’s Place tomorrow.",
-            "id": "Hahanap na ako ng babong sumbrero sa Robinson 's Place bukas."
-          }
-        },
+          "type": "example",
+          "items": [
+            {
+              "sourceLanguage": "en",
+              "sourceText": "Hahanap na ako ng bagong sumbrero sa Robinson’s Place bukas. I will now look for a new cap at Robinson’s Place tomorrow.",
+              "id": "Hahanap na ako ng babong sumbrero sa Robinson 's Place bukas.",
+              "tagalog": "Hahanap na ako ng bagong sumbrero sa Robinson’s Place bukas."
+            }
+          ]
+        }
+      ],
+      "id": "lesson-09-18-examples-4"
+    },
+    {
+      "type": "LEARNING_MATERIAL",
+      "title": {
+        "sourceLanguage": "mixed",
+        "sourceText": "-Um- Verbs",
+        "id": "-Um- verbs"
+      },
+      "blocks": [
         {
           "type": "text",
           "style": "body",
@@ -4103,47 +3825,64 @@
                 }
               ]
             }
+          ],
+          "role": "reference"
+        }
+      ],
+      "id": "lesson-09-19-um-verbs-4"
+    },
+    {
+      "type": "EXAMPLES",
+      "title": {
+        "sourceLanguage": "mixed",
+        "sourceText": "EXAMPLES:",
+        "id": "Contoh"
+      },
+      "blocks": [
+        {
+          "type": "example",
+          "items": [
+            {
+              "sourceLanguage": "fil",
+              "sourceText": "Sino ang bumili ng blusa? Who bought the blouse?",
+              "id": "Siapa yang membeli blus?",
+              "tagalog": "Sino ang bumili ng blusa? Who bought the blouse?"
+            }
           ]
         },
         {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "mixed",
-            "sourceText": "EXAMPLES:",
-            "id": "EXAMPLES:"
-          }
+          "type": "example",
+          "items": [
+            {
+              "sourceLanguage": "fil",
+              "sourceText": "Sino ang humahanap ng hikaw ko? Who is looking for my earring?",
+              "id": "Siapa yang mencari anting-antingku?",
+              "tagalog": "Sino ang humahanap ng hikaw ko? Who is looking for my earring?"
+            }
+          ]
         },
         {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "fil",
-            "sourceText": "Sino ang bumili ng blusa? Who bought the blouse?",
-            "id": "Siapa yang membeli blus?",
-            "tagalog": "Sino ang bumili ng blusa? Who bought the blouse?"
-          }
-        },
-        {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "fil",
-            "sourceText": "Sino ang humahanap ng hikaw ko? Who is looking for my earring?",
-            "id": "Siapa yang mencari anting-antingku?",
-            "tagalog": "Sino ang humahanap ng hikaw ko? Who is looking for my earring?"
-          }
-        },
-        {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "fil",
-            "sourceText": "Sino ang kukuha ng amerikana ko? Who will get my suit?",
-            "id": "Siapa yang akan mengambil mantelku?",
-            "tagalog": "Sino ang kukuha ng amerikana ko? Who will get my suit?"
-          }
-        },
+          "type": "example",
+          "items": [
+            {
+              "sourceLanguage": "fil",
+              "sourceText": "Sino ang kukuha ng amerikana ko? Who will get my suit?",
+              "id": "Siapa yang akan mengambil mantelku?",
+              "tagalog": "Sino ang kukuha ng amerikana ko? Who will get my suit?"
+            }
+          ]
+        }
+      ],
+      "id": "lesson-09-20-examples-5"
+    },
+    {
+      "type": "LEARNING_MATERIAL",
+      "title": {
+        "sourceLanguage": "mixed",
+        "sourceText": "-Um- Verbs",
+        "id": "-Um- verbs"
+      },
+      "blocks": [
         {
           "type": "text",
           "style": "body",
@@ -4356,7 +4095,8 @@
                 }
               ]
             }
-          ]
+          ],
+          "role": "reference"
         },
         {
           "type": "text",
@@ -4366,55 +4106,62 @@
             "sourceText": "When there are adverbs of time in sentences like the ones in the chart, they are usually the last unit in the sentence.",
             "id": "Ketika ada keterangan waktu dalam kalimat seperti yang dalam grafik, mereka biasanya unit terakhir dalam kalimat."
           }
+        }
+      ],
+      "id": "lesson-09-21-um-verbs-5"
+    },
+    {
+      "type": "EXAMPLES",
+      "title": {
+        "sourceLanguage": "mixed",
+        "sourceText": "EXAMPLES:",
+        "id": "Contoh"
+      },
+      "blocks": [
+        {
+          "type": "example",
+          "items": [
+            {
+              "sourceLanguage": "fil",
+              "sourceText": "Hindi siya bumili ng mga damit kahapon. She/He did not buy clothes yesterday.",
+              "id": "Dia tidak membeli pakaian kemarin. / Dia tidak biara pakaian kemarin.",
+              "tagalog": "Hindi siya bumili ng mga damit kahapon. She/He did not buy clothes yesterday."
+            }
+          ]
         },
         {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "mixed",
-            "sourceText": "EXAMPLES:",
-            "id": "EXAMPLES:"
-          }
+          "type": "example",
+          "items": [
+            {
+              "sourceLanguage": "fil",
+              "sourceText": "Hindi po gumagastos ng isang daang piso si Mike araw-araw. Mike does not spend one hundred pesos every day.",
+              "id": "Mike tidak menghabiskan seratus peso setiap hari.",
+              "tagalog": "Hindi po gumagastos ng isang daang piso si Mike araw-araw. Mike does not spend one hundred pesos every day."
+            }
+          ]
         },
         {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "fil",
-            "sourceText": "Hindi siya bumili ng mga damit kahapon. She/He did not buy clothes yesterday.",
-            "id": "Dia tidak membeli pakaian kemarin. / Dia tidak biara pakaian kemarin.",
-            "tagalog": "Hindi siya bumili ng mga damit kahapon. She/He did not buy clothes yesterday."
-          }
-        },
-        {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "fil",
-            "sourceText": "Hindi po gumagastos ng isang daang piso si Mike araw-araw. Mike does not spend one hundred pesos every day.",
-            "id": "Mike tidak menghabiskan seratus peso setiap hari.",
-            "tagalog": "Hindi po gumagastos ng isang daang piso si Mike araw-araw. Mike does not spend one hundred pesos every day."
-          }
-        },
-        {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "mixed",
-            "sourceText": "Hindi raw sila tumitingin ng damit sa SM. They say they are not looking for clothes at Shoe Mart.",
-            "id": "Orang-orang bilang mereka tidak mencari pakaian di Shoe Mart.",
-            "tagalog": "Hindi raw sila tumitingin ng damit sa SM."
-          }
-        },
-        {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "en",
-            "sourceText": "II. Numbers: Daan at Libo (Hundred and Thousand)",
-            "id": "Nomor II: Daan di Libo (Seratus ribu)"
-          }
-        },
+          "type": "example",
+          "items": [
+            {
+              "sourceLanguage": "mixed",
+              "sourceText": "Hindi raw sila tumitingin ng damit sa SM. They say they are not looking for clothes at Shoe Mart.",
+              "id": "Orang-orang bilang mereka tidak mencari pakaian di Shoe Mart.",
+              "tagalog": "Hindi raw sila tumitingin ng damit sa SM."
+            }
+          ]
+        }
+      ],
+      "id": "lesson-09-22-examples-6"
+    },
+    {
+      "type": "LEARNING_MATERIAL",
+      "title": {
+        "sourceLanguage": "en",
+        "sourceText": "II. Numbers: Daan at Libo (Hundred and Thousand)",
+        "id": "Nomor II: Daan di Libo (Seratus ribu)"
+      },
+      "blocks": [
         {
           "type": "text",
           "style": "body",
@@ -4783,17 +4530,20 @@
                 }
               ]
             }
-          ]
-        },
-        {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "mixed",
-            "sourceText": "Grammar Notes",
-            "id": "Catatan Tata Bahasa"
-          }
-        },
+          ],
+          "role": "reference"
+        }
+      ],
+      "id": "lesson-09-23-ii-numbers-daan-at-libo-hundred-and-thousand"
+    },
+    {
+      "type": "LEARNING_MATERIAL",
+      "title": {
+        "sourceLanguage": "mixed",
+        "sourceText": "Grammar Notes",
+        "id": "Catatan Tata Bahasa"
+      },
+      "blocks": [
         {
           "type": "table",
           "rows": [
@@ -4841,7 +4591,8 @@
                 {
                   "sourceLanguage": "en",
                   "sourceText": "2. Since numbers function as adjectives, the linkers ng and na must be employed when using daan or libo. -ng- is attached to numbers ending in vowels. na is used when the previous word ends in a consonant.\n\n\n\n\nIsang daan\n\n\n\none hundred\n\n\n\n\n\nAnim na libo\n\n\n\nsix thousand",
-                  "id": "2. Sejak nomor fungsi sebagai kata sifat, linkers ng dan na harus dipekerjakan ketika menggunakan ding atau libo. -ng- dicantolkan ke nomor berakhir dalam vowel. na digunakan ketika kata sebelumnya berakhir dalam konsonan. Ilang dai seratus Anim na libo enam ribu"
+                  "id": "2. Sejak nomor fungsi sebagai kata sifat, linkers ng dan na harus dipekerjakan ketika menggunakan ding atau libo. -ng- dicantolkan ke nomor berakhir dalam vowel. na digunakan ketika kata sebelumnya berakhir dalam konsonan. Ilang dai seratus Anim na libo enam ribu",
+                  "tagalog": "ng na daan libo -ng- Is a ng daan Ani m na libo"
                 }
               ]
             },
@@ -4880,7 +4631,8 @@
                 {
                   "sourceLanguage": "en",
                   "sourceText": "3. Daan becomes raan when the preceding word ends with a vowel.\n\n\n\n\nApat na raan\n\n\n\nfour hundred\n\n\n\n\n\nAnim na raan\n\n\n\nsix hundred",
-                  "id": "Daan menjadi Nabi ketika kata sebelumnya berakhir dengan vokal. Apat na raan 400. Anim na raan enam ratus"
+                  "id": "Daan menjadi Nabi ketika kata sebelumnya berakhir dengan vokal. Apat na raan 400. Anim na raan enam ratus",
+                  "tagalog": "Daan raan Apat n a Anim n"
                 }
               ]
             },
@@ -4919,7 +4671,8 @@
                 {
                   "sourceLanguage": "en",
                   "sourceText": "4. Use the conjunction at when connecting hundreds to tens.\n\n\n\n\nIsang daan at walumpu\n\n\n\none hundred and eighty\n\n\n\n\n\nAnim na raan at lima\n\n\n\nsix hundred and five",
-                  "id": "Gunakan conjunction ketika menghubungkan ratusan sampai puluhan. Isang dai at welumpu seratus delapan puluh Anim na raan at lima enam ratus lima"
+                  "id": "Gunakan conjunction ketika menghubungkan ratusan sampai puluhan. Isang dai at welumpu seratus delapan puluh Anim na raan at lima enam ratus lima",
+                  "tagalog": "at Isang daan at walumpu Anim na raan at lima"
                 }
               ]
             },
@@ -4958,7 +4711,8 @@
                 {
                   "sourceLanguage": "en",
                   "sourceText": "5. A conjunction is not necessary when connecting thousands to hundreds. However, when connecting thousands to tens, the conjunction at must be used.\n\n\n\n\nIsang libo walong daan\n\n\n\none thousand eight hundred\n\n\n\n\n\nLimampung libo siyam na raan.\n\n\n\nfifty thousand nine hundred\n\n\n\n\n\nIsang libo at walo.\n\n\n\none thousand and eight\n\n\n\n\n\nLimang libo at dalawampu.\n\n\n\nfive thousand and twenty",
-                  "id": "5 a conjunction tidak diperlukan ketika menghubungkan ribuan ke ratusan bagaimanapun, ketika menghubungkan ribuan ke puluhan, konjunction di harus digunakan Ilang libo walong dan Seribu delapan ratus Limmpung libo siyam na raan. Lima puluh ribu sembilan ratus Ilang libo di walo. seribu dan delapan Limang libo di dalawampu. lima ribu dan dua puluh"
+                  "id": "5 a conjunction tidak diperlukan ketika menghubungkan ribuan ke ratusan bagaimanapun, ketika menghubungkan ribuan ke puluhan, konjunction di harus digunakan Ilang libo walong dan Seribu delapan ratus Limmpung libo siyam na raan. Lima puluh ribu sembilan ratus Ilang libo di walo. seribu dan delapan Limang libo di dalawampu. lima ribu dan dua puluh",
+                  "tagalog": "at Isang libo walong daan Limampung libo siyam na raan. Isang libo at walo. Limang libo at dalawampu."
                 }
               ]
             },
@@ -5022,40 +4776,23 @@
                 }
               ]
             }
-          ]
+          ],
+          "role": "reference"
         }
-      ]
+      ],
+      "id": "lesson-09-24-grammar-notes"
     },
     {
-      "id": "lesson-09-practice",
-      "type": "PRACTICE",
+      "type": "EXERCISES",
       "title": {
-        "sourceLanguage": "mixed",
-        "sourceText": "Practice",
-        "id": "Latihan"
+        "sourceLanguage": "en",
+        "sourceText": "I. Speaking Practice",
+        "id": "I. Latihan Berbicara"
       },
       "blocks": [
         {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "mixed",
-            "sourceText": "Practice",
-            "id": "Latihan"
-          }
-        },
-        {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "en",
-            "sourceText": "I. Speaking Practice",
-            "id": "I. Latihan Berbicara"
-          }
-        },
-        {
-          "type": "text",
-          "style": "body",
+          "type": "exercise",
+          "role": "content",
           "text": {
             "sourceLanguage": "mixed",
             "sourceText": "Role-Play",
@@ -5063,8 +4800,8 @@
           }
         },
         {
-          "type": "text",
-          "style": "body",
+          "type": "exercise",
+          "role": "content",
           "text": {
             "sourceLanguage": "en",
             "sourceText": "The class should be divided into two groups. Half of the class has shopping lists, and the other half will play the role of shop owners. Copy worksheets A and B from below and cut up the cards so that there is an equal number of cards for shoppers (worksheet A) and shop owners (B). The ideal number is four of each.",
@@ -5072,8 +4809,8 @@
           }
         },
         {
-          "type": "text",
-          "style": "body",
+          "type": "exercise",
+          "role": "content",
           "text": {
             "sourceLanguage": "fil",
             "sourceText": "Worksheet ng mga Mamimili",
@@ -5082,8 +4819,8 @@
           }
         },
         {
-          "type": "text",
-          "style": "body",
+          "type": "exercise",
+          "role": "content",
           "text": {
             "sourceLanguage": "en",
             "sourceText": "Shoppers need to find everything on their list and complete their short task. Here is a list of the things that you need to buy today.",
@@ -5091,7 +4828,8 @@
           }
         },
         {
-          "type": "table",
+          "type": "exercise",
+          "role": "worksheet",
           "rows": [
             {
               "cells": [
@@ -5160,8 +4898,8 @@
           ]
         },
         {
-          "type": "text",
-          "style": "body",
+          "type": "exercise",
+          "role": "content",
           "text": {
             "sourceLanguage": "fil",
             "sourceText": "Worksheet ng mga Tindero at Tindera",
@@ -5170,8 +4908,8 @@
           }
         },
         {
-          "type": "text",
-          "style": "body",
+          "type": "exercise",
+          "role": "content",
           "text": {
             "sourceLanguage": "en",
             "sourceText": "Shop owners need to 1) draw all the products, and 2) decide how much each product costs before starting. You are a variety store owner. The chart below lists all of your merchandise.",
@@ -5179,7 +4917,8 @@
           }
         },
         {
-          "type": "table",
+          "type": "exercise",
+          "role": "worksheet",
           "rows": [
             {
               "cells": [
@@ -5246,19 +4985,21 @@
               ]
             }
           ]
-        },
+        }
+      ],
+      "id": "lesson-09-25-i-speaking-practice"
+    },
+    {
+      "type": "EXERCISES",
+      "title": {
+        "sourceLanguage": "mixed",
+        "sourceText": "II. Reading Practice",
+        "id": "II. Latihan Membaca"
+      },
+      "blocks": [
         {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "mixed",
-            "sourceText": "II. Reading Practice",
-            "id": "II. Latihan Membaca"
-          }
-        },
-        {
-          "type": "text",
-          "style": "body",
+          "type": "exercise",
+          "role": "content",
           "text": {
             "sourceLanguage": "en",
             "sourceText": "A. Complete the dialogue by choosing one of the sentences marked a to below.",
@@ -5266,218 +5007,204 @@
           }
         },
         {
-          "type": "table",
-          "rows": [
+          "type": "dialogue",
+          "turns": [
             {
-              "cells": [
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "Dispatsadora:",
-                  "id": "Dispatsadora:"
-                },
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "Kumusta po sila? May sale po kami ngayon sa mga pantalon.",
-                  "id": "Bagaimana dengan mereka, kita sekarang memiliki halaman untuk celana.",
-                  "tagalog": "Kumusta po sila? May sale po kami ngayon sa mga pantalon."
-                }
-              ]
+              "speaker": "Dispatsadora",
+              "speakerText": {
+                "sourceLanguage": "mixed",
+                "sourceText": "Dispatsadora:",
+                "id": "Dispatsadora:"
+              },
+              "text": {
+                "sourceLanguage": "fil",
+                "sourceText": "Kumusta po sila? May sale po kami ngayon sa mga pantalon.",
+                "id": "Bagaimana dengan mereka, kita sekarang memiliki halaman untuk celana.",
+                "tagalog": "Kumusta po sila? May sale po kami ngayon sa mga pantalon."
+              }
             },
             {
-              "cells": [
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "Jose:",
-                  "id": "Jose:"
-                },
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "_____________________________",
-                  "id": "_____________________________"
-                }
-              ]
+              "speaker": "Jose",
+              "speakerText": {
+                "sourceLanguage": "mixed",
+                "sourceText": "Jose:",
+                "id": "Jose:"
+              },
+              "text": {
+                "sourceLanguage": "mixed",
+                "sourceText": "_____________________________",
+                "id": "_____________________________"
+              }
             },
             {
-              "cells": [
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "Dispatsadora:",
-                  "id": "Dispatsadora:"
-                },
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "Nandito lang po.",
-                  "id": "Hanya saja di sini.",
-                  "tagalog": "Nandito lang po."
-                }
-              ]
+              "speaker": "Dispatsadora",
+              "speakerText": {
+                "sourceLanguage": "mixed",
+                "sourceText": "Dispatsadora:",
+                "id": "Dispatsadora:"
+              },
+              "text": {
+                "sourceLanguage": "fil",
+                "sourceText": "Nandito lang po.",
+                "id": "Hanya saja di sini.",
+                "tagalog": "Nandito lang po."
+              }
             },
             {
-              "cells": [
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "Jose:",
-                  "id": "Jose:"
-                },
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "_____________________________",
-                  "id": "_____________________________"
-                }
-              ]
+              "speaker": "Jose",
+              "speakerText": {
+                "sourceLanguage": "mixed",
+                "sourceText": "Jose:",
+                "id": "Jose:"
+              },
+              "text": {
+                "sourceLanguage": "mixed",
+                "sourceText": "_____________________________",
+                "id": "_____________________________"
+              }
             },
             {
-              "cells": [
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "Dispatsadora:",
-                  "id": "Dispatsadora:"
-                },
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "Heto po.",
-                  "id": "Ini dia.",
-                  "tagalog": "Heto po."
-                }
-              ]
+              "speaker": "Dispatsadora",
+              "speakerText": {
+                "sourceLanguage": "mixed",
+                "sourceText": "Dispatsadora:",
+                "id": "Dispatsadora:"
+              },
+              "text": {
+                "sourceLanguage": "fil",
+                "sourceText": "Heto po.",
+                "id": "Ini dia.",
+                "tagalog": "Heto po."
+              }
             },
             {
-              "cells": [
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "Jose:",
-                  "id": "Jose:"
-                },
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "Nasaan ang fitting room ninyo?",
-                  "id": "Di mana kamar rokokmu?",
-                  "tagalog": "Nasaan ang fitting room ninyo?"
-                }
-              ]
+              "speaker": "Jose",
+              "speakerText": {
+                "sourceLanguage": "mixed",
+                "sourceText": "Jose:",
+                "id": "Jose:"
+              },
+              "text": {
+                "sourceLanguage": "fil",
+                "sourceText": "Nasaan ang fitting room ninyo?",
+                "id": "Di mana kamar rokokmu?",
+                "tagalog": "Nasaan ang fitting room ninyo?"
+              }
             },
             {
-              "cells": [
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "Dispatsdara:",
-                  "id": "Dispatsdara:"
-                },
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "_____________________________",
-                  "id": "_____________________________"
-                }
-              ]
+              "speaker": "Dispatsdara",
+              "speakerText": {
+                "sourceLanguage": "mixed",
+                "sourceText": "Dispatsdara:",
+                "id": "Dispatsdara:"
+              },
+              "text": {
+                "sourceLanguage": "mixed",
+                "sourceText": "_____________________________",
+                "id": "_____________________________"
+              }
             },
             {
-              "cells": [
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "Dispatsdora:",
-                  "id": "Dispatsdora:"
-                },
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "Kasya ho ba?",
-                  "id": "Apakah itu anak laki-laki?",
-                  "tagalog": "Kasya ho ba?"
-                }
-              ]
+              "speaker": "Dispatsdora",
+              "speakerText": {
+                "sourceLanguage": "mixed",
+                "sourceText": "Dispatsdora:",
+                "id": "Dispatsdora:"
+              },
+              "text": {
+                "sourceLanguage": "fil",
+                "sourceText": "Kasya ho ba?",
+                "id": "Apakah itu anak laki-laki?",
+                "tagalog": "Kasya ho ba?"
+              }
             },
             {
-              "cells": [
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "Jose:",
-                  "id": "Jose:"
-                },
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "_____________________________",
-                  "id": "_____________________________"
-                }
-              ]
+              "speaker": "Jose",
+              "speakerText": {
+                "sourceLanguage": "mixed",
+                "sourceText": "Jose:",
+                "id": "Jose:"
+              },
+              "text": {
+                "sourceLanguage": "mixed",
+                "sourceText": "_____________________________",
+                "id": "_____________________________"
+              }
             },
             {
-              "cells": [
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "Dispatsadora:",
-                  "id": "Dispatsadora:"
-                },
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "Isang libong piso lang po.",
-                  "id": "Hanya seribu peso.",
-                  "tagalog": "Isang libong piso lang po."
-                }
-              ]
+              "speaker": "Dispatsadora",
+              "speakerText": {
+                "sourceLanguage": "mixed",
+                "sourceText": "Dispatsadora:",
+                "id": "Dispatsadora:"
+              },
+              "text": {
+                "sourceLanguage": "fil",
+                "sourceText": "Isang libong piso lang po.",
+                "id": "Hanya seribu peso.",
+                "tagalog": "Isang libong piso lang po."
+              }
             },
             {
-              "cells": [
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "Jose:",
-                  "id": "Jose:"
-                },
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "O sige. Saan ako magbabayad?",
-                  "id": "Baiklah, di mana saya membayar?",
-                  "tagalog": "O sige. Saan ako magbabayad?"
-                }
-              ]
+              "speaker": "Jose",
+              "speakerText": {
+                "sourceLanguage": "mixed",
+                "sourceText": "Jose:",
+                "id": "Jose:"
+              },
+              "text": {
+                "sourceLanguage": "fil",
+                "sourceText": "O sige. Saan ako magbabayad?",
+                "id": "Baiklah, di mana saya membayar?",
+                "tagalog": "O sige. Saan ako magbabayad?"
+              }
             },
             {
-              "cells": [
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "Dispatsadora:",
-                  "id": "Dispatsadora:"
-                },
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "Doon po sa counter. May iba pa po kayong gusto?",
-                  "id": "Anda akan memiliki sesuatu yang lain di meja.",
-                  "tagalog": "Doon po sa counter. May iba pa po kayong gusto?"
-                }
-              ]
+              "speaker": "Dispatsadora",
+              "speakerText": {
+                "sourceLanguage": "mixed",
+                "sourceText": "Dispatsadora:",
+                "id": "Dispatsadora:"
+              },
+              "text": {
+                "sourceLanguage": "fil",
+                "sourceText": "Doon po sa counter. May iba pa po kayong gusto?",
+                "id": "Anda akan memiliki sesuatu yang lain di meja.",
+                "tagalog": "Doon po sa counter. May iba pa po kayong gusto?"
+              }
             },
             {
-              "cells": [
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "Jose:",
-                  "id": "Jose:"
-                },
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "_____________________________",
-                  "id": "_____________________________"
-                }
-              ]
+              "speaker": "Jose",
+              "speakerText": {
+                "sourceLanguage": "mixed",
+                "sourceText": "Jose:",
+                "id": "Jose:"
+              },
+              "text": {
+                "sourceLanguage": "mixed",
+                "sourceText": "_____________________________",
+                "id": "_____________________________"
+              }
             },
             {
-              "cells": [
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "Dispatsadora:",
-                  "id": "Dispatsadora:"
-                },
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "O sige po.",
-                  "id": "Oke.",
-                  "tagalog": "O sige po."
-                }
-              ]
+              "speaker": "Dispatsadora",
+              "speakerText": {
+                "sourceLanguage": "mixed",
+                "sourceText": "Dispatsadora:",
+                "id": "Dispatsadora:"
+              },
+              "text": {
+                "sourceLanguage": "fil",
+                "sourceText": "O sige po.",
+                "id": "Oke.",
+                "tagalog": "O sige po."
+              }
             }
           ]
         },
         {
-          "type": "text",
-          "style": "body",
+          "type": "exercise",
+          "role": "content",
           "text": {
             "sourceLanguage": "fil",
             "sourceText": "a: Nandito po.",
@@ -5486,8 +5213,8 @@
           }
         },
         {
-          "type": "text",
-          "style": "body",
+          "type": "exercise",
+          "role": "question",
           "text": {
             "sourceLanguage": "fil",
             "sourceText": "b: Siyanga ba? Nasaan ang mga ito?",
@@ -5496,8 +5223,8 @@
           }
         },
         {
-          "type": "text",
-          "style": "body",
+          "type": "exercise",
+          "role": "content",
           "text": {
             "sourceLanguage": "fil",
             "sourceText": "c: Wala na. O sige. Salamat.",
@@ -5506,8 +5233,8 @@
           }
         },
         {
-          "type": "text",
-          "style": "body",
+          "type": "exercise",
+          "role": "question",
           "text": {
             "sourceLanguage": "fil",
             "sourceText": "d: Oo. Tamang-tama ang sukat. Magkano ito?",
@@ -5516,8 +5243,8 @@
           }
         },
         {
-          "type": "text",
-          "style": "body",
+          "type": "exercise",
+          "role": "content",
           "text": {
             "sourceLanguage": "fil",
             "sourceText": "e: Gusto ko iyon. Pakikuha mo nga ako ng size 30/30, 30 ang haba, 30 ang bewang.",
@@ -5526,8 +5253,8 @@
           }
         },
         {
-          "type": "text",
-          "style": "body",
+          "type": "exercise",
+          "role": "content",
           "text": {
             "sourceLanguage": "en",
             "sourceText": "B. Now that you have completed the dialogue, answer the following questions about it.",
@@ -5535,8 +5262,8 @@
           }
         },
         {
-          "type": "text",
-          "style": "body",
+          "type": "exercise",
+          "role": "question",
           "text": {
             "sourceLanguage": "fil",
             "sourceText": "1. Ano ang naka-sale ngayon?",
@@ -5545,17 +5272,8 @@
           }
         },
         {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "mixed",
-            "sourceText": "____________________________________________________",
-            "id": "____________________________________________________"
-          }
-        },
-        {
-          "type": "text",
-          "style": "body",
+          "type": "exercise",
+          "role": "question",
           "text": {
             "sourceLanguage": "fil",
             "sourceText": "2. Ano ang sukat ni Jose?",
@@ -5564,45 +5282,29 @@
           }
         },
         {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "mixed",
-            "sourceText": "____________________________________________________",
-            "id": "____________________________________________________"
-          }
-        },
-        {
-          "type": "text",
-          "style": "body",
+          "type": "exercise",
+          "role": "question",
           "text": {
             "sourceLanguage": "fil",
             "sourceText": "3. Magkano ang pantalon?",
             "id": "3, berapa celana?",
             "tagalog": "3. Magkano ang pantalon?"
           }
-        },
+        }
+      ],
+      "id": "lesson-09-26-ii-reading-practice"
+    },
+    {
+      "type": "EXERCISES",
+      "title": {
+        "sourceLanguage": "mixed",
+        "sourceText": "III. Writing Practice",
+        "id": "III. Latihan Menulis"
+      },
+      "blocks": [
         {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "mixed",
-            "sourceText": "____________________________________________________",
-            "id": "____________________________________________________"
-          }
-        },
-        {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "mixed",
-            "sourceText": "III. Writing Practice",
-            "id": "III. Latihan Menulis"
-          }
-        },
-        {
-          "type": "text",
-          "style": "body",
+          "type": "exercise",
+          "role": "instruction",
           "text": {
             "sourceLanguage": "en",
             "sourceText": "Interview three classmates and find out the following information:",
@@ -5610,7 +5312,8 @@
           }
         },
         {
-          "type": "table",
+          "type": "exercise",
+          "role": "worksheet",
           "rows": [
             {
               "cells": [
@@ -5675,8 +5378,8 @@
           ]
         },
         {
-          "type": "text",
-          "style": "body",
+          "type": "exercise",
+          "role": "content",
           "text": {
             "sourceLanguage": "fil",
             "sourceText": "Pangalan: ___________________",
@@ -5689,35 +5392,8 @@
           "path": "assets/168.jpg"
         },
         {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "mixed",
-            "sourceText": "____________________________________________________",
-            "id": "____________________________________________________"
-          }
-        },
-        {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "mixed",
-            "sourceText": "____________________________________________________",
-            "id": "____________________________________________________"
-          }
-        },
-        {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "mixed",
-            "sourceText": "____________________________________________________",
-            "id": "____________________________________________________"
-          }
-        },
-        {
-          "type": "text",
-          "style": "body",
+          "type": "exercise",
+          "role": "content",
           "text": {
             "sourceLanguage": "fil",
             "sourceText": "Pangalan: ___________________",
@@ -5730,35 +5406,8 @@
           "path": "assets/168.jpg"
         },
         {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "mixed",
-            "sourceText": "____________________________________________________",
-            "id": "____________________________________________________"
-          }
-        },
-        {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "mixed",
-            "sourceText": "____________________________________________________",
-            "id": "____________________________________________________"
-          }
-        },
-        {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "mixed",
-            "sourceText": "____________________________________________________",
-            "id": "____________________________________________________"
-          }
-        },
-        {
-          "type": "text",
-          "style": "body",
+          "type": "exercise",
+          "role": "content",
           "text": {
             "sourceLanguage": "fil",
             "sourceText": "Pangalan: ___________________",
@@ -5771,35 +5420,8 @@
           "path": "assets/168.jpg"
         },
         {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "mixed",
-            "sourceText": "____________________________________________________",
-            "id": "____________________________________________________"
-          }
-        },
-        {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "mixed",
-            "sourceText": "____________________________________________________",
-            "id": "____________________________________________________"
-          }
-        },
-        {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "mixed",
-            "sourceText": "____________________________________________________",
-            "id": "____________________________________________________"
-          }
-        },
-        {
-          "type": "text",
-          "style": "body",
+          "type": "exercise",
+          "role": "content",
           "text": {
             "sourceLanguage": "en",
             "sourceText": "To Download the audio files, please click here.",
@@ -5809,19 +5431,21 @@
         {
           "type": "image",
           "path": "assets/cd.jpg"
-        },
+        }
+      ],
+      "id": "lesson-09-27-iii-writing-practice"
+    },
+    {
+      "type": "EXERCISES",
+      "title": {
+        "sourceLanguage": "mixed",
+        "sourceText": "IV. Listening Practice",
+        "id": "IV. Latihan Menyimak"
+      },
+      "blocks": [
         {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "mixed",
-            "sourceText": "IV. Listening Practice",
-            "id": "IV. Latihan Menyimak"
-          }
-        },
-        {
-          "type": "text",
-          "style": "body",
+          "type": "exercise",
+          "role": "instruction",
           "text": {
             "sourceLanguage": "en",
             "sourceText": "Using the Bonus Material of the book, listen to audio file (09–2) and answer the following questions about Mario’s shopping in Tagalog. Take note of the vocabulary in the word bank, which may help you better understand the audio.",
@@ -5831,19 +5455,21 @@
         {
           "type": "image",
           "path": "assets/169.jpg"
-        },
+        }
+      ],
+      "id": "lesson-09-28-iv-listening-practice"
+    },
+    {
+      "type": "EXERCISES",
+      "title": {
+        "sourceLanguage": "mixed",
+        "sourceText": "Dialogue Comprehension",
+        "id": "Pemahaman Dialog"
+      },
+      "blocks": [
         {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "mixed",
-            "sourceText": "Dialogue Comprehension",
-            "id": "Pemahaman Dialog"
-          }
-        },
-        {
-          "type": "text",
-          "style": "body",
+          "type": "exercise",
+          "role": "answer",
           "text": {
             "sourceLanguage": "en",
             "sourceText": "Answer the following questions in English.",
@@ -5851,8 +5477,8 @@
           }
         },
         {
-          "type": "text",
-          "style": "body",
+          "type": "exercise",
+          "role": "question",
           "text": {
             "sourceLanguage": "fil",
             "sourceText": "1. Anu-ano ang mga klase ng polo?",
@@ -5861,17 +5487,8 @@
           }
         },
         {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "mixed",
-            "sourceText": "____________________________________________________",
-            "id": "____________________________________________________"
-          }
-        },
-        {
-          "type": "text",
-          "style": "body",
+          "type": "exercise",
+          "role": "question",
           "text": {
             "sourceLanguage": "fil",
             "sourceText": "2. Ano ang usong klase ng polo ngayon?",
@@ -5880,17 +5497,8 @@
           }
         },
         {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "mixed",
-            "sourceText": "____________________________________________________",
-            "id": "____________________________________________________"
-          }
-        },
-        {
-          "type": "text",
-          "style": "body",
+          "type": "exercise",
+          "role": "question",
           "text": {
             "sourceLanguage": "fil",
             "sourceText": "3. Ano ang sukat ni Mario?",
@@ -5899,17 +5507,8 @@
           }
         },
         {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "mixed",
-            "sourceText": "____________________________________________________",
-            "id": "____________________________________________________"
-          }
-        },
-        {
-          "type": "text",
-          "style": "body",
+          "type": "exercise",
+          "role": "question",
           "text": {
             "sourceLanguage": "fil",
             "sourceText": "4. Magkano ang polo?",
@@ -5918,34 +5517,43 @@
           }
         },
         {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "mixed",
-            "sourceText": "____________________________________________________",
-            "id": "____________________________________________________"
-          }
-        },
-        {
-          "type": "text",
-          "style": "body",
+          "type": "exercise",
+          "role": "question",
           "text": {
             "sourceLanguage": "fil",
             "sourceText": "5. Kasya ba ang small kay Mario?",
             "id": "Apakah Mario keren?",
             "tagalog": "5. Kasya ba ang small kay Mario?"
           }
-        },
-        {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "mixed",
-            "sourceText": "____________________________________________________",
-            "id": "____________________________________________________"
-          }
         }
-      ]
+      ],
+      "id": "lesson-09-29-dialogue-comprehension-2"
     }
-  ]
+  ],
+  "structureVersion": 2,
+  "contentAudit": {
+    "sourceTextItemsBefore": 742,
+    "sourceTextItemsAfter": 712,
+    "uniqueSourceItemsPreserved": 563,
+    "duplicateHeadingsRemoved": 4,
+    "blankFragmentsRemoved": 26,
+    "sectionTypes": {
+      "DIALOGUE": 1,
+      "EXAMPLES": 6,
+      "EXERCISES": 9,
+      "INTRODUCTION": 1,
+      "LEARNING_MATERIAL": 11,
+      "VOCABULARY": 1
+    },
+    "blockTypes": {
+      "dialogue": 5,
+      "example": 17,
+      "exercise": 53,
+      "image": 11,
+      "list": 2,
+      "table": 15,
+      "text": 47,
+      "vocabulary": 6
+    }
+  }
 }

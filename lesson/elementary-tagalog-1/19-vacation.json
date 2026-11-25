@@ -17,22 +17,22 @@
     {
       "sourceLanguage": "en",
       "sourceText": "• Talk about a previous vacation",
-      "id": "Bicara tentang liburan sebelumnya"
+      "id": "• Menceritakan liburan yang telah berlalu"
     },
     {
       "sourceLanguage": "mixed",
       "sourceText": "• Describe places",
-      "id": "Deskripsikan tempat"
+      "id": "• Mendeskripsikan tempat"
     },
     {
       "sourceLanguage": "mixed",
       "sourceText": "• Reserve a plane ticket",
-      "id": "Reserve tiket pesawat"
+      "id": "• Memesan tiket pesawat"
     },
     {
       "sourceLanguage": "en",
       "sourceText": "• Give and ask for directions",
-      "id": "Berikan dan meminta arah"
+      "id": "• Memberi dan menanyakan arah"
     }
   ],
   "source": {
@@ -46,229 +46,159 @@
   ],
   "sections": [
     {
-      "id": "lesson-19-overview",
-      "type": "OVERVIEW",
+      "type": "INTRODUCTION",
       "title": {
-        "sourceLanguage": "mixed",
-        "sourceText": "Overview",
-        "id": "Gambaran Umum"
+        "sourceLanguage": "en",
+        "sourceText": "An Overview of Lesson 19",
+        "id": "Pengantar Pelajaran 19"
       },
       "blocks": [
         {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "en",
-            "sourceText": "An Overview of Lesson 19",
-            "id": "Gambaran Umum Pelajaran 19"
-          }
+          "type": "list",
+          "style": "objectives",
+          "items": [
+            {
+              "sourceLanguage": "en",
+              "sourceText": "• Talk about a previous vacation",
+              "id": "• Menceritakan liburan yang telah berlalu"
+            },
+            {
+              "sourceLanguage": "mixed",
+              "sourceText": "• Describe places",
+              "id": "• Mendeskripsikan tempat"
+            },
+            {
+              "sourceLanguage": "mixed",
+              "sourceText": "• Reserve a plane ticket",
+              "id": "• Memesan tiket pesawat"
+            },
+            {
+              "sourceLanguage": "en",
+              "sourceText": "• Give and ask for directions",
+              "id": "• Memberi dan menanyakan arah"
+            }
+          ]
         },
         {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "mixed",
-            "sourceText": "Objectives",
-            "id": "Objeksi"
-          }
-        },
-        {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "en",
-            "sourceText": "• Talk about a previous vacation",
-            "id": "Bicara tentang liburan sebelumnya"
-          }
-        },
-        {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "mixed",
-            "sourceText": "• Describe places",
-            "id": "Deskripsikan tempat"
-          }
-        },
-        {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "mixed",
-            "sourceText": "• Reserve a plane ticket",
-            "id": "Reserve tiket pesawat"
-          }
-        },
-        {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "en",
-            "sourceText": "• Give and ask for directions",
-            "id": "Berikan dan meminta arah"
-          }
-        },
-        {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "mixed",
-            "sourceText": "Vocabulary",
-            "id": "Kosakata"
-          }
-        },
-        {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "mixed",
-            "sourceText": "• Travel-Related Nouns",
-            "id": "Traveler-Related Nouns"
-          }
-        },
-        {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "mixed",
-            "sourceText": "• Verbs (Object- and Actor-Focus Verbs)",
-            "id": "Verbs (Object- dan Aktor- Verbs Fokus)"
-          }
-        },
-        {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "mixed",
-            "sourceText": "• Additional Object- and Actor-Focus Verbs",
-            "id": "Object- Tambahan Tambahan dan Aktor- Verbs Fokus"
-          }
-        },
-        {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "mixed",
-            "sourceText": "• Markers",
-            "id": "Markers:"
-          }
-        },
-        {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "mixed",
-            "sourceText": "• Adverbs",
-            "id": "Adverbs"
-          }
-        },
-        {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "mixed",
-            "sourceText": "• Adjectives",
-            "id": "Advances"
-          }
-        },
-        {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "mixed",
-            "sourceText": "• Prefixes",
-            "id": "Prefiks"
-          }
-        },
-        {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "mixed",
-            "sourceText": "• Idioms and Expressions",
-            "id": "Ekspresi dan Idiom"
-          }
-        },
-        {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "mixed",
-            "sourceText": "Dialogue: Ang Bakasyon ko sa Boracay My Vacation in Boracay",
-            "id": "Dialog:Ang Bakasyon ko sa Boracay My Vacation in Boracay"
-          }
-        },
-        {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "mixed",
-            "sourceText": "Reading Comprehension",
-            "id": "Pemahaman Bacaan"
-          }
-        },
-        {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "mixed",
-            "sourceText": "Activities",
-            "id": "Aktivitas"
-          }
-        },
-        {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "mixed",
-            "sourceText": "Activity 1: My Vacation",
-            "id": "Aktivitas 1: liburan saya"
-          }
-        },
-        {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "mixed",
-            "sourceText": "Activity 2: Interview",
-            "id": "Aktivitas 2: Wawancara"
-          }
-        },
-        {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "mixed",
-            "sourceText": "Activity 3: Story Completion",
-            "id": "Aktivitas 3: Penyelesaian Cerita"
-          }
-        },
-        {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "mixed",
-            "sourceText": "Grammar",
-            "id": "Tata Bahasa"
-          }
-        },
-        {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "en",
-            "sourceText": "Definition of Terms: -In- and I- Verbal Affixes, -In- Verbs, and I- Verbs",
-            "id": "Definisi Terms: -ln- dan I- Verbal Affix ,-In- Verbs, dan I - Verbs"
-          }
-        },
-        {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "mixed",
-            "sourceText": "Examining Form",
-            "id": "Mengkaji Bentuk"
-          }
+          "type": "list",
+          "style": "outline",
+          "items": [
+            {
+              "sourceLanguage": "mixed",
+              "sourceText": "Vocabulary",
+              "id": "Kosakata"
+            },
+            {
+              "sourceLanguage": "mixed",
+              "sourceText": "• Travel-Related Nouns",
+              "id": "Traveler-Related Nouns"
+            },
+            {
+              "sourceLanguage": "mixed",
+              "sourceText": "• Verbs (Object- and Actor-Focus Verbs)",
+              "id": "Verbs (Object- dan Aktor- Verbs Fokus)"
+            },
+            {
+              "sourceLanguage": "mixed",
+              "sourceText": "• Additional Object- and Actor-Focus Verbs",
+              "id": "Object- Tambahan Tambahan dan Aktor- Verbs Fokus"
+            },
+            {
+              "sourceLanguage": "mixed",
+              "sourceText": "• Markers",
+              "id": "Markers:"
+            },
+            {
+              "sourceLanguage": "mixed",
+              "sourceText": "• Adverbs",
+              "id": "Adverbs"
+            },
+            {
+              "sourceLanguage": "mixed",
+              "sourceText": "• Adjectives",
+              "id": "Advances"
+            },
+            {
+              "sourceLanguage": "mixed",
+              "sourceText": "• Prefixes",
+              "id": "Prefiks"
+            },
+            {
+              "sourceLanguage": "mixed",
+              "sourceText": "• Idioms and Expressions",
+              "id": "Ekspresi dan Idiom"
+            },
+            {
+              "sourceLanguage": "mixed",
+              "sourceText": "Dialogue: Ang Bakasyon ko sa Boracay My Vacation in Boracay",
+              "id": "Dialog:Ang Bakasyon ko sa Boracay My Vacation in Boracay"
+            },
+            {
+              "sourceLanguage": "mixed",
+              "sourceText": "Reading Comprehension",
+              "id": "Pemahaman Bacaan"
+            },
+            {
+              "sourceLanguage": "mixed",
+              "sourceText": "Activities",
+              "id": "Aktivitas"
+            },
+            {
+              "sourceLanguage": "mixed",
+              "sourceText": "Activity 1: My Vacation",
+              "id": "Aktivitas 1: liburan saya"
+            },
+            {
+              "sourceLanguage": "mixed",
+              "sourceText": "Activity 2: Interview",
+              "id": "Aktivitas 2: Wawancara"
+            },
+            {
+              "sourceLanguage": "mixed",
+              "sourceText": "Activity 3: Story Completion",
+              "id": "Aktivitas 3: Penyelesaian Cerita"
+            },
+            {
+              "sourceLanguage": "mixed",
+              "sourceText": "Grammar",
+              "id": "Tata Bahasa"
+            },
+            {
+              "sourceLanguage": "en",
+              "sourceText": "Definition of Terms: -In- and I- Verbal Affixes, -In- Verbs, and I- Verbs",
+              "id": "Definisi Terms: -ln- dan I- Verbal Affix ,-In- Verbs, dan I - Verbs"
+            },
+            {
+              "sourceLanguage": "mixed",
+              "sourceText": "Examining Form",
+              "id": "Mengkaji Bentuk"
+            },
+            {
+              "sourceLanguage": "mixed",
+              "sourceText": "Practice",
+              "id": "Latihan"
+            },
+            {
+              "sourceLanguage": "en",
+              "sourceText": "I. Speaking Practice",
+              "id": "I. Latihan Berbicara"
+            },
+            {
+              "sourceLanguage": "en",
+              "sourceText": "II. Writing and Speaking Practice",
+              "id": "Menulis dan Berbicara Praktek"
+            },
+            {
+              "sourceLanguage": "en",
+              "sourceText": "III. Writing and Reading Practice",
+              "id": "III, Menulis dan Membaca Latihan"
+            },
+            {
+              "sourceLanguage": "mixed",
+              "sourceText": "IV. Listening Practice",
+              "id": "IV. Latihan Menyimak"
+            }
+          ]
         },
         {
           "type": "table",
@@ -297,7 +227,8 @@
                 {
                   "sourceLanguage": "en",
                   "sourceText": "Completed Aspect (-In- and I- Verbs)",
-                  "id": "Aspek Selesai (-In- dan I- Verbs)"
+                  "id": "Aspek Selesai (-In- dan I- Verbs)",
+                  "tagalog": "-In- I-"
                 }
               ]
             },
@@ -319,57 +250,13 @@
                 }
               ]
             }
-          ]
-        },
-        {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "mixed",
-            "sourceText": "Practice",
-            "id": "Latihan"
-          }
-        },
-        {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "en",
-            "sourceText": "I. Speaking Practice",
-            "id": "I. Latihan Berbicara"
-          }
-        },
-        {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "en",
-            "sourceText": "II. Writing and Speaking Practice",
-            "id": "Menulis dan Berbicara Praktek"
-          }
-        },
-        {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "en",
-            "sourceText": "III. Writing and Reading Practice",
-            "id": "III, Menulis dan Membaca Latihan"
-          }
-        },
-        {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "mixed",
-            "sourceText": "IV. Listening Practice",
-            "id": "IV. Latihan Menyimak"
-          }
+          ],
+          "role": "outline"
         }
-      ]
+      ],
+      "id": "lesson-19-01-an-overview-of-lesson-19"
     },
     {
-      "id": "lesson-19-vocabulary",
       "type": "VOCABULARY",
       "title": {
         "sourceLanguage": "mixed",
@@ -379,7 +266,7 @@
       "blocks": [
         {
           "type": "text",
-          "style": "body",
+          "style": "heading",
           "text": {
             "sourceLanguage": "mixed",
             "sourceText": "Vocabulary (19–1)",
@@ -400,1012 +287,890 @@
           }
         },
         {
-          "type": "table",
-          "rows": [
+          "type": "vocabulary",
+          "entries": [
             {
-              "cells": [
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "Travel-Related Nouns",
-                  "id": "Traveler-Related Nouns"
-                }
-              ]
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "ale",
+                "id": "istilah alamat untuk seorang wanita, Miss atau Mrs",
+                "tagalog": "ale"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "term of address for a woman, Miss or Mrs.",
+                "id": "istilah alamat untuk seorang wanita, Miss atau Mrs"
+              }
             },
             {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "ale",
-                  "id": "istilah alamat untuk seorang wanita, Miss atau Mrs",
-                  "tagalog": "ale"
-                },
-                {
-                  "sourceLanguage": "en",
-                  "sourceText": "term of address for a woman, Miss or Mrs.",
-                  "id": "istilah alamat untuk seorang wanita, Miss atau Mrs"
-                }
-              ]
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "alis",
+                "id": "keberangkatan",
+                "tagalog": "alis"
+              },
+              "meaning": {
+                "sourceLanguage": "mixed",
+                "sourceText": "departure",
+                "id": "keberangkatan"
+              }
             },
             {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "alis",
-                  "id": "keberangkatan",
-                  "tagalog": "alis"
-                },
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "departure",
-                  "id": "keberangkatan"
-                }
-              ]
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "alon",
+                "id": "gelombang",
+                "tagalog": "alon"
+              },
+              "meaning": {
+                "sourceLanguage": "mixed",
+                "sourceText": "wave",
+                "id": "gelombang"
+              }
             },
             {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "alon",
-                  "id": "gelombang",
-                  "tagalog": "alon"
-                },
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "wave",
-                  "id": "gelombang"
-                }
-              ]
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "bahay-bakasyunan",
+                "id": "rumah liburan",
+                "tagalog": "bahay-bakasyunan"
+              },
+              "meaning": {
+                "sourceLanguage": "mixed",
+                "sourceText": "vacation house",
+                "id": "rumah liburan"
+              }
             },
             {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "bahay-bakasyunan",
-                  "id": "rumah liburan",
-                  "tagalog": "bahay-bakasyunan"
-                },
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "vacation house",
-                  "id": "rumah liburan"
-                }
-              ]
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "bangka",
+                "id": "perahu",
+                "tagalog": "bangka"
+              },
+              "meaning": {
+                "sourceLanguage": "mixed",
+                "sourceText": "boat",
+                "id": "perahu"
+              }
             },
             {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "bangka",
-                  "id": "perahu",
-                  "tagalog": "bangka"
-                },
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "boat",
-                  "id": "perahu"
-                }
-              ]
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "baon",
+                "id": "Makanan atau pasokan yang dibawa dalam perjalanan atau liburan",
+                "tagalog": "baon"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "provision or supply of food taken on a trip or vacation",
+                "id": "Makanan atau pasokan yang dibawa dalam perjalanan atau liburan"
+              }
             },
             {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "baon",
-                  "id": "Makanan atau pasokan yang dibawa dalam perjalanan atau liburan",
-                  "tagalog": "baon"
-                },
-                {
-                  "sourceLanguage": "en",
-                  "sourceText": "provision or supply of food taken on a trip or vacation",
-                  "id": "Makanan atau pasokan yang dibawa dalam perjalanan atau liburan"
-                }
-              ]
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "barya",
+                "id": "uang receh, koin, denominasi lebih rendah dari uang",
+                "tagalog": "barya"
+              },
+              "meaning": {
+                "sourceLanguage": "mixed",
+                "sourceText": "loose change, coins, lower denomination of money",
+                "id": "uang receh, koin, denominasi lebih rendah dari uang"
+              }
             },
             {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "barya",
-                  "id": "uang receh, koin, denominasi lebih rendah dari uang",
-                  "tagalog": "barya"
-                },
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "loose change, coins, lower denomination of money",
-                  "id": "uang receh, koin, denominasi lebih rendah dari uang"
-                }
-              ]
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "batuhan",
+                "id": "terumbu (untuk batu)",
+                "tagalog": "batuhan"
+              },
+              "meaning": {
+                "sourceLanguage": "mixed",
+                "sourceText": "reef (for rocks)",
+                "id": "terumbu (untuk batu)"
+              }
             },
             {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "batuhan",
-                  "id": "terumbu (untuk batu)",
-                  "tagalog": "batuhan"
-                },
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "reef (for rocks)",
-                  "id": "terumbu (untuk batu)"
-                }
-              ]
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "biyahe",
+                "id": "bolak-balik, perjalanan, perjalanan, tur",
+                "tagalog": "biyahe"
+              },
+              "meaning": {
+                "sourceLanguage": "mixed",
+                "sourceText": "commute, trip, journey, tour",
+                "id": "bolak-balik, perjalanan, perjalanan, tur"
+              }
             },
             {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "biyahe",
-                  "id": "bolak-balik, perjalanan, perjalanan, tur",
-                  "tagalog": "biyahe"
-                },
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "commute, trip, journey, tour",
-                  "id": "bolak-balik, perjalanan, perjalanan, tur"
-                }
-              ]
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "buhangin",
+                "id": "pasir",
+                "tagalog": "buhangin"
+              },
+              "meaning": {
+                "sourceLanguage": "mixed",
+                "sourceText": "sand",
+                "id": "pasir"
+              }
             },
             {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "buhangin",
-                  "id": "pasir",
-                  "tagalog": "buhangin"
-                },
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "sand",
-                  "id": "pasir"
-                }
-              ]
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "dagat",
+                "id": "Pantai",
+                "tagalog": "dagat"
+              },
+              "meaning": {
+                "sourceLanguage": "mixed",
+                "sourceText": "beach",
+                "id": "Pantai"
+              }
             },
             {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "dagat",
-                  "id": "Pantai",
-                  "tagalog": "dagat"
-                },
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "beach",
-                  "id": "Pantai"
-                }
-              ]
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "dating/balik",
+                "id": "kedatangan / kembali; pergi atau kembali",
+                "tagalog": "dating/balik"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "arrival/return; a going or coming back",
+                "id": "kedatangan / kembali; pergi atau kembali"
+              }
             },
             {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "dating/balik",
-                  "id": "kedatangan / kembali; pergi atau kembali",
-                  "tagalog": "dating/balik"
-                },
-                {
-                  "sourceLanguage": "en",
-                  "sourceText": "arrival/return; a going or coming back",
-                  "id": "kedatangan / kembali; pergi atau kembali"
-                }
-              ]
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "daybing",
+                "id": "menyelam",
+                "tagalog": "daybing"
+              },
+              "meaning": {
+                "sourceLanguage": "mixed",
+                "sourceText": "diving",
+                "id": "menyelam"
+              }
             },
             {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "daybing",
-                  "id": "menyelam",
-                  "tagalog": "daybing"
-                },
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "diving",
-                  "id": "menyelam"
-                }
-              ]
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "eroplano",
+                "id": "pesawat",
+                "tagalog": "eroplano"
+              },
+              "meaning": {
+                "sourceLanguage": "mixed",
+                "sourceText": "airplane",
+                "id": "pesawat"
+              }
             },
             {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "eroplano",
-                  "id": "pesawat",
-                  "tagalog": "eroplano"
-                },
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "airplane",
-                  "id": "pesawat"
-                }
-              ]
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "isla",
+                "id": "Pulau",
+                "tagalog": "isla"
+              },
+              "meaning": {
+                "sourceLanguage": "mixed",
+                "sourceText": "island",
+                "id": "Pulau"
+              }
             },
             {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "isla",
-                  "id": "Pulau",
-                  "tagalog": "isla"
-                },
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "island",
-                  "id": "Pulau"
-                }
-              ]
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "isnorkling",
+                "id": "snorkeling",
+                "tagalog": "isnorkling"
+              },
+              "meaning": {
+                "sourceLanguage": "mixed",
+                "sourceText": "snorkeling",
+                "id": "snorkeling"
+              }
             },
             {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "isnorkling",
-                  "id": "snorkeling",
-                  "tagalog": "isnorkling"
-                },
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "snorkeling",
-                  "id": "snorkeling"
-                }
-              ]
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "istasyon ng bus",
+                "id": "stasiun bus",
+                "tagalog": "istasyon ng bus"
+              },
+              "meaning": {
+                "sourceLanguage": "mixed",
+                "sourceText": "bus station",
+                "id": "stasiun bus"
+              }
             },
             {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "istasyon ng bus",
-                  "id": "stasiun bus",
-                  "tagalog": "istasyon ng bus"
-                },
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "bus station",
-                  "id": "stasiun bus"
-                }
-              ]
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "karanasan",
+                "id": "pengalaman",
+                "tagalog": "karanasan"
+              },
+              "meaning": {
+                "sourceLanguage": "mixed",
+                "sourceText": "experience",
+                "id": "pengalaman"
+              }
             },
             {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "karanasan",
-                  "id": "pengalaman",
-                  "tagalog": "karanasan"
-                },
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "experience",
-                  "id": "pengalaman"
-                }
-              ]
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "kas/kash",
+                "id": "cash",
+                "tagalog": "kas/kash"
+              },
+              "meaning": {
+                "sourceLanguage": "mixed",
+                "sourceText": "cash",
+                "id": "cash"
+              }
             },
             {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "kas/kash",
-                  "id": "cash",
-                  "tagalog": "kas/kash"
-                },
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "cash",
-                  "id": "cash"
-                }
-              ]
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "korales",
+                "id": "karang",
+                "tagalog": "korales"
+              },
+              "meaning": {
+                "sourceLanguage": "mixed",
+                "sourceText": "corals",
+                "id": "karang"
+              }
             },
             {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "korales",
-                  "id": "karang",
-                  "tagalog": "korales"
-                },
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "corals",
-                  "id": "karang"
-                }
-              ]
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "lipad",
+                "id": "penerbangan",
+                "tagalog": "lipad"
+              },
+              "meaning": {
+                "sourceLanguage": "mixed",
+                "sourceText": "flight",
+                "id": "penerbangan"
+              }
             },
             {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "lipad",
-                  "id": "penerbangan",
-                  "tagalog": "lipad"
-                },
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "flight",
-                  "id": "penerbangan"
-                }
-              ]
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "maleta",
+                "id": "bagasi",
+                "tagalog": "maleta"
+              },
+              "meaning": {
+                "sourceLanguage": "mixed",
+                "sourceText": "luggage",
+                "id": "bagasi"
+              }
             },
             {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "maleta",
-                  "id": "bagasi",
-                  "tagalog": "maleta"
-                },
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "luggage",
-                  "id": "bagasi"
-                }
-              ]
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "mama",
+                "id": "Tuan, sebuah istilah alamat untuk seorang pria",
+                "tagalog": "mama"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "mister, a term of address for a man",
+                "id": "Tuan, sebuah istilah alamat untuk seorang pria"
+              }
             },
             {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "mama",
-                  "id": "Tuan, sebuah istilah alamat untuk seorang pria",
-                  "tagalog": "mama"
-                },
-                {
-                  "sourceLanguage": "en",
-                  "sourceText": "mister, a term of address for a man",
-                  "id": "Tuan, sebuah istilah alamat untuk seorang pria"
-                }
-              ]
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "pasaporte",
+                "id": "paspor",
+                "tagalog": "pasaporte"
+              },
+              "meaning": {
+                "sourceLanguage": "mixed",
+                "sourceText": "passport",
+                "id": "paspor"
+              }
             },
             {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "pasaporte",
-                  "id": "paspor",
-                  "tagalog": "pasaporte"
-                },
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "passport",
-                  "id": "paspor"
-                }
-              ]
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "pasahero",
+                "id": "penumpang",
+                "tagalog": "pasahero"
+              },
+              "meaning": {
+                "sourceLanguage": "mixed",
+                "sourceText": "passenger",
+                "id": "penumpang"
+              }
             },
             {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "pasahero",
-                  "id": "penumpang",
-                  "tagalog": "pasahero"
-                },
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "passenger",
-                  "id": "penumpang"
-                }
-              ]
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "pasyalan",
+                "id": "tujuan wisata atau tempat untuk menghabiskan waktu luang",
+                "tagalog": "pasyalan"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "tourist destination or any place to spend leisure",
+                "id": "tujuan wisata atau tempat untuk menghabiskan waktu luang"
+              }
             },
             {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "pasyalan",
-                  "id": "tujuan wisata atau tempat untuk menghabiskan waktu luang",
-                  "tagalog": "pasyalan"
-                },
-                {
-                  "sourceLanguage": "en",
-                  "sourceText": "tourist destination or any place to spend leisure",
-                  "id": "tujuan wisata atau tempat untuk menghabiskan waktu luang"
-                }
-              ]
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "paliparan",
+                "id": "bandara",
+                "tagalog": "paliparan"
+              },
+              "meaning": {
+                "sourceLanguage": "mixed",
+                "sourceText": "airport",
+                "id": "bandara"
+              }
             },
             {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "paliparan",
-                  "id": "bandara",
-                  "tagalog": "paliparan"
-                },
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "airport",
-                  "id": "bandara"
-                }
-              ]
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "pamasahe",
+                "id": "tarif",
+                "tagalog": "pamasahe"
+              },
+              "meaning": {
+                "sourceLanguage": "mixed",
+                "sourceText": "fare",
+                "id": "tarif"
+              }
             },
             {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "pamasahe",
-                  "id": "tarif",
-                  "tagalog": "pamasahe"
-                },
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "fare",
-                  "id": "tarif"
-                }
-              ]
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "pampang",
+                "id": "shore",
+                "tagalog": "pampang"
+              },
+              "meaning": {
+                "sourceLanguage": "mixed",
+                "sourceText": "shore",
+                "id": "shore"
+              }
             },
             {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "pampang",
-                  "id": "shore",
-                  "tagalog": "pampang"
-                },
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "shore",
-                  "id": "shore"
-                }
-              ]
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "pasalubong",
+                "id": "hadiah dari perjalanan seseorang diberikan kepada kerabat dan teman-teman",
+                "tagalog": "pasalubong"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "a present from one’s travels given to relatives and friends",
+                "id": "hadiah dari perjalanan seseorang diberikan kepada kerabat dan teman-teman"
+              }
             },
             {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "pasalubong",
-                  "id": "hadiah dari perjalanan seseorang diberikan kepada kerabat dan teman-teman",
-                  "tagalog": "pasalubong"
-                },
-                {
-                  "sourceLanguage": "en",
-                  "sourceText": "a present from one’s travels given to relatives and friends",
-                  "id": "hadiah dari perjalanan seseorang diberikan kepada kerabat dan teman-teman"
-                }
-              ]
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "pera",
+                "id": "uang, uang tunai",
+                "tagalog": "pera"
+              },
+              "meaning": {
+                "sourceLanguage": "mixed",
+                "sourceText": "money, cash",
+                "id": "uang, uang tunai"
+              }
             },
             {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "pera",
-                  "id": "uang, uang tunai",
-                  "tagalog": "pera"
-                },
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "money, cash",
-                  "id": "uang, uang tunai"
-                }
-              ]
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "pitaka",
+                "id": "dompet",
+                "tagalog": "pitaka"
+              },
+              "meaning": {
+                "sourceLanguage": "mixed",
+                "sourceText": "wallet",
+                "id": "dompet"
+              }
             },
             {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "pitaka",
-                  "id": "dompet",
-                  "tagalog": "pitaka"
-                },
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "wallet",
-                  "id": "dompet"
-                }
-              ]
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "pulbos",
+                "id": "bubuk",
+                "tagalog": "pulbos"
+              },
+              "meaning": {
+                "sourceLanguage": "mixed",
+                "sourceText": "powder",
+                "id": "bubuk"
+              }
             },
             {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "pulbos",
-                  "id": "bubuk",
-                  "tagalog": "pulbos"
-                },
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "powder",
-                  "id": "bubuk"
-                }
-              ]
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "pupuntahan",
+                "id": "tujuan",
+                "tagalog": "pupuntahan"
+              },
+              "meaning": {
+                "sourceLanguage": "mixed",
+                "sourceText": "destination",
+                "id": "tujuan"
+              }
             },
             {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "pupuntahan",
-                  "id": "tujuan",
-                  "tagalog": "pupuntahan"
-                },
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "destination",
-                  "id": "tujuan"
-                }
-              ]
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "subenir",
+                "id": "souvenir",
+                "tagalog": "subenir"
+              },
+              "meaning": {
+                "sourceLanguage": "mixed",
+                "sourceText": "souvenir",
+                "id": "souvenir"
+              }
             },
             {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "subenir",
-                  "id": "souvenir",
-                  "tagalog": "subenir"
-                },
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "souvenir",
-                  "id": "souvenir"
-                }
-              ]
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "turista",
+                "id": "turis",
+                "tagalog": "turista"
+              },
+              "meaning": {
+                "sourceLanguage": "mixed",
+                "sourceText": "tourist",
+                "id": "turis"
+              }
             },
             {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "turista",
-                  "id": "turis",
-                  "tagalog": "turista"
-                },
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "tourist",
-                  "id": "turis"
-                }
-              ]
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "upuan",
+                "id": "duduk",
+                "tagalog": "upuan"
+              },
+              "meaning": {
+                "sourceLanguage": "mixed",
+                "sourceText": "seat",
+                "id": "duduk"
+              }
+            }
+          ],
+          "title": {
+            "sourceLanguage": "mixed",
+            "sourceText": "Travel-Related Nouns",
+            "id": "Traveler-Related Nouns"
+          }
+        },
+        {
+          "type": "vocabulary",
+          "entries": [
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "lumangoy",
+                "id": "berenang",
+                "tagalog": "lumangoy"
+              },
+              "meaning": {
+                "sourceLanguage": "mixed",
+                "sourceText": "to swim",
+                "id": "berenang"
+              }
             },
             {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "upuan",
-                  "id": "duduk",
-                  "tagalog": "upuan"
-                },
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "seat",
-                  "id": "duduk"
-                }
-              ]
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "maglakbay",
+                "id": "untuk melakukan perjalanan",
+                "tagalog": "maglakbay"
+              },
+              "meaning": {
+                "sourceLanguage": "mixed",
+                "sourceText": "to travel",
+                "id": "untuk melakukan perjalanan"
+              }
             },
             {
-              "cells": [
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "Additional Actor-Focus Verbs",
-                  "id": "Verb Fokus Aktor- Tambahan"
-                }
-              ]
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "magpapalit",
+                "id": "untuk mengubah uang",
+                "tagalog": "magpapalit"
+              },
+              "meaning": {
+                "sourceLanguage": "mixed",
+                "sourceText": "to change money",
+                "id": "untuk mengubah uang"
+              }
             },
             {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "lumangoy",
-                  "id": "berenang",
-                  "tagalog": "lumangoy"
-                },
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "to swim",
-                  "id": "berenang"
-                }
-              ]
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "pumayag",
+                "id": "untuk mengatakan ya",
+                "tagalog": "pumayag"
+              },
+              "meaning": {
+                "sourceLanguage": "mixed",
+                "sourceText": "to say yes",
+                "id": "untuk mengatakan ya"
+              }
             },
             {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "maglakbay",
-                  "id": "untuk melakukan perjalanan",
-                  "tagalog": "maglakbay"
-                },
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "to travel",
-                  "id": "untuk melakukan perjalanan"
-                }
-              ]
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "sumisid",
+                "id": "untuk menyelam",
+                "tagalog": "sumisid"
+              },
+              "meaning": {
+                "sourceLanguage": "mixed",
+                "sourceText": "to dive",
+                "id": "untuk menyelam"
+              }
             },
             {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "magpapalit",
-                  "id": "untuk mengubah uang",
-                  "tagalog": "magpapalit"
-                },
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "to change money",
-                  "id": "untuk mengubah uang"
-                }
-              ]
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "umakyat ng",
+                "id": "untuk memanjat",
+                "tagalog": "umakyat ng"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "to climb a",
+                "id": "untuk memanjat"
+              }
             },
             {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "pumayag",
-                  "id": "untuk mengatakan ya",
-                  "tagalog": "pumayag"
-                },
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "to say yes",
-                  "id": "untuk mengatakan ya"
-                }
-              ]
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "bundok",
+                "id": "gunung",
+                "tagalog": "bundok"
+              },
+              "meaning": {
+                "sourceLanguage": "mixed",
+                "sourceText": "mountain",
+                "id": "gunung"
+              }
+            }
+          ],
+          "title": {
+            "sourceLanguage": "mixed",
+            "sourceText": "Additional Actor-Focus Verbs",
+            "id": "Verb Fokus Aktor- Tambahan"
+          }
+        },
+        {
+          "type": "vocabulary",
+          "entries": [
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "’yung",
+                "id": "varian dari ang",
+                "tagalog": "’yung"
+              },
+              "meaning": {
+                "sourceLanguage": "fil",
+                "sourceText": "variant of ang",
+                "id": "varian",
+                "tagalog": "variant of ang"
+              }
+            }
+          ],
+          "title": {
+            "sourceLanguage": "mixed",
+            "sourceText": "Markers",
+            "id": "Penanda"
+          }
+        },
+        {
+          "type": "vocabulary",
+          "entries": [
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "kinabukasan",
+                "id": "hari berikutnya, hari berikutnya",
+                "tagalog": "kinabukasan"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "the following day, the next day",
+                "id": "hari berikutnya, hari berikutnya"
+              }
+            }
+          ],
+          "title": {
+            "sourceLanguage": "mixed",
+            "sourceText": "Adverbs",
+            "id": "Kata keterangan"
+          }
+        },
+        {
+          "type": "vocabulary",
+          "entries": [
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "paakyat",
+                "id": "dalam perjalanan ke atas, naik",
+                "tagalog": "paakyat"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "on the way up, going up",
+                "id": "dalam perjalanan ke atas, naik"
+              }
             },
             {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "sumisid",
-                  "id": "untuk menyelam",
-                  "tagalog": "sumisid"
-                },
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "to dive",
-                  "id": "untuk menyelam"
-                }
-              ]
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "pababa",
+                "id": "dalam perjalanan ke bawah, turun",
+                "tagalog": "pababa"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "on the way down, going down",
+                "id": "dalam perjalanan ke bawah, turun"
+              }
             },
             {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "umakyat ng",
-                  "id": "untuk memanjat",
-                  "tagalog": "umakyat ng"
-                },
-                {
-                  "sourceLanguage": "en",
-                  "sourceText": "to climb a",
-                  "id": "untuk memanjat"
-                }
-              ]
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "pabalik",
+                "id": "dalam perjalanan kembali, akan kembali",
+                "tagalog": "pabalik"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "on the way back, going back",
+                "id": "dalam perjalanan kembali, akan kembali"
+              }
             },
             {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "bundok",
-                  "id": "gunung",
-                  "tagalog": "bundok"
-                },
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "mountain",
-                  "id": "gunung"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "Markers",
-                  "id": "Penanda"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "’yung",
-                  "id": "varian dari ang",
-                  "tagalog": "’yung"
-                },
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "variant of ang",
-                  "id": "varian",
-                  "tagalog": "variant of ang"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "Adverbs",
-                  "id": "Adverbs"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "kinabukasan",
-                  "id": "hari berikutnya, hari berikutnya",
-                  "tagalog": "kinabukasan"
-                },
-                {
-                  "sourceLanguage": "en",
-                  "sourceText": "the following day, the next day",
-                  "id": "hari berikutnya, hari berikutnya"
-                }
-              ]
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "papunta",
+                "id": "ke arah, pergi ke",
+                "tagalog": "papunta"
+              },
+              "meaning": {
+                "sourceLanguage": "mixed",
+                "sourceText": "toward, going to",
+                "id": "ke arah, pergi ke"
+              }
             }
           ]
         },
         {
-          "type": "table",
-          "rows": [
+          "type": "vocabulary",
+          "entries": [
             {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "paakyat",
-                  "id": "dalam perjalanan ke atas, naik",
-                  "tagalog": "paakyat"
-                },
-                {
-                  "sourceLanguage": "en",
-                  "sourceText": "on the way up, going up",
-                  "id": "dalam perjalanan ke atas, naik"
-                }
-              ]
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "malinaw na malinaw",
+                "id": "sangat jelas",
+                "tagalog": "malinaw na malinaw"
+              },
+              "meaning": {
+                "sourceLanguage": "mixed",
+                "sourceText": "very clear",
+                "id": "sangat jelas"
+              }
             },
             {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "pababa",
-                  "id": "dalam perjalanan ke bawah, turun",
-                  "tagalog": "pababa"
-                },
-                {
-                  "sourceLanguage": "en",
-                  "sourceText": "on the way down, going down",
-                  "id": "dalam perjalanan ke bawah, turun"
-                }
-              ]
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "nakakaantok",
+                "id": "Membuat seseorang merasa mengantuk",
+                "tagalog": "nakakaantok"
+              },
+              "meaning": {
+                "sourceLanguage": "mixed",
+                "sourceText": "makes someone feel sleepy",
+                "id": "Membuat seseorang merasa mengantuk"
+              }
             },
             {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "pabalik",
-                  "id": "dalam perjalanan kembali, akan kembali",
-                  "tagalog": "pabalik"
-                },
-                {
-                  "sourceLanguage": "en",
-                  "sourceText": "on the way back, going back",
-                  "id": "dalam perjalanan kembali, akan kembali"
-                }
-              ]
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "nakakahilo",
+                "id": "memuakkan",
+                "tagalog": "nakakahilo"
+              },
+              "meaning": {
+                "sourceLanguage": "mixed",
+                "sourceText": "nauseating",
+                "id": "memuakkan"
+              }
             },
             {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "papunta",
-                  "id": "ke arah, pergi ke",
-                  "tagalog": "papunta"
-                },
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "toward, going to",
-                  "id": "ke arah, pergi ke"
-                }
-              ]
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "nakakalibang",
+                "id": "menghibur",
+                "tagalog": "nakakalibang"
+              },
+              "meaning": {
+                "sourceLanguage": "mixed",
+                "sourceText": "entertaining",
+                "id": "menghibur"
+              }
             },
             {
-              "cells": [
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "Adjectives",
-                  "id": "Kata sifat"
-                }
-              ]
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "nakakalula",
+                "id": "membuat seseorang merasa cemas (karena ketinggian)",
+                "tagalog": "nakakalula"
+              },
+              "meaning": {
+                "sourceLanguage": "mixed",
+                "sourceText": "makes someone feel anxious (due to heights)",
+                "id": "membuat seseorang merasa cemas (karena ketinggian)"
+              }
             },
             {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "malinaw na malinaw",
-                  "id": "sangat jelas",
-                  "tagalog": "malinaw na malinaw"
-                },
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "very clear",
-                  "id": "sangat jelas"
-                }
-              ]
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "nakakalungkot",
+                "id": "Membuat seseorang merasa sedih",
+                "tagalog": "nakakalungkot"
+              },
+              "meaning": {
+                "sourceLanguage": "mixed",
+                "sourceText": "makes someone feel sad",
+                "id": "Membuat seseorang merasa sedih"
+              }
             },
             {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "nakakaantok",
-                  "id": "Membuat seseorang merasa mengantuk",
-                  "tagalog": "nakakaantok"
-                },
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "makes someone feel sleepy",
-                  "id": "Membuat seseorang merasa mengantuk"
-                }
-              ]
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "nakakamangha",
+                "id": "luar biasa",
+                "tagalog": "nakakamangha"
+              },
+              "meaning": {
+                "sourceLanguage": "mixed",
+                "sourceText": "amazing",
+                "id": "luar biasa"
+              }
             },
             {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "nakakahilo",
-                  "id": "memuakkan",
-                  "tagalog": "nakakahilo"
-                },
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "nauseating",
-                  "id": "memuakkan"
-                }
-              ]
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "nakakapagod",
+                "id": "melelahkan",
+                "tagalog": "nakakapagod"
+              },
+              "meaning": {
+                "sourceLanguage": "mixed",
+                "sourceText": "tiring",
+                "id": "melelahkan"
+              }
             },
             {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "nakakalibang",
-                  "id": "menghibur",
-                  "tagalog": "nakakalibang"
-                },
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "entertaining",
-                  "id": "menghibur"
-                }
-              ]
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "nakakarelaks",
+                "id": "santai",
+                "tagalog": "nakakarelaks"
+              },
+              "meaning": {
+                "sourceLanguage": "mixed",
+                "sourceText": "relaxing",
+                "id": "santai"
+              }
             },
             {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "nakakalula",
-                  "id": "membuat seseorang merasa cemas (karena ketinggian)",
-                  "tagalog": "nakakalula"
-                },
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "makes someone feel anxious (due to heights)",
-                  "id": "membuat seseorang merasa cemas (karena ketinggian)"
-                }
-              ]
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "nakakatawa",
+                "id": "Membuat seseorang tertawa",
+                "tagalog": "nakakatawa"
+              },
+              "meaning": {
+                "sourceLanguage": "mixed",
+                "sourceText": "makes someone laugh",
+                "id": "Membuat seseorang tertawa"
+              }
             },
             {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "nakakalungkot",
-                  "id": "Membuat seseorang merasa sedih",
-                  "tagalog": "nakakalungkot"
-                },
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "makes someone feel sad",
-                  "id": "Membuat seseorang merasa sedih"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "nakakamangha",
-                  "id": "luar biasa",
-                  "tagalog": "nakakamangha"
-                },
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "amazing",
-                  "id": "luar biasa"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "nakakapagod",
-                  "id": "melelahkan",
-                  "tagalog": "nakakapagod"
-                },
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "tiring",
-                  "id": "melelahkan"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "nakakarelaks",
-                  "id": "santai",
-                  "tagalog": "nakakarelaks"
-                },
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "relaxing",
-                  "id": "santai"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "nakakatawa",
-                  "id": "Membuat seseorang tertawa",
-                  "tagalog": "nakakatawa"
-                },
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "makes someone laugh",
-                  "id": "Membuat seseorang tertawa"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "nakakatuwa",
-                  "id": "membuat seseorang merasa bahagia",
-                  "tagalog": "nakakatuwa"
-                },
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "makes someone feel happy",
-                  "id": "membuat seseorang merasa bahagia"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "Prefixes",
-                  "id": "Prefiks"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "nakaka-",
-                  "id": "adjectival affix bermakna membuat seseorang merasa sesuai dengan kata akar",
-                  "tagalog": "nakaka-"
-                },
-                {
-                  "sourceLanguage": "en",
-                  "sourceText": "adjectival affix meaning making someone feel according to the root word",
-                  "id": "adjectival affix bermakna membuat seseorang merasa sesuai dengan kata akar"
-                }
-              ]
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "nakakatuwa",
+                "id": "membuat seseorang merasa bahagia",
+                "tagalog": "nakakatuwa"
+              },
+              "meaning": {
+                "sourceLanguage": "mixed",
+                "sourceText": "makes someone feel happy",
+                "id": "membuat seseorang merasa bahagia"
+              }
             }
-          ]
+          ],
+          "title": {
+            "sourceLanguage": "mixed",
+            "sourceText": "Adjectives",
+            "id": "Kata sifat"
+          }
+        },
+        {
+          "type": "vocabulary",
+          "entries": [
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "nakaka-",
+                "id": "adjectival affix bermakna membuat seseorang merasa sesuai dengan kata akar",
+                "tagalog": "nakaka-"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "adjectival affix meaning making someone feel according to the root word",
+                "id": "adjectival affix bermakna membuat seseorang merasa sesuai dengan kata akar"
+              }
+            }
+          ],
+          "title": {
+            "sourceLanguage": "mixed",
+            "sourceText": "Prefixes",
+            "id": "Prefiks"
+          }
+        },
+        {
+          "type": "text",
+          "style": "heading",
+          "text": {
+            "sourceLanguage": "mixed",
+            "sourceText": "Verbs",
+            "id": "Verbs"
+          }
         },
         {
           "type": "table",
+          "role": "vocabulary-reference",
           "rows": [
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "Verbs",
-                  "id": "Verbs"
-                }
-              ]
-            },
             {
               "cells": [
                 {
@@ -1424,7 +1189,13 @@
                   "id": "Definisi"
                 }
               ]
-            },
+            }
+          ]
+        },
+        {
+          "type": "table",
+          "role": "vocabulary-reference",
+          "rows": [
             {
               "cells": [
                 {
@@ -1445,7 +1216,13 @@
                   "id": "untuk menawarkan sesuatu"
                 }
               ]
-            },
+            }
+          ]
+        },
+        {
+          "type": "table",
+          "role": "vocabulary-reference",
+          "rows": [
             {
               "cells": [
                 {
@@ -1466,7 +1243,13 @@
                   "id": "untuk memperbaiki, mengatur, memperbaiki"
                 }
               ]
-            },
+            }
+          ]
+        },
+        {
+          "type": "table",
+          "role": "vocabulary-reference",
+          "rows": [
             {
               "cells": [
                 {
@@ -1487,7 +1270,13 @@
                   "id": "untuk dibaca"
                 }
               ]
-            },
+            }
+          ]
+        },
+        {
+          "type": "table",
+          "role": "vocabulary-reference",
+          "rows": [
             {
               "cells": [
                 {
@@ -1508,7 +1297,13 @@
                   "id": "untuk membawa"
                 }
               ]
-            },
+            }
+          ]
+        },
+        {
+          "type": "table",
+          "role": "vocabulary-reference",
+          "rows": [
             {
               "cells": [
                 {
@@ -1529,7 +1324,13 @@
                   "id": "untuk mencari"
                 }
               ]
-            },
+            }
+          ]
+        },
+        {
+          "type": "table",
+          "role": "vocabulary-reference",
+          "rows": [
             {
               "cells": [
                 {
@@ -1550,7 +1351,13 @@
                   "id": "untuk menunggu"
                 }
               ]
-            },
+            }
+          ]
+        },
+        {
+          "type": "table",
+          "role": "vocabulary-reference",
+          "rows": [
             {
               "cells": [
                 {
@@ -1571,7 +1378,13 @@
                   "id": "untuk meminjam"
                 }
               ]
-            },
+            }
+          ]
+        },
+        {
+          "type": "table",
+          "role": "vocabulary-reference",
+          "rows": [
             {
               "cells": [
                 {
@@ -1592,7 +1405,13 @@
                   "id": "(Untuk membawa makanan atau makanan?) Atau untuk mencari makanan."
                 }
               ]
-            },
+            }
+          ]
+        },
+        {
+          "type": "table",
+          "role": "vocabulary-reference",
+          "rows": [
             {
               "cells": [
                 {
@@ -1613,7 +1432,13 @@
                   "id": "untuk diberikan"
                 }
               ]
-            },
+            }
+          ]
+        },
+        {
+          "type": "table",
+          "role": "vocabulary-reference",
+          "rows": [
             {
               "cells": [
                 {
@@ -1634,7 +1459,13 @@
                   "id": "untuk diceritakan (sebagai kisah) / untuk menceritakan sebuah cerita"
                 }
               ]
-            },
+            }
+          ]
+        },
+        {
+          "type": "table",
+          "role": "vocabulary-reference",
+          "rows": [
             {
               "cells": [
                 {
@@ -1655,7 +1486,13 @@
                   "id": "untuk menggambarkan"
                 }
               ]
-            },
+            }
+          ]
+        },
+        {
+          "type": "table",
+          "role": "vocabulary-reference",
+          "rows": [
             {
               "cells": [
                 {
@@ -1676,7 +1513,13 @@
                   "id": "untuk makan"
                 }
               ]
-            },
+            }
+          ]
+        },
+        {
+          "type": "table",
+          "role": "vocabulary-reference",
+          "rows": [
             {
               "cells": [
                 {
@@ -1697,7 +1540,13 @@
                   "id": "mencuri"
                 }
               ]
-            },
+            }
+          ]
+        },
+        {
+          "type": "table",
+          "role": "vocabulary-reference",
+          "rows": [
             {
               "cells": [
                 {
@@ -1718,7 +1567,13 @@
                   "id": "untuk mengatakan"
                 }
               ]
-            },
+            }
+          ]
+        },
+        {
+          "type": "table",
+          "role": "vocabulary-reference",
+          "rows": [
             {
               "cells": [
                 {
@@ -1739,7 +1594,13 @@
                   "id": "untuk menjemput seseorang, untuk mengambil"
                 }
               ]
-            },
+            }
+          ]
+        },
+        {
+          "type": "table",
+          "role": "vocabulary-reference",
+          "rows": [
             {
               "cells": [
                 {
@@ -1764,163 +1625,134 @@
           ]
         },
         {
-          "type": "table",
-          "rows": [
+          "type": "vocabulary",
+          "entries": [
             {
-              "cells": [
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "Idioms and Expression",
-                  "id": "Idiom dan Ekspresi"
-                }
-              ]
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "Ay nako!",
+                "id": "Oh, astaga!",
+                "tagalog": "Ay nako!"
+              },
+              "meaning": {
+                "sourceLanguage": "mixed",
+                "sourceText": "Oh, my gosh!",
+                "id": "Oh, astaga!"
+              }
             },
             {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "Ay nako!",
-                  "id": "Oh, astaga!",
-                  "tagalog": "Ay nako!"
-                },
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "Oh, my gosh!",
-                  "id": "Oh, astaga!"
-                }
-              ]
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "Buti na lang!",
+                "id": "Syukurlah!",
+                "tagalog": "Buti na lang!"
+              },
+              "meaning": {
+                "sourceLanguage": "mixed",
+                "sourceText": "Thank goodness!",
+                "id": "Syukurlah!"
+              }
             },
             {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "Buti na lang!",
-                  "id": "Syukurlah!",
-                  "tagalog": "Buti na lang!"
-                },
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "Thank goodness!",
-                  "id": "Syukurlah!"
-                }
-              ]
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "Hanggang dito na lang muna ako",
+                "id": "Sampai nanti",
+                "tagalog": "Hanggang dito na lang muna ako"
+              },
+              "meaning": {
+                "sourceLanguage": "mixed",
+                "sourceText": "Till then",
+                "id": "Sampai nanti"
+              }
             },
             {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "Hanggang dito na lang muna ako",
-                  "id": "Sampai nanti",
-                  "tagalog": "Hanggang dito na lang muna ako"
-                },
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "Till then",
-                  "id": "Sampai nanti"
-                }
-              ]
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "Hinding-hindi ko makakalimutan . . .",
+                "id": "Aku tidak akan pernah lupa..",
+                "tagalog": "Hinding-hindi ko makakalimutan . . ."
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "I will never forget . . .",
+                "id": "Aku tidak akan pernah lupa.."
+              }
             },
             {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "Hinding-hindi ko makakalimutan . . .",
-                  "id": "Aku tidak akan pernah lupa..",
-                  "tagalog": "Hinding-hindi ko makakalimutan . . ."
-                },
-                {
-                  "sourceLanguage": "en",
-                  "sourceText": "I will never forget . . .",
-                  "id": "Aku tidak akan pernah lupa.."
-                }
-              ]
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "Mahal kong . . .",
+                "id": "Sayang.. (ucapan hormat surat)",
+                "tagalog": "Mahal kong . . ."
+              },
+              "meaning": {
+                "sourceLanguage": "mixed",
+                "sourceText": "Dear. . . (letter salutation)",
+                "id": "Sayang.. (ucapan hormat surat)"
+              }
             },
             {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "Mahal kong . . .",
-                  "id": "Sayang.. (ucapan hormat surat)",
-                  "tagalog": "Mahal kong . . ."
-                },
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "Dear. . . (letter salutation)",
-                  "id": "Sayang.. (ucapan hormat surat)"
-                }
-              ]
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "Murang-mura ito.",
+                "id": "Ini adalah / benar-benar murah.",
+                "tagalog": "Murang-mura ito."
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "This is/was really cheap.",
+                "id": "Ini adalah / benar-benar murah."
+              }
             },
             {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "Murang-mura ito.",
-                  "id": "Ini adalah / benar-benar murah.",
-                  "tagalog": "Murang-mura ito."
-                },
-                {
-                  "sourceLanguage": "en",
-                  "sourceText": "This is/was really cheap.",
-                  "id": "Ini adalah / benar-benar murah."
-                }
-              ]
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "Pagkagising namin",
+                "id": "Ketika (Setelah) kami bangun",
+                "tagalog": "Pagkagising namin"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "When (After) we woke up",
+                "id": "Ketika (Setelah) kami bangun"
+              }
             },
             {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "Pagkagising namin",
-                  "id": "Ketika (Setelah) kami bangun",
-                  "tagalog": "Pagkagising namin"
-                },
-                {
-                  "sourceLanguage": "en",
-                  "sourceText": "When (After) we woke up",
-                  "id": "Ketika (Setelah) kami bangun"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "Sana ay mabuti ka naman.",
-                  "id": "Kuharap kau baik-baik saja.",
-                  "tagalog": "Sana ay mabuti ka naman."
-                },
-                {
-                  "sourceLanguage": "en",
-                  "sourceText": "I hope you are well.",
-                  "id": "Kuharap kau baik-baik saja."
-                }
-              ]
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "Sana ay mabuti ka naman.",
+                "id": "Kuharap kau baik-baik saja.",
+                "tagalog": "Sana ay mabuti ka naman."
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "I hope you are well.",
+                "id": "Kuharap kau baik-baik saja."
+              }
             }
-          ]
+          ],
+          "title": {
+            "sourceLanguage": "mixed",
+            "sourceText": "Idioms and Expression",
+            "id": "Idiom dan Ekspresi"
+          }
         },
         {
           "type": "image",
           "path": "assets/310.jpg"
         }
-      ]
+      ],
+      "id": "lesson-19-02-vocabulary"
     },
     {
-      "id": "lesson-19-reading-text-ang-bakasyon-ko-sa-boracay-my-vacation-in-boracay",
-      "type": "DIALOGUE",
+      "type": "LEARNING_MATERIAL",
       "title": {
         "sourceLanguage": "mixed",
         "sourceText": "Reading Text: Ang Bakasyon Ko sa Boracay My Vacation in Boracay",
         "id": "Teks Bacaan: Ang Bakasyon Ko sa Boracay My Vacation in Boracay"
       },
       "blocks": [
-        {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "mixed",
-            "sourceText": "Reading Text: Ang Bakasyon Ko sa Boracay My Vacation in Boracay",
-            "id": "Teks Bacaan: Ang Bakasyon Ko sa Boracay My Vacation in Boracay"
-          }
-        },
         {
           "type": "text",
           "style": "body",
@@ -1989,18 +1821,21 @@
             "id": "Mencintai Ones, Mario",
             "tagalog": "Nagmamahal,\n\nMario"
           }
-        },
+        }
+      ],
+      "id": "lesson-19-03-reading-text-ang-bakasyon-ko-sa-boracay-my-vacat"
+    },
+    {
+      "type": "EXERCISES",
+      "title": {
+        "sourceLanguage": "mixed",
+        "sourceText": "Reading Comprehension",
+        "id": "Pemahaman Bacaan"
+      },
+      "blocks": [
         {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "mixed",
-            "sourceText": "Reading Comprehension",
-            "id": "Pemahaman Bacaan"
-          }
-        },
-        {
-          "type": "table",
+          "type": "exercise",
+          "role": "worksheet",
           "rows": [
             {
               "cells": [
@@ -2124,38 +1959,20 @@
             }
           ]
         }
-      ]
+      ],
+      "id": "lesson-19-04-reading-comprehension"
     },
     {
-      "id": "lesson-19-activities",
-      "type": "ACTIVITY",
+      "type": "EXERCISES",
       "title": {
         "sourceLanguage": "mixed",
-        "sourceText": "Activities",
-        "id": "Aktivitas"
+        "sourceText": "Activity 1",
+        "id": "Aktivitas 1"
       },
       "blocks": [
         {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "mixed",
-            "sourceText": "Activities",
-            "id": "Aktivitas"
-          }
-        },
-        {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "mixed",
-            "sourceText": "Activity 1",
-            "id": "Aktivitas 1"
-          }
-        },
-        {
-          "type": "text",
-          "style": "body",
+          "type": "exercise",
+          "role": "question",
           "text": {
             "sourceLanguage": "en",
             "sourceText": "Think of your most unforgettable vacation, good or bad. Where and when did you go? Who did you go with? What did you do? Sketch one of your memories of this vacation on a separate sheet of paper and talk about your sketch with your partner.",
@@ -2163,8 +1980,8 @@
           }
         },
         {
-          "type": "text",
-          "style": "body",
+          "type": "exercise",
+          "role": "content",
           "text": {
             "sourceLanguage": "mixed",
             "sourceText": "EXAMPLES:",
@@ -2172,27 +1989,29 @@
           }
         },
         {
-          "type": "text",
-          "style": "body",
+          "type": "exercise",
+          "role": "content",
           "text": {
             "sourceLanguage": "fil",
             "sourceText": "Hinding-hindi ko makakalimutan ang bakasyon ko sa Hong Kong noong isang taon. Pumunta ako doon kasama ang nobya ko. Pumunta kami sa iba’t-ibang mga pasyalan at parke doon. Kumain kami sa iba’t ibang restawran. Bumili kami ng mga damit at pasalubong sa mga tindahan sa kalye. Ang pinakamasayang ginawa namin sa Hong Kong ay ang pamamasyal sa gabi. Pumunta kami sa ibaba ng otel namin at kumain kami ng mga “street food.” Talagang masayang karanasan ito.",
             "id": "aku tidak akan pernah melupakan liburanku di Hong Kong tahun lalu. aku pergi ke sana dengan pacarku kami pergi ke tempat yang berbeda dan taman disana kami makan di restoran yang berbeda kami membeli pakaian dan bertemu toko di jalanan. hal terbaik yang kami lakukan di Hong Kong adalah pergi keluar untuk malam itu. Kami pergi ke bawah hotel kami, dan kami makan item makanan, dan ini adalah pengalaman yang benar-benar bahagia.",
             "tagalog": "Hinding-hindi ko makakalimutan ang bakasyon ko sa Hong Kong noong isang taon. Pumunta ako doon kasama ang nobya ko. Pumunta kami sa iba’t-ibang mga pasyalan at parke doon. Kumain kami sa iba’t ibang restawran. Bumili kami ng mga damit at pasalubong sa mga tindahan sa kalye. Ang pinakamasayang ginawa namin sa Hong Kong ay ang pamamasyal sa gabi. Pumunta kami sa ibaba ng otel namin at kumain kami ng mga “street food.” Talagang masayang karanasan ito."
           }
-        },
+        }
+      ],
+      "id": "lesson-19-05-activity-1"
+    },
+    {
+      "type": "EXERCISES",
+      "title": {
+        "sourceLanguage": "mixed",
+        "sourceText": "Activity 2",
+        "id": "Aktivitas 2"
+      },
+      "blocks": [
         {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "mixed",
-            "sourceText": "Activity 2",
-            "id": "Aktivitas 2"
-          }
-        },
-        {
-          "type": "text",
-          "style": "body",
+          "type": "exercise",
+          "role": "question",
           "text": {
             "sourceLanguage": "en",
             "sourceText": "Interview two of your classmates. Ask them what their dream vacation is and why? Record their responses in the table below. Use the example to model your interviews and sentences.",
@@ -2200,8 +2019,8 @@
           }
         },
         {
-          "type": "text",
-          "style": "body",
+          "type": "exercise",
+          "role": "question",
           "text": {
             "sourceLanguage": "fil",
             "sourceText": "S1: Anong lugar ang gusto mong puntahan sa hinaharap?",
@@ -2210,8 +2029,8 @@
           }
         },
         {
-          "type": "text",
-          "style": "body",
+          "type": "exercise",
+          "role": "content",
           "text": {
             "sourceLanguage": "fil",
             "sourceText": "S2: Gusto kong puntahan ang Italya kasi gusto kong mag-aral magluto ng mga Italyan na pagkain.",
@@ -2220,7 +2039,8 @@
           }
         },
         {
-          "type": "table",
+          "type": "exercise",
+          "role": "worksheet",
           "rows": [
             {
               "cells": [
@@ -2283,19 +2103,21 @@
               ]
             }
           ]
-        },
+        }
+      ],
+      "id": "lesson-19-06-activity-2"
+    },
+    {
+      "type": "EXERCISES",
+      "title": {
+        "sourceLanguage": "mixed",
+        "sourceText": "Activity 3",
+        "id": "Aktivitas 3"
+      },
+      "blocks": [
         {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "mixed",
-            "sourceText": "Activity 3",
-            "id": "Aktivitas 3"
-          }
-        },
-        {
-          "type": "text",
-          "style": "body",
+          "type": "exercise",
+          "role": "question",
           "text": {
             "sourceLanguage": "en",
             "sourceText": "Revisit the Reading Text above and create your own ending to the story that was recounted there. What do you think happened to Mario after he found out that his wallet was missing? Continue the story.",
@@ -2303,98 +2125,26 @@
           }
         },
         {
-          "type": "text",
-          "style": "body",
+          "type": "exercise",
+          "role": "content",
           "text": {
             "sourceLanguage": "fil",
             "sourceText": "“Bibili sana kami dito ng mga pasalubong para sa mga kamag-anak at kaibigan namin sa Maynila, pero noong hinahanap ko na ang pitaka ko, hindi ko na ito makita. Ninakaw na pala ito.”",
             "id": "Saya akan membeli pengunjung di sini untuk kerabat dan teman-teman di Manila, tapi ketika saya sedang mencari dompet saya, saya tidak bisa melihatnya.",
             "tagalog": "“Bibili sana kami dito ng mga pasalubong para sa mga kamag-anak at kaibigan namin sa Maynila, pero noong hinahanap ko na ang pitaka ko, hindi ko na ito makita. Ninakaw na pala ito.”"
           }
-        },
-        {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "mixed",
-            "sourceText": "_______________________________________________________",
-            "id": "_______________________________________________________"
-          }
-        },
-        {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "mixed",
-            "sourceText": "_______________________________________________________",
-            "id": "_______________________________________________________"
-          }
-        },
-        {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "mixed",
-            "sourceText": "_______________________________________________________",
-            "id": "_______________________________________________________"
-          }
-        },
-        {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "mixed",
-            "sourceText": "_______________________________________________________",
-            "id": "_______________________________________________________"
-          }
-        },
-        {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "mixed",
-            "sourceText": "_______________________________________________________",
-            "id": "_______________________________________________________"
-          }
-        },
-        {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "mixed",
-            "sourceText": "_______________________________________________________",
-            "id": "_______________________________________________________"
-          }
         }
-      ]
+      ],
+      "id": "lesson-19-07-activity-3"
     },
     {
-      "id": "lesson-19-grammar",
-      "type": "GRAMMAR",
+      "type": "LEARNING_MATERIAL",
       "title": {
         "sourceLanguage": "mixed",
-        "sourceText": "Grammar",
-        "id": "Tata Bahasa"
+        "sourceText": "Definition of Terms",
+        "id": "Definisi Istilah"
       },
       "blocks": [
-        {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "mixed",
-            "sourceText": "Grammar",
-            "id": "Tata Bahasa"
-          }
-        },
-        {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "mixed",
-            "sourceText": "Definition of Terms",
-            "id": "Definisi Istilah"
-          }
-        },
         {
           "type": "table",
           "rows": [
@@ -2440,17 +2190,20 @@
                 }
               ]
             }
-          ]
-        },
-        {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "mixed",
-            "sourceText": "Examining Form",
-            "id": "Mengkaji Bentuk"
-          }
-        },
+          ],
+          "role": "reference"
+        }
+      ],
+      "id": "lesson-19-08-definition-of-terms"
+    },
+    {
+      "type": "LEARNING_MATERIAL",
+      "title": {
+        "sourceLanguage": "mixed",
+        "sourceText": "Examining Form",
+        "id": "Menganalisis Bentuk"
+      },
+      "blocks": [
         {
           "type": "text",
           "style": "body",
@@ -2493,7 +2246,8 @@
                 }
               ]
             }
-          ]
+          ],
+          "role": "reference"
         },
         {
           "type": "text",
@@ -2521,16 +2275,18 @@
             "sourceText": "3. Look at all the verbs in column B. How do we form the completed aspect of object focus verbs?",
             "id": "Lihat semua kata kerja di kolom B. Bagaimana kita membentuk aspek lengkap dari kata kerja fokus obyek?"
           }
-        },
-        {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "en",
-            "sourceText": "I. Verb Equivalence: Actor Focus and Object Focus",
-            "id": "I. Ekuivalen Verb: Fokus Aktor dan Objek Fokus"
-          }
-        },
+        }
+      ],
+      "id": "lesson-19-09-examining-form"
+    },
+    {
+      "type": "LEARNING_MATERIAL",
+      "title": {
+        "sourceLanguage": "en",
+        "sourceText": "I. Verb Equivalence: Actor Focus and Object Focus",
+        "id": "I. Ekuivalen Verb: Fokus Aktor dan Objek Fokus"
+      },
+      "blocks": [
         {
           "type": "text",
           "style": "body",
@@ -2600,7 +2356,8 @@
           "text": {
             "sourceLanguage": "en",
             "sourceText": "1. Mag- and I-",
-            "id": "1 Magen- dan aku-"
+            "id": "1 Magen- dan aku-",
+            "tagalog": "Mag- I-"
           }
         },
         {
@@ -2678,7 +2435,8 @@
                 }
               ]
             }
-          ]
+          ],
+          "role": "reference"
         },
         {
           "type": "text",
@@ -2704,7 +2462,8 @@
           "text": {
             "sourceLanguage": "en",
             "sourceText": "2. -Um- and -In/-Hin",
-            "id": "2. -Um- dan Dalam / -Hin"
+            "id": "2. -Um- dan Dalam / -Hin",
+            "tagalog": "-Um- -In -Hin"
           }
         },
         {
@@ -2783,7 +2542,8 @@
                 }
               ]
             }
-          ]
+          ],
+          "role": "reference"
         },
         {
           "type": "text",
@@ -2800,7 +2560,8 @@
           "text": {
             "sourceLanguage": "en",
             "sourceText": "3. -Um-, Mag-, and I-",
-            "id": "3. / Um, Mag-, dan aku..."
+            "id": "3. / Um, Mag-, dan aku...",
+            "tagalog": "-Um- Mag- I-"
           }
         },
         {
@@ -2900,7 +2661,8 @@
                 }
               ]
             }
-          ]
+          ],
+          "role": "reference"
         },
         {
           "type": "text",
@@ -2919,16 +2681,18 @@
             "sourceText": "Now that we have examined the correspondence of actor-focus verbs and object-focus verbs, let’s move on to the completed aspect of the object-focus -in- and i- verbs, the counterparts of -um- and mag-verbs, which belong to the actor-focus set of verbs.",
             "id": "Sekarang kita telah memeriksa korespondensi dari kata kerja fokus dan kata kerja fokus, mari kita lanjutkan ke aspek lengkap dari objek-fokus -in- dan i- verbs, rekan-rekan dari -um- dan mag- verbs, yang dimiliki oleh set fokus dari aktor- dari kata kerja."
           }
-        },
-        {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "en",
-            "sourceText": "II. Completed Aspect (-In/ I- Verbs)",
-            "id": "II. Aspek Selesai (Dalam / I Verbs)"
-          }
-        },
+        }
+      ],
+      "id": "lesson-19-10-i-verb-equivalence-actor-focus-and-object-focus"
+    },
+    {
+      "type": "LEARNING_MATERIAL",
+      "title": {
+        "sourceLanguage": "en",
+        "sourceText": "II. Completed Aspect (-In/ I- Verbs)",
+        "id": "II. Aspek Selesai (Dalam / I Verbs)"
+      },
+      "blocks": [
         {
           "type": "text",
           "style": "body",
@@ -3063,17 +2827,20 @@
                 }
               ]
             }
-          ]
-        },
-        {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "mixed",
-            "sourceText": "Grammar Presentation",
-            "id": "Penyajian Tata Bahasa"
-          }
-        },
+          ],
+          "role": "reference"
+        }
+      ],
+      "id": "lesson-19-11-ii-completed-aspect-in-i-verbs"
+    },
+    {
+      "type": "LEARNING_MATERIAL",
+      "title": {
+        "sourceLanguage": "mixed",
+        "sourceText": "Grammar Presentation",
+        "id": "Penyajian Tata Bahasa"
+      },
+      "blocks": [
         {
           "type": "text",
           "style": "body",
@@ -3377,67 +3144,86 @@
                 }
               ]
             }
+          ],
+          "role": "reference"
+        }
+      ],
+      "id": "lesson-19-12-grammar-presentation"
+    },
+    {
+      "type": "EXAMPLES",
+      "title": {
+        "sourceLanguage": "mixed",
+        "sourceText": "EXAMPLES:",
+        "id": "Contoh"
+      },
+      "blocks": [
+        {
+          "type": "example",
+          "items": [
+            {
+              "sourceLanguage": "fil",
+              "sourceText": "Hiniram ni Mike ang kotse ko noong isang buwan. Mike borrowed my car last month.",
+              "id": "Mike mengambil mobilku selama sebulan, Mike mengaum mobilku bulan lalu.",
+              "tagalog": "Hiniram ni Mike ang kotse ko noong isang buwan. Mike borrowed my car last month."
+            }
           ]
         },
         {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "mixed",
-            "sourceText": "EXAMPLES:",
-            "id": "EXAMPLES:"
-          }
+          "type": "example",
+          "items": [
+            {
+              "sourceLanguage": "fil",
+              "sourceText": "Noong isang linggo, ikinuwento niya ang bakasyon niya sa akin. Last week she told me about her vacation.",
+              "id": "Selama seminggu, dia mengatakan padaku tentang liburannya dengan dia, Drat lembar minggu meputut liburannya.",
+              "tagalog": "Noong isang linggo, ikinuwento niya ang bakasyon niya sa akin. Last week she told me about her vacation."
+            }
+          ]
         },
         {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "fil",
-            "sourceText": "Hiniram ni Mike ang kotse ko noong isang buwan. Mike borrowed my car last month.",
-            "id": "Mike mengambil mobilku selama sebulan, Mike mengaum mobilku bulan lalu.",
-            "tagalog": "Hiniram ni Mike ang kotse ko noong isang buwan. Mike borrowed my car last month."
-          }
+          "type": "example",
+          "items": [
+            {
+              "sourceLanguage": "fil",
+              "sourceText": "Ibinigay po niya ang tiket sa akin. She/He gave me the ticket, sir/madam.",
+              "id": "Dia memberiku tiket. / Dia memberiku tiket, par / Madam.",
+              "tagalog": "Ibinigay po niya ang tiket sa akin. She/He gave me the ticket, sir/madam."
+            }
+          ]
         },
         {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "fil",
-            "sourceText": "Noong isang linggo, ikinuwento niya ang bakasyon niya sa akin. Last week she told me about her vacation.",
-            "id": "Selama seminggu, dia mengatakan padaku tentang liburannya dengan dia, Drat lembar minggu meputut liburannya.",
-            "tagalog": "Noong isang linggo, ikinuwento niya ang bakasyon niya sa akin. Last week she told me about her vacation."
-          }
+          "type": "example",
+          "items": [
+            {
+              "sourceLanguage": "fil",
+              "sourceText": "Sinundo ako ni Miguel sa paliparan kahapon. Miguel picked me up at the airport yesterday.",
+              "id": "Miguel mengikutiku ke bandara kemarin, Miguel menjemputku dan airportery.",
+              "tagalog": "Sinundo ako ni Miguel sa paliparan kahapon. Miguel picked me up at the airport yesterday."
+            }
+          ]
         },
         {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "fil",
-            "sourceText": "Ibinigay po niya ang tiket sa akin. She/He gave me the ticket, sir/madam.",
-            "id": "Dia memberiku tiket. / Dia memberiku tiket, par / Madam.",
-            "tagalog": "Ibinigay po niya ang tiket sa akin. She/He gave me the ticket, sir/madam."
-          }
-        },
-        {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "fil",
-            "sourceText": "Sinundo ako ni Miguel sa paliparan kahapon. Miguel picked me up at the airport yesterday.",
-            "id": "Miguel mengikutiku ke bandara kemarin, Miguel menjemputku dan airportery.",
-            "tagalog": "Sinundo ako ni Miguel sa paliparan kahapon. Miguel picked me up at the airport yesterday."
-          }
-        },
-        {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "fil",
-            "sourceText": "Ibinigay mo ba kay Maria ang mapa? Did you give the map to Maria?",
-            "id": "Apakah Anda memberi Mary peta?",
-            "tagalog": "Ibinigay mo ba kay Maria ang mapa? Did you give the map to Maria?"
-          }
-        },
+          "type": "example",
+          "items": [
+            {
+              "sourceLanguage": "fil",
+              "sourceText": "Ibinigay mo ba kay Maria ang mapa? Did you give the map to Maria?",
+              "id": "Apakah Anda memberi Mary peta?",
+              "tagalog": "Ibinigay mo ba kay Maria ang mapa? Did you give the map to Maria?"
+            }
+          ]
+        }
+      ],
+      "id": "lesson-19-13-examples"
+    },
+    {
+      "type": "LEARNING_MATERIAL",
+      "title": {
+        "sourceLanguage": "mixed",
+        "sourceText": "Grammar Presentation",
+        "id": "Penyajian Tata Bahasa"
+      },
+      "blocks": [
         {
           "type": "text",
           "style": "body",
@@ -3466,16 +3252,18 @@
             "id": "Mereka mengejarku.",
             "tagalog": "Sinundo nila ako. They fetched me."
           }
-        },
-        {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "mixed",
-            "sourceText": "Grammar Notes",
-            "id": "Catatan Tata Bahasa"
-          }
-        },
+        }
+      ],
+      "id": "lesson-19-14-grammar-presentation-2"
+    },
+    {
+      "type": "LEARNING_MATERIAL",
+      "title": {
+        "sourceLanguage": "mixed",
+        "sourceText": "Grammar Notes",
+        "id": "Catatan Tata Bahasa"
+      },
+      "blocks": [
         {
           "type": "table",
           "rows": [
@@ -3507,40 +3295,23 @@
                 }
               ]
             }
-          ]
+          ],
+          "role": "reference"
         }
-      ]
+      ],
+      "id": "lesson-19-15-grammar-notes"
     },
     {
-      "id": "lesson-19-practice",
-      "type": "PRACTICE",
+      "type": "EXERCISES",
       "title": {
-        "sourceLanguage": "mixed",
-        "sourceText": "Practice",
-        "id": "Latihan"
+        "sourceLanguage": "en",
+        "sourceText": "I. Speaking Practice",
+        "id": "I. Latihan Berbicara"
       },
       "blocks": [
         {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "mixed",
-            "sourceText": "Practice",
-            "id": "Latihan"
-          }
-        },
-        {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "en",
-            "sourceText": "I. Speaking Practice",
-            "id": "I. Latihan Berbicara"
-          }
-        },
-        {
-          "type": "text",
-          "style": "body",
+          "type": "exercise",
+          "role": "instruction",
           "text": {
             "sourceLanguage": "en",
             "sourceText": "Translate the following questions into Tagalog and write two of your own questions about vacations. Afterwards, use these questions to interview a classmate. Try to apply what you’ve learned in the grammar lesson.",
@@ -3548,7 +3319,8 @@
           }
         },
         {
-          "type": "table",
+          "type": "exercise",
+          "role": "worksheet",
           "rows": [
             {
               "cells": [
@@ -3610,8 +3382,8 @@
           ]
         },
         {
-          "type": "text",
-          "style": "body",
+          "type": "exercise",
+          "role": "instruction",
           "text": {
             "sourceLanguage": "en",
             "sourceText": "Describe the most interesting person you met on one of your travels.",
@@ -3619,26 +3391,8 @@
           }
         },
         {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "mixed",
-            "sourceText": "_______________________________________________________",
-            "id": "_______________________________________________________"
-          }
-        },
-        {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "mixed",
-            "sourceText": "_______________________________________________________",
-            "id": "_______________________________________________________"
-          }
-        },
-        {
-          "type": "text",
-          "style": "body",
+          "type": "exercise",
+          "role": "content",
           "text": {
             "sourceLanguage": "mixed",
             "sourceText": "My Vacation Questions:",
@@ -3646,8 +3400,8 @@
           }
         },
         {
-          "type": "text",
-          "style": "body",
+          "type": "exercise",
+          "role": "question",
           "text": {
             "sourceLanguage": "mixed",
             "sourceText": "1. ____________________________________________________",
@@ -3655,26 +3409,28 @@
           }
         },
         {
-          "type": "text",
-          "style": "body",
+          "type": "exercise",
+          "role": "question",
           "text": {
             "sourceLanguage": "mixed",
             "sourceText": "2. ____________________________________________________",
             "id": "2. ____________________________________________________"
           }
-        },
+        }
+      ],
+      "id": "lesson-19-16-i-speaking-practice"
+    },
+    {
+      "type": "EXERCISES",
+      "title": {
+        "sourceLanguage": "mixed",
+        "sourceText": "II. Reading Practice",
+        "id": "II. Latihan Membaca"
+      },
+      "blocks": [
         {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "mixed",
-            "sourceText": "II. Reading Practice",
-            "id": "II. Latihan Membaca"
-          }
-        },
-        {
-          "type": "text",
-          "style": "body",
+          "type": "exercise",
+          "role": "instruction",
           "text": {
             "sourceLanguage": "en",
             "sourceText": "Read the conversation below between two people talking over the phone and answer the Reading Comprehension questions.",
@@ -3682,8 +3438,8 @@
           }
         },
         {
-          "type": "text",
-          "style": "body",
+          "type": "exercise",
+          "role": "content",
           "text": {
             "sourceLanguage": "fil",
             "sourceText": "A. Pagbili ng tiket sa eroplano",
@@ -3692,8 +3448,8 @@
           }
         },
         {
-          "type": "text",
-          "style": "body",
+          "type": "exercise",
+          "role": "content",
           "text": {
             "sourceLanguage": "fil",
             "sourceText": "A: Hello.",
@@ -3702,8 +3458,8 @@
           }
         },
         {
-          "type": "text",
-          "style": "body",
+          "type": "exercise",
+          "role": "question",
           "text": {
             "sourceLanguage": "fil",
             "sourceText": "B: Hello. Ano po iyon?",
@@ -3712,8 +3468,8 @@
           }
         },
         {
-          "type": "text",
-          "style": "body",
+          "type": "exercise",
+          "role": "content",
           "text": {
             "sourceLanguage": "fil",
             "sourceText": "A: Kailangan ko po ng dalawang tiket papunta sa Boracay.",
@@ -3722,8 +3478,8 @@
           }
         },
         {
-          "type": "text",
-          "style": "body",
+          "type": "exercise",
+          "role": "question",
           "text": {
             "sourceLanguage": "fil",
             "sourceText": "B: O sige po. Kailan po ang lipad ninyo?",
@@ -3732,8 +3488,8 @@
           }
         },
         {
-          "type": "text",
-          "style": "body",
+          "type": "exercise",
+          "role": "content",
           "text": {
             "sourceLanguage": "fil",
             "sourceText": "A: Sa isang linggo. Sa Biyernes.",
@@ -3742,8 +3498,8 @@
           }
         },
         {
-          "type": "text",
-          "style": "body",
+          "type": "exercise",
+          "role": "question",
           "text": {
             "sourceLanguage": "fil",
             "sourceText": "B: Kailan po ang balik ninyo?",
@@ -3752,8 +3508,8 @@
           }
         },
         {
-          "type": "text",
-          "style": "body",
+          "type": "exercise",
+          "role": "content",
           "text": {
             "sourceLanguage": "fil",
             "sourceText": "A: Sa Lunes. Apat na araw lang kami doon.",
@@ -3762,8 +3518,8 @@
           }
         },
         {
-          "type": "text",
-          "style": "body",
+          "type": "exercise",
+          "role": "content",
           "text": {
             "sourceLanguage": "fil",
             "sourceText": "B: O sige po. Itsetsek ko po kung may upuan pa ho.",
@@ -3772,8 +3528,8 @@
           }
         },
         {
-          "type": "text",
-          "style": "body",
+          "type": "exercise",
+          "role": "question",
           "text": {
             "sourceLanguage": "fil",
             "sourceText": "A: Sige. Pwede bang pakihanap mo ako ng upuan malapit sa exit row?",
@@ -3782,8 +3538,8 @@
           }
         },
         {
-          "type": "text",
-          "style": "body",
+          "type": "exercise",
+          "role": "content",
           "text": {
             "sourceLanguage": "fil",
             "sourceText": "B: Sige po.",
@@ -3792,8 +3548,8 @@
           }
         },
         {
-          "type": "text",
-          "style": "body",
+          "type": "exercise",
+          "role": "content",
           "text": {
             "sourceLanguage": "fil",
             "sourceText": "A: At saka isulat mo naman diyan na kailangan ko ng vegetarian na pagkain.",
@@ -3802,8 +3558,8 @@
           }
         },
         {
-          "type": "text",
-          "style": "body",
+          "type": "exercise",
+          "role": "content",
           "text": {
             "sourceLanguage": "fil",
             "sourceText": "B: Wala pong problema. Confirmed na po ang lipad ninyo sa Biyernes at ang balik po ay sa Lunes.",
@@ -3812,8 +3568,8 @@
           }
         },
         {
-          "type": "text",
-          "style": "body",
+          "type": "exercise",
+          "role": "question",
           "text": {
             "sourceLanguage": "fil",
             "sourceText": "A: Magkano ang lahat-lahat?",
@@ -3822,8 +3578,8 @@
           }
         },
         {
-          "type": "text",
-          "style": "body",
+          "type": "exercise",
+          "role": "content",
           "text": {
             "sourceLanguage": "fil",
             "sourceText": "B: Kasama po ang tax. Anim na libo limang daan po.",
@@ -3832,8 +3588,8 @@
           }
         },
         {
-          "type": "text",
-          "style": "body",
+          "type": "exercise",
+          "role": "content",
           "text": {
             "sourceLanguage": "fil",
             "sourceText": "A: Salamat pero pakitsek mo naman kung mas mura kung sa Martes ang balik.",
@@ -3842,8 +3598,8 @@
           }
         },
         {
-          "type": "text",
-          "style": "body",
+          "type": "exercise",
+          "role": "content",
           "text": {
             "sourceLanguage": "fil",
             "sourceText": "B: O sige po.",
@@ -3852,8 +3608,8 @@
           }
         },
         {
-          "type": "text",
-          "style": "body",
+          "type": "exercise",
+          "role": "content",
           "text": {
             "sourceLanguage": "fil",
             "sourceText": "A: Salamat ah.",
@@ -3862,8 +3618,8 @@
           }
         },
         {
-          "type": "text",
-          "style": "body",
+          "type": "exercise",
+          "role": "content",
           "text": {
             "sourceLanguage": "fil",
             "sourceText": "B: Pareho lang po ang presyo.",
@@ -3872,27 +3628,29 @@
           }
         },
         {
-          "type": "text",
-          "style": "body",
+          "type": "exercise",
+          "role": "question",
           "text": {
             "sourceLanguage": "fil",
             "sourceText": "A: Ah ganun ba? Sige, bibilhin ko na.",
             "id": "A: Yah, aku akan membelinya.",
             "tagalog": "A: Ah ganun ba? Sige, bibilhin ko na."
           }
-        },
+        }
+      ],
+      "id": "lesson-19-17-ii-reading-practice"
+    },
+    {
+      "type": "EXERCISES",
+      "title": {
+        "sourceLanguage": "mixed",
+        "sourceText": "Reading Comprehension",
+        "id": "Pemahaman Bacaan"
+      },
+      "blocks": [
         {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "mixed",
-            "sourceText": "Reading Comprehension",
-            "id": "Pemahaman Bacaan"
-          }
-        },
-        {
-          "type": "text",
-          "style": "body",
+          "type": "exercise",
+          "role": "question",
           "text": {
             "sourceLanguage": "fil",
             "sourceText": "1. Saan pupunta ang pasahero?",
@@ -3901,17 +3659,8 @@
           }
         },
         {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "mixed",
-            "sourceText": "____________________________________________________",
-            "id": "____________________________________________________"
-          }
-        },
-        {
-          "type": "text",
-          "style": "body",
+          "type": "exercise",
+          "role": "question",
           "text": {
             "sourceLanguage": "fil",
             "sourceText": "2. Ilang araw sa destinasyon ang pasahero?",
@@ -3920,17 +3669,8 @@
           }
         },
         {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "mixed",
-            "sourceText": "____________________________________________________",
-            "id": "____________________________________________________"
-          }
-        },
-        {
-          "type": "text",
-          "style": "body",
+          "type": "exercise",
+          "role": "question",
           "text": {
             "sourceLanguage": "fil",
             "sourceText": "3. Magkano ang tiket?",
@@ -3939,17 +3679,8 @@
           }
         },
         {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "mixed",
-            "sourceText": "____________________________________________________",
-            "id": "____________________________________________________"
-          }
-        },
-        {
-          "type": "text",
-          "style": "body",
+          "type": "exercise",
+          "role": "question",
           "text": {
             "sourceLanguage": "fil",
             "sourceText": "4. Ilan ang tiket na binibili?",
@@ -3958,17 +3689,8 @@
           }
         },
         {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "mixed",
-            "sourceText": "____________________________________________________",
-            "id": "____________________________________________________"
-          }
-        },
-        {
-          "type": "text",
-          "style": "body",
+          "type": "exercise",
+          "role": "question",
           "text": {
             "sourceLanguage": "fil",
             "sourceText": "5. Anu-ano ang mga gusto ng pasahero?",
@@ -3977,35 +3699,8 @@
           }
         },
         {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "mixed",
-            "sourceText": "____________________________________________________",
-            "id": "____________________________________________________"
-          }
-        },
-        {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "mixed",
-            "sourceText": "____________________________________________________",
-            "id": "____________________________________________________"
-          }
-        },
-        {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "mixed",
-            "sourceText": "____________________________________________________",
-            "id": "____________________________________________________"
-          }
-        },
-        {
-          "type": "text",
-          "style": "body",
+          "type": "exercise",
+          "role": "content",
           "text": {
             "sourceLanguage": "fil",
             "sourceText": "B. Simulation",
@@ -4014,8 +3709,8 @@
           }
         },
         {
-          "type": "text",
-          "style": "body",
+          "type": "exercise",
+          "role": "content",
           "text": {
             "sourceLanguage": "en",
             "sourceText": "Now work with a partner and act out one of the following scenarios.",
@@ -4023,8 +3718,8 @@
           }
         },
         {
-          "type": "text",
-          "style": "body",
+          "type": "exercise",
+          "role": "question",
           "text": {
             "sourceLanguage": "fil",
             "sourceText": "1. Nagbabakasyon ka sa Maynila. Ang problema, nawala mo ang mapa mo at hindi mo alam kung paano bumalik sa iyong hotel. Humingi ng tulong at alamin ang daan pabalik sa hotel mo.",
@@ -4033,27 +3728,29 @@
           }
         },
         {
-          "type": "text",
-          "style": "body",
+          "type": "exercise",
+          "role": "question",
           "text": {
             "sourceLanguage": "fil",
             "sourceText": "2. Nagreserba ka ng hotel sa Internet. Ang problema, noong dumating ka sa kuwarto mo, napansin mo na smoking ang kuwarto na ibinigay sa iyo. Kausapin mo ang receptionist at sabihin na kailangan mong lumipat ng kuwarto. Ipaliwanag ang iyong sitwasyon.",
             "id": "Anda memesan hotel di Internet, dan ketika Anda tiba di kamar Anda, Anda melihat bahwa Anda harus berbicara dengan resepsionis dan menunjukkan bahwa Anda perlu pindah ke sebuah ruangan.",
             "tagalog": "2. Nagreserba ka ng hotel sa Internet. Ang problema, noong dumating ka sa kuwarto mo, napansin mo na smoking ang kuwarto na ibinigay sa iyo. Kausapin mo ang receptionist at sabihin na kailangan mong lumipat ng kuwarto. Ipaliwanag ang iyong sitwasyon."
           }
-        },
+        }
+      ],
+      "id": "lesson-19-18-reading-comprehension-2"
+    },
+    {
+      "type": "EXERCISES",
+      "title": {
+        "sourceLanguage": "mixed",
+        "sourceText": "III. Writing Practice",
+        "id": "III. Latihan Menulis"
+      },
+      "blocks": [
         {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "mixed",
-            "sourceText": "III. Writing Practice",
-            "id": "III. Latihan Menulis"
-          }
-        },
-        {
-          "type": "text",
-          "style": "body",
+          "type": "exercise",
+          "role": "instruction",
           "text": {
             "sourceLanguage": "en",
             "sourceText": "Write a letter in Tagalog to a friend telling him or her about your most recent vacation. Use a separate piece of paper for your letter.",
@@ -4061,8 +3758,8 @@
           }
         },
         {
-          "type": "text",
-          "style": "body",
+          "type": "exercise",
+          "role": "content",
           "text": {
             "sourceLanguage": "en",
             "sourceText": "To Download the audio files, please click here.",
@@ -4072,19 +3769,21 @@
         {
           "type": "image",
           "path": "assets/cd.jpg"
-        },
+        }
+      ],
+      "id": "lesson-19-19-iii-writing-practice"
+    },
+    {
+      "type": "EXERCISES",
+      "title": {
+        "sourceLanguage": "mixed",
+        "sourceText": "IV. Listening Practice",
+        "id": "IV. Latihan Menyimak"
+      },
+      "blocks": [
         {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "mixed",
-            "sourceText": "IV. Listening Practice",
-            "id": "IV. Latihan Menyimak"
-          }
-        },
-        {
-          "type": "text",
-          "style": "body",
+          "type": "exercise",
+          "role": "instruction",
           "text": {
             "sourceLanguage": "en",
             "sourceText": "Using the Bonus Material of the book, listen to audio file (19–2) and complete the box below.",
@@ -4092,7 +3791,8 @@
           }
         },
         {
-          "type": "table",
+          "type": "exercise",
+          "role": "worksheet",
           "rows": [
             {
               "cells": [
@@ -4152,7 +3852,32 @@
             }
           ]
         }
-      ]
+      ],
+      "id": "lesson-19-20-iv-listening-practice"
     }
-  ]
+  ],
+  "structureVersion": 2,
+  "contentAudit": {
+    "sourceTextItemsBefore": 512,
+    "sourceTextItemsAfter": 489,
+    "uniqueSourceItemsPreserved": 433,
+    "duplicateHeadingsRemoved": 4,
+    "blankFragmentsRemoved": 15,
+    "sectionTypes": {
+      "EXAMPLES": 1,
+      "EXERCISES": 9,
+      "INTRODUCTION": 1,
+      "LEARNING_MATERIAL": 8,
+      "VOCABULARY": 1
+    },
+    "blockTypes": {
+      "example": 5,
+      "exercise": 50,
+      "image": 3,
+      "list": 2,
+      "table": 26,
+      "text": 34,
+      "vocabulary": 8
+    }
+  }
 }

@@ -17,12 +17,12 @@
     {
       "sourceLanguage": "en",
       "sourceText": "• Ask and respond to questions about your likes and dislikes",
-      "id": "Tanyakan dan menanggapi pertanyaan tentang suka dan tidak suka Anda"
+      "id": "• Bertanya dan menjawab tentang hal yang disukai dan tidak disukai"
     },
     {
       "sourceLanguage": "en",
       "sourceText": "• Talk about your favorite sports and people",
-      "id": "Bicara tentang olahraga favorit Anda dan orang-orang"
+      "id": "• Berbicara tentang olahraga dan orang favorit"
     }
   ],
   "source": {
@@ -38,254 +38,151 @@
   ],
   "sections": [
     {
-      "id": "lesson-03-overview",
-      "type": "OVERVIEW",
+      "type": "INTRODUCTION",
       "title": {
-        "sourceLanguage": "mixed",
-        "sourceText": "Overview",
-        "id": "Gambaran Umum"
+        "sourceLanguage": "en",
+        "sourceText": "An Overview of Lesson 3",
+        "id": "Pengantar Pelajaran 3"
       },
       "blocks": [
         {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "en",
-            "sourceText": "An Overview of Lesson 3",
-            "id": "Gambaran Umum Pelajaran 3"
-          }
+          "type": "list",
+          "style": "objectives",
+          "items": [
+            {
+              "sourceLanguage": "en",
+              "sourceText": "• Ask and respond to questions about your likes and dislikes",
+              "id": "• Bertanya dan menjawab tentang hal yang disukai dan tidak disukai"
+            },
+            {
+              "sourceLanguage": "en",
+              "sourceText": "• Talk about your favorite sports and people",
+              "id": "• Berbicara tentang olahraga dan orang favorit"
+            }
+          ]
         },
         {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "mixed",
-            "sourceText": "Objectives",
-            "id": "Objeksi"
-          }
-        },
-        {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "en",
-            "sourceText": "• Ask and respond to questions about your likes and dislikes",
-            "id": "Tanyakan dan menanggapi pertanyaan tentang suka dan tidak suka Anda"
-          }
-        },
-        {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "en",
-            "sourceText": "• Talk about your favorite sports and people",
-            "id": "Bicara tentang olahraga favorit Anda dan orang-orang"
-          }
-        },
-        {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "mixed",
-            "sourceText": "Vocabulary",
-            "id": "Kosakata"
-          }
-        },
-        {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "mixed",
-            "sourceText": "• Sports and Games",
-            "id": "Olahraga dan Permainan"
-          }
-        },
-        {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "mixed",
-            "sourceText": "• Pseudo-Verbs",
-            "id": "Pseudo- Verbs"
-          }
-        },
-        {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "mixed",
-            "sourceText": "• Adjectives",
-            "id": "Advances"
-          }
-        },
-        {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "mixed",
-            "sourceText": "• Conjunctions",
-            "id": "KonjeksiName"
-          }
-        },
-        {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "fil",
-            "sourceText": "• Ng Pronouns",
-            "id": "Pronouns",
-            "tagalog": "• Ng Pronouns"
-          }
-        },
-        {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "fil",
-            "sourceText": "• Ng Markers",
-            "id": "Dengan Markers",
-            "tagalog": "• Ng Markers"
-          }
-        },
-        {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "mixed",
-            "sourceText": "Dialogue: Ano Ang Gusto Mo? What Do You Want?",
-            "id": "Dialog: Ano Ang Gusto Mo?"
-          }
-        },
-        {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "mixed",
-            "sourceText": "Dialogue Comprehension",
-            "id": "Pemahaman Dialog"
-          }
-        },
-        {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "mixed",
-            "sourceText": "Activities",
-            "id": "Aktivitas"
-          }
-        },
-        {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "mixed",
-            "sourceText": "Activity 1: Interview",
-            "id": "Aktivitas 1: Wawancara"
-          }
-        },
-        {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "mixed",
-            "sourceText": "Activity 2: Interview",
-            "id": "Aktivitas 2: Wawancara"
-          }
-        },
-        {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "mixed",
-            "sourceText": "Activity 3: Cultural Experience",
-            "id": "Aktivitas 3: Pengalaman Budaya"
-          }
-        },
-        {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "mixed",
-            "sourceText": "Grammar",
-            "id": "Tata Bahasa"
-          }
-        },
-        {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "mixed",
-            "sourceText": "Definition of terms: Aspect, Inflection, Pseudo-Verbs, Experiencer, Object",
-            "id": "Definisi dari istilah: Aspek, Infleksi, Pseudo- Verbs, Experiencer, Obyek"
-          }
-        },
-        {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "mixed",
-            "sourceText": "Examining Form",
-            "id": "Mengkaji Bentuk"
-          }
-        },
-        {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "en",
-            "sourceText": "I. Pseudo-Verbs and Ng Markers and Pronouns\n\nPseudo-Verbs with Ng Markers Marking the Object\n\nGrammar Notes\n\nGrammar Presentation: Pseudo-Verbs with Ang Phrases or Ang Pronouns as Object\n\nGrammar Notes",
-            "id": "I. Pseudo- Verbs dan Ng Markers dan Pronouns Pseudo- Verbs dengan Ng Markers Menandai Objek Catatan Grammar Presentasi Grammar: Pseudo- Verbs dengan Ang Phrases atau Ang Pronouns sebagai Object Catatan Grammar"
-          }
-        },
-        {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "mixed",
-            "sourceText": "Practice",
-            "id": "Latihan"
-          }
-        },
-        {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "en",
-            "sourceText": "I. Speaking Practice",
-            "id": "I. Latihan Berbicara"
-          }
-        },
-        {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "mixed",
-            "sourceText": "II. Reading Practice",
-            "id": "II. Latihan Membaca"
-          }
-        },
-        {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "mixed",
-            "sourceText": "III. Writing Practice",
-            "id": "III. Latihan Menulis"
-          }
-        },
-        {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "mixed",
-            "sourceText": "IV. Listening Practice",
-            "id": "IV. Latihan Menyimak"
-          }
+          "type": "list",
+          "style": "outline",
+          "items": [
+            {
+              "sourceLanguage": "mixed",
+              "sourceText": "Vocabulary",
+              "id": "Kosakata"
+            },
+            {
+              "sourceLanguage": "mixed",
+              "sourceText": "• Sports and Games",
+              "id": "Olahraga dan Permainan"
+            },
+            {
+              "sourceLanguage": "mixed",
+              "sourceText": "• Pseudo-Verbs",
+              "id": "Pseudo- Verbs"
+            },
+            {
+              "sourceLanguage": "mixed",
+              "sourceText": "• Adjectives",
+              "id": "Advances"
+            },
+            {
+              "sourceLanguage": "mixed",
+              "sourceText": "• Conjunctions",
+              "id": "KonjeksiName"
+            },
+            {
+              "sourceLanguage": "fil",
+              "sourceText": "• Ng Pronouns",
+              "id": "Pronouns",
+              "tagalog": "• Ng Pronouns"
+            },
+            {
+              "sourceLanguage": "fil",
+              "sourceText": "• Ng Markers",
+              "id": "Dengan Markers",
+              "tagalog": "• Ng Markers"
+            },
+            {
+              "sourceLanguage": "mixed",
+              "sourceText": "Dialogue: Ano Ang Gusto Mo? What Do You Want?",
+              "id": "Dialog: Ano Ang Gusto Mo?"
+            },
+            {
+              "sourceLanguage": "mixed",
+              "sourceText": "Dialogue Comprehension",
+              "id": "Pemahaman Dialog"
+            },
+            {
+              "sourceLanguage": "mixed",
+              "sourceText": "Activities",
+              "id": "Aktivitas"
+            },
+            {
+              "sourceLanguage": "mixed",
+              "sourceText": "Activity 1: Interview",
+              "id": "Aktivitas 1: Wawancara"
+            },
+            {
+              "sourceLanguage": "mixed",
+              "sourceText": "Activity 2: Interview",
+              "id": "Aktivitas 2: Wawancara"
+            },
+            {
+              "sourceLanguage": "mixed",
+              "sourceText": "Activity 3: Cultural Experience",
+              "id": "Aktivitas 3: Pengalaman Budaya"
+            },
+            {
+              "sourceLanguage": "mixed",
+              "sourceText": "Grammar",
+              "id": "Tata Bahasa"
+            },
+            {
+              "sourceLanguage": "mixed",
+              "sourceText": "Definition of terms: Aspect, Inflection, Pseudo-Verbs, Experiencer, Object",
+              "id": "Definisi dari istilah: Aspek, Infleksi, Pseudo- Verbs, Experiencer, Obyek"
+            },
+            {
+              "sourceLanguage": "mixed",
+              "sourceText": "Examining Form",
+              "id": "Mengkaji Bentuk"
+            },
+            {
+              "sourceLanguage": "en",
+              "sourceText": "I. Pseudo-Verbs and Ng Markers and Pronouns\n\nPseudo-Verbs with Ng Markers Marking the Object\n\nGrammar Notes\n\nGrammar Presentation: Pseudo-Verbs with Ang Phrases or Ang Pronouns as Object\n\nGrammar Notes",
+              "id": "I. Pseudo- Verbs dan Ng Markers dan Pronouns Pseudo- Verbs dengan Ng Markers Menandai Objek Catatan Grammar Presentasi Grammar: Pseudo- Verbs dengan Ang Phrases atau Ang Pronouns sebagai Object Catatan Grammar"
+            },
+            {
+              "sourceLanguage": "mixed",
+              "sourceText": "Practice",
+              "id": "Latihan"
+            },
+            {
+              "sourceLanguage": "en",
+              "sourceText": "I. Speaking Practice",
+              "id": "I. Latihan Berbicara"
+            },
+            {
+              "sourceLanguage": "mixed",
+              "sourceText": "II. Reading Practice",
+              "id": "II. Latihan Membaca"
+            },
+            {
+              "sourceLanguage": "mixed",
+              "sourceText": "III. Writing Practice",
+              "id": "III. Latihan Menulis"
+            },
+            {
+              "sourceLanguage": "mixed",
+              "sourceText": "IV. Listening Practice",
+              "id": "IV. Latihan Menyimak"
+            }
+          ]
         }
-      ]
+      ],
+      "id": "lesson-03-01-an-overview-of-lesson-3"
     },
     {
-      "id": "lesson-03-vocabulary",
       "type": "VOCABULARY",
       "title": {
         "sourceLanguage": "mixed",
@@ -295,7 +192,7 @@
       "blocks": [
         {
           "type": "text",
-          "style": "body",
+          "style": "heading",
           "text": {
             "sourceLanguage": "mixed",
             "sourceText": "Vocabulary (03–1)",
@@ -316,927 +213,814 @@
           }
         },
         {
-          "type": "table",
-          "rows": [
+          "type": "vocabulary",
+          "entries": [
             {
-              "cells": [
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "Sports and Games",
-                  "id": "Olahraga dan Permainan"
-                }
-              ]
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "arnis",
+                "id": "Seni bela diri Filipina yang menggunakan dua tongkat rotan",
+                "tagalog": "arnis"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "Philippine martial art that uses two rattan sticks",
+                "id": "Seni bela diri Filipina yang menggunakan dua tongkat rotan"
+              }
             },
             {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "arnis",
-                  "id": "Seni bela diri Filipina yang menggunakan dua tongkat rotan",
-                  "tagalog": "arnis"
-                },
-                {
-                  "sourceLanguage": "en",
-                  "sourceText": "Philippine martial art that uses two rattan sticks",
-                  "id": "Seni bela diri Filipina yang menggunakan dua tongkat rotan"
-                }
-              ]
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "badminton",
+                "id": "badminton",
+                "tagalog": "badminton"
+              },
+              "meaning": {
+                "sourceLanguage": "mixed",
+                "sourceText": "badminton",
+                "id": "badminton"
+              }
             },
             {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "badminton",
-                  "id": "badminton",
-                  "tagalog": "badminton"
-                },
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "badminton",
-                  "id": "badminton"
-                }
-              ]
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "baraha",
+                "id": "kartu",
+                "tagalog": "baraha"
+              },
+              "meaning": {
+                "sourceLanguage": "mixed",
+                "sourceText": "cards",
+                "id": "kartu"
+              }
             },
             {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "baraha",
-                  "id": "kartu",
-                  "tagalog": "baraha"
-                },
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "cards",
-                  "id": "kartu"
-                }
-              ]
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "basketbol",
+                "id": "basket",
+                "tagalog": "basketbol"
+              },
+              "meaning": {
+                "sourceLanguage": "mixed",
+                "sourceText": "basketball",
+                "id": "basket"
+              }
             },
             {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "basketbol",
-                  "id": "basket",
-                  "tagalog": "basketbol"
-                },
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "basketball",
-                  "id": "basket"
-                }
-              ]
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "basketbolista",
+                "id": "Pemain basket",
+                "tagalog": "basketbolista"
+              },
+              "meaning": {
+                "sourceLanguage": "mixed",
+                "sourceText": "basketball player",
+                "id": "Pemain basket"
+              }
             },
             {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "basketbolista",
-                  "id": "Pemain basket",
-                  "tagalog": "basketbolista"
-                },
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "basketball player",
-                  "id": "Pemain basket"
-                }
-              ]
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "beysbol",
+                "id": "Baseball",
+                "tagalog": "beysbol"
+              },
+              "meaning": {
+                "sourceLanguage": "mixed",
+                "sourceText": "baseball",
+                "id": "Baseball"
+              }
             },
             {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "beysbol",
-                  "id": "Baseball",
-                  "tagalog": "beysbol"
-                },
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "baseball",
-                  "id": "Baseball"
-                }
-              ]
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "manlalaro ng besybol",
+                "id": "Pemain baseball",
+                "tagalog": "manlalaro ng besybol"
+              },
+              "meaning": {
+                "sourceLanguage": "mixed",
+                "sourceText": "baseball player",
+                "id": "Pemain baseball"
+              }
             },
             {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "manlalaro ng besybol",
-                  "id": "Pemain baseball",
-                  "tagalog": "manlalaro ng besybol"
-                },
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "baseball player",
-                  "id": "Pemain baseball"
-                }
-              ]
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "bilyar",
+                "id": "biliar",
+                "tagalog": "bilyar"
+              },
+              "meaning": {
+                "sourceLanguage": "mixed",
+                "sourceText": "billiards",
+                "id": "biliar"
+              }
             },
             {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "bilyar",
-                  "id": "biliar",
-                  "tagalog": "bilyar"
-                },
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "billiards",
-                  "id": "biliar"
-                }
-              ]
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "boksing",
+                "id": "tinju",
+                "tagalog": "boksing"
+              },
+              "meaning": {
+                "sourceLanguage": "mixed",
+                "sourceText": "boxing",
+                "id": "tinju"
+              }
             },
             {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "boksing",
-                  "id": "tinju",
-                  "tagalog": "boksing"
-                },
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "boxing",
-                  "id": "tinju"
-                }
-              ]
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "boksingero",
+                "id": "Petinju",
+                "tagalog": "boksingero"
+              },
+              "meaning": {
+                "sourceLanguage": "mixed",
+                "sourceText": "boxer",
+                "id": "Petinju"
+              }
             },
             {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "boksingero",
-                  "id": "Petinju",
-                  "tagalog": "boksingero"
-                },
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "boxer",
-                  "id": "Petinju"
-                }
-              ]
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "boling",
+                "id": "bowling",
+                "tagalog": "boling"
+              },
+              "meaning": {
+                "sourceLanguage": "mixed",
+                "sourceText": "bowling",
+                "id": "bowling"
+              }
             },
             {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "boling",
-                  "id": "bowling",
-                  "tagalog": "boling"
-                },
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "bowling",
-                  "id": "bowling"
-                }
-              ]
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "eskrima",
+                "id": "anggar",
+                "tagalog": "eskrima"
+              },
+              "meaning": {
+                "sourceLanguage": "mixed",
+                "sourceText": "fencing",
+                "id": "anggar"
+              }
             },
             {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "eskrima",
-                  "id": "anggar",
-                  "tagalog": "eskrima"
-                },
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "fencing",
-                  "id": "anggar"
-                }
-              ]
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "karera ng kabayo",
+                "id": "balap kuda",
+                "tagalog": "karera ng kabayo"
+              },
+              "meaning": {
+                "sourceLanguage": "mixed",
+                "sourceText": "horse racing",
+                "id": "balap kuda"
+              }
             },
             {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "karera ng kabayo",
-                  "id": "balap kuda",
-                  "tagalog": "karera ng kabayo"
-                },
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "horse racing",
-                  "id": "balap kuda"
-                }
-              ]
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "pilota",
+                "id": "Mirip dengan bola raket",
+                "tagalog": "pilota"
+              },
+              "meaning": {
+                "sourceLanguage": "mixed",
+                "sourceText": "similar to raquet ball",
+                "id": "Mirip dengan bola raket"
+              }
             },
             {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "pilota",
-                  "id": "Mirip dengan bola raket",
-                  "tagalog": "pilota"
-                },
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "similar to raquet ball",
-                  "id": "Mirip dengan bola raket"
-                }
-              ]
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "putbol",
+                "id": "Football",
+                "tagalog": "putbol"
+              },
+              "meaning": {
+                "sourceLanguage": "mixed",
+                "sourceText": "football",
+                "id": "Football"
+              }
             },
             {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "putbol",
-                  "id": "Football",
-                  "tagalog": "putbol"
-                },
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "football",
-                  "id": "Football"
-                }
-              ]
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "manlalaro ng putbol",
+                "id": "Pemain sepak bola",
+                "tagalog": "manlalaro ng putbol"
+              },
+              "meaning": {
+                "sourceLanguage": "mixed",
+                "sourceText": "football player",
+                "id": "Pemain sepak bola"
+              }
             },
             {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "manlalaro ng putbol",
-                  "id": "Pemain sepak bola",
-                  "tagalog": "manlalaro ng putbol"
-                },
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "football player",
-                  "id": "Pemain sepak bola"
-                }
-              ]
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "sabong",
+                "id": "adu ayam",
+                "tagalog": "sabong"
+              },
+              "meaning": {
+                "sourceLanguage": "mixed",
+                "sourceText": "cockfighting",
+                "id": "adu ayam"
+              }
             },
             {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "sabong",
-                  "id": "adu ayam",
-                  "tagalog": "sabong"
-                },
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "cockfighting",
-                  "id": "adu ayam"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "saker",
-                  "id": "sepak bola",
-                  "tagalog": "saker"
-                },
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "soccer",
-                  "id": "sepak bola"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "Pseudo-Verbs",
-                  "id": "Pseudo- Verbs"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "ayaw",
-                  "id": "tidak suka; tidak ingin",
-                  "tagalog": "ayaw"
-                },
-                {
-                  "sourceLanguage": "en",
-                  "sourceText": "does not like; does not want",
-                  "id": "tidak suka; tidak ingin"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "gusto",
-                  "id": "like; want",
-                  "tagalog": "gusto"
-                },
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "like; want",
-                  "id": "like; want"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "may",
-                  "id": "telah / memiliki",
-                  "tagalog": "may"
-                },
-                {
-                  "sourceLanguage": "en",
-                  "sourceText": "has/have",
-                  "id": "telah / memiliki"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "Adjectives",
-                  "id": "Kata sifat"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "bastos",
-                  "id": "kasar, kasar",
-                  "tagalog": "bastos"
-                },
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "uncouth, rude",
-                  "id": "kasar, kasar"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "bobo",
-                  "id": "bodoh, bodoh",
-                  "tagalog": "bobo"
-                },
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "stupid, dumb",
-                  "id": "bodoh, bodoh"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "duwag",
-                  "id": "pengecut",
-                  "tagalog": "duwag"
-                },
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "coward",
-                  "id": "pengecut"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "guwapo/pogi",
-                  "id": "tampan",
-                  "tagalog": "guwapo/pogi"
-                },
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "handsome",
-                  "id": "tampan"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "mabagal",
-                  "id": "lambat",
-                  "tagalog": "mabagal"
-                },
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "slow",
-                  "id": "lambat"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "mabait",
-                  "id": "jenis",
-                  "tagalog": "mabait"
-                },
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "kind",
-                  "id": "jenis"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "mabilis",
-                  "id": "aktif, cepat",
-                  "tagalog": "mabilis"
-                },
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "active, fast",
-                  "id": "aktif, cepat"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "magaling (sa)",
-                  "id": "baik (di))",
-                  "tagalog": "magaling (sa)"
-                },
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "good (at)",
-                  "id": "baik (di))"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "maganda",
-                  "id": "Cantik.",
-                  "tagalog": "maganda"
-                },
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "beautiful",
-                  "id": "Cantik."
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "mahina",
-                  "id": "lemah",
-                  "tagalog": "mahina"
-                },
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "weak",
-                  "id": "lemah"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "malakas",
-                  "id": "kuat",
-                  "tagalog": "malakas"
-                },
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "strong",
-                  "id": "kuat"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "malaki",
-                  "id": "besar",
-                  "tagalog": "malaki"
-                },
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "big",
-                  "id": "besar"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "maliit",
-                  "id": "kecil, pendek",
-                  "tagalog": "maliit"
-                },
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "small, short",
-                  "id": "kecil, pendek"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "mapagkumbaba",
-                  "id": "rendah hati",
-                  "tagalog": "mapagkumbaba"
-                },
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "humble",
-                  "id": "rendah hati"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "matalino; marunong",
-                  "id": "cerdas, bijaksana",
-                  "tagalog": "matalino; marunong"
-                },
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "intelligent, wise",
-                  "id": "cerdas, bijaksana"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "matangkad",
-                  "id": "tinggi",
-                  "tagalog": "matangkad"
-                },
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "tall",
-                  "id": "tinggi"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "matapang",
-                  "id": "berani, berani",
-                  "tagalog": "matapang"
-                },
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "brave, courageous",
-                  "id": "berani, berani"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "mayabang",
-                  "id": "Dalam sikap menolak itu, kalian berlaku sombong dan mengejek.",
-                  "tagalog": "mayabang"
-                },
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "conceited, boastful",
-                  "id": "Dalam sikap menolak itu, kalian berlaku sombong dan mengejek."
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "nakakainis",
-                  "id": "menjengkelkan",
-                  "tagalog": "nakakainis"
-                },
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "annoying",
-                  "id": "menjengkelkan"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "nakakatuwa",
-                  "id": "Menyenangkan, menyenangkan",
-                  "tagalog": "nakakatuwa"
-                },
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "delightful, likeable",
-                  "id": "Menyenangkan, menyenangkan"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "nakakatawa",
-                  "id": "lucu, lucu",
-                  "tagalog": "nakakatawa"
-                },
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "funny, comical",
-                  "id": "lucu, lucu"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "pangit",
-                  "id": "jelek",
-                  "tagalog": "pangit"
-                },
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "ugly",
-                  "id": "jelek"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "Conjunctions",
-                  "id": "Konjeksi"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "kasi",
-                  "id": "karena",
-                  "tagalog": "kasi"
-                },
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "because",
-                  "id": "karena"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "at",
-                  "id": "dan",
-                  "tagalog": "at"
-                },
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "and",
-                  "id": "dan"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "Ng Pronouns",
-                  "id": "Ng Pronouns"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "kita",
-                  "id": "Anda oleh saya",
-                  "tagalog": "kita"
-                },
-                {
-                  "sourceLanguage": "en",
-                  "sourceText": "you by me",
-                  "id": "Anda oleh saya"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "ko",
-                  "id": "Aku...",
-                  "tagalog": "ko"
-                },
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "I",
-                  "id": "Aku..."
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "mo",
-                  "id": "Anda",
-                  "tagalog": "mo"
-                },
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "you",
-                  "id": "Anda"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "namin",
-                  "id": "(Dan sesungguhnya kami benar-benar bersaf-saf) artinya meluruskan telapak kaki kami dalam salat.",
-                  "tagalog": "namin"
-                },
-                {
-                  "sourceLanguage": "en",
-                  "sourceText": "we (exclusive, i.e. not including the listener)",
-                  "id": "(Dan sesungguhnya kami benar-benar bersaf-saf) artinya meluruskan telapak kaki kami dalam salat."
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "natin",
-                  "id": "(Dan sesungguhnya kami benar-benar bersaf-saf) artinya meluruskan telapak kaki kami dalam salat.",
-                  "tagalog": "natin"
-                },
-                {
-                  "sourceLanguage": "en",
-                  "sourceText": "we (inclusive, i.e. including the listener)",
-                  "id": "(Dan sesungguhnya kami benar-benar bersaf-saf) artinya meluruskan telapak kaki kami dalam salat."
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "nila",
-                  "id": "mereka",
-                  "tagalog": "nila"
-                },
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "they",
-                  "id": "mereka"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "ninyo",
-                  "id": "Anda (plural)",
-                  "tagalog": "ninyo"
-                },
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "you (plural)",
-                  "id": "Anda (plural)"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "niya",
-                  "id": "he / she",
-                  "tagalog": "niya"
-                },
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "he/she",
-                  "id": "he / she"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "Ng Markers",
-                  "id": "Ng Markers"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "ng",
-                  "id": "tanda onely common nouns atau nama yang tepat dari suatu tempat atau hal",
-                  "tagalog": "ng"
-                },
-                {
-                  "sourceLanguage": "en",
-                  "sourceText": "marks singular common nouns or proper name of a place or thing",
-                  "id": "tanda onely common nouns atau nama yang tepat dari suatu tempat atau hal"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "ng mga",
-                  "id": "menandai dua atau lebih kata benda umum atau nama yang tepat dari suatu tempat atau sesuatu",
-                  "tagalog": "ng mga"
-                },
-                {
-                  "sourceLanguage": "en",
-                  "sourceText": "marks two or more common nouns or proper names of a place or a thing",
-                  "id": "menandai dua atau lebih kata benda umum atau nama yang tepat dari suatu tempat atau sesuatu"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "ni",
-                  "id": "menandai nama dari orang tertentu atau hewan",
-                  "tagalog": "ni"
-                },
-                {
-                  "sourceLanguage": "en",
-                  "sourceText": "marks the name of a specific singular person or animal",
-                  "id": "menandai nama dari orang tertentu atau hewan"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "nina",
-                  "id": "menandai nama dari dua atau lebih orang tertentu atau hewan",
-                  "tagalog": "nina"
-                },
-                {
-                  "sourceLanguage": "en",
-                  "sourceText": "marks the name of two or more specific persons or animals",
-                  "id": "menandai nama dari dua atau lebih orang tertentu atau hewan"
-                }
-              ]
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "saker",
+                "id": "sepak bola",
+                "tagalog": "saker"
+              },
+              "meaning": {
+                "sourceLanguage": "mixed",
+                "sourceText": "soccer",
+                "id": "sepak bola"
+              }
             }
-          ]
+          ],
+          "title": {
+            "sourceLanguage": "mixed",
+            "sourceText": "Sports and Games",
+            "id": "Olahraga dan Permainan"
+          }
+        },
+        {
+          "type": "vocabulary",
+          "entries": [
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "ayaw",
+                "id": "tidak suka; tidak ingin",
+                "tagalog": "ayaw"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "does not like; does not want",
+                "id": "tidak suka; tidak ingin"
+              }
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "gusto",
+                "id": "like; want",
+                "tagalog": "gusto"
+              },
+              "meaning": {
+                "sourceLanguage": "mixed",
+                "sourceText": "like; want",
+                "id": "like; want"
+              }
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "may",
+                "id": "telah / memiliki",
+                "tagalog": "may"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "has/have",
+                "id": "telah / memiliki"
+              }
+            }
+          ],
+          "title": {
+            "sourceLanguage": "mixed",
+            "sourceText": "Pseudo-Verbs",
+            "id": "Pseudo- Verbs"
+          }
+        },
+        {
+          "type": "vocabulary",
+          "entries": [
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "bastos",
+                "id": "kasar, kasar",
+                "tagalog": "bastos"
+              },
+              "meaning": {
+                "sourceLanguage": "mixed",
+                "sourceText": "uncouth, rude",
+                "id": "kasar, kasar"
+              }
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "bobo",
+                "id": "bodoh, bodoh",
+                "tagalog": "bobo"
+              },
+              "meaning": {
+                "sourceLanguage": "mixed",
+                "sourceText": "stupid, dumb",
+                "id": "bodoh, bodoh"
+              }
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "duwag",
+                "id": "pengecut",
+                "tagalog": "duwag"
+              },
+              "meaning": {
+                "sourceLanguage": "mixed",
+                "sourceText": "coward",
+                "id": "pengecut"
+              }
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "guwapo/pogi",
+                "id": "tampan",
+                "tagalog": "guwapo/pogi"
+              },
+              "meaning": {
+                "sourceLanguage": "mixed",
+                "sourceText": "handsome",
+                "id": "tampan"
+              }
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "mabagal",
+                "id": "lambat",
+                "tagalog": "mabagal"
+              },
+              "meaning": {
+                "sourceLanguage": "mixed",
+                "sourceText": "slow",
+                "id": "lambat"
+              }
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "mabait",
+                "id": "jenis",
+                "tagalog": "mabait"
+              },
+              "meaning": {
+                "sourceLanguage": "mixed",
+                "sourceText": "kind",
+                "id": "jenis"
+              }
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "mabilis",
+                "id": "aktif, cepat",
+                "tagalog": "mabilis"
+              },
+              "meaning": {
+                "sourceLanguage": "mixed",
+                "sourceText": "active, fast",
+                "id": "aktif, cepat"
+              }
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "magaling (sa)",
+                "id": "baik (di))",
+                "tagalog": "magaling (sa)"
+              },
+              "meaning": {
+                "sourceLanguage": "mixed",
+                "sourceText": "good (at)",
+                "id": "baik (di))"
+              }
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "maganda",
+                "id": "Cantik.",
+                "tagalog": "maganda"
+              },
+              "meaning": {
+                "sourceLanguage": "mixed",
+                "sourceText": "beautiful",
+                "id": "Cantik."
+              }
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "mahina",
+                "id": "lemah",
+                "tagalog": "mahina"
+              },
+              "meaning": {
+                "sourceLanguage": "mixed",
+                "sourceText": "weak",
+                "id": "lemah"
+              }
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "malakas",
+                "id": "kuat",
+                "tagalog": "malakas"
+              },
+              "meaning": {
+                "sourceLanguage": "mixed",
+                "sourceText": "strong",
+                "id": "kuat"
+              }
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "malaki",
+                "id": "besar",
+                "tagalog": "malaki"
+              },
+              "meaning": {
+                "sourceLanguage": "mixed",
+                "sourceText": "big",
+                "id": "besar"
+              }
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "maliit",
+                "id": "kecil, pendek",
+                "tagalog": "maliit"
+              },
+              "meaning": {
+                "sourceLanguage": "mixed",
+                "sourceText": "small, short",
+                "id": "kecil, pendek"
+              }
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "mapagkumbaba",
+                "id": "rendah hati",
+                "tagalog": "mapagkumbaba"
+              },
+              "meaning": {
+                "sourceLanguage": "mixed",
+                "sourceText": "humble",
+                "id": "rendah hati"
+              }
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "matalino; marunong",
+                "id": "cerdas, bijaksana",
+                "tagalog": "matalino; marunong"
+              },
+              "meaning": {
+                "sourceLanguage": "mixed",
+                "sourceText": "intelligent, wise",
+                "id": "cerdas, bijaksana"
+              }
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "matangkad",
+                "id": "tinggi",
+                "tagalog": "matangkad"
+              },
+              "meaning": {
+                "sourceLanguage": "mixed",
+                "sourceText": "tall",
+                "id": "tinggi"
+              }
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "matapang",
+                "id": "berani, berani",
+                "tagalog": "matapang"
+              },
+              "meaning": {
+                "sourceLanguage": "mixed",
+                "sourceText": "brave, courageous",
+                "id": "berani, berani"
+              }
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "mayabang",
+                "id": "Dalam sikap menolak itu, kalian berlaku sombong dan mengejek.",
+                "tagalog": "mayabang"
+              },
+              "meaning": {
+                "sourceLanguage": "mixed",
+                "sourceText": "conceited, boastful",
+                "id": "Dalam sikap menolak itu, kalian berlaku sombong dan mengejek."
+              }
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "nakakainis",
+                "id": "menjengkelkan",
+                "tagalog": "nakakainis"
+              },
+              "meaning": {
+                "sourceLanguage": "mixed",
+                "sourceText": "annoying",
+                "id": "menjengkelkan"
+              }
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "nakakatuwa",
+                "id": "Menyenangkan, menyenangkan",
+                "tagalog": "nakakatuwa"
+              },
+              "meaning": {
+                "sourceLanguage": "mixed",
+                "sourceText": "delightful, likeable",
+                "id": "Menyenangkan, menyenangkan"
+              }
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "nakakatawa",
+                "id": "lucu, lucu",
+                "tagalog": "nakakatawa"
+              },
+              "meaning": {
+                "sourceLanguage": "mixed",
+                "sourceText": "funny, comical",
+                "id": "lucu, lucu"
+              }
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "pangit",
+                "id": "jelek",
+                "tagalog": "pangit"
+              },
+              "meaning": {
+                "sourceLanguage": "mixed",
+                "sourceText": "ugly",
+                "id": "jelek"
+              }
+            }
+          ],
+          "title": {
+            "sourceLanguage": "mixed",
+            "sourceText": "Adjectives",
+            "id": "Kata sifat"
+          }
+        },
+        {
+          "type": "vocabulary",
+          "entries": [
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "kasi",
+                "id": "karena",
+                "tagalog": "kasi"
+              },
+              "meaning": {
+                "sourceLanguage": "mixed",
+                "sourceText": "because",
+                "id": "karena"
+              }
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "at",
+                "id": "dan",
+                "tagalog": "at"
+              },
+              "meaning": {
+                "sourceLanguage": "mixed",
+                "sourceText": "and",
+                "id": "dan"
+              }
+            }
+          ],
+          "title": {
+            "sourceLanguage": "mixed",
+            "sourceText": "Conjunctions",
+            "id": "Konjeksi"
+          }
+        },
+        {
+          "type": "vocabulary",
+          "entries": [
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "kita",
+                "id": "Anda oleh saya",
+                "tagalog": "kita"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "you by me",
+                "id": "Anda oleh saya"
+              }
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "ko",
+                "id": "Aku...",
+                "tagalog": "ko"
+              },
+              "meaning": {
+                "sourceLanguage": "mixed",
+                "sourceText": "I",
+                "id": "Aku..."
+              }
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "mo",
+                "id": "Anda",
+                "tagalog": "mo"
+              },
+              "meaning": {
+                "sourceLanguage": "mixed",
+                "sourceText": "you",
+                "id": "Anda"
+              }
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "namin",
+                "id": "(Dan sesungguhnya kami benar-benar bersaf-saf) artinya meluruskan telapak kaki kami dalam salat.",
+                "tagalog": "namin"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "we (exclusive, i.e. not including the listener)",
+                "id": "(Dan sesungguhnya kami benar-benar bersaf-saf) artinya meluruskan telapak kaki kami dalam salat."
+              }
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "natin",
+                "id": "(Dan sesungguhnya kami benar-benar bersaf-saf) artinya meluruskan telapak kaki kami dalam salat.",
+                "tagalog": "natin"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "we (inclusive, i.e. including the listener)",
+                "id": "(Dan sesungguhnya kami benar-benar bersaf-saf) artinya meluruskan telapak kaki kami dalam salat."
+              }
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "nila",
+                "id": "mereka",
+                "tagalog": "nila"
+              },
+              "meaning": {
+                "sourceLanguage": "mixed",
+                "sourceText": "they",
+                "id": "mereka"
+              }
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "ninyo",
+                "id": "Anda (plural)",
+                "tagalog": "ninyo"
+              },
+              "meaning": {
+                "sourceLanguage": "mixed",
+                "sourceText": "you (plural)",
+                "id": "Anda (plural)"
+              }
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "niya",
+                "id": "he / she",
+                "tagalog": "niya"
+              },
+              "meaning": {
+                "sourceLanguage": "mixed",
+                "sourceText": "he/she",
+                "id": "he / she"
+              }
+            }
+          ],
+          "title": {
+            "sourceLanguage": "mixed",
+            "sourceText": "Ng Pronouns",
+            "id": "Ng Kata ganti"
+          }
+        },
+        {
+          "type": "vocabulary",
+          "entries": [
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "ng",
+                "id": "tanda onely common nouns atau nama yang tepat dari suatu tempat atau hal",
+                "tagalog": "ng"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "marks singular common nouns or proper name of a place or thing",
+                "id": "tanda onely common nouns atau nama yang tepat dari suatu tempat atau hal"
+              }
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "ng mga",
+                "id": "menandai dua atau lebih kata benda umum atau nama yang tepat dari suatu tempat atau sesuatu",
+                "tagalog": "ng mga"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "marks two or more common nouns or proper names of a place or a thing",
+                "id": "menandai dua atau lebih kata benda umum atau nama yang tepat dari suatu tempat atau sesuatu"
+              }
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "ni",
+                "id": "menandai nama dari orang tertentu atau hewan",
+                "tagalog": "ni"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "marks the name of a specific singular person or animal",
+                "id": "menandai nama dari orang tertentu atau hewan"
+              }
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "nina",
+                "id": "menandai nama dari dua atau lebih orang tertentu atau hewan",
+                "tagalog": "nina"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "marks the name of two or more specific persons or animals",
+                "id": "menandai nama dari dua atau lebih orang tertentu atau hewan"
+              }
+            }
+          ],
+          "title": {
+            "sourceLanguage": "mixed",
+            "sourceText": "Ng Markers",
+            "id": "Ng Penanda"
+          }
         },
         {
           "type": "image",
           "path": "assets/63.jpg"
         }
-      ]
+      ],
+      "id": "lesson-03-02-vocabulary"
     },
     {
-      "id": "lesson-03-dialogue-ano-ang-gusto-mo-what-do-you-want",
       "type": "DIALOGUE",
       "title": {
         "sourceLanguage": "mixed",
@@ -1248,232 +1032,212 @@
           "type": "text",
           "style": "body",
           "text": {
-            "sourceLanguage": "mixed",
-            "sourceText": "Dialogue: Ano Ang Gusto Mo? What Do You Want?",
-            "id": "Dialog: Ano Ang Gusto Mo?"
-          }
-        },
-        {
-          "type": "text",
-          "style": "body",
-          "text": {
             "sourceLanguage": "en",
             "sourceText": "Read the dialogue and test your understanding with the Dialogue Comprehension exercise that follows.",
             "id": "Baca dialognya dan uji pemahamanmu dengan latihan kompresi Dialog yang selanjutnya."
           }
         },
         {
-          "type": "table",
-          "rows": [
+          "type": "dialogue",
+          "turns": [
             {
-              "cells": [
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "Gary:",
-                  "id": "Gary:"
-                },
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "Mark, may tiket ako para sa basketbol sa Biyernes. Gusto mo ba?",
-                  "id": "Mark, aku punya tiket basket pada hari Jumat, dan kau ingin melakukannya?",
-                  "tagalog": "Mark, may tiket ako para sa basketbol sa Biyernes. Gusto mo ba?"
-                }
-              ]
+              "speaker": "Gary",
+              "speakerText": {
+                "sourceLanguage": "mixed",
+                "sourceText": "Gary:",
+                "id": "Gary:"
+              },
+              "text": {
+                "sourceLanguage": "fil",
+                "sourceText": "Mark, may tiket ako para sa basketbol sa Biyernes. Gusto mo ba?",
+                "id": "Mark, aku punya tiket basket pada hari Jumat, dan kau ingin melakukannya?",
+                "tagalog": "Mark, may tiket ako para sa basketbol sa Biyernes. Gusto mo ba?"
+              }
             },
             {
-              "cells": [
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "Mark:",
-                  "id": "Mark:"
-                },
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "Hindi. Salamat. Ayaw ko ang Ginebra, eh.",
-                  "id": "Tidak, aku tidak suka Ginebra, eh.",
-                  "tagalog": "Hindi. Salamat. Ayaw ko ang Ginebra, eh."
-                }
-              ]
+              "speaker": "Mark",
+              "speakerText": {
+                "sourceLanguage": "mixed",
+                "sourceText": "Mark:",
+                "id": "Mark:"
+              },
+              "text": {
+                "sourceLanguage": "fil",
+                "sourceText": "Hindi. Salamat. Ayaw ko ang Ginebra, eh.",
+                "id": "Tidak, aku tidak suka Ginebra, eh.",
+                "tagalog": "Hindi. Salamat. Ayaw ko ang Ginebra, eh."
+              }
             },
             {
-              "cells": [
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "Gary:",
-                  "id": "Gary:"
-                },
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "Bakit? Sino ang gusto mo?",
-                  "id": "Jadi siapa yang kau inginkan?",
-                  "tagalog": "Bakit? Sino ang gusto mo?"
-                }
-              ]
+              "speaker": "Gary",
+              "speakerText": {
+                "sourceLanguage": "mixed",
+                "sourceText": "Gary:",
+                "id": "Gary:"
+              },
+              "text": {
+                "sourceLanguage": "fil",
+                "sourceText": "Bakit? Sino ang gusto mo?",
+                "id": "Jadi siapa yang kau inginkan?",
+                "tagalog": "Bakit? Sino ang gusto mo?"
+              }
             },
             {
-              "cells": [
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "Mark:",
-                  "id": "Mark:"
-                },
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "Gusto ko ang San Miguel Beermen. Pero sa totoo lang, mas gusto ko ng larong beysbol.",
-                  "id": "Aku suka San Miguel Bestler, tapi aku benar-benar menyukai pertandingan bisbol.",
-                  "tagalog": "Gusto ko ang San Miguel Beermen. Pero sa totoo lang, mas gusto ko ng larong beysbol."
-                }
-              ]
+              "speaker": "Mark",
+              "speakerText": {
+                "sourceLanguage": "mixed",
+                "sourceText": "Mark:",
+                "id": "Mark:"
+              },
+              "text": {
+                "sourceLanguage": "fil",
+                "sourceText": "Gusto ko ang San Miguel Beermen. Pero sa totoo lang, mas gusto ko ng larong beysbol.",
+                "id": "Aku suka San Miguel Bestler, tapi aku benar-benar menyukai pertandingan bisbol.",
+                "tagalog": "Gusto ko ang San Miguel Beermen. Pero sa totoo lang, mas gusto ko ng larong beysbol."
+              }
             },
             {
-              "cells": [
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "Gary:",
-                  "id": "Gary:"
-                },
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "Beysbol? Talaga?",
-                  "id": "Sakit?",
-                  "tagalog": "Beysbol? Talaga?"
-                }
-              ]
+              "speaker": "Gary",
+              "speakerText": {
+                "sourceLanguage": "mixed",
+                "sourceText": "Gary:",
+                "id": "Gary:"
+              },
+              "text": {
+                "sourceLanguage": "fil",
+                "sourceText": "Beysbol? Talaga?",
+                "id": "Sakit?",
+                "tagalog": "Beysbol? Talaga?"
+              }
             },
             {
-              "cells": [
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "Mark:",
-                  "id": "Mark:"
-                },
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "Oo naman. Mariners at Dodgers ang mga paborito ko. Ikaw? Gusto mo ba ng beysbol?",
-                  "id": "Ya, Marinir dan Dodgers adalah favorit saya, dan apakah Anda suka bisbol?",
-                  "tagalog": "Oo naman. Mariners at Dodgers ang mga paborito ko. Ikaw? Gusto mo ba ng beysbol?"
-                }
-              ]
+              "speaker": "Mark",
+              "speakerText": {
+                "sourceLanguage": "mixed",
+                "sourceText": "Mark:",
+                "id": "Mark:"
+              },
+              "text": {
+                "sourceLanguage": "fil",
+                "sourceText": "Oo naman. Mariners at Dodgers ang mga paborito ko. Ikaw? Gusto mo ba ng beysbol?",
+                "id": "Ya, Marinir dan Dodgers adalah favorit saya, dan apakah Anda suka bisbol?",
+                "tagalog": "Oo naman. Mariners at Dodgers ang mga paborito ko. Ikaw? Gusto mo ba ng beysbol?"
+              }
             },
             {
-              "cells": [
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "Gary:",
-                  "id": "Gary:"
-                },
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "Ayos lang.",
-                  "id": "Tidak apa-apa.",
-                  "tagalog": "Ayos lang."
-                }
-              ]
+              "speaker": "Gary",
+              "speakerText": {
+                "sourceLanguage": "mixed",
+                "sourceText": "Gary:",
+                "id": "Gary:"
+              },
+              "text": {
+                "sourceLanguage": "fil",
+                "sourceText": "Ayos lang.",
+                "id": "Tidak apa-apa.",
+                "tagalog": "Ayos lang."
+              }
             },
             {
-              "cells": [
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "Mark:",
-                  "id": "Mark:"
-                },
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "E, boksing?",
-                  "id": "E, tinju?",
-                  "tagalog": "E, boksing?"
-                }
-              ]
+              "speaker": "Mark",
+              "speakerText": {
+                "sourceLanguage": "mixed",
+                "sourceText": "Mark:",
+                "id": "Mark:"
+              },
+              "text": {
+                "sourceLanguage": "fil",
+                "sourceText": "E, boksing?",
+                "id": "E, tinju?",
+                "tagalog": "E, boksing?"
+              }
             },
             {
-              "cells": [
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "Gary:",
-                  "id": "Gary:"
-                },
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "Siyempre!",
-                  "id": "Tentu saja!",
-                  "tagalog": "Siyempre!"
-                }
-              ]
+              "speaker": "Gary",
+              "speakerText": {
+                "sourceLanguage": "mixed",
+                "sourceText": "Gary:",
+                "id": "Gary:"
+              },
+              "text": {
+                "sourceLanguage": "fil",
+                "sourceText": "Siyempre!",
+                "id": "Tentu saja!",
+                "tagalog": "Siyempre!"
+              }
             },
             {
-              "cells": [
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "Mark:",
-                  "id": "Mark:"
-                },
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "Sino ang gusto mong boksingero?",
-                  "id": "Siapa yang akan Anda ingin menjadi petinju?",
-                  "tagalog": "Sino ang gusto mong boksingero?"
-                }
-              ]
+              "speaker": "Mark",
+              "speakerText": {
+                "sourceLanguage": "mixed",
+                "sourceText": "Mark:",
+                "id": "Mark:"
+              },
+              "text": {
+                "sourceLanguage": "fil",
+                "sourceText": "Sino ang gusto mong boksingero?",
+                "id": "Siapa yang akan Anda ingin menjadi petinju?",
+                "tagalog": "Sino ang gusto mong boksingero?"
+              }
             },
             {
-              "cells": [
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "Gary:",
-                  "id": "Gary:"
-                },
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "Siyempre, si Manny Pacquiao.",
-                  "id": "Tentu, Manny Pacquiao.",
-                  "tagalog": "Siyempre, si Manny Pacquiao."
-                }
-              ]
+              "speaker": "Gary",
+              "speakerText": {
+                "sourceLanguage": "mixed",
+                "sourceText": "Gary:",
+                "id": "Gary:"
+              },
+              "text": {
+                "sourceLanguage": "fil",
+                "sourceText": "Siyempre, si Manny Pacquiao.",
+                "id": "Tentu, Manny Pacquiao.",
+                "tagalog": "Siyempre, si Manny Pacquiao."
+              }
             },
             {
-              "cells": [
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "Mark:",
-                  "id": "Mark:"
-                },
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "Bakit?",
-                  "id": "Kenapa?",
-                  "tagalog": "Bakit?"
-                }
-              ]
+              "speaker": "Mark",
+              "speakerText": {
+                "sourceLanguage": "mixed",
+                "sourceText": "Mark:",
+                "id": "Mark:"
+              },
+              "text": {
+                "sourceLanguage": "fil",
+                "sourceText": "Bakit?",
+                "id": "Kenapa?",
+                "tagalog": "Bakit?"
+              }
             },
             {
-              "cells": [
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "Gary:",
-                  "id": "Gary:"
-                },
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "Kasi magaling at mabilis si Manny Pacquiao.",
-                  "id": "Karena Manny Pacquiao melakukannya dengan baik dan cepat.",
-                  "tagalog": "Kasi magaling at mabilis si Manny Pacquiao."
-                }
-              ]
+              "speaker": "Gary",
+              "speakerText": {
+                "sourceLanguage": "mixed",
+                "sourceText": "Gary:",
+                "id": "Gary:"
+              },
+              "text": {
+                "sourceLanguage": "fil",
+                "sourceText": "Kasi magaling at mabilis si Manny Pacquiao.",
+                "id": "Karena Manny Pacquiao melakukannya dengan baik dan cepat.",
+                "tagalog": "Kasi magaling at mabilis si Manny Pacquiao."
+              }
             }
           ]
-        },
+        }
+      ],
+      "id": "lesson-03-03-dialogue-ano-ang-gusto-mo-what-do-you-want"
+    },
+    {
+      "type": "EXERCISES",
+      "title": {
+        "sourceLanguage": "mixed",
+        "sourceText": "Dialogue Comprehension",
+        "id": "Pemahaman Dialog"
+      },
+      "blocks": [
         {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "mixed",
-            "sourceText": "Dialogue Comprehension",
-            "id": "Pemahaman Dialog"
-          }
-        },
-        {
-          "type": "text",
-          "style": "body",
+          "type": "exercise",
+          "role": "content",
           "text": {
             "sourceLanguage": "en",
             "sourceText": "Based on the dialogue, decide whether these statements are true, Tama, or false, Mali.",
@@ -1481,7 +1245,8 @@
           }
         },
         {
-          "type": "table",
+          "type": "exercise",
+          "role": "worksheet",
           "rows": [
             {
               "cells": [
@@ -1594,38 +1359,20 @@
             }
           ]
         }
-      ]
+      ],
+      "id": "lesson-03-04-dialogue-comprehension"
     },
     {
-      "id": "lesson-03-activities",
-      "type": "ACTIVITY",
+      "type": "EXERCISES",
       "title": {
         "sourceLanguage": "mixed",
-        "sourceText": "Activities",
-        "id": "Aktivitas"
+        "sourceText": "Activity 1",
+        "id": "Aktivitas 1"
       },
       "blocks": [
         {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "mixed",
-            "sourceText": "Activities",
-            "id": "Aktivitas"
-          }
-        },
-        {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "mixed",
-            "sourceText": "Activity 1",
-            "id": "Aktivitas 1"
-          }
-        },
-        {
-          "type": "text",
-          "style": "body",
+          "type": "exercise",
+          "role": "instruction",
           "text": {
             "sourceLanguage": "en",
             "sourceText": "Interview your classmates, and find two students who like the following sports listed below and two who do not. In complete sentences, fill out the chart below based on the information you have gathered.",
@@ -1633,38 +1380,42 @@
           }
         },
         {
+          "type": "dialogue",
+          "turns": [
+            {
+              "speaker": "S1",
+              "speakerText": {
+                "sourceLanguage": "mixed",
+                "sourceText": "S1:",
+                "id": "S1:"
+              },
+              "text": {
+                "sourceLanguage": "fil",
+                "sourceText": "Gusto mo ba ng basketbol? Do you like basketball?",
+                "id": "Kau suka bola basket?",
+                "tagalog": "Gusto mo ba ng basketbol? Do you like basketball?"
+              }
+            },
+            {
+              "speaker": "S2",
+              "speakerText": {
+                "sourceLanguage": "mixed",
+                "sourceText": "S2:",
+                "id": "S2:"
+              },
+              "text": {
+                "sourceLanguage": "fil",
+                "sourceText": "Oo, gusto ko ng basketbol. Yes, I like basketball.",
+                "id": "Ya, aku suka basket. / Ya, basket Ike.",
+                "tagalog": "Oo, gusto ko ng basketbol. Yes, I like basketball."
+              }
+            }
+          ]
+        },
+        {
           "type": "table",
+          "role": "dialogue-context",
           "rows": [
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "S1:",
-                  "id": "S1:"
-                },
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "Gusto mo ba ng basketbol? Do you like basketball?",
-                  "id": "Kau suka bola basket?",
-                  "tagalog": "Gusto mo ba ng basketbol? Do you like basketball?"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "S2:",
-                  "id": "S2:"
-                },
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "Oo, gusto ko ng basketbol. Yes, I like basketball.",
-                  "id": "Ya, aku suka basket. / Ya, basket Ike.",
-                  "tagalog": "Oo, gusto ko ng basketbol. Yes, I like basketball."
-                }
-              ]
-            },
             {
               "cells": [
                 {
@@ -1678,7 +1429,8 @@
           ]
         },
         {
-          "type": "table",
+          "type": "exercise",
+          "role": "worksheet",
           "rows": [
             {
               "cells": [
@@ -1782,19 +1534,21 @@
               ]
             }
           ]
-        },
+        }
+      ],
+      "id": "lesson-03-05-activity-1"
+    },
+    {
+      "type": "EXERCISES",
+      "title": {
+        "sourceLanguage": "mixed",
+        "sourceText": "Activity 2",
+        "id": "Aktivitas 2"
+      },
+      "blocks": [
         {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "mixed",
-            "sourceText": "Activity 2",
-            "id": "Aktivitas 2"
-          }
-        },
-        {
-          "type": "text",
-          "style": "body",
+          "type": "exercise",
+          "role": "instruction",
           "text": {
             "sourceLanguage": "en",
             "sourceText": "Interview two of your classmates and find out their favorite and least favorite athletes. Ask them to explain why they feel this way. Write their answers in the chart that follows.",
@@ -1802,43 +1556,41 @@
           }
         },
         {
-          "type": "table",
-          "rows": [
+          "type": "dialogue",
+          "turns": [
             {
-              "cells": [
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "Marc:",
-                  "id": "Marc:"
-                },
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "Sino ang gusto mong manlalaro? Who is your favorite athlete?",
-                  "id": "Siapa yang ingin kau mainkan?",
-                  "tagalog": "Sino ang gusto mong manlalaro? Who is your favorite athlete?"
-                }
-              ]
+              "speaker": "Marc",
+              "speakerText": {
+                "sourceLanguage": "mixed",
+                "sourceText": "Marc:",
+                "id": "Marc:"
+              },
+              "text": {
+                "sourceLanguage": "fil",
+                "sourceText": "Sino ang gusto mong manlalaro? Who is your favorite athlete?",
+                "id": "Siapa yang ingin kau mainkan?",
+                "tagalog": "Sino ang gusto mong manlalaro? Who is your favorite athlete?"
+              }
             },
             {
-              "cells": [
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "Greg:",
-                  "id": "Greg:"
-                },
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "Gusto ko si Manny Pacquiao kasi magaling siya sa boksing. I like Manny Pacquiao because he is good at boxing.",
-                  "id": "Aku menyukai Manny Pactcale karena dia terampil dalam bertinju, dan aku akan memiliki Manny Pactio karena dia baik dan bertinju.",
-                  "tagalog": "Gusto ko si Manny Pacquiao kasi magaling siya sa boksing. I like Manny Pacquiao because he is good at boxing."
-                }
-              ]
+              "speaker": "Greg",
+              "speakerText": {
+                "sourceLanguage": "mixed",
+                "sourceText": "Greg:",
+                "id": "Greg:"
+              },
+              "text": {
+                "sourceLanguage": "fil",
+                "sourceText": "Gusto ko si Manny Pacquiao kasi magaling siya sa boksing. I like Manny Pacquiao because he is good at boxing.",
+                "id": "Aku menyukai Manny Pactcale karena dia terampil dalam bertinju, dan aku akan memiliki Manny Pactio karena dia baik dan bertinju.",
+                "tagalog": "Gusto ko si Manny Pacquiao kasi magaling siya sa boksing. I like Manny Pacquiao because he is good at boxing."
+              }
             }
           ]
         },
         {
-          "type": "text",
-          "style": "body",
+          "type": "exercise",
+          "role": "content",
           "text": {
             "sourceLanguage": "fil",
             "sourceText": "A.",
@@ -1847,7 +1599,8 @@
           }
         },
         {
-          "type": "table",
+          "type": "exercise",
+          "role": "worksheet",
           "rows": [
             {
               "cells": [
@@ -1901,8 +1654,8 @@
           ]
         },
         {
-          "type": "text",
-          "style": "body",
+          "type": "exercise",
+          "role": "content",
           "text": {
             "sourceLanguage": "fil",
             "sourceText": "B.",
@@ -1911,7 +1664,8 @@
           }
         },
         {
-          "type": "table",
+          "type": "exercise",
+          "role": "worksheet",
           "rows": [
             {
               "cells": [
@@ -1947,19 +1701,21 @@
               ]
             }
           ]
-        },
+        }
+      ],
+      "id": "lesson-03-06-activity-2"
+    },
+    {
+      "type": "EXERCISES",
+      "title": {
+        "sourceLanguage": "mixed",
+        "sourceText": "Activity 3",
+        "id": "Aktivitas 3"
+      },
+      "blocks": [
         {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "mixed",
-            "sourceText": "Activity 3",
-            "id": "Aktivitas 3"
-          }
-        },
-        {
-          "type": "text",
-          "style": "body",
+          "type": "exercise",
+          "role": "content",
           "text": {
             "sourceLanguage": "en",
             "sourceText": "Try a cultural experiment. Form a group of five or more and play one of the traditional Filipino games described below.",
@@ -1967,8 +1723,8 @@
           }
         },
         {
-          "type": "text",
-          "style": "body",
+          "type": "exercise",
+          "role": "question",
           "text": {
             "sourceLanguage": "fil",
             "sourceText": "1. Takip Silim (Twilight)",
@@ -1977,8 +1733,8 @@
           }
         },
         {
-          "type": "text",
-          "style": "body",
+          "type": "exercise",
+          "role": "content",
           "text": {
             "sourceLanguage": "en",
             "sourceText": "Takip silim, which literally means “twilight” or “nightfall,” is a game similar to tag and is played by three or more players, one of whom is chosen to be “it.” The “it” player is blindfolded with a handkerchief or some piece of cloth, then made to turn around three times before pursuing the other players. In order to tease the “it” player, the other players can poke or tickle him or her or call out “It” or some other oral expression in order to give a hint about their location. When the “it” person succeeds in catching or tagging one of the other players, that player is now “it” and the game continues.",
@@ -1986,8 +1742,8 @@
           }
         },
         {
-          "type": "text",
-          "style": "body",
+          "type": "exercise",
+          "role": "question",
           "text": {
             "sourceLanguage": "fil",
             "sourceText": "2. Tumbang Preso (Fallen Prisoner)",
@@ -1996,43 +1752,25 @@
           }
         },
         {
-          "type": "text",
-          "style": "body",
+          "type": "exercise",
+          "role": "content",
           "text": {
             "sourceLanguage": "en",
             "sourceText": "Tumbang Preso means “fallen prisoner,” and most Filipino children play this easy game. To play, you need at least 3 participants and a can. Here again, one of the players is “it” and will act as the defender of the can, while the other players try to knock it down without being tagged. Those players can only be tagged while the can has not been knocked down. If they succeed in knocking it down and then are tagged, the tag doesn’t count. Players usually use slippers or flip-flops (tsinelas) when playing Tumbang Preso, but they are allowed no more than two slippers as their weapons. When all the players have used up all their slippers without knocking down the can, the “it” player can chase everyone and tag the one he/she wishes to make the new “it” player. During the chase, other players can knock the can down with their feet or a slipper but cannot touch the can.",
             "id": "Tumbang Preso berarti \"tahanan jatuh\", dan kebanyakan anak-anak Filipina memainkan permainan mudah ini. untuk bermain, Anda perlu setidaknya 3 peserta dan kaleng. Jika mereka berhasil mengetuk ke bawah dan kemudian ditandai, tag tidak masuk hitungan. Pemain biasanya menggunakan sandal atau sandal flip- (tsinelas) ketika bermain Tumbang Preso, tetapi mereka diperbolehkan tidak lebih dari dua sandal sebagai senjata mereka. Ketika semua pemain telah menggunakan semua sandal mereka tanpa mengetuk ke bawah kaleng, pemain \"itu\" dapat mengejar semua orang dan menandai salah satu he / dia ingin membuat pemain baru \"itu\". Selama pengejaran, pemain lain dapat mengetuk bisa turun dengan kaki mereka atau sepatu tetapi tidak bisa menyentuh kaleng."
           }
         }
-      ]
+      ],
+      "id": "lesson-03-07-activity-3"
     },
     {
-      "id": "lesson-03-grammar",
-      "type": "GRAMMAR",
+      "type": "LEARNING_MATERIAL",
       "title": {
         "sourceLanguage": "mixed",
-        "sourceText": "Grammar",
-        "id": "Tata Bahasa"
+        "sourceText": "Definition of Terms",
+        "id": "Definisi Istilah"
       },
       "blocks": [
-        {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "mixed",
-            "sourceText": "Grammar",
-            "id": "Tata Bahasa"
-          }
-        },
-        {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "mixed",
-            "sourceText": "Definition of Terms",
-            "id": "Definisi Istilah"
-          }
-        },
         {
           "type": "table",
           "rows": [
@@ -2106,17 +1844,20 @@
                 }
               ]
             }
-          ]
-        },
-        {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "mixed",
-            "sourceText": "Examining Form",
-            "id": "Mengkaji Bentuk"
-          }
-        },
+          ],
+          "role": "reference"
+        }
+      ],
+      "id": "lesson-03-08-definition-of-terms"
+    },
+    {
+      "type": "LEARNING_MATERIAL",
+      "title": {
+        "sourceLanguage": "mixed",
+        "sourceText": "Examining Form",
+        "id": "Menganalisis Bentuk"
+      },
+      "blocks": [
         {
           "type": "text",
           "style": "body",
@@ -2207,7 +1948,8 @@
                 }
               ]
             }
-          ]
+          ],
+          "role": "reference"
         },
         {
           "type": "text",
@@ -2226,16 +1968,18 @@
             "sourceText": "b. Look for the words ng and ang in the sentences. When do you use ng? When do you use ang?",
             "id": "b. Cari kata-kata ng dan ang dalam kalian. kapan kau menggunakan ng? kapan kau menggunakan ang?"
           }
-        },
-        {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "en",
-            "sourceText": "I. Pseudo-Verbs and Ng Markers and Pronouns",
-            "id": "I. Pseudo- Verbs dan Ng Markers dan Pronouns"
-          }
-        },
+        }
+      ],
+      "id": "lesson-03-09-examining-form"
+    },
+    {
+      "type": "LEARNING_MATERIAL",
+      "title": {
+        "sourceLanguage": "en",
+        "sourceText": "I. Pseudo-Verbs and Ng Markers and Pronouns",
+        "id": "I. Pseudo- Verbs dan Ng Penanda dan Kata ganti"
+      },
+      "blocks": [
         {
           "type": "text",
           "style": "body",
@@ -2282,7 +2026,8 @@
                 {
                   "sourceLanguage": "en",
                   "sourceText": "Ng mga + Noun(s)\n\nmarks two or more common nouns and more than one proper name of a place or a thing",
-                  "id": "Ng mga + Noun tandai dua atau lebih kata benda umum dan lebih dari satu nama yang tepat dari sebuah tempat atau sesuatu"
+                  "id": "Ng mga + Noun tandai dua atau lebih kata benda umum dan lebih dari satu nama yang tepat dari sebuah tempat atau sesuatu",
+                  "tagalog": "Ng mga + Noun(s) Noun(s)"
                 },
                 {
                   "sourceLanguage": "fil",
@@ -2297,7 +2042,8 @@
                 {
                   "sourceLanguage": "en",
                   "sourceText": "Ni + Name of a person/animal\n\nmarks the name of a specific singular person or an animal",
-                  "id": "Ni + Nama dari orang / binatang menandai nama orang tertentu tunggal atau binatang"
+                  "id": "Ni + Nama dari orang / binatang menandai nama orang tertentu tunggal atau binatang",
+                  "tagalog": "Ni + Name of a person/animal Name of a person/animal"
                 },
                 {
                   "sourceLanguage": "fil",
@@ -2312,16 +2058,19 @@
                 {
                   "sourceLanguage": "en",
                   "sourceText": "Nina + Name(s) of people/animals\n\nmarks the name of one or more specific persons or animals",
-                  "id": "Nina + Nama dari manusia / hewan menandai nama dari satu atau lebih orang tertentu atau hewan"
+                  "id": "Nina + Nama dari manusia / hewan menandai nama dari satu atau lebih orang tertentu atau hewan",
+                  "tagalog": "Nina + Name(s) of people/animals Name(s) of people/animals"
                 },
                 {
                   "sourceLanguage": "en",
                   "sourceText": "Nina Mike at Roxy Mike and Roxy\n\nNina Mike Mike and others",
-                  "id": "Nina Mike di Roxy Mike dan Roxy Nina Mike Mike dan yang lainnya"
+                  "id": "Nina Mike di Roxy Mike dan Roxy Nina Mike Mike dan yang lainnya",
+                  "tagalog": "Nina Mike at Roxy Nina Mike"
                 }
               ]
             }
-          ]
+          ],
+          "role": "reference"
         },
         {
           "type": "table",
@@ -2412,17 +2161,20 @@
                 }
               ]
             }
-          ]
-        },
-        {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "mixed",
-            "sourceText": "Grammar Presentation",
-            "id": "Penyajian Tata Bahasa"
-          }
-        },
+          ],
+          "role": "reference"
+        }
+      ],
+      "id": "lesson-03-10-i-pseudo-verbs-and-ng-markers-and-pronouns"
+    },
+    {
+      "type": "LEARNING_MATERIAL",
+      "title": {
+        "sourceLanguage": "mixed",
+        "sourceText": "Grammar Presentation",
+        "id": "Penyajian Tata Bahasa"
+      },
+      "blocks": [
         {
           "type": "text",
           "style": "body",
@@ -2545,56 +2297,64 @@
                 }
               ]
             }
+          ],
+          "role": "reference"
+        }
+      ],
+      "id": "lesson-03-11-grammar-presentation"
+    },
+    {
+      "type": "EXAMPLES",
+      "title": {
+        "sourceLanguage": "mixed",
+        "sourceText": "EXAMPLES:",
+        "id": "Contoh"
+      },
+      "blocks": [
+        {
+          "type": "example",
+          "items": [
+            {
+              "sourceLanguage": "fil",
+              "sourceText": "Gusto ko ng boksing. I like boxing.",
+              "id": "Aku ingin tinju.",
+              "tagalog": "Gusto ko ng boksing. I like boxing."
+            }
           ]
         },
         {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "mixed",
-            "sourceText": "EXAMPLES:",
-            "id": "EXAMPLES:"
-          }
+          "type": "example",
+          "items": [
+            {
+              "sourceLanguage": "fil",
+              "sourceText": "Gusto ba ni Mark ng boksing? Does Mark like boxing?",
+              "id": "Apa Mark suka tinju?",
+              "tagalog": "Gusto ba ni Mark ng boksing? Does Mark like boxing?"
+            }
+          ]
         },
         {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "fil",
-            "sourceText": "Gusto ko ng boksing. I like boxing.",
-            "id": "Aku ingin tinju.",
-            "tagalog": "Gusto ko ng boksing. I like boxing."
-          }
-        },
-        {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "fil",
-            "sourceText": "Gusto ba ni Mark ng boksing? Does Mark like boxing?",
-            "id": "Apa Mark suka tinju?",
-            "tagalog": "Gusto ba ni Mark ng boksing? Does Mark like boxing?"
-          }
-        },
-        {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "fil",
-            "sourceText": "Ayaw ni Maria ng bilyar. Maria does not like billiards.",
-            "id": "Maria tak suka billar. / Maria tak suka biliar roti.",
-            "tagalog": "Ayaw ni Maria ng bilyar. Maria does not like billiards."
-          }
-        },
-        {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "mixed",
-            "sourceText": "Grammar Notes",
-            "id": "Catatan Tata Bahasa"
-          }
-        },
+          "type": "example",
+          "items": [
+            {
+              "sourceLanguage": "fil",
+              "sourceText": "Ayaw ni Maria ng bilyar. Maria does not like billiards.",
+              "id": "Maria tak suka billar. / Maria tak suka biliar roti.",
+              "tagalog": "Ayaw ni Maria ng bilyar. Maria does not like billiards."
+            }
+          ]
+        }
+      ],
+      "id": "lesson-03-12-examples"
+    },
+    {
+      "type": "LEARNING_MATERIAL",
+      "title": {
+        "sourceLanguage": "mixed",
+        "sourceText": "Grammar Notes",
+        "id": "Catatan Tata Bahasa"
+      },
+      "blocks": [
         {
           "type": "table",
           "rows": [
@@ -2623,7 +2383,8 @@
                 {
                   "sourceLanguage": "en",
                   "sourceText": "3. At (and) is used to connect two or more nouns and/or adjectives.\n\nGusto ko ng boling at arnis. I like bowling and arnis.\n\nGusto ko si Manny Pacquiao kasi magaling at mabilis siya. I like Manny Pacquiao because he is good (vigorous/skilled) and fast.",
-                  "id": "3. / dan) digunakan untuk menghubungkan dua kata benda dan / atau kata sifat. Gusto ko ng boling at arnis. Aku suka bowling dan arnis. Gusto ko si Manny Pacquiao kasi magling at mabilis siya. aku suka Manny Pacquiao karena dia bagus (kuat / terampil) dan cepat."
+                  "id": "3. / dan) digunakan untuk menghubungkan dua kata benda dan / atau kata sifat. Gusto ko ng boling at arnis. Aku suka bowling dan arnis. Gusto ko si Manny Pacquiao kasi magling at mabilis siya. aku suka Manny Pacquiao karena dia bagus (kuat / terampil) dan cepat.",
+                  "tagalog": "At Gusto ko ng boling at arnis. si Manny Pacquiao kasi magaling magaling at mabilis siya. mabilis"
                 }
               ]
             },
@@ -2632,21 +2393,25 @@
                 {
                   "sourceLanguage": "en",
                   "sourceText": "4. Kasi is used to express a reason, similar to English because.\n\nGusto ko siya kasi matalino siya. I like her/him because she/he is smart.",
-                  "id": "Kasi digunakan untuk mengungkapkan alasan, mirip dengan bahasa Inggris karena. Gusto ko siya kasi matalino siya. aku suka dia / dia karena dia / dia pintar."
+                  "id": "Kasi digunakan untuk mengungkapkan alasan, mirip dengan bahasa Inggris karena. Gusto ko siya kasi matalino siya. aku suka dia / dia karena dia / dia pintar.",
+                  "tagalog": "Kasi Gusto ko siya kasi matalino siya."
                 }
               ]
             }
-          ]
-        },
-        {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "mixed",
-            "sourceText": "Grammar Presentation",
-            "id": "Penyajian Tata Bahasa"
-          }
-        },
+          ],
+          "role": "reference"
+        }
+      ],
+      "id": "lesson-03-13-grammar-notes"
+    },
+    {
+      "type": "LEARNING_MATERIAL",
+      "title": {
+        "sourceLanguage": "mixed",
+        "sourceText": "Grammar Presentation",
+        "id": "Penyajian Tata Bahasa"
+      },
+      "blocks": [
         {
           "type": "text",
           "style": "body",
@@ -2799,75 +2564,86 @@
                 }
               ]
             }
+          ],
+          "role": "reference"
+        }
+      ],
+      "id": "lesson-03-14-grammar-presentation-2"
+    },
+    {
+      "type": "EXAMPLES",
+      "title": {
+        "sourceLanguage": "mixed",
+        "sourceText": "EXAMPLES:",
+        "id": "Contoh"
+      },
+      "blocks": [
+        {
+          "type": "example",
+          "items": [
+            {
+              "sourceLanguage": "fil",
+              "sourceText": "Gusto ko siya. I like her/him.",
+              "id": "Aku menyukainya.",
+              "tagalog": "Gusto ko siya. I like her/him."
+            }
           ]
         },
         {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "mixed",
-            "sourceText": "EXAMPLES:",
-            "id": "EXAMPLES:"
-          }
+          "type": "example",
+          "items": [
+            {
+              "sourceLanguage": "fil",
+              "sourceText": "Gusto ba niya ako? Does she/he like me?",
+              "id": "Apakah dia menyukaiku?",
+              "tagalog": "Gusto ba niya ako? Does she/he like me?"
+            }
+          ]
         },
         {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "fil",
-            "sourceText": "Gusto ko siya. I like her/him.",
-            "id": "Aku menyukainya.",
-            "tagalog": "Gusto ko siya. I like her/him."
-          }
+          "type": "example",
+          "items": [
+            {
+              "sourceLanguage": "en",
+              "sourceText": "Gusto kita I like you.",
+              "id": "Gusto kami, aku menyukaimu.",
+              "tagalog": "Gusto kita"
+            }
+          ]
         },
         {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "fil",
-            "sourceText": "Gusto ba niya ako? Does she/he like me?",
-            "id": "Apakah dia menyukaiku?",
-            "tagalog": "Gusto ba niya ako? Does she/he like me?"
-          }
+          "type": "example",
+          "items": [
+            {
+              "sourceLanguage": "mixed",
+              "sourceText": "Ayaw nila siya. They don’t like him/her.",
+              "id": "Ayaw nila siya.",
+              "tagalog": "Ayaw nila siya."
+            }
+          ]
         },
         {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "en",
-            "sourceText": "Gusto kita I like you.",
-            "id": "Gusto kami, aku menyukaimu."
-          }
-        },
-        {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "mixed",
-            "sourceText": "Ayaw nila siya. They don’t like him/her.",
-            "id": "Ayaw nila siya.",
-            "tagalog": "Ayaw nila siya."
-          }
-        },
-        {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "mixed",
-            "sourceText": "Ayaw sila ng bata. The child does not like them.",
-            "id": "Ayaw sila ng bata.",
-            "tagalog": "Ayaw sila ng bata."
-          }
-        },
-        {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "mixed",
-            "sourceText": "Grammar Notes",
-            "id": "Catatan Tata Bahasa"
-          }
-        },
+          "type": "example",
+          "items": [
+            {
+              "sourceLanguage": "mixed",
+              "sourceText": "Ayaw sila ng bata. The child does not like them.",
+              "id": "Ayaw sila ng bata.",
+              "tagalog": "Ayaw sila ng bata."
+            }
+          ]
+        }
+      ],
+      "id": "lesson-03-15-examples-2"
+    },
+    {
+      "type": "LEARNING_MATERIAL",
+      "title": {
+        "sourceLanguage": "mixed",
+        "sourceText": "Grammar Notes",
+        "id": "Catatan Tata Bahasa"
+      },
+      "blocks": [
         {
           "type": "table",
           "rows": [
@@ -2889,40 +2665,23 @@
                 }
               ]
             }
-          ]
+          ],
+          "role": "reference"
         }
-      ]
+      ],
+      "id": "lesson-03-16-grammar-notes-2"
     },
     {
-      "id": "lesson-03-practice",
-      "type": "PRACTICE",
+      "type": "EXERCISES",
       "title": {
-        "sourceLanguage": "mixed",
-        "sourceText": "Practice",
-        "id": "Latihan"
+        "sourceLanguage": "en",
+        "sourceText": "I. Speaking Practice",
+        "id": "I. Latihan Berbicara"
       },
       "blocks": [
         {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "mixed",
-            "sourceText": "Practice",
-            "id": "Latihan"
-          }
-        },
-        {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "en",
-            "sourceText": "I. Speaking Practice",
-            "id": "I. Latihan Berbicara"
-          }
-        },
-        {
-          "type": "text",
-          "style": "body",
+          "type": "exercise",
+          "role": "content",
           "text": {
             "sourceLanguage": "en",
             "sourceText": "Referring to the table below, describe what each person likes and dislikes.",
@@ -2930,8 +2689,8 @@
           }
         },
         {
-          "type": "text",
-          "style": "body",
+          "type": "exercise",
+          "role": "content",
           "text": {
             "sourceLanguage": "mixed",
             "sourceText": "EXAMPLES:",
@@ -2939,8 +2698,8 @@
           }
         },
         {
-          "type": "text",
-          "style": "body",
+          "type": "exercise",
+          "role": "content",
           "text": {
             "sourceLanguage": "fil",
             "sourceText": "Gusto nila ng beysbol at baraha.",
@@ -2949,8 +2708,8 @@
           }
         },
         {
-          "type": "text",
-          "style": "body",
+          "type": "exercise",
+          "role": "content",
           "text": {
             "sourceLanguage": "fil",
             "sourceText": "Gusto nila si Babe Ruth.",
@@ -2959,7 +2718,8 @@
           }
         },
         {
-          "type": "table",
+          "type": "exercise",
+          "role": "worksheet",
           "rows": [
             {
               "cells": [
@@ -3117,19 +2877,21 @@
               ]
             }
           ]
-        },
+        }
+      ],
+      "id": "lesson-03-17-i-speaking-practice"
+    },
+    {
+      "type": "EXERCISES",
+      "title": {
+        "sourceLanguage": "mixed",
+        "sourceText": "II. Reading Practice",
+        "id": "II. Latihan Membaca"
+      },
+      "blocks": [
         {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "mixed",
-            "sourceText": "II. Reading Practice",
-            "id": "II. Latihan Membaca"
-          }
-        },
-        {
-          "type": "text",
-          "style": "body",
+          "type": "exercise",
+          "role": "content",
           "text": {
             "sourceLanguage": "en",
             "sourceText": "The messages below are from four different people. Read them and test your understanding by answering the comprehension questions.",
@@ -3141,8 +2903,8 @@
           "path": "assets/70.jpg"
         },
         {
-          "type": "text",
-          "style": "body",
+          "type": "exercise",
+          "role": "content",
           "text": {
             "sourceLanguage": "mixed",
             "sourceText": "Message 1",
@@ -3150,8 +2912,8 @@
           }
         },
         {
-          "type": "text",
-          "style": "body",
+          "type": "exercise",
+          "role": "question",
           "text": {
             "sourceLanguage": "fil",
             "sourceText": "Kumusta kayo? Ako si Mei. Taga-Taiwan ako. Ngayon, estudyante ako sa Unibersidad ng Centro Escolar. Ingles ang kurso ko. Nakatira ako sa Maynila malapit sa unibersidad. Gusto ko ng beysbol at bilyar. Si Ichiro Suzuki ang paborito ko.",
@@ -3160,8 +2922,8 @@
           }
         },
         {
-          "type": "text",
-          "style": "body",
+          "type": "exercise",
+          "role": "content",
           "text": {
             "sourceLanguage": "mixed",
             "sourceText": "Message 2",
@@ -3169,8 +2931,8 @@
           }
         },
         {
-          "type": "text",
-          "style": "body",
+          "type": "exercise",
+          "role": "question",
           "text": {
             "sourceLanguage": "fil",
             "sourceText": "Ano na? Ako si Carlos. Taga-Baguio ako. Estudyante ako sa Unibersidad ng Pilipinas. Literatura ang kurso ko. Gusto ko ng mga libro at ayaw ko ng mga laro.",
@@ -3179,8 +2941,8 @@
           }
         },
         {
-          "type": "text",
-          "style": "body",
+          "type": "exercise",
+          "role": "content",
           "text": {
             "sourceLanguage": "mixed",
             "sourceText": "Message 3",
@@ -3188,8 +2950,8 @@
           }
         },
         {
-          "type": "text",
-          "style": "body",
+          "type": "exercise",
+          "role": "content",
           "text": {
             "sourceLanguage": "fil",
             "sourceText": "Magandang umaga! Ako si Tanya. Taga-Espanya ako. Medisina ang kurso ko at nag-aaral ako sa Unibersidad ng Santo Tomas. Gusto ko ng mga musika at libro.",
@@ -3198,8 +2960,8 @@
           }
         },
         {
-          "type": "text",
-          "style": "body",
+          "type": "exercise",
+          "role": "content",
           "text": {
             "sourceLanguage": "mixed",
             "sourceText": "Message 4",
@@ -3207,27 +2969,29 @@
           }
         },
         {
-          "type": "text",
-          "style": "body",
+          "type": "exercise",
+          "role": "question",
           "text": {
             "sourceLanguage": "fil",
             "sourceText": "Kumusta na? Si Joaquin ito. Taga-Mindanao ako. Nag-aaral ako sa Kolehiyo ng San Beda ng abogasiya. Gusto ko ng mga isports. Gusto ko ang bilyar at basketbol.",
             "id": "sekarang apa? Joaquin ini aku akan pergi kesekolah aku belajar di sekolah San Beda aku suka olahraga aku suka bowler dan basket.",
             "tagalog": "Kumusta na? Si Joaquin ito. Taga-Mindanao ako. Nag-aaral ako sa Kolehiyo ng San Beda ng abogasiya. Gusto ko ng mga isports. Gusto ko ang bilyar at basketbol."
           }
-        },
+        }
+      ],
+      "id": "lesson-03-18-ii-reading-practice"
+    },
+    {
+      "type": "EXERCISES",
+      "title": {
+        "sourceLanguage": "mixed",
+        "sourceText": "Reading Comprehension",
+        "id": "Pemahaman Bacaan"
+      },
+      "blocks": [
         {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "mixed",
-            "sourceText": "Reading Comprehension",
-            "id": "Pemahaman Bacaan"
-          }
-        },
-        {
-          "type": "text",
-          "style": "body",
+          "type": "exercise",
+          "role": "instruction",
           "text": {
             "sourceLanguage": "en",
             "sourceText": "Fill in the blanks with the correct information according to the four messages above.",
@@ -3236,6 +3000,7 @@
         },
         {
           "type": "table",
+          "role": "dialogue-context",
           "rows": [
             {
               "cells": [
@@ -3250,105 +3015,109 @@
                   "id": "Pesan 2"
                 }
               ]
+            }
+          ]
+        },
+        {
+          "type": "dialogue",
+          "turns": [
+            {
+              "speaker": "Name",
+              "speakerText": {
+                "sourceLanguage": "mixed",
+                "sourceText": "Name:",
+                "id": "Nama:"
+              },
+              "text": {
+                "sourceLanguage": "mixed",
+                "sourceText": "Name:",
+                "id": "Nama:"
+              }
             },
             {
-              "cells": [
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "Name:",
-                  "id": "Nama:"
-                },
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "Name:",
-                  "id": "Nama:"
-                }
-              ]
+              "speaker": "School",
+              "speakerText": {
+                "sourceLanguage": "mixed",
+                "sourceText": "School:",
+                "id": "Sekolah:"
+              },
+              "text": {
+                "sourceLanguage": "mixed",
+                "sourceText": "School:",
+                "id": "Sekolah:"
+              }
             },
             {
-              "cells": [
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "School:",
-                  "id": "Sekolah:"
-                },
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "School:",
-                  "id": "Sekolah:"
-                }
-              ]
+              "speaker": "Major",
+              "speakerText": {
+                "sourceLanguage": "mixed",
+                "sourceText": "Major:",
+                "id": "Mayor:"
+              },
+              "text": {
+                "sourceLanguage": "mixed",
+                "sourceText": "Major:",
+                "id": "Mayor:"
+              }
             },
             {
-              "cells": [
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "Major:",
-                  "id": "Mayor:"
-                },
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "Major:",
-                  "id": "Mayor:"
-                }
-              ]
+              "speaker": "Hometown",
+              "speakerText": {
+                "sourceLanguage": "mixed",
+                "sourceText": "Hometown:",
+                "id": "Hometown:"
+              },
+              "text": {
+                "sourceLanguage": "mixed",
+                "sourceText": "Hometown:",
+                "id": "Hometown:"
+              }
             },
             {
-              "cells": [
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "Hometown:",
-                  "id": "Hometown:"
-                },
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "Hometown:",
-                  "id": "Hometown:"
-                }
-              ]
+              "speaker": "Residence",
+              "speakerText": {
+                "sourceLanguage": "mixed",
+                "sourceText": "Residence:",
+                "id": "Residence:"
+              },
+              "text": {
+                "sourceLanguage": "mixed",
+                "sourceText": "Residence:",
+                "id": "Residence:"
+              }
             },
             {
-              "cells": [
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "Residence:",
-                  "id": "Residence:"
-                },
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "Residence:",
-                  "id": "Residence:"
-                }
-              ]
+              "speaker": "Likes",
+              "speakerText": {
+                "sourceLanguage": "mixed",
+                "sourceText": "Likes:",
+                "id": "Suka:"
+              },
+              "text": {
+                "sourceLanguage": "mixed",
+                "sourceText": "Likes:",
+                "id": "Suka:"
+              }
             },
             {
-              "cells": [
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "Likes:",
-                  "id": "Suka:"
-                },
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "Likes:",
-                  "id": "Suka:"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "Dislikes:",
-                  "id": "Tidak suka:"
-                },
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "Dislikes:",
-                  "id": "Tidak suka:"
-                }
-              ]
-            },
+              "speaker": "Dislikes",
+              "speakerText": {
+                "sourceLanguage": "mixed",
+                "sourceText": "Dislikes:",
+                "id": "Tidak suka:"
+              },
+              "text": {
+                "sourceLanguage": "mixed",
+                "sourceText": "Dislikes:",
+                "id": "Tidak suka:"
+              }
+            }
+          ]
+        },
+        {
+          "type": "table",
+          "role": "dialogue-context",
+          "rows": [
             {
               "cells": [
                 {
@@ -3362,119 +3131,119 @@
                   "id": "Pesan 4"
                 }
               ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "Name:",
-                  "id": "Nama:"
-                },
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "Name:",
-                  "id": "Nama:"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "School:",
-                  "id": "Sekolah:"
-                },
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "School:",
-                  "id": "Sekolah:"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "Major:",
-                  "id": "Mayor:"
-                },
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "Major:",
-                  "id": "Mayor:"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "Hometown:",
-                  "id": "Hometown:"
-                },
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "Hometown:",
-                  "id": "Hometown:"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "Residence:",
-                  "id": "Residence:"
-                },
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "Residence:",
-                  "id": "Residence:"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "Likes:",
-                  "id": "Suka:"
-                },
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "Likes:",
-                  "id": "Suka:"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "Dislikes:",
-                  "id": "Tidak suka:"
-                },
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "Dislikes:",
-                  "id": "Tidak suka:"
-                }
-              ]
             }
           ]
         },
         {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "mixed",
-            "sourceText": "III. Writing Practice",
-            "id": "III. Latihan Menulis"
-          }
-        },
+          "type": "dialogue",
+          "turns": [
+            {
+              "speaker": "Name",
+              "speakerText": {
+                "sourceLanguage": "mixed",
+                "sourceText": "Name:",
+                "id": "Nama:"
+              },
+              "text": {
+                "sourceLanguage": "mixed",
+                "sourceText": "Name:",
+                "id": "Nama:"
+              }
+            },
+            {
+              "speaker": "School",
+              "speakerText": {
+                "sourceLanguage": "mixed",
+                "sourceText": "School:",
+                "id": "Sekolah:"
+              },
+              "text": {
+                "sourceLanguage": "mixed",
+                "sourceText": "School:",
+                "id": "Sekolah:"
+              }
+            },
+            {
+              "speaker": "Major",
+              "speakerText": {
+                "sourceLanguage": "mixed",
+                "sourceText": "Major:",
+                "id": "Mayor:"
+              },
+              "text": {
+                "sourceLanguage": "mixed",
+                "sourceText": "Major:",
+                "id": "Mayor:"
+              }
+            },
+            {
+              "speaker": "Hometown",
+              "speakerText": {
+                "sourceLanguage": "mixed",
+                "sourceText": "Hometown:",
+                "id": "Hometown:"
+              },
+              "text": {
+                "sourceLanguage": "mixed",
+                "sourceText": "Hometown:",
+                "id": "Hometown:"
+              }
+            },
+            {
+              "speaker": "Residence",
+              "speakerText": {
+                "sourceLanguage": "mixed",
+                "sourceText": "Residence:",
+                "id": "Residence:"
+              },
+              "text": {
+                "sourceLanguage": "mixed",
+                "sourceText": "Residence:",
+                "id": "Residence:"
+              }
+            },
+            {
+              "speaker": "Likes",
+              "speakerText": {
+                "sourceLanguage": "mixed",
+                "sourceText": "Likes:",
+                "id": "Suka:"
+              },
+              "text": {
+                "sourceLanguage": "mixed",
+                "sourceText": "Likes:",
+                "id": "Suka:"
+              }
+            },
+            {
+              "speaker": "Dislikes",
+              "speakerText": {
+                "sourceLanguage": "mixed",
+                "sourceText": "Dislikes:",
+                "id": "Tidak suka:"
+              },
+              "text": {
+                "sourceLanguage": "mixed",
+                "sourceText": "Dislikes:",
+                "id": "Tidak suka:"
+              }
+            }
+          ]
+        }
+      ],
+      "id": "lesson-03-19-reading-comprehension"
+    },
+    {
+      "type": "EXERCISES",
+      "title": {
+        "sourceLanguage": "mixed",
+        "sourceText": "III. Writing Practice",
+        "id": "III. Latihan Menulis"
+      },
+      "blocks": [
         {
-          "type": "text",
-          "style": "body",
+          "type": "exercise",
+          "role": "content",
           "text": {
             "sourceLanguage": "en",
             "sourceText": "Select one person from the reading practice and write him/her a message to introduce yourself.",
@@ -3486,71 +3255,8 @@
           "path": "assets/71.jpg"
         },
         {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "mixed",
-            "sourceText": "_________________________________",
-            "id": "_________________________________"
-          }
-        },
-        {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "mixed",
-            "sourceText": "_________________________________",
-            "id": "_________________________________"
-          }
-        },
-        {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "mixed",
-            "sourceText": "_________________________________",
-            "id": "_________________________________"
-          }
-        },
-        {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "mixed",
-            "sourceText": "_________________________________",
-            "id": "_________________________________"
-          }
-        },
-        {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "mixed",
-            "sourceText": "_________________________________",
-            "id": "_________________________________"
-          }
-        },
-        {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "mixed",
-            "sourceText": "_________________________________",
-            "id": "_________________________________"
-          }
-        },
-        {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "mixed",
-            "sourceText": "_________________________________",
-            "id": "_________________________________"
-          }
-        },
-        {
-          "type": "text",
-          "style": "body",
+          "type": "exercise",
+          "role": "content",
           "text": {
             "sourceLanguage": "en",
             "sourceText": "To Download the audio files, please click here.",
@@ -3560,19 +3266,21 @@
         {
           "type": "image",
           "path": "assets/cd.jpg"
-        },
+        }
+      ],
+      "id": "lesson-03-20-iii-writing-practice"
+    },
+    {
+      "type": "EXERCISES",
+      "title": {
+        "sourceLanguage": "mixed",
+        "sourceText": "IV. Listening Practice",
+        "id": "IV. Latihan Menyimak"
+      },
+      "blocks": [
         {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "mixed",
-            "sourceText": "IV. Listening Practice",
-            "id": "IV. Latihan Menyimak"
-          }
-        },
-        {
-          "type": "text",
-          "style": "body",
+          "type": "exercise",
+          "role": "instruction",
           "text": {
             "sourceLanguage": "en",
             "sourceText": "Using the Bonus Material of the book, listen to audio file (03–2) and complete the chart below.",
@@ -3580,7 +3288,8 @@
           }
         },
         {
-          "type": "table",
+          "type": "exercise",
+          "role": "worksheet",
           "rows": [
             {
               "cells": [
@@ -3694,7 +3403,34 @@
             }
           ]
         }
-      ]
+      ],
+      "id": "lesson-03-21-iv-listening-practice"
     }
-  ]
+  ],
+  "structureVersion": 2,
+  "contentAudit": {
+    "sourceTextItemsBefore": 457,
+    "sourceTextItemsAfter": 441,
+    "uniqueSourceItemsPreserved": 333,
+    "duplicateHeadingsRemoved": 4,
+    "blankFragmentsRemoved": 7,
+    "sectionTypes": {
+      "DIALOGUE": 1,
+      "EXAMPLES": 2,
+      "EXERCISES": 9,
+      "INTRODUCTION": 1,
+      "LEARNING_MATERIAL": 7,
+      "VOCABULARY": 1
+    },
+    "blockTypes": {
+      "dialogue": 5,
+      "example": 8,
+      "exercise": 33,
+      "image": 5,
+      "list": 2,
+      "table": 11,
+      "text": 11,
+      "vocabulary": 6
+    }
+  }
 }
