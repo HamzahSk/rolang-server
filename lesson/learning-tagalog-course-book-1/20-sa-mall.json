@@ -1,0 +1,2568 @@
+{
+  "schemaVersion": 1,
+  "structureVersion": 2,
+  "id": "learning-tagalog-course-book-1-lesson-20",
+  "courseId": "learning-tagalog-course-book-1",
+  "unitId": "course-book-1-unit-05-travel-and-daily-needs",
+  "order": 20,
+  "level": "BEGINNER",
+  "title": {
+    "id": "Di mal",
+    "fil": "Sa mall"
+  },
+  "summary": {
+    "id": "Julius dan Mia sedang berbelanja di mal.",
+    "fil": "Sa mall"
+  },
+  "objectives": [
+    {
+      "sourceLanguage": "mixed",
+      "sourceText": "Chapter 20 · Story A",
+      "id": "Memahami dialog utama Bab 20 tentang di mal."
+    },
+    {
+      "sourceLanguage": "mixed",
+      "sourceText": "Literal and natural translations",
+      "id": "Membandingkan susunan Tagalog dengan glosa harfiah dan terjemahan alami dari sumber."
+    },
+    {
+      "sourceLanguage": "mixed",
+      "sourceText": "Drills",
+      "id": "Melatih kembali pola dan ungkapan pada bagian Drills."
+    }
+  ],
+  "source": {
+    "book": "Learning Tagalog - Fluency Made Fast and Easy - Course Book 1",
+    "file": "Learning Tagalog - Fluency Made Fast and Easy - Course Book 1.pdf",
+    "pdfSha256": "52e9f464239c2ae98248a452edfbf1f58eb01bec69374a16d5205e70afa80f58",
+    "chapter": 20,
+    "pages": {
+      "start": 498,
+      "end": 521
+    },
+    "drillsDividerPage": 511,
+    "recapPage": 521
+  },
+  "sourceLinks": [],
+  "assets": [
+    "assets/20-sa-mall.jpg"
+  ],
+  "sections": [
+    {
+      "id": "introduction",
+      "type": "INTRODUCTION",
+      "title": {
+        "sourceLanguage": "mixed",
+        "sourceText": "In the mall",
+        "id": "Di mal"
+      },
+      "blocks": [
+        {
+          "type": "image",
+          "path": "assets/20-sa-mall.jpg",
+          "sourcePage": 498
+        },
+        {
+          "type": "text",
+          "style": "heading",
+          "text": {
+            "sourceLanguage": "en",
+            "sourceText": "In the mall",
+            "id": "Di mal"
+          }
+        }
+      ]
+    },
+    {
+      "id": "learning-material",
+      "type": "LEARNING_MATERIAL",
+      "title": {
+        "sourceLanguage": "mixed",
+        "sourceText": "Chapter context",
+        "id": "Konteks bab"
+      },
+      "blocks": [
+        {
+          "type": "text",
+          "style": "body",
+          "sourcePage": 498,
+          "text": {
+            "sourceLanguage": "en",
+            "sourceText": "Julius and Mia are shopping at a mall.",
+            "id": "Julius dan Mia sedang berbelanja di mal."
+          }
+        },
+        {
+          "type": "text",
+          "style": "body",
+          "sourcePage": 520,
+          "sourceLabel": "B 09",
+          "links": [],
+          "text": {
+            "sourceLanguage": "en",
+            "sourceText": "Congratulations for reaching the end of Lesson 20! In the next 20 lessons, we'll focus on the verbs.",
+            "id": "B 09 · halaman PDF 520\n\nSelamat telah mencapai akhir Pelajaran 20! Dalam 20 pelajaran berikutnya, kita akan fokus pada kata kerja."
+          }
+        },
+        {
+          "type": "text",
+          "style": "body",
+          "sourcePage": 520,
+          "sourceLabel": "B 09",
+          "links": [],
+          "text": {
+            "sourceLanguage": "en",
+            "sourceText": "Before moving on to Lesson 21, it would be a good idea to first review Lessons 11–15.",
+            "id": "B 09 · halaman PDF 520\n\nSebelum melanjutkan ke Pelajaran 21, ada baiknya Anda meninjau kembali Pelajaran 11–15 terlebih dahulu."
+          }
+        }
+      ]
+    },
+    {
+      "id": "dialogue",
+      "type": "DIALOGUE",
+      "title": {
+        "sourceLanguage": "mixed",
+        "sourceText": "Story A",
+        "id": "Dialog utama (Bagian A)"
+      },
+      "blocks": [
+        {
+          "type": "dialogue",
+          "turns": [
+            {
+              "speaker": "A 01",
+              "speakerText": {
+                "sourceLanguage": "mixed",
+                "sourceText": "A 01",
+                "id": "Bagian A 01"
+              },
+              "text": {
+                "sourceLanguage": "fil",
+                "sourceText": "Sa mall",
+                "id": "Di mal",
+                "tagalog": "Sa mall"
+              },
+              "sourcePage": 499
+            },
+            {
+              "speaker": "A 02",
+              "speakerText": {
+                "sourceLanguage": "mixed",
+                "sourceText": "A 02",
+                "id": "Bagian A 02"
+              },
+              "text": {
+                "sourceLanguage": "fil",
+                "sourceText": "Kailangan kong bumili ng tela.",
+                "id": "Saya perlu membeli kain.",
+                "tagalog": "Kailangan kong bumili ng tela."
+              },
+              "sourcePage": 500
+            },
+            {
+              "speaker": "A 03",
+              "speakerText": {
+                "sourceLanguage": "mixed",
+                "sourceText": "A 03",
+                "id": "Bagian A 03"
+              },
+              "text": {
+                "sourceLanguage": "fil",
+                "sourceText": "Anong klaseng tela?",
+                "id": "Jenis kain apa?",
+                "tagalog": "Anong klaseng tela?"
+              },
+              "sourcePage": 501
+            },
+            {
+              "speaker": "A 04",
+              "speakerText": {
+                "sourceLanguage": "mixed",
+                "sourceText": "A 04",
+                "id": "Bagian A 04"
+              },
+              "text": {
+                "sourceLanguage": "fil",
+                "sourceText": "Katsa lang. Para sa project ko.",
+                "id": "Hanya kain muslin. Ini untuk proyekku.",
+                "tagalog": "Katsa lang. Para sa project ko."
+              },
+              "sourcePage": 502
+            },
+            {
+              "speaker": "A 05",
+              "speakerText": {
+                "sourceLanguage": "mixed",
+                "sourceText": "A 05",
+                "id": "Bagian A 05"
+              },
+              "text": {
+                "sourceLanguage": "fil",
+                "sourceText": "Ikaw, may bibilhin ka ba?",
+                "id": "Dan kamu? Apakah Anda punya sesuatu untuk dibeli?",
+                "tagalog": "Ikaw, may bibilhin ka ba?"
+              },
+              "sourcePage": 503
+            },
+            {
+              "speaker": "A 06",
+              "speakerText": {
+                "sourceLanguage": "mixed",
+                "sourceText": "A 06",
+                "id": "Bagian A 06"
+              },
+              "text": {
+                "sourceLanguage": "fil",
+                "sourceText": "Wala'. Ubos na kasi ang pera ko.",
+                "id": "Tidak, karena saya sudah menghabiskan semua uang saya. (Tidak, karena uangku sudah habis.)",
+                "tagalog": "Wala'. Ubos na kasi ang pera ko."
+              },
+              "sourcePage": 504
+            },
+            {
+              "speaker": "A 07",
+              "speakerText": {
+                "sourceLanguage": "mixed",
+                "sourceText": "A 07",
+                "id": "Bagian A 07"
+              },
+              "text": {
+                "sourceLanguage": "fil",
+                "sourceText": "Naglaro' kasi ako ng computer games kasama ng mga kaibigan ko.",
+                "id": "Itu karena saya bermain game komputer dengan teman-teman saya.",
+                "tagalog": "Naglaro' kasi ako ng computer games kasama ng mga kaibigan ko."
+              },
+              "sourcePage": 505
+            },
+            {
+              "speaker": "A 08",
+              "speakerText": {
+                "sourceLanguage": "mixed",
+                "sourceText": "A 08",
+                "id": "Bagian A 08"
+              },
+              "text": {
+                "sourceLanguage": "fil",
+                "sourceText": "Kaya' pala. Ano ang gagawin mo?",
+                "id": "Oh, jadi itu sebabnya. Lalu apa yang akan kamu lakukan?",
+                "tagalog": "Kaya' pala. Ano ang gagawin mo?"
+              },
+              "sourcePage": 506
+            },
+            {
+              "speaker": "A 09",
+              "speakerText": {
+                "sourceLanguage": "mixed",
+                "sourceText": "A 09",
+                "id": "Bagian A 09"
+              },
+              "text": {
+                "sourceLanguage": "fil",
+                "sourceText": "Tatambay na lang ako sa bookstore.",
+                "id": "Aku akan nongkrong di toko buku saja.",
+                "tagalog": "Tatambay na lang ako sa bookstore."
+              },
+              "sourcePage": 507
+            },
+            {
+              "speaker": "A 10",
+              "speakerText": {
+                "sourceLanguage": "mixed",
+                "sourceText": "A 10",
+                "id": "Bagian A 10"
+              },
+              "text": {
+                "sourceLanguage": "fil",
+                "sourceText": "Nasaan pala si Tatay?",
+                "id": "Ngomong-ngomong, di mana Ayah?",
+                "tagalog": "Nasaan pala si Tatay?"
+              },
+              "sourcePage": 508
+            },
+            {
+              "speaker": "A 11",
+              "speakerText": {
+                "sourceLanguage": "mixed",
+                "sourceText": "A 11",
+                "id": "Bagian A 11"
+              },
+              "text": {
+                "sourceLanguage": "fil",
+                "sourceText": "Nasa kotse siya. Natutulog siguro.",
+                "id": "Dia ada di dalam mobil. Kurasa dia sedang tidur.",
+                "tagalog": "Nasa kotse siya. Natutulog siguro."
+              },
+              "sourcePage": 509
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "vocabulary",
+      "type": "VOCABULARY",
+      "title": {
+        "sourceLanguage": "mixed",
+        "sourceText": "Vocabulary and expressions",
+        "id": "Kosakata dan ungkapan"
+      },
+      "blocks": [
+        {
+          "type": "vocabulary",
+          "entries": [
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "Sa",
+                "id": "Di dalam",
+                "tagalog": "Sa"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "In",
+                "id": "Di dalam"
+              },
+              "sourcePage": 499
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "mall",
+                "id": "Mall",
+                "tagalog": "mall"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "mall",
+                "id": "Mall"
+              },
+              "sourcePage": 499
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "Kailangan",
+                "id": "Diperlukan",
+                "tagalog": "Kailangan"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "Needed",
+                "id": "Diperlukan"
+              },
+              "sourcePage": 500
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "kong",
+                "id": "Oleh saya-[penghubung]",
+                "tagalog": "kong"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "by me-[linker]",
+                "id": "Oleh saya-[penghubung]"
+              },
+              "sourcePage": 500
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "bumili",
+                "id": "Untuk membeli",
+                "tagalog": "bumili"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "to buy",
+                "id": "Untuk membeli"
+              },
+              "sourcePage": 500
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "ng",
+                "id": "[penanda ng]",
+                "tagalog": "ng"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "[Ng marker]",
+                "id": "[penanda ng]"
+              },
+              "sourcePage": 500
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "tela.",
+                "id": "Kain.",
+                "tagalog": "tela."
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "cloth.",
+                "id": "Kain."
+              },
+              "sourcePage": 500
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "Anong",
+                "id": "Apa-[penghubung]",
+                "tagalog": "Anong"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "What-[linker]",
+                "id": "Apa-[penghubung]"
+              },
+              "sourcePage": 501
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "klaseng",
+                "id": "Jenis-[penghubung]",
+                "tagalog": "klaseng"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "kind-[linker]",
+                "id": "Jenis-[penghubung]"
+              },
+              "sourcePage": 501
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "Katsa",
+                "id": "Kain kasa",
+                "tagalog": "Katsa"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "Muslin",
+                "id": "Kain kasa"
+              },
+              "sourcePage": 502
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "lang.",
+                "id": "Hanya.",
+                "tagalog": "lang."
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "only.",
+                "id": "Hanya."
+              },
+              "sourcePage": 502
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "Para sa",
+                "id": "Untuk",
+                "tagalog": "Para sa"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "For",
+                "id": "Untuk"
+              },
+              "sourcePage": 502
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "project",
+                "id": "Proyek",
+                "tagalog": "project"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "project",
+                "id": "Proyek"
+              },
+              "sourcePage": 502
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "ko.",
+                "id": "Ku.",
+                "tagalog": "ko."
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "my.",
+                "id": "Ku."
+              },
+              "sourcePage": 502
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "Ikaw,",
+                "id": "Anda,",
+                "tagalog": "Ikaw,"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "You,",
+                "id": "Anda,"
+              },
+              "sourcePage": 503
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "may",
+                "id": "Memiliki",
+                "tagalog": "may"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "have",
+                "id": "Memiliki"
+              },
+              "sourcePage": 503
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "bibilhin",
+                "id": "Akan dibeli",
+                "tagalog": "bibilhin"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "will be bought",
+                "id": "Akan dibeli"
+              },
+              "sourcePage": 503
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "ka",
+                "id": "kamu",
+                "tagalog": "ka"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "you",
+                "id": "kamu"
+              },
+              "sourcePage": 503
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "ba?",
+                "id": "[penanda tanya]?",
+                "tagalog": "ba?"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "[question]?",
+                "id": "[penanda tanya]?"
+              },
+              "sourcePage": 503
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "Wala'.",
+                "id": "Tidak punya.",
+                "tagalog": "Wala'."
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "Have none.",
+                "id": "Tidak punya."
+              },
+              "sourcePage": 504
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "Ubos",
+                "id": "Terpakai",
+                "tagalog": "Ubos"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "Used up",
+                "id": "Terpakai"
+              },
+              "sourcePage": 504
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "na",
+                "id": "Sudah",
+                "tagalog": "na"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "already",
+                "id": "Sudah"
+              },
+              "sourcePage": 504
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "kasi",
+                "id": "Karena",
+                "tagalog": "kasi"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "because",
+                "id": "Karena"
+              },
+              "sourcePage": 504
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "ang",
+                "id": "penanda definit",
+                "tagalog": "ang"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "the",
+                "id": "penanda definit"
+              },
+              "sourcePage": 504
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "pera",
+                "id": "Uang",
+                "tagalog": "pera"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "money",
+                "id": "Uang"
+              },
+              "sourcePage": 504
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "Naglaro'",
+                "id": "Dimainkan",
+                "tagalog": "Naglaro'"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "Played",
+                "id": "Dimainkan"
+              },
+              "sourcePage": 505
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "ako",
+                "id": "saya",
+                "tagalog": "ako"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "I",
+                "id": "saya"
+              },
+              "sourcePage": 505
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "computer games",
+                "id": "Permainan komputer",
+                "tagalog": "computer games"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "computer games",
+                "id": "Permainan komputer"
+              },
+              "sourcePage": 505
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "kasama ng",
+                "id": "Bersama",
+                "tagalog": "kasama ng"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "together with",
+                "id": "Bersama"
+              },
+              "sourcePage": 505
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "mga",
+                "id": "[jamak]",
+                "tagalog": "mga"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "[plural]",
+                "id": "[jamak]"
+              },
+              "sourcePage": 505
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "kaibigan",
+                "id": "Teman",
+                "tagalog": "kaibigan"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "friend",
+                "id": "Teman"
+              },
+              "sourcePage": 505
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "Kaya' pala.",
+                "id": "Jadi itulah alasannya.",
+                "tagalog": "Kaya' pala."
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "So that's why.",
+                "id": "Jadi itulah alasannya."
+              },
+              "sourcePage": 506
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "Ano",
+                "id": "Apa",
+                "tagalog": "Ano"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "What",
+                "id": "Apa"
+              },
+              "sourcePage": 506
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "gagawin",
+                "id": "Akan dilakukan",
+                "tagalog": "gagawin"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "will be done",
+                "id": "Akan dilakukan"
+              },
+              "sourcePage": 506
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "mo?",
+                "id": "Olehmu?",
+                "tagalog": "mo?"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "by you?",
+                "id": "Olehmu?"
+              },
+              "sourcePage": 506
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "Tatambay",
+                "id": "Akan nongkrong",
+                "tagalog": "Tatambay"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "Will hang out",
+                "id": "Akan nongkrong"
+              },
+              "sourcePage": 507
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "na lang",
+                "id": "Hanya",
+                "tagalog": "na lang"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "just",
+                "id": "Hanya"
+              },
+              "sourcePage": 507
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "bookstore.",
+                "id": "Toko buku.",
+                "tagalog": "bookstore."
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "bookstore.",
+                "id": "Toko buku."
+              },
+              "sourcePage": 507
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "Nasaan",
+                "id": "Di mana",
+                "tagalog": "Nasaan"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "Where is",
+                "id": "Di mana"
+              },
+              "sourcePage": 508
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "pala",
+                "id": "Omong-omong",
+                "tagalog": "pala"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "by the way",
+                "id": "Omong-omong"
+              },
+              "sourcePage": 508
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "si",
+                "id": "[penanda ang]",
+                "tagalog": "si"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "[Ang marker]",
+                "id": "[penanda ang]"
+              },
+              "sourcePage": 508
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "Tatay?",
+                "id": "Ayah?",
+                "tagalog": "Tatay?"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "Dad?",
+                "id": "Ayah?"
+              },
+              "sourcePage": 508
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "Nasa",
+                "id": "Ada di",
+                "tagalog": "Nasa"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "Is in",
+                "id": "Ada di"
+              },
+              "sourcePage": 509
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "kotse",
+                "id": "Mobil",
+                "tagalog": "kotse"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "car",
+                "id": "Mobil"
+              },
+              "sourcePage": 509
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "siya.",
+                "id": "Dia.",
+                "tagalog": "siya."
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "he/she.",
+                "id": "Dia."
+              },
+              "sourcePage": 509
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "Natutulog",
+                "id": "Lagi tidur",
+                "tagalog": "Natutulog"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "Is sleeping",
+                "id": "Lagi tidur"
+              },
+              "sourcePage": 509
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "siguro.",
+                "id": "Mungkin.",
+                "tagalog": "siguro."
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "maybe.",
+                "id": "Mungkin."
+              },
+              "sourcePage": 509
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "Sige,",
+                "id": "Baiklah,",
+                "tagalog": "Sige,"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "All right,",
+                "id": "Baiklah,"
+              },
+              "sourcePage": 510
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "magkita'",
+                "id": "Bertemu",
+                "tagalog": "magkita'"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "meet",
+                "id": "Bertemu"
+              },
+              "sourcePage": 510
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "tayo",
+                "id": "Kami (termasuk kamu)",
+                "tagalog": "tayo"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "we (incl. you)",
+                "id": "Kami (termasuk kamu)"
+              },
+              "sourcePage": 510
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "mamaya'",
+                "id": "Nanti hari ini,",
+                "tagalog": "mamaya'"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "later today,",
+                "id": "Nanti hari ini,"
+              },
+              "sourcePage": 510
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "ha?",
+                "id": "Oke?",
+                "tagalog": "ha?"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "OK?",
+                "id": "Oke?"
+              },
+              "sourcePage": 510
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "niyang",
+                "id": "Oleh dia-[penghubung]",
+                "tagalog": "niyang"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "by him/her-[linker]",
+                "id": "Oleh dia-[penghubung]"
+              },
+              "sourcePage": 512
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "gamot.",
+                "id": "Obat-obatan.",
+                "tagalog": "gamot."
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "medicine.",
+                "id": "Obat-obatan."
+              },
+              "sourcePage": 512
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "Hindi'",
+                "id": "Bukan",
+                "tagalog": "Hindi'"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "Not",
+                "id": "Bukan"
+              },
+              "sourcePage": 513
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "niya",
+                "id": "Oleh dia",
+                "tagalog": "niya"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "by him/her",
+                "id": "Oleh dia"
+              },
+              "sourcePage": 513
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "kailangang",
+                "id": "Dibutuhkan-[penghubung]",
+                "tagalog": "kailangang"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "needed-[linker]",
+                "id": "Dibutuhkan-[penghubung]"
+              },
+              "sourcePage": 513
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "pagkain.",
+                "id": "Makanan.",
+                "tagalog": "pagkain."
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "food.",
+                "id": "Makanan."
+              },
+              "sourcePage": 513
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "Magkano",
+                "id": "Berapa harganya",
+                "tagalog": "Magkano"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "How much",
+                "id": "Berapa harganya"
+              },
+              "sourcePage": 514
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "pamasahe",
+                "id": "Tarif",
+                "tagalog": "pamasahe"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "fare",
+                "id": "Tarif"
+              },
+              "sourcePage": 514
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "hanggang sa",
+                "id": "Ke",
+                "tagalog": "hanggang sa"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "to",
+                "id": "Ke"
+              },
+              "sourcePage": 514
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "Bente",
+                "id": "Dua puluh",
+                "tagalog": "Bente"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "Twenty",
+                "id": "Dua puluh"
+              },
+              "sourcePage": 515
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "pesos",
+                "id": "Peso",
+                "tagalog": "pesos"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "pesos",
+                "id": "Peso"
+              },
+              "sourcePage": 515
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "yata'.",
+                "id": "Menurut saya.",
+                "tagalog": "yata'."
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "I think.",
+                "id": "Menurut saya."
+              },
+              "sourcePage": 515
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "pa",
+                "id": "Tetap",
+                "tagalog": "pa"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "still",
+                "id": "Tetap"
+              },
+              "sourcePage": 516
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "Oo,",
+                "id": "Ya,",
+                "tagalog": "Oo,"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "Yes,",
+                "id": "Ya,"
+              },
+              "sourcePage": 517
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "singkwenta",
+                "id": "Lima puluh",
+                "tagalog": "singkwenta"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "fifty",
+                "id": "Lima puluh"
+              },
+              "sourcePage": 517
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "dyes,",
+                "id": "Sepuluh,",
+                "tagalog": "dyes,"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "ten,",
+                "id": "Sepuluh,"
+              },
+              "sourcePage": 519
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "trenta,",
+                "id": "Tigapuluh,",
+                "tagalog": "trenta,"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "thirty,",
+                "id": "Tigapuluh,"
+              },
+              "sourcePage": 519
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "kwarenta,",
+                "id": "Empat puluh,",
+                "tagalog": "kwarenta,"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "forty,",
+                "id": "Empat puluh,"
+              },
+              "sourcePage": 519
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "sisenta,",
+                "id": "Enam puluh,",
+                "tagalog": "sisenta,"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "sixty,",
+                "id": "Enam puluh,"
+              },
+              "sourcePage": 520
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "sitenta,",
+                "id": "Tujuh puluh,",
+                "tagalog": "sitenta,"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "seventy,",
+                "id": "Tujuh puluh,"
+              },
+              "sourcePage": 520
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "otsenta,",
+                "id": "Delapan puluh,",
+                "tagalog": "otsenta,"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "eighty,",
+                "id": "Delapan puluh,"
+              },
+              "sourcePage": 520
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "nobenta",
+                "id": "Sembilan puluh",
+                "tagalog": "nobenta"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "ninety",
+                "id": "Sembilan puluh"
+              },
+              "sourcePage": 520
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "style": "body",
+          "sourcePage": 500,
+          "sourceLabel": "A 02",
+          "links": [],
+          "text": {
+            "sourceLanguage": "en",
+            "sourceText": "Kailangan often connotes a self-imposed need or duty.",
+            "id": "A 02 · halaman PDF 500\n\nKailangan sering kali berarti kebutuhan atau kewajiban yang dipaksakan sendiri."
+          }
+        },
+        {
+          "type": "text",
+          "style": "body",
+          "sourcePage": 501,
+          "sourceLabel": "A 03",
+          "links": [],
+          "text": {
+            "sourceLanguage": "en",
+            "sourceText": "Klaseng tela or klase ng tela – kind of cloth.",
+            "id": "A 03 · halaman PDF 501\n\nKlaseng tela atau klase ng tela – jenis kain."
+          }
+        },
+        {
+          "type": "text",
+          "style": "body",
+          "sourcePage": 503,
+          "sourceLabel": "A 05",
+          "links": [],
+          "text": {
+            "sourceLanguage": "en",
+            "sourceText": "May bibilhin ka. – You have something that will be bought. In natural English: You will buy something or You have something to buy.",
+            "id": "A 05 · halaman PDF 503\n\nMay bibilhin ka. – Anda memiliki sesuatu yang akan dibeli. Dalam bahasa Inggris alami: Anda akan membeli sesuatu atau Anda mempunyai sesuatu untuk dibeli."
+          }
+        },
+        {
+          "type": "text",
+          "style": "body",
+          "sourcePage": 504,
+          "sourceLabel": "A 06",
+          "links": [],
+          "text": {
+            "sourceLanguage": "en",
+            "sourceText": "Na and kasi are enclitic.",
+            "id": "A 06 · halaman PDF 504\n\nNa dan kasi bersifat enklitik."
+          }
+        },
+        {
+          "type": "text",
+          "style": "body",
+          "sourcePage": 505,
+          "sourceLabel": "A 07",
+          "links": [],
+          "text": {
+            "sourceLanguage": "en",
+            "sourceText": "Kasama ng – together with, along with.",
+            "id": "A 07 · halaman PDF 505\n\nKasama ng – bersama dengan, bersama dengan."
+          }
+        },
+        {
+          "type": "text",
+          "style": "body",
+          "sourcePage": 510,
+          "sourceLabel": "A 12",
+          "links": [],
+          "text": {
+            "sourceLanguage": "en",
+            "sourceText": "Here, ha? means OK?",
+            "id": "A 12 · halaman PDF 510\n\nDi sini, ha? artinya OK?"
+          }
+        },
+        {
+          "type": "text",
+          "style": "body",
+          "sourcePage": 517,
+          "sourceLabel": "B 06",
+          "links": [],
+          "text": {
+            "sourceLanguage": "en",
+            "sourceText": "Yes/no questions starting with may or meron can also be answered with oo. However, for negative answers, only wala' can be used and not hindi'.",
+            "id": "B 06 · halaman PDF 517\n\nPertanyaan ya/tidak yang dimulai dengan may atau meron juga dapat dijawab dengan oo. Namun, untuk jawaban negatif, hanya wala' yang dapat digunakan dan bukan hindi'."
+          }
+        }
+      ]
+    },
+    {
+      "id": "grammar",
+      "type": "GRAMMAR",
+      "title": {
+        "sourceLanguage": "mixed",
+        "sourceText": "Grammar and pronunciation notes",
+        "id": "Catatan tata bahasa dan pelafalan"
+      },
+      "blocks": [
+        {
+          "type": "text",
+          "style": "body",
+          "sourcePage": 500,
+          "sourceLabel": "A 02",
+          "links": [],
+          "text": {
+            "sourceLanguage": "en",
+            "sourceText": "Kailangan ko -ng + basic form – I need to/ought to/must/should (...).",
+            "id": "A 02 · halaman PDF 500\n\nKailangan ko -ng + bentuk dasar berarti saya perlu/harus (...)."
+          }
+        },
+        {
+          "type": "text",
+          "style": "body",
+          "sourcePage": 503,
+          "sourceLabel": "A 05",
+          "links": [],
+          "text": {
+            "sourceLanguage": "en",
+            "sourceText": "Bibilhin (will be bought) is the unstarted form of the verb bilhin (to be bought). Here, it is used as a noun. It means thing that will be bought.",
+            "id": "A 05 · halaman PDF 503\n\nBibilhin (akan dibeli) adalah bentuk kata kerja yang belum dimulai bilhin (akan dibeli). Di sini, ini digunakan sebagai kata benda. Artinya barang yang akan dibeli."
+          }
+        },
+        {
+          "type": "text",
+          "style": "body",
+          "sourcePage": 503,
+          "sourceLabel": "A 05",
+          "links": [],
+          "text": {
+            "sourceLanguage": "en",
+            "sourceText": "The verbs will be covered in detail very soon.",
+            "id": "A 05 · halaman PDF 503\n\nKata kerjanya akan segera dibahas secara rinci."
+          }
+        },
+        {
+          "type": "text",
+          "style": "body",
+          "sourcePage": 506,
+          "sourceLabel": "A 08",
+          "links": [],
+          "text": {
+            "sourceLanguage": "en",
+            "sourceText": "Gagawin (will be done) is the unstarted form of gawin (to be done). Here, it is used as a noun. Ang gagawin – the thing that will be done.",
+            "id": "A 08 · halaman PDF 506\n\nGagawin (akan selesai) adalah bentuk gawin (yang belum dimulai) yang belum dimulai. Di sini, ini digunakan sebagai kata benda. Ang gagawin – hal yang akan dilakukan."
+          }
+        },
+        {
+          "type": "text",
+          "style": "body",
+          "sourcePage": 509,
+          "sourceLabel": "A 11",
+          "links": [],
+          "text": {
+            "sourceLanguage": "en",
+            "sourceText": "Matulog – to sleep. Natutulog – sleeps or is/was sleeping (uncompleted form).",
+            "id": "A 11 · halaman PDF 509\n\nMatulog – untuk tidur. Natutulog – tidur atau sedang/sedang tidur (formulir belum selesai)."
+          }
+        },
+        {
+          "type": "text",
+          "style": "body",
+          "sourcePage": 510,
+          "sourceLabel": "A 12",
+          "links": [],
+          "text": {
+            "sourceLanguage": "en",
+            "sourceText": "Magkita' is a verb in the basic form.",
+            "id": "A 12 · halaman PDF 510\n\nMagkita' adalah kata kerja dalam bentuk dasar."
+          }
+        },
+        {
+          "type": "text",
+          "style": "body",
+          "sourcePage": 512,
+          "sourceLabel": "B 01",
+          "links": [],
+          "text": {
+            "sourceLanguage": "en",
+            "sourceText": "Kailangan niya -ng + basic form – He/she needs to/ought to/must/should (...).",
+            "id": "B 01 · halaman PDF 512\n\nKailangan niya -ng + bentuk dasar – Dia perlu/seharusnya/harus/harus (...)."
+          }
+        },
+        {
+          "type": "text",
+          "style": "body",
+          "sourcePage": 513,
+          "sourceLabel": "B 02",
+          "links": [],
+          "text": {
+            "sourceLanguage": "en",
+            "sourceText": "Since niya is enclitic, it follows the first word of the sentence.",
+            "id": "B 02 · halaman PDF 513\n\nKarena niya adalah enklitik, ia mengikuti kata pertama dalam kalimat."
+          }
+        }
+      ]
+    },
+    {
+      "id": "examples",
+      "type": "EXAMPLES",
+      "title": {
+        "sourceLanguage": "mixed",
+        "sourceText": "Literal and natural translations",
+        "id": "Contoh dengan glosa harfiah dan alami"
+      },
+      "blocks": [
+        {
+          "type": "example",
+          "title": {
+            "sourceLanguage": "mixed",
+            "sourceText": "A 01",
+            "id": "A 01 · halaman PDF 499"
+          },
+          "sourcePage": 499,
+          "rows": [
+            {
+              "cells": [
+                {
+                  "sourceLanguage": "fil",
+                  "sourceText": "Sa mall",
+                  "id": "Di mal",
+                  "tagalog": "Sa mall"
+                },
+                {
+                  "sourceLanguage": "en",
+                  "sourceText": "In mall",
+                  "id": "Glosa harfiah (Inggris)\nIn mall"
+                },
+                {
+                  "sourceLanguage": "en",
+                  "sourceText": "In the mall",
+                  "id": "Terjemahan alami sumber (Inggris)\nIn the mall"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "example",
+          "title": {
+            "sourceLanguage": "mixed",
+            "sourceText": "A 02",
+            "id": "A 02 · halaman PDF 500"
+          },
+          "sourcePage": 500,
+          "rows": [
+            {
+              "cells": [
+                {
+                  "sourceLanguage": "fil",
+                  "sourceText": "Kailangan kong bumili ng tela.",
+                  "id": "Saya perlu membeli kain.",
+                  "tagalog": "Kailangan kong bumili ng tela."
+                },
+                {
+                  "sourceLanguage": "en",
+                  "sourceText": "Needed by me-[linker] to buy [Ng marker] cloth.",
+                  "id": "Glosa harfiah (Inggris)\nNeeded by me-[linker] to buy [Ng marker] cloth."
+                },
+                {
+                  "sourceLanguage": "en",
+                  "sourceText": "I need to buy some cloth.",
+                  "id": "Terjemahan alami sumber (Inggris)\nI need to buy some cloth."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "example",
+          "title": {
+            "sourceLanguage": "mixed",
+            "sourceText": "A 03",
+            "id": "A 03 · halaman PDF 501"
+          },
+          "sourcePage": 501,
+          "rows": [
+            {
+              "cells": [
+                {
+                  "sourceLanguage": "fil",
+                  "sourceText": "Anong klaseng tela?",
+                  "id": "Jenis kain apa?",
+                  "tagalog": "Anong klaseng tela?"
+                },
+                {
+                  "sourceLanguage": "en",
+                  "sourceText": "What-[linker] kind-[linker] cloth?",
+                  "id": "Glosa harfiah (Inggris)\nWhat-[linker] kind-[linker] cloth?"
+                },
+                {
+                  "sourceLanguage": "en",
+                  "sourceText": "What kind of cloth?",
+                  "id": "Terjemahan alami sumber (Inggris)\nWhat kind of cloth?"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "example",
+          "title": {
+            "sourceLanguage": "mixed",
+            "sourceText": "A 04",
+            "id": "A 04 · halaman PDF 502"
+          },
+          "sourcePage": 502,
+          "rows": [
+            {
+              "cells": [
+                {
+                  "sourceLanguage": "fil",
+                  "sourceText": "Katsa lang. Para sa project ko.",
+                  "id": "Hanya kain muslin. Ini untuk proyekku.",
+                  "tagalog": "Katsa lang. Para sa project ko."
+                },
+                {
+                  "sourceLanguage": "en",
+                  "sourceText": "Muslin only. For project my.",
+                  "id": "Glosa harfiah (Inggris)\nMuslin only. For project my."
+                },
+                {
+                  "sourceLanguage": "en",
+                  "sourceText": "Just muslin. It's for my project.",
+                  "id": "Terjemahan alami sumber (Inggris)\nJust muslin. It's for my project."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "example",
+          "title": {
+            "sourceLanguage": "mixed",
+            "sourceText": "A 05",
+            "id": "A 05 · halaman PDF 503"
+          },
+          "sourcePage": 503,
+          "rows": [
+            {
+              "cells": [
+                {
+                  "sourceLanguage": "fil",
+                  "sourceText": "Ikaw, may bibilhin ka ba?",
+                  "id": "Dan kamu? Apakah Anda punya sesuatu untuk dibeli?",
+                  "tagalog": "Ikaw, may bibilhin ka ba?"
+                },
+                {
+                  "sourceLanguage": "en",
+                  "sourceText": "You, have will be bought you [question]?",
+                  "id": "Glosa harfiah (Inggris)\nYou, have will be bought you [question]?"
+                },
+                {
+                  "sourceLanguage": "en",
+                  "sourceText": "And you? Do you have anything to buy?",
+                  "id": "Terjemahan alami sumber (Inggris)\nAnd you? Do you have anything to buy?"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "example",
+          "title": {
+            "sourceLanguage": "mixed",
+            "sourceText": "A 06",
+            "id": "A 06 · halaman PDF 504"
+          },
+          "sourcePage": 504,
+          "rows": [
+            {
+              "cells": [
+                {
+                  "sourceLanguage": "fil",
+                  "sourceText": "Wala'. Ubos na kasi ang pera ko.",
+                  "id": "Tidak, karena saya sudah menghabiskan semua uang saya. (Tidak, karena uangku sudah habis.)",
+                  "tagalog": "Wala'. Ubos na kasi ang pera ko."
+                },
+                {
+                  "sourceLanguage": "en",
+                  "sourceText": "Have none. Used up already because the money my.",
+                  "id": "Glosa harfiah (Inggris)\nHave none. Used up already because the money my."
+                },
+                {
+                  "sourceLanguage": "en",
+                  "sourceText": "No, because I already spent all my money. (No, because my money is used up already.)",
+                  "id": "Terjemahan alami sumber (Inggris)\nNo, because I already spent all my money. (No, because my money is used up already.)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "example",
+          "title": {
+            "sourceLanguage": "mixed",
+            "sourceText": "A 07",
+            "id": "A 07 · halaman PDF 505"
+          },
+          "sourcePage": 505,
+          "rows": [
+            {
+              "cells": [
+                {
+                  "sourceLanguage": "fil",
+                  "sourceText": "Naglaro' kasi ako ng computer games kasama ng mga kaibigan ko.",
+                  "id": "Itu karena saya bermain game komputer dengan teman-teman saya.",
+                  "tagalog": "Naglaro' kasi ako ng computer games kasama ng mga kaibigan ko."
+                },
+                {
+                  "sourceLanguage": "en",
+                  "sourceText": "Played because I [Ng marker] computer games together with [plural] friend my.",
+                  "id": "Glosa harfiah (Inggris)\nPlayed because I [Ng marker] computer games together with [plural] friend my."
+                },
+                {
+                  "sourceLanguage": "en",
+                  "sourceText": "That's because I played computer games with my friends.",
+                  "id": "Terjemahan alami sumber (Inggris)\nThat's because I played computer games with my friends."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "example",
+          "title": {
+            "sourceLanguage": "mixed",
+            "sourceText": "A 08",
+            "id": "A 08 · halaman PDF 506"
+          },
+          "sourcePage": 506,
+          "rows": [
+            {
+              "cells": [
+                {
+                  "sourceLanguage": "fil",
+                  "sourceText": "Kaya' pala. Ano ang gagawin mo?",
+                  "id": "Oh, jadi itu sebabnya. Lalu apa yang akan kamu lakukan?",
+                  "tagalog": "Kaya' pala. Ano ang gagawin mo?"
+                },
+                {
+                  "sourceLanguage": "en",
+                  "sourceText": "So that's why. What the will be done by you?",
+                  "id": "Glosa harfiah (Inggris)\nSo that's why. What the will be done by you?"
+                },
+                {
+                  "sourceLanguage": "en",
+                  "sourceText": "Oh, so that's why. What will you do then?",
+                  "id": "Terjemahan alami sumber (Inggris)\nOh, so that's why. What will you do then?"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "example",
+          "title": {
+            "sourceLanguage": "mixed",
+            "sourceText": "A 09",
+            "id": "A 09 · halaman PDF 507"
+          },
+          "sourcePage": 507,
+          "rows": [
+            {
+              "cells": [
+                {
+                  "sourceLanguage": "fil",
+                  "sourceText": "Tatambay na lang ako sa bookstore.",
+                  "id": "Aku akan nongkrong di toko buku saja.",
+                  "tagalog": "Tatambay na lang ako sa bookstore."
+                },
+                {
+                  "sourceLanguage": "en",
+                  "sourceText": "Will hang out just I at bookstore.",
+                  "id": "Glosa harfiah (Inggris)\nWill hang out just I at bookstore."
+                },
+                {
+                  "sourceLanguage": "en",
+                  "sourceText": "I'll just hang out at the bookstore.",
+                  "id": "Terjemahan alami sumber (Inggris)\nI'll just hang out at the bookstore."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "example",
+          "title": {
+            "sourceLanguage": "mixed",
+            "sourceText": "A 10",
+            "id": "A 10 · halaman PDF 508"
+          },
+          "sourcePage": 508,
+          "rows": [
+            {
+              "cells": [
+                {
+                  "sourceLanguage": "fil",
+                  "sourceText": "Nasaan pala si Tatay?",
+                  "id": "Ngomong-ngomong, di mana Ayah?",
+                  "tagalog": "Nasaan pala si Tatay?"
+                },
+                {
+                  "sourceLanguage": "en",
+                  "sourceText": "Where is by the way [Ang marker] Dad?",
+                  "id": "Glosa harfiah (Inggris)\nWhere is by the way [Ang marker] Dad?"
+                },
+                {
+                  "sourceLanguage": "en",
+                  "sourceText": "By the way, where's Dad?",
+                  "id": "Terjemahan alami sumber (Inggris)\nBy the way, where's Dad?"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "example",
+          "title": {
+            "sourceLanguage": "mixed",
+            "sourceText": "A 11",
+            "id": "A 11 · halaman PDF 509"
+          },
+          "sourcePage": 509,
+          "rows": [
+            {
+              "cells": [
+                {
+                  "sourceLanguage": "fil",
+                  "sourceText": "Nasa kotse siya. Natutulog siguro.",
+                  "id": "Dia ada di dalam mobil. Kurasa dia sedang tidur.",
+                  "tagalog": "Nasa kotse siya. Natutulog siguro."
+                },
+                {
+                  "sourceLanguage": "en",
+                  "sourceText": "Is in car he/she. Is sleeping maybe.",
+                  "id": "Glosa harfiah (Inggris)\nIs in car he/she. Is sleeping maybe."
+                },
+                {
+                  "sourceLanguage": "en",
+                  "sourceText": "He's in the car. I guess he's sleeping.",
+                  "id": "Terjemahan alami sumber (Inggris)\nHe's in the car. I guess he's sleeping."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "example",
+          "title": {
+            "sourceLanguage": "mixed",
+            "sourceText": "A 12",
+            "id": "A 12 · halaman PDF 510"
+          },
+          "sourcePage": 510,
+          "rows": [
+            {
+              "cells": [
+                {
+                  "sourceLanguage": "fil",
+                  "sourceText": "Sige, magkita' na lang tayo mamaya' ha?",
+                  "id": "Baiklah, kita bertemu lagi nanti, oke? (Mari kita bertemu lagi nanti, oke?)",
+                  "tagalog": "Sige, magkita' na lang tayo mamaya' ha?"
+                },
+                {
+                  "sourceLanguage": "en",
+                  "sourceText": "All right, meet just we (incl. you) later today, OK?",
+                  "id": "Glosa harfiah (Inggris)\nAll right, meet just we (incl. you) later today, OK?"
+                },
+                {
+                  "sourceLanguage": "en",
+                  "sourceText": "All right, we'll just meet later, OK? (Let's just meet later, OK?)",
+                  "id": "Terjemahan alami sumber (Inggris)\nAll right, we'll just meet later, OK? (Let's just meet later, OK?)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "example",
+          "title": {
+            "sourceLanguage": "mixed",
+            "sourceText": "B 01",
+            "id": "B 01 · halaman PDF 512"
+          },
+          "sourcePage": 512,
+          "rows": [
+            {
+              "cells": [
+                {
+                  "sourceLanguage": "fil",
+                  "sourceText": "Kailangan niyang bumili ng gamot.",
+                  "id": "Dia perlu membeli obat.",
+                  "tagalog": "Kailangan niyang bumili ng gamot."
+                },
+                {
+                  "sourceLanguage": "en",
+                  "sourceText": "Needed by him/her-[linker] to buy [Ng marker] medicine.",
+                  "id": "Glosa harfiah (Inggris)\nNeeded by him/her-[linker] to buy [Ng marker] medicine."
+                },
+                {
+                  "sourceLanguage": "en",
+                  "sourceText": "He/she needs to buy medicine.",
+                  "id": "Terjemahan alami sumber (Inggris)\nHe/she needs to buy medicine."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "example",
+          "title": {
+            "sourceLanguage": "mixed",
+            "sourceText": "B 02",
+            "id": "B 02 · halaman PDF 513"
+          },
+          "sourcePage": 513,
+          "rows": [
+            {
+              "cells": [
+                {
+                  "sourceLanguage": "fil",
+                  "sourceText": "Hindi' niya kailangang bumili ng pagkain.",
+                  "id": "Dia tidak perlu membeli makanan.",
+                  "tagalog": "Hindi' niya kailangang bumili ng pagkain."
+                },
+                {
+                  "sourceLanguage": "en",
+                  "sourceText": "Not by him/her needed-[linker] to buy [Ng marker] food.",
+                  "id": "Glosa harfiah (Inggris)\nNot by him/her needed-[linker] to buy [Ng marker] food."
+                },
+                {
+                  "sourceLanguage": "en",
+                  "sourceText": "He/she doesn't need to buy food.",
+                  "id": "Terjemahan alami sumber (Inggris)\nHe/she doesn't need to buy food."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "example",
+          "title": {
+            "sourceLanguage": "mixed",
+            "sourceText": "B 03",
+            "id": "B 03 · halaman PDF 514"
+          },
+          "sourcePage": 514,
+          "rows": [
+            {
+              "cells": [
+                {
+                  "sourceLanguage": "fil",
+                  "sourceText": "Magkano ang pamasahe hanggang sa mall?",
+                  "id": "Berapa ongkos ke mal?",
+                  "tagalog": "Magkano ang pamasahe hanggang sa mall?"
+                },
+                {
+                  "sourceLanguage": "en",
+                  "sourceText": "How much the fare to mall?",
+                  "id": "Glosa harfiah (Inggris)\nHow much the fare to mall?"
+                },
+                {
+                  "sourceLanguage": "en",
+                  "sourceText": "How much is the fare to the mall?",
+                  "id": "Terjemahan alami sumber (Inggris)\nHow much is the fare to the mall?"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "example",
+          "title": {
+            "sourceLanguage": "mixed",
+            "sourceText": "B 04",
+            "id": "B 04 · halaman PDF 515"
+          },
+          "sourcePage": 515,
+          "rows": [
+            {
+              "cells": [
+                {
+                  "sourceLanguage": "fil",
+                  "sourceText": "Bente pesos yata'.",
+                  "id": "Dua puluh peso, menurutku.",
+                  "tagalog": "Bente pesos yata'."
+                },
+                {
+                  "sourceLanguage": "en",
+                  "sourceText": "Twenty pesos I think.",
+                  "id": "Glosa harfiah (Inggris)\nTwenty pesos I think."
+                },
+                {
+                  "sourceLanguage": "en",
+                  "sourceText": "Twenty pesos, I think.",
+                  "id": "Terjemahan alami sumber (Inggris)\nTwenty pesos, I think."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "example",
+          "title": {
+            "sourceLanguage": "mixed",
+            "sourceText": "B 05",
+            "id": "B 05 · halaman PDF 516"
+          },
+          "sourcePage": 516,
+          "rows": [
+            {
+              "cells": [
+                {
+                  "sourceLanguage": "fil",
+                  "sourceText": "May pera ka pa ba?",
+                  "id": "Apakah kamu masih punya uang?",
+                  "tagalog": "May pera ka pa ba?"
+                },
+                {
+                  "sourceLanguage": "en",
+                  "sourceText": "Have money you still [question]?",
+                  "id": "Glosa harfiah (Inggris)\nHave money you still [question]?"
+                },
+                {
+                  "sourceLanguage": "en",
+                  "sourceText": "Do you still have money?",
+                  "id": "Terjemahan alami sumber (Inggris)\nDo you still have money?"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "example",
+          "title": {
+            "sourceLanguage": "mixed",
+            "sourceText": "B 06",
+            "id": "B 06 · halaman PDF 517"
+          },
+          "sourcePage": 517,
+          "rows": [
+            {
+              "cells": [
+                {
+                  "sourceLanguage": "fil",
+                  "sourceText": "Oo, may singkwenta pesos pa ako.",
+                  "id": "Ya, saya masih punya lima puluh peso.",
+                  "tagalog": "Oo, may singkwenta pesos pa ako."
+                },
+                {
+                  "sourceLanguage": "en",
+                  "sourceText": "Yes, have fifty pesos still I.",
+                  "id": "Glosa harfiah (Inggris)\nYes, have fifty pesos still I."
+                },
+                {
+                  "sourceLanguage": "en",
+                  "sourceText": "Yes, I still have fifty pesos.",
+                  "id": "Terjemahan alami sumber (Inggris)\nYes, I still have fifty pesos."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "example",
+          "title": {
+            "sourceLanguage": "mixed",
+            "sourceText": "B 07",
+            "id": "B 07 · halaman PDF 518"
+          },
+          "sourcePage": 518,
+          "rows": [
+            {
+              "cells": [
+                {
+                  "sourceLanguage": "fil",
+                  "sourceText": "Wala' na. Ubos na ang pera ko.",
+                  "id": "Tidak lagi. Aku sudah menghabiskan semua uangku.",
+                  "tagalog": "Wala' na. Ubos na ang pera ko."
+                },
+                {
+                  "sourceLanguage": "en",
+                  "sourceText": "Have none anymore. Used up already the money my.",
+                  "id": "Glosa harfiah (Inggris)\nHave none anymore. Used up already the money my."
+                },
+                {
+                  "sourceLanguage": "en",
+                  "sourceText": "Not anymore. I've spent all my money.",
+                  "id": "Terjemahan alami sumber (Inggris)\nNot anymore. I've spent all my money."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "example",
+          "title": {
+            "sourceLanguage": "mixed",
+            "sourceText": "B 08",
+            "id": "B 08 · halaman PDF 519"
+          },
+          "sourcePage": 519,
+          "rows": [
+            {
+              "cells": [
+                {
+                  "sourceLanguage": "fil",
+                  "sourceText": "dyes, bente, trenta, kwarenta, singkwenta",
+                  "id": "Sepuluh, dua puluh, tiga puluh, empat puluh, lima puluh",
+                  "tagalog": "dyes, bente, trenta, kwarenta, singkwenta"
+                },
+                {
+                  "sourceLanguage": "en",
+                  "sourceText": "ten, twenty, thirty, forty, fifty",
+                  "id": "Glosa harfiah (Inggris)\nten, twenty, thirty, forty, fifty"
+                },
+                {
+                  "sourceLanguage": "en",
+                  "sourceText": "ten, twenty, thirty, forty, fifty",
+                  "id": "Terjemahan alami sumber (Inggris)\nten, twenty, thirty, forty, fifty"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "example",
+          "title": {
+            "sourceLanguage": "mixed",
+            "sourceText": "B 09",
+            "id": "B 09 · halaman PDF 520"
+          },
+          "sourcePage": 520,
+          "rows": [
+            {
+              "cells": [
+                {
+                  "sourceLanguage": "fil",
+                  "sourceText": "sisenta, sitenta, otsenta, nobenta",
+                  "id": "Enam puluh, tujuh puluh, delapan puluh, sembilan puluh",
+                  "tagalog": "sisenta, sitenta, otsenta, nobenta"
+                },
+                {
+                  "sourceLanguage": "en",
+                  "sourceText": "sixty, seventy, eighty, ninety",
+                  "id": "Glosa harfiah (Inggris)\nsixty, seventy, eighty, ninety"
+                },
+                {
+                  "sourceLanguage": "en",
+                  "sourceText": "sixty, seventy, eighty, ninety",
+                  "id": "Terjemahan alami sumber (Inggris)\nsixty, seventy, eighty, ninety"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "exercises",
+      "type": "EXERCISES",
+      "title": {
+        "sourceLanguage": "mixed",
+        "sourceText": "Drills",
+        "id": "Latihan pola"
+      },
+      "blocks": [
+        {
+          "type": "exercise",
+          "role": "instruction",
+          "text": {
+            "sourceLanguage": "mixed",
+            "sourceText": "Drills",
+            "id": "Latihan pola (Drills)"
+          },
+          "sourcePage": 511
+        },
+        {
+          "type": "exercise",
+          "role": "content",
+          "title": {
+            "sourceLanguage": "mixed",
+            "sourceText": "A 12",
+            "id": "A 12 · halaman PDF 510"
+          },
+          "sourcePage": 510,
+          "text": {
+            "sourceLanguage": "fil",
+            "sourceText": "Sige, magkita' na lang tayo mamaya' ha?",
+            "id": "Baiklah, kita bertemu lagi nanti, oke? (Mari kita bertemu lagi nanti, oke?)",
+            "tagalog": "Sige, magkita' na lang tayo mamaya' ha?"
+          }
+        },
+        {
+          "type": "exercise",
+          "role": "content",
+          "title": {
+            "sourceLanguage": "mixed",
+            "sourceText": "B 01",
+            "id": "B 01 · halaman PDF 512"
+          },
+          "sourcePage": 512,
+          "text": {
+            "sourceLanguage": "fil",
+            "sourceText": "Kailangan niyang bumili ng gamot.",
+            "id": "Dia perlu membeli obat.",
+            "tagalog": "Kailangan niyang bumili ng gamot."
+          }
+        },
+        {
+          "type": "exercise",
+          "role": "content",
+          "title": {
+            "sourceLanguage": "mixed",
+            "sourceText": "B 02",
+            "id": "B 02 · halaman PDF 513"
+          },
+          "sourcePage": 513,
+          "text": {
+            "sourceLanguage": "fil",
+            "sourceText": "Hindi' niya kailangang bumili ng pagkain.",
+            "id": "Dia tidak perlu membeli makanan.",
+            "tagalog": "Hindi' niya kailangang bumili ng pagkain."
+          }
+        },
+        {
+          "type": "exercise",
+          "role": "content",
+          "title": {
+            "sourceLanguage": "mixed",
+            "sourceText": "B 03",
+            "id": "B 03 · halaman PDF 514"
+          },
+          "sourcePage": 514,
+          "text": {
+            "sourceLanguage": "fil",
+            "sourceText": "Magkano ang pamasahe hanggang sa mall?",
+            "id": "Berapa ongkos ke mal?",
+            "tagalog": "Magkano ang pamasahe hanggang sa mall?"
+          }
+        },
+        {
+          "type": "exercise",
+          "role": "content",
+          "title": {
+            "sourceLanguage": "mixed",
+            "sourceText": "B 04",
+            "id": "B 04 · halaman PDF 515"
+          },
+          "sourcePage": 515,
+          "text": {
+            "sourceLanguage": "fil",
+            "sourceText": "Bente pesos yata'.",
+            "id": "Dua puluh peso, menurutku.",
+            "tagalog": "Bente pesos yata'."
+          }
+        },
+        {
+          "type": "exercise",
+          "role": "content",
+          "title": {
+            "sourceLanguage": "mixed",
+            "sourceText": "B 05",
+            "id": "B 05 · halaman PDF 516"
+          },
+          "sourcePage": 516,
+          "text": {
+            "sourceLanguage": "fil",
+            "sourceText": "May pera ka pa ba?",
+            "id": "Apakah kamu masih punya uang?",
+            "tagalog": "May pera ka pa ba?"
+          }
+        },
+        {
+          "type": "exercise",
+          "role": "content",
+          "title": {
+            "sourceLanguage": "mixed",
+            "sourceText": "B 06",
+            "id": "B 06 · halaman PDF 517"
+          },
+          "sourcePage": 517,
+          "text": {
+            "sourceLanguage": "fil",
+            "sourceText": "Oo, may singkwenta pesos pa ako.",
+            "id": "Ya, saya masih punya lima puluh peso.",
+            "tagalog": "Oo, may singkwenta pesos pa ako."
+          }
+        },
+        {
+          "type": "exercise",
+          "role": "content",
+          "title": {
+            "sourceLanguage": "mixed",
+            "sourceText": "B 07",
+            "id": "B 07 · halaman PDF 518"
+          },
+          "sourcePage": 518,
+          "text": {
+            "sourceLanguage": "fil",
+            "sourceText": "Wala' na. Ubos na ang pera ko.",
+            "id": "Tidak lagi. Aku sudah menghabiskan semua uangku.",
+            "tagalog": "Wala' na. Ubos na ang pera ko."
+          }
+        },
+        {
+          "type": "exercise",
+          "role": "content",
+          "title": {
+            "sourceLanguage": "mixed",
+            "sourceText": "B 08",
+            "id": "B 08 · halaman PDF 519"
+          },
+          "sourcePage": 519,
+          "text": {
+            "sourceLanguage": "fil",
+            "sourceText": "dyes, bente, trenta, kwarenta, singkwenta",
+            "id": "Sepuluh, dua puluh, tiga puluh, empat puluh, lima puluh",
+            "tagalog": "dyes, bente, trenta, kwarenta, singkwenta"
+          }
+        },
+        {
+          "type": "exercise",
+          "role": "content",
+          "title": {
+            "sourceLanguage": "mixed",
+            "sourceText": "B 09",
+            "id": "B 09 · halaman PDF 520"
+          },
+          "sourcePage": 520,
+          "text": {
+            "sourceLanguage": "fil",
+            "sourceText": "sisenta, sitenta, otsenta, nobenta",
+            "id": "Enam puluh, tujuh puluh, delapan puluh, sembilan puluh",
+            "tagalog": "sisenta, sitenta, otsenta, nobenta"
+          }
+        }
+      ]
+    },
+    {
+      "id": "summary",
+      "type": "SUMMARY",
+      "title": {
+        "sourceLanguage": "mixed",
+        "sourceText": "Sa mall",
+        "id": "Ringkasan bab"
+      },
+      "blocks": [
+        {
+          "type": "text",
+          "style": "heading",
+          "text": {
+            "sourceLanguage": "mixed",
+            "sourceText": "Story A",
+            "id": "Dialog utama"
+          }
+        },
+        {
+          "type": "list",
+          "style": "outline",
+          "items": [
+            {
+              "sourceLanguage": "fil",
+              "sourceText": "Sa mall",
+              "id": "Di mal",
+              "tagalog": "Sa mall"
+            },
+            {
+              "sourceLanguage": "fil",
+              "sourceText": "Kailangan kong bumili ng tela.",
+              "id": "Saya perlu membeli kain.",
+              "tagalog": "Kailangan kong bumili ng tela."
+            },
+            {
+              "sourceLanguage": "fil",
+              "sourceText": "Anong klaseng tela?",
+              "id": "Jenis kain apa?",
+              "tagalog": "Anong klaseng tela?"
+            },
+            {
+              "sourceLanguage": "fil",
+              "sourceText": "Katsa lang. Para sa project ko.",
+              "id": "Hanya kain muslin. Ini untuk proyekku.",
+              "tagalog": "Katsa lang. Para sa project ko."
+            },
+            {
+              "sourceLanguage": "fil",
+              "sourceText": "Ikaw, may bibilhin ka ba?",
+              "id": "Dan kamu? Apakah Anda punya sesuatu untuk dibeli?",
+              "tagalog": "Ikaw, may bibilhin ka ba?"
+            },
+            {
+              "sourceLanguage": "fil",
+              "sourceText": "Wala'. Ubos na kasi ang pera ko.",
+              "id": "Tidak, karena saya sudah menghabiskan semua uang saya. (Tidak, karena uangku sudah habis.)",
+              "tagalog": "Wala'. Ubos na kasi ang pera ko."
+            },
+            {
+              "sourceLanguage": "fil",
+              "sourceText": "Naglaro' kasi ako ng computer games kasama ng mga kaibigan ko.",
+              "id": "Itu karena saya bermain game komputer dengan teman-teman saya.",
+              "tagalog": "Naglaro' kasi ako ng computer games kasama ng mga kaibigan ko."
+            },
+            {
+              "sourceLanguage": "fil",
+              "sourceText": "Kaya' pala. Ano ang gagawin mo?",
+              "id": "Oh, jadi itu sebabnya. Lalu apa yang akan kamu lakukan?",
+              "tagalog": "Kaya' pala. Ano ang gagawin mo?"
+            },
+            {
+              "sourceLanguage": "fil",
+              "sourceText": "Tatambay na lang ako sa bookstore.",
+              "id": "Aku akan nongkrong di toko buku saja.",
+              "tagalog": "Tatambay na lang ako sa bookstore."
+            },
+            {
+              "sourceLanguage": "fil",
+              "sourceText": "Nasaan pala si Tatay?",
+              "id": "Ngomong-ngomong, di mana Ayah?",
+              "tagalog": "Nasaan pala si Tatay?"
+            },
+            {
+              "sourceLanguage": "fil",
+              "sourceText": "Nasa kotse siya. Natutulog siguro.",
+              "id": "Dia ada di dalam mobil. Kurasa dia sedang tidur.",
+              "tagalog": "Nasa kotse siya. Natutulog siguro."
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "style": "heading",
+          "text": {
+            "sourceLanguage": "mixed",
+            "sourceText": "Drills",
+            "id": "Latihan pola"
+          }
+        },
+        {
+          "type": "list",
+          "style": "outline",
+          "items": [
+            {
+              "sourceLanguage": "fil",
+              "sourceText": "Sige, magkita' na lang tayo mamaya' ha?",
+              "id": "Baiklah, kita bertemu lagi nanti, oke? (Mari kita bertemu lagi nanti, oke?)",
+              "tagalog": "Sige, magkita' na lang tayo mamaya' ha?"
+            },
+            {
+              "sourceLanguage": "fil",
+              "sourceText": "Kailangan niyang bumili ng gamot.",
+              "id": "Dia perlu membeli obat.",
+              "tagalog": "Kailangan niyang bumili ng gamot."
+            },
+            {
+              "sourceLanguage": "fil",
+              "sourceText": "Hindi' niya kailangang bumili ng pagkain.",
+              "id": "Dia tidak perlu membeli makanan.",
+              "tagalog": "Hindi' niya kailangang bumili ng pagkain."
+            },
+            {
+              "sourceLanguage": "fil",
+              "sourceText": "Magkano ang pamasahe hanggang sa mall?",
+              "id": "Berapa ongkos ke mal?",
+              "tagalog": "Magkano ang pamasahe hanggang sa mall?"
+            },
+            {
+              "sourceLanguage": "fil",
+              "sourceText": "Bente pesos yata'.",
+              "id": "Dua puluh peso, menurutku.",
+              "tagalog": "Bente pesos yata'."
+            },
+            {
+              "sourceLanguage": "fil",
+              "sourceText": "May pera ka pa ba?",
+              "id": "Apakah kamu masih punya uang?",
+              "tagalog": "May pera ka pa ba?"
+            },
+            {
+              "sourceLanguage": "fil",
+              "sourceText": "Oo, may singkwenta pesos pa ako.",
+              "id": "Ya, saya masih punya lima puluh peso.",
+              "tagalog": "Oo, may singkwenta pesos pa ako."
+            },
+            {
+              "sourceLanguage": "fil",
+              "sourceText": "Wala' na. Ubos na ang pera ko.",
+              "id": "Tidak lagi. Aku sudah menghabiskan semua uangku.",
+              "tagalog": "Wala' na. Ubos na ang pera ko."
+            },
+            {
+              "sourceLanguage": "fil",
+              "sourceText": "dyes, bente, trenta, kwarenta, singkwenta",
+              "id": "Sepuluh, dua puluh, tiga puluh, empat puluh, lima puluh",
+              "tagalog": "dyes, bente, trenta, kwarenta, singkwenta"
+            },
+            {
+              "sourceLanguage": "fil",
+              "sourceText": "sisenta, sitenta, otsenta, nobenta",
+              "id": "Enam puluh, tujuh puluh, delapan puluh, sembilan puluh",
+              "tagalog": "sisenta, sitenta, otsenta, nobenta"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "contentAudit": {
+    "sourcePages": 24,
+    "phrasePages": 21,
+    "storyPhrases": 11,
+    "drillPhrases": 10,
+    "noteBlocks": 17,
+    "vocabularyEntries": 74,
+    "sourceTextItemsBefore": 81,
+    "sourceTextItemsAfter": 81,
+    "recapVerified": true,
+    "imageCount": 1
+  }
+}

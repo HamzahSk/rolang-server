@@ -1,0 +1,2800 @@
+{
+  "schemaVersion": 1,
+  "structureVersion": 2,
+  "id": "learning-tagalog-course-book-1-lesson-08",
+  "courseId": "learning-tagalog-course-book-1",
+  "unitId": "course-book-1-unit-02-objects-and-shopping",
+  "order": 8,
+  "level": "BEGINNER",
+  "title": {
+    "id": "Di kios buah",
+    "fil": "Sa fruit stand"
+  },
+  "summary": {
+    "id": "Tuan Lopez membeli buah-buahan dari seorang gadis di kios buah.",
+    "fil": "Sa fruit stand"
+  },
+  "objectives": [
+    {
+      "sourceLanguage": "mixed",
+      "sourceText": "Chapter 8 · Story A",
+      "id": "Memahami dialog utama Bab 8 tentang di kios buah."
+    },
+    {
+      "sourceLanguage": "mixed",
+      "sourceText": "Literal and natural translations",
+      "id": "Membandingkan susunan Tagalog dengan glosa harfiah dan terjemahan alami dari sumber."
+    },
+    {
+      "sourceLanguage": "mixed",
+      "sourceText": "Drills",
+      "id": "Melatih kembali pola dan ungkapan pada bagian Drills."
+    }
+  ],
+  "source": {
+    "book": "Learning Tagalog - Fluency Made Fast and Easy - Course Book 1",
+    "file": "Learning Tagalog - Fluency Made Fast and Easy - Course Book 1.pdf",
+    "pdfSha256": "52e9f464239c2ae98248a452edfbf1f58eb01bec69374a16d5205e70afa80f58",
+    "chapter": 8,
+    "pages": {
+      "start": 181,
+      "end": 209
+    },
+    "drillsDividerPage": 196,
+    "recapPage": 209
+  },
+  "sourceLinks": [
+    {
+      "page": 186,
+      "uri": "https://learningtagalog.com/grammar/nouns/verbs_adjectives_etc_used_as_nouns.html"
+    },
+    {
+      "page": 200,
+      "uri": "https://learningtagalog.com/grammar/pronouns/ang_pronouns/demonstrative_pronouns/this_dog_that_dog_etc.html"
+    }
+  ],
+  "assets": [
+    "assets/08-sa-fruit-stand.jpg"
+  ],
+  "sections": [
+    {
+      "id": "introduction",
+      "type": "INTRODUCTION",
+      "title": {
+        "sourceLanguage": "mixed",
+        "sourceText": "At the fruit stand",
+        "id": "Di kios buah"
+      },
+      "blocks": [
+        {
+          "type": "image",
+          "path": "assets/08-sa-fruit-stand.jpg",
+          "sourcePage": 181
+        },
+        {
+          "type": "text",
+          "style": "heading",
+          "text": {
+            "sourceLanguage": "en",
+            "sourceText": "At the fruit stand",
+            "id": "Di kios buah"
+          }
+        }
+      ]
+    },
+    {
+      "id": "learning-material",
+      "type": "LEARNING_MATERIAL",
+      "title": {
+        "sourceLanguage": "mixed",
+        "sourceText": "Chapter context",
+        "id": "Konteks bab"
+      },
+      "blocks": [
+        {
+          "type": "text",
+          "style": "body",
+          "sourcePage": 181,
+          "text": {
+            "sourceLanguage": "en",
+            "sourceText": "Mr. Lopez buys fruits from a girl at a fruit stand.",
+            "id": "Tuan Lopez membeli buah-buahan dari seorang gadis di kios buah."
+          }
+        }
+      ]
+    },
+    {
+      "id": "dialogue",
+      "type": "DIALOGUE",
+      "title": {
+        "sourceLanguage": "mixed",
+        "sourceText": "Story A",
+        "id": "Dialog utama (Bagian A)"
+      },
+      "blocks": [
+        {
+          "type": "dialogue",
+          "turns": [
+            {
+              "speaker": "A 01",
+              "speakerText": {
+                "sourceLanguage": "mixed",
+                "sourceText": "A 01",
+                "id": "Bagian A 01"
+              },
+              "text": {
+                "sourceLanguage": "fil",
+                "sourceText": "Sa fruit stand",
+                "id": "Di kios buah",
+                "tagalog": "Sa fruit stand"
+              },
+              "sourcePage": 182
+            },
+            {
+              "speaker": "A 02",
+              "speakerText": {
+                "sourceLanguage": "mixed",
+                "sourceText": "A 02",
+                "id": "Bagian A 02"
+              },
+              "text": {
+                "sourceLanguage": "fil",
+                "sourceText": "Meron ba kayong pakwan?",
+                "id": "Apakah kamu punya semangka?",
+                "tagalog": "Meron ba kayong pakwan?"
+              },
+              "sourcePage": 183
+            },
+            {
+              "speaker": "A 03",
+              "speakerText": {
+                "sourceLanguage": "mixed",
+                "sourceText": "A 03",
+                "id": "Bagian A 03"
+              },
+              "text": {
+                "sourceLanguage": "fil",
+                "sourceText": "Wala' po'. Pero meron kaming chico at langka'.",
+                "id": "Tidak, tuan. Tapi kami punya chico dan nangka.",
+                "tagalog": "Wala' po'. Pero meron kaming chico at langka'."
+              },
+              "sourcePage": 184
+            },
+            {
+              "speaker": "A 04",
+              "speakerText": {
+                "sourceLanguage": "mixed",
+                "sourceText": "A 04",
+                "id": "Bagian A 04"
+              },
+              "text": {
+                "sourceLanguage": "fil",
+                "sourceText": "Magkano ang langka'?",
+                "id": "Berapa harga buah nangkanya?",
+                "tagalog": "Magkano ang langka'?"
+              },
+              "sourcePage": 185
+            },
+            {
+              "speaker": "A 05",
+              "speakerText": {
+                "sourceLanguage": "mixed",
+                "sourceText": "A 05",
+                "id": "Bagian A 05"
+              },
+              "text": {
+                "sourceLanguage": "fil",
+                "sourceText": "Two hundred fifty ang malaki, dalawang daan ang maliit.",
+                "id": "Yang besar dua ratus lima puluh, yang kecil dua ratus.",
+                "tagalog": "Two hundred fifty ang malaki, dalawang daan ang maliit."
+              },
+              "sourcePage": 186
+            },
+            {
+              "speaker": "A 06",
+              "speakerText": {
+                "sourceLanguage": "mixed",
+                "sourceText": "A 06",
+                "id": "Bagian A 06"
+              },
+              "text": {
+                "sourceLanguage": "fil",
+                "sourceText": "Walang tawad?",
+                "id": "Apakah harganya bisa dinegosiasikan? (Apakah tidak ada diskon?)",
+                "tagalog": "Walang tawad?"
+              },
+              "sourcePage": 187
+            },
+            {
+              "speaker": "A 07",
+              "speakerText": {
+                "sourceLanguage": "mixed",
+                "sourceText": "A 07",
+                "id": "Bagian A 07"
+              },
+              "text": {
+                "sourceLanguage": "fil",
+                "sourceText": "One hundred ninety na lang po' para sa maliit.",
+                "id": "Hanya seratus sembilan puluh untuk yang kecil. (sopan)",
+                "tagalog": "One hundred ninety na lang po' para sa maliit."
+              },
+              "sourcePage": 188
+            },
+            {
+              "speaker": "A 08",
+              "speakerText": {
+                "sourceLanguage": "mixed",
+                "sourceText": "A 08",
+                "id": "Bagian A 08"
+              },
+              "text": {
+                "sourceLanguage": "fil",
+                "sourceText": "Sige, pabili ng isa. May mangga ba kayo?",
+                "id": "Oke, saya akan membeli (membeli) satu. Apakah kamu punya mangga?",
+                "tagalog": "Sige, pabili ng isa. May mangga ba kayo?"
+              },
+              "sourcePage": 189
+            },
+            {
+              "speaker": "A 09",
+              "speakerText": {
+                "sourceLanguage": "mixed",
+                "sourceText": "A 09",
+                "id": "Bagian A 09"
+              },
+              "text": {
+                "sourceLanguage": "fil",
+                "sourceText": "Opo'. Ilan po'?",
+                "id": "Ya. Berapa banyak (yang Anda inginkan)? (sopan)",
+                "tagalog": "Opo'. Ilan po'?"
+              },
+              "sourcePage": 190
+            },
+            {
+              "speaker": "A 10",
+              "speakerText": {
+                "sourceLanguage": "mixed",
+                "sourceText": "A 10",
+                "id": "Bagian A 10"
+              },
+              "text": {
+                "sourceLanguage": "fil",
+                "sourceText": "Tatlong piraso lang.",
+                "id": "Hanya tiga buah.",
+                "tagalog": "Tatlong piraso lang."
+              },
+              "sourcePage": 191
+            },
+            {
+              "speaker": "A 11",
+              "speakerText": {
+                "sourceLanguage": "mixed",
+                "sourceText": "A 11",
+                "id": "Bagian A 11"
+              },
+              "text": {
+                "sourceLanguage": "fil",
+                "sourceText": "Forty-five pesos po'.",
+                "id": "Jumlahnya empat puluh lima peso, Pak.",
+                "tagalog": "Forty-five pesos po'."
+              },
+              "sourcePage": 192
+            },
+            {
+              "speaker": "A 12",
+              "speakerText": {
+                "sourceLanguage": "mixed",
+                "sourceText": "A 12",
+                "id": "Bagian A 12"
+              },
+              "text": {
+                "sourceLanguage": "fil",
+                "sourceText": "Magkano lahat?",
+                "id": "Berapa totalnya?",
+                "tagalog": "Magkano lahat?"
+              },
+              "sourcePage": 193
+            },
+            {
+              "speaker": "A 13",
+              "speakerText": {
+                "sourceLanguage": "mixed",
+                "sourceText": "A 13",
+                "id": "Bagian A 13"
+              },
+              "text": {
+                "sourceLanguage": "fil",
+                "sourceText": "Two hundred thirty-five po'.",
+                "id": "Dua ratus tiga puluh lima peso, Pak.",
+                "tagalog": "Two hundred thirty-five po'."
+              },
+              "sourcePage": 194
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "vocabulary",
+      "type": "VOCABULARY",
+      "title": {
+        "sourceLanguage": "mixed",
+        "sourceText": "Vocabulary and expressions",
+        "id": "Kosakata dan ungkapan"
+      },
+      "blocks": [
+        {
+          "type": "vocabulary",
+          "entries": [
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "Sa",
+                "id": "Pada",
+                "tagalog": "Sa"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "At",
+                "id": "Pada"
+              },
+              "sourcePage": 182
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "fruit stand",
+                "id": "Kios buah",
+                "tagalog": "fruit stand"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "fruit stand",
+                "id": "Kios buah"
+              },
+              "sourcePage": 182
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "Meron",
+                "id": "Memiliki",
+                "tagalog": "Meron"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "Have",
+                "id": "Memiliki"
+              },
+              "sourcePage": 183
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "ba",
+                "id": "[penanda tanya]",
+                "tagalog": "ba"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "[question]",
+                "id": "[penanda tanya]"
+              },
+              "sourcePage": 183
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "kayong",
+                "id": "Kamu (jamak)-[penghubung]",
+                "tagalog": "kayong"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "you (plural)-[linker]",
+                "id": "Kamu (jamak)-[penghubung]"
+              },
+              "sourcePage": 183
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "pakwan?",
+                "id": "Semangka?",
+                "tagalog": "pakwan?"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "watermelon?",
+                "id": "Semangka?"
+              },
+              "sourcePage": 183
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "Wala'",
+                "id": "Tidak punya",
+                "tagalog": "Wala'"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "Have none",
+                "id": "Tidak punya"
+              },
+              "sourcePage": 184
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "po'.",
+                "id": "[sopan].",
+                "tagalog": "po'."
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "[polite].",
+                "id": "[sopan]."
+              },
+              "sourcePage": 184
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "Pero",
+                "id": "Tetapi",
+                "tagalog": "Pero"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "But",
+                "id": "Tetapi"
+              },
+              "sourcePage": 184
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "kaming",
+                "id": "Kami (tidak termasuk Anda)-[penghubung]",
+                "tagalog": "kaming"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "we (excl. you)-[linker]",
+                "id": "Kami (tidak termasuk Anda)-[penghubung]"
+              },
+              "sourcePage": 184
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "chico",
+                "id": "Chico",
+                "tagalog": "chico"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "chico",
+                "id": "Chico"
+              },
+              "sourcePage": 184
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "at",
+                "id": "Dan",
+                "tagalog": "at"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "and",
+                "id": "Dan"
+              },
+              "sourcePage": 184
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "langka'.",
+                "id": "Nangka.",
+                "tagalog": "langka'."
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "jackfruit.",
+                "id": "Nangka."
+              },
+              "sourcePage": 184
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "Magkano",
+                "id": "Berapa harganya",
+                "tagalog": "Magkano"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "How much",
+                "id": "Berapa harganya"
+              },
+              "sourcePage": 185
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "ang",
+                "id": "penanda definit",
+                "tagalog": "ang"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "the",
+                "id": "penanda definit"
+              },
+              "sourcePage": 185
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "Two hundred fifty",
+                "id": "Dua ratus lima puluh",
+                "tagalog": "Two hundred fifty"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "Two hundred fifty",
+                "id": "Dua ratus lima puluh"
+              },
+              "sourcePage": 186
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "malaki,",
+                "id": "Besar,",
+                "tagalog": "malaki,"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "big,",
+                "id": "Besar,"
+              },
+              "sourcePage": 186
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "dalawang",
+                "id": "Dua-[penghubung]",
+                "tagalog": "dalawang"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "two-[linker]",
+                "id": "Dua-[penghubung]"
+              },
+              "sourcePage": 186
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "daan",
+                "id": "Ratus",
+                "tagalog": "daan"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "hundred",
+                "id": "Ratus"
+              },
+              "sourcePage": 186
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "maliit.",
+                "id": "Kecil.",
+                "tagalog": "maliit."
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "small.",
+                "id": "Kecil."
+              },
+              "sourcePage": 186
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "Walang",
+                "id": "Tidak ada-[penghubung]",
+                "tagalog": "Walang"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "There is no-[linker]",
+                "id": "Tidak ada-[penghubung]"
+              },
+              "sourcePage": 187
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "tawad?",
+                "id": "Diskon?",
+                "tagalog": "tawad?"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "discount?",
+                "id": "Diskon?"
+              },
+              "sourcePage": 187
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "One hundred ninety",
+                "id": "Seratus sembilan puluh",
+                "tagalog": "One hundred ninety"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "One hundred ninety",
+                "id": "Seratus sembilan puluh"
+              },
+              "sourcePage": 188
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "na lang",
+                "id": "Alih-alih",
+                "tagalog": "na lang"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "instead",
+                "id": "Alih-alih"
+              },
+              "sourcePage": 188
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "para sa",
+                "id": "Untuk",
+                "tagalog": "para sa"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "for",
+                "id": "Untuk"
+              },
+              "sourcePage": 188
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "Sige,",
+                "id": "Oke,",
+                "tagalog": "Sige,"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "OK,",
+                "id": "Oke,"
+              },
+              "sourcePage": 189
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "pabili",
+                "id": "Bisakah kamu mengizinkanku membeli",
+                "tagalog": "pabili"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "could you let me buy",
+                "id": "Bisakah kamu mengizinkanku membeli"
+              },
+              "sourcePage": 189
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "ng",
+                "id": "[penanda ng]",
+                "tagalog": "ng"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "[Ng marker]",
+                "id": "[penanda ng]"
+              },
+              "sourcePage": 189
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "isa.",
+                "id": "Satu.",
+                "tagalog": "isa."
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "one.",
+                "id": "Satu."
+              },
+              "sourcePage": 189
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "May",
+                "id": "Memiliki",
+                "tagalog": "May"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "Have",
+                "id": "Memiliki"
+              },
+              "sourcePage": 189
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "mangga",
+                "id": "Buah mangga",
+                "tagalog": "mangga"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "mango",
+                "id": "Buah mangga"
+              },
+              "sourcePage": 189
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "kayo?",
+                "id": "Kamu (jamak)?",
+                "tagalog": "kayo?"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "you (plural)?",
+                "id": "Kamu (jamak)?"
+              },
+              "sourcePage": 189
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "Opo'.",
+                "id": "Ya (sopan).",
+                "tagalog": "Opo'."
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "Yes (polite).",
+                "id": "Ya (sopan)."
+              },
+              "sourcePage": 190
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "Ilan",
+                "id": "Berapa banyak",
+                "tagalog": "Ilan"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "How many",
+                "id": "Berapa banyak"
+              },
+              "sourcePage": 190
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "Tatlong",
+                "id": "Tiga-[penghubung]",
+                "tagalog": "Tatlong"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "Three-[linker]",
+                "id": "Tiga-[penghubung]"
+              },
+              "sourcePage": 191
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "piraso",
+                "id": "Bagian",
+                "tagalog": "piraso"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "piece",
+                "id": "Bagian"
+              },
+              "sourcePage": 191
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "lang.",
+                "id": "Hanya.",
+                "tagalog": "lang."
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "only.",
+                "id": "Hanya."
+              },
+              "sourcePage": 191
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "Forty-five",
+                "id": "Empat puluh lima",
+                "tagalog": "Forty-five"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "Forty-five",
+                "id": "Empat puluh lima"
+              },
+              "sourcePage": 192
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "pesos",
+                "id": "Peso",
+                "tagalog": "pesos"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "pesos",
+                "id": "Peso"
+              },
+              "sourcePage": 192
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "lahat?",
+                "id": "Semua?",
+                "tagalog": "lahat?"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "all?",
+                "id": "Semua?"
+              },
+              "sourcePage": 193
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "Two hundred thirty-five",
+                "id": "Dua ratus tiga puluh lima",
+                "tagalog": "Two hundred thirty-five"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "Two hundred thirty-five",
+                "id": "Dua ratus tiga puluh lima"
+              },
+              "sourcePage": 194
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "Salamat.",
+                "id": "Terima kasih.",
+                "tagalog": "Salamat."
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "Thanks.",
+                "id": "Terima kasih."
+              },
+              "sourcePage": 195
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "silang",
+                "id": "Mereka-[penghubung]",
+                "tagalog": "silang"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "they-[linker]",
+                "id": "Mereka-[penghubung]"
+              },
+              "sourcePage": 197
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "nga'",
+                "id": "Tolong",
+                "tagalog": "nga'"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "please",
+                "id": "Tolong"
+              },
+              "sourcePage": 199
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "Hindi'",
+                "id": "Bukan",
+                "tagalog": "Hindi'"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "Not",
+                "id": "Bukan"
+              },
+              "sourcePage": 200
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "maganda",
+                "id": "Cantik",
+                "tagalog": "maganda"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "pretty",
+                "id": "Cantik"
+              },
+              "sourcePage": 200
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "saging",
+                "id": "Pisang",
+                "tagalog": "saging"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "banana",
+                "id": "Pisang"
+              },
+              "sourcePage": 200
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "na",
+                "id": "[penghubung]",
+                "tagalog": "na"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "[linker]",
+                "id": "[penghubung]"
+              },
+              "sourcePage": 200
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "ito.",
+                "id": "Ini.",
+                "tagalog": "ito."
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "this.",
+                "id": "Ini."
+              },
+              "sourcePage": 200
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "Pangit",
+                "id": "Jelek",
+                "tagalog": "Pangit"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "Ugly",
+                "id": "Jelek"
+              },
+              "sourcePage": 201
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "pakwang",
+                "id": "Semangka-[penghubung]",
+                "tagalog": "pakwang"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "watermelon-[linker]",
+                "id": "Semangka-[penghubung]"
+              },
+              "sourcePage": 201
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "pinyang",
+                "id": "Nanas-[penghubung]",
+                "tagalog": "pinyang"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "pineapple-[linker]",
+                "id": "Nanas-[penghubung]"
+              },
+              "sourcePage": 202
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "iyan?",
+                "id": "Itu (di dekatmu)?",
+                "tagalog": "iyan?"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "that (near you)?",
+                "id": "Itu (di dekatmu)?"
+              },
+              "sourcePage": 202
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "Isang",
+                "id": "Satu-[penghubung]",
+                "tagalog": "Isang"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "One-[linker]",
+                "id": "Satu-[penghubung]"
+              },
+              "sourcePage": 203
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "kilong",
+                "id": "Kilo-[penghubung]",
+                "tagalog": "kilong"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "kilo-[linker]",
+                "id": "Kilo-[penghubung]"
+              },
+              "sourcePage": 204
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "Sixty-five",
+                "id": "Enam puluh lima",
+                "tagalog": "Sixty-five"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "Sixty-five",
+                "id": "Enam puluh lima"
+              },
+              "sourcePage": 205
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "akong",
+                "id": "I-[penghubung]",
+                "tagalog": "akong"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "I-[linker]",
+                "id": "I-[penghubung]"
+              },
+              "sourcePage": 206
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "barya.",
+                "id": "Uang receh.",
+                "tagalog": "barya."
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "loose change.",
+                "id": "Uang receh."
+              },
+              "sourcePage": 206
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "Buong",
+                "id": "Seluruh-[penghubung]",
+                "tagalog": "Buong"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "Whole-[linker]",
+                "id": "Seluruh-[penghubung]"
+              },
+              "sourcePage": 206
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "limang",
+                "id": "Lima-[penghubung]",
+                "tagalog": "limang"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "five-[linker]",
+                "id": "Lima-[penghubung]"
+              },
+              "sourcePage": 206
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "pera",
+                "id": "Uang",
+                "tagalog": "pera"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "money",
+                "id": "Uang"
+              },
+              "sourcePage": 206
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "ko.",
+                "id": "Ku.",
+                "tagalog": "ko."
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "my.",
+                "id": "Ku."
+              },
+              "sourcePage": 206
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "Di' bale,",
+                "id": "Sudahlah,",
+                "tagalog": "Di' bale,"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "Never mind,",
+                "id": "Sudahlah,"
+              },
+              "sourcePage": 207
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "panukli'",
+                "id": "Mengubah",
+                "tagalog": "panukli'"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "change",
+                "id": "Mengubah"
+              },
+              "sourcePage": 207
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "ako.",
+                "id": "SAYA.",
+                "tagalog": "ako."
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "I.",
+                "id": "SAYA."
+              },
+              "sourcePage": 207
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "libo,",
+                "id": "Ribu,",
+                "tagalog": "libo,"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "thousand,",
+                "id": "Ribu,"
+              },
+              "sourcePage": 208
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "milyon",
+                "id": "Juta",
+                "tagalog": "milyon"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "million",
+                "id": "Juta"
+              },
+              "sourcePage": 208
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "style": "body",
+          "sourcePage": 183,
+          "sourceLabel": "A 02",
+          "links": [],
+          "text": {
+            "sourceLanguage": "en",
+            "sourceText": "Merong pakwan. – There are watermelons. Meron ba kayong pakwan? – Do you have watermelons? Na/-ng is inserted after ba and kayo, which are both enclitic.",
+            "id": "A 02 · halaman PDF 183\n\nMerong pakwan. – Ada semangka. Meron ba kayong pakwan? – Apakah Anda punya semangka? Na/-ng disisipkan setelah ba dan kayo, yang keduanya enklitik."
+          }
+        },
+        {
+          "type": "text",
+          "style": "body",
+          "sourcePage": 184,
+          "sourceLabel": "A 03",
+          "links": [],
+          "text": {
+            "sourceLanguage": "en",
+            "sourceText": "Kami – we (excluding you).",
+            "id": "A 03 · halaman PDF 184\n\nKami – kami (tidak termasuk Anda)."
+          }
+        },
+        {
+          "type": "text",
+          "style": "body",
+          "sourcePage": 185,
+          "sourceLabel": "A 04",
+          "links": [],
+          "text": {
+            "sourceLanguage": "en",
+            "sourceText": "Magkano means how much and is used only for prices.",
+            "id": "A 04 · halaman PDF 185\n\nMagkano artinya berapa dan hanya digunakan untuk harga."
+          }
+        },
+        {
+          "type": "text",
+          "style": "body",
+          "sourcePage": 186,
+          "sourceLabel": "A 05",
+          "links": [
+            "https://learningtagalog.com/grammar/nouns/verbs_adjectives_etc_used_as_nouns.html"
+          ],
+          "text": {
+            "sourceLanguage": "en",
+            "sourceText": "Malaki – big. Ang malaki – the big one, or in the case of fruits, the big ones.",
+            "id": "A 05 · halaman PDF 186\n\nMalaki – besar. Ang malaki – yang besar, atau dalam hal buah-buahan, yang besar."
+          }
+        },
+        {
+          "type": "text",
+          "style": "body",
+          "sourcePage": 187,
+          "sourceLabel": "A 06",
+          "links": [],
+          "text": {
+            "sourceLanguage": "en",
+            "sourceText": "Walang tawad? is often used when haggling.",
+            "id": "A 06 · halaman PDF 187\n\nWalang tawad? sering digunakan saat tawar-menawar."
+          }
+        },
+        {
+          "type": "text",
+          "style": "body",
+          "sourcePage": 188,
+          "sourceLabel": "A 07",
+          "links": [],
+          "text": {
+            "sourceLanguage": "en",
+            "sourceText": "Na lang can be used to present an alternative to what has been said or planned before, or to what is expected.",
+            "id": "A 07 · halaman PDF 188\n\nNa lang dapat digunakan untuk menyajikan alternatif terhadap apa yang telah dikatakan atau direncanakan sebelumnya, atau terhadap apa yang diharapkan."
+          }
+        },
+        {
+          "type": "text",
+          "style": "body",
+          "sourcePage": 188,
+          "sourceLabel": "A 07",
+          "links": [],
+          "text": {
+            "sourceLanguage": "en",
+            "sourceText": "Na, lang and po' are enclitic.",
+            "id": "A 07 · halaman PDF 188\n\nNa, lang dan po' adalah enklitik."
+          }
+        },
+        {
+          "type": "text",
+          "style": "body",
+          "sourcePage": 190,
+          "sourceLabel": "A 09",
+          "links": [],
+          "text": {
+            "sourceLanguage": "en",
+            "sourceText": "Opo' (or oho') is the polite way of saying yes.",
+            "id": "A 09 · halaman PDF 190\n\nOpo' (atau oho') adalah cara sopan untuk mengatakan ya."
+          }
+        },
+        {
+          "type": "text",
+          "style": "body",
+          "sourcePage": 193,
+          "sourceLabel": "A 12",
+          "links": [],
+          "text": {
+            "sourceLanguage": "en",
+            "sourceText": "Lahat can mean all, everything or everyone.",
+            "id": "A 12 · halaman PDF 193\n\nLahat bisa berarti semua, segalanya atau semua orang."
+          }
+        },
+        {
+          "type": "text",
+          "style": "body",
+          "sourcePage": 199,
+          "sourceLabel": "B 03",
+          "links": [],
+          "text": {
+            "sourceLanguage": "en",
+            "sourceText": "Nga' can be used to make a command or request more polite and friendly.",
+            "id": "B 03 · halaman PDF 199\n\nNga' dapat digunakan untuk membuat perintah atau permintaan menjadi lebih sopan dan bersahabat."
+          }
+        },
+        {
+          "type": "text",
+          "style": "body",
+          "sourcePage": 200,
+          "sourceLabel": "B 04",
+          "links": [
+            "https://learningtagalog.com/grammar/pronouns/ang_pronouns/demonstrative_pronouns/this_dog_that_dog_etc.html"
+          ],
+          "text": {
+            "sourceLanguage": "en",
+            "sourceText": "Ito – this.",
+            "id": "B 04 · halaman PDF 200\n\nIto – ini."
+          }
+        },
+        {
+          "type": "text",
+          "style": "body",
+          "sourcePage": 200,
+          "sourceLabel": "B 04",
+          "links": [
+            "https://learningtagalog.com/grammar/pronouns/ang_pronouns/demonstrative_pronouns/this_dog_that_dog_etc.html"
+          ],
+          "text": {
+            "sourceLanguage": "en",
+            "sourceText": "Ang saging na ito – this banana. Na/-ng is used to link ito/iyan/iyon with the thing it specifies.",
+            "id": "B 04 · halaman PDF 200\n\nAng saging na ito – pisang ini. Na/-ng digunakan untuk menghubungkan ito/iyan/iyon dengan hal yang ditentukannya."
+          }
+        },
+        {
+          "type": "text",
+          "style": "body",
+          "sourcePage": 200,
+          "sourceLabel": "B 04",
+          "links": [
+            "https://learningtagalog.com/grammar/pronouns/ang_pronouns/demonstrative_pronouns/this_dog_that_dog_etc.html"
+          ],
+          "text": {
+            "sourceLanguage": "en",
+            "sourceText": "Optional reading: This dog, that dog etc.",
+            "id": "B 04 · halaman PDF 200\n\nBacaan opsional: Anjing ini, anjing itu, dll."
+          }
+        },
+        {
+          "type": "text",
+          "style": "body",
+          "sourcePage": 202,
+          "sourceLabel": "B 06",
+          "links": [],
+          "text": {
+            "sourceLanguage": "en",
+            "sourceText": "Iyan – that (near you).",
+            "id": "B 06 · halaman PDF 202\n\nIyan – itu (dekat Anda)."
+          }
+        },
+        {
+          "type": "text",
+          "style": "body",
+          "sourcePage": 202,
+          "sourceLabel": "B 06",
+          "links": [],
+          "text": {
+            "sourceLanguage": "en",
+            "sourceText": "Ang pinyang iyan – that pineapple (near you).",
+            "id": "B 06 · halaman PDF 202\n\nAng pinyang iyan – nanas itu (dekat Anda)."
+          }
+        },
+        {
+          "type": "text",
+          "style": "body",
+          "sourcePage": 206,
+          "sourceLabel": "B 10",
+          "links": [],
+          "text": {
+            "sourceLanguage": "en",
+            "sourceText": "Barya – loose change or coins and small notes.",
+            "id": "B 10 · halaman PDF 206\n\nBarya – recehan atau koin dan uang kertas kecil."
+          }
+        },
+        {
+          "type": "text",
+          "style": "body",
+          "sourcePage": 206,
+          "sourceLabel": "B 10",
+          "links": [],
+          "text": {
+            "sourceLanguage": "en",
+            "sourceText": "Buo – whole.",
+            "id": "B 10 · halaman PDF 206\n\nBuo – utuh."
+          }
+        }
+      ]
+    },
+    {
+      "id": "grammar",
+      "type": "GRAMMAR",
+      "title": {
+        "sourceLanguage": "mixed",
+        "sourceText": "Grammar and pronunciation notes",
+        "id": "Catatan tata bahasa dan pelafalan"
+      },
+      "blocks": [
+        {
+          "type": "text",
+          "style": "body",
+          "sourcePage": 186,
+          "sourceLabel": "A 05",
+          "links": [
+            "https://learningtagalog.com/grammar/nouns/verbs_adjectives_etc_used_as_nouns.html"
+          ],
+          "text": {
+            "sourceLanguage": "en",
+            "sourceText": "Optional reading: Verbs, adjectives etc. used as nouns.",
+            "id": "A 05 · halaman PDF 186\n\nBacaan opsional: Kata kerja, kata sifat, dll. Digunakan sebagai kata benda."
+          }
+        },
+        {
+          "type": "text",
+          "style": "body",
+          "sourcePage": 189,
+          "sourceLabel": "A 08",
+          "links": [],
+          "text": {
+            "sourceLanguage": "en",
+            "sourceText": "Pa- words indicating a request (such as pabili) may be followed by a Ng marker or a Ng pronoun (and not by an Ang marker or pronoun).",
+            "id": "A 08 · halaman PDF 189\n\nKata Pa- yang menunjukkan permintaan (seperti pabili) dapat diikuti oleh penanda Ng atau kata ganti Ng (dan bukan penanda atau kata ganti Ang)."
+          }
+        },
+        {
+          "type": "text",
+          "style": "body",
+          "sourcePage": 189,
+          "sourceLabel": "A 08",
+          "links": [],
+          "text": {
+            "sourceLanguage": "en",
+            "sourceText": "Meron bang mangga? But: May mangga ba? May cannot be immediately followed by an enclitic word such as ba.",
+            "id": "A 08 · halaman PDF 189\n\nMeron bang mangga? Tapi: May mangga ba? May tidak bisa langsung diikuti dengan kata enklitik seperti ba."
+          }
+        },
+        {
+          "type": "text",
+          "style": "body",
+          "sourcePage": 207,
+          "sourceLabel": "B 11",
+          "links": [],
+          "text": {
+            "sourceLanguage": "en",
+            "sourceText": "May cannot be followed by enclitic words, such as po' and ako.",
+            "id": "B 11 · halaman PDF 207\n\nMay tidak boleh diikuti dengan kata enklitik, seperti po' dan ako."
+          }
+        }
+      ]
+    },
+    {
+      "id": "examples",
+      "type": "EXAMPLES",
+      "title": {
+        "sourceLanguage": "mixed",
+        "sourceText": "Literal and natural translations",
+        "id": "Contoh dengan glosa harfiah dan alami"
+      },
+      "blocks": [
+        {
+          "type": "example",
+          "title": {
+            "sourceLanguage": "mixed",
+            "sourceText": "A 01",
+            "id": "A 01 · halaman PDF 182"
+          },
+          "sourcePage": 182,
+          "rows": [
+            {
+              "cells": [
+                {
+                  "sourceLanguage": "fil",
+                  "sourceText": "Sa fruit stand",
+                  "id": "Di kios buah",
+                  "tagalog": "Sa fruit stand"
+                },
+                {
+                  "sourceLanguage": "en",
+                  "sourceText": "At fruit stand",
+                  "id": "Glosa harfiah (Inggris)\nAt fruit stand"
+                },
+                {
+                  "sourceLanguage": "en",
+                  "sourceText": "At the fruit stand",
+                  "id": "Terjemahan alami sumber (Inggris)\nAt the fruit stand"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "example",
+          "title": {
+            "sourceLanguage": "mixed",
+            "sourceText": "A 02",
+            "id": "A 02 · halaman PDF 183"
+          },
+          "sourcePage": 183,
+          "rows": [
+            {
+              "cells": [
+                {
+                  "sourceLanguage": "fil",
+                  "sourceText": "Meron ba kayong pakwan?",
+                  "id": "Apakah kamu punya semangka?",
+                  "tagalog": "Meron ba kayong pakwan?"
+                },
+                {
+                  "sourceLanguage": "en",
+                  "sourceText": "Have [question] you (plural)-[linker] watermelon?",
+                  "id": "Glosa harfiah (Inggris)\nHave [question] you (plural)-[linker] watermelon?"
+                },
+                {
+                  "sourceLanguage": "en",
+                  "sourceText": "Do you have watermelons?",
+                  "id": "Terjemahan alami sumber (Inggris)\nDo you have watermelons?"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "example",
+          "title": {
+            "sourceLanguage": "mixed",
+            "sourceText": "A 03",
+            "id": "A 03 · halaman PDF 184"
+          },
+          "sourcePage": 184,
+          "rows": [
+            {
+              "cells": [
+                {
+                  "sourceLanguage": "fil",
+                  "sourceText": "Wala' po'. Pero meron kaming chico at langka'.",
+                  "id": "Tidak, tuan. Tapi kami punya chico dan nangka.",
+                  "tagalog": "Wala' po'. Pero meron kaming chico at langka'."
+                },
+                {
+                  "sourceLanguage": "en",
+                  "sourceText": "Have none [polite]. But have we (excl. you)-[linker] chico and jackfruit.",
+                  "id": "Glosa harfiah (Inggris)\nHave none [polite]. But have we (excl. you)-[linker] chico and jackfruit."
+                },
+                {
+                  "sourceLanguage": "en",
+                  "sourceText": "No, sir. But we do have chico and jackfruit.",
+                  "id": "Terjemahan alami sumber (Inggris)\nNo, sir. But we do have chico and jackfruit."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "example",
+          "title": {
+            "sourceLanguage": "mixed",
+            "sourceText": "A 04",
+            "id": "A 04 · halaman PDF 185"
+          },
+          "sourcePage": 185,
+          "rows": [
+            {
+              "cells": [
+                {
+                  "sourceLanguage": "fil",
+                  "sourceText": "Magkano ang langka'?",
+                  "id": "Berapa harga buah nangkanya?",
+                  "tagalog": "Magkano ang langka'?"
+                },
+                {
+                  "sourceLanguage": "en",
+                  "sourceText": "How much the jackfruit?",
+                  "id": "Glosa harfiah (Inggris)\nHow much the jackfruit?"
+                },
+                {
+                  "sourceLanguage": "en",
+                  "sourceText": "How much are the jackfruits?",
+                  "id": "Terjemahan alami sumber (Inggris)\nHow much are the jackfruits?"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "example",
+          "title": {
+            "sourceLanguage": "mixed",
+            "sourceText": "A 05",
+            "id": "A 05 · halaman PDF 186"
+          },
+          "sourcePage": 186,
+          "rows": [
+            {
+              "cells": [
+                {
+                  "sourceLanguage": "fil",
+                  "sourceText": "Two hundred fifty ang malaki, dalawang daan ang maliit.",
+                  "id": "Yang besar dua ratus lima puluh, yang kecil dua ratus.",
+                  "tagalog": "Two hundred fifty ang malaki, dalawang daan ang maliit."
+                },
+                {
+                  "sourceLanguage": "en",
+                  "sourceText": "Two hundred fifty the big, two-[linker] hundred the small.",
+                  "id": "Glosa harfiah (Inggris)\nTwo hundred fifty the big, two-[linker] hundred the small."
+                },
+                {
+                  "sourceLanguage": "en",
+                  "sourceText": "The big ones are two hundred fifty, the small ones are two hundred.",
+                  "id": "Terjemahan alami sumber (Inggris)\nThe big ones are two hundred fifty, the small ones are two hundred."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "example",
+          "title": {
+            "sourceLanguage": "mixed",
+            "sourceText": "A 06",
+            "id": "A 06 · halaman PDF 187"
+          },
+          "sourcePage": 187,
+          "rows": [
+            {
+              "cells": [
+                {
+                  "sourceLanguage": "fil",
+                  "sourceText": "Walang tawad?",
+                  "id": "Apakah harganya bisa dinegosiasikan? (Apakah tidak ada diskon?)",
+                  "tagalog": "Walang tawad?"
+                },
+                {
+                  "sourceLanguage": "en",
+                  "sourceText": "There is no-[linker] discount?",
+                  "id": "Glosa harfiah (Inggris)\nThere is no-[linker] discount?"
+                },
+                {
+                  "sourceLanguage": "en",
+                  "sourceText": "Is the price negotiable? (Is there no discount?)",
+                  "id": "Terjemahan alami sumber (Inggris)\nIs the price negotiable? (Is there no discount?)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "example",
+          "title": {
+            "sourceLanguage": "mixed",
+            "sourceText": "A 07",
+            "id": "A 07 · halaman PDF 188"
+          },
+          "sourcePage": 188,
+          "rows": [
+            {
+              "cells": [
+                {
+                  "sourceLanguage": "fil",
+                  "sourceText": "One hundred ninety na lang po' para sa maliit.",
+                  "id": "Hanya seratus sembilan puluh untuk yang kecil. (sopan)",
+                  "tagalog": "One hundred ninety na lang po' para sa maliit."
+                },
+                {
+                  "sourceLanguage": "en",
+                  "sourceText": "One hundred ninety instead [polite] for small.",
+                  "id": "Glosa harfiah (Inggris)\nOne hundred ninety instead [polite] for small."
+                },
+                {
+                  "sourceLanguage": "en",
+                  "sourceText": "Just one hundred ninety then for the small ones. (polite)",
+                  "id": "Terjemahan alami sumber (Inggris)\nJust one hundred ninety then for the small ones. (polite)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "example",
+          "title": {
+            "sourceLanguage": "mixed",
+            "sourceText": "A 08",
+            "id": "A 08 · halaman PDF 189"
+          },
+          "sourcePage": 189,
+          "rows": [
+            {
+              "cells": [
+                {
+                  "sourceLanguage": "fil",
+                  "sourceText": "Sige, pabili ng isa. May mangga ba kayo?",
+                  "id": "Oke, saya akan membeli (membeli) satu. Apakah kamu punya mangga?",
+                  "tagalog": "Sige, pabili ng isa. May mangga ba kayo?"
+                },
+                {
+                  "sourceLanguage": "en",
+                  "sourceText": "OK, could you let me buy [Ng marker] one. Have mango [question] you (plural)?",
+                  "id": "Glosa harfiah (Inggris)\nOK, could you let me buy [Ng marker] one. Have mango [question] you (plural)?"
+                },
+                {
+                  "sourceLanguage": "en",
+                  "sourceText": "OK, I'll get (buy) one. Do you have mangoes?",
+                  "id": "Terjemahan alami sumber (Inggris)\nOK, I'll get (buy) one. Do you have mangoes?"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "example",
+          "title": {
+            "sourceLanguage": "mixed",
+            "sourceText": "A 09",
+            "id": "A 09 · halaman PDF 190"
+          },
+          "sourcePage": 190,
+          "rows": [
+            {
+              "cells": [
+                {
+                  "sourceLanguage": "fil",
+                  "sourceText": "Opo'. Ilan po'?",
+                  "id": "Ya. Berapa banyak (yang Anda inginkan)? (sopan)",
+                  "tagalog": "Opo'. Ilan po'?"
+                },
+                {
+                  "sourceLanguage": "en",
+                  "sourceText": "Yes (polite). How many [polite]?",
+                  "id": "Glosa harfiah (Inggris)\nYes (polite). How many [polite]?"
+                },
+                {
+                  "sourceLanguage": "en",
+                  "sourceText": "Yes. How many (would you like)? (polite)",
+                  "id": "Terjemahan alami sumber (Inggris)\nYes. How many (would you like)? (polite)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "example",
+          "title": {
+            "sourceLanguage": "mixed",
+            "sourceText": "A 10",
+            "id": "A 10 · halaman PDF 191"
+          },
+          "sourcePage": 191,
+          "rows": [
+            {
+              "cells": [
+                {
+                  "sourceLanguage": "fil",
+                  "sourceText": "Tatlong piraso lang.",
+                  "id": "Hanya tiga buah.",
+                  "tagalog": "Tatlong piraso lang."
+                },
+                {
+                  "sourceLanguage": "en",
+                  "sourceText": "Three-[linker] piece only.",
+                  "id": "Glosa harfiah (Inggris)\nThree-[linker] piece only."
+                },
+                {
+                  "sourceLanguage": "en",
+                  "sourceText": "Just three (pieces).",
+                  "id": "Terjemahan alami sumber (Inggris)\nJust three (pieces)."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "example",
+          "title": {
+            "sourceLanguage": "mixed",
+            "sourceText": "A 11",
+            "id": "A 11 · halaman PDF 192"
+          },
+          "sourcePage": 192,
+          "rows": [
+            {
+              "cells": [
+                {
+                  "sourceLanguage": "fil",
+                  "sourceText": "Forty-five pesos po'.",
+                  "id": "Jumlahnya empat puluh lima peso, Pak.",
+                  "tagalog": "Forty-five pesos po'."
+                },
+                {
+                  "sourceLanguage": "en",
+                  "sourceText": "Forty-five pesos [polite].",
+                  "id": "Glosa harfiah (Inggris)\nForty-five pesos [polite]."
+                },
+                {
+                  "sourceLanguage": "en",
+                  "sourceText": "That will be forty-five pesos, sir.",
+                  "id": "Terjemahan alami sumber (Inggris)\nThat will be forty-five pesos, sir."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "example",
+          "title": {
+            "sourceLanguage": "mixed",
+            "sourceText": "A 12",
+            "id": "A 12 · halaman PDF 193"
+          },
+          "sourcePage": 193,
+          "rows": [
+            {
+              "cells": [
+                {
+                  "sourceLanguage": "fil",
+                  "sourceText": "Magkano lahat?",
+                  "id": "Berapa totalnya?",
+                  "tagalog": "Magkano lahat?"
+                },
+                {
+                  "sourceLanguage": "en",
+                  "sourceText": "How much all?",
+                  "id": "Glosa harfiah (Inggris)\nHow much all?"
+                },
+                {
+                  "sourceLanguage": "en",
+                  "sourceText": "How much is it in total?",
+                  "id": "Terjemahan alami sumber (Inggris)\nHow much is it in total?"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "example",
+          "title": {
+            "sourceLanguage": "mixed",
+            "sourceText": "A 13",
+            "id": "A 13 · halaman PDF 194"
+          },
+          "sourcePage": 194,
+          "rows": [
+            {
+              "cells": [
+                {
+                  "sourceLanguage": "fil",
+                  "sourceText": "Two hundred thirty-five po'.",
+                  "id": "Dua ratus tiga puluh lima peso, Pak.",
+                  "tagalog": "Two hundred thirty-five po'."
+                },
+                {
+                  "sourceLanguage": "en",
+                  "sourceText": "Two hundred thirty-five [polite].",
+                  "id": "Glosa harfiah (Inggris)\nTwo hundred thirty-five [polite]."
+                },
+                {
+                  "sourceLanguage": "en",
+                  "sourceText": "Two hundred thirty-five pesos, sir.",
+                  "id": "Terjemahan alami sumber (Inggris)\nTwo hundred thirty-five pesos, sir."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "example",
+          "title": {
+            "sourceLanguage": "mixed",
+            "sourceText": "A 14",
+            "id": "A 14 · halaman PDF 195"
+          },
+          "sourcePage": 195,
+          "rows": [
+            {
+              "cells": [
+                {
+                  "sourceLanguage": "fil",
+                  "sourceText": "Salamat.",
+                  "id": "Terima kasih.",
+                  "tagalog": "Salamat."
+                },
+                {
+                  "sourceLanguage": "en",
+                  "sourceText": "Thanks.",
+                  "id": "Glosa harfiah (Inggris)\nThanks."
+                },
+                {
+                  "sourceLanguage": "en",
+                  "sourceText": "Thanks.",
+                  "id": "Terjemahan alami sumber (Inggris)\nThanks."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "example",
+          "title": {
+            "sourceLanguage": "mixed",
+            "sourceText": "B 01",
+            "id": "B 01 · halaman PDF 197"
+          },
+          "sourcePage": 197,
+          "rows": [
+            {
+              "cells": [
+                {
+                  "sourceLanguage": "fil",
+                  "sourceText": "Meron silang langka'.",
+                  "id": "Mereka punya nangka.",
+                  "tagalog": "Meron silang langka'."
+                },
+                {
+                  "sourceLanguage": "en",
+                  "sourceText": "Have they-[linker] jackfruit.",
+                  "id": "Glosa harfiah (Inggris)\nHave they-[linker] jackfruit."
+                },
+                {
+                  "sourceLanguage": "en",
+                  "sourceText": "They have jackfruits.",
+                  "id": "Terjemahan alami sumber (Inggris)\nThey have jackfruits."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "example",
+          "title": {
+            "sourceLanguage": "mixed",
+            "sourceText": "B 02",
+            "id": "B 02 · halaman PDF 198"
+          },
+          "sourcePage": 198,
+          "rows": [
+            {
+              "cells": [
+                {
+                  "sourceLanguage": "fil",
+                  "sourceText": "Wala' po' kaming pakwan.",
+                  "id": "Kami tidak punya semangka. (sopan)",
+                  "tagalog": "Wala' po' kaming pakwan."
+                },
+                {
+                  "sourceLanguage": "en",
+                  "sourceText": "Have no [polite] we (excl. you)-[linker] watermelon.",
+                  "id": "Glosa harfiah (Inggris)\nHave no [polite] we (excl. you)-[linker] watermelon."
+                },
+                {
+                  "sourceLanguage": "en",
+                  "sourceText": "We don't have watermelons. (polite)",
+                  "id": "Terjemahan alami sumber (Inggris)\nWe don't have watermelons. (polite)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "example",
+          "title": {
+            "sourceLanguage": "mixed",
+            "sourceText": "B 03",
+            "id": "B 03 · halaman PDF 199"
+          },
+          "sourcePage": 199,
+          "rows": [
+            {
+              "cells": [
+                {
+                  "sourceLanguage": "fil",
+                  "sourceText": "Pabili nga' po' ng mangga.",
+                  "id": "Tolong, saya ingin membeli beberapa mangga. (sopan)",
+                  "tagalog": "Pabili nga' po' ng mangga."
+                },
+                {
+                  "sourceLanguage": "en",
+                  "sourceText": "Could you let me buy please [polite] [Ng marker] mango.",
+                  "id": "Glosa harfiah (Inggris)\nCould you let me buy please [polite] [Ng marker] mango."
+                },
+                {
+                  "sourceLanguage": "en",
+                  "sourceText": "I'd like to buy some mangoes, please. (polite)",
+                  "id": "Terjemahan alami sumber (Inggris)\nI'd like to buy some mangoes, please. (polite)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "example",
+          "title": {
+            "sourceLanguage": "mixed",
+            "sourceText": "B 04",
+            "id": "B 04 · halaman PDF 200"
+          },
+          "sourcePage": 200,
+          "rows": [
+            {
+              "cells": [
+                {
+                  "sourceLanguage": "fil",
+                  "sourceText": "Hindi' maganda ang saging na ito.",
+                  "id": "Pisang ini sepertinya tidak enak.",
+                  "tagalog": "Hindi' maganda ang saging na ito."
+                },
+                {
+                  "sourceLanguage": "en",
+                  "sourceText": "Not pretty the banana [linker] this.",
+                  "id": "Glosa harfiah (Inggris)\nNot pretty the banana [linker] this."
+                },
+                {
+                  "sourceLanguage": "en",
+                  "sourceText": "This banana doesn't look good.",
+                  "id": "Terjemahan alami sumber (Inggris)\nThis banana doesn't look good."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "example",
+          "title": {
+            "sourceLanguage": "mixed",
+            "sourceText": "B 05",
+            "id": "B 05 · halaman PDF 201"
+          },
+          "sourcePage": 201,
+          "rows": [
+            {
+              "cells": [
+                {
+                  "sourceLanguage": "fil",
+                  "sourceText": "Pangit ang pakwang ito.",
+                  "id": "Semangka ini kelihatannya tidak bagus.",
+                  "tagalog": "Pangit ang pakwang ito."
+                },
+                {
+                  "sourceLanguage": "en",
+                  "sourceText": "Ugly the watermelon-[linker] this.",
+                  "id": "Glosa harfiah (Inggris)\nUgly the watermelon-[linker] this."
+                },
+                {
+                  "sourceLanguage": "en",
+                  "sourceText": "This watermelon doesn't look good.",
+                  "id": "Terjemahan alami sumber (Inggris)\nThis watermelon doesn't look good."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "example",
+          "title": {
+            "sourceLanguage": "mixed",
+            "sourceText": "B 06",
+            "id": "B 06 · halaman PDF 202"
+          },
+          "sourcePage": 202,
+          "rows": [
+            {
+              "cells": [
+                {
+                  "sourceLanguage": "fil",
+                  "sourceText": "Magkano ang pinyang iyan?",
+                  "id": "Berapa harga nanasnya?",
+                  "tagalog": "Magkano ang pinyang iyan?"
+                },
+                {
+                  "sourceLanguage": "en",
+                  "sourceText": "How much the pineapple-[linker] that (near you)?",
+                  "id": "Glosa harfiah (Inggris)\nHow much the pineapple-[linker] that (near you)?"
+                },
+                {
+                  "sourceLanguage": "en",
+                  "sourceText": "How much is that pineapple?",
+                  "id": "Terjemahan alami sumber (Inggris)\nHow much is that pineapple?"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "example",
+          "title": {
+            "sourceLanguage": "mixed",
+            "sourceText": "B 07",
+            "id": "B 07 · halaman PDF 203"
+          },
+          "sourcePage": 203,
+          "rows": [
+            {
+              "cells": [
+                {
+                  "sourceLanguage": "fil",
+                  "sourceText": "Isang daan lang po'.",
+                  "id": "Hanya seratus peso, Pak.",
+                  "tagalog": "Isang daan lang po'."
+                },
+                {
+                  "sourceLanguage": "en",
+                  "sourceText": "One-[linker] hundred only [polite].",
+                  "id": "Glosa harfiah (Inggris)\nOne-[linker] hundred only [polite]."
+                },
+                {
+                  "sourceLanguage": "en",
+                  "sourceText": "Only one hundred pesos, sir.",
+                  "id": "Terjemahan alami sumber (Inggris)\nOnly one hundred pesos, sir."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "example",
+          "title": {
+            "sourceLanguage": "mixed",
+            "sourceText": "B 08",
+            "id": "B 08 · halaman PDF 204"
+          },
+          "sourcePage": 204,
+          "rows": [
+            {
+              "cells": [
+                {
+                  "sourceLanguage": "fil",
+                  "sourceText": "Magkano ang isang kilong saging?",
+                  "id": "Berapa harga satu kilo pisang?",
+                  "tagalog": "Magkano ang isang kilong saging?"
+                },
+                {
+                  "sourceLanguage": "en",
+                  "sourceText": "How much the one-[linker] kilo-[linker] banana?",
+                  "id": "Glosa harfiah (Inggris)\nHow much the one-[linker] kilo-[linker] banana?"
+                },
+                {
+                  "sourceLanguage": "en",
+                  "sourceText": "How much is a kilo of bananas?",
+                  "id": "Terjemahan alami sumber (Inggris)\nHow much is a kilo of bananas?"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "example",
+          "title": {
+            "sourceLanguage": "mixed",
+            "sourceText": "B 09",
+            "id": "B 09 · halaman PDF 205"
+          },
+          "sourcePage": 205,
+          "rows": [
+            {
+              "cells": [
+                {
+                  "sourceLanguage": "fil",
+                  "sourceText": "Sixty-five po'.",
+                  "id": "Enam puluh lima peso, Pak.",
+                  "tagalog": "Sixty-five po'."
+                },
+                {
+                  "sourceLanguage": "en",
+                  "sourceText": "Sixty-five [polite].",
+                  "id": "Glosa harfiah (Inggris)\nSixty-five [polite]."
+                },
+                {
+                  "sourceLanguage": "en",
+                  "sourceText": "Sixty-five pesos, sir.",
+                  "id": "Terjemahan alami sumber (Inggris)\nSixty-five pesos, sir."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "example",
+          "title": {
+            "sourceLanguage": "mixed",
+            "sourceText": "B 10",
+            "id": "B 10 · halaman PDF 206"
+          },
+          "sourcePage": 206,
+          "rows": [
+            {
+              "cells": [
+                {
+                  "sourceLanguage": "fil",
+                  "sourceText": "Wala' akong barya. Buong limang daan lang ang pera ko.",
+                  "id": "Saya tidak punya uang receh. Saya hanya punya uang lima ratus. (Uangku hanya lima ratus saja.)",
+                  "tagalog": "Wala' akong barya. Buong limang daan lang ang pera ko."
+                },
+                {
+                  "sourceLanguage": "en",
+                  "sourceText": "Have no I-[linker] loose change. Whole-[linker] five-[linker] hundred only the money my.",
+                  "id": "Glosa harfiah (Inggris)\nHave no I-[linker] loose change. Whole-[linker] five-[linker] hundred only the money my."
+                },
+                {
+                  "sourceLanguage": "en",
+                  "sourceText": "I don't have loose change. I only have a five hundred bill. (My money is a whole five hundred only.)",
+                  "id": "Terjemahan alami sumber (Inggris)\nI don't have loose change. I only have a five hundred bill. (My money is a whole five hundred only.)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "example",
+          "title": {
+            "sourceLanguage": "mixed",
+            "sourceText": "B 11",
+            "id": "B 11 · halaman PDF 207"
+          },
+          "sourcePage": 207,
+          "rows": [
+            {
+              "cells": [
+                {
+                  "sourceLanguage": "fil",
+                  "sourceText": "Di' bale, may panukli' po' ako.",
+                  "id": "Jangan khawatir, saya punya uang kembalian, Pak.",
+                  "tagalog": "Di' bale, may panukli' po' ako."
+                },
+                {
+                  "sourceLanguage": "en",
+                  "sourceText": "Never mind, have change [polite] I.",
+                  "id": "Glosa harfiah (Inggris)\nNever mind, have change [polite] I."
+                },
+                {
+                  "sourceLanguage": "en",
+                  "sourceText": "Don't worry, I have change, sir.",
+                  "id": "Terjemahan alami sumber (Inggris)\nDon't worry, I have change, sir."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "example",
+          "title": {
+            "sourceLanguage": "mixed",
+            "sourceText": "B 12",
+            "id": "B 12 · halaman PDF 208"
+          },
+          "sourcePage": 208,
+          "rows": [
+            {
+              "cells": [
+                {
+                  "sourceLanguage": "fil",
+                  "sourceText": "isang daan, isang libo, isang milyon",
+                  "id": "Seratus, seribu, satu juta",
+                  "tagalog": "isang daan, isang libo, isang milyon"
+                },
+                {
+                  "sourceLanguage": "en",
+                  "sourceText": "one-[linker] hundred, one-[linker] thousand, one-[linker] million",
+                  "id": "Glosa harfiah (Inggris)\none-[linker] hundred, one-[linker] thousand, one-[linker] million"
+                },
+                {
+                  "sourceLanguage": "en",
+                  "sourceText": "one hundred, one thousand, one million",
+                  "id": "Terjemahan alami sumber (Inggris)\none hundred, one thousand, one million"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "exercises",
+      "type": "EXERCISES",
+      "title": {
+        "sourceLanguage": "mixed",
+        "sourceText": "Drills",
+        "id": "Latihan pola"
+      },
+      "blocks": [
+        {
+          "type": "exercise",
+          "role": "instruction",
+          "text": {
+            "sourceLanguage": "mixed",
+            "sourceText": "Drills",
+            "id": "Latihan pola (Drills)"
+          },
+          "sourcePage": 196
+        },
+        {
+          "type": "exercise",
+          "role": "content",
+          "title": {
+            "sourceLanguage": "mixed",
+            "sourceText": "A 14",
+            "id": "A 14 · halaman PDF 195"
+          },
+          "sourcePage": 195,
+          "text": {
+            "sourceLanguage": "fil",
+            "sourceText": "Salamat.",
+            "id": "Terima kasih.",
+            "tagalog": "Salamat."
+          }
+        },
+        {
+          "type": "exercise",
+          "role": "content",
+          "title": {
+            "sourceLanguage": "mixed",
+            "sourceText": "B 01",
+            "id": "B 01 · halaman PDF 197"
+          },
+          "sourcePage": 197,
+          "text": {
+            "sourceLanguage": "fil",
+            "sourceText": "Meron silang langka'.",
+            "id": "Mereka punya nangka.",
+            "tagalog": "Meron silang langka'."
+          }
+        },
+        {
+          "type": "exercise",
+          "role": "content",
+          "title": {
+            "sourceLanguage": "mixed",
+            "sourceText": "B 02",
+            "id": "B 02 · halaman PDF 198"
+          },
+          "sourcePage": 198,
+          "text": {
+            "sourceLanguage": "fil",
+            "sourceText": "Wala' po' kaming pakwan.",
+            "id": "Kami tidak punya semangka. (sopan)",
+            "tagalog": "Wala' po' kaming pakwan."
+          }
+        },
+        {
+          "type": "exercise",
+          "role": "content",
+          "title": {
+            "sourceLanguage": "mixed",
+            "sourceText": "B 03",
+            "id": "B 03 · halaman PDF 199"
+          },
+          "sourcePage": 199,
+          "text": {
+            "sourceLanguage": "fil",
+            "sourceText": "Pabili nga' po' ng mangga.",
+            "id": "Tolong, saya ingin membeli beberapa mangga. (sopan)",
+            "tagalog": "Pabili nga' po' ng mangga."
+          }
+        },
+        {
+          "type": "exercise",
+          "role": "content",
+          "title": {
+            "sourceLanguage": "mixed",
+            "sourceText": "B 04",
+            "id": "B 04 · halaman PDF 200"
+          },
+          "sourcePage": 200,
+          "text": {
+            "sourceLanguage": "fil",
+            "sourceText": "Hindi' maganda ang saging na ito.",
+            "id": "Pisang ini sepertinya tidak enak.",
+            "tagalog": "Hindi' maganda ang saging na ito."
+          }
+        },
+        {
+          "type": "exercise",
+          "role": "content",
+          "title": {
+            "sourceLanguage": "mixed",
+            "sourceText": "B 05",
+            "id": "B 05 · halaman PDF 201"
+          },
+          "sourcePage": 201,
+          "text": {
+            "sourceLanguage": "fil",
+            "sourceText": "Pangit ang pakwang ito.",
+            "id": "Semangka ini kelihatannya tidak bagus.",
+            "tagalog": "Pangit ang pakwang ito."
+          }
+        },
+        {
+          "type": "exercise",
+          "role": "content",
+          "title": {
+            "sourceLanguage": "mixed",
+            "sourceText": "B 06",
+            "id": "B 06 · halaman PDF 202"
+          },
+          "sourcePage": 202,
+          "text": {
+            "sourceLanguage": "fil",
+            "sourceText": "Magkano ang pinyang iyan?",
+            "id": "Berapa harga nanasnya?",
+            "tagalog": "Magkano ang pinyang iyan?"
+          }
+        },
+        {
+          "type": "exercise",
+          "role": "content",
+          "title": {
+            "sourceLanguage": "mixed",
+            "sourceText": "B 07",
+            "id": "B 07 · halaman PDF 203"
+          },
+          "sourcePage": 203,
+          "text": {
+            "sourceLanguage": "fil",
+            "sourceText": "Isang daan lang po'.",
+            "id": "Hanya seratus peso, Pak.",
+            "tagalog": "Isang daan lang po'."
+          }
+        },
+        {
+          "type": "exercise",
+          "role": "content",
+          "title": {
+            "sourceLanguage": "mixed",
+            "sourceText": "B 08",
+            "id": "B 08 · halaman PDF 204"
+          },
+          "sourcePage": 204,
+          "text": {
+            "sourceLanguage": "fil",
+            "sourceText": "Magkano ang isang kilong saging?",
+            "id": "Berapa harga satu kilo pisang?",
+            "tagalog": "Magkano ang isang kilong saging?"
+          }
+        },
+        {
+          "type": "exercise",
+          "role": "content",
+          "title": {
+            "sourceLanguage": "mixed",
+            "sourceText": "B 09",
+            "id": "B 09 · halaman PDF 205"
+          },
+          "sourcePage": 205,
+          "text": {
+            "sourceLanguage": "fil",
+            "sourceText": "Sixty-five po'.",
+            "id": "Enam puluh lima peso, Pak.",
+            "tagalog": "Sixty-five po'."
+          }
+        },
+        {
+          "type": "exercise",
+          "role": "content",
+          "title": {
+            "sourceLanguage": "mixed",
+            "sourceText": "B 10",
+            "id": "B 10 · halaman PDF 206"
+          },
+          "sourcePage": 206,
+          "text": {
+            "sourceLanguage": "fil",
+            "sourceText": "Wala' akong barya. Buong limang daan lang ang pera ko.",
+            "id": "Saya tidak punya uang receh. Saya hanya punya uang lima ratus. (Uangku hanya lima ratus saja.)",
+            "tagalog": "Wala' akong barya. Buong limang daan lang ang pera ko."
+          }
+        },
+        {
+          "type": "exercise",
+          "role": "content",
+          "title": {
+            "sourceLanguage": "mixed",
+            "sourceText": "B 11",
+            "id": "B 11 · halaman PDF 207"
+          },
+          "sourcePage": 207,
+          "text": {
+            "sourceLanguage": "fil",
+            "sourceText": "Di' bale, may panukli' po' ako.",
+            "id": "Jangan khawatir, saya punya uang kembalian, Pak.",
+            "tagalog": "Di' bale, may panukli' po' ako."
+          }
+        },
+        {
+          "type": "exercise",
+          "role": "content",
+          "title": {
+            "sourceLanguage": "mixed",
+            "sourceText": "B 12",
+            "id": "B 12 · halaman PDF 208"
+          },
+          "sourcePage": 208,
+          "text": {
+            "sourceLanguage": "fil",
+            "sourceText": "isang daan, isang libo, isang milyon",
+            "id": "Seratus, seribu, satu juta",
+            "tagalog": "isang daan, isang libo, isang milyon"
+          }
+        }
+      ]
+    },
+    {
+      "id": "summary",
+      "type": "SUMMARY",
+      "title": {
+        "sourceLanguage": "mixed",
+        "sourceText": "Sa fruit stand",
+        "id": "Ringkasan bab"
+      },
+      "blocks": [
+        {
+          "type": "text",
+          "style": "heading",
+          "text": {
+            "sourceLanguage": "mixed",
+            "sourceText": "Story A",
+            "id": "Dialog utama"
+          }
+        },
+        {
+          "type": "list",
+          "style": "outline",
+          "items": [
+            {
+              "sourceLanguage": "fil",
+              "sourceText": "Sa fruit stand",
+              "id": "Di kios buah",
+              "tagalog": "Sa fruit stand"
+            },
+            {
+              "sourceLanguage": "fil",
+              "sourceText": "Meron ba kayong pakwan?",
+              "id": "Apakah kamu punya semangka?",
+              "tagalog": "Meron ba kayong pakwan?"
+            },
+            {
+              "sourceLanguage": "fil",
+              "sourceText": "Wala' po'. Pero meron kaming chico at langka'.",
+              "id": "Tidak, tuan. Tapi kami punya chico dan nangka.",
+              "tagalog": "Wala' po'. Pero meron kaming chico at langka'."
+            },
+            {
+              "sourceLanguage": "fil",
+              "sourceText": "Magkano ang langka'?",
+              "id": "Berapa harga buah nangkanya?",
+              "tagalog": "Magkano ang langka'?"
+            },
+            {
+              "sourceLanguage": "fil",
+              "sourceText": "Two hundred fifty ang malaki, dalawang daan ang maliit.",
+              "id": "Yang besar dua ratus lima puluh, yang kecil dua ratus.",
+              "tagalog": "Two hundred fifty ang malaki, dalawang daan ang maliit."
+            },
+            {
+              "sourceLanguage": "fil",
+              "sourceText": "Walang tawad?",
+              "id": "Apakah harganya bisa dinegosiasikan? (Apakah tidak ada diskon?)",
+              "tagalog": "Walang tawad?"
+            },
+            {
+              "sourceLanguage": "fil",
+              "sourceText": "One hundred ninety na lang po' para sa maliit.",
+              "id": "Hanya seratus sembilan puluh untuk yang kecil. (sopan)",
+              "tagalog": "One hundred ninety na lang po' para sa maliit."
+            },
+            {
+              "sourceLanguage": "fil",
+              "sourceText": "Sige, pabili ng isa. May mangga ba kayo?",
+              "id": "Oke, saya akan membeli (membeli) satu. Apakah kamu punya mangga?",
+              "tagalog": "Sige, pabili ng isa. May mangga ba kayo?"
+            },
+            {
+              "sourceLanguage": "fil",
+              "sourceText": "Opo'. Ilan po'?",
+              "id": "Ya. Berapa banyak (yang Anda inginkan)? (sopan)",
+              "tagalog": "Opo'. Ilan po'?"
+            },
+            {
+              "sourceLanguage": "fil",
+              "sourceText": "Tatlong piraso lang.",
+              "id": "Hanya tiga buah.",
+              "tagalog": "Tatlong piraso lang."
+            },
+            {
+              "sourceLanguage": "fil",
+              "sourceText": "Forty-five pesos po'.",
+              "id": "Jumlahnya empat puluh lima peso, Pak.",
+              "tagalog": "Forty-five pesos po'."
+            },
+            {
+              "sourceLanguage": "fil",
+              "sourceText": "Magkano lahat?",
+              "id": "Berapa totalnya?",
+              "tagalog": "Magkano lahat?"
+            },
+            {
+              "sourceLanguage": "fil",
+              "sourceText": "Two hundred thirty-five po'.",
+              "id": "Dua ratus tiga puluh lima peso, Pak.",
+              "tagalog": "Two hundred thirty-five po'."
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "style": "heading",
+          "text": {
+            "sourceLanguage": "mixed",
+            "sourceText": "Drills",
+            "id": "Latihan pola"
+          }
+        },
+        {
+          "type": "list",
+          "style": "outline",
+          "items": [
+            {
+              "sourceLanguage": "fil",
+              "sourceText": "Salamat.",
+              "id": "Terima kasih.",
+              "tagalog": "Salamat."
+            },
+            {
+              "sourceLanguage": "fil",
+              "sourceText": "Meron silang langka'.",
+              "id": "Mereka punya nangka.",
+              "tagalog": "Meron silang langka'."
+            },
+            {
+              "sourceLanguage": "fil",
+              "sourceText": "Wala' po' kaming pakwan.",
+              "id": "Kami tidak punya semangka. (sopan)",
+              "tagalog": "Wala' po' kaming pakwan."
+            },
+            {
+              "sourceLanguage": "fil",
+              "sourceText": "Pabili nga' po' ng mangga.",
+              "id": "Tolong, saya ingin membeli beberapa mangga. (sopan)",
+              "tagalog": "Pabili nga' po' ng mangga."
+            },
+            {
+              "sourceLanguage": "fil",
+              "sourceText": "Hindi' maganda ang saging na ito.",
+              "id": "Pisang ini sepertinya tidak enak.",
+              "tagalog": "Hindi' maganda ang saging na ito."
+            },
+            {
+              "sourceLanguage": "fil",
+              "sourceText": "Pangit ang pakwang ito.",
+              "id": "Semangka ini kelihatannya tidak bagus.",
+              "tagalog": "Pangit ang pakwang ito."
+            },
+            {
+              "sourceLanguage": "fil",
+              "sourceText": "Magkano ang pinyang iyan?",
+              "id": "Berapa harga nanasnya?",
+              "tagalog": "Magkano ang pinyang iyan?"
+            },
+            {
+              "sourceLanguage": "fil",
+              "sourceText": "Isang daan lang po'.",
+              "id": "Hanya seratus peso, Pak.",
+              "tagalog": "Isang daan lang po'."
+            },
+            {
+              "sourceLanguage": "fil",
+              "sourceText": "Magkano ang isang kilong saging?",
+              "id": "Berapa harga satu kilo pisang?",
+              "tagalog": "Magkano ang isang kilong saging?"
+            },
+            {
+              "sourceLanguage": "fil",
+              "sourceText": "Sixty-five po'.",
+              "id": "Enam puluh lima peso, Pak.",
+              "tagalog": "Sixty-five po'."
+            },
+            {
+              "sourceLanguage": "fil",
+              "sourceText": "Wala' akong barya. Buong limang daan lang ang pera ko.",
+              "id": "Saya tidak punya uang receh. Saya hanya punya uang lima ratus. (Uangku hanya lima ratus saja.)",
+              "tagalog": "Wala' akong barya. Buong limang daan lang ang pera ko."
+            },
+            {
+              "sourceLanguage": "fil",
+              "sourceText": "Di' bale, may panukli' po' ako.",
+              "id": "Jangan khawatir, saya punya uang kembalian, Pak.",
+              "tagalog": "Di' bale, may panukli' po' ako."
+            },
+            {
+              "sourceLanguage": "fil",
+              "sourceText": "isang daan, isang libo, isang milyon",
+              "id": "Seratus, seribu, satu juta",
+              "tagalog": "isang daan, isang libo, isang milyon"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "contentAudit": {
+    "sourcePages": 29,
+    "phrasePages": 26,
+    "storyPhrases": 13,
+    "drillPhrases": 13,
+    "noteBlocks": 21,
+    "vocabularyEntries": 67,
+    "sourceTextItemsBefore": 100,
+    "sourceTextItemsAfter": 100,
+    "recapVerified": true,
+    "imageCount": 1
+  }
+}

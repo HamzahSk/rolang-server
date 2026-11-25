@@ -17,12 +17,12 @@
     {
       "sourceLanguage": "en",
       "sourceText": "• Describe people using ma-adjectives",
-      "id": "Deskripsikan orang menggunakan kata sifat"
+      "id": "• Mendeskripsikan orang dengan kata sifat berawalan ma-"
     },
     {
       "sourceLanguage": "en",
       "sourceText": "• Describe people using the naka- prefix",
-      "id": "Deskripsikan orang menggunakan awalan naka-"
+      "id": "• Mendeskripsikan orang dengan awalan naka-"
     }
   ],
   "source": {
@@ -41,184 +41,134 @@
   ],
   "sections": [
     {
-      "id": "lesson-05-overview",
-      "type": "OVERVIEW",
+      "type": "INTRODUCTION",
       "title": {
-        "sourceLanguage": "mixed",
-        "sourceText": "Overview",
-        "id": "Gambaran Umum"
+        "sourceLanguage": "en",
+        "sourceText": "An Overview of Lesson 5",
+        "id": "Pengantar Pelajaran 5"
       },
       "blocks": [
         {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "en",
-            "sourceText": "An Overview of Lesson 5",
-            "id": "Gambaran Umum Pelajaran 5"
-          }
+          "type": "list",
+          "style": "objectives",
+          "items": [
+            {
+              "sourceLanguage": "en",
+              "sourceText": "• Describe people using ma-adjectives",
+              "id": "• Mendeskripsikan orang dengan kata sifat berawalan ma-"
+            },
+            {
+              "sourceLanguage": "en",
+              "sourceText": "• Describe people using the naka- prefix",
+              "id": "• Mendeskripsikan orang dengan awalan naka-"
+            }
+          ]
         },
         {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "mixed",
-            "sourceText": "Objectives",
-            "id": "Objeksi"
-          }
-        },
-        {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "en",
-            "sourceText": "• Describe people using ma-adjectives",
-            "id": "Deskripsikan orang menggunakan kata sifat"
-          }
-        },
-        {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "en",
-            "sourceText": "• Describe people using the naka- prefix",
-            "id": "Deskripsikan orang menggunakan awalan naka-"
-          }
-        },
-        {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "mixed",
-            "sourceText": "Vocabulary",
-            "id": "Kosakata"
-          }
-        },
-        {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "mixed",
-            "sourceText": "• Clothing and Accessories",
-            "id": "Pakaian dan Aksesoris"
-          }
-        },
-        {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "en",
-            "sourceText": "• Hair and Parts of the Face",
-            "id": "Rambut dan Bagian Wajah"
-          }
-        },
-        {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "mixed",
-            "sourceText": "• Adjectives",
-            "id": "Advances"
-          }
-        },
-        {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "mixed",
-            "sourceText": "• Colors",
-            "id": "Warna:"
-          }
-        },
-        {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "mixed",
-            "sourceText": "• Prefixes",
-            "id": "Prefiks"
-          }
-        },
-        {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "mixed",
-            "sourceText": "Reading Text: Ang Pamilya Ko My Family",
-            "id": "Teks Bacaan: Ang Pamilya Ko My Family"
-          }
-        },
-        {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "mixed",
-            "sourceText": "Reading Comprehension",
-            "id": "Pemahaman Bacaan"
-          }
-        },
-        {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "mixed",
-            "sourceText": "Activities",
-            "id": "Aktivitas"
-          }
-        },
-        {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "mixed",
-            "sourceText": "Activity 1: Sentence Completion",
-            "id": "Aktivitas 1: Penyengat Pelengkapan"
-          }
-        },
-        {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "mixed",
-            "sourceText": "Activity 2: Guess Who?",
-            "id": "Aktivitas 2: tebak siapa?"
-          }
-        },
-        {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "mixed",
-            "sourceText": "Activity 3: Family Portrait",
-            "id": "Aktivitas 3: Potret Keluarga"
-          }
-        },
-        {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "mixed",
-            "sourceText": "Grammar",
-            "id": "Tata Bahasa"
-          }
-        },
-        {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "mixed",
-            "sourceText": "Definition of Terms: Adjectives, Adjectival Phrase, Inflection, Linkers, Reduplication",
-            "id": "Definisi Terms: Adjectival Phrase, Inflection, Linkers, Reduplikasi"
-          }
-        },
-        {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "mixed",
-            "sourceText": "Examining Form",
-            "id": "Mengkaji Bentuk"
-          }
+          "type": "list",
+          "style": "outline",
+          "items": [
+            {
+              "sourceLanguage": "mixed",
+              "sourceText": "Vocabulary",
+              "id": "Kosakata"
+            },
+            {
+              "sourceLanguage": "mixed",
+              "sourceText": "• Clothing and Accessories",
+              "id": "Pakaian dan Aksesoris"
+            },
+            {
+              "sourceLanguage": "en",
+              "sourceText": "• Hair and Parts of the Face",
+              "id": "Rambut dan Bagian Wajah"
+            },
+            {
+              "sourceLanguage": "mixed",
+              "sourceText": "• Adjectives",
+              "id": "Advances"
+            },
+            {
+              "sourceLanguage": "mixed",
+              "sourceText": "• Colors",
+              "id": "Warna:"
+            },
+            {
+              "sourceLanguage": "mixed",
+              "sourceText": "• Prefixes",
+              "id": "Prefiks"
+            },
+            {
+              "sourceLanguage": "mixed",
+              "sourceText": "Reading Text: Ang Pamilya Ko My Family",
+              "id": "Teks Bacaan: Ang Pamilya Ko My Family"
+            },
+            {
+              "sourceLanguage": "mixed",
+              "sourceText": "Reading Comprehension",
+              "id": "Pemahaman Bacaan"
+            },
+            {
+              "sourceLanguage": "mixed",
+              "sourceText": "Activities",
+              "id": "Aktivitas"
+            },
+            {
+              "sourceLanguage": "mixed",
+              "sourceText": "Activity 1: Sentence Completion",
+              "id": "Aktivitas 1: Penyengat Pelengkapan"
+            },
+            {
+              "sourceLanguage": "mixed",
+              "sourceText": "Activity 2: Guess Who?",
+              "id": "Aktivitas 2: tebak siapa?"
+            },
+            {
+              "sourceLanguage": "mixed",
+              "sourceText": "Activity 3: Family Portrait",
+              "id": "Aktivitas 3: Potret Keluarga"
+            },
+            {
+              "sourceLanguage": "mixed",
+              "sourceText": "Grammar",
+              "id": "Tata Bahasa"
+            },
+            {
+              "sourceLanguage": "mixed",
+              "sourceText": "Definition of Terms: Adjectives, Adjectival Phrase, Inflection, Linkers, Reduplication",
+              "id": "Definisi Terms: Adjectival Phrase, Inflection, Linkers, Reduplikasi"
+            },
+            {
+              "sourceLanguage": "mixed",
+              "sourceText": "Examining Form",
+              "id": "Mengkaji Bentuk"
+            },
+            {
+              "sourceLanguage": "mixed",
+              "sourceText": "Practice",
+              "id": "Latihan"
+            },
+            {
+              "sourceLanguage": "en",
+              "sourceText": "I. Speaking Practice",
+              "id": "I. Latihan Berbicara"
+            },
+            {
+              "sourceLanguage": "mixed",
+              "sourceText": "II. Reading Practice",
+              "id": "II. Latihan Membaca"
+            },
+            {
+              "sourceLanguage": "mixed",
+              "sourceText": "III. Writing Practice",
+              "id": "III. Latihan Menulis"
+            },
+            {
+              "sourceLanguage": "mixed",
+              "sourceText": "IV. Listening Practice",
+              "id": "IV. Latihan Menyimak"
+            }
+          ]
         },
         {
           "type": "table",
@@ -288,57 +238,13 @@
                 }
               ]
             }
-          ]
-        },
-        {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "mixed",
-            "sourceText": "Practice",
-            "id": "Latihan"
-          }
-        },
-        {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "en",
-            "sourceText": "I. Speaking Practice",
-            "id": "I. Latihan Berbicara"
-          }
-        },
-        {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "mixed",
-            "sourceText": "II. Reading Practice",
-            "id": "II. Latihan Membaca"
-          }
-        },
-        {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "mixed",
-            "sourceText": "III. Writing Practice",
-            "id": "III. Latihan Menulis"
-          }
-        },
-        {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "mixed",
-            "sourceText": "IV. Listening Practice",
-            "id": "IV. Latihan Menyimak"
-          }
+          ],
+          "role": "outline"
         }
-      ]
+      ],
+      "id": "lesson-05-01-an-overview-of-lesson-5"
     },
     {
-      "id": "lesson-05-vocabulary",
       "type": "VOCABULARY",
       "title": {
         "sourceLanguage": "mixed",
@@ -348,7 +254,7 @@
       "blocks": [
         {
           "type": "text",
-          "style": "body",
+          "style": "heading",
           "text": {
             "sourceLanguage": "mixed",
             "sourceText": "Vocabulary (05–1)",
@@ -369,1159 +275,1006 @@
           }
         },
         {
-          "type": "table",
-          "rows": [
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "Clothing and Accessories",
-                  "id": "Pakaian dan Aksesoris"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "amerikana",
-                  "id": "sesuai",
-                  "tagalog": "amerikana"
-                },
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "suit",
-                  "id": "sesuai"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "bestida",
-                  "id": "gaun",
-                  "tagalog": "bestida"
-                },
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "dress",
-                  "id": "gaun"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "blusa",
-                  "id": "blus",
-                  "tagalog": "blusa"
-                },
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "blouse",
-                  "id": "blus"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "damit",
-                  "id": "pakaian (juga dapat merujuk ke T-shirt)",
-                  "tagalog": "damit"
-                },
-                {
-                  "sourceLanguage": "en",
-                  "sourceText": "clothes (can also refer to a T-shirt)",
-                  "id": "pakaian (juga dapat merujuk ke T-shirt)"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "hikaw",
-                  "id": "anting-anting",
-                  "tagalog": "hikaw"
-                },
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "earrings",
-                  "id": "anting-anting"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "kuwintas",
-                  "id": "kalung",
-                  "tagalog": "kuwintas"
-                },
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "necklace",
-                  "id": "kalung"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "maong",
-                  "id": "jeans, denim",
-                  "tagalog": "maong"
-                },
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "jeans, denim",
-                  "id": "jeans, denim"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "medyas",
-                  "id": "kaus kaki",
-                  "tagalog": "medyas"
-                },
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "socks",
-                  "id": "kaus kaki"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "palda",
-                  "id": "rok",
-                  "tagalog": "palda"
-                },
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "skirt",
-                  "id": "rok"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "pantalon",
-                  "id": "celana",
-                  "tagalog": "pantalon"
-                },
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "pants",
-                  "id": "celana"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "polo",
-                  "id": "buckon- down shirt",
-                  "tagalog": "polo"
-                },
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "button-down shirt",
-                  "id": "buckon- down shirt"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "pulseras",
-                  "id": "gelang",
-                  "tagalog": "pulseras"
-                },
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "bracelet",
-                  "id": "gelang"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "relos",
-                  "id": "lihat",
-                  "tagalog": "relos"
-                },
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "watch",
-                  "id": "lihat"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "salamin",
-                  "id": "kacamata",
-                  "tagalog": "salamin"
-                },
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "glasses",
-                  "id": "kacamata"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "sando",
-                  "id": "slevevless undershirt",
-                  "tagalog": "sando"
-                },
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "sleeveless undershirt",
-                  "id": "slevevless undershirt"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "sapatos",
-                  "id": "sepatu",
-                  "tagalog": "sapatos"
-                },
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "shoes",
-                  "id": "sepatu"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "singsing",
-                  "id": "ring",
-                  "tagalog": "singsing"
-                },
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "ring",
-                  "id": "ring"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "sinturon",
-                  "id": "ikat pinggang",
-                  "tagalog": "sinturon"
-                },
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "belt",
-                  "id": "ikat pinggang"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "sumbrero",
-                  "id": "topi, cap",
-                  "tagalog": "sumbrero"
-                },
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "hat, cap",
-                  "id": "topi, cap"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "tsinelas",
-                  "id": "sandal, sandal",
-                  "tagalog": "tsinelas"
-                },
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "slippers, slipper",
-                  "id": "sandal, sandal"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "en",
-                  "sourceText": "Hair and Parts of the Face",
-                  "id": "Rambut dan Bagian Wajah"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "bibig",
-                  "id": "mulut",
-                  "tagalog": "bibig"
-                },
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "mouth",
-                  "id": "mulut"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "buhok",
-                  "id": "rambut",
-                  "tagalog": "buhok"
-                },
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "hair",
-                  "id": "rambut"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "kilay",
-                  "id": "alis",
-                  "tagalog": "kilay"
-                },
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "eyebrow",
-                  "id": "alis"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "ilong",
-                  "id": "hidung",
-                  "tagalog": "ilong"
-                },
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "nose",
-                  "id": "hidung"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "mata",
-                  "id": "mata",
-                  "tagalog": "mata"
-                },
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "eyes",
-                  "id": "mata"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "mukha",
-                  "id": "wajah",
-                  "tagalog": "mukha"
-                },
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "face",
-                  "id": "wajah"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "ngipin",
-                  "id": "gigi",
-                  "tagalog": "ngipin"
-                },
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "teeth",
-                  "id": "gigi"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "tenga",
-                  "id": "telinga",
-                  "tagalog": "tenga"
-                },
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "ears",
-                  "id": "telinga"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "Adjectives",
-                  "id": "Kata sifat"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "bata",
-                  "id": "muda",
-                  "tagalog": "bata"
-                },
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "young",
-                  "id": "muda"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "bilog",
-                  "id": "bulat",
-                  "tagalog": "bilog"
-                },
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "round",
-                  "id": "bulat"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "guwapo",
-                  "id": "Tampan, tampan.",
-                  "tagalog": "guwapo"
-                },
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "handsome, good-looking",
-                  "id": "Tampan, tampan."
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "kalbo",
-                  "id": "botak",
-                  "tagalog": "kalbo"
-                },
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "bald",
-                  "id": "botak"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "kalmado",
-                  "id": "tenang",
-                  "tagalog": "kalmado"
-                },
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "calm",
-                  "id": "tenang"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "kulot",
-                  "id": "keriting",
-                  "tagalog": "kulot"
-                },
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "curly",
-                  "id": "keriting"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "kuwadrado",
-                  "id": "persegi",
-                  "tagalog": "kuwadrado"
-                },
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "square",
-                  "id": "persegi"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "mabuti",
-                  "id": "baik, baik",
-                  "tagalog": "mabuti"
-                },
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "fine, good",
-                  "id": "baik, baik"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "magalang",
-                  "id": "sopan",
-                  "tagalog": "magalang"
-                },
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "polite",
-                  "id": "sopan"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "magulo",
-                  "id": "tidak tertib, gaduh, nakal",
-                  "tagalog": "magulo"
-                },
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "disorderly, rowdy, mischievous",
-                  "id": "tidak tertib, gaduh, nakal"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "mahaba",
-                  "id": "panjang (panjang)",
-                  "tagalog": "mahaba"
-                },
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "long (length)",
-                  "id": "panjang (panjang)"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "mahinhin",
-                  "id": "sederhana, halus",
-                  "tagalog": "mahinhin"
-                },
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "modest, refined",
-                  "id": "sederhana, halus"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "mahiyain",
-                  "id": "malu",
-                  "tagalog": "mahiyain"
-                },
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "shy",
-                  "id": "malu"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "maikli",
-                  "id": "pendek (panjang)",
-                  "tagalog": "maikli"
-                },
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "short (length)",
-                  "id": "pendek (panjang)"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "mainitin ang ulo",
-                  "id": "pendek-marah",
-                  "tagalog": "mainitin ang ulo"
-                },
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "short-tempered",
-                  "id": "pendek-marah"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "maingay",
-                  "id": "Berisik",
-                  "tagalog": "maingay"
-                },
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "noisy",
-                  "id": "Berisik"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "maitim",
-                  "id": "gelap - kompitioned",
-                  "tagalog": "maitim"
-                },
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "dark-complexioned",
-                  "id": "gelap - kompitioned"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "makapal",
-                  "id": "tebal",
-                  "tagalog": "makapal"
-                },
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "thick",
-                  "id": "tebal"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "malaki",
-                  "id": "besar",
-                  "tagalog": "malaki"
-                },
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "big",
-                  "id": "besar"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "malikot",
-                  "id": "gelisah, menggeliat, nakal, nakal",
-                  "tagalog": "malikot"
-                },
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "restless, wriggly; naughty, mischievous",
-                  "id": "gelisah, menggeliat, nakal, nakal"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "malilimutin",
-                  "id": "ugal-ugalan",
-                  "tagalog": "malilimutin"
-                },
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "absent-minded",
-                  "id": "ugal-ugalan"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "malungkot",
-                  "id": "sedih",
-                  "tagalog": "malungkot"
-                },
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "sad",
-                  "id": "sedih"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "manipis",
-                  "id": "tipis, tidak padat",
-                  "tagalog": "manipis"
-                },
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "thin, not dense",
-                  "id": "tipis, tidak padat"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "mapagmahal",
-                  "id": "Mencintai",
-                  "tagalog": "mapagmahal"
-                },
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "loving",
-                  "id": "Mencintai"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "maputi",
-                  "id": "Adil - diselesaikan",
-                  "tagalog": "maputi"
-                },
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "fair-complexioned",
-                  "id": "Adil - diselesaikan"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "mataba",
-                  "id": "gemuk, gemuk",
-                  "tagalog": "mataba"
-                },
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "stout, fat",
-                  "id": "gemuk, gemuk"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "matanda",
-                  "id": "lama",
-                  "tagalog": "matanda"
-                },
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "old",
-                  "id": "lama"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "matangos",
-                  "id": "menunjuk (mengacu ke hidung)",
-                  "tagalog": "matangos"
-                },
-                {
-                  "sourceLanguage": "en",
-                  "sourceText": "pointed (referring to the nose)",
-                  "id": "menunjuk (mengacu ke hidung)"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "pahaba",
-                  "id": "panjang",
-                  "tagalog": "pahaba"
-                },
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "long",
-                  "id": "panjang"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "pango",
-                  "id": "rata (mengacu ke hidung)",
-                  "tagalog": "pango"
-                },
-                {
-                  "sourceLanguage": "en",
-                  "sourceText": "flat (referring to the nose)",
-                  "id": "rata (mengacu ke hidung)"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "payat",
-                  "id": "tipis",
-                  "tagalog": "payat"
-                },
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "thin",
-                  "id": "tipis"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "singkit",
-                  "id": "(Yang kaku kasar) wataknya kaku lagi kasar (selain dari itu, yang terkenal kejahatannya) dia adalah seseorang yang dianggap sebagai orang Quraisy, padahal dia bukan dari kalangan mereka, yaitu Walid bin Mughirah. Ayahnya menjulukinya sebagai orang Quraisy setelah ia berumur delapan belas tahun.",
-                  "tagalog": "singkit"
-                },
-                {
-                  "sourceLanguage": "en",
-                  "sourceText": "narrow-slit or slanting (referring to eyes)",
-                  "id": "(Yang kaku kasar) wataknya kaku lagi kasar (selain dari itu, yang terkenal kejahatannya) dia adalah seseorang yang dianggap sebagai orang Quraisy, padahal dia bukan dari kalangan mereka, yaitu Walid bin Mughirah. Ayahnya menjulukinya sebagai orang Quraisy setelah ia berumur delapan belas tahun."
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "suplado/a",
-                  "id": "sombong",
-                  "tagalog": "suplado/a"
-                },
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "snobbish",
-                  "id": "sombong"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "tahimik",
-                  "id": "tenang",
-                  "tagalog": "tahimik"
-                },
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "quiet",
-                  "id": "tenang"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "Colors",
-                  "id": "Warna"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "asul",
-                  "id": "biru",
-                  "tagalog": "asul"
-                },
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "blue",
-                  "id": "biru"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "berde",
-                  "id": "hijau",
-                  "tagalog": "berde"
-                },
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "green",
-                  "id": "hijau"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "dilaw",
-                  "id": "kuning",
-                  "tagalog": "dilaw"
-                },
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "yellow",
-                  "id": "kuning"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "itim",
-                  "id": "hitam",
-                  "tagalog": "itim"
-                },
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "black",
-                  "id": "hitam"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "kayumanggi",
-                  "id": "coklat (hanya digunakan untuk menggambarkan warna kulit)",
-                  "tagalog": "kayumanggi"
-                },
-                {
-                  "sourceLanguage": "en",
-                  "sourceText": "brown (only used to describe skin color)",
-                  "id": "coklat (hanya digunakan untuk menggambarkan warna kulit)"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "kulay",
-                  "id": "warna",
-                  "tagalog": "kulay"
-                },
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "color",
-                  "id": "warna"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "pula",
-                  "id": "merah",
-                  "tagalog": "pula"
-                },
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "red",
-                  "id": "merah"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "puti",
-                  "id": "putih",
-                  "tagalog": "puti"
-                },
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "white",
-                  "id": "putih"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "rosas",
-                  "id": "pink",
-                  "tagalog": "rosas"
-                },
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "pink",
-                  "id": "pink"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "Prefixes",
-                  "id": "Prefiks"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "naka-",
-                  "id": "Mengekspresikan ide memakai artikel yang ditunjuk oleh akar",
-                  "tagalog": "naka-"
-                },
-                {
-                  "sourceLanguage": "en",
-                  "sourceText": "expresses the idea of wearing the article designated by the root",
-                  "id": "Mengekspresikan ide memakai artikel yang ditunjuk oleh akar"
-                }
-              ]
+          "type": "vocabulary",
+          "entries": [
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "amerikana",
+                "id": "sesuai",
+                "tagalog": "amerikana"
+              },
+              "meaning": {
+                "sourceLanguage": "mixed",
+                "sourceText": "suit",
+                "id": "sesuai"
+              }
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "bestida",
+                "id": "gaun",
+                "tagalog": "bestida"
+              },
+              "meaning": {
+                "sourceLanguage": "mixed",
+                "sourceText": "dress",
+                "id": "gaun"
+              }
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "blusa",
+                "id": "blus",
+                "tagalog": "blusa"
+              },
+              "meaning": {
+                "sourceLanguage": "mixed",
+                "sourceText": "blouse",
+                "id": "blus"
+              }
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "damit",
+                "id": "pakaian (juga dapat merujuk ke T-shirt)",
+                "tagalog": "damit"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "clothes (can also refer to a T-shirt)",
+                "id": "pakaian (juga dapat merujuk ke T-shirt)"
+              }
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "hikaw",
+                "id": "anting-anting",
+                "tagalog": "hikaw"
+              },
+              "meaning": {
+                "sourceLanguage": "mixed",
+                "sourceText": "earrings",
+                "id": "anting-anting"
+              }
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "kuwintas",
+                "id": "kalung",
+                "tagalog": "kuwintas"
+              },
+              "meaning": {
+                "sourceLanguage": "mixed",
+                "sourceText": "necklace",
+                "id": "kalung"
+              }
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "maong",
+                "id": "jeans, denim",
+                "tagalog": "maong"
+              },
+              "meaning": {
+                "sourceLanguage": "mixed",
+                "sourceText": "jeans, denim",
+                "id": "jeans, denim"
+              }
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "medyas",
+                "id": "kaus kaki",
+                "tagalog": "medyas"
+              },
+              "meaning": {
+                "sourceLanguage": "mixed",
+                "sourceText": "socks",
+                "id": "kaus kaki"
+              }
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "palda",
+                "id": "rok",
+                "tagalog": "palda"
+              },
+              "meaning": {
+                "sourceLanguage": "mixed",
+                "sourceText": "skirt",
+                "id": "rok"
+              }
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "pantalon",
+                "id": "celana",
+                "tagalog": "pantalon"
+              },
+              "meaning": {
+                "sourceLanguage": "mixed",
+                "sourceText": "pants",
+                "id": "celana"
+              }
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "polo",
+                "id": "buckon- down shirt",
+                "tagalog": "polo"
+              },
+              "meaning": {
+                "sourceLanguage": "mixed",
+                "sourceText": "button-down shirt",
+                "id": "buckon- down shirt"
+              }
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "pulseras",
+                "id": "gelang",
+                "tagalog": "pulseras"
+              },
+              "meaning": {
+                "sourceLanguage": "mixed",
+                "sourceText": "bracelet",
+                "id": "gelang"
+              }
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "relos",
+                "id": "lihat",
+                "tagalog": "relos"
+              },
+              "meaning": {
+                "sourceLanguage": "mixed",
+                "sourceText": "watch",
+                "id": "lihat"
+              }
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "salamin",
+                "id": "kacamata",
+                "tagalog": "salamin"
+              },
+              "meaning": {
+                "sourceLanguage": "mixed",
+                "sourceText": "glasses",
+                "id": "kacamata"
+              }
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "sando",
+                "id": "slevevless undershirt",
+                "tagalog": "sando"
+              },
+              "meaning": {
+                "sourceLanguage": "mixed",
+                "sourceText": "sleeveless undershirt",
+                "id": "slevevless undershirt"
+              }
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "sapatos",
+                "id": "sepatu",
+                "tagalog": "sapatos"
+              },
+              "meaning": {
+                "sourceLanguage": "mixed",
+                "sourceText": "shoes",
+                "id": "sepatu"
+              }
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "singsing",
+                "id": "ring",
+                "tagalog": "singsing"
+              },
+              "meaning": {
+                "sourceLanguage": "mixed",
+                "sourceText": "ring",
+                "id": "ring"
+              }
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "sinturon",
+                "id": "ikat pinggang",
+                "tagalog": "sinturon"
+              },
+              "meaning": {
+                "sourceLanguage": "mixed",
+                "sourceText": "belt",
+                "id": "ikat pinggang"
+              }
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "sumbrero",
+                "id": "topi, cap",
+                "tagalog": "sumbrero"
+              },
+              "meaning": {
+                "sourceLanguage": "mixed",
+                "sourceText": "hat, cap",
+                "id": "topi, cap"
+              }
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "tsinelas",
+                "id": "sandal, sandal",
+                "tagalog": "tsinelas"
+              },
+              "meaning": {
+                "sourceLanguage": "mixed",
+                "sourceText": "slippers, slipper",
+                "id": "sandal, sandal"
+              }
             }
-          ]
+          ],
+          "title": {
+            "sourceLanguage": "mixed",
+            "sourceText": "Clothing and Accessories",
+            "id": "Pakaian dan Aksesoris"
+          }
+        },
+        {
+          "type": "vocabulary",
+          "entries": [
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "bibig",
+                "id": "mulut",
+                "tagalog": "bibig"
+              },
+              "meaning": {
+                "sourceLanguage": "mixed",
+                "sourceText": "mouth",
+                "id": "mulut"
+              }
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "buhok",
+                "id": "rambut",
+                "tagalog": "buhok"
+              },
+              "meaning": {
+                "sourceLanguage": "mixed",
+                "sourceText": "hair",
+                "id": "rambut"
+              }
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "kilay",
+                "id": "alis",
+                "tagalog": "kilay"
+              },
+              "meaning": {
+                "sourceLanguage": "mixed",
+                "sourceText": "eyebrow",
+                "id": "alis"
+              }
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "ilong",
+                "id": "hidung",
+                "tagalog": "ilong"
+              },
+              "meaning": {
+                "sourceLanguage": "mixed",
+                "sourceText": "nose",
+                "id": "hidung"
+              }
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "mata",
+                "id": "mata",
+                "tagalog": "mata"
+              },
+              "meaning": {
+                "sourceLanguage": "mixed",
+                "sourceText": "eyes",
+                "id": "mata"
+              }
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "mukha",
+                "id": "wajah",
+                "tagalog": "mukha"
+              },
+              "meaning": {
+                "sourceLanguage": "mixed",
+                "sourceText": "face",
+                "id": "wajah"
+              }
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "ngipin",
+                "id": "gigi",
+                "tagalog": "ngipin"
+              },
+              "meaning": {
+                "sourceLanguage": "mixed",
+                "sourceText": "teeth",
+                "id": "gigi"
+              }
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "tenga",
+                "id": "telinga",
+                "tagalog": "tenga"
+              },
+              "meaning": {
+                "sourceLanguage": "mixed",
+                "sourceText": "ears",
+                "id": "telinga"
+              }
+            }
+          ],
+          "title": {
+            "sourceLanguage": "en",
+            "sourceText": "Hair and Parts of the Face",
+            "id": "Rambut dan Bagian Wajah"
+          }
+        },
+        {
+          "type": "vocabulary",
+          "entries": [
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "bata",
+                "id": "muda",
+                "tagalog": "bata"
+              },
+              "meaning": {
+                "sourceLanguage": "mixed",
+                "sourceText": "young",
+                "id": "muda"
+              }
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "bilog",
+                "id": "bulat",
+                "tagalog": "bilog"
+              },
+              "meaning": {
+                "sourceLanguage": "mixed",
+                "sourceText": "round",
+                "id": "bulat"
+              }
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "guwapo",
+                "id": "Tampan, tampan.",
+                "tagalog": "guwapo"
+              },
+              "meaning": {
+                "sourceLanguage": "mixed",
+                "sourceText": "handsome, good-looking",
+                "id": "Tampan, tampan."
+              }
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "kalbo",
+                "id": "botak",
+                "tagalog": "kalbo"
+              },
+              "meaning": {
+                "sourceLanguage": "mixed",
+                "sourceText": "bald",
+                "id": "botak"
+              }
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "kalmado",
+                "id": "tenang",
+                "tagalog": "kalmado"
+              },
+              "meaning": {
+                "sourceLanguage": "mixed",
+                "sourceText": "calm",
+                "id": "tenang"
+              }
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "kulot",
+                "id": "keriting",
+                "tagalog": "kulot"
+              },
+              "meaning": {
+                "sourceLanguage": "mixed",
+                "sourceText": "curly",
+                "id": "keriting"
+              }
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "kuwadrado",
+                "id": "persegi",
+                "tagalog": "kuwadrado"
+              },
+              "meaning": {
+                "sourceLanguage": "mixed",
+                "sourceText": "square",
+                "id": "persegi"
+              }
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "mabuti",
+                "id": "baik, baik",
+                "tagalog": "mabuti"
+              },
+              "meaning": {
+                "sourceLanguage": "mixed",
+                "sourceText": "fine, good",
+                "id": "baik, baik"
+              }
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "magalang",
+                "id": "sopan",
+                "tagalog": "magalang"
+              },
+              "meaning": {
+                "sourceLanguage": "mixed",
+                "sourceText": "polite",
+                "id": "sopan"
+              }
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "magulo",
+                "id": "tidak tertib, gaduh, nakal",
+                "tagalog": "magulo"
+              },
+              "meaning": {
+                "sourceLanguage": "mixed",
+                "sourceText": "disorderly, rowdy, mischievous",
+                "id": "tidak tertib, gaduh, nakal"
+              }
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "mahaba",
+                "id": "panjang (panjang)",
+                "tagalog": "mahaba"
+              },
+              "meaning": {
+                "sourceLanguage": "mixed",
+                "sourceText": "long (length)",
+                "id": "panjang (panjang)"
+              }
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "mahinhin",
+                "id": "sederhana, halus",
+                "tagalog": "mahinhin"
+              },
+              "meaning": {
+                "sourceLanguage": "mixed",
+                "sourceText": "modest, refined",
+                "id": "sederhana, halus"
+              }
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "mahiyain",
+                "id": "malu",
+                "tagalog": "mahiyain"
+              },
+              "meaning": {
+                "sourceLanguage": "mixed",
+                "sourceText": "shy",
+                "id": "malu"
+              }
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "maikli",
+                "id": "pendek (panjang)",
+                "tagalog": "maikli"
+              },
+              "meaning": {
+                "sourceLanguage": "mixed",
+                "sourceText": "short (length)",
+                "id": "pendek (panjang)"
+              }
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "mainitin ang ulo",
+                "id": "pendek-marah",
+                "tagalog": "mainitin ang ulo"
+              },
+              "meaning": {
+                "sourceLanguage": "mixed",
+                "sourceText": "short-tempered",
+                "id": "pendek-marah"
+              }
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "maingay",
+                "id": "Berisik",
+                "tagalog": "maingay"
+              },
+              "meaning": {
+                "sourceLanguage": "mixed",
+                "sourceText": "noisy",
+                "id": "Berisik"
+              }
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "maitim",
+                "id": "gelap - kompitioned",
+                "tagalog": "maitim"
+              },
+              "meaning": {
+                "sourceLanguage": "mixed",
+                "sourceText": "dark-complexioned",
+                "id": "gelap - kompitioned"
+              }
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "makapal",
+                "id": "tebal",
+                "tagalog": "makapal"
+              },
+              "meaning": {
+                "sourceLanguage": "mixed",
+                "sourceText": "thick",
+                "id": "tebal"
+              }
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "malaki",
+                "id": "besar",
+                "tagalog": "malaki"
+              },
+              "meaning": {
+                "sourceLanguage": "mixed",
+                "sourceText": "big",
+                "id": "besar"
+              }
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "malikot",
+                "id": "gelisah, menggeliat, nakal, nakal",
+                "tagalog": "malikot"
+              },
+              "meaning": {
+                "sourceLanguage": "mixed",
+                "sourceText": "restless, wriggly; naughty, mischievous",
+                "id": "gelisah, menggeliat, nakal, nakal"
+              }
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "malilimutin",
+                "id": "ugal-ugalan",
+                "tagalog": "malilimutin"
+              },
+              "meaning": {
+                "sourceLanguage": "mixed",
+                "sourceText": "absent-minded",
+                "id": "ugal-ugalan"
+              }
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "malungkot",
+                "id": "sedih",
+                "tagalog": "malungkot"
+              },
+              "meaning": {
+                "sourceLanguage": "mixed",
+                "sourceText": "sad",
+                "id": "sedih"
+              }
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "manipis",
+                "id": "tipis, tidak padat",
+                "tagalog": "manipis"
+              },
+              "meaning": {
+                "sourceLanguage": "mixed",
+                "sourceText": "thin, not dense",
+                "id": "tipis, tidak padat"
+              }
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "mapagmahal",
+                "id": "Mencintai",
+                "tagalog": "mapagmahal"
+              },
+              "meaning": {
+                "sourceLanguage": "mixed",
+                "sourceText": "loving",
+                "id": "Mencintai"
+              }
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "maputi",
+                "id": "Adil - diselesaikan",
+                "tagalog": "maputi"
+              },
+              "meaning": {
+                "sourceLanguage": "mixed",
+                "sourceText": "fair-complexioned",
+                "id": "Adil - diselesaikan"
+              }
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "mataba",
+                "id": "gemuk, gemuk",
+                "tagalog": "mataba"
+              },
+              "meaning": {
+                "sourceLanguage": "mixed",
+                "sourceText": "stout, fat",
+                "id": "gemuk, gemuk"
+              }
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "matanda",
+                "id": "lama",
+                "tagalog": "matanda"
+              },
+              "meaning": {
+                "sourceLanguage": "mixed",
+                "sourceText": "old",
+                "id": "lama"
+              }
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "matangos",
+                "id": "menunjuk (mengacu ke hidung)",
+                "tagalog": "matangos"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "pointed (referring to the nose)",
+                "id": "menunjuk (mengacu ke hidung)"
+              }
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "pahaba",
+                "id": "panjang",
+                "tagalog": "pahaba"
+              },
+              "meaning": {
+                "sourceLanguage": "mixed",
+                "sourceText": "long",
+                "id": "panjang"
+              }
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "pango",
+                "id": "rata (mengacu ke hidung)",
+                "tagalog": "pango"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "flat (referring to the nose)",
+                "id": "rata (mengacu ke hidung)"
+              }
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "payat",
+                "id": "tipis",
+                "tagalog": "payat"
+              },
+              "meaning": {
+                "sourceLanguage": "mixed",
+                "sourceText": "thin",
+                "id": "tipis"
+              }
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "singkit",
+                "id": "(Yang kaku kasar) wataknya kaku lagi kasar (selain dari itu, yang terkenal kejahatannya) dia adalah seseorang yang dianggap sebagai orang Quraisy, padahal dia bukan dari kalangan mereka, yaitu Walid bin Mughirah. Ayahnya menjulukinya sebagai orang Quraisy setelah ia berumur delapan belas tahun.",
+                "tagalog": "singkit"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "narrow-slit or slanting (referring to eyes)",
+                "id": "(Yang kaku kasar) wataknya kaku lagi kasar (selain dari itu, yang terkenal kejahatannya) dia adalah seseorang yang dianggap sebagai orang Quraisy, padahal dia bukan dari kalangan mereka, yaitu Walid bin Mughirah. Ayahnya menjulukinya sebagai orang Quraisy setelah ia berumur delapan belas tahun."
+              }
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "suplado/a",
+                "id": "sombong",
+                "tagalog": "suplado/a"
+              },
+              "meaning": {
+                "sourceLanguage": "mixed",
+                "sourceText": "snobbish",
+                "id": "sombong"
+              }
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "tahimik",
+                "id": "tenang",
+                "tagalog": "tahimik"
+              },
+              "meaning": {
+                "sourceLanguage": "mixed",
+                "sourceText": "quiet",
+                "id": "tenang"
+              }
+            }
+          ],
+          "title": {
+            "sourceLanguage": "mixed",
+            "sourceText": "Adjectives",
+            "id": "Kata sifat"
+          }
+        },
+        {
+          "type": "vocabulary",
+          "entries": [
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "asul",
+                "id": "biru",
+                "tagalog": "asul"
+              },
+              "meaning": {
+                "sourceLanguage": "mixed",
+                "sourceText": "blue",
+                "id": "biru"
+              }
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "berde",
+                "id": "hijau",
+                "tagalog": "berde"
+              },
+              "meaning": {
+                "sourceLanguage": "mixed",
+                "sourceText": "green",
+                "id": "hijau"
+              }
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "dilaw",
+                "id": "kuning",
+                "tagalog": "dilaw"
+              },
+              "meaning": {
+                "sourceLanguage": "mixed",
+                "sourceText": "yellow",
+                "id": "kuning"
+              }
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "itim",
+                "id": "hitam",
+                "tagalog": "itim"
+              },
+              "meaning": {
+                "sourceLanguage": "mixed",
+                "sourceText": "black",
+                "id": "hitam"
+              }
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "kayumanggi",
+                "id": "coklat (hanya digunakan untuk menggambarkan warna kulit)",
+                "tagalog": "kayumanggi"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "brown (only used to describe skin color)",
+                "id": "coklat (hanya digunakan untuk menggambarkan warna kulit)"
+              }
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "kulay",
+                "id": "warna",
+                "tagalog": "kulay"
+              },
+              "meaning": {
+                "sourceLanguage": "mixed",
+                "sourceText": "color",
+                "id": "warna"
+              }
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "pula",
+                "id": "merah",
+                "tagalog": "pula"
+              },
+              "meaning": {
+                "sourceLanguage": "mixed",
+                "sourceText": "red",
+                "id": "merah"
+              }
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "puti",
+                "id": "putih",
+                "tagalog": "puti"
+              },
+              "meaning": {
+                "sourceLanguage": "mixed",
+                "sourceText": "white",
+                "id": "putih"
+              }
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "rosas",
+                "id": "pink",
+                "tagalog": "rosas"
+              },
+              "meaning": {
+                "sourceLanguage": "mixed",
+                "sourceText": "pink",
+                "id": "pink"
+              }
+            }
+          ],
+          "title": {
+            "sourceLanguage": "mixed",
+            "sourceText": "Colors",
+            "id": "Warna"
+          }
+        },
+        {
+          "type": "vocabulary",
+          "entries": [
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "naka-",
+                "id": "Mengekspresikan ide memakai artikel yang ditunjuk oleh akar",
+                "tagalog": "naka-"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "expresses the idea of wearing the article designated by the root",
+                "id": "Mengekspresikan ide memakai artikel yang ditunjuk oleh akar"
+              }
+            }
+          ],
+          "title": {
+            "sourceLanguage": "mixed",
+            "sourceText": "Prefixes",
+            "id": "Prefiks"
+          }
         },
         {
           "type": "image",
           "path": "assets/91.jpg"
         }
-      ]
+      ],
+      "id": "lesson-05-02-vocabulary"
     },
     {
-      "id": "lesson-05-reading-text-ang-pamilya-ko-my-family",
-      "type": "DIALOGUE",
+      "type": "LEARNING_MATERIAL",
       "title": {
         "sourceLanguage": "mixed",
         "sourceText": "Reading Text: Ang Pamilya Ko My Family",
         "id": "Teks Bacaan: Ang Pamilya Ko My Family"
       },
       "blocks": [
-        {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "mixed",
-            "sourceText": "Reading Text: Ang Pamilya Ko My Family",
-            "id": "Teks Bacaan: Ang Pamilya Ko My Family"
-          }
-        },
         {
           "type": "text",
           "style": "body",
@@ -1544,19 +1297,21 @@
             "id": "ini keluargaku aku yang termuda di dalam keluarga aku punya boneka foto dan aku seorang gadis biru keluargaku ada di belakangku adikku baik dan penuh kasih dan dia di sebelah kanan, dia celana biru dia sangat berani dan tampan adikku ada di depan ayahku Ibu saya berada di dekat ayah saya, dan dia cantik dan sederhana, dan ibu saya berada di depan ibu saya, yang adalah rok ramah, dan Mario berada di sisinya, dan dia baik dan tampan.",
             "tagalog": "Ito ang pamilya ko. Ako ang bunso sa pamilya. May manika ako sa litrato at naka-asul na bestida ako. Nasa likod ko ang pamilya ko. Mabait at mapagmahal sila. Nasa kanan si Lolo. Nakaasul na pantalon siya. Nasa tabi ni Lolo si Tatay. Matapang at guwapo siya. Nasa harap ni Tatay ang kapatid ko. Jojo ang pangalan niya. Matalino at masipag siya. Nasa tabi ni Tatay si Nanay. Maganda at mahinhin siya. Nasa harap ni Nanay si Lola. Nakaberdeng palda at nakahikaw siya. Nasa tabi ni Lola si Mario. Tito ko si Mario. Mabait at guwapo siya."
           }
-        },
+        }
+      ],
+      "id": "lesson-05-03-reading-text-ang-pamilya-ko-my-family"
+    },
+    {
+      "type": "EXERCISES",
+      "title": {
+        "sourceLanguage": "mixed",
+        "sourceText": "Reading Comprehension",
+        "id": "Pemahaman Bacaan"
+      },
+      "blocks": [
         {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "mixed",
-            "sourceText": "Reading Comprehension",
-            "id": "Pemahaman Bacaan"
-          }
-        },
-        {
-          "type": "text",
-          "style": "body",
+          "type": "exercise",
+          "role": "content",
           "text": {
             "sourceLanguage": "en",
             "sourceText": "For each of the following statements about the reading, place a check mark in the appropriate blank, depending on whether the statement is true, Tama, or false, Mali.",
@@ -1564,7 +1319,8 @@
           }
         },
         {
-          "type": "table",
+          "type": "exercise",
+          "role": "worksheet",
           "rows": [
             {
               "cells": [
@@ -1677,38 +1433,20 @@
             }
           ]
         }
-      ]
+      ],
+      "id": "lesson-05-04-reading-comprehension"
     },
     {
-      "id": "lesson-05-activities",
-      "type": "ACTIVITY",
+      "type": "EXERCISES",
       "title": {
         "sourceLanguage": "mixed",
-        "sourceText": "Activities",
-        "id": "Aktivitas"
+        "sourceText": "Activity 1",
+        "id": "Aktivitas 1"
       },
       "blocks": [
         {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "mixed",
-            "sourceText": "Activities",
-            "id": "Aktivitas"
-          }
-        },
-        {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "mixed",
-            "sourceText": "Activity 1",
-            "id": "Aktivitas 1"
-          }
-        },
-        {
-          "type": "text",
-          "style": "body",
+          "type": "exercise",
+          "role": "instruction",
           "text": {
             "sourceLanguage": "en",
             "sourceText": "Choose an appropriate adjective from the vocabulary page to describe each person listed below. When you have finished, write a complete sentence using all the information you have. Remember to use ang markers for your subjects.",
@@ -1716,7 +1454,8 @@
           }
         },
         {
-          "type": "table",
+          "type": "exercise",
+          "role": "worksheet",
           "rows": [
             {
               "cells": [
@@ -1849,19 +1588,21 @@
               ]
             }
           ]
-        },
+        }
+      ],
+      "id": "lesson-05-05-activity-1"
+    },
+    {
+      "type": "EXERCISES",
+      "title": {
+        "sourceLanguage": "mixed",
+        "sourceText": "Activity 2",
+        "id": "Aktivitas 2"
+      },
+      "blocks": [
         {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "mixed",
-            "sourceText": "Activity 2",
-            "id": "Aktivitas 2"
-          }
-        },
-        {
-          "type": "text",
-          "style": "body",
+          "type": "exercise",
+          "role": "content",
           "text": {
             "sourceLanguage": "en",
             "sourceText": "In the spaces provided below, write a description of one of your classmates using five different adjectives. Be sure to construct complete sentences. When you’re done, read the description to the class and have them guess who the person is. Use the example below to model your sentences and your dialogue with the class.",
@@ -1870,6 +1611,7 @@
         },
         {
           "type": "table",
+          "role": "dialogue-context",
           "rows": [
             {
               "cells": [
@@ -1879,57 +1621,59 @@
                   "id": "EXAMPLE:"
                 }
               ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "S1:",
-                  "id": "S1:"
-                },
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "Mahaba ang buhok niya. Matangkad siya. Matangos ang ilong niya. Nakadilaw siya at nakasalamin siya. She has long hair. She’s tall. Her nose is prominent. She’s wearing yellow, and she wears glasses.",
-                  "id": "Mahaba ang buhok niya, Matangkad siya, Matangos ang ilong niya, Nakaadilaw siya di Nakasalamin siya dia tinggi hidungnya menonjol dia memakai kuning dan dia memakai kacamata",
-                  "tagalog": "Mahaba ang buhok niya. Matangkad siya. Matangos ang ilong niya. Nakadilaw siya at nakasalamin siya."
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "S2:",
-                  "id": "S2:"
-                },
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "Si Kristine ba siya? Is it (she) Kristine?",
-                  "id": "Apakah Kristine?",
-                  "tagalog": "Si Kristine ba siya? Is it (she) Kristine?"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "S1:",
-                  "id": "S1:"
-                },
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "Oo, si Kristine siya./Hindi. Hindi siya si Kristine. Yes, it is Kristine./No. It is not Kristine.",
-                  "id": "Ya, Kristine adalah dia. / Tidak, dia bukan Kristine. / Ya, itu Kristine. / Tidak.",
-                  "tagalog": "Oo, si Kristine siya./Hindi. Hindi siya si Kristine. Yes, it is Kristine./No. It is not Kristine."
-                }
-              ]
             }
           ]
         },
         {
-          "type": "text",
-          "style": "body",
+          "type": "dialogue",
+          "turns": [
+            {
+              "speaker": "S1",
+              "speakerText": {
+                "sourceLanguage": "mixed",
+                "sourceText": "S1:",
+                "id": "S1:"
+              },
+              "text": {
+                "sourceLanguage": "mixed",
+                "sourceText": "Mahaba ang buhok niya. Matangkad siya. Matangos ang ilong niya. Nakadilaw siya at nakasalamin siya. She has long hair. She’s tall. Her nose is prominent. She’s wearing yellow, and she wears glasses.",
+                "id": "Mahaba ang buhok niya, Matangkad siya, Matangos ang ilong niya, Nakaadilaw siya di Nakasalamin siya dia tinggi hidungnya menonjol dia memakai kuning dan dia memakai kacamata",
+                "tagalog": "Mahaba ang buhok niya. Matangkad siya. Matangos ang ilong niya. Nakadilaw siya at nakasalamin siya."
+              }
+            },
+            {
+              "speaker": "S2",
+              "speakerText": {
+                "sourceLanguage": "mixed",
+                "sourceText": "S2:",
+                "id": "S2:"
+              },
+              "text": {
+                "sourceLanguage": "fil",
+                "sourceText": "Si Kristine ba siya? Is it (she) Kristine?",
+                "id": "Apakah Kristine?",
+                "tagalog": "Si Kristine ba siya? Is it (she) Kristine?"
+              }
+            },
+            {
+              "speaker": "S1",
+              "speakerText": {
+                "sourceLanguage": "mixed",
+                "sourceText": "S1:",
+                "id": "S1:"
+              },
+              "text": {
+                "sourceLanguage": "fil",
+                "sourceText": "Oo, si Kristine siya./Hindi. Hindi siya si Kristine. Yes, it is Kristine./No. It is not Kristine.",
+                "id": "Ya, Kristine adalah dia. / Tidak, dia bukan Kristine. / Ya, itu Kristine. / Tidak.",
+                "tagalog": "Oo, si Kristine siya./Hindi. Hindi siya si Kristine. Yes, it is Kristine./No. It is not Kristine."
+              }
+            }
+          ]
+        },
+        {
+          "type": "exercise",
+          "role": "question",
           "text": {
             "sourceLanguage": "mixed",
             "sourceText": "1. _________________________________",
@@ -1937,8 +1681,8 @@
           }
         },
         {
-          "type": "text",
-          "style": "body",
+          "type": "exercise",
+          "role": "question",
           "text": {
             "sourceLanguage": "mixed",
             "sourceText": "2. _________________________________",
@@ -1946,8 +1690,8 @@
           }
         },
         {
-          "type": "text",
-          "style": "body",
+          "type": "exercise",
+          "role": "question",
           "text": {
             "sourceLanguage": "mixed",
             "sourceText": "3. _________________________________",
@@ -1955,8 +1699,8 @@
           }
         },
         {
-          "type": "text",
-          "style": "body",
+          "type": "exercise",
+          "role": "question",
           "text": {
             "sourceLanguage": "mixed",
             "sourceText": "4. _________________________________",
@@ -1964,26 +1708,28 @@
           }
         },
         {
-          "type": "text",
-          "style": "body",
+          "type": "exercise",
+          "role": "question",
           "text": {
             "sourceLanguage": "mixed",
             "sourceText": "5. _________________________________",
             "id": "5. _________________________________"
           }
-        },
+        }
+      ],
+      "id": "lesson-05-06-activity-2"
+    },
+    {
+      "type": "EXERCISES",
+      "title": {
+        "sourceLanguage": "mixed",
+        "sourceText": "Activity 3",
+        "id": "Aktivitas 3"
+      },
+      "blocks": [
         {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "mixed",
-            "sourceText": "Activity 3",
-            "id": "Aktivitas 3"
-          }
-        },
-        {
-          "type": "text",
-          "style": "body",
+          "type": "exercise",
+          "role": "instruction",
           "text": {
             "sourceLanguage": "en",
             "sourceText": "Work in small groups. Sketch each member of your family on a separate sheet of paper, then take turns with your partners describing the people in your sketches. Here is an example of a description.",
@@ -1991,8 +1737,8 @@
           }
         },
         {
-          "type": "text",
-          "style": "body",
+          "type": "exercise",
+          "role": "content",
           "text": {
             "sourceLanguage": "mixed",
             "sourceText": "Student: Siya ang tatay ko. Matangkad at payat ang tatay ko. Puti at itim ang buhok niya. Matangos ang ilong niya. Makapal ang kilay niya. Maitim siya. Mabait at tahimik siya.\n\nHe is my father. My father is tall and thin. His hair is salt and pepper. His nose is pointed. His eyebrows are thick. He is dark. He is kind and quiet.",
@@ -2000,35 +1746,17 @@
             "tagalog": "Siya ang tatay ko. Matangkad at payat ang tatay ko. Puti at itim ang buhok niya. Matangos ang ilong niya. Makapal ang kilay niya. Maitim siya. Mabait at tahimik siya."
           }
         }
-      ]
+      ],
+      "id": "lesson-05-07-activity-3"
     },
     {
-      "id": "lesson-05-grammar",
-      "type": "GRAMMAR",
+      "type": "LEARNING_MATERIAL",
       "title": {
         "sourceLanguage": "mixed",
-        "sourceText": "Grammar",
-        "id": "Tata Bahasa"
+        "sourceText": "Definition of Terms",
+        "id": "Definisi Istilah"
       },
       "blocks": [
-        {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "mixed",
-            "sourceText": "Grammar",
-            "id": "Tata Bahasa"
-          }
-        },
-        {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "mixed",
-            "sourceText": "Definition of Terms",
-            "id": "Definisi Istilah"
-          }
-        },
         {
           "type": "table",
           "rows": [
@@ -2056,7 +1784,8 @@
                 {
                   "sourceLanguage": "en",
                   "sourceText": "Composed of an adjective, a linker, and a noun.\n\nEXAMPLE:\n\nMalaking lalaki si Edward. Edward is a big man.",
-                  "id": "Terdiri dari kata sifat, penghubung, dan kata benda. EXAMPLE: Edward adalah orang besar."
+                  "id": "Terdiri dari kata sifat, penghubung, dan kata benda. EXAMPLE: Edward adalah orang besar.",
+                  "tagalog": "Malaking lalaki si Edward."
                 }
               ]
             },
@@ -2070,7 +1799,8 @@
                 {
                   "sourceLanguage": "en",
                   "sourceText": "The modification of a word to express different grammatical categories such as aspect, number, etc.\n\nEXAMPLE:\n\nMabait na bata si Mario. Mario is a nice child.\n\nMababait na mga bata sina Mario. Mario and others are nice children.",
-                  "id": "Modifikasi kata untuk mengekspresikan kategori tata bahasa yang berbeda seperti aspek, nomor, dll. EXAMPLE: Mabait na bata si Mario. Mababit na mga bata sina Mario dan lainnya adalah anak-anak yang baik."
+                  "id": "Modifikasi kata untuk mengekspresikan kategori tata bahasa yang berbeda seperti aspek, nomor, dll. EXAMPLE: Mabait na bata si Mario. Mababit na mga bata sina Mario dan lainnya adalah anak-anak yang baik.",
+                  "tagalog": "Mabait na bata si Mario. Mababait na mga bata sina Mario."
                 }
               ]
             },
@@ -2084,7 +1814,8 @@
                 {
                   "sourceLanguage": "en",
                   "sourceText": "Words that are used to connect one word to another.\n\nEXAMPLE:\n\nMabait na bata Nice kid, child\n\nBatang mabait Nice kid, child",
-                  "id": "Kata-kata yang digunakan untuk menghubungkan satu kata dengan kata lain. EXAMPLE: Mabait na bata Nice kid, child Batang mabait Anak baik, anak"
+                  "id": "Kata-kata yang digunakan untuk menghubungkan satu kata dengan kata lain. EXAMPLE: Mabait na bata Nice kid, child Batang mabait Anak baik, anak",
+                  "tagalog": "Mabait na bata Bata ng mabait"
                 }
               ]
             },
@@ -2098,21 +1829,25 @@
                 {
                   "sourceLanguage": "en",
                   "sourceText": "A process by which the root of a word, or part of it, is repeated. In the example below, the reduplication of the consonant and vowel combination ba makes the adjective plural.\n\nEXAMPLE:\n\nMabait na bata si Mario. Mario is a good child.\n\nMababait na mga bata sina Mario. Mario and others are good children.",
-                  "id": "Sebuah proses dimana akar dari sebuah kata, atau sebagian dari itu, berulang. dalam contoh di bawah ini, reduplikasi dari konsonan dan vokal kombinasi ba membuat plural kata sifat. EXAMPLE: Mabait na bata si Mario. Mababit na mga bata sina Mario dan lainnya adalah anak-anak yang baik."
+                  "id": "Sebuah proses dimana akar dari sebuah kata, atau sebagian dari itu, berulang. dalam contoh di bawah ini, reduplikasi dari konsonan dan vokal kombinasi ba membuat plural kata sifat. EXAMPLE: Mabait na bata si Mario. Mababit na mga bata sina Mario dan lainnya adalah anak-anak yang baik.",
+                  "tagalog": "ba Mabait na bata si Mario. Mababait na mga bata sina Mario. Mababait"
                 }
               ]
             }
-          ]
-        },
-        {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "mixed",
-            "sourceText": "Examining Form",
-            "id": "Mengkaji Bentuk"
-          }
-        },
+          ],
+          "role": "reference"
+        }
+      ],
+      "id": "lesson-05-08-definition-of-terms"
+    },
+    {
+      "type": "LEARNING_MATERIAL",
+      "title": {
+        "sourceLanguage": "mixed",
+        "sourceText": "Examining Form",
+        "id": "Menganalisis Bentuk"
+      },
+      "blocks": [
         {
           "type": "text",
           "style": "body",
@@ -2234,7 +1969,8 @@
                 }
               ]
             }
-          ]
+          ],
+          "role": "reference"
         },
         {
           "type": "table",
@@ -2277,7 +2013,8 @@
                 {
                   "sourceLanguage": "en",
                   "sourceText": "Look at the first two examples. The modifiers matatalino, masisipag, magaganda, and mahihinhin are the inflected forms of matalino, masipag, maganda, and mahinhin. When do you inflect adjectives?",
-                  "id": "Lihat dua contoh pertama, pemodifikasi Matatalino, masipag, magaganda, dan mahihinhin adalah bentuk yang meningkat dari matalino, masipag, maganda, dan mahinhin."
+                  "id": "Lihat dua contoh pertama, pemodifikasi Matatalino, masipag, magaganda, dan mahihinhin adalah bentuk yang meningkat dari matalino, masipag, maganda, dan mahinhin.",
+                  "tagalog": "matatalino masisipag magaganda mahihinhin matalino masipag maganda mahinhin"
                 }
               ]
             },
@@ -2295,17 +2032,20 @@
                 }
               ]
             }
-          ]
-        },
-        {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "en",
-            "sourceText": "I. Adjectives and Linkers",
-            "id": "I. Alasan dan Linkers"
-          }
-        },
+          ],
+          "role": "reference"
+        }
+      ],
+      "id": "lesson-05-09-examining-form"
+    },
+    {
+      "type": "LEARNING_MATERIAL",
+      "title": {
+        "sourceLanguage": "en",
+        "sourceText": "I. Adjectives and Linkers",
+        "id": "I. Alasan dan Linkers"
+      },
+      "blocks": [
         {
           "type": "text",
           "style": "body",
@@ -2341,21 +2081,25 @@
                 {
                   "sourceLanguage": "en",
                   "sourceText": "-g is attached to the end of the noun or modifier if it ends in n.\n\nEXAMPLE: ngiping maputi white teeth",
-                  "id": "-g dicantolkan ke akhir kata benda atau pemodifikasi jika berakhir dalam n. EXAMPLE: ngiping maputi gigi putih"
+                  "id": "-g dicantolkan ke akhir kata benda atau pemodifikasi jika berakhir dalam n. EXAMPLE: ngiping maputi gigi putih",
+                  "tagalog": "-g n ngipin g maputi"
                 }
               ]
             }
-          ]
-        },
-        {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "mixed",
-            "sourceText": "Grammar Presentation",
-            "id": "Penyajian Tata Bahasa"
-          }
-        },
+          ],
+          "role": "reference"
+        }
+      ],
+      "id": "lesson-05-10-i-adjectives-and-linkers"
+    },
+    {
+      "type": "LEARNING_MATERIAL",
+      "title": {
+        "sourceLanguage": "mixed",
+        "sourceText": "Grammar Presentation",
+        "id": "Penyajian Tata Bahasa"
+      },
+      "blocks": [
         {
           "type": "text",
           "style": "body",
@@ -2416,47 +2160,64 @@
                 }
               ]
             }
+          ],
+          "role": "reference"
+        }
+      ],
+      "id": "lesson-05-11-grammar-presentation"
+    },
+    {
+      "type": "EXAMPLES",
+      "title": {
+        "sourceLanguage": "mixed",
+        "sourceText": "EXAMPLES:",
+        "id": "Contoh"
+      },
+      "blocks": [
+        {
+          "type": "example",
+          "items": [
+            {
+              "sourceLanguage": "fil",
+              "sourceText": "Mahaba ang buhok niya. Her hair is long.",
+              "id": "Rambutnya panjang, rambutnya panjang.",
+              "tagalog": "Mahaba ang buhok niya. Her hair is long."
+            }
           ]
         },
         {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "mixed",
-            "sourceText": "EXAMPLES:",
-            "id": "EXAMPLES:"
-          }
+          "type": "example",
+          "items": [
+            {
+              "sourceLanguage": "fil",
+              "sourceText": "Makapal ba ang kilay ng lalaki? Are the man’s eyebrows thick?",
+              "id": "Apakah pria itu terlalu berat pada rambutnya?",
+              "tagalog": "Makapal ba ang kilay ng lalaki? Are the man’s eyebrows thick?"
+            }
+          ]
         },
         {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "fil",
-            "sourceText": "Mahaba ang buhok niya. Her hair is long.",
-            "id": "Rambutnya panjang, rambutnya panjang.",
-            "tagalog": "Mahaba ang buhok niya. Her hair is long."
-          }
-        },
-        {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "fil",
-            "sourceText": "Makapal ba ang kilay ng lalaki? Are the man’s eyebrows thick?",
-            "id": "Apakah pria itu terlalu berat pada rambutnya?",
-            "tagalog": "Makapal ba ang kilay ng lalaki? Are the man’s eyebrows thick?"
-          }
-        },
-        {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "fil",
-            "sourceText": "Maliit ang mga tenga ni Maria. Maria’s ears are small.",
-            "id": "Putri Maria kecil.",
-            "tagalog": "Maliit ang mga tenga ni Maria. Maria’s ears are small."
-          }
-        },
+          "type": "example",
+          "items": [
+            {
+              "sourceLanguage": "fil",
+              "sourceText": "Maliit ang mga tenga ni Maria. Maria’s ears are small.",
+              "id": "Putri Maria kecil.",
+              "tagalog": "Maliit ang mga tenga ni Maria. Maria’s ears are small."
+            }
+          ]
+        }
+      ],
+      "id": "lesson-05-12-examples"
+    },
+    {
+      "type": "LEARNING_MATERIAL",
+      "title": {
+        "sourceLanguage": "mixed",
+        "sourceText": "Grammar Presentation",
+        "id": "Penyajian Tata Bahasa"
+      },
+      "blocks": [
         {
           "type": "text",
           "style": "body",
@@ -2635,77 +2396,97 @@
                 }
               ]
             }
+          ],
+          "role": "reference"
+        }
+      ],
+      "id": "lesson-05-13-grammar-presentation-2"
+    },
+    {
+      "type": "EXAMPLES",
+      "title": {
+        "sourceLanguage": "mixed",
+        "sourceText": "EXAMPLES:",
+        "id": "Contoh"
+      },
+      "blocks": [
+        {
+          "type": "example",
+          "items": [
+            {
+              "sourceLanguage": "mixed",
+              "sourceText": "a) Kapatid niya ang maingay na lalaki. The loud guy is his/her brother.",
+              "id": "Kapatid niya ang maingay na lamaki Orang yang keras adalah saudaranya",
+              "tagalog": "Kapatid niya ang maingay na lalaki ."
+            }
           ]
         },
         {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "mixed",
-            "sourceText": "EXAMPLES:",
-            "id": "EXAMPLES:"
-          }
+          "type": "example",
+          "items": [
+            {
+              "sourceLanguage": "fil",
+              "sourceText": "b) Kapatid niya ang lalaking maingay.",
+              "id": "B) Saudaranya adalah orang yang berisik.",
+              "tagalog": "b) Kapatid niya ang lalaking maingay."
+            }
+          ]
         },
         {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "mixed",
-            "sourceText": "a) Kapatid niya ang maingay na lalaki. The loud guy is his/her brother.",
-            "id": "Kapatid niya ang maingay na lamaki Orang yang keras adalah saudaranya",
-            "tagalog": "Kapatid niya ang maingay na lalaki ."
-          }
+          "type": "example",
+          "items": [
+            {
+              "sourceLanguage": "fil",
+              "sourceText": "a) Kaibigan mo ba ang mahinhing babae? Is the refined woman your friend?",
+              "id": "A) Apakah wanita sederhana teman Anda?",
+              "tagalog": "a) Kaibigan mo ba ang mahinhing babae? Is the refined woman your friend?"
+            }
+          ]
         },
         {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "fil",
-            "sourceText": "b) Kapatid niya ang lalaking maingay.",
-            "id": "B) Saudaranya adalah orang yang berisik.",
-            "tagalog": "b) Kapatid niya ang lalaking maingay."
-          }
+          "type": "example",
+          "items": [
+            {
+              "sourceLanguage": "fil",
+              "sourceText": "b) Kaibigan mo ba ang babaeng mahinhin?",
+              "id": "B) Apakah seorang wanita sederhana teman Anda?",
+              "tagalog": "b) Kaibigan mo ba ang babaeng mahinhin?"
+            }
+          ]
         },
         {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "fil",
-            "sourceText": "a) Kaibigan mo ba ang mahinhing babae? Is the refined woman your friend?",
-            "id": "A) Apakah wanita sederhana teman Anda?",
-            "tagalog": "a) Kaibigan mo ba ang mahinhing babae? Is the refined woman your friend?"
-          }
+          "type": "example",
+          "items": [
+            {
+              "sourceLanguage": "fil",
+              "sourceText": "a) Pinsan ko po ang mabait na bata The nice kid is my cousin, sir.",
+              "id": "a) Saya bekerja dengan anak yang baik Thece underchid adalah coinus saya, pir.",
+              "tagalog": "a) Pinsan ko po ang mabait na bata The nice kid is my cousin, sir."
+            }
+          ]
         },
         {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "fil",
-            "sourceText": "b) Kaibigan mo ba ang babaeng mahinhin?",
-            "id": "B) Apakah seorang wanita sederhana teman Anda?",
-            "tagalog": "b) Kaibigan mo ba ang babaeng mahinhin?"
-          }
-        },
-        {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "fil",
-            "sourceText": "a) Pinsan ko po ang mabait na bata The nice kid is my cousin, sir.",
-            "id": "a) Saya bekerja dengan anak yang baik Thece underchid adalah coinus saya, pir.",
-            "tagalog": "a) Pinsan ko po ang mabait na bata The nice kid is my cousin, sir."
-          }
-        },
-        {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "fil",
-            "sourceText": "b) Pinsan ko po ang batang mabait.",
-            "id": "B) Saya bekerja keras pada jenis anak.",
-            "tagalog": "b) Pinsan ko po ang batang mabait."
-          }
-        },
+          "type": "example",
+          "items": [
+            {
+              "sourceLanguage": "fil",
+              "sourceText": "b) Pinsan ko po ang batang mabait.",
+              "id": "B) Saya bekerja keras pada jenis anak.",
+              "tagalog": "b) Pinsan ko po ang batang mabait."
+            }
+          ]
+        }
+      ],
+      "id": "lesson-05-14-examples-2"
+    },
+    {
+      "type": "LEARNING_MATERIAL",
+      "title": {
+        "sourceLanguage": "mixed",
+        "sourceText": "Grammar Presentation",
+        "id": "Penyajian Tata Bahasa"
+      },
+      "blocks": [
         {
           "type": "text",
           "style": "body",
@@ -2795,7 +2576,8 @@
                 }
               ]
             }
-          ]
+          ],
+          "role": "reference"
         },
         {
           "type": "text",
@@ -2939,44 +2721,64 @@
                 }
               ]
             }
+          ],
+          "role": "reference"
+        }
+      ],
+      "id": "lesson-05-15-grammar-presentation-3"
+    },
+    {
+      "type": "EXAMPLES",
+      "title": {
+        "sourceLanguage": "mixed",
+        "sourceText": "EXAMPLES:",
+        "id": "Contoh"
+      },
+      "blocks": [
+        {
+          "type": "example",
+          "items": [
+            {
+              "sourceLanguage": "en",
+              "sourceText": "Mabait akong kapatid. I am a good brother.",
+              "id": "Mabait akong kapatid. Aku saudara yang baik.",
+              "tagalog": "Mabait akong kapatid."
+            }
           ]
         },
         {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "mixed",
-            "sourceText": "EXAMPLES:",
-            "id": "EXAMPLES:"
-          }
+          "type": "example",
+          "items": [
+            {
+              "sourceLanguage": "en",
+              "sourceText": "Mabuti ba siyang kaibigan? Is he/she a good friend?",
+              "id": "Mabuti ba siyang kaibigan?",
+              "tagalog": "Mabuti ba siyang kaibigan?"
+            }
+          ]
         },
         {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "en",
-            "sourceText": "Mabait akong kapatid. I am a good brother.",
-            "id": "Mabait akong kapatid. Aku saudara yang baik."
-          }
-        },
-        {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "en",
-            "sourceText": "Mabuti ba siyang kaibigan? Is he/she a good friend?",
-            "id": "Mabuti ba siyang kaibigan?"
-          }
-        },
-        {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "en",
-            "sourceText": "Magalang po siyang bata. He is a polite kid, sir/madam.",
-            "id": "Magalang po siyang bata."
-          }
-        },
+          "type": "example",
+          "items": [
+            {
+              "sourceLanguage": "en",
+              "sourceText": "Magalang po siyang bata. He is a polite kid, sir/madam.",
+              "id": "Magalang po siyang bata.",
+              "tagalog": "Magalang po siyang bata."
+            }
+          ]
+        }
+      ],
+      "id": "lesson-05-16-examples-3"
+    },
+    {
+      "type": "LEARNING_MATERIAL",
+      "title": {
+        "sourceLanguage": "mixed",
+        "sourceText": "Grammar Presentation",
+        "id": "Penyajian Tata Bahasa"
+      },
+      "blocks": [
         {
           "type": "text",
           "style": "body",
@@ -3144,66 +2946,75 @@
                 }
               ]
             }
+          ],
+          "role": "reference"
+        }
+      ],
+      "id": "lesson-05-17-grammar-presentation-4"
+    },
+    {
+      "type": "EXAMPLES",
+      "title": {
+        "sourceLanguage": "mixed",
+        "sourceText": "EXAMPLES:",
+        "id": "Contoh"
+      },
+      "blocks": [
+        {
+          "type": "example",
+          "items": [
+            {
+              "sourceLanguage": "mixed",
+              "sourceText": "Hindi siya mabait na kaibigan. He/She is not a good friend.",
+              "id": "Hindi siya mabait na kaibigan.",
+              "tagalog": "Hindi siya mabait na kaibigan."
+            }
           ]
         },
         {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "mixed",
-            "sourceText": "EXAMPLES:",
-            "id": "EXAMPLES:"
-          }
+          "type": "example",
+          "items": [
+            {
+              "sourceLanguage": "fil",
+              "sourceText": "Hindi mabait na kaibigan si Pedro. Pedro is not a good friend.",
+              "id": "Pedro bukan teman yang baik.",
+              "tagalog": "Hindi mabait na kaibigan si Pedro. Pedro is not a good friend."
+            }
+          ]
         },
         {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "mixed",
-            "sourceText": "Hindi siya mabait na kaibigan. He/She is not a good friend.",
-            "id": "Hindi siya mabait na kaibigan.",
-            "tagalog": "Hindi siya mabait na kaibigan."
-          }
+          "type": "example",
+          "items": [
+            {
+              "sourceLanguage": "fil",
+              "sourceText": "Hindi siya mabait na bata. He is not a nice kid.",
+              "id": "Dia bukan anak yang baik, dia bukan pertanian yang bagus.",
+              "tagalog": "Hindi siya mabait na bata. He is not a nice kid."
+            }
+          ]
         },
         {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "fil",
-            "sourceText": "Hindi mabait na kaibigan si Pedro. Pedro is not a good friend.",
-            "id": "Pedro bukan teman yang baik.",
-            "tagalog": "Hindi mabait na kaibigan si Pedro. Pedro is not a good friend."
-          }
-        },
-        {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "fil",
-            "sourceText": "Hindi siya mabait na bata. He is not a nice kid.",
-            "id": "Dia bukan anak yang baik, dia bukan pertanian yang bagus.",
-            "tagalog": "Hindi siya mabait na bata. He is not a nice kid."
-          }
-        },
-        {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "fil",
-            "sourceText": "Hindi mabait na bata ang anak niya. Her/His child is not a nice kid.",
-            "id": "Anaknya bukan anak yang baik. / Anak-anaknya bukan pertanian yang bagus.",
-            "tagalog": "Hindi mabait na bata ang anak niya. Her/His child is not a nice kid."
-          }
-        },
-        {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "mixed",
-            "sourceText": "Grammar Notes",
-            "id": "Catatan Tata Bahasa"
-          }
-        },
+          "type": "example",
+          "items": [
+            {
+              "sourceLanguage": "fil",
+              "sourceText": "Hindi mabait na bata ang anak niya. Her/His child is not a nice kid.",
+              "id": "Anaknya bukan anak yang baik. / Anak-anaknya bukan pertanian yang bagus.",
+              "tagalog": "Hindi mabait na bata ang anak niya. Her/His child is not a nice kid."
+            }
+          ]
+        }
+      ],
+      "id": "lesson-05-18-examples-4"
+    },
+    {
+      "type": "LEARNING_MATERIAL",
+      "title": {
+        "sourceLanguage": "mixed",
+        "sourceText": "Grammar Notes",
+        "id": "Catatan Tata Bahasa"
+      },
+      "blocks": [
         {
           "type": "table",
           "rows": [
@@ -3221,7 +3032,8 @@
                 {
                   "sourceLanguage": "en",
                   "sourceText": "2. Use linkers when the adjective modifies a noun.\n\nTaga-LA ang mabait na lalaki. The nice man is from LA.",
-                  "id": "Gunakan linkers ketika kata sifat memodifikasi kata benda. Taga- LA ang mabait na lalaki. orang baik adalah dari LA."
+                  "id": "Gunakan linkers ketika kata sifat memodifikasi kata benda. Taga- LA ang mabait na lalaki. orang baik adalah dari LA.",
+                  "tagalog": "Taga-LA ang mabait na lalaki. ang mabait na lalaki"
                 }
               ]
             },
@@ -3240,21 +3052,25 @@
                 {
                   "sourceLanguage": "en",
                   "sourceText": "4. There are two ways to make the adjectival phrase plural:\n\na. Reduplication, which is to reduplicate the first syllable of the root word\n\nAng mababait na estudyante.\n\n*Ang tatahimik na estudyante. (incorrect)\n\n\n\n\n→ Note: Reduplication can be used only for adjectives with a ma- prefix.\n\n\n\n\nb. Mga: The second way is to add mga after the marker ang.\n\nAng mga mabait na estudyante.",
-                  "id": "Ada dua cara untuk membuat ungkapan sifat plural: reduplikasi, yaitu untuk mereduplikasi suku kata pertama dari kata akar Ang mababit na etudyante. * Ang tatadhimik na etudyante. (Salah) Catatan: Reduplikasi hanya dapat digunakan untuk kata sifat dengan awalan buatan. Cara kedua adalah menambahkan mga setelah penanda ang. Ang mga mabait na etudyante."
+                  "id": "Ada dua cara untuk membuat ungkapan sifat plural: reduplikasi, yaitu untuk mereduplikasi suku kata pertama dari kata akar Ang mababit na etudyante. * Ang tatadhimik na etudyante. (Salah) Catatan: Reduplikasi hanya dapat digunakan untuk kata sifat dengan awalan buatan. Cara kedua adalah menambahkan mga setelah penanda ang. Ang mga mabait na etudyante.",
+                  "tagalog": "Ang mababait na estudyante. Ang tatahimik na estudyante. ma- Mga mga ang Ang mga mabait na estudyante."
                 }
               ]
             }
-          ]
-        },
-        {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "mixed",
-            "sourceText": "II. Naka- Modifiers",
-            "id": "II. Naka- Modifier"
-          }
-        },
+          ],
+          "role": "reference"
+        }
+      ],
+      "id": "lesson-05-19-grammar-notes"
+    },
+    {
+      "type": "LEARNING_MATERIAL",
+      "title": {
+        "sourceLanguage": "mixed",
+        "sourceText": "II. Naka- Modifiers",
+        "id": "II. Naka- Modifier"
+      },
+      "blocks": [
         {
           "type": "text",
           "style": "body",
@@ -3270,7 +3086,8 @@
           "text": {
             "sourceLanguage": "en",
             "sourceText": "naka + any type of clothing",
-            "id": "naka + jenis pakaian apapun"
+            "id": "naka + jenis pakaian apapun",
+            "tagalog": "naka any type of clothing"
           }
         },
         {
@@ -3279,7 +3096,8 @@
           "text": {
             "sourceLanguage": "en",
             "sourceText": "naka + any type of accessories",
-            "id": "naka + segala jenis aksesoris"
+            "id": "naka + segala jenis aksesoris",
+            "tagalog": "naka any type of accessories"
           }
         },
         {
@@ -3381,16 +3199,18 @@
             "id": "hitam hitam; mengenakan hitam",
             "tagalog": "nakaitim in black; wearing black"
           }
-        },
-        {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "mixed",
-            "sourceText": "Grammar Presentation",
-            "id": "Penyajian Tata Bahasa"
-          }
-        },
+        }
+      ],
+      "id": "lesson-05-20-ii-naka-modifiers"
+    },
+    {
+      "type": "LEARNING_MATERIAL",
+      "title": {
+        "sourceLanguage": "mixed",
+        "sourceText": "Grammar Presentation",
+        "id": "Penyajian Tata Bahasa"
+      },
+      "blocks": [
         {
           "type": "text",
           "style": "body",
@@ -3471,56 +3291,64 @@
                 }
               ]
             }
+          ],
+          "role": "reference"
+        }
+      ],
+      "id": "lesson-05-21-grammar-presentation-5"
+    },
+    {
+      "type": "EXAMPLES",
+      "title": {
+        "sourceLanguage": "mixed",
+        "sourceText": "EXAMPLES:",
+        "id": "Contoh"
+      },
+      "blocks": [
+        {
+          "type": "example",
+          "items": [
+            {
+              "sourceLanguage": "fil",
+              "sourceText": "Nakapantalon si Lolo. Grandfather is wearing pants.",
+              "id": "Kakekku bisa melompat, Grandfurther yang mengenakan khusus.",
+              "tagalog": "Nakapantalon si Lolo. Grandfather is wearing pants."
+            }
           ]
         },
         {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "mixed",
-            "sourceText": "EXAMPLES:",
-            "id": "EXAMPLES:"
-          }
+          "type": "example",
+          "items": [
+            {
+              "sourceLanguage": "fil",
+              "sourceText": "Nakadilaw ba si Marcus? Is Marcus in yellow?",
+              "id": "Apakah Marcus dalam warna kuning cerah?",
+              "tagalog": "Nakadilaw ba si Marcus? Is Marcus in yellow?"
+            }
+          ]
         },
         {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "fil",
-            "sourceText": "Nakapantalon si Lolo. Grandfather is wearing pants.",
-            "id": "Kakekku bisa melompat, Grandfurther yang mengenakan khusus.",
-            "tagalog": "Nakapantalon si Lolo. Grandfather is wearing pants."
-          }
-        },
-        {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "fil",
-            "sourceText": "Nakadilaw ba si Marcus? Is Marcus in yellow?",
-            "id": "Apakah Marcus dalam warna kuning cerah?",
-            "tagalog": "Nakadilaw ba si Marcus? Is Marcus in yellow?"
-          }
-        },
-        {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "mixed",
-            "sourceText": "Hindi ho nakasumbrero ang kapatid ko. My sibling is not wearing a hat, sir.",
-            "id": "Hindi ho nakasumbrero ang kapatid ko saudaraku tidak memakai topi, pak",
-            "tagalog": "Hindi ho nakasumbrero ang kapatid ko."
-          }
-        },
-        {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "mixed",
-            "sourceText": "Grammar Notes",
-            "id": "Catatan Tata Bahasa"
-          }
-        },
+          "type": "example",
+          "items": [
+            {
+              "sourceLanguage": "mixed",
+              "sourceText": "Hindi ho nakasumbrero ang kapatid ko. My sibling is not wearing a hat, sir.",
+              "id": "Hindi ho nakasumbrero ang kapatid ko saudaraku tidak memakai topi, pak",
+              "tagalog": "Hindi ho nakasumbrero ang kapatid ko."
+            }
+          ]
+        }
+      ],
+      "id": "lesson-05-22-examples-5"
+    },
+    {
+      "type": "LEARNING_MATERIAL",
+      "title": {
+        "sourceLanguage": "mixed",
+        "sourceText": "Grammar Notes",
+        "id": "Catatan Tata Bahasa"
+      },
+      "blocks": [
         {
           "type": "table",
           "rows": [
@@ -3533,40 +3361,23 @@
                 }
               ]
             }
-          ]
+          ],
+          "role": "reference"
         }
-      ]
+      ],
+      "id": "lesson-05-23-grammar-notes-2"
     },
     {
-      "id": "lesson-05-practice",
-      "type": "PRACTICE",
+      "type": "EXERCISES",
       "title": {
-        "sourceLanguage": "mixed",
-        "sourceText": "Practice",
-        "id": "Latihan"
+        "sourceLanguage": "en",
+        "sourceText": "I. Speaking Practice",
+        "id": "I. Latihan Berbicara"
       },
       "blocks": [
         {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "mixed",
-            "sourceText": "Practice",
-            "id": "Latihan"
-          }
-        },
-        {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "en",
-            "sourceText": "I. Speaking Practice",
-            "id": "I. Latihan Berbicara"
-          }
-        },
-        {
-          "type": "text",
-          "style": "body",
+          "type": "exercise",
+          "role": "content",
           "text": {
             "sourceLanguage": "en",
             "sourceText": "This is an information gap activity. You must work with a partner. You will be Student A, and your partner will be Student B and will use Worksheet B. The illustration below shows several people and their names. Choose one of the people. Without disclosing the name, describe to your partner how that person appears in the drawing, using naka- modifiers and what you have learned from previous lessons. The object is to have your partner guess the name of the person you’re describing. Take turns.",
@@ -3574,8 +3385,8 @@
           }
         },
         {
-          "type": "text",
-          "style": "body",
+          "type": "exercise",
+          "role": "content",
           "text": {
             "sourceLanguage": "en",
             "sourceText": "Worksheet A for Student A",
@@ -3587,8 +3398,8 @@
           "path": "assets/98.jpg"
         },
         {
-          "type": "text",
-          "style": "body",
+          "type": "exercise",
+          "role": "content",
           "text": {
             "sourceLanguage": "en",
             "sourceText": "Worksheet B for Student B",
@@ -3596,8 +3407,8 @@
           }
         },
         {
-          "type": "text",
-          "style": "body",
+          "type": "exercise",
+          "role": "content",
           "text": {
             "sourceLanguage": "en",
             "sourceText": "Use the boxes in this worksheet to write down the information your partner is giving you to describe each person. Afterwards, try to guess the name of the person your partner is describing.",
@@ -3607,19 +3418,21 @@
         {
           "type": "image",
           "path": "assets/99.jpg"
-        },
+        }
+      ],
+      "id": "lesson-05-24-i-speaking-practice"
+    },
+    {
+      "type": "EXERCISES",
+      "title": {
+        "sourceLanguage": "mixed",
+        "sourceText": "II. Reading Practice",
+        "id": "II. Latihan Membaca"
+      },
+      "blocks": [
         {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "mixed",
-            "sourceText": "II. Reading Practice",
-            "id": "II. Latihan Membaca"
-          }
-        },
-        {
-          "type": "text",
-          "style": "body",
+          "type": "exercise",
+          "role": "instruction",
           "text": {
             "sourceLanguage": "en",
             "sourceText": "Read the personal ads from two different people and answer the Reading Comprehension questions in Tagalog.",
@@ -3627,8 +3440,8 @@
           }
         },
         {
-          "type": "text",
-          "style": "body",
+          "type": "exercise",
+          "role": "content",
           "text": {
             "sourceLanguage": "mixed",
             "sourceText": "Message 1",
@@ -3636,8 +3449,8 @@
           }
         },
         {
-          "type": "text",
-          "style": "body",
+          "type": "exercise",
+          "role": "question",
           "text": {
             "sourceLanguage": "fil",
             "sourceText": "Kumusta kayo? Ako si Jayson. Dalawampu’t tatlong taon na ako. Nakatira ako sa Makati. Estudyante ako sa Unibersidad ng De La Salle. Abogasiya ang kurso ko. Maikli ang buhok ko, makapal ang kilay ko, matangos ang ilong ko, at singkit ang mga mata ko.",
@@ -3646,8 +3459,8 @@
           }
         },
         {
-          "type": "text",
-          "style": "body",
+          "type": "exercise",
+          "role": "content",
           "text": {
             "sourceLanguage": "fil",
             "sourceText": "Gusto ko ng mahinhing mga babae at ayaw ko ang mga suplada.",
@@ -3656,8 +3469,8 @@
           }
         },
         {
-          "type": "text",
-          "style": "body",
+          "type": "exercise",
+          "role": "content",
           "text": {
             "sourceLanguage": "mixed",
             "sourceText": "Message 2",
@@ -3665,8 +3478,8 @@
           }
         },
         {
-          "type": "text",
-          "style": "body",
+          "type": "exercise",
+          "role": "content",
           "text": {
             "sourceLanguage": "fil",
             "sourceText": "Magandang umaga! Sandra ang pangalan ko. Tatlumpu’t isang taon na ako. Kulot ang buhok ko at maputi at matangkad ako. Ngayon, nakatira ako sa Maynila kasama ang isa kong anak. Brandon ang pangalan niya. Walong taon na siya at nag-aaral siya sa Sacred Heart Elementary School.",
@@ -3675,27 +3488,29 @@
           }
         },
         {
-          "type": "text",
-          "style": "body",
+          "type": "exercise",
+          "role": "content",
           "text": {
             "sourceLanguage": "fil",
             "sourceText": "Gusto ko ang magalang na mga lalaki at ayaw ko ang mga tahimik na lalaki.",
             "id": "Aku suka pria sopan dan benci pria pendiam.",
             "tagalog": "Gusto ko ang magalang na mga lalaki at ayaw ko ang mga tahimik na lalaki."
           }
-        },
+        }
+      ],
+      "id": "lesson-05-25-ii-reading-practice"
+    },
+    {
+      "type": "EXERCISES",
+      "title": {
+        "sourceLanguage": "mixed",
+        "sourceText": "Reading Comprehension",
+        "id": "Pemahaman Bacaan"
+      },
+      "blocks": [
         {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "mixed",
-            "sourceText": "Reading Comprehension",
-            "id": "Pemahaman Bacaan"
-          }
-        },
-        {
-          "type": "text",
-          "style": "body",
+          "type": "exercise",
+          "role": "instruction",
           "text": {
             "sourceLanguage": "en",
             "sourceText": "Fill in the blanks with the correct in formation according to the two messages above.",
@@ -3703,8 +3518,8 @@
           }
         },
         {
-          "type": "text",
-          "style": "body",
+          "type": "exercise",
+          "role": "question",
           "text": {
             "sourceLanguage": "fil",
             "sourceText": "1. Saan nakatira si Jayson?",
@@ -3713,17 +3528,8 @@
           }
         },
         {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "mixed",
-            "sourceText": "____________________________________",
-            "id": "____________________________________"
-          }
-        },
-        {
-          "type": "text",
-          "style": "body",
+          "type": "exercise",
+          "role": "question",
           "text": {
             "sourceLanguage": "fil",
             "sourceText": "2. Ilarawan si Jayson.",
@@ -3732,17 +3538,8 @@
           }
         },
         {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "mixed",
-            "sourceText": "____________________________________",
-            "id": "____________________________________"
-          }
-        },
-        {
-          "type": "text",
-          "style": "body",
+          "type": "exercise",
+          "role": "question",
           "text": {
             "sourceLanguage": "fil",
             "sourceText": "3. Ano ang gusto at ayaw ni Jayson?",
@@ -3751,17 +3548,8 @@
           }
         },
         {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "mixed",
-            "sourceText": "____________________________________",
-            "id": "____________________________________"
-          }
-        },
-        {
-          "type": "text",
-          "style": "body",
+          "type": "exercise",
+          "role": "question",
           "text": {
             "sourceLanguage": "fil",
             "sourceText": "4. Ilang taon na si Sandra?",
@@ -3770,17 +3558,8 @@
           }
         },
         {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "mixed",
-            "sourceText": "____________________________________",
-            "id": "____________________________________"
-          }
-        },
-        {
-          "type": "text",
-          "style": "body",
+          "type": "exercise",
+          "role": "question",
           "text": {
             "sourceLanguage": "fil",
             "sourceText": "5. Ilarawan si Sandra.",
@@ -3789,17 +3568,8 @@
           }
         },
         {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "mixed",
-            "sourceText": "____________________________________",
-            "id": "____________________________________"
-          }
-        },
-        {
-          "type": "text",
-          "style": "body",
+          "type": "exercise",
+          "role": "question",
           "text": {
             "sourceLanguage": "fil",
             "sourceText": "6. Ano ang pangalan ng anak ni Sandra?",
@@ -3808,45 +3578,29 @@
           }
         },
         {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "mixed",
-            "sourceText": "____________________________________",
-            "id": "____________________________________"
-          }
-        },
-        {
-          "type": "text",
-          "style": "body",
+          "type": "exercise",
+          "role": "question",
           "text": {
             "sourceLanguage": "fil",
             "sourceText": "7. Ano ang gusto at ayaw ni Sandra?",
             "id": "Apa yang Sandra suka dan tidak suka?",
             "tagalog": "7. Ano ang gusto at ayaw ni Sandra?"
           }
-        },
+        }
+      ],
+      "id": "lesson-05-26-reading-comprehension-2"
+    },
+    {
+      "type": "EXERCISES",
+      "title": {
+        "sourceLanguage": "mixed",
+        "sourceText": "III. Writing Practice",
+        "id": "III. Latihan Menulis"
+      },
+      "blocks": [
         {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "mixed",
-            "sourceText": "____________________________________",
-            "id": "____________________________________"
-          }
-        },
-        {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "mixed",
-            "sourceText": "III. Writing Practice",
-            "id": "III. Latihan Menulis"
-          }
-        },
-        {
-          "type": "text",
-          "style": "body",
+          "type": "exercise",
+          "role": "content",
           "text": {
             "sourceLanguage": "en",
             "sourceText": "Now, let’s put together everything we’ve learned so far in this lesson. Use the space below to write your own personal advertisement for a dating agency. You can place your photo or sketch yourself in the box. Use adjectives to describe yourself and your personality.",
@@ -3858,44 +3612,8 @@
           "path": "assets/100.jpg"
         },
         {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "mixed",
-            "sourceText": "____________________________________",
-            "id": "____________________________________"
-          }
-        },
-        {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "mixed",
-            "sourceText": "____________________________________",
-            "id": "____________________________________"
-          }
-        },
-        {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "mixed",
-            "sourceText": "____________________________________",
-            "id": "____________________________________"
-          }
-        },
-        {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "mixed",
-            "sourceText": "____________________________________",
-            "id": "____________________________________"
-          }
-        },
-        {
-          "type": "text",
-          "style": "body",
+          "type": "exercise",
+          "role": "content",
           "text": {
             "sourceLanguage": "en",
             "sourceText": "To Download the audio files, please click here.",
@@ -3905,19 +3623,21 @@
         {
           "type": "image",
           "path": "assets/cd.jpg"
-        },
+        }
+      ],
+      "id": "lesson-05-27-iii-writing-practice"
+    },
+    {
+      "type": "EXERCISES",
+      "title": {
+        "sourceLanguage": "mixed",
+        "sourceText": "IV. Listening Practice",
+        "id": "IV. Latihan Menyimak"
+      },
+      "blocks": [
         {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "mixed",
-            "sourceText": "IV. Listening Practice",
-            "id": "IV. Latihan Menyimak"
-          }
-        },
-        {
-          "type": "text",
-          "style": "body",
+          "type": "exercise",
+          "role": "content",
           "text": {
             "sourceLanguage": "en",
             "sourceText": "Now let’s practice listening. The audio file (05–2) describes Melinda and Edgar. Listen carefully to each description. In the chart below, note down the adjectives given for each person’s traits (katangian), hair (buhok), eyes (mata) nose (ilong), height (taas), and body built (katawan).",
@@ -3929,7 +3649,8 @@
           "path": "assets/101.jpg"
         },
         {
-          "type": "table",
+          "type": "exercise",
+          "role": "worksheet",
           "rows": [
             {
               "cells": [
@@ -3992,7 +3713,34 @@
             }
           ]
         }
-      ]
+      ],
+      "id": "lesson-05-28-iv-listening-practice"
     }
-  ]
+  ],
+  "structureVersion": 2,
+  "contentAudit": {
+    "sourceTextItemsBefore": 475,
+    "sourceTextItemsAfter": 458,
+    "uniqueSourceItemsPreserved": 387,
+    "duplicateHeadingsRemoved": 4,
+    "blankFragmentsRemoved": 11,
+    "sectionTypes": {
+      "EXAMPLES": 5,
+      "EXERCISES": 9,
+      "INTRODUCTION": 1,
+      "LEARNING_MATERIAL": 12,
+      "VOCABULARY": 1
+    },
+    "blockTypes": {
+      "dialogue": 1,
+      "example": 19,
+      "exercise": 35,
+      "image": 8,
+      "list": 2,
+      "table": 14,
+      "text": 40,
+      "vocabulary": 5
+    },
+    "duplicateBlocksRemoved": 0
+  }
 }

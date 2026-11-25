@@ -17,12 +17,12 @@
     {
       "sourceLanguage": "en",
       "sourceText": "• Express preference about various places",
-      "id": "Favorit Express tentang berbagai tempat"
+      "id": "• Menyatakan tempat yang disukai"
     },
     {
       "sourceLanguage": "en",
       "sourceText": "• Describe and provide basic information about different locations",
-      "id": "Jelaskan dan menyediakan informasi dasar tentang lokasi yang berbeda"
+      "id": "• Mendeskripsikan dan memberi informasi dasar tentang berbagai tempat"
     }
   ],
   "source": {
@@ -49,194 +49,140 @@
   ],
   "sections": [
     {
-      "id": "lesson-11-overview",
-      "type": "OVERVIEW",
+      "type": "INTRODUCTION",
       "title": {
-        "sourceLanguage": "mixed",
-        "sourceText": "Overview",
-        "id": "Gambaran Umum"
+        "sourceLanguage": "en",
+        "sourceText": "An Overview of Lesson 11",
+        "id": "Pengantar Pelajaran 11"
       },
       "blocks": [
         {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "en",
-            "sourceText": "An Overview of Lesson 11",
-            "id": "Gambaran Umum Pelajaran 11"
-          }
+          "type": "list",
+          "style": "objectives",
+          "items": [
+            {
+              "sourceLanguage": "en",
+              "sourceText": "• Express preference about various places",
+              "id": "• Menyatakan tempat yang disukai"
+            },
+            {
+              "sourceLanguage": "en",
+              "sourceText": "• Describe and provide basic information about different locations",
+              "id": "• Mendeskripsikan dan memberi informasi dasar tentang berbagai tempat"
+            }
+          ]
         },
         {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "mixed",
-            "sourceText": "Objectives",
-            "id": "Objeksi"
-          }
-        },
-        {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "en",
-            "sourceText": "• Express preference about various places",
-            "id": "Favorit Express tentang berbagai tempat"
-          }
-        },
-        {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "en",
-            "sourceText": "• Describe and provide basic information about different locations",
-            "id": "Jelaskan dan menyediakan informasi dasar tentang lokasi yang berbeda"
-          }
-        },
-        {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "mixed",
-            "sourceText": "Vocabulary",
-            "id": "Kosakata"
-          }
-        },
-        {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "mixed",
-            "sourceText": "• Nouns",
-            "id": "Nouns"
-          }
-        },
-        {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "mixed",
-            "sourceText": "• Adjectives",
-            "id": "Advances"
-          }
-        },
-        {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "mixed",
-            "sourceText": "• Affixes",
-            "id": "Affix"
-          }
-        },
-        {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "mixed",
-            "sourceText": "• Seasons",
-            "id": "Musim:"
-          }
-        },
-        {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "mixed",
-            "sourceText": "• Natural Elements",
-            "id": "Elemen Natural"
-          }
-        },
-        {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "mixed",
-            "sourceText": "• Topography",
-            "id": "Topografi:"
-          }
-        },
-        {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "fil",
-            "sourceText": "Reading Text: Ang mga Paborito Kong Lugar My Favorite Places",
-            "id": "Teks Bacaan: Tempat Favorit saya",
-            "tagalog": "Reading Text: Ang mga Paborito Kong Lugar My Favorite Places"
-          }
-        },
-        {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "mixed",
-            "sourceText": "Reading Comprehension",
-            "id": "Pemahaman Bacaan"
-          }
-        },
-        {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "mixed",
-            "sourceText": "Activities",
-            "id": "Aktivitas"
-          }
-        },
-        {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "en",
-            "sourceText": "Activity 1: My Favorite Place",
-            "id": "Aktivitas 1: Tempat Favorit saya"
-          }
-        },
-        {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "mixed",
-            "sourceText": "Activity 2: Interview",
-            "id": "Aktivitas 2: Wawancara"
-          }
-        },
-        {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "en",
-            "sourceText": "Activity 3: Where Should They Live?",
-            "id": "Aktivitas 3: di mana Haruskah mereka hidup?"
-          }
-        },
-        {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "mixed",
-            "sourceText": "Grammar",
-            "id": "Tata Bahasa"
-          }
-        },
-        {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "en",
-            "sourceText": "Definition of Terms: Root Word, Ma-, Adjective, Comparative, Superlative, Intensifier",
-            "id": "Definisi Terms: Root Word, Ma-, Adjective, comparative, Superlatif, Intensifier"
-          }
-        },
-        {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "mixed",
-            "sourceText": "Examining Form",
-            "id": "Mengkaji Bentuk"
-          }
+          "type": "list",
+          "style": "outline",
+          "items": [
+            {
+              "sourceLanguage": "mixed",
+              "sourceText": "Vocabulary",
+              "id": "Kosakata"
+            },
+            {
+              "sourceLanguage": "mixed",
+              "sourceText": "• Nouns",
+              "id": "Nouns"
+            },
+            {
+              "sourceLanguage": "mixed",
+              "sourceText": "• Adjectives",
+              "id": "Advances"
+            },
+            {
+              "sourceLanguage": "mixed",
+              "sourceText": "• Affixes",
+              "id": "Affix"
+            },
+            {
+              "sourceLanguage": "mixed",
+              "sourceText": "• Seasons",
+              "id": "Musim:"
+            },
+            {
+              "sourceLanguage": "mixed",
+              "sourceText": "• Natural Elements",
+              "id": "Elemen Natural"
+            },
+            {
+              "sourceLanguage": "mixed",
+              "sourceText": "• Topography",
+              "id": "Topografi:"
+            },
+            {
+              "sourceLanguage": "fil",
+              "sourceText": "Reading Text: Ang mga Paborito Kong Lugar My Favorite Places",
+              "id": "Teks Bacaan: Tempat Favorit saya",
+              "tagalog": "Reading Text: Ang mga Paborito Kong Lugar My Favorite Places"
+            },
+            {
+              "sourceLanguage": "mixed",
+              "sourceText": "Reading Comprehension",
+              "id": "Pemahaman Bacaan"
+            },
+            {
+              "sourceLanguage": "mixed",
+              "sourceText": "Activities",
+              "id": "Aktivitas"
+            },
+            {
+              "sourceLanguage": "en",
+              "sourceText": "Activity 1: My Favorite Place",
+              "id": "Aktivitas 1: Tempat Favorit saya"
+            },
+            {
+              "sourceLanguage": "mixed",
+              "sourceText": "Activity 2: Interview",
+              "id": "Aktivitas 2: Wawancara"
+            },
+            {
+              "sourceLanguage": "en",
+              "sourceText": "Activity 3: Where Should They Live?",
+              "id": "Aktivitas 3: di mana Haruskah mereka hidup?"
+            },
+            {
+              "sourceLanguage": "mixed",
+              "sourceText": "Grammar",
+              "id": "Tata Bahasa"
+            },
+            {
+              "sourceLanguage": "en",
+              "sourceText": "Definition of Terms: Root Word, Ma-, Adjective, Comparative, Superlative, Intensifier",
+              "id": "Definisi Terms: Root Word, Ma-, Adjective, comparative, Superlatif, Intensifier"
+            },
+            {
+              "sourceLanguage": "mixed",
+              "sourceText": "Examining Form",
+              "id": "Mengkaji Bentuk"
+            },
+            {
+              "sourceLanguage": "mixed",
+              "sourceText": "Practice",
+              "id": "Latihan"
+            },
+            {
+              "sourceLanguage": "en",
+              "sourceText": "I. Speaking Practice",
+              "id": "I. Latihan Berbicara"
+            },
+            {
+              "sourceLanguage": "mixed",
+              "sourceText": "II. Reading Practice",
+              "id": "II. Latihan Membaca"
+            },
+            {
+              "sourceLanguage": "mixed",
+              "sourceText": "III. Writing Practice",
+              "id": "III. Latihan Menulis"
+            },
+            {
+              "sourceLanguage": "mixed",
+              "sourceText": "IV. Listening Practice",
+              "id": "IV. Latihan Menyimak"
+            }
+          ]
         },
         {
           "type": "table",
@@ -305,57 +251,13 @@
                 }
               ]
             }
-          ]
-        },
-        {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "mixed",
-            "sourceText": "Practice",
-            "id": "Latihan"
-          }
-        },
-        {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "en",
-            "sourceText": "I. Speaking Practice",
-            "id": "I. Latihan Berbicara"
-          }
-        },
-        {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "mixed",
-            "sourceText": "II. Reading Practice",
-            "id": "II. Latihan Membaca"
-          }
-        },
-        {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "mixed",
-            "sourceText": "III. Writing Practice",
-            "id": "III. Latihan Menulis"
-          }
-        },
-        {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "mixed",
-            "sourceText": "IV. Listening Practice",
-            "id": "IV. Latihan Menyimak"
-          }
+          ],
+          "role": "outline"
         }
-      ]
+      ],
+      "id": "lesson-11-01-an-overview-of-lesson-11"
     },
     {
-      "id": "lesson-11-vocabulary",
       "type": "VOCABULARY",
       "title": {
         "sourceLanguage": "mixed",
@@ -365,7 +267,7 @@
       "blocks": [
         {
           "type": "text",
-          "style": "body",
+          "style": "heading",
           "text": {
             "sourceLanguage": "mixed",
             "sourceText": "Vocabulary (11–1)",
@@ -386,1209 +288,1058 @@
           }
         },
         {
-          "type": "table",
-          "rows": [
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "Nouns",
-                  "id": "Kata benda"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "alikabok",
-                  "id": "debu",
-                  "tagalog": "alikabok"
-                },
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "dust",
-                  "id": "debu"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "araw",
-                  "id": "matahari",
-                  "tagalog": "araw"
-                },
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "sun",
-                  "id": "matahari"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "asó",
-                  "id": "asap",
-                  "tagalog": "asó"
-                },
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "smoke",
-                  "id": "asap"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "bahaghari",
-                  "id": "pelangi",
-                  "tagalog": "bahaghari"
-                },
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "rainbow",
-                  "id": "pelangi"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "bato",
-                  "id": "batu",
-                  "tagalog": "bato"
-                },
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "rock",
-                  "id": "batu"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "bayan",
-                  "id": "kota",
-                  "tagalog": "bayan"
-                },
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "town",
-                  "id": "kota"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "bituwin",
-                  "id": "bintang",
-                  "tagalog": "bituwin"
-                },
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "star",
-                  "id": "bintang"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "buhangin",
-                  "id": "pasir",
-                  "tagalog": "buhangin"
-                },
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "sand",
-                  "id": "pasir"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "bukid; palayan",
-                  "id": "bidang, pertanian, sawah",
-                  "tagalog": "bukid; palayan"
-                },
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "field, farm, rice field",
-                  "id": "bidang, pertanian, sawah"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "buwan",
-                  "id": "bulan",
-                  "tagalog": "buwan"
-                },
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "moon",
-                  "id": "bulan"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "daan",
-                  "id": "jalan",
-                  "tagalog": "daan"
-                },
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "road",
-                  "id": "jalan"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "daungan",
-                  "id": "port",
-                  "tagalog": "daungan"
-                },
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "port",
-                  "id": "port"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "hamog",
-                  "id": "embun",
-                  "tagalog": "hamog"
-                },
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "dew",
-                  "id": "embun"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "langit",
-                  "id": "langit, surga",
-                  "tagalog": "langit"
-                },
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "sky, heaven",
-                  "id": "langit, surga"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "lawa",
-                  "id": "Danau",
-                  "tagalog": "lawa"
-                },
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "lake",
-                  "id": "Danau"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "madaling araw",
-                  "id": "fajar, matahari terbit",
-                  "tagalog": "madaling araw"
-                },
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "dawn, sunrise",
-                  "id": "fajar, matahari terbit"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "nayon",
-                  "id": "desa",
-                  "tagalog": "nayon"
-                },
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "village",
-                  "id": "desa"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "putik",
-                  "id": "lumpur",
-                  "tagalog": "putik"
-                },
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "mud",
-                  "id": "lumpur"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "tabing-dagat",
-                  "id": "Pantai",
-                  "tagalog": "tabing-dagat"
-                },
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "beach",
-                  "id": "Pantai"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "takipsilim",
-                  "id": "senja",
-                  "tagalog": "takipsilim"
-                },
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "twilight",
-                  "id": "senja"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "tanawin",
-                  "id": "tampilan, pemandangan",
-                  "tagalog": "tanawin"
-                },
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "view, scenery",
-                  "id": "tampilan, pemandangan"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "ulap",
-                  "id": "awan",
-                  "tagalog": "ulap"
-                },
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "cloud",
-                  "id": "awan"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "Seasons",
-                  "id": "Musim"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "tag-init",
-                  "id": "musim panas",
-                  "tagalog": "tag-init"
-                },
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "summer",
-                  "id": "musim panas"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "tag-ulan",
-                  "id": "musim hujan",
-                  "tagalog": "tag-ulan"
-                },
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "rainy season",
-                  "id": "musim hujan"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "taglagas",
-                  "id": "falls",
-                  "tagalog": "taglagas"
-                },
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "fall",
-                  "id": "falls"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "taglamig",
-                  "id": "Musim dingin",
-                  "tagalog": "taglamig"
-                },
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "winter",
-                  "id": "Musim dingin"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "tagsibol",
-                  "id": "spring",
-                  "tagalog": "tagsibol"
-                },
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "spring",
-                  "id": "spring"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "Adjectives",
-                  "id": "Kata sifat"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "bago",
-                  "id": "baru",
-                  "tagalog": "bago"
-                },
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "new",
-                  "id": "baru"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "kulay tsokolate",
-                  "id": "Coklat - berwarna, coklat",
-                  "tagalog": "kulay tsokolate"
-                },
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "chocolate-colored, brown",
-                  "id": "Coklat - berwarna, coklat"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "luma",
-                  "id": "kuno, tua",
-                  "tagalog": "luma"
-                },
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "ancient, old",
-                  "id": "kuno, tua"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "maalikabok",
-                  "id": "berdebu",
-                  "tagalog": "maalikabok"
-                },
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "dusty",
-                  "id": "berdebu"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "maaga",
-                  "id": "awal",
-                  "tagalog": "maaga"
-                },
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "early",
-                  "id": "awal"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "madilim",
-                  "id": "gelap",
-                  "tagalog": "madilim"
-                },
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "dark",
-                  "id": "gelap"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "mahangin",
-                  "id": "berangin",
-                  "tagalog": "mahangin"
-                },
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "windy",
-                  "id": "berangin"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "mainit",
-                  "id": "panas, hangat",
-                  "tagalog": "mainit"
-                },
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "hot, warm",
-                  "id": "panas, hangat"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "makabago",
-                  "id": "modern",
-                  "tagalog": "makabago"
-                },
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "modern",
-                  "id": "modern"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "makaluma",
-                  "id": "tradisional",
-                  "tagalog": "makaluma"
-                },
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "traditional",
-                  "id": "tradisional"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "makasaysayan",
-                  "id": "historis",
-                  "tagalog": "makasaysayan"
-                },
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "historical",
-                  "id": "historis"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "mapayapa",
-                  "id": "damai",
-                  "tagalog": "mapayapa"
-                },
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "peaceful",
-                  "id": "damai"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "maputik",
-                  "id": "muddy",
-                  "tagalog": "maputik"
-                },
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "muddy",
-                  "id": "muddy"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "matao",
-                  "id": "ramai",
-                  "tagalog": "matao"
-                },
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "crowded",
-                  "id": "ramai"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "matulungin",
-                  "id": "membantu",
-                  "tagalog": "matulungin"
-                },
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "helpful",
-                  "id": "membantu"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "maulan",
-                  "id": "hujan",
-                  "tagalog": "maulan"
-                },
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "rainy",
-                  "id": "hujan"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "maulap",
-                  "id": "berawan",
-                  "tagalog": "maulap"
-                },
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "cloudy",
-                  "id": "berawan"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "palakaibigan",
-                  "id": "ramah",
-                  "tagalog": "palakaibigan"
-                },
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "friendly",
-                  "id": "ramah"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "sariwa",
-                  "id": "segar",
-                  "tagalog": "sariwa"
-                },
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "fresh",
-                  "id": "segar"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "tahimik",
-                  "id": "Tenang, tenang",
-                  "tagalog": "tahimik"
-                },
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "calm, quiet",
-                  "id": "Tenang, tenang"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "tanghali",
-                  "id": "terlambat",
-                  "tagalog": "tanghali"
-                },
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "late",
-                  "id": "terlambat"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "umido",
-                  "id": "humid",
-                  "tagalog": "umido"
-                },
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "humid",
-                  "id": "humid"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "walang tao",
-                  "id": "sepi",
-                  "tagalog": "walang tao"
-                },
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "deserted",
-                  "id": "sepi"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "Natural Elements",
-                  "id": "Elemen Alami"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "alon",
-                  "id": "gelombang",
-                  "tagalog": "alon"
-                },
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "wave",
-                  "id": "gelombang"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "ambon",
-                  "id": "gerimis",
-                  "tagalog": "ambon"
-                },
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "drizzle",
-                  "id": "gerimis"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "apoy",
-                  "id": "api",
-                  "tagalog": "apoy"
-                },
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "fire",
-                  "id": "api"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "bagyo",
-                  "id": "badai",
-                  "tagalog": "bagyo"
-                },
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "storm",
-                  "id": "badai"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "hangin",
-                  "id": "udara, angin",
-                  "tagalog": "hangin"
-                },
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "air, wind",
-                  "id": "udara, angin"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "kidlat",
-                  "id": "kilat",
-                  "tagalog": "kidlat"
-                },
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "lightning",
-                  "id": "kilat"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "kulog",
-                  "id": "thunder",
-                  "tagalog": "kulog"
-                },
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "thunder",
-                  "id": "thunder"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "lindol",
-                  "id": "gempa bumi",
-                  "tagalog": "lindol"
-                },
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "earthquake",
-                  "id": "gempa bumi"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "tubig",
-                  "id": "air",
-                  "tagalog": "tubig"
-                },
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "water",
-                  "id": "air"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "ulan",
-                  "id": "hujanweather forecast",
-                  "tagalog": "ulan"
-                },
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "rain",
-                  "id": "hujanweather forecast"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "Topography",
-                  "id": "Topografi"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "bulkan",
-                  "id": "gunung berapi",
-                  "tagalog": "bulkan"
-                },
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "volcano",
-                  "id": "gunung berapi"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "bundok",
-                  "id": "gunung",
-                  "tagalog": "bundok"
-                },
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "mountain",
-                  "id": "gunung"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "burol",
-                  "id": "bukit",
-                  "tagalog": "burol"
-                },
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "hill",
-                  "id": "bukit"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "dagat",
-                  "id": "laut",
-                  "tagalog": "dagat"
-                },
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "ocean",
-                  "id": "laut"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "disiyerto",
-                  "id": "gurun",
-                  "tagalog": "disiyerto"
-                },
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "desert",
-                  "id": "gurun"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "gubat",
-                  "id": "hutan",
-                  "tagalog": "gubat"
-                },
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "forest",
-                  "id": "hutan"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "ilog",
-                  "id": "sungai",
-                  "tagalog": "ilog"
-                },
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "river",
-                  "id": "sungai"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "isla/pulo",
-                  "id": "Pulau",
-                  "tagalog": "isla/pulo"
-                },
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "island",
-                  "id": "Pulau"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "kuweba",
-                  "id": "gua",
-                  "tagalog": "kuweba"
-                },
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "cave",
-                  "id": "gua"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "lambak",
-                  "id": "lembah",
-                  "tagalog": "lambak"
-                },
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "valley",
-                  "id": "lembah"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "sapa",
-                  "id": "sungai kecil atau sungai rimba, aliran kecil",
-                  "tagalog": "sapa"
-                },
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "small brook or rivulet, small stream",
-                  "id": "sungai kecil atau sungai rimba, aliran kecil"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "talon",
-                  "id": "falls",
-                  "tagalog": "talon"
-                },
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "falls",
-                  "id": "falls"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "Affixes",
-                  "id": "Affix"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "mas-",
-                  "id": "mengubah kata sifat menjadi tingkat yang lebih tinggi; dari Spanyol berarti \"lebih\"",
-                  "tagalog": "mas-"
-                },
-                {
-                  "sourceLanguage": "en",
-                  "sourceText": "turns an adjective into higher degree; from Spanish meaning “more”",
-                  "id": "mengubah kata sifat menjadi tingkat yang lebih tinggi; dari Spanyol berarti \"lebih\""
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "magkasing-",
-                  "id": "mengubah sebuah kata sifat menjadi derajat yang sama",
-                  "tagalog": "magkasing-"
-                },
-                {
-                  "sourceLanguage": "en",
-                  "sourceText": "turns an adjective into equal degree",
-                  "id": "mengubah sebuah kata sifat menjadi derajat yang sama"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "napaka-",
-                  "id": "mengubah sebuah kata sifat ke derajat intensifkan",
-                  "tagalog": "napaka-"
-                },
-                {
-                  "sourceLanguage": "en",
-                  "sourceText": "turns an adjective into intensified degree",
-                  "id": "mengubah sebuah kata sifat ke derajat intensifkan"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "pinaka-",
-                  "id": "mengubah sebuah kata sifat menjadi tingkat superlatif",
-                  "tagalog": "pinaka-"
-                },
-                {
-                  "sourceLanguage": "en",
-                  "sourceText": "turns an adjective into superlative degree",
-                  "id": "mengubah sebuah kata sifat menjadi tingkat superlatif"
-                }
-              ]
+          "type": "vocabulary",
+          "entries": [
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "alikabok",
+                "id": "debu",
+                "tagalog": "alikabok"
+              },
+              "meaning": {
+                "sourceLanguage": "mixed",
+                "sourceText": "dust",
+                "id": "debu"
+              }
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "araw",
+                "id": "matahari",
+                "tagalog": "araw"
+              },
+              "meaning": {
+                "sourceLanguage": "mixed",
+                "sourceText": "sun",
+                "id": "matahari"
+              }
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "asó",
+                "id": "asap",
+                "tagalog": "asó"
+              },
+              "meaning": {
+                "sourceLanguage": "mixed",
+                "sourceText": "smoke",
+                "id": "asap"
+              }
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "bahaghari",
+                "id": "pelangi",
+                "tagalog": "bahaghari"
+              },
+              "meaning": {
+                "sourceLanguage": "mixed",
+                "sourceText": "rainbow",
+                "id": "pelangi"
+              }
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "bato",
+                "id": "batu",
+                "tagalog": "bato"
+              },
+              "meaning": {
+                "sourceLanguage": "mixed",
+                "sourceText": "rock",
+                "id": "batu"
+              }
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "bayan",
+                "id": "kota",
+                "tagalog": "bayan"
+              },
+              "meaning": {
+                "sourceLanguage": "mixed",
+                "sourceText": "town",
+                "id": "kota"
+              }
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "bituwin",
+                "id": "bintang",
+                "tagalog": "bituwin"
+              },
+              "meaning": {
+                "sourceLanguage": "mixed",
+                "sourceText": "star",
+                "id": "bintang"
+              }
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "buhangin",
+                "id": "pasir",
+                "tagalog": "buhangin"
+              },
+              "meaning": {
+                "sourceLanguage": "mixed",
+                "sourceText": "sand",
+                "id": "pasir"
+              }
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "bukid; palayan",
+                "id": "bidang, pertanian, sawah",
+                "tagalog": "bukid; palayan"
+              },
+              "meaning": {
+                "sourceLanguage": "mixed",
+                "sourceText": "field, farm, rice field",
+                "id": "bidang, pertanian, sawah"
+              }
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "buwan",
+                "id": "bulan",
+                "tagalog": "buwan"
+              },
+              "meaning": {
+                "sourceLanguage": "mixed",
+                "sourceText": "moon",
+                "id": "bulan"
+              }
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "daan",
+                "id": "jalan",
+                "tagalog": "daan"
+              },
+              "meaning": {
+                "sourceLanguage": "mixed",
+                "sourceText": "road",
+                "id": "jalan"
+              }
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "daungan",
+                "id": "port",
+                "tagalog": "daungan"
+              },
+              "meaning": {
+                "sourceLanguage": "mixed",
+                "sourceText": "port",
+                "id": "port"
+              }
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "hamog",
+                "id": "embun",
+                "tagalog": "hamog"
+              },
+              "meaning": {
+                "sourceLanguage": "mixed",
+                "sourceText": "dew",
+                "id": "embun"
+              }
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "langit",
+                "id": "langit, surga",
+                "tagalog": "langit"
+              },
+              "meaning": {
+                "sourceLanguage": "mixed",
+                "sourceText": "sky, heaven",
+                "id": "langit, surga"
+              }
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "lawa",
+                "id": "Danau",
+                "tagalog": "lawa"
+              },
+              "meaning": {
+                "sourceLanguage": "mixed",
+                "sourceText": "lake",
+                "id": "Danau"
+              }
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "madaling araw",
+                "id": "fajar, matahari terbit",
+                "tagalog": "madaling araw"
+              },
+              "meaning": {
+                "sourceLanguage": "mixed",
+                "sourceText": "dawn, sunrise",
+                "id": "fajar, matahari terbit"
+              }
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "nayon",
+                "id": "desa",
+                "tagalog": "nayon"
+              },
+              "meaning": {
+                "sourceLanguage": "mixed",
+                "sourceText": "village",
+                "id": "desa"
+              }
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "putik",
+                "id": "lumpur",
+                "tagalog": "putik"
+              },
+              "meaning": {
+                "sourceLanguage": "mixed",
+                "sourceText": "mud",
+                "id": "lumpur"
+              }
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "tabing-dagat",
+                "id": "Pantai",
+                "tagalog": "tabing-dagat"
+              },
+              "meaning": {
+                "sourceLanguage": "mixed",
+                "sourceText": "beach",
+                "id": "Pantai"
+              }
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "takipsilim",
+                "id": "senja",
+                "tagalog": "takipsilim"
+              },
+              "meaning": {
+                "sourceLanguage": "mixed",
+                "sourceText": "twilight",
+                "id": "senja"
+              }
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "tanawin",
+                "id": "tampilan, pemandangan",
+                "tagalog": "tanawin"
+              },
+              "meaning": {
+                "sourceLanguage": "mixed",
+                "sourceText": "view, scenery",
+                "id": "tampilan, pemandangan"
+              }
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "ulap",
+                "id": "awan",
+                "tagalog": "ulap"
+              },
+              "meaning": {
+                "sourceLanguage": "mixed",
+                "sourceText": "cloud",
+                "id": "awan"
+              }
             }
-          ]
+          ],
+          "title": {
+            "sourceLanguage": "mixed",
+            "sourceText": "Nouns",
+            "id": "Kata benda"
+          }
+        },
+        {
+          "type": "vocabulary",
+          "entries": [
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "tag-init",
+                "id": "musim panas",
+                "tagalog": "tag-init"
+              },
+              "meaning": {
+                "sourceLanguage": "mixed",
+                "sourceText": "summer",
+                "id": "musim panas"
+              }
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "tag-ulan",
+                "id": "musim hujan",
+                "tagalog": "tag-ulan"
+              },
+              "meaning": {
+                "sourceLanguage": "mixed",
+                "sourceText": "rainy season",
+                "id": "musim hujan"
+              }
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "taglagas",
+                "id": "falls",
+                "tagalog": "taglagas"
+              },
+              "meaning": {
+                "sourceLanguage": "mixed",
+                "sourceText": "fall",
+                "id": "falls"
+              }
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "taglamig",
+                "id": "Musim dingin",
+                "tagalog": "taglamig"
+              },
+              "meaning": {
+                "sourceLanguage": "mixed",
+                "sourceText": "winter",
+                "id": "Musim dingin"
+              }
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "tagsibol",
+                "id": "spring",
+                "tagalog": "tagsibol"
+              },
+              "meaning": {
+                "sourceLanguage": "mixed",
+                "sourceText": "spring",
+                "id": "spring"
+              }
+            }
+          ],
+          "title": {
+            "sourceLanguage": "mixed",
+            "sourceText": "Seasons",
+            "id": "Musim"
+          }
+        },
+        {
+          "type": "vocabulary",
+          "entries": [
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "bago",
+                "id": "baru",
+                "tagalog": "bago"
+              },
+              "meaning": {
+                "sourceLanguage": "mixed",
+                "sourceText": "new",
+                "id": "baru"
+              }
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "kulay tsokolate",
+                "id": "Coklat - berwarna, coklat",
+                "tagalog": "kulay tsokolate"
+              },
+              "meaning": {
+                "sourceLanguage": "mixed",
+                "sourceText": "chocolate-colored, brown",
+                "id": "Coklat - berwarna, coklat"
+              }
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "luma",
+                "id": "kuno, tua",
+                "tagalog": "luma"
+              },
+              "meaning": {
+                "sourceLanguage": "mixed",
+                "sourceText": "ancient, old",
+                "id": "kuno, tua"
+              }
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "maalikabok",
+                "id": "berdebu",
+                "tagalog": "maalikabok"
+              },
+              "meaning": {
+                "sourceLanguage": "mixed",
+                "sourceText": "dusty",
+                "id": "berdebu"
+              }
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "maaga",
+                "id": "awal",
+                "tagalog": "maaga"
+              },
+              "meaning": {
+                "sourceLanguage": "mixed",
+                "sourceText": "early",
+                "id": "awal"
+              }
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "madilim",
+                "id": "gelap",
+                "tagalog": "madilim"
+              },
+              "meaning": {
+                "sourceLanguage": "mixed",
+                "sourceText": "dark",
+                "id": "gelap"
+              }
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "mahangin",
+                "id": "berangin",
+                "tagalog": "mahangin"
+              },
+              "meaning": {
+                "sourceLanguage": "mixed",
+                "sourceText": "windy",
+                "id": "berangin"
+              }
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "mainit",
+                "id": "panas, hangat",
+                "tagalog": "mainit"
+              },
+              "meaning": {
+                "sourceLanguage": "mixed",
+                "sourceText": "hot, warm",
+                "id": "panas, hangat"
+              }
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "makabago",
+                "id": "modern",
+                "tagalog": "makabago"
+              },
+              "meaning": {
+                "sourceLanguage": "mixed",
+                "sourceText": "modern",
+                "id": "modern"
+              }
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "makaluma",
+                "id": "tradisional",
+                "tagalog": "makaluma"
+              },
+              "meaning": {
+                "sourceLanguage": "mixed",
+                "sourceText": "traditional",
+                "id": "tradisional"
+              }
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "makasaysayan",
+                "id": "historis",
+                "tagalog": "makasaysayan"
+              },
+              "meaning": {
+                "sourceLanguage": "mixed",
+                "sourceText": "historical",
+                "id": "historis"
+              }
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "mapayapa",
+                "id": "damai",
+                "tagalog": "mapayapa"
+              },
+              "meaning": {
+                "sourceLanguage": "mixed",
+                "sourceText": "peaceful",
+                "id": "damai"
+              }
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "maputik",
+                "id": "muddy",
+                "tagalog": "maputik"
+              },
+              "meaning": {
+                "sourceLanguage": "mixed",
+                "sourceText": "muddy",
+                "id": "muddy"
+              }
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "matao",
+                "id": "ramai",
+                "tagalog": "matao"
+              },
+              "meaning": {
+                "sourceLanguage": "mixed",
+                "sourceText": "crowded",
+                "id": "ramai"
+              }
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "matulungin",
+                "id": "membantu",
+                "tagalog": "matulungin"
+              },
+              "meaning": {
+                "sourceLanguage": "mixed",
+                "sourceText": "helpful",
+                "id": "membantu"
+              }
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "maulan",
+                "id": "hujan",
+                "tagalog": "maulan"
+              },
+              "meaning": {
+                "sourceLanguage": "mixed",
+                "sourceText": "rainy",
+                "id": "hujan"
+              }
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "maulap",
+                "id": "berawan",
+                "tagalog": "maulap"
+              },
+              "meaning": {
+                "sourceLanguage": "mixed",
+                "sourceText": "cloudy",
+                "id": "berawan"
+              }
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "palakaibigan",
+                "id": "ramah",
+                "tagalog": "palakaibigan"
+              },
+              "meaning": {
+                "sourceLanguage": "mixed",
+                "sourceText": "friendly",
+                "id": "ramah"
+              }
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "sariwa",
+                "id": "segar",
+                "tagalog": "sariwa"
+              },
+              "meaning": {
+                "sourceLanguage": "mixed",
+                "sourceText": "fresh",
+                "id": "segar"
+              }
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "tahimik",
+                "id": "Tenang, tenang",
+                "tagalog": "tahimik"
+              },
+              "meaning": {
+                "sourceLanguage": "mixed",
+                "sourceText": "calm, quiet",
+                "id": "Tenang, tenang"
+              }
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "tanghali",
+                "id": "terlambat",
+                "tagalog": "tanghali"
+              },
+              "meaning": {
+                "sourceLanguage": "mixed",
+                "sourceText": "late",
+                "id": "terlambat"
+              }
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "umido",
+                "id": "humid",
+                "tagalog": "umido"
+              },
+              "meaning": {
+                "sourceLanguage": "mixed",
+                "sourceText": "humid",
+                "id": "humid"
+              }
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "walang tao",
+                "id": "sepi",
+                "tagalog": "walang tao"
+              },
+              "meaning": {
+                "sourceLanguage": "mixed",
+                "sourceText": "deserted",
+                "id": "sepi"
+              }
+            }
+          ],
+          "title": {
+            "sourceLanguage": "mixed",
+            "sourceText": "Adjectives",
+            "id": "Kata sifat"
+          }
+        },
+        {
+          "type": "vocabulary",
+          "entries": [
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "alon",
+                "id": "gelombang",
+                "tagalog": "alon"
+              },
+              "meaning": {
+                "sourceLanguage": "mixed",
+                "sourceText": "wave",
+                "id": "gelombang"
+              }
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "ambon",
+                "id": "gerimis",
+                "tagalog": "ambon"
+              },
+              "meaning": {
+                "sourceLanguage": "mixed",
+                "sourceText": "drizzle",
+                "id": "gerimis"
+              }
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "apoy",
+                "id": "api",
+                "tagalog": "apoy"
+              },
+              "meaning": {
+                "sourceLanguage": "mixed",
+                "sourceText": "fire",
+                "id": "api"
+              }
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "bagyo",
+                "id": "badai",
+                "tagalog": "bagyo"
+              },
+              "meaning": {
+                "sourceLanguage": "mixed",
+                "sourceText": "storm",
+                "id": "badai"
+              }
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "hangin",
+                "id": "udara, angin",
+                "tagalog": "hangin"
+              },
+              "meaning": {
+                "sourceLanguage": "mixed",
+                "sourceText": "air, wind",
+                "id": "udara, angin"
+              }
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "kidlat",
+                "id": "kilat",
+                "tagalog": "kidlat"
+              },
+              "meaning": {
+                "sourceLanguage": "mixed",
+                "sourceText": "lightning",
+                "id": "kilat"
+              }
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "kulog",
+                "id": "thunder",
+                "tagalog": "kulog"
+              },
+              "meaning": {
+                "sourceLanguage": "mixed",
+                "sourceText": "thunder",
+                "id": "thunder"
+              }
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "lindol",
+                "id": "gempa bumi",
+                "tagalog": "lindol"
+              },
+              "meaning": {
+                "sourceLanguage": "mixed",
+                "sourceText": "earthquake",
+                "id": "gempa bumi"
+              }
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "tubig",
+                "id": "air",
+                "tagalog": "tubig"
+              },
+              "meaning": {
+                "sourceLanguage": "mixed",
+                "sourceText": "water",
+                "id": "air"
+              }
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "ulan",
+                "id": "hujanweather forecast",
+                "tagalog": "ulan"
+              },
+              "meaning": {
+                "sourceLanguage": "mixed",
+                "sourceText": "rain",
+                "id": "hujanweather forecast"
+              }
+            }
+          ],
+          "title": {
+            "sourceLanguage": "mixed",
+            "sourceText": "Natural Elements",
+            "id": "Elemen Alami"
+          }
+        },
+        {
+          "type": "vocabulary",
+          "entries": [
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "bulkan",
+                "id": "gunung berapi",
+                "tagalog": "bulkan"
+              },
+              "meaning": {
+                "sourceLanguage": "mixed",
+                "sourceText": "volcano",
+                "id": "gunung berapi"
+              }
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "bundok",
+                "id": "gunung",
+                "tagalog": "bundok"
+              },
+              "meaning": {
+                "sourceLanguage": "mixed",
+                "sourceText": "mountain",
+                "id": "gunung"
+              }
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "burol",
+                "id": "bukit",
+                "tagalog": "burol"
+              },
+              "meaning": {
+                "sourceLanguage": "mixed",
+                "sourceText": "hill",
+                "id": "bukit"
+              }
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "dagat",
+                "id": "laut",
+                "tagalog": "dagat"
+              },
+              "meaning": {
+                "sourceLanguage": "mixed",
+                "sourceText": "ocean",
+                "id": "laut"
+              }
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "disiyerto",
+                "id": "gurun",
+                "tagalog": "disiyerto"
+              },
+              "meaning": {
+                "sourceLanguage": "mixed",
+                "sourceText": "desert",
+                "id": "gurun"
+              }
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "gubat",
+                "id": "hutan",
+                "tagalog": "gubat"
+              },
+              "meaning": {
+                "sourceLanguage": "mixed",
+                "sourceText": "forest",
+                "id": "hutan"
+              }
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "ilog",
+                "id": "sungai",
+                "tagalog": "ilog"
+              },
+              "meaning": {
+                "sourceLanguage": "mixed",
+                "sourceText": "river",
+                "id": "sungai"
+              }
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "isla/pulo",
+                "id": "Pulau",
+                "tagalog": "isla/pulo"
+              },
+              "meaning": {
+                "sourceLanguage": "mixed",
+                "sourceText": "island",
+                "id": "Pulau"
+              }
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "kuweba",
+                "id": "gua",
+                "tagalog": "kuweba"
+              },
+              "meaning": {
+                "sourceLanguage": "mixed",
+                "sourceText": "cave",
+                "id": "gua"
+              }
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "lambak",
+                "id": "lembah",
+                "tagalog": "lambak"
+              },
+              "meaning": {
+                "sourceLanguage": "mixed",
+                "sourceText": "valley",
+                "id": "lembah"
+              }
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "sapa",
+                "id": "sungai kecil atau sungai rimba, aliran kecil",
+                "tagalog": "sapa"
+              },
+              "meaning": {
+                "sourceLanguage": "mixed",
+                "sourceText": "small brook or rivulet, small stream",
+                "id": "sungai kecil atau sungai rimba, aliran kecil"
+              }
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "talon",
+                "id": "falls",
+                "tagalog": "talon"
+              },
+              "meaning": {
+                "sourceLanguage": "mixed",
+                "sourceText": "falls",
+                "id": "falls"
+              }
+            }
+          ],
+          "title": {
+            "sourceLanguage": "mixed",
+            "sourceText": "Topography",
+            "id": "Topografi"
+          }
+        },
+        {
+          "type": "vocabulary",
+          "entries": [
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "mas-",
+                "id": "mengubah kata sifat menjadi tingkat yang lebih tinggi; dari Spanyol berarti \"lebih\"",
+                "tagalog": "mas-"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "turns an adjective into higher degree; from Spanish meaning “more”",
+                "id": "mengubah kata sifat menjadi tingkat yang lebih tinggi; dari Spanyol berarti \"lebih\""
+              }
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "magkasing-",
+                "id": "mengubah sebuah kata sifat menjadi derajat yang sama",
+                "tagalog": "magkasing-"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "turns an adjective into equal degree",
+                "id": "mengubah sebuah kata sifat menjadi derajat yang sama"
+              }
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "napaka-",
+                "id": "mengubah sebuah kata sifat ke derajat intensifkan",
+                "tagalog": "napaka-"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "turns an adjective into intensified degree",
+                "id": "mengubah sebuah kata sifat ke derajat intensifkan"
+              }
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "pinaka-",
+                "id": "mengubah sebuah kata sifat menjadi tingkat superlatif",
+                "tagalog": "pinaka-"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "turns an adjective into superlative degree",
+                "id": "mengubah sebuah kata sifat menjadi tingkat superlatif"
+              }
+            }
+          ],
+          "title": {
+            "sourceLanguage": "mixed",
+            "sourceText": "Affixes",
+            "id": "Affix"
+          }
         }
-      ]
+      ],
+      "id": "lesson-11-02-vocabulary"
     },
     {
-      "id": "lesson-11-reading-text-ang-mga-paborito-kong-lugar-my-favorite-places",
-      "type": "DIALOGUE",
+      "type": "LEARNING_MATERIAL",
       "title": {
         "sourceLanguage": "fil",
         "sourceText": "Reading Text: Ang mga Paborito Kong Lugar My Favorite Places",
@@ -1596,16 +1347,6 @@
         "tagalog": "Reading Text: Ang mga Paborito Kong Lugar My Favorite Places"
       },
       "blocks": [
-        {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "fil",
-            "sourceText": "Reading Text: Ang mga Paborito Kong Lugar My Favorite Places",
-            "id": "Teks Bacaan: Tempat Favorit saya",
-            "tagalog": "Reading Text: Ang mga Paborito Kong Lugar My Favorite Places"
-          }
-        },
         {
           "type": "text",
           "style": "body",
@@ -1780,19 +1521,21 @@
             "id": "Tanda",
             "tagalog": "Mark"
           }
-        },
+        }
+      ],
+      "id": "lesson-11-03-reading-text-ang-mga-paborito-kong-lugar-my-favo"
+    },
+    {
+      "type": "EXERCISES",
+      "title": {
+        "sourceLanguage": "mixed",
+        "sourceText": "Reading Comprehension",
+        "id": "Pemahaman Bacaan"
+      },
+      "blocks": [
         {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "mixed",
-            "sourceText": "Reading Comprehension",
-            "id": "Pemahaman Bacaan"
-          }
-        },
-        {
-          "type": "text",
-          "style": "body",
+          "type": "exercise",
+          "role": "content",
           "text": {
             "sourceLanguage": "en",
             "sourceText": "Based on what you’ve read, provide descriptions of each place in English in the box below.",
@@ -1800,7 +1543,8 @@
           }
         },
         {
-          "type": "table",
+          "type": "exercise",
+          "role": "worksheet",
           "rows": [
             {
               "cells": [
@@ -1823,56 +1567,40 @@
             }
           ]
         }
-      ]
+      ],
+      "id": "lesson-11-04-reading-comprehension"
     },
     {
-      "id": "lesson-11-activities",
-      "type": "ACTIVITY",
+      "type": "EXERCISES",
       "title": {
         "sourceLanguage": "mixed",
-        "sourceText": "Activities",
-        "id": "Aktivitas"
+        "sourceText": "Activity 1",
+        "id": "Aktivitas 1"
       },
       "blocks": [
         {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "mixed",
-            "sourceText": "Activities",
-            "id": "Aktivitas"
-          }
-        },
-        {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "mixed",
-            "sourceText": "Activity 1",
-            "id": "Aktivitas 1"
-          }
-        },
-        {
-          "type": "text",
-          "style": "body",
+          "type": "exercise",
+          "role": "content",
           "text": {
             "sourceLanguage": "en",
             "sourceText": "Think of your favorite place in the world. Make a sketch of it on a separate sheet of paper and describe it to a classmate in Tagalog.",
             "id": "Bayangkan tempat favorit Anda di dunia. membuat sketsa itu pada lembaran kertas terpisah dan menggambarkannya kepada teman sekelas di Tagalog."
           }
-        },
+        }
+      ],
+      "id": "lesson-11-05-activity-1"
+    },
+    {
+      "type": "EXERCISES",
+      "title": {
+        "sourceLanguage": "mixed",
+        "sourceText": "Activity 2",
+        "id": "Aktivitas 2"
+      },
+      "blocks": [
         {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "mixed",
-            "sourceText": "Activity 2",
-            "id": "Aktivitas 2"
-          }
-        },
-        {
-          "type": "text",
-          "style": "body",
+          "type": "exercise",
+          "role": "content",
           "text": {
             "sourceLanguage": "en",
             "sourceText": "Think of two specific places in your area that you like most and in the space provided explain why. When finished, interview two classmates about their favorite places and report your findings in the chart below.",
@@ -1880,8 +1608,8 @@
           }
         },
         {
-          "type": "text",
-          "style": "body",
+          "type": "exercise",
+          "role": "content",
           "text": {
             "sourceLanguage": "mixed",
             "sourceText": "EXAMPLE:",
@@ -1889,8 +1617,8 @@
           }
         },
         {
-          "type": "text",
-          "style": "body",
+          "type": "exercise",
+          "role": "question",
           "text": {
             "sourceLanguage": "fil",
             "sourceText": "Student 1: Ano ang paborito mong lugar?",
@@ -1899,8 +1627,8 @@
           }
         },
         {
-          "type": "text",
-          "style": "body",
+          "type": "exercise",
+          "role": "content",
           "text": {
             "sourceLanguage": "fil",
             "sourceText": "Student 2: Gusto ko ang Subic Bay kasi malinis na malinis ang lugar na ito. Sa Subic, mayroong maraming beach resort, tindahan, at mga lugar para sa turista.",
@@ -1909,8 +1637,8 @@
           }
         },
         {
-          "type": "text",
-          "style": "body",
+          "type": "exercise",
+          "role": "content",
           "text": {
             "sourceLanguage": "fil",
             "sourceText": "A. Pangalan ng Lugar:__________________",
@@ -1919,26 +1647,8 @@
           }
         },
         {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "mixed",
-            "sourceText": "____________________________________________________",
-            "id": "____________________________________________________"
-          }
-        },
-        {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "mixed",
-            "sourceText": "____________________________________________________",
-            "id": "____________________________________________________"
-          }
-        },
-        {
-          "type": "text",
-          "style": "body",
+          "type": "exercise",
+          "role": "content",
           "text": {
             "sourceLanguage": "fil",
             "sourceText": "B. Pangalan ng Lugar:__________________",
@@ -1947,26 +1657,8 @@
           }
         },
         {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "mixed",
-            "sourceText": "____________________________________________________",
-            "id": "____________________________________________________"
-          }
-        },
-        {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "mixed",
-            "sourceText": "____________________________________________________",
-            "id": "____________________________________________________"
-          }
-        },
-        {
-          "type": "text",
-          "style": "body",
+          "type": "exercise",
+          "role": "content",
           "text": {
             "sourceLanguage": "mixed",
             "sourceText": "Classmates’ Favorite Places",
@@ -1974,7 +1666,8 @@
           }
         },
         {
-          "type": "table",
+          "type": "exercise",
+          "role": "worksheet",
           "rows": [
             {
               "cells": [
@@ -2038,19 +1731,21 @@
               ]
             }
           ]
-        },
+        }
+      ],
+      "id": "lesson-11-06-activity-2"
+    },
+    {
+      "type": "EXERCISES",
+      "title": {
+        "sourceLanguage": "mixed",
+        "sourceText": "Activity 3",
+        "id": "Aktivitas 3"
+      },
+      "blocks": [
         {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "mixed",
-            "sourceText": "Activity 3",
-            "id": "Aktivitas 3"
-          }
-        },
-        {
-          "type": "text",
-          "style": "body",
+          "type": "exercise",
+          "role": "content",
           "text": {
             "sourceLanguage": "en",
             "sourceText": "Imagine that you work for a real-estate agency and four people come to you seeking your advice as to the best place for them to live. Read the brief information about each person, and then help each find the perfect place to live. Write at least three sentences explaining why this is the perfect place for them. Try to use adjectives in your explanation.",
@@ -2066,8 +1761,8 @@
           "path": "assets/191a.jpg"
         },
         {
-          "type": "text",
-          "style": "body",
+          "type": "exercise",
+          "role": "content",
           "text": {
             "sourceLanguage": "fil",
             "sourceText": "Mga tao:",
@@ -2076,8 +1771,8 @@
           }
         },
         {
-          "type": "text",
-          "style": "body",
+          "type": "exercise",
+          "role": "content",
           "text": {
             "sourceLanguage": "fil",
             "sourceText": "Andrea Smith",
@@ -2086,8 +1781,8 @@
           }
         },
         {
-          "type": "text",
-          "style": "body",
+          "type": "exercise",
+          "role": "content",
           "text": {
             "sourceLanguage": "fil",
             "sourceText": "Nag-PhD si Andrea sa Sikolohiya sa Univesity of California sa Berkeley. Tatlumpung apat na taong gulang na siya at kasalukuyang dalaga. Hindi mahilig si Andrea na magpunta sa klab. Kadalasan, nagsusulat lamang siya at nagri-reseach para sa kaniyang bagong libro.",
@@ -2096,8 +1791,8 @@
           }
         },
         {
-          "type": "text",
-          "style": "body",
+          "type": "exercise",
+          "role": "content",
           "text": {
             "sourceLanguage": "fil",
             "sourceText": "Lugar: _______________________",
@@ -2106,8 +1801,8 @@
           }
         },
         {
-          "type": "text",
-          "style": "body",
+          "type": "exercise",
+          "role": "content",
           "text": {
             "sourceLanguage": "fil",
             "sourceText": "Dahilan: ____________________________________________________",
@@ -2116,21 +1811,12 @@
           }
         },
         {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "mixed",
-            "sourceText": "_______________________________________________________",
-            "id": "_______________________________________________________"
-          }
-        },
-        {
           "type": "image",
           "path": "assets/191b.jpg"
         },
         {
-          "type": "text",
-          "style": "body",
+          "type": "exercise",
+          "role": "content",
           "text": {
             "sourceLanguage": "fil",
             "sourceText": "Anthony Michaels",
@@ -2139,8 +1825,8 @@
           }
         },
         {
-          "type": "text",
-          "style": "body",
+          "type": "exercise",
+          "role": "content",
           "text": {
             "sourceLanguage": "fil",
             "sourceText": "Dalawampu’t dalawang taong gulang na si Anthony at kakatapos lamang niya sa kolehiyo. Computer Science ang kurso niya. Kasalukuyang binata si Anthony at nakatira siya sa bahay ng mga magulang niya sa Melbourne, Australia. Mahilig magpunta si Anthony sa mga gimikan at gustong-gusto niyang makipagkilala sa mga tao.",
@@ -2149,8 +1835,8 @@
           }
         },
         {
-          "type": "text",
-          "style": "body",
+          "type": "exercise",
+          "role": "content",
           "text": {
             "sourceLanguage": "fil",
             "sourceText": "Lugar: _______________________",
@@ -2159,8 +1845,8 @@
           }
         },
         {
-          "type": "text",
-          "style": "body",
+          "type": "exercise",
+          "role": "content",
           "text": {
             "sourceLanguage": "fil",
             "sourceText": "Dahilan: ____________________________________________________",
@@ -2169,21 +1855,12 @@
           }
         },
         {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "mixed",
-            "sourceText": "_______________________________________________________",
-            "id": "_______________________________________________________"
-          }
-        },
-        {
           "type": "image",
           "path": "assets/191c.jpg"
         },
         {
-          "type": "text",
-          "style": "body",
+          "type": "exercise",
+          "role": "content",
           "text": {
             "sourceLanguage": "fil",
             "sourceText": "Sarah Lopez",
@@ -2192,8 +1869,8 @@
           }
         },
         {
-          "type": "text",
-          "style": "body",
+          "type": "exercise",
+          "role": "content",
           "text": {
             "sourceLanguage": "fil",
             "sourceText": "Apatnapu‘t limang taong gulang na si Sarah. May asawa at tatlong anak si Sarah. Kasalukuyang nasa elementarya pa lamang ang tatlong anak niya. Akawntant si Sarah at abogado naman ang asawa niya. Mahilig sa mga outdoor na aktibiti ang pamilya ni Sarah tulad ng pag-akyat sa bundok at pamimingwit.",
@@ -2202,8 +1879,8 @@
           }
         },
         {
-          "type": "text",
-          "style": "body",
+          "type": "exercise",
+          "role": "content",
           "text": {
             "sourceLanguage": "fil",
             "sourceText": "Lugar: _______________________",
@@ -2212,8 +1889,8 @@
           }
         },
         {
-          "type": "text",
-          "style": "body",
+          "type": "exercise",
+          "role": "content",
           "text": {
             "sourceLanguage": "fil",
             "sourceText": "Dahilan: ____________________________________________________",
@@ -2222,21 +1899,12 @@
           }
         },
         {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "mixed",
-            "sourceText": "_______________________________________________________",
-            "id": "_______________________________________________________"
-          }
-        },
-        {
           "type": "image",
           "path": "assets/192.jpg"
         },
         {
-          "type": "text",
-          "style": "body",
+          "type": "exercise",
+          "role": "content",
           "text": {
             "sourceLanguage": "fil",
             "sourceText": "Oscar Santos",
@@ -2245,8 +1913,8 @@
           }
         },
         {
-          "type": "text",
-          "style": "body",
+          "type": "exercise",
+          "role": "content",
           "text": {
             "sourceLanguage": "fil",
             "sourceText": "Retirado na si Oscar at ang asawa niya. May sarili nang pamilya ang lahat ng mga anak nila. Wala nang obligasyon sa buhay ang mag-asawa. May problema sa puso si Oscar, Nag-eehersisyo at nagdya-jogging siya sa labas ng bahay nila araw-araw.",
@@ -2255,8 +1923,8 @@
           }
         },
         {
-          "type": "text",
-          "style": "body",
+          "type": "exercise",
+          "role": "content",
           "text": {
             "sourceLanguage": "fil",
             "sourceText": "Lugar: _______________________",
@@ -2265,53 +1933,26 @@
           }
         },
         {
-          "type": "text",
-          "style": "body",
+          "type": "exercise",
+          "role": "content",
           "text": {
             "sourceLanguage": "fil",
             "sourceText": "Dahilan: ____________________________________________________",
             "id": "Alasan:..........",
             "tagalog": "Dahilan: ____________________________________________________"
           }
-        },
-        {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "mixed",
-            "sourceText": "_______________________________________________________",
-            "id": "_______________________________________________________"
-          }
         }
-      ]
+      ],
+      "id": "lesson-11-07-activity-3"
     },
     {
-      "id": "lesson-11-grammar",
-      "type": "GRAMMAR",
+      "type": "LEARNING_MATERIAL",
       "title": {
         "sourceLanguage": "mixed",
-        "sourceText": "Grammar",
-        "id": "Tata Bahasa"
+        "sourceText": "Definition of Terms",
+        "id": "Definisi Istilah"
       },
       "blocks": [
-        {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "mixed",
-            "sourceText": "Grammar",
-            "id": "Tata Bahasa"
-          }
-        },
-        {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "mixed",
-            "sourceText": "Definition of Terms",
-            "id": "Definisi Istilah"
-          }
-        },
         {
           "type": "table",
           "rows": [
@@ -2399,17 +2040,20 @@
                 }
               ]
             }
-          ]
-        },
-        {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "mixed",
-            "sourceText": "Examining Form",
-            "id": "Mengkaji Bentuk"
-          }
-        },
+          ],
+          "role": "reference"
+        }
+      ],
+      "id": "lesson-11-08-definition-of-terms"
+    },
+    {
+      "type": "LEARNING_MATERIAL",
+      "title": {
+        "sourceLanguage": "mixed",
+        "sourceText": "Examining Form",
+        "id": "Menganalisis Bentuk"
+      },
+      "blocks": [
         {
           "type": "text",
           "style": "body",
@@ -2505,16 +2149,18 @@
             "sourceText": "c. Discuss with a partner how each prefix changes the meaning of the adjective.",
             "id": "C. Diskusi dengan pasangan bagaimana setiap awalan berubah makna dari kata sifat."
           }
-        },
-        {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "en",
-            "sourceText": "I. Positive, Comparatives, and Superlatives",
-            "id": "I. Positif, Komparatif, dan Superlatives"
-          }
-        },
+        }
+      ],
+      "id": "lesson-11-09-examining-form"
+    },
+    {
+      "type": "LEARNING_MATERIAL",
+      "title": {
+        "sourceLanguage": "en",
+        "sourceText": "I. Positive, Comparatives, and Superlatives",
+        "id": "I. Positif, Komparatif, dan Superlatives"
+      },
+      "blocks": [
         {
           "type": "text",
           "style": "body",
@@ -2523,34 +2169,51 @@
             "sourceText": "Adjectives, words that describe a noun or a pronoun, change form in Tagalog through the use of affixes, which attach to a root word. There are several adjectival affixes. One of the most common is ma-, which means “full of the quality indicated by the root word.” There are also adjectives that are themselves root words (a descriptive word that has no affix), like pula “red.” In the examples below, the adjectives are used as predicates in a predicational sentence. The adjective in the first example has a prefix, ma-: ma + ganda (beauty). The translation of maganda in English is “beautiful.” In the sentences below, notice that the helping verb is has no equivalent in Tagalog.",
             "id": "Kata sifat, kata-kata yang menggambarkan kata benda atau kata ganti, ubah bentuk dalam Tagalog melalui penggunaan affiks, yang melekat pada kata akar. Ada beberapa affiks adyjectival. Salah satu yang paling umum adalah ma-, yang berarti \"penuh dengan kualitas yang ditunjukkan oleh kata akar.\" Ada juga kata sifat yang sendiri akar kata (kata yang deskriptif yang tidak affix), seperti pula \"merah\". Dalam contoh di bawah ini, kata sifat digunakan sebagai predikat dalam kalimat seminari. Kata sifat pada contoh pertama memiliki prefiks, ma-: ma + ganda (kecantikan). Terjemahan maganda dalam bahasa Inggris adalah \"beautiful\". Dalam kalimat di bawah ini, perhatikan bahwa kata kerja bantuan tidak setara dalam bahasa Tagalog."
           }
+        }
+      ],
+      "id": "lesson-11-10-i-positive-comparatives-and-superlatives"
+    },
+    {
+      "type": "EXAMPLES",
+      "title": {
+        "sourceLanguage": "mixed",
+        "sourceText": "EXAMPLES:",
+        "id": "Contoh"
+      },
+      "blocks": [
+        {
+          "type": "example",
+          "items": [
+            {
+              "sourceLanguage": "en",
+              "sourceText": "Maganda ang siyudad. The city is beautiful.",
+              "id": "Maganda ang siyudad.",
+              "tagalog": "Maganda ang siyudad. Maganda"
+            }
+          ]
         },
         {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "mixed",
-            "sourceText": "EXAMPLES:",
-            "id": "EXAMPLES:"
-          }
-        },
-        {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "en",
-            "sourceText": "Maganda ang siyudad. The city is beautiful.",
-            "id": "Maganda ang siyudad."
-          }
-        },
-        {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "en",
-            "sourceText": "Asul ang damit. The dress is blue.",
-            "id": "Asul ang damit.Gaunnya biru."
-          }
-        },
+          "type": "example",
+          "items": [
+            {
+              "sourceLanguage": "en",
+              "sourceText": "Asul ang damit. The dress is blue.",
+              "id": "Asul ang damit.Gaunnya biru.",
+              "tagalog": "Asul ang damit. Asul"
+            }
+          ]
+        }
+      ],
+      "id": "lesson-11-11-examples"
+    },
+    {
+      "type": "LEARNING_MATERIAL",
+      "title": {
+        "sourceLanguage": "en",
+        "sourceText": "I. Positive, Comparatives, and Superlatives",
+        "id": "I. Positif, Komparatif, dan Superlatives"
+      },
+      "blocks": [
         {
           "type": "text",
           "style": "body",
@@ -2568,35 +2231,51 @@
             "sourceText": "Comparative Degree: When expressing the idea of “greater” in comparative degree, the prefix mas- is used before the adjective. When expressing the idea of “equal,” use magkasing- before the root word of the adjective. In the example below, the root word is ganda (beauty). The comparative adjective of greater degree is mas maganda (more beautiful). The translation of “than” in Tagalog is kaysa. The comparative adjective of equal degree is magkasingganda (equally beautiful, as beautiful).",
             "id": "Degresi Perpaduan: Ketika mengekspresikan ide tentang \"lebih besar\" dalam derajat perbandingan, prefiktif digunakan sebelum kata sifat. Ketika mengekspresikan gagasan \"sama\", gunakan magkase - sebelum kata akar dari kata kata kata kata adjektif. Dalam contoh di bawah, kata akar adalah ganda (kecantikan). Kecocokan perbandingan dari tingkat yang lebih besar adalah mas maganda (lebih indah). Terjemahan dari \"than\" dalam Tagalog adalah kaysa. Perbandingan kata sifat dari tingkat yang sama adalah magkasangganda (sama indahnya, sebagai indah)."
           }
+        }
+      ],
+      "id": "lesson-11-12-i-positive-comparatives-and-superlatives-2"
+    },
+    {
+      "type": "EXAMPLES",
+      "title": {
+        "sourceLanguage": "mixed",
+        "sourceText": "EXAMPLES:",
+        "id": "Contoh"
+      },
+      "blocks": [
+        {
+          "type": "example",
+          "items": [
+            {
+              "sourceLanguage": "fil",
+              "sourceText": "Mas maganda ang Baguio kaysa sa Tagaytay. Baguio is more beautiful than Tagaytay.",
+              "id": "Baguio lebih indah daripada Magdad, atau baugio adalah Anda baik - dibangun pembuat roti.",
+              "tagalog": "Mas maganda ang Baguio kaysa sa Tagaytay. Baguio is more beautiful than Tagaytay."
+            }
+          ]
         },
         {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "mixed",
-            "sourceText": "EXAMPLES:",
-            "id": "EXAMPLES:"
-          }
-        },
-        {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "fil",
-            "sourceText": "Mas maganda ang Baguio kaysa sa Tagaytay. Baguio is more beautiful than Tagaytay.",
-            "id": "Baguio lebih indah daripada Magdad, atau baugio adalah Anda baik - dibangun pembuat roti.",
-            "tagalog": "Mas maganda ang Baguio kaysa sa Tagaytay. Baguio is more beautiful than Tagaytay."
-          }
-        },
-        {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "en",
-            "sourceText": "Magkasingganda ang Baguio at Tagaytay. Baguio and Tagaytay are equally beautiful.",
-            "id": "Magkaswinganda ang Baguio di Tagaytay."
-          }
-        },
+          "type": "example",
+          "items": [
+            {
+              "sourceLanguage": "en",
+              "sourceText": "Magkasingganda ang Baguio at Tagaytay. Baguio and Tagaytay are equally beautiful.",
+              "id": "Magkaswinganda ang Baguio di Tagaytay.",
+              "tagalog": "Magkasingganda ang Baguio at Tagaytay. Magkasingganda equally beautiful"
+            }
+          ]
+        }
+      ],
+      "id": "lesson-11-13-examples-2"
+    },
+    {
+      "type": "LEARNING_MATERIAL",
+      "title": {
+        "sourceLanguage": "en",
+        "sourceText": "I. Positive, Comparatives, and Superlatives",
+        "id": "I. Positif, Komparatif, dan Superlatives"
+      },
+      "blocks": [
         {
           "type": "text",
           "style": "body",
@@ -2614,26 +2293,40 @@
             "sourceText": "Superlative Degree: When expressing the idea of the greatest or highest degree, the prefix pinaka- is attached to the positive or ordinary form of the adjective.",
             "id": "Degree Superlatif: Ketika mengekspresikan ide dari tingkat terbesar atau tertinggi, prefix pinak- melekat pada bentuk positif atau biasa dari kata sifat."
           }
-        },
+        }
+      ],
+      "id": "lesson-11-14-i-positive-comparatives-and-superlatives-3"
+    },
+    {
+      "type": "EXAMPLES",
+      "title": {
+        "sourceLanguage": "mixed",
+        "sourceText": "EXAMPLE:",
+        "id": "Contoh"
+      },
+      "blocks": [
         {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "mixed",
-            "sourceText": "EXAMPLE:",
-            "id": "EXAMPLE:"
-          }
-        },
-        {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "fil",
-            "sourceText": "Pinakamaganda ang Baguio sa lahat. Baguio is the most beautiful of all.",
-            "id": "Baguio adalah orang terbaik yang pernah ada, dan Baguio adalah keindahan masa lalu dari semua.",
-            "tagalog": "Pinakamaganda ang Baguio sa lahat. Baguio is the most beautiful of all."
-          }
-        },
+          "type": "example",
+          "items": [
+            {
+              "sourceLanguage": "fil",
+              "sourceText": "Pinakamaganda ang Baguio sa lahat. Baguio is the most beautiful of all.",
+              "id": "Baguio adalah orang terbaik yang pernah ada, dan Baguio adalah keindahan masa lalu dari semua.",
+              "tagalog": "Pinakamaganda ang Baguio sa lahat. Baguio is the most beautiful of all."
+            }
+          ]
+        }
+      ],
+      "id": "lesson-11-15-example"
+    },
+    {
+      "type": "LEARNING_MATERIAL",
+      "title": {
+        "sourceLanguage": "en",
+        "sourceText": "I. Positive, Comparatives, and Superlatives",
+        "id": "I. Positif, Komparatif, dan Superlatives"
+      },
+      "blocks": [
         {
           "type": "text",
           "style": "body",
@@ -2726,17 +2419,20 @@
                 }
               ]
             }
-          ]
-        },
-        {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "mixed",
-            "sourceText": "Grammar Presentation",
-            "id": "Penyajian Tata Bahasa"
-          }
-        },
+          ],
+          "role": "reference"
+        }
+      ],
+      "id": "lesson-11-16-i-positive-comparatives-and-superlatives-4"
+    },
+    {
+      "type": "LEARNING_MATERIAL",
+      "title": {
+        "sourceLanguage": "mixed",
+        "sourceText": "Grammar Presentation",
+        "id": "Penyajian Tata Bahasa"
+      },
+      "blocks": [
         {
           "type": "text",
           "style": "body",
@@ -2788,7 +2484,8 @@
                 }
               ]
             }
-          ]
+          ],
+          "role": "reference"
         },
         {
           "type": "text",
@@ -2866,7 +2563,8 @@
                 }
               ]
             }
-          ]
+          ],
+          "role": "reference"
         },
         {
           "type": "table",
@@ -2957,7 +2655,8 @@
                 }
               ]
             }
-          ]
+          ],
+          "role": "reference"
         },
         {
           "type": "text",
@@ -3053,7 +2752,8 @@
                 }
               ]
             }
-          ]
+          ],
+          "role": "reference"
         },
         {
           "type": "text",
@@ -3166,46 +2866,64 @@
                 }
               ]
             }
+          ],
+          "role": "reference"
+        }
+      ],
+      "id": "lesson-11-17-grammar-presentation"
+    },
+    {
+      "type": "EXAMPLES",
+      "title": {
+        "sourceLanguage": "mixed",
+        "sourceText": "EXAMPLES:",
+        "id": "Contoh"
+      },
+      "blocks": [
+        {
+          "type": "example",
+          "items": [
+            {
+              "sourceLanguage": "en",
+              "sourceText": "Magkasinsariwa ang hangin sa Boracay at ang hangin sa bukid. The air in Boracay and the air in the field are equally fresh.",
+              "id": "Magkasinsariwa ang hangin sa Boracay di ang hangin sa bukit. udara di Boracay dan udara di lapangan sama segar.",
+              "tagalog": "Magkasinsariwa ang hangin sa Boracay at ang hangin sa bukid."
+            }
           ]
         },
         {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "mixed",
-            "sourceText": "EXAMPLES:",
-            "id": "EXAMPLES:"
-          }
+          "type": "example",
+          "items": [
+            {
+              "sourceLanguage": "fil",
+              "sourceText": "Magkasindilim ang kuwarto ko at ang kusina. My room and the kitchen are equally dark.",
+              "id": "Kamar dan dapurku gelap, kamar dan dapurnya gelap.",
+              "tagalog": "Magkasindilim ang kuwarto ko at ang kusina. My room and the kitchen are equally dark."
+            }
+          ]
         },
         {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "en",
-            "sourceText": "Magkasinsariwa ang hangin sa Boracay at ang hangin sa bukid. The air in Boracay and the air in the field are equally fresh.",
-            "id": "Magkasinsariwa ang hangin sa Boracay di ang hangin sa bukit. udara di Boracay dan udara di lapangan sama segar."
-          }
-        },
-        {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "fil",
-            "sourceText": "Magkasindilim ang kuwarto ko at ang kusina. My room and the kitchen are equally dark.",
-            "id": "Kamar dan dapurku gelap, kamar dan dapurnya gelap.",
-            "tagalog": "Magkasindilim ang kuwarto ko at ang kusina. My room and the kitchen are equally dark."
-          }
-        },
-        {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "fil",
-            "sourceText": "Magkasintahimik ba ang klase ninyo at ang aklatan? Are your classroom and the library equally quiet?",
-            "id": "Apakah Anda dan perpustakaan tenang, Apakah Anda kelas dan perpustakaan sama dengan cumi-cumi?",
-            "tagalog": "Magkasintahimik ba ang klase ninyo at ang aklatan? Are your classroom and the library equally quiet?"
-          }
-        },
+          "type": "example",
+          "items": [
+            {
+              "sourceLanguage": "fil",
+              "sourceText": "Magkasintahimik ba ang klase ninyo at ang aklatan? Are your classroom and the library equally quiet?",
+              "id": "Apakah Anda dan perpustakaan tenang, Apakah Anda kelas dan perpustakaan sama dengan cumi-cumi?",
+              "tagalog": "Magkasintahimik ba ang klase ninyo at ang aklatan? Are your classroom and the library equally quiet?"
+            }
+          ]
+        }
+      ],
+      "id": "lesson-11-18-examples-3"
+    },
+    {
+      "type": "LEARNING_MATERIAL",
+      "title": {
+        "sourceLanguage": "mixed",
+        "sourceText": "Grammar Presentation",
+        "id": "Penyajian Tata Bahasa"
+      },
+      "blocks": [
         {
           "type": "text",
           "style": "body",
@@ -3395,47 +3113,64 @@
                 }
               ]
             }
+          ],
+          "role": "reference"
+        }
+      ],
+      "id": "lesson-11-19-grammar-presentation-2"
+    },
+    {
+      "type": "EXAMPLES",
+      "title": {
+        "sourceLanguage": "mixed",
+        "sourceText": "EXAMPLES:",
+        "id": "Contoh"
+      },
+      "blocks": [
+        {
+          "type": "example",
+          "items": [
+            {
+              "sourceLanguage": "fil",
+              "sourceText": "Mas sariwa ang hangin sa Boracay kaysa sa hangin sa bukid. The air in Boracay is fresher than the air in the field.",
+              "id": "Udara Boracy lebih segar daripada udara pertanian, dan udara di Borasi lebih heer daripada udara di lapangan.",
+              "tagalog": "Mas sariwa ang hangin sa Boracay kaysa sa hangin sa bukid. The air in Boracay is fresher than the air in the field."
+            }
           ]
         },
         {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "mixed",
-            "sourceText": "EXAMPLES:",
-            "id": "EXAMPLES:"
-          }
+          "type": "example",
+          "items": [
+            {
+              "sourceLanguage": "fil",
+              "sourceText": "Mas madilim ang kuwarto ko kaysa sa kusina. My room is darker than the kitchen.",
+              "id": "Kamarku lebih gelap dari dapur.",
+              "tagalog": "Mas madilim ang kuwarto ko kaysa sa kusina. My room is darker than the kitchen."
+            }
+          ]
         },
         {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "fil",
-            "sourceText": "Mas sariwa ang hangin sa Boracay kaysa sa hangin sa bukid. The air in Boracay is fresher than the air in the field.",
-            "id": "Udara Boracy lebih segar daripada udara pertanian, dan udara di Borasi lebih heer daripada udara di lapangan.",
-            "tagalog": "Mas sariwa ang hangin sa Boracay kaysa sa hangin sa bukid. The air in Boracay is fresher than the air in the field."
-          }
-        },
-        {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "fil",
-            "sourceText": "Mas madilim ang kuwarto ko kaysa sa kusina. My room is darker than the kitchen.",
-            "id": "Kamarku lebih gelap dari dapur.",
-            "tagalog": "Mas madilim ang kuwarto ko kaysa sa kusina. My room is darker than the kitchen."
-          }
-        },
-        {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "fil",
-            "sourceText": "Mas tahimik ba ang klasrum ninyo kaysa sa aklatan? Is your classroom more quiet than the library?",
-            "id": "Apakah Anda memiliki kelas yang lebih tenang dari perpustakaan?",
-            "tagalog": "Mas tahimik ba ang klasrum ninyo kaysa sa aklatan? Is your classroom more quiet than the library?"
-          }
-        },
+          "type": "example",
+          "items": [
+            {
+              "sourceLanguage": "fil",
+              "sourceText": "Mas tahimik ba ang klasrum ninyo kaysa sa aklatan? Is your classroom more quiet than the library?",
+              "id": "Apakah Anda memiliki kelas yang lebih tenang dari perpustakaan?",
+              "tagalog": "Mas tahimik ba ang klasrum ninyo kaysa sa aklatan? Is your classroom more quiet than the library?"
+            }
+          ]
+        }
+      ],
+      "id": "lesson-11-20-examples-4"
+    },
+    {
+      "type": "LEARNING_MATERIAL",
+      "title": {
+        "sourceLanguage": "mixed",
+        "sourceText": "Grammar Presentation",
+        "id": "Penyajian Tata Bahasa"
+      },
+      "blocks": [
         {
           "type": "text",
           "style": "body",
@@ -3585,17 +3320,20 @@
                 }
               ]
             }
-          ]
-        },
-        {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "mixed",
-            "sourceText": "EXAMPLES:",
-            "id": "EXAMPLES:"
-          }
-        },
+          ],
+          "role": "reference"
+        }
+      ],
+      "id": "lesson-11-21-grammar-presentation-3"
+    },
+    {
+      "type": "LEARNING_MATERIAL",
+      "title": {
+        "sourceLanguage": "mixed",
+        "sourceText": "Grammar Presentation",
+        "id": "Penyajian Tata Bahasa"
+      },
+      "blocks": [
         {
           "type": "text",
           "style": "body",
@@ -3624,16 +3362,18 @@
             "id": "Perpustakaan adalah tempat yang paling tenang di tempat, dan perpustakaan adalah tempat yang tenang dan sekolah.",
             "tagalog": "Pinakatahimik na lugar ang aklatan sa eskwelahan. The library is the quietest place at school."
           }
-        },
-        {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "mixed",
-            "sourceText": "Grammar Notes",
-            "id": "Catatan Tata Bahasa"
-          }
-        },
+        }
+      ],
+      "id": "lesson-11-22-grammar-presentation-4"
+    },
+    {
+      "type": "LEARNING_MATERIAL",
+      "title": {
+        "sourceLanguage": "mixed",
+        "sourceText": "Grammar Notes",
+        "id": "Catatan Tata Bahasa"
+      },
+      "blocks": [
         {
           "type": "table",
           "rows": [
@@ -3642,7 +3382,8 @@
                 {
                   "sourceLanguage": "en",
                   "sourceText": "1. The prefix magkasing- is added before an unaffixed adjective or the root word of ma- adjectives.\n\nmagkasingganda\n\n*magkasingmaganda (incorrect)",
-                  "id": "Prefiks magkase- ditambahkan sebelum sebuah kata sifat yang tidak affixed atau akar kata kata kata an-kata sifat. magkaswingganda * magkasangmaganda (salah)"
+                  "id": "Prefiks magkase- ditambahkan sebelum sebuah kata sifat yang tidak affixed atau akar kata kata kata an-kata sifat. magkaswingganda * magkasangmaganda (salah)",
+                  "tagalog": "magkasing- ma- magkasingganda *magkasingmaganda maganda"
                 }
               ]
             },
@@ -3705,7 +3446,8 @@
                 {
                   "sourceLanguage": "en",
                   "sourceText": "3. The subject of the magkasing adjective is always plural.\n\nMagkasingganda ang Paris at New York. Paris and New York are equally beautiful.\n\nMagkasinsikip ang Los Angeles at Tokyo. Los Angeles and Tokyo are equally crowded.",
-                  "id": "Subjek dari kata sifat magkaming selalu penuh. Magkasangganda Paris di New York, Paris dan New York sama indahnya. Magkasinkip Los Angeles di Tokyo, Los Angeles dan Tokyo sama-sama ramai."
+                  "id": "Subjek dari kata sifat magkaming selalu penuh. Magkasangganda Paris di New York, Paris dan New York sama indahnya. Magkasinkip Los Angeles di Tokyo, Los Angeles dan Tokyo sama-sama ramai.",
+                  "tagalog": "magkasing Magkasingganda ang Paris at New York. ang Paris at New York Magkasinsikip ang Los Angeles at Tokyo. ang Los Angeles at Tokyo"
                 }
               ]
             },
@@ -3714,21 +3456,25 @@
                 {
                   "sourceLanguage": "en",
                   "sourceText": "4. The superlative degree is generally expressed by the prefix pinaka- and the adjective. Pinaka-occurs before ma-adjectives and non ma-adjectives.\n\npinakamaganda most beautiful\n\npinakamatangakad tallest\n\npinakabago newest",
-                  "id": "Tingkat superlatif umumnya diekspresikan oleh prefiks pinak- dan kata sifat. Pinaka- terjadi sebelum kata sifat dan bukan kata sifat. pinakamaganda paling indah pinakamatangakad tertinggi pinakabago terbaru"
+                  "id": "Tingkat superlatif umumnya diekspresikan oleh prefiks pinak- dan kata sifat. Pinaka- terjadi sebelum kata sifat dan bukan kata sifat. pinakamaganda paling indah pinakamatangakad tertinggi pinakabago terbaru",
+                  "tagalog": "pinaka- Pinaka- ma- pinakamaganda maganda pinakamatangakad matangakad pinakabago bago"
                 }
               ]
             }
-          ]
-        },
-        {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "mixed",
-            "sourceText": "II. Intensifiers",
-            "id": "Penindas"
-          }
-        },
+          ],
+          "role": "reference"
+        }
+      ],
+      "id": "lesson-11-23-grammar-notes"
+    },
+    {
+      "type": "LEARNING_MATERIAL",
+      "title": {
+        "sourceLanguage": "mixed",
+        "sourceText": "II. Intensifiers",
+        "id": "Penindas"
+      },
+      "blocks": [
         {
           "type": "text",
           "style": "body",
@@ -3787,7 +3533,8 @@
                 }
               ]
             }
-          ]
+          ],
+          "role": "reference"
         },
         {
           "type": "text",
@@ -3797,43 +3544,62 @@
             "sourceText": "When the intensifier is made by reduplicating the adjective, a linker is used between the two instances of the adjective. The form of the linker is determined by whether the preceding word ends in a vowel or a consonant, as shown in the following examples:",
             "id": "Ketika intensifier dibuat dengan mereduplikasi kata sifat, penghubung digunakan antara dua instansi dari kata sifat. Bentuk penghubung ditentukan oleh apakah kata sebelumnya berakhir dalam sebuah vokal atau consonant, seperti yang ditunjukkan dalam contoh berikut:"
           }
+        }
+      ],
+      "id": "lesson-11-24-ii-intensifiers"
+    },
+    {
+      "type": "EXAMPLES",
+      "title": {
+        "sourceLanguage": "mixed",
+        "sourceText": "EXAMPLES:",
+        "id": "Contoh"
+      },
+      "blocks": [
+        {
+          "type": "example",
+          "items": [
+            {
+              "sourceLanguage": "en",
+              "sourceText": "malinis na malinis very clean (The first word ends in a consonant.)",
+              "id": "Malinis na Malinis sangat bersih (Kata pertama berakhir dalam konsonan.)",
+              "tagalog": "malinis na malinis na"
+            }
+          ]
         },
         {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "mixed",
-            "sourceText": "EXAMPLES:",
-            "id": "EXAMPLES:"
-          }
+          "type": "example",
+          "items": [
+            {
+              "sourceLanguage": "en",
+              "sourceText": "bagong-bago very new (The first word ends in a vowel.)",
+              "id": "Bagong-bago sangat baru (Kata pertama berakhir dalam vokal.)",
+              "tagalog": "bagong-bago ng"
+            }
+          ]
         },
         {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "en",
-            "sourceText": "malinis na malinis very clean (The first word ends in a consonant.)",
-            "id": "Malinis na Malinis sangat bersih (Kata pertama berakhir dalam konsonan.)"
-          }
-        },
-        {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "en",
-            "sourceText": "bagong-bago very new (The first word ends in a vowel.)",
-            "id": "Bagong-bago sangat baru (Kata pertama berakhir dalam vokal.)"
-          }
-        },
-        {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "en",
-            "sourceText": "mayamang-mayaman very rich (The first word ends in the letter n.)",
-            "id": "mayaman- mayaman sangat kaya (Kata pertama berakhir dalam huruf n.)"
-          }
-        },
+          "type": "example",
+          "items": [
+            {
+              "sourceLanguage": "en",
+              "sourceText": "mayamang-mayaman very rich (The first word ends in the letter n.)",
+              "id": "mayaman- mayaman sangat kaya (Kata pertama berakhir dalam huruf n.)",
+              "tagalog": "mayamang-mayaman ng n"
+            }
+          ]
+        }
+      ],
+      "id": "lesson-11-25-examples-5"
+    },
+    {
+      "type": "LEARNING_MATERIAL",
+      "title": {
+        "sourceLanguage": "mixed",
+        "sourceText": "II. Intensifiers",
+        "id": "Penindas"
+      },
+      "blocks": [
         {
           "type": "text",
           "style": "body",
@@ -3842,55 +3608,62 @@
             "sourceText": "The alternative way to form the intensifier is with the prefix napaka- plus the root word of the adjective.",
             "id": "Cara alternatif untuk membentuk intensifer adalah dengan awalan napaka- ditambah kata akar dari kata sifat."
           }
+        }
+      ],
+      "id": "lesson-11-26-ii-intensifiers-2"
+    },
+    {
+      "type": "EXAMPLES",
+      "title": {
+        "sourceLanguage": "mixed",
+        "sourceText": "EXAMPLES:",
+        "id": "Contoh"
+      },
+      "blocks": [
+        {
+          "type": "example",
+          "items": [
+            {
+              "sourceLanguage": "fil",
+              "sourceText": "napakaganda very beautiful",
+              "id": "Kau cantik sekali.",
+              "tagalog": "napakaganda very beautiful"
+            }
+          ]
         },
         {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "mixed",
-            "sourceText": "EXAMPLES:",
-            "id": "EXAMPLES:"
-          }
+          "type": "example",
+          "items": [
+            {
+              "sourceLanguage": "fil",
+              "sourceText": "napakalinis very clean",
+              "id": "Cukup bersih sangat bersih",
+              "tagalog": "napakalinis very clean"
+            }
+          ]
         },
         {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "fil",
-            "sourceText": "napakaganda very beautiful",
-            "id": "Kau cantik sekali.",
-            "tagalog": "napakaganda very beautiful"
-          }
-        },
-        {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "fil",
-            "sourceText": "napakalinis very clean",
-            "id": "Cukup bersih sangat bersih",
-            "tagalog": "napakalinis very clean"
-          }
-        },
-        {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "fil",
-            "sourceText": "napakabago very new",
-            "id": "terlalu baru",
-            "tagalog": "napakabago very new"
-          }
-        },
-        {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "mixed",
-            "sourceText": "Grammar Presentation",
-            "id": "Penyajian Tata Bahasa"
-          }
-        },
+          "type": "example",
+          "items": [
+            {
+              "sourceLanguage": "fil",
+              "sourceText": "napakabago very new",
+              "id": "terlalu baru",
+              "tagalog": "napakabago very new"
+            }
+          ]
+        }
+      ],
+      "id": "lesson-11-27-examples-6"
+    },
+    {
+      "type": "LEARNING_MATERIAL",
+      "title": {
+        "sourceLanguage": "mixed",
+        "sourceText": "Grammar Presentation",
+        "id": "Penyajian Tata Bahasa"
+      },
+      "blocks": [
         {
           "type": "text",
           "style": "body",
@@ -3966,7 +3739,8 @@
                 }
               ]
             }
-          ]
+          ],
+          "role": "reference"
         },
         {
           "type": "text",
@@ -4061,7 +3835,8 @@
                 }
               ]
             }
-          ]
+          ],
+          "role": "reference"
         },
         {
           "type": "text",
@@ -4169,44 +3944,64 @@
                 }
               ]
             }
+          ],
+          "role": "reference"
+        }
+      ],
+      "id": "lesson-11-28-grammar-presentation-5"
+    },
+    {
+      "type": "EXAMPLES",
+      "title": {
+        "sourceLanguage": "mixed",
+        "sourceText": "EXAMPLES:",
+        "id": "Contoh"
+      },
+      "blocks": [
+        {
+          "type": "example",
+          "items": [
+            {
+              "sourceLanguage": "en",
+              "sourceText": "Mainit na mainit sa Pilipinas tuwing tag-init. It is very hot in the Philippines every summer.",
+              "id": "Mainit na mainit sa Pilipinas tuwing tag-init. lt sangat panas di Filipina setiap musim panas.",
+              "tagalog": "Mainit na mainit sa Pilipinas tuwing tag-init."
+            }
           ]
         },
         {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "mixed",
-            "sourceText": "EXAMPLES:",
-            "id": "EXAMPLES:"
-          }
+          "type": "example",
+          "items": [
+            {
+              "sourceLanguage": "en",
+              "sourceText": "Maputik na maputik sa bukid. It is very muddy in the farm.",
+              "id": "Maputik na maputik sa bukit. lt sangat berlumpur di peternakan.",
+              "tagalog": "Maputik na maputik sa bukid."
+            }
+          ]
         },
         {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "en",
-            "sourceText": "Mainit na mainit sa Pilipinas tuwing tag-init. It is very hot in the Philippines every summer.",
-            "id": "Mainit na mainit sa Pilipinas tuwing tag-init. lt sangat panas di Filipina setiap musim panas."
-          }
-        },
-        {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "en",
-            "sourceText": "Maputik na maputik sa bukid. It is very muddy in the farm.",
-            "id": "Maputik na maputik sa bukit. lt sangat berlumpur di peternakan."
-          }
-        },
-        {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "en",
-            "sourceText": "Mataong-matao sa siyudad. It is very crowded in the city.",
-            "id": "Mataong- matao sa siyudad Ini sangat ramai di kota"
-          }
-        },
+          "type": "example",
+          "items": [
+            {
+              "sourceLanguage": "en",
+              "sourceText": "Mataong-matao sa siyudad. It is very crowded in the city.",
+              "id": "Mataong- matao sa siyudad Ini sangat ramai di kota",
+              "tagalog": "Mataong-matao sa siyudad."
+            }
+          ]
+        }
+      ],
+      "id": "lesson-11-29-examples-7"
+    },
+    {
+      "type": "LEARNING_MATERIAL",
+      "title": {
+        "sourceLanguage": "mixed",
+        "sourceText": "Grammar Presentation",
+        "id": "Penyajian Tata Bahasa"
+      },
+      "blocks": [
         {
           "type": "text",
           "style": "body",
@@ -4295,54 +4090,64 @@
                 }
               ]
             }
+          ],
+          "role": "reference"
+        }
+      ],
+      "id": "lesson-11-30-grammar-presentation-6"
+    },
+    {
+      "type": "EXAMPLES",
+      "title": {
+        "sourceLanguage": "mixed",
+        "sourceText": "EXAMPLES:",
+        "id": "Contoh"
+      },
+      "blocks": [
+        {
+          "type": "example",
+          "items": [
+            {
+              "sourceLanguage": "en",
+              "sourceText": "Napakalinis ng tubig sa lawa. The water in the lake is very clean.",
+              "id": "Nanakalinis ng tubig sa lawa. air di danau sangat bersih.",
+              "tagalog": "Napakalinis ng tubig sa lawa."
+            }
           ]
         },
         {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "mixed",
-            "sourceText": "EXAMPLES:",
-            "id": "EXAMPLES:"
-          }
+          "type": "example",
+          "items": [
+            {
+              "sourceLanguage": "fil",
+              "sourceText": "Napakalakas ng hangin sa labas. The wind is very strong outside.",
+              "id": "Angin luar kuat, dan angin adalah string luar.",
+              "tagalog": "Napakalakas ng hangin sa labas. The wind is very strong outside."
+            }
+          ]
         },
         {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "en",
-            "sourceText": "Napakalinis ng tubig sa lawa. The water in the lake is very clean.",
-            "id": "Nanakalinis ng tubig sa lawa. air di danau sangat bersih."
-          }
-        },
-        {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "fil",
-            "sourceText": "Napakalakas ng hangin sa labas. The wind is very strong outside.",
-            "id": "Angin luar kuat, dan angin adalah string luar.",
-            "tagalog": "Napakalakas ng hangin sa labas. The wind is very strong outside."
-          }
-        },
-        {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "en",
-            "sourceText": "Napakaganda ng tanawin sa probinsya. The scenery in the province is very beautiful.",
-            "id": "Pemandangan di provinsi sangat indah."
-          }
-        },
-        {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "mixed",
-            "sourceText": "Grammar Notes",
-            "id": "Catatan Tata Bahasa"
-          }
-        },
+          "type": "example",
+          "items": [
+            {
+              "sourceLanguage": "en",
+              "sourceText": "Napakaganda ng tanawin sa probinsya. The scenery in the province is very beautiful.",
+              "id": "Pemandangan di provinsi sangat indah.",
+              "tagalog": "Napakaganda ng tanawin sa probinsya."
+            }
+          ]
+        }
+      ],
+      "id": "lesson-11-31-examples-8"
+    },
+    {
+      "type": "LEARNING_MATERIAL",
+      "title": {
+        "sourceLanguage": "mixed",
+        "sourceText": "Grammar Notes",
+        "id": "Catatan Tata Bahasa"
+      },
+      "blocks": [
         {
           "type": "table",
           "rows": [
@@ -4351,7 +4156,8 @@
                 {
                   "sourceLanguage": "en",
                   "sourceText": "1. The intensified degree of quality denoted by an adjective is expressed by the following forms:\n\na. Reduplication, in which the adjective is repeated with the linker na/-ng.\n\nb. Attaching the prefix napaka- to the unaffixed adjective or the root word of a ma- adjective.\n\nmagandang-maganda\n\nmataas na mataas\n\nmayamang-mayaman\n\n\n\n\nnapakaganda\n\nnapakataas\n\nnapakayaman",
-                  "id": "Tingkat kualitas yang diintensifkan ditolak oleh kata sifat diekspresikan oleh bentuk berikut: a. Reduplikasi, di mana kata sifat diulang dengan linker na / -ng. b. Mencantol prefiks napaka- ke kata sifat yang tidak affifixed atau akar kata dari sebuah an-kata sifat. magandang- maganda Mataas na mataas mayamang--mayaman napakaganda napakataas napakayaman"
+                  "id": "Tingkat kualitas yang diintensifkan ditolak oleh kata sifat diekspresikan oleh bentuk berikut: a. Reduplikasi, di mana kata sifat diulang dengan linker na / -ng. b. Mencantol prefiks napaka- ke kata sifat yang tidak affifixed atau akar kata dari sebuah an-kata sifat. magandang- maganda Mataas na mataas mayamang--mayaman napakaganda napakataas napakayaman",
+                  "tagalog": "na -ng napaka- ma- magandang-maganda mataas na mataas mayamang-mayaman napakaganda napakataas napakayaman"
                 }
               ]
             },
@@ -4360,44 +4166,28 @@
                 {
                   "sourceLanguage": "en",
                   "sourceText": "2. Napaka- requires the replacement of the subject’s ang phrase with a ng phrase. Hence, there is no subject in the Tagalog sentence.\n\nNapakaganda ng Seattle.\n\n*Napakaganda ang Seattle. (incorrect)",
-                  "id": "2 Napak- memerlukan penggantian frase dari subjek dengan kalimat ng karenanya, tidak ada subjek dalam kalimat Tagalog. Napakaganda ng Seattle. * Napakaganda ang Seattle. (Salah)"
+                  "id": "2 Napak- memerlukan penggantian frase dari subjek dengan kalimat ng karenanya, tidak ada subjek dalam kalimat Tagalog. Napakaganda ng Seattle. * Napakaganda ang Seattle. (Salah)",
+                  "tagalog": "Napaka- ang ng Napakaganda ng Seattle. Napakaganda ang Seattle."
                 }
               ]
             }
-          ]
+          ],
+          "role": "reference"
         }
-      ]
+      ],
+      "id": "lesson-11-32-grammar-notes-2"
     },
     {
-      "id": "lesson-11-practice",
-      "type": "PRACTICE",
+      "type": "EXERCISES",
       "title": {
-        "sourceLanguage": "mixed",
-        "sourceText": "Practice",
-        "id": "Latihan"
+        "sourceLanguage": "en",
+        "sourceText": "I. Speaking Practice",
+        "id": "I. Latihan Berbicara"
       },
       "blocks": [
         {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "mixed",
-            "sourceText": "Practice",
-            "id": "Latihan"
-          }
-        },
-        {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "en",
-            "sourceText": "I. Speaking Practice",
-            "id": "I. Latihan Berbicara"
-          }
-        },
-        {
-          "type": "text",
-          "style": "body",
+          "type": "exercise",
+          "role": "content",
           "text": {
             "sourceLanguage": "en",
             "sourceText": "In groups of three, choose and discuss four of the most beautiful places in the world and sketch them in the boxes below. Afterwards, present what your group has discussed and sketched to the rest of the class.",
@@ -4411,23 +4201,21 @@
         {
           "type": "image",
           "path": "assets/199b.jpg"
-        },
+        }
+      ],
+      "id": "lesson-11-33-i-speaking-practice"
+    },
+    {
+      "type": "EXERCISES",
+      "title": {
+        "sourceLanguage": "mixed",
+        "sourceText": "II. Reading Practice",
+        "id": "II. Latihan Membaca"
+      },
+      "blocks": [
         {
-          "type": "image",
-          "path": "assets/199b.jpg"
-        },
-        {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "mixed",
-            "sourceText": "II. Reading Practice",
-            "id": "II. Latihan Membaca"
-          }
-        },
-        {
-          "type": "text",
-          "style": "body",
+          "type": "exercise",
+          "role": "content",
           "text": {
             "sourceLanguage": "en",
             "sourceText": "Mila and Malou are reminiscing about their favorite places in the Philippines. Read their description of the places and answer the questions about them in Tagalog.",
@@ -4439,8 +4227,8 @@
           "path": "assets/200a.jpg"
         },
         {
-          "type": "text",
-          "style": "body",
+          "type": "exercise",
+          "role": "content",
           "text": {
             "sourceLanguage": "mixed",
             "sourceText": "Ang Parke",
@@ -4452,8 +4240,8 @@
           "path": "assets/200.jpg"
         },
         {
-          "type": "text",
-          "style": "body",
+          "type": "exercise",
+          "role": "content",
           "text": {
             "sourceLanguage": "fil",
             "sourceText": "Ang Parke sa bayan ang paborito kong lugar. Dito ako nakakakita ng katahimikan kaya nakakapagbasa ako dito ng mga libro. Sa umaga, marami kang makikitang taong naglalakad. Ang iba ay may kasamang anak at ang iba nama’y kasama ang kanilang mga mahal sa buhay. Pagdating ng hapon, gustong-gusto kong tumingin sa lawa para tingnan ang paglubog ng araw.",
@@ -4462,8 +4250,8 @@
           }
         },
         {
-          "type": "text",
-          "style": "body",
+          "type": "exercise",
+          "role": "question",
           "text": {
             "sourceLanguage": "en",
             "sourceText": "1. What is the article about?",
@@ -4471,17 +4259,8 @@
           }
         },
         {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "mixed",
-            "sourceText": "____________________________________________________",
-            "id": "____________________________________________________"
-          }
-        },
-        {
-          "type": "text",
-          "style": "body",
+          "type": "exercise",
+          "role": "question",
           "text": {
             "sourceLanguage": "en",
             "sourceText": "2. What are the different things that can be seen at the park?",
@@ -4489,17 +4268,8 @@
           }
         },
         {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "mixed",
-            "sourceText": "____________________________________________________",
-            "id": "____________________________________________________"
-          }
-        },
-        {
-          "type": "text",
-          "style": "body",
+          "type": "exercise",
+          "role": "content",
           "text": {
             "sourceLanguage": "fil",
             "sourceText": "Ang Probinsiya Ko",
@@ -4512,8 +4282,8 @@
           "path": "assets/201.jpg"
         },
         {
-          "type": "text",
-          "style": "body",
+          "type": "exercise",
+          "role": "content",
           "text": {
             "sourceLanguage": "fil",
             "sourceText": "Lumaki ako sa isang probinsiya sa Pilipinas. Sa probinsiya namin, kaunti lang ang mga tao pati na ang mga sasakyan. Talagang kapansin-pansin na sariwang-sariwa ang hangin. At ang mga dagat, ilog, at lawa naman ay maraming mga isda at malinis na malinis ang tubig. Pwede ditong maligo. Isang araw natatandaan ko na nagpunta ako sa tabing-ilog kasama ang nanay ko. Naglaba ang nanay ko habang naliligo naman ako. Masayang-masaya ang araw na iyon.",
@@ -4522,8 +4292,8 @@
           }
         },
         {
-          "type": "text",
-          "style": "body",
+          "type": "exercise",
+          "role": "question",
           "text": {
             "sourceLanguage": "en",
             "sourceText": "1. What is the article about?",
@@ -4531,17 +4301,8 @@
           }
         },
         {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "mixed",
-            "sourceText": "____________________________________________________",
-            "id": "____________________________________________________"
-          }
-        },
-        {
-          "type": "text",
-          "style": "body",
+          "type": "exercise",
+          "role": "question",
           "text": {
             "sourceLanguage": "en",
             "sourceText": "2. Describe the lake.",
@@ -4549,44 +4310,28 @@
           }
         },
         {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "mixed",
-            "sourceText": "____________________________________________________",
-            "id": "____________________________________________________"
-          }
-        },
-        {
-          "type": "text",
-          "style": "body",
+          "type": "exercise",
+          "role": "question",
           "text": {
             "sourceLanguage": "en",
             "sourceText": "3. What is the author’s favorite memory by the lake?",
             "id": "Apa memori favorit penulis di danau?"
           }
-        },
+        }
+      ],
+      "id": "lesson-11-34-ii-reading-practice"
+    },
+    {
+      "type": "EXERCISES",
+      "title": {
+        "sourceLanguage": "mixed",
+        "sourceText": "III. Writing Practice",
+        "id": "III. Latihan Menulis"
+      },
+      "blocks": [
         {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "mixed",
-            "sourceText": "____________________________________________________",
-            "id": "____________________________________________________"
-          }
-        },
-        {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "mixed",
-            "sourceText": "III. Writing Practice",
-            "id": "III. Latihan Menulis"
-          }
-        },
-        {
-          "type": "text",
-          "style": "body",
+          "type": "exercise",
+          "role": "content",
           "text": {
             "sourceLanguage": "en",
             "sourceText": "Draw a picture of your favorite place in your hometown and write a short paragraph about it. Use a separate sheet of paper for the drawing and the lines below for your paragraph.",
@@ -4594,62 +4339,8 @@
           }
         },
         {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "mixed",
-            "sourceText": "_______________________________________________________",
-            "id": "_______________________________________________________"
-          }
-        },
-        {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "mixed",
-            "sourceText": "_______________________________________________________",
-            "id": "_______________________________________________________"
-          }
-        },
-        {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "mixed",
-            "sourceText": "_______________________________________________________",
-            "id": "_______________________________________________________"
-          }
-        },
-        {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "mixed",
-            "sourceText": "_______________________________________________________",
-            "id": "_______________________________________________________"
-          }
-        },
-        {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "mixed",
-            "sourceText": "_______________________________________________________",
-            "id": "_______________________________________________________"
-          }
-        },
-        {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "mixed",
-            "sourceText": "_______________________________________________________",
-            "id": "_______________________________________________________"
-          }
-        },
-        {
-          "type": "text",
-          "style": "body",
+          "type": "exercise",
+          "role": "content",
           "text": {
             "sourceLanguage": "en",
             "sourceText": "To Download the audio files, please click here.",
@@ -4659,19 +4350,21 @@
         {
           "type": "image",
           "path": "assets/cd.jpg"
-        },
+        }
+      ],
+      "id": "lesson-11-35-iii-writing-practice"
+    },
+    {
+      "type": "EXERCISES",
+      "title": {
+        "sourceLanguage": "mixed",
+        "sourceText": "IV. Listening Practice",
+        "id": "IV. Latihan Menyimak"
+      },
+      "blocks": [
         {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "mixed",
-            "sourceText": "IV. Listening Practice",
-            "id": "IV. Latihan Menyimak"
-          }
-        },
-        {
-          "type": "text",
-          "style": "body",
+          "type": "exercise",
+          "role": "instruction",
           "text": {
             "sourceLanguage": "en",
             "sourceText": "Using the Bonus Material of the book, listen to audio file (11–2) and answer the following questions. Circle Oo if the answer is true and Hindi if it is false. Stop and repeat the audio clip as necessary for better comprehension.",
@@ -4679,7 +4372,8 @@
           }
         },
         {
-          "type": "table",
+          "type": "exercise",
+          "role": "worksheet",
           "rows": [
             {
               "cells": [
@@ -4808,7 +4502,33 @@
             }
           ]
         }
-      ]
+      ],
+      "id": "lesson-11-36-iv-listening-practice"
     }
-  ]
+  ],
+  "structureVersion": 2,
+  "contentAudit": {
+    "sourceTextItemsBefore": 568,
+    "sourceTextItemsAfter": 547,
+    "uniqueSourceItemsPreserved": 447,
+    "duplicateHeadingsRemoved": 4,
+    "blankFragmentsRemoved": 19,
+    "sectionTypes": {
+      "EXAMPLES": 9,
+      "EXERCISES": 8,
+      "INTRODUCTION": 1,
+      "LEARNING_MATERIAL": 17,
+      "VOCABULARY": 1
+    },
+    "blockTypes": {
+      "example": 23,
+      "exercise": 44,
+      "image": 16,
+      "list": 2,
+      "table": 17,
+      "text": 53,
+      "vocabulary": 6
+    },
+    "duplicateBlocksRemoved": 1
+  }
 }

@@ -17,12 +17,12 @@
     {
       "sourceLanguage": "en",
       "sourceText": "• Describe specific location of an object",
-      "id": "Jelaskan lokasi spesifik dari sebuah objek"
+      "id": "• Menjelaskan letak spesifik suatu benda"
     },
     {
       "sourceLanguage": "en",
       "sourceText": "• List the different objects in the house",
-      "id": "Daftar objek yang berbeda di rumah"
+      "id": "• Menyebutkan berbagai benda di rumah"
     }
   ],
   "source": {
@@ -39,288 +39,169 @@
   ],
   "sections": [
     {
-      "id": "lesson-10-overview",
-      "type": "OVERVIEW",
+      "type": "INTRODUCTION",
       "title": {
-        "sourceLanguage": "mixed",
-        "sourceText": "Overview",
-        "id": "Gambaran Umum"
+        "sourceLanguage": "en",
+        "sourceText": "An Overview of Lesson 10",
+        "id": "Pengantar Pelajaran 10"
       },
       "blocks": [
         {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "en",
-            "sourceText": "An Overview of Lesson 10",
-            "id": "Gambaran Umum Pelajaran 10"
-          }
+          "type": "list",
+          "style": "objectives",
+          "items": [
+            {
+              "sourceLanguage": "en",
+              "sourceText": "• Describe specific location of an object",
+              "id": "• Menjelaskan letak spesifik suatu benda"
+            },
+            {
+              "sourceLanguage": "en",
+              "sourceText": "• List the different objects in the house",
+              "id": "• Menyebutkan berbagai benda di rumah"
+            }
+          ]
         },
         {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "mixed",
-            "sourceText": "Objectives",
-            "id": "Objeksi"
-          }
-        },
-        {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "en",
-            "sourceText": "• Describe specific location of an object",
-            "id": "Jelaskan lokasi spesifik dari sebuah objek"
-          }
-        },
-        {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "en",
-            "sourceText": "• List the different objects in the house",
-            "id": "Daftar objek yang berbeda di rumah"
-          }
-        },
-        {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "mixed",
-            "sourceText": "Vocabulary",
-            "id": "Kosakata"
-          }
-        },
-        {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "en",
-            "sourceText": "• Things in the House",
-            "id": "Hal-hal di Rumah"
-          }
-        },
-        {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "mixed",
-            "sourceText": "• Adjectives",
-            "id": "Advances"
-          }
-        },
-        {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "mixed",
-            "sourceText": "• Spatial Location Words",
-            "id": "Kata-kata Lokasi Spasial:"
-          }
-        },
-        {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "mixed",
-            "sourceText": "• Pronouns",
-            "id": "Pronouns"
-          }
-        },
-        {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "mixed",
-            "sourceText": "• Adverbs",
-            "id": "Adverbs"
-          }
-        },
-        {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "mixed",
-            "sourceText": "• Idoims and Expressions",
-            "id": "Idoims dan Expressions"
-          }
-        },
-        {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "mixed",
-            "sourceText": "Dialogue: Ito ang Bahay Ko This Is My House",
-            "id": "Dialog: Ito ang Bahay Ko Ini adalah Rumah saya"
-          }
-        },
-        {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "mixed",
-            "sourceText": "Dialogue Comprehension",
-            "id": "Pemahaman Dialog"
-          }
-        },
-        {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "mixed",
-            "sourceText": "Activities",
-            "id": "Aktivitas"
-          }
-        },
-        {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "mixed",
-            "sourceText": "Activity 1: My House",
-            "id": "Activity 1:"
-          }
-        },
-        {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "mixed",
-            "sourceText": "Activity 2: My Bedroom",
-            "id": "Aktivitas 2: kamar tidurku"
-          }
-        },
-        {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "en",
-            "sourceText": "Activity 3: Where Is the . . . ?",
-            "id": "Aktivitas 3: dimana..?"
-          }
-        },
-        {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "mixed",
-            "sourceText": "Grammar",
-            "id": "Tata Bahasa"
-          }
-        },
-        {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "en",
-            "sourceText": "Definition of Terms: Prepositions and Prepositional Phrase",
-            "id": "Definisi Terms: Preposisi dan Frase Preposisi"
-          }
-        },
-        {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "mixed",
-            "sourceText": "Examining Form",
-            "id": "Mengkaji Bentuk"
-          }
-        },
-        {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "en",
-            "sourceText": "I. Spatial Location Words",
-            "id": "I. Spasial Lokasi Kata-kata"
-          }
-        },
-        {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "mixed",
-            "sourceText": "Grammar Presentation:",
-            "id": "Penyajian Tata Bahasa: "
-          }
-        },
-        {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "en",
-            "sourceText": "A. Nasa and Spatial Location Words",
-            "id": "A. Nasa dan Spasial Lokasi Kata"
-          }
-        },
-        {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "en",
-            "sourceText": "B. Sa and Spatial Location Words",
-            "id": "B. Sa dan Spasial Lokasi Kata"
-          }
-        },
-        {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "mixed",
-            "sourceText": "Grammar Notes",
-            "id": "Catatan Tata Bahasa"
-          }
-        },
-        {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "mixed",
-            "sourceText": "Practice",
-            "id": "Latihan"
-          }
-        },
-        {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "en",
-            "sourceText": "I. Speaking Practice",
-            "id": "I. Latihan Berbicara"
-          }
-        },
-        {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "mixed",
-            "sourceText": "II. Reading Practice",
-            "id": "II. Latihan Membaca"
-          }
-        },
-        {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "mixed",
-            "sourceText": "III. Writing Practice",
-            "id": "III. Latihan Menulis"
-          }
-        },
-        {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "mixed",
-            "sourceText": "IV. Listening Practice",
-            "id": "IV. Latihan Menyimak"
-          }
+          "type": "list",
+          "style": "outline",
+          "items": [
+            {
+              "sourceLanguage": "mixed",
+              "sourceText": "Vocabulary",
+              "id": "Kosakata"
+            },
+            {
+              "sourceLanguage": "en",
+              "sourceText": "• Things in the House",
+              "id": "Hal-hal di Rumah"
+            },
+            {
+              "sourceLanguage": "mixed",
+              "sourceText": "• Adjectives",
+              "id": "Advances"
+            },
+            {
+              "sourceLanguage": "mixed",
+              "sourceText": "• Spatial Location Words",
+              "id": "Kata-kata Lokasi Spasial:"
+            },
+            {
+              "sourceLanguage": "mixed",
+              "sourceText": "• Pronouns",
+              "id": "Pronouns"
+            },
+            {
+              "sourceLanguage": "mixed",
+              "sourceText": "• Adverbs",
+              "id": "Adverbs"
+            },
+            {
+              "sourceLanguage": "mixed",
+              "sourceText": "• Idoims and Expressions",
+              "id": "Idoims dan Expressions"
+            },
+            {
+              "sourceLanguage": "mixed",
+              "sourceText": "Dialogue: Ito ang Bahay Ko This Is My House",
+              "id": "Dialog: Ito ang Bahay Ko Ini adalah Rumah saya"
+            },
+            {
+              "sourceLanguage": "mixed",
+              "sourceText": "Dialogue Comprehension",
+              "id": "Pemahaman Dialog"
+            },
+            {
+              "sourceLanguage": "mixed",
+              "sourceText": "Activities",
+              "id": "Aktivitas"
+            },
+            {
+              "sourceLanguage": "mixed",
+              "sourceText": "Activity 1: My House",
+              "id": "Activity 1:"
+            },
+            {
+              "sourceLanguage": "mixed",
+              "sourceText": "Activity 2: My Bedroom",
+              "id": "Aktivitas 2: kamar tidurku"
+            },
+            {
+              "sourceLanguage": "en",
+              "sourceText": "Activity 3: Where Is the . . . ?",
+              "id": "Aktivitas 3: dimana..?"
+            },
+            {
+              "sourceLanguage": "mixed",
+              "sourceText": "Grammar",
+              "id": "Tata Bahasa"
+            },
+            {
+              "sourceLanguage": "en",
+              "sourceText": "Definition of Terms: Prepositions and Prepositional Phrase",
+              "id": "Definisi Terms: Preposisi dan Frase Preposisi"
+            },
+            {
+              "sourceLanguage": "mixed",
+              "sourceText": "Examining Form",
+              "id": "Mengkaji Bentuk"
+            },
+            {
+              "sourceLanguage": "en",
+              "sourceText": "I. Spatial Location Words",
+              "id": "I. Spasial Lokasi Kata-kata"
+            },
+            {
+              "sourceLanguage": "mixed",
+              "sourceText": "Grammar Presentation:",
+              "id": "Penyajian Tata Bahasa: "
+            },
+            {
+              "sourceLanguage": "en",
+              "sourceText": "A. Nasa and Spatial Location Words",
+              "id": "A. Nasa dan Spasial Lokasi Kata"
+            },
+            {
+              "sourceLanguage": "en",
+              "sourceText": "B. Sa and Spatial Location Words",
+              "id": "B. Sa dan Spasial Lokasi Kata"
+            },
+            {
+              "sourceLanguage": "mixed",
+              "sourceText": "Grammar Notes",
+              "id": "Catatan Tata Bahasa"
+            },
+            {
+              "sourceLanguage": "mixed",
+              "sourceText": "Practice",
+              "id": "Latihan"
+            },
+            {
+              "sourceLanguage": "en",
+              "sourceText": "I. Speaking Practice",
+              "id": "I. Latihan Berbicara"
+            },
+            {
+              "sourceLanguage": "mixed",
+              "sourceText": "II. Reading Practice",
+              "id": "II. Latihan Membaca"
+            },
+            {
+              "sourceLanguage": "mixed",
+              "sourceText": "III. Writing Practice",
+              "id": "III. Latihan Menulis"
+            },
+            {
+              "sourceLanguage": "mixed",
+              "sourceText": "IV. Listening Practice",
+              "id": "IV. Latihan Menyimak"
+            }
+          ]
         }
-      ]
+      ],
+      "id": "lesson-10-01-an-overview-of-lesson-10"
     },
     {
-      "id": "lesson-10-vocabulary",
       "type": "VOCABULARY",
       "title": {
         "sourceLanguage": "mixed",
@@ -330,7 +211,7 @@
       "blocks": [
         {
           "type": "text",
-          "style": "body",
+          "style": "heading",
           "text": {
             "sourceLanguage": "mixed",
             "sourceText": "Vocabulary (10–1)",
@@ -351,1362 +232,1191 @@
           }
         },
         {
-          "type": "table",
-          "rows": [
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "Things around the House",
-                  "id": "Hal-hal di sekitar Rumah"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "aircon",
-                  "id": "AC",
-                  "tagalog": "aircon"
-                },
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "air conditioner",
-                  "id": "AC"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "aparador",
-                  "id": "lemari",
-                  "tagalog": "aparador"
-                },
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "closet",
-                  "id": "lemari"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "bangko",
-                  "id": "bangku, bangku",
-                  "tagalog": "bangko"
-                },
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "bench, stool",
-                  "id": "bangku, bangku"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "banig",
-                  "id": "tikar",
-                  "tagalog": "banig"
-                },
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "mat",
-                  "id": "tikar"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "basurahan",
-                  "id": "tong sampah atau wadah sampah",
-                  "tagalog": "basurahan"
-                },
-                {
-                  "sourceLanguage": "en",
-                  "sourceText": "trash can or garbage container",
-                  "id": "tong sampah atau wadah sampah"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "bentilador",
-                  "id": "fan elektrik",
-                  "tagalog": "bentilador"
-                },
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "electric fan",
-                  "id": "fan elektrik"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "bintana",
-                  "id": "jendela",
-                  "tagalog": "bintana"
-                },
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "window",
-                  "id": "jendela"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "bunggalo",
-                  "id": "bungalow",
-                  "tagalog": "bunggalo"
-                },
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "bungalow",
-                  "id": "bungalow"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "dingding",
-                  "id": "dinding",
-                  "tagalog": "dingding"
-                },
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "wall",
-                  "id": "dinding"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "hagdan",
-                  "id": "tangga",
-                  "tagalog": "hagdan"
-                },
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "stair",
-                  "id": "tangga"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "ilaw",
-                  "id": "lampu",
-                  "tagalog": "ilaw"
-                },
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "light, lamp",
-                  "id": "lampu"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "kabinet",
-                  "id": "kabinet",
-                  "tagalog": "kabinet"
-                },
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "cabinet",
-                  "id": "kabinet"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "kalan",
-                  "id": "kompor",
-                  "tagalog": "kalan"
-                },
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "stove",
-                  "id": "kompor"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "kama",
-                  "id": "tempat tidur",
-                  "tagalog": "kama"
-                },
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "bed",
-                  "id": "tempat tidur"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "kubo",
-                  "id": "hut",
-                  "tagalog": "kubo"
-                },
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "hut",
-                  "id": "hut"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "kubrekama",
-                  "id": "spread tempat tidur",
-                  "tagalog": "kubrekama"
-                },
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "bed spread",
-                  "id": "spread tempat tidur"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "kulambo",
-                  "id": "kelambu",
-                  "tagalog": "kulambo"
-                },
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "mosquito net",
-                  "id": "kelambu"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "kumot",
-                  "id": "selimut",
-                  "tagalog": "kumot"
-                },
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "blanket",
-                  "id": "selimut"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "kurtina",
-                  "id": "tirai",
-                  "tagalog": "kurtina"
-                },
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "curtain",
-                  "id": "tirai"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "kuwadro",
-                  "id": "bingkai",
-                  "tagalog": "kuwadro"
-                },
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "frame",
-                  "id": "bingkai"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "halaman",
-                  "id": "tanaman",
-                  "tagalog": "halaman"
-                },
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "plant",
-                  "id": "tanaman"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "lampara, ilaw",
-                  "id": "lampu",
-                  "tagalog": "lampara, ilaw"
-                },
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "lamp",
-                  "id": "lampu"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "libro",
-                  "id": "buku",
-                  "tagalog": "libro"
-                },
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "book",
-                  "id": "buku"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "litrato",
-                  "id": "gambar, foto",
-                  "tagalog": "litrato"
-                },
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "picture, photo",
-                  "id": "gambar, foto"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "mesa",
-                  "id": "tabel",
-                  "tagalog": "mesa"
-                },
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "table",
-                  "id": "tabel"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "orasan",
-                  "id": "jam",
-                  "tagalog": "orasan"
-                },
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "clock",
-                  "id": "jam"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "plorera",
-                  "id": "vas bunga",
-                  "tagalog": "plorera"
-                },
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "flower vase",
-                  "id": "vas bunga"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "puno",
-                  "id": "pohon",
-                  "tagalog": "puno"
-                },
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "tree",
-                  "id": "pohon"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "radyo",
-                  "id": "radio",
-                  "tagalog": "radyo"
-                },
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "radio",
-                  "id": "radio"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "rep, pridyeder",
-                  "id": "kulkas",
-                  "tagalog": "rep, pridyeder"
-                },
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "refrigerator",
-                  "id": "kulkas"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "salamin",
-                  "id": "cermin",
-                  "tagalog": "salamin"
-                },
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "mirror",
-                  "id": "cermin"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "silya",
-                  "id": "kursi",
-                  "tagalog": "silya"
-                },
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "chair",
-                  "id": "kursi"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "sopa",
-                  "id": "sofa, sofa",
-                  "tagalog": "sopa"
-                },
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "sofa, couch",
-                  "id": "sofa, sofa"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "tabo",
-                  "id": "Dipper air",
-                  "tagalog": "tabo"
-                },
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "water dipper",
-                  "id": "Dipper air"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "tokador",
-                  "id": "dresser",
-                  "tagalog": "tokador"
-                },
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "dresser",
-                  "id": "dresser"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "unan",
-                  "id": "bantal",
-                  "tagalog": "unan"
-                },
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "pillow",
-                  "id": "bantal"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "up-and-down",
-                  "id": "Rumah dua lantai.",
-                  "tagalog": "up-and-down"
-                },
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "two-story house",
-                  "id": "Rumah dua lantai."
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "walis",
-                  "id": "sapu",
-                  "tagalog": "walis"
-                },
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "broom",
-                  "id": "sapu"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "Adjectives",
-                  "id": "Kata sifat"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "kakaiba",
-                  "id": "tidak biasa",
-                  "tagalog": "kakaiba"
-                },
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "unusual",
-                  "id": "tidak biasa"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "komportable",
-                  "id": "nyaman",
-                  "tagalog": "komportable"
-                },
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "comfortable",
-                  "id": "nyaman"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "pahaba",
-                  "id": "memanjang",
-                  "tagalog": "pahaba"
-                },
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "elongated",
-                  "id": "memanjang"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "pakuwadrado",
-                  "id": "kuadrat",
-                  "tagalog": "pakuwadrado"
-                },
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "squared",
-                  "id": "kuadrat"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "pabilog",
-                  "id": "melingkar",
-                  "tagalog": "pabilog"
-                },
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "circular",
-                  "id": "melingkar"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "mababa",
-                  "id": "pendek (tinggi)",
-                  "tagalog": "mababa"
-                },
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "short (height)",
-                  "id": "pendek (tinggi)"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "madilim",
-                  "id": "gelap",
-                  "tagalog": "madilim"
-                },
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "dark",
-                  "id": "gelap"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "makaluma",
-                  "id": "tradisional",
-                  "tagalog": "makaluma"
-                },
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "traditional",
-                  "id": "tradisional"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "mahaba",
-                  "id": "panjang",
-                  "tagalog": "mahaba"
-                },
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "long",
-                  "id": "panjang"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "mainit",
-                  "id": "panas",
-                  "tagalog": "mainit"
-                },
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "hot",
-                  "id": "panas"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "maingay",
-                  "id": "keras",
-                  "tagalog": "maingay"
-                },
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "loud",
-                  "id": "keras"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "maikli",
-                  "id": "pendek (panjang)",
-                  "tagalog": "maikli"
-                },
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "short (length)",
-                  "id": "pendek (panjang)"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "magulo",
-                  "id": "berantakan",
-                  "tagalog": "magulo"
-                },
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "messy",
-                  "id": "berantakan"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "malaki",
-                  "id": "besar",
-                  "tagalog": "malaki"
-                },
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "big",
-                  "id": "besar"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "malamig",
-                  "id": "dingin",
-                  "tagalog": "malamig"
-                },
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "cold",
-                  "id": "dingin"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "maliit",
-                  "id": "kecil",
-                  "tagalog": "maliit"
-                },
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "small",
-                  "id": "kecil"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "maliwanag",
-                  "id": "terang",
-                  "tagalog": "maliwanag"
-                },
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "bright",
-                  "id": "terang"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "maluwang",
-                  "id": "luas",
-                  "tagalog": "maluwang"
-                },
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "spacious",
-                  "id": "luas"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "mataas",
-                  "id": "tinggi",
-                  "tagalog": "mataas"
-                },
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "tall",
-                  "id": "tinggi"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "masikip",
-                  "id": "kram",
-                  "tagalog": "masikip"
-                },
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "cramped",
-                  "id": "kram"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "moderno",
-                  "id": "modern",
-                  "tagalog": "moderno"
-                },
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "modern",
-                  "id": "modern"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "sira",
-                  "id": "rusak",
-                  "tagalog": "sira"
-                },
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "broken",
-                  "id": "rusak"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "sira-sira",
-                  "id": "bobrok",
-                  "tagalog": "sira-sira"
-                },
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "dilapidated",
-                  "id": "bobrok"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "tahimik",
-                  "id": "tenang",
-                  "tagalog": "tahimik"
-                },
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "quiet",
-                  "id": "tenang"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "walang laman",
-                  "id": "kosong",
-                  "tagalog": "walang laman"
-                },
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "empty",
-                  "id": "kosong"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "Spatial Location Words",
-                  "id": "Kata-kata Lokasi Spasial"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "gitna",
-                  "id": "di antara",
-                  "tagalog": "gitna"
-                },
-                {
-                  "sourceLanguage": "en",
-                  "sourceText": "in between",
-                  "id": "di antara"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "harap",
-                  "id": "di depan",
-                  "tagalog": "harap"
-                },
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "in front",
-                  "id": "di depan"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "ibaba",
-                  "id": "lantai bawah, di bawah",
-                  "tagalog": "ibaba"
-                },
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "downstairs, below",
-                  "id": "lantai bawah, di bawah"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "ibabaw",
-                  "id": "di atas",
-                  "tagalog": "ibabaw"
-                },
-                {
-                  "sourceLanguage": "en",
-                  "sourceText": "on top of",
-                  "id": "di atas"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "ilalim",
-                  "id": "di bawah",
-                  "tagalog": "ilalim"
-                },
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "under",
-                  "id": "di bawah"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "itaas",
-                  "id": "di atas, di atas",
-                  "tagalog": "itaas"
-                },
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "upstairs, above",
-                  "id": "di atas, di atas"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "kaliwa",
-                  "id": "kiri",
-                  "tagalog": "kaliwa"
-                },
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "left",
-                  "id": "kiri"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "kanan",
-                  "id": "kanan",
-                  "tagalog": "kanan"
-                },
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "right",
-                  "id": "kanan"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "kanto",
-                  "id": "pojok",
-                  "tagalog": "kanto"
-                },
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "corner",
-                  "id": "pojok"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "labas",
-                  "id": "luar",
-                  "tagalog": "labas"
-                },
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "outside",
-                  "id": "luar"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "likod",
-                  "id": "belakang",
-                  "tagalog": "likod"
-                },
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "behind",
-                  "id": "belakang"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "loob",
-                  "id": "di dalam",
-                  "tagalog": "loob"
-                },
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "inside",
-                  "id": "di dalam"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "tabi",
-                  "id": "sebelah",
-                  "tagalog": "tabi"
-                },
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "next to",
-                  "id": "sebelah"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "tapat",
-                  "id": "di seluruh",
-                  "tagalog": "tapat"
-                },
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "across",
-                  "id": "di seluruh"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "Pronouns",
-                  "id": "Pronouns"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "Ilan",
-                  "id": "berapa banyak",
-                  "tagalog": "Ilan"
-                },
-                {
-                  "sourceLanguage": "en",
-                  "sourceText": "how many",
-                  "id": "berapa banyak"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "Adverbs",
-                  "id": "Adverbs"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "banda",
-                  "id": "ke arah atau ke arah (arah) suatu waktu?",
-                  "tagalog": "banda"
-                },
-                {
-                  "sourceLanguage": "en",
-                  "sourceText": "direction, toward or towards; at about a certain time",
-                  "id": "ke arah atau ke arah (arah) suatu waktu?"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "Idioms and Expressions",
-                  "id": "Idiom and Expressions"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "Akin na lang ang . . . ?",
-                  "id": "Dapatkah saya memiliki..?",
-                  "tagalog": "Akin na lang ang . . . ?"
-                },
-                {
-                  "sourceLanguage": "en",
-                  "sourceText": "Can I have . . . ?",
-                  "id": "Dapatkah saya memiliki..?"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "Pasensya ka na.",
-                  "id": "Maafkan aku.",
-                  "tagalog": "Pasensya ka na."
-                },
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "I’m sorry.",
-                  "id": "Maafkan aku."
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "Magulo dito.",
-                  "id": "Ini berantakan di sini.",
-                  "tagalog": "Magulo dito."
-                },
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "It’s messy here.",
-                  "id": "Ini berantakan di sini."
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "mula sa",
-                  "id": "dari",
-                  "tagalog": "mula sa"
-                },
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "from",
-                  "id": "dari"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "Saan mo nabili ito?",
-                  "id": "Di mana kau membeli ini?",
-                  "tagalog": "Saan mo nabili ito?"
-                },
-                {
-                  "sourceLanguage": "en",
-                  "sourceText": "Where did you buy this?",
-                  "id": "Di mana kau membeli ini?"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "Teka, tingnan mo ang . . .",
-                  "id": "Tunggu, lihat..",
-                  "tagalog": "Teka, tingnan mo ang . . ."
-                },
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "Wait, look at . . .",
-                  "id": "Tunggu, lihat.."
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "Tuloy ka.",
-                  "id": "Masuklah.",
-                  "tagalog": "Tuloy ka."
-                },
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "Come in.",
-                  "id": "Masuklah."
-                }
-              ]
+          "type": "vocabulary",
+          "entries": [
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "aircon",
+                "id": "AC",
+                "tagalog": "aircon"
+              },
+              "meaning": {
+                "sourceLanguage": "mixed",
+                "sourceText": "air conditioner",
+                "id": "AC"
+              }
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "aparador",
+                "id": "lemari",
+                "tagalog": "aparador"
+              },
+              "meaning": {
+                "sourceLanguage": "mixed",
+                "sourceText": "closet",
+                "id": "lemari"
+              }
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "bangko",
+                "id": "bangku, bangku",
+                "tagalog": "bangko"
+              },
+              "meaning": {
+                "sourceLanguage": "mixed",
+                "sourceText": "bench, stool",
+                "id": "bangku, bangku"
+              }
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "banig",
+                "id": "tikar",
+                "tagalog": "banig"
+              },
+              "meaning": {
+                "sourceLanguage": "mixed",
+                "sourceText": "mat",
+                "id": "tikar"
+              }
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "basurahan",
+                "id": "tong sampah atau wadah sampah",
+                "tagalog": "basurahan"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "trash can or garbage container",
+                "id": "tong sampah atau wadah sampah"
+              }
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "bentilador",
+                "id": "fan elektrik",
+                "tagalog": "bentilador"
+              },
+              "meaning": {
+                "sourceLanguage": "mixed",
+                "sourceText": "electric fan",
+                "id": "fan elektrik"
+              }
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "bintana",
+                "id": "jendela",
+                "tagalog": "bintana"
+              },
+              "meaning": {
+                "sourceLanguage": "mixed",
+                "sourceText": "window",
+                "id": "jendela"
+              }
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "bunggalo",
+                "id": "bungalow",
+                "tagalog": "bunggalo"
+              },
+              "meaning": {
+                "sourceLanguage": "mixed",
+                "sourceText": "bungalow",
+                "id": "bungalow"
+              }
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "dingding",
+                "id": "dinding",
+                "tagalog": "dingding"
+              },
+              "meaning": {
+                "sourceLanguage": "mixed",
+                "sourceText": "wall",
+                "id": "dinding"
+              }
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "hagdan",
+                "id": "tangga",
+                "tagalog": "hagdan"
+              },
+              "meaning": {
+                "sourceLanguage": "mixed",
+                "sourceText": "stair",
+                "id": "tangga"
+              }
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "ilaw",
+                "id": "lampu",
+                "tagalog": "ilaw"
+              },
+              "meaning": {
+                "sourceLanguage": "mixed",
+                "sourceText": "light, lamp",
+                "id": "lampu"
+              }
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "kabinet",
+                "id": "kabinet",
+                "tagalog": "kabinet"
+              },
+              "meaning": {
+                "sourceLanguage": "mixed",
+                "sourceText": "cabinet",
+                "id": "kabinet"
+              }
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "kalan",
+                "id": "kompor",
+                "tagalog": "kalan"
+              },
+              "meaning": {
+                "sourceLanguage": "mixed",
+                "sourceText": "stove",
+                "id": "kompor"
+              }
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "kama",
+                "id": "tempat tidur",
+                "tagalog": "kama"
+              },
+              "meaning": {
+                "sourceLanguage": "mixed",
+                "sourceText": "bed",
+                "id": "tempat tidur"
+              }
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "kubo",
+                "id": "hut",
+                "tagalog": "kubo"
+              },
+              "meaning": {
+                "sourceLanguage": "mixed",
+                "sourceText": "hut",
+                "id": "hut"
+              }
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "kubrekama",
+                "id": "spread tempat tidur",
+                "tagalog": "kubrekama"
+              },
+              "meaning": {
+                "sourceLanguage": "mixed",
+                "sourceText": "bed spread",
+                "id": "spread tempat tidur"
+              }
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "kulambo",
+                "id": "kelambu",
+                "tagalog": "kulambo"
+              },
+              "meaning": {
+                "sourceLanguage": "mixed",
+                "sourceText": "mosquito net",
+                "id": "kelambu"
+              }
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "kumot",
+                "id": "selimut",
+                "tagalog": "kumot"
+              },
+              "meaning": {
+                "sourceLanguage": "mixed",
+                "sourceText": "blanket",
+                "id": "selimut"
+              }
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "kurtina",
+                "id": "tirai",
+                "tagalog": "kurtina"
+              },
+              "meaning": {
+                "sourceLanguage": "mixed",
+                "sourceText": "curtain",
+                "id": "tirai"
+              }
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "kuwadro",
+                "id": "bingkai",
+                "tagalog": "kuwadro"
+              },
+              "meaning": {
+                "sourceLanguage": "mixed",
+                "sourceText": "frame",
+                "id": "bingkai"
+              }
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "halaman",
+                "id": "tanaman",
+                "tagalog": "halaman"
+              },
+              "meaning": {
+                "sourceLanguage": "mixed",
+                "sourceText": "plant",
+                "id": "tanaman"
+              }
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "lampara, ilaw",
+                "id": "lampu",
+                "tagalog": "lampara, ilaw"
+              },
+              "meaning": {
+                "sourceLanguage": "mixed",
+                "sourceText": "lamp",
+                "id": "lampu"
+              }
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "libro",
+                "id": "buku",
+                "tagalog": "libro"
+              },
+              "meaning": {
+                "sourceLanguage": "mixed",
+                "sourceText": "book",
+                "id": "buku"
+              }
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "litrato",
+                "id": "gambar, foto",
+                "tagalog": "litrato"
+              },
+              "meaning": {
+                "sourceLanguage": "mixed",
+                "sourceText": "picture, photo",
+                "id": "gambar, foto"
+              }
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "mesa",
+                "id": "tabel",
+                "tagalog": "mesa"
+              },
+              "meaning": {
+                "sourceLanguage": "mixed",
+                "sourceText": "table",
+                "id": "tabel"
+              }
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "orasan",
+                "id": "jam",
+                "tagalog": "orasan"
+              },
+              "meaning": {
+                "sourceLanguage": "mixed",
+                "sourceText": "clock",
+                "id": "jam"
+              }
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "plorera",
+                "id": "vas bunga",
+                "tagalog": "plorera"
+              },
+              "meaning": {
+                "sourceLanguage": "mixed",
+                "sourceText": "flower vase",
+                "id": "vas bunga"
+              }
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "puno",
+                "id": "pohon",
+                "tagalog": "puno"
+              },
+              "meaning": {
+                "sourceLanguage": "mixed",
+                "sourceText": "tree",
+                "id": "pohon"
+              }
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "radyo",
+                "id": "radio",
+                "tagalog": "radyo"
+              },
+              "meaning": {
+                "sourceLanguage": "mixed",
+                "sourceText": "radio",
+                "id": "radio"
+              }
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "rep, pridyeder",
+                "id": "kulkas",
+                "tagalog": "rep, pridyeder"
+              },
+              "meaning": {
+                "sourceLanguage": "mixed",
+                "sourceText": "refrigerator",
+                "id": "kulkas"
+              }
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "salamin",
+                "id": "cermin",
+                "tagalog": "salamin"
+              },
+              "meaning": {
+                "sourceLanguage": "mixed",
+                "sourceText": "mirror",
+                "id": "cermin"
+              }
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "silya",
+                "id": "kursi",
+                "tagalog": "silya"
+              },
+              "meaning": {
+                "sourceLanguage": "mixed",
+                "sourceText": "chair",
+                "id": "kursi"
+              }
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "sopa",
+                "id": "sofa, sofa",
+                "tagalog": "sopa"
+              },
+              "meaning": {
+                "sourceLanguage": "mixed",
+                "sourceText": "sofa, couch",
+                "id": "sofa, sofa"
+              }
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "tabo",
+                "id": "Dipper air",
+                "tagalog": "tabo"
+              },
+              "meaning": {
+                "sourceLanguage": "mixed",
+                "sourceText": "water dipper",
+                "id": "Dipper air"
+              }
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "tokador",
+                "id": "dresser",
+                "tagalog": "tokador"
+              },
+              "meaning": {
+                "sourceLanguage": "mixed",
+                "sourceText": "dresser",
+                "id": "dresser"
+              }
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "unan",
+                "id": "bantal",
+                "tagalog": "unan"
+              },
+              "meaning": {
+                "sourceLanguage": "mixed",
+                "sourceText": "pillow",
+                "id": "bantal"
+              }
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "up-and-down",
+                "id": "Rumah dua lantai.",
+                "tagalog": "up-and-down"
+              },
+              "meaning": {
+                "sourceLanguage": "mixed",
+                "sourceText": "two-story house",
+                "id": "Rumah dua lantai."
+              }
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "walis",
+                "id": "sapu",
+                "tagalog": "walis"
+              },
+              "meaning": {
+                "sourceLanguage": "mixed",
+                "sourceText": "broom",
+                "id": "sapu"
+              }
             }
-          ]
+          ],
+          "title": {
+            "sourceLanguage": "mixed",
+            "sourceText": "Things around the House",
+            "id": "Hal-hal di sekitar Rumah"
+          }
+        },
+        {
+          "type": "vocabulary",
+          "entries": [
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "kakaiba",
+                "id": "tidak biasa",
+                "tagalog": "kakaiba"
+              },
+              "meaning": {
+                "sourceLanguage": "mixed",
+                "sourceText": "unusual",
+                "id": "tidak biasa"
+              }
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "komportable",
+                "id": "nyaman",
+                "tagalog": "komportable"
+              },
+              "meaning": {
+                "sourceLanguage": "mixed",
+                "sourceText": "comfortable",
+                "id": "nyaman"
+              }
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "pahaba",
+                "id": "memanjang",
+                "tagalog": "pahaba"
+              },
+              "meaning": {
+                "sourceLanguage": "mixed",
+                "sourceText": "elongated",
+                "id": "memanjang"
+              }
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "pakuwadrado",
+                "id": "kuadrat",
+                "tagalog": "pakuwadrado"
+              },
+              "meaning": {
+                "sourceLanguage": "mixed",
+                "sourceText": "squared",
+                "id": "kuadrat"
+              }
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "pabilog",
+                "id": "melingkar",
+                "tagalog": "pabilog"
+              },
+              "meaning": {
+                "sourceLanguage": "mixed",
+                "sourceText": "circular",
+                "id": "melingkar"
+              }
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "mababa",
+                "id": "pendek (tinggi)",
+                "tagalog": "mababa"
+              },
+              "meaning": {
+                "sourceLanguage": "mixed",
+                "sourceText": "short (height)",
+                "id": "pendek (tinggi)"
+              }
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "madilim",
+                "id": "gelap",
+                "tagalog": "madilim"
+              },
+              "meaning": {
+                "sourceLanguage": "mixed",
+                "sourceText": "dark",
+                "id": "gelap"
+              }
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "makaluma",
+                "id": "tradisional",
+                "tagalog": "makaluma"
+              },
+              "meaning": {
+                "sourceLanguage": "mixed",
+                "sourceText": "traditional",
+                "id": "tradisional"
+              }
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "mahaba",
+                "id": "panjang",
+                "tagalog": "mahaba"
+              },
+              "meaning": {
+                "sourceLanguage": "mixed",
+                "sourceText": "long",
+                "id": "panjang"
+              }
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "mainit",
+                "id": "panas",
+                "tagalog": "mainit"
+              },
+              "meaning": {
+                "sourceLanguage": "mixed",
+                "sourceText": "hot",
+                "id": "panas"
+              }
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "maingay",
+                "id": "keras",
+                "tagalog": "maingay"
+              },
+              "meaning": {
+                "sourceLanguage": "mixed",
+                "sourceText": "loud",
+                "id": "keras"
+              }
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "maikli",
+                "id": "pendek (panjang)",
+                "tagalog": "maikli"
+              },
+              "meaning": {
+                "sourceLanguage": "mixed",
+                "sourceText": "short (length)",
+                "id": "pendek (panjang)"
+              }
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "magulo",
+                "id": "berantakan",
+                "tagalog": "magulo"
+              },
+              "meaning": {
+                "sourceLanguage": "mixed",
+                "sourceText": "messy",
+                "id": "berantakan"
+              }
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "malaki",
+                "id": "besar",
+                "tagalog": "malaki"
+              },
+              "meaning": {
+                "sourceLanguage": "mixed",
+                "sourceText": "big",
+                "id": "besar"
+              }
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "malamig",
+                "id": "dingin",
+                "tagalog": "malamig"
+              },
+              "meaning": {
+                "sourceLanguage": "mixed",
+                "sourceText": "cold",
+                "id": "dingin"
+              }
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "maliit",
+                "id": "kecil",
+                "tagalog": "maliit"
+              },
+              "meaning": {
+                "sourceLanguage": "mixed",
+                "sourceText": "small",
+                "id": "kecil"
+              }
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "maliwanag",
+                "id": "terang",
+                "tagalog": "maliwanag"
+              },
+              "meaning": {
+                "sourceLanguage": "mixed",
+                "sourceText": "bright",
+                "id": "terang"
+              }
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "maluwang",
+                "id": "luas",
+                "tagalog": "maluwang"
+              },
+              "meaning": {
+                "sourceLanguage": "mixed",
+                "sourceText": "spacious",
+                "id": "luas"
+              }
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "mataas",
+                "id": "tinggi",
+                "tagalog": "mataas"
+              },
+              "meaning": {
+                "sourceLanguage": "mixed",
+                "sourceText": "tall",
+                "id": "tinggi"
+              }
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "masikip",
+                "id": "kram",
+                "tagalog": "masikip"
+              },
+              "meaning": {
+                "sourceLanguage": "mixed",
+                "sourceText": "cramped",
+                "id": "kram"
+              }
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "moderno",
+                "id": "modern",
+                "tagalog": "moderno"
+              },
+              "meaning": {
+                "sourceLanguage": "mixed",
+                "sourceText": "modern",
+                "id": "modern"
+              }
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "sira",
+                "id": "rusak",
+                "tagalog": "sira"
+              },
+              "meaning": {
+                "sourceLanguage": "mixed",
+                "sourceText": "broken",
+                "id": "rusak"
+              }
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "sira-sira",
+                "id": "bobrok",
+                "tagalog": "sira-sira"
+              },
+              "meaning": {
+                "sourceLanguage": "mixed",
+                "sourceText": "dilapidated",
+                "id": "bobrok"
+              }
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "tahimik",
+                "id": "tenang",
+                "tagalog": "tahimik"
+              },
+              "meaning": {
+                "sourceLanguage": "mixed",
+                "sourceText": "quiet",
+                "id": "tenang"
+              }
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "walang laman",
+                "id": "kosong",
+                "tagalog": "walang laman"
+              },
+              "meaning": {
+                "sourceLanguage": "mixed",
+                "sourceText": "empty",
+                "id": "kosong"
+              }
+            }
+          ],
+          "title": {
+            "sourceLanguage": "mixed",
+            "sourceText": "Adjectives",
+            "id": "Kata sifat"
+          }
+        },
+        {
+          "type": "vocabulary",
+          "entries": [
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "gitna",
+                "id": "di antara",
+                "tagalog": "gitna"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "in between",
+                "id": "di antara"
+              }
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "harap",
+                "id": "di depan",
+                "tagalog": "harap"
+              },
+              "meaning": {
+                "sourceLanguage": "mixed",
+                "sourceText": "in front",
+                "id": "di depan"
+              }
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "ibaba",
+                "id": "lantai bawah, di bawah",
+                "tagalog": "ibaba"
+              },
+              "meaning": {
+                "sourceLanguage": "mixed",
+                "sourceText": "downstairs, below",
+                "id": "lantai bawah, di bawah"
+              }
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "ibabaw",
+                "id": "di atas",
+                "tagalog": "ibabaw"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "on top of",
+                "id": "di atas"
+              }
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "ilalim",
+                "id": "di bawah",
+                "tagalog": "ilalim"
+              },
+              "meaning": {
+                "sourceLanguage": "mixed",
+                "sourceText": "under",
+                "id": "di bawah"
+              }
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "itaas",
+                "id": "di atas, di atas",
+                "tagalog": "itaas"
+              },
+              "meaning": {
+                "sourceLanguage": "mixed",
+                "sourceText": "upstairs, above",
+                "id": "di atas, di atas"
+              }
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "kaliwa",
+                "id": "kiri",
+                "tagalog": "kaliwa"
+              },
+              "meaning": {
+                "sourceLanguage": "mixed",
+                "sourceText": "left",
+                "id": "kiri"
+              }
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "kanan",
+                "id": "kanan",
+                "tagalog": "kanan"
+              },
+              "meaning": {
+                "sourceLanguage": "mixed",
+                "sourceText": "right",
+                "id": "kanan"
+              }
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "kanto",
+                "id": "pojok",
+                "tagalog": "kanto"
+              },
+              "meaning": {
+                "sourceLanguage": "mixed",
+                "sourceText": "corner",
+                "id": "pojok"
+              }
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "labas",
+                "id": "luar",
+                "tagalog": "labas"
+              },
+              "meaning": {
+                "sourceLanguage": "mixed",
+                "sourceText": "outside",
+                "id": "luar"
+              }
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "likod",
+                "id": "belakang",
+                "tagalog": "likod"
+              },
+              "meaning": {
+                "sourceLanguage": "mixed",
+                "sourceText": "behind",
+                "id": "belakang"
+              }
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "loob",
+                "id": "di dalam",
+                "tagalog": "loob"
+              },
+              "meaning": {
+                "sourceLanguage": "mixed",
+                "sourceText": "inside",
+                "id": "di dalam"
+              }
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "tabi",
+                "id": "sebelah",
+                "tagalog": "tabi"
+              },
+              "meaning": {
+                "sourceLanguage": "mixed",
+                "sourceText": "next to",
+                "id": "sebelah"
+              }
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "tapat",
+                "id": "di seluruh",
+                "tagalog": "tapat"
+              },
+              "meaning": {
+                "sourceLanguage": "mixed",
+                "sourceText": "across",
+                "id": "di seluruh"
+              }
+            }
+          ],
+          "title": {
+            "sourceLanguage": "mixed",
+            "sourceText": "Spatial Location Words",
+            "id": "Kata-kata Lokasi Spasial"
+          }
+        },
+        {
+          "type": "vocabulary",
+          "entries": [
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "Ilan",
+                "id": "berapa banyak",
+                "tagalog": "Ilan"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "how many",
+                "id": "berapa banyak"
+              }
+            }
+          ],
+          "title": {
+            "sourceLanguage": "mixed",
+            "sourceText": "Pronouns",
+            "id": "Kata ganti"
+          }
+        },
+        {
+          "type": "vocabulary",
+          "entries": [
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "banda",
+                "id": "ke arah atau ke arah (arah) suatu waktu?",
+                "tagalog": "banda"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "direction, toward or towards; at about a certain time",
+                "id": "ke arah atau ke arah (arah) suatu waktu?"
+              }
+            }
+          ],
+          "title": {
+            "sourceLanguage": "mixed",
+            "sourceText": "Adverbs",
+            "id": "Kata keterangan"
+          }
+        },
+        {
+          "type": "vocabulary",
+          "entries": [
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "Akin na lang ang . . . ?",
+                "id": "Dapatkah saya memiliki..?",
+                "tagalog": "Akin na lang ang . . . ?"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "Can I have . . . ?",
+                "id": "Dapatkah saya memiliki..?"
+              }
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "Pasensya ka na.",
+                "id": "Maafkan aku.",
+                "tagalog": "Pasensya ka na."
+              },
+              "meaning": {
+                "sourceLanguage": "mixed",
+                "sourceText": "I’m sorry.",
+                "id": "Maafkan aku."
+              }
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "Magulo dito.",
+                "id": "Ini berantakan di sini.",
+                "tagalog": "Magulo dito."
+              },
+              "meaning": {
+                "sourceLanguage": "mixed",
+                "sourceText": "It’s messy here.",
+                "id": "Ini berantakan di sini."
+              }
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "mula sa",
+                "id": "dari",
+                "tagalog": "mula sa"
+              },
+              "meaning": {
+                "sourceLanguage": "mixed",
+                "sourceText": "from",
+                "id": "dari"
+              }
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "Saan mo nabili ito?",
+                "id": "Di mana kau membeli ini?",
+                "tagalog": "Saan mo nabili ito?"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "Where did you buy this?",
+                "id": "Di mana kau membeli ini?"
+              }
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "Teka, tingnan mo ang . . .",
+                "id": "Tunggu, lihat..",
+                "tagalog": "Teka, tingnan mo ang . . ."
+              },
+              "meaning": {
+                "sourceLanguage": "mixed",
+                "sourceText": "Wait, look at . . .",
+                "id": "Tunggu, lihat.."
+              }
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "Tuloy ka.",
+                "id": "Masuklah.",
+                "tagalog": "Tuloy ka."
+              },
+              "meaning": {
+                "sourceLanguage": "mixed",
+                "sourceText": "Come in.",
+                "id": "Masuklah."
+              }
+            }
+          ],
+          "title": {
+            "sourceLanguage": "mixed",
+            "sourceText": "Idioms and Expressions",
+            "id": "Idiom and Expressions"
+          }
         },
         {
           "type": "image",
           "path": "assets/174.jpg"
         }
-      ]
+      ],
+      "id": "lesson-10-02-vocabulary"
     },
     {
-      "id": "lesson-10-dialogue-ito-ang-bahay-ko-this-is-my-house",
       "type": "DIALOGUE",
       "title": {
         "sourceLanguage": "mixed",
@@ -1718,53 +1428,48 @@
           "type": "text",
           "style": "body",
           "text": {
-            "sourceLanguage": "mixed",
-            "sourceText": "Dialogue: Ito ang Bahay Ko This Is My House",
-            "id": "Dialog: Ito ang Bahay Ko Ini adalah Rumah saya"
-          }
-        },
-        {
-          "type": "text",
-          "style": "body",
-          "text": {
             "sourceLanguage": "en",
             "sourceText": "In the dialogue below, Lando is visiting Berto at his apartment. Read their exchange and answer the Dialogue Comprehension questions in Tagalog.",
             "id": "Dalam dialog di bawah ini, Lando mengunjungi Berto di apartemennya. Baca pertukaran mereka dan jawab pertanyaan Komprehensi Dialog di Tagalog."
           }
         },
         {
+          "type": "dialogue",
+          "turns": [
+            {
+              "speaker": "Berto",
+              "speakerText": {
+                "sourceLanguage": "mixed",
+                "sourceText": "Berto:",
+                "id": "Berto:"
+              },
+              "text": {
+                "sourceLanguage": "fil",
+                "sourceText": "O Lando. Tuloy ka! Pasensya ka na at magulo dito ah!",
+                "id": "Oh Lando, kau gila!",
+                "tagalog": "O Lando. Tuloy ka! Pasensya ka na at magulo dito ah!"
+              }
+            },
+            {
+              "speaker": "Lando",
+              "speakerText": {
+                "sourceLanguage": "mixed",
+                "sourceText": "Lando:",
+                "id": "Lando:"
+              },
+              "text": {
+                "sourceLanguage": "fil",
+                "sourceText": "Hindi! Ayos naman. Gusto ko nga ang apartment mo, eh.",
+                "id": "Aku tak suka apartemenmu, tak apa.",
+                "tagalog": "Hindi! Ayos naman. Gusto ko nga ang apartment mo, eh."
+              }
+            }
+          ]
+        },
+        {
           "type": "table",
+          "role": "dialogue-context",
           "rows": [
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "Berto:",
-                  "id": "Berto:"
-                },
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "O Lando. Tuloy ka! Pasensya ka na at magulo dito ah!",
-                  "id": "Oh Lando, kau gila!",
-                  "tagalog": "O Lando. Tuloy ka! Pasensya ka na at magulo dito ah!"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "Lando:",
-                  "id": "Lando:"
-                },
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "Hindi! Ayos naman. Gusto ko nga ang apartment mo, eh.",
-                  "id": "Aku tak suka apartemenmu, tak apa.",
-                  "tagalog": "Hindi! Ayos naman. Gusto ko nga ang apartment mo, eh."
-                }
-              ]
-            },
             {
               "cells": [
                 {
@@ -1774,170 +1479,168 @@
                   "tagalog": "Gusto ko ang mga painting sa dingding mo. Saan mo nabili ito?"
                 }
               ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "Berto:",
-                  "id": "Berto:"
-                },
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "Sa Baguio. Teka, tingnan mo ang kuwarto ko.",
-                  "id": "Di Baguio, Teka, lihat kamarku.",
-                  "tagalog": "Sa Baguio. Teka, tingnan mo ang kuwarto ko."
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "Lando:",
-                  "id": "Lando:"
-                },
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "Ang laki-laki! Ilan ang kuwarto lahat dito?",
-                  "id": "Begitu besar, berapa banyak kamar yang mereka semua di sini?",
-                  "tagalog": "Ang laki-laki! Ilan ang kuwarto lahat dito?"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "Berto:",
-                  "id": "Berto:"
-                },
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "Dalawa lang. Tapos, dalawa rin ang CR namin.",
-                  "id": "Lalu kami berdua.",
-                  "tagalog": "Dalawa lang. Tapos, dalawa rin ang CR namin."
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "Lando:",
-                  "id": "Lando:"
-                },
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "Hindi ko alam na mahilig ka sa mga litrato. Gusto ko ang mga litrato sa ibabaw ng mesa mo at ang mga kuwadro sa tabi ng kompyuter mo.",
-                  "id": "Aku tidak tahu kau suka gambar, dan aku suka gambar di mejamu dan bingkai di sebelah komputermu.",
-                  "tagalog": "Hindi ko alam na mahilig ka sa mga litrato. Gusto ko ang mga litrato sa ibabaw ng mesa mo at ang mga kuwadro sa tabi ng kompyuter mo."
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "Berto:",
-                  "id": "Berto:"
-                },
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "Oo, mula sa Tagaytay ang mga litrato na iyan.",
-                  "id": "Ya, foto-foto itu berasal dari Manner.",
-                  "tagalog": "Oo, mula sa Tagaytay ang mga litrato na iyan."
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "Lando:",
-                  "id": "Lando:"
-                },
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "Eh ang mga sumbrero sa loob ng kabinet mo? Saan mo nakuha ang mga ito?",
-                  "id": "Topi apa yang ada di lemarimu?",
-                  "tagalog": "Eh ang mga sumbrero sa loob ng kabinet mo? Saan mo nakuha ang mga ito?"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "Berto:",
-                  "id": "Berto:"
-                },
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "Koleksyon ko iyan ng mga paborito kong mga baseball team. May dalawampu akong sumbrero.",
-                  "id": "Tim bisbol favorit saya membuat saya tim dari dua puluh topi.",
-                  "tagalog": "Koleksyon ko iyan ng mga paborito kong mga baseball team. May dalawampu akong sumbrero."
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "Lando:",
-                  "id": "Lando:"
-                },
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "Ang galing! Akin na lang ang isa.",
-                  "id": "Aku satu-satunya.",
-                  "tagalog": "Ang galing! Akin na lang ang isa."
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "Berto:",
-                  "id": "Berto:"
-                },
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "O sige!",
-                  "id": "Baiklah!",
-                  "tagalog": "O sige!"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "Lando:",
-                  "id": "Lando:"
-                },
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "Talaga? Salamat ah!",
-                  "id": "Terima kasih!",
-                  "tagalog": "Talaga? Salamat ah!"
-                }
-              ]
             }
           ]
         },
         {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "mixed",
-            "sourceText": "Dialogue Comprehension",
-            "id": "Pemahaman Dialog"
-          }
-        },
+          "type": "dialogue",
+          "turns": [
+            {
+              "speaker": "Berto",
+              "speakerText": {
+                "sourceLanguage": "mixed",
+                "sourceText": "Berto:",
+                "id": "Berto:"
+              },
+              "text": {
+                "sourceLanguage": "fil",
+                "sourceText": "Sa Baguio. Teka, tingnan mo ang kuwarto ko.",
+                "id": "Di Baguio, Teka, lihat kamarku.",
+                "tagalog": "Sa Baguio. Teka, tingnan mo ang kuwarto ko."
+              }
+            },
+            {
+              "speaker": "Lando",
+              "speakerText": {
+                "sourceLanguage": "mixed",
+                "sourceText": "Lando:",
+                "id": "Lando:"
+              },
+              "text": {
+                "sourceLanguage": "fil",
+                "sourceText": "Ang laki-laki! Ilan ang kuwarto lahat dito?",
+                "id": "Begitu besar, berapa banyak kamar yang mereka semua di sini?",
+                "tagalog": "Ang laki-laki! Ilan ang kuwarto lahat dito?"
+              }
+            },
+            {
+              "speaker": "Berto",
+              "speakerText": {
+                "sourceLanguage": "mixed",
+                "sourceText": "Berto:",
+                "id": "Berto:"
+              },
+              "text": {
+                "sourceLanguage": "fil",
+                "sourceText": "Dalawa lang. Tapos, dalawa rin ang CR namin.",
+                "id": "Lalu kami berdua.",
+                "tagalog": "Dalawa lang. Tapos, dalawa rin ang CR namin."
+              }
+            },
+            {
+              "speaker": "Lando",
+              "speakerText": {
+                "sourceLanguage": "mixed",
+                "sourceText": "Lando:",
+                "id": "Lando:"
+              },
+              "text": {
+                "sourceLanguage": "fil",
+                "sourceText": "Hindi ko alam na mahilig ka sa mga litrato. Gusto ko ang mga litrato sa ibabaw ng mesa mo at ang mga kuwadro sa tabi ng kompyuter mo.",
+                "id": "Aku tidak tahu kau suka gambar, dan aku suka gambar di mejamu dan bingkai di sebelah komputermu.",
+                "tagalog": "Hindi ko alam na mahilig ka sa mga litrato. Gusto ko ang mga litrato sa ibabaw ng mesa mo at ang mga kuwadro sa tabi ng kompyuter mo."
+              }
+            },
+            {
+              "speaker": "Berto",
+              "speakerText": {
+                "sourceLanguage": "mixed",
+                "sourceText": "Berto:",
+                "id": "Berto:"
+              },
+              "text": {
+                "sourceLanguage": "fil",
+                "sourceText": "Oo, mula sa Tagaytay ang mga litrato na iyan.",
+                "id": "Ya, foto-foto itu berasal dari Manner.",
+                "tagalog": "Oo, mula sa Tagaytay ang mga litrato na iyan."
+              }
+            },
+            {
+              "speaker": "Lando",
+              "speakerText": {
+                "sourceLanguage": "mixed",
+                "sourceText": "Lando:",
+                "id": "Lando:"
+              },
+              "text": {
+                "sourceLanguage": "fil",
+                "sourceText": "Eh ang mga sumbrero sa loob ng kabinet mo? Saan mo nakuha ang mga ito?",
+                "id": "Topi apa yang ada di lemarimu?",
+                "tagalog": "Eh ang mga sumbrero sa loob ng kabinet mo? Saan mo nakuha ang mga ito?"
+              }
+            },
+            {
+              "speaker": "Berto",
+              "speakerText": {
+                "sourceLanguage": "mixed",
+                "sourceText": "Berto:",
+                "id": "Berto:"
+              },
+              "text": {
+                "sourceLanguage": "fil",
+                "sourceText": "Koleksyon ko iyan ng mga paborito kong mga baseball team. May dalawampu akong sumbrero.",
+                "id": "Tim bisbol favorit saya membuat saya tim dari dua puluh topi.",
+                "tagalog": "Koleksyon ko iyan ng mga paborito kong mga baseball team. May dalawampu akong sumbrero."
+              }
+            },
+            {
+              "speaker": "Lando",
+              "speakerText": {
+                "sourceLanguage": "mixed",
+                "sourceText": "Lando:",
+                "id": "Lando:"
+              },
+              "text": {
+                "sourceLanguage": "fil",
+                "sourceText": "Ang galing! Akin na lang ang isa.",
+                "id": "Aku satu-satunya.",
+                "tagalog": "Ang galing! Akin na lang ang isa."
+              }
+            },
+            {
+              "speaker": "Berto",
+              "speakerText": {
+                "sourceLanguage": "mixed",
+                "sourceText": "Berto:",
+                "id": "Berto:"
+              },
+              "text": {
+                "sourceLanguage": "fil",
+                "sourceText": "O sige!",
+                "id": "Baiklah!",
+                "tagalog": "O sige!"
+              }
+            },
+            {
+              "speaker": "Lando",
+              "speakerText": {
+                "sourceLanguage": "mixed",
+                "sourceText": "Lando:",
+                "id": "Lando:"
+              },
+              "text": {
+                "sourceLanguage": "fil",
+                "sourceText": "Talaga? Salamat ah!",
+                "id": "Terima kasih!",
+                "tagalog": "Talaga? Salamat ah!"
+              }
+            }
+          ]
+        }
+      ],
+      "id": "lesson-10-03-dialogue-ito-ang-bahay-ko-this-is-my-house"
+    },
+    {
+      "type": "EXERCISES",
+      "title": {
+        "sourceLanguage": "mixed",
+        "sourceText": "Dialogue Comprehension",
+        "id": "Pemahaman Dialog"
+      },
+      "blocks": [
         {
-          "type": "table",
+          "type": "exercise",
+          "role": "worksheet",
           "rows": [
             {
               "cells": [
@@ -2061,38 +1764,20 @@
             }
           ]
         }
-      ]
+      ],
+      "id": "lesson-10-04-dialogue-comprehension"
     },
     {
-      "id": "lesson-10-activities",
-      "type": "ACTIVITY",
+      "type": "EXERCISES",
       "title": {
         "sourceLanguage": "mixed",
-        "sourceText": "Activities",
-        "id": "Aktivitas"
+        "sourceText": "Activity 1",
+        "id": "Aktivitas 1"
       },
       "blocks": [
         {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "mixed",
-            "sourceText": "Activities",
-            "id": "Aktivitas"
-          }
-        },
-        {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "mixed",
-            "sourceText": "Activity 1",
-            "id": "Aktivitas 1"
-          }
-        },
-        {
-          "type": "text",
-          "style": "body",
+          "type": "exercise",
+          "role": "content",
           "text": {
             "sourceLanguage": "en",
             "sourceText": "Use the chart below to list the different rooms in your house. Give a brief description of each room and mention the different items that you would find there.",
@@ -2100,8 +1785,8 @@
           }
         },
         {
-          "type": "text",
-          "style": "body",
+          "type": "exercise",
+          "role": "content",
           "text": {
             "sourceLanguage": "mixed",
             "sourceText": "EXAMPLE:",
@@ -2109,8 +1794,8 @@
           }
         },
         {
-          "type": "text",
-          "style": "body",
+          "type": "exercise",
+          "role": "content",
           "text": {
             "sourceLanguage": "fil",
             "sourceText": "Sala",
@@ -2119,8 +1804,8 @@
           }
         },
         {
-          "type": "text",
-          "style": "body",
+          "type": "exercise",
+          "role": "content",
           "text": {
             "sourceLanguage": "fil",
             "sourceText": "Maluwag at maliwanag sa sala ko. Mayroong sopa, mesa, halaman, bentilador, kwadro at telebisyon sa sala ko.",
@@ -2129,7 +1814,8 @@
           }
         },
         {
-          "type": "table",
+          "type": "exercise",
+          "role": "worksheet",
           "rows": [
             {
               "cells": [
@@ -2146,19 +1832,21 @@
               ]
             }
           ]
-        },
+        }
+      ],
+      "id": "lesson-10-05-activity-1"
+    },
+    {
+      "type": "EXERCISES",
+      "title": {
+        "sourceLanguage": "mixed",
+        "sourceText": "Activity 2",
+        "id": "Aktivitas 2"
+      },
+      "blocks": [
         {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "mixed",
-            "sourceText": "Activity 2",
-            "id": "Aktivitas 2"
-          }
-        },
-        {
-          "type": "text",
-          "style": "body",
+          "type": "exercise",
+          "role": "content",
           "text": {
             "sourceLanguage": "en",
             "sourceText": "Draw the layout of your bedroom and describe it to a classmate. Use the previous activity to model your description.",
@@ -2168,19 +1856,21 @@
         {
           "type": "image",
           "path": "assets/175.jpg"
-        },
+        }
+      ],
+      "id": "lesson-10-06-activity-2"
+    },
+    {
+      "type": "EXERCISES",
+      "title": {
+        "sourceLanguage": "mixed",
+        "sourceText": "Activity 3",
+        "id": "Aktivitas 3"
+      },
+      "blocks": [
         {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "mixed",
-            "sourceText": "Activity 3",
-            "id": "Aktivitas 3"
-          }
-        },
-        {
-          "type": "text",
-          "style": "body",
+          "type": "exercise",
+          "role": "content",
           "text": {
             "sourceLanguage": "en",
             "sourceText": "Study the picture below and answer the following questions.",
@@ -2192,8 +1882,8 @@
           "path": "assets/176.jpg"
         },
         {
-          "type": "text",
-          "style": "body",
+          "type": "exercise",
+          "role": "question",
           "text": {
             "sourceLanguage": "fil",
             "sourceText": "1. Nasaan ang libro?",
@@ -2202,17 +1892,8 @@
           }
         },
         {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "mixed",
-            "sourceText": "____________________________________________________",
-            "id": "____________________________________________________"
-          }
-        },
-        {
-          "type": "text",
-          "style": "body",
+          "type": "exercise",
+          "role": "question",
           "text": {
             "sourceLanguage": "fil",
             "sourceText": "2. Ano ang nasa ibabaw ng tokador?",
@@ -2221,17 +1902,8 @@
           }
         },
         {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "mixed",
-            "sourceText": "____________________________________________________",
-            "id": "____________________________________________________"
-          }
-        },
-        {
-          "type": "text",
-          "style": "body",
+          "type": "exercise",
+          "role": "question",
           "text": {
             "sourceLanguage": "fil",
             "sourceText": "3. Ano ang nasa likod ng shopping bag?",
@@ -2240,17 +1912,8 @@
           }
         },
         {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "mixed",
-            "sourceText": "____________________________________________________",
-            "id": "____________________________________________________"
-          }
-        },
-        {
-          "type": "text",
-          "style": "body",
+          "type": "exercise",
+          "role": "question",
           "text": {
             "sourceLanguage": "fil",
             "sourceText": "4. Ano ang nasa ibabaw ng kama?",
@@ -2259,17 +1922,8 @@
           }
         },
         {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "mixed",
-            "sourceText": "____________________________________________________",
-            "id": "____________________________________________________"
-          }
-        },
-        {
-          "type": "text",
-          "style": "body",
+          "type": "exercise",
+          "role": "question",
           "text": {
             "sourceLanguage": "fil",
             "sourceText": "5. Nasaan ang bintana?",
@@ -2278,17 +1932,8 @@
           }
         },
         {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "mixed",
-            "sourceText": "____________________________________________________",
-            "id": "____________________________________________________"
-          }
-        },
-        {
-          "type": "text",
-          "style": "body",
+          "type": "exercise",
+          "role": "question",
           "text": {
             "sourceLanguage": "fil",
             "sourceText": "6. Nasaan ang lampara?",
@@ -2297,17 +1942,8 @@
           }
         },
         {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "mixed",
-            "sourceText": "____________________________________________________",
-            "id": "____________________________________________________"
-          }
-        },
-        {
-          "type": "text",
-          "style": "body",
+          "type": "exercise",
+          "role": "question",
           "text": {
             "sourceLanguage": "fil",
             "sourceText": "7. Ano ang nasa tabi ng lampara?",
@@ -2316,17 +1952,8 @@
           }
         },
         {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "mixed",
-            "sourceText": "____________________________________________________",
-            "id": "____________________________________________________"
-          }
-        },
-        {
-          "type": "text",
-          "style": "body",
+          "type": "exercise",
+          "role": "question",
           "text": {
             "sourceLanguage": "fil",
             "sourceText": "8. Ano ang nasa loob ng aparador?",
@@ -2335,17 +1962,8 @@
           }
         },
         {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "mixed",
-            "sourceText": "____________________________________________________",
-            "id": "____________________________________________________"
-          }
-        },
-        {
-          "type": "text",
-          "style": "body",
+          "type": "exercise",
+          "role": "question",
           "text": {
             "sourceLanguage": "fil",
             "sourceText": "9. Ano ang nasa tabi ng kama?",
@@ -2354,62 +1972,26 @@
           }
         },
         {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "mixed",
-            "sourceText": "____________________________________________________",
-            "id": "____________________________________________________"
-          }
-        },
-        {
-          "type": "text",
-          "style": "body",
+          "type": "exercise",
+          "role": "question",
           "text": {
             "sourceLanguage": "fil",
             "sourceText": "10. Ano ang nasa ilalim ng salamin?",
             "id": "Apa yang ada di bawah cermin?",
             "tagalog": "10. Ano ang nasa ilalim ng salamin?"
           }
-        },
-        {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "mixed",
-            "sourceText": "____________________________________________________",
-            "id": "____________________________________________________"
-          }
         }
-      ]
+      ],
+      "id": "lesson-10-07-activity-3"
     },
     {
-      "id": "lesson-10-grammar",
-      "type": "GRAMMAR",
+      "type": "LEARNING_MATERIAL",
       "title": {
         "sourceLanguage": "mixed",
-        "sourceText": "Grammar",
-        "id": "Tata Bahasa"
+        "sourceText": "Definition of Terms",
+        "id": "Definisi Istilah"
       },
       "blocks": [
-        {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "mixed",
-            "sourceText": "Grammar",
-            "id": "Tata Bahasa"
-          }
-        },
-        {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "mixed",
-            "sourceText": "Definition of Terms",
-            "id": "Definisi Istilah"
-          }
-        },
         {
           "type": "table",
           "rows": [
@@ -2437,21 +2019,25 @@
                 {
                   "sourceLanguage": "en",
                   "sourceText": "A group of words containing a preposition (for example, nasa or sa) and a noun or noun phrase to indicate location.\n\nEXAMPLES:\n\nNasa loob ng kwarto si Maria. Maria is inside the room.\n\nNasa labas si Mario. Mario is outside.",
-                  "id": "Sekelompok kata berisi preposisi (misalnya, nasa atau sa) dan frasa kata benda untuk menunjukkan lokasi. EXAMPLES: Nasa loob ng kwarto si Maria. Nasa labas si Mario."
+                  "id": "Sekelompok kata berisi preposisi (misalnya, nasa atau sa) dan frasa kata benda untuk menunjukkan lokasi. EXAMPLES: Nasa loob ng kwarto si Maria. Nasa labas si Mario.",
+                  "tagalog": "nasa sa Nasa loob ng kwarto si Maria. Nasa loob ng kwarto Nasa labas si Mario. Nasa labas"
                 }
               ]
             }
-          ]
-        },
-        {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "mixed",
-            "sourceText": "Examining Form",
-            "id": "Mengkaji Bentuk"
-          }
-        },
+          ],
+          "role": "reference"
+        }
+      ],
+      "id": "lesson-10-08-definition-of-terms"
+    },
+    {
+      "type": "LEARNING_MATERIAL",
+      "title": {
+        "sourceLanguage": "mixed",
+        "sourceText": "Examining Form",
+        "id": "Menganalisis Bentuk"
+      },
+      "blocks": [
         {
           "type": "text",
           "style": "body",
@@ -2518,16 +2104,18 @@
             "sourceText": "b. Notice that in numbers 1 and 2 sa introduces a specific place, whereas in 3 and 4, it is nasa. When do you use sa and when do you use nasa?",
             "id": "b. perhatikan bahwa pada nomor 1 dan 2 sa memperkenalkan tempat tertentu, sedangkan dalam 3 dan 4, itu adalah nasa."
           }
-        },
-        {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "en",
-            "sourceText": "I. Spatial Location Words",
-            "id": "I. Spasial Lokasi Kata-kata"
-          }
-        },
+        }
+      ],
+      "id": "lesson-10-09-examining-form"
+    },
+    {
+      "type": "LEARNING_MATERIAL",
+      "title": {
+        "sourceLanguage": "en",
+        "sourceText": "I. Spatial Location Words",
+        "id": "I. Spasial Lokasi Kata-kata"
+      },
+      "blocks": [
         {
           "type": "text",
           "style": "body",
@@ -2641,7 +2229,8 @@
                 }
               ]
             }
-          ]
+          ],
+          "role": "reference"
         },
         {
           "type": "text",
@@ -2676,7 +2265,8 @@
                 }
               ]
             }
-          ]
+          ],
+          "role": "reference"
         },
         {
           "type": "text",
@@ -2686,16 +2276,18 @@
             "sourceText": "The following section will help you in constructing predicational sentences where the predicate is a prepositional phrase.",
             "id": "Bagian berikut akan membantu Anda dalam membangun kalimat preseden di mana prediksinya adalah frase prepositional."
           }
-        },
-        {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "mixed",
-            "sourceText": "Grammar Presentation",
-            "id": "Penyajian Tata Bahasa"
-          }
-        },
+        }
+      ],
+      "id": "lesson-10-10-i-spatial-location-words"
+    },
+    {
+      "type": "LEARNING_MATERIAL",
+      "title": {
+        "sourceLanguage": "mixed",
+        "sourceText": "Grammar Presentation",
+        "id": "Penyajian Tata Bahasa"
+      },
+      "blocks": [
         {
           "type": "text",
           "style": "body",
@@ -2872,74 +2464,96 @@
                 }
               ]
             }
+          ],
+          "role": "reference"
+        }
+      ],
+      "id": "lesson-10-11-grammar-presentation"
+    },
+    {
+      "type": "EXAMPLES",
+      "title": {
+        "sourceLanguage": "mixed",
+        "sourceText": "EXAMPLES:",
+        "id": "Contoh"
+      },
+      "blocks": [
+        {
+          "type": "example",
+          "items": [
+            {
+              "sourceLanguage": "fil",
+              "sourceText": "Nasa loob ba ng kuwarto si Maria? Is Maria inside the bedroom?",
+              "id": "Apakah Maria di dalam ruangan?",
+              "tagalog": "Nasa loob ba ng kuwarto si Maria? Is Maria inside the bedroom?"
+            }
           ]
         },
         {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "mixed",
-            "sourceText": "EXAMPLES:",
-            "id": "EXAMPLES:"
-          }
+          "type": "example",
+          "items": [
+            {
+              "sourceLanguage": "fil",
+              "sourceText": "Hindi. Wala siya sa loob ng kuwarto. No. She is not inside the bedroom.",
+              "id": "Tidak, dia tak ada di kamar. / Tidak, dia ada di kamar.",
+              "tagalog": "Hindi. Wala siya sa loob ng kuwarto. No. She is not inside the bedroom."
+            }
+          ]
         },
         {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "fil",
-            "sourceText": "Nasa loob ba ng kuwarto si Maria? Is Maria inside the bedroom?",
-            "id": "Apakah Maria di dalam ruangan?",
-            "tagalog": "Nasa loob ba ng kuwarto si Maria? Is Maria inside the bedroom?"
-          }
+          "type": "example",
+          "items": [
+            {
+              "sourceLanguage": "en",
+              "sourceText": "Nasa gitna ng sopa at telebisyon ang mesa. The table is in between the couch and the television.",
+              "id": "Nasa gitna ng sopa di telebisyon ang mesa.",
+              "tagalog": "Nasa gitna ng sopa at telebisyon ang mesa."
+            }
+          ]
         },
         {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "fil",
-            "sourceText": "Hindi. Wala siya sa loob ng kuwarto. No. She is not inside the bedroom.",
-            "id": "Tidak, dia tak ada di kamar. / Tidak, dia ada di kamar.",
-            "tagalog": "Hindi. Wala siya sa loob ng kuwarto. No. She is not inside the bedroom."
-          }
+          "type": "example",
+          "items": [
+            {
+              "sourceLanguage": "en",
+              "sourceText": "Nasa ibabaw ng mesa ang libro. The book is on top of the table.",
+              "id": "Nasa ibabaw ng mesa ang libro.",
+              "tagalog": "Nasa ibabaw ng mesa ang libro."
+            }
+          ]
         },
         {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "en",
-            "sourceText": "Nasa gitna ng sopa at telebisyon ang mesa. The table is in between the couch and the television.",
-            "id": "Nasa gitna ng sopa di telebisyon ang mesa."
-          }
+          "type": "example",
+          "items": [
+            {
+              "sourceLanguage": "fil",
+              "sourceText": "Nasa tabi ng mesa ang halaman. The plant is beside the table.",
+              "id": "Di meja adalah tanaman, dan tanaman adalah di sebelah meja.",
+              "tagalog": "Nasa tabi ng mesa ang halaman. The plant is beside the table."
+            }
+          ]
         },
         {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "en",
-            "sourceText": "Nasa ibabaw ng mesa ang libro. The book is on top of the table.",
-            "id": "Nasa ibabaw ng mesa ang libro."
-          }
-        },
-        {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "fil",
-            "sourceText": "Nasa tabi ng mesa ang halaman. The plant is beside the table.",
-            "id": "Di meja adalah tanaman, dan tanaman adalah di sebelah meja.",
-            "tagalog": "Nasa tabi ng mesa ang halaman. The plant is beside the table."
-          }
-        },
-        {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "en",
-            "sourceText": "B. Sa and Spatial Location Words",
-            "id": "B. Sa dan Spasial Lokasi Kata"
-          }
-        },
+          "type": "example",
+          "items": [
+            {
+              "sourceLanguage": "en",
+              "sourceText": "B. Sa and Spatial Location Words",
+              "id": "B. Sa dan Spasial Lokasi Kata"
+            }
+          ]
+        }
+      ],
+      "id": "lesson-10-12-examples"
+    },
+    {
+      "type": "LEARNING_MATERIAL",
+      "title": {
+        "sourceLanguage": "mixed",
+        "sourceText": "Grammar Presentation",
+        "id": "Penyajian Tata Bahasa"
+      },
+      "blocks": [
         {
           "type": "text",
           "style": "body",
@@ -3072,56 +2686,74 @@
                 }
               ]
             }
+          ],
+          "role": "reference"
+        }
+      ],
+      "id": "lesson-10-13-grammar-presentation-2"
+    },
+    {
+      "type": "EXAMPLES",
+      "title": {
+        "sourceLanguage": "mixed",
+        "sourceText": "EXAMPLES:",
+        "id": "Contoh"
+      },
+      "blocks": [
+        {
+          "type": "example",
+          "items": [
+            {
+              "sourceLanguage": "fil",
+              "sourceText": "Bumili ako ng pagkain sa harap ng bahay natin. I bought food in front of our house.",
+              "id": "Aku membeli makanan di depan rumah kami, dan aku membeli makanan di depan rumah.",
+              "tagalog": "Bumili ako ng pagkain sa harap ng bahay natin. I bought food in front of our house."
+            }
           ]
         },
         {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "mixed",
-            "sourceText": "EXAMPLES:",
-            "id": "EXAMPLES:"
-          }
+          "type": "example",
+          "items": [
+            {
+              "sourceLanguage": "mixed",
+              "sourceText": "Kumuha siya ng pagkain sa ibabaw ng rep. She/He took some food on top of the fridge.",
+              "id": "Kumuha siya ng pagmain sa ibabaw ng rep.",
+              "tagalog": "Kumuha siya ng pagkain sa ibabaw ng rep."
+            }
+          ]
         },
         {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "fil",
-            "sourceText": "Bumili ako ng pagkain sa harap ng bahay natin. I bought food in front of our house.",
-            "id": "Aku membeli makanan di depan rumah kami, dan aku membeli makanan di depan rumah.",
-            "tagalog": "Bumili ako ng pagkain sa harap ng bahay natin. I bought food in front of our house."
-          }
+          "type": "example",
+          "items": [
+            {
+              "sourceLanguage": "fil",
+              "sourceText": "Natutulog ang aso sa ilalim ng sopa. The dog is sleeping under the couch.",
+              "id": "Anjing tidur di bawah sofa, dan anjing tidur di bawah sofa.",
+              "tagalog": "Natutulog ang aso sa ilalim ng sopa. The dog is sleeping under the couch."
+            }
+          ]
         },
         {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "mixed",
-            "sourceText": "Kumuha siya ng pagkain sa ibabaw ng rep. She/He took some food on top of the fridge.",
-            "id": "Kumuha siya ng pagmain sa ibabaw ng rep.",
-            "tagalog": "Kumuha siya ng pagkain sa ibabaw ng rep."
-          }
-        },
-        {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "fil",
-            "sourceText": "Natutulog ang aso sa ilalim ng sopa. The dog is sleeping under the couch.",
-            "id": "Anjing tidur di bawah sofa, dan anjing tidur di bawah sofa.",
-            "tagalog": "Natutulog ang aso sa ilalim ng sopa. The dog is sleeping under the couch."
-          }
-        },
-        {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "en",
-            "sourceText": "2. With a Pseudo-Verb",
-            "id": "Dengan Pseudo- Verb"
-          }
-        },
+          "type": "example",
+          "items": [
+            {
+              "sourceLanguage": "en",
+              "sourceText": "2. With a Pseudo-Verb",
+              "id": "Dengan Pseudo- Verb"
+            }
+          ]
+        }
+      ],
+      "id": "lesson-10-14-examples-2"
+    },
+    {
+      "type": "LEARNING_MATERIAL",
+      "title": {
+        "sourceLanguage": "mixed",
+        "sourceText": "Grammar Presentation",
+        "id": "Penyajian Tata Bahasa"
+      },
+      "blocks": [
         {
           "type": "text",
           "style": "body",
@@ -3247,57 +2879,75 @@
                 }
               ]
             }
+          ],
+          "role": "reference"
+        }
+      ],
+      "id": "lesson-10-15-grammar-presentation-3"
+    },
+    {
+      "type": "EXAMPLES",
+      "title": {
+        "sourceLanguage": "mixed",
+        "sourceText": "EXAMPLES:",
+        "id": "Contoh"
+      },
+      "blocks": [
+        {
+          "type": "example",
+          "items": [
+            {
+              "sourceLanguage": "fil",
+              "sourceText": "Mayroong pusa sa loob ng kuwarto ko. There is a cat inside my room.",
+              "id": "Ada kucing di kamarku, dan ada kucing di kamarku.",
+              "tagalog": "Mayroong pusa sa loob ng kuwarto ko. There is a cat inside my room."
+            }
           ]
         },
         {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "mixed",
-            "sourceText": "EXAMPLES:",
-            "id": "EXAMPLES:"
-          }
+          "type": "example",
+          "items": [
+            {
+              "sourceLanguage": "fil",
+              "sourceText": "Mayroon bang pagkain sa loob ng rep? Is there food inside the fridge?",
+              "id": "Apakah ada makanan di dalam rep Apakah makanan di kursi jembatan?",
+              "tagalog": "Mayroon bang pagkain sa loob ng rep? Is there food inside the fridge?"
+            }
+          ]
         },
         {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "fil",
-            "sourceText": "Mayroong pusa sa loob ng kuwarto ko. There is a cat inside my room.",
-            "id": "Ada kucing di kamarku, dan ada kucing di kamarku.",
-            "tagalog": "Mayroong pusa sa loob ng kuwarto ko. There is a cat inside my room."
-          }
+          "type": "example",
+          "items": [
+            {
+              "sourceLanguage": "fil",
+              "sourceText": "Oo. Mayroon. Yes. There is.",
+              "id": "Ya, ya, ya.",
+              "tagalog": "Oo. Mayroon. Yes. There is."
+            }
+          ]
         },
         {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "fil",
-            "sourceText": "Mayroon bang pagkain sa loob ng rep? Is there food inside the fridge?",
-            "id": "Apakah ada makanan di dalam rep Apakah makanan di kursi jembatan?",
-            "tagalog": "Mayroon bang pagkain sa loob ng rep? Is there food inside the fridge?"
-          }
-        },
-        {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "fil",
-            "sourceText": "Oo. Mayroon. Yes. There is.",
-            "id": "Ya, ya, ya.",
-            "tagalog": "Oo. Mayroon. Yes. There is."
-          }
-        },
-        {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "fil",
-            "sourceText": "Wala pong tao sa labas ng bahay natin. There is no one outside our house, sir/madam.",
-            "id": "Tidak ada orang di luar rumah kami, tidak ada orang di luar rumah orur, Ar / Madam.",
-            "tagalog": "Wala pong tao sa labas ng bahay natin. There is no one outside our house, sir/madam."
-          }
-        },
+          "type": "example",
+          "items": [
+            {
+              "sourceLanguage": "fil",
+              "sourceText": "Wala pong tao sa labas ng bahay natin. There is no one outside our house, sir/madam.",
+              "id": "Tidak ada orang di luar rumah kami, tidak ada orang di luar rumah orur, Ar / Madam.",
+              "tagalog": "Wala pong tao sa labas ng bahay natin. There is no one outside our house, sir/madam."
+            }
+          ]
+        }
+      ],
+      "id": "lesson-10-16-examples-3"
+    },
+    {
+      "type": "LEARNING_MATERIAL",
+      "title": {
+        "sourceLanguage": "mixed",
+        "sourceText": "Grammar Presentation",
+        "id": "Penyajian Tata Bahasa"
+      },
+      "blocks": [
         {
           "type": "text",
           "style": "body",
@@ -3452,56 +3102,64 @@
                 }
               ]
             }
+          ],
+          "role": "reference"
+        }
+      ],
+      "id": "lesson-10-17-grammar-presentation-4"
+    },
+    {
+      "type": "EXAMPLES",
+      "title": {
+        "sourceLanguage": "mixed",
+        "sourceText": "EXAMPLES:",
+        "id": "Contoh"
+      },
+      "blocks": [
+        {
+          "type": "example",
+          "items": [
+            {
+              "sourceLanguage": "fil",
+              "sourceText": "Gusto ni Vera ang painting sa dingding. Vera likes the painting on the wall.",
+              "id": "Vera suka lukisan dinding, Vera mengambil lukisan di dinding.",
+              "tagalog": "Gusto ni Vera ang painting sa dingding. Vera likes the painting on the wall."
+            }
           ]
         },
         {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "mixed",
-            "sourceText": "EXAMPLES:",
-            "id": "EXAMPLES:"
-          }
+          "type": "example",
+          "items": [
+            {
+              "sourceLanguage": "fil",
+              "sourceText": "Ayaw ni Chino ang pagkain sa loob ng rep. Chino does not like the food inside the fridge.",
+              "id": "Chino tidak suka makanan di dalamnya.",
+              "tagalog": "Ayaw ni Chino ang pagkain sa loob ng rep. Chino does not like the food inside the fridge."
+            }
+          ]
         },
         {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "fil",
-            "sourceText": "Gusto ni Vera ang painting sa dingding. Vera likes the painting on the wall.",
-            "id": "Vera suka lukisan dinding, Vera mengambil lukisan di dinding.",
-            "tagalog": "Gusto ni Vera ang painting sa dingding. Vera likes the painting on the wall."
-          }
-        },
-        {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "fil",
-            "sourceText": "Ayaw ni Chino ang pagkain sa loob ng rep. Chino does not like the food inside the fridge.",
-            "id": "Chino tidak suka makanan di dalamnya.",
-            "tagalog": "Ayaw ni Chino ang pagkain sa loob ng rep. Chino does not like the food inside the fridge."
-          }
-        },
-        {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "fil",
-            "sourceText": "Gusto mo ba ang sumbrero sa ibabaw ng mesa? Do you like the cap on top of the table?",
-            "id": "Kau suka topi di atas meja?",
-            "tagalog": "Gusto mo ba ang sumbrero sa ibabaw ng mesa? Do you like the cap on top of the table?"
-          }
-        },
-        {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "mixed",
-            "sourceText": "Grammar Notes",
-            "id": "Catatan Tata Bahasa"
-          }
-        },
+          "type": "example",
+          "items": [
+            {
+              "sourceLanguage": "fil",
+              "sourceText": "Gusto mo ba ang sumbrero sa ibabaw ng mesa? Do you like the cap on top of the table?",
+              "id": "Kau suka topi di atas meja?",
+              "tagalog": "Gusto mo ba ang sumbrero sa ibabaw ng mesa? Do you like the cap on top of the table?"
+            }
+          ]
+        }
+      ],
+      "id": "lesson-10-18-examples-4"
+    },
+    {
+      "type": "LEARNING_MATERIAL",
+      "title": {
+        "sourceLanguage": "mixed",
+        "sourceText": "Grammar Notes",
+        "id": "Catatan Tata Bahasa"
+      },
+      "blocks": [
         {
           "type": "table",
           "rows": [
@@ -3510,7 +3168,8 @@
                 {
                   "sourceLanguage": "en",
                   "sourceText": "1. When using enclitics with this sentence structure, place the enclitic after the nasa phrase.\n\nNasa ibabaw ba ng mesa ang libro? Is the book on top of the table?\n\nNasa gilid po ng kompyuter ang litrato. The picture is by the side of the computer, sir/ma’am.",
-                  "id": "Ketika menggunakan enclics dengan struktur kalimat ini, tempatkan enklitik setelah frase nasa. Nasa ibabaw ba ng mesa ang libro? Nasa gilid po ng kompyuter ang litrato."
+                  "id": "Ketika menggunakan enclics dengan struktur kalimat ini, tempatkan enklitik setelah frase nasa. Nasa ibabaw ba ng mesa ang libro? Nasa gilid po ng kompyuter ang litrato.",
+                  "tagalog": "nasa Nasa ibabaw ba ng mesa ang libro? Nasa gilid po ng kompyuter ang litrato."
                 }
               ]
             },
@@ -3533,40 +3192,23 @@
                 }
               ]
             }
-          ]
+          ],
+          "role": "reference"
         }
-      ]
+      ],
+      "id": "lesson-10-19-grammar-notes"
     },
     {
-      "id": "lesson-10-practice",
-      "type": "PRACTICE",
+      "type": "EXERCISES",
       "title": {
-        "sourceLanguage": "mixed",
-        "sourceText": "Practice",
-        "id": "Latihan"
+        "sourceLanguage": "en",
+        "sourceText": "I. Speaking Practice",
+        "id": "I. Latihan Berbicara"
       },
       "blocks": [
         {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "mixed",
-            "sourceText": "Practice",
-            "id": "Latihan"
-          }
-        },
-        {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "en",
-            "sourceText": "I. Speaking Practice",
-            "id": "I. Latihan Berbicara"
-          }
-        },
-        {
-          "type": "text",
-          "style": "body",
+          "type": "exercise",
+          "role": "content",
           "text": {
             "sourceLanguage": "en",
             "sourceText": "Draw a picture of your living room. In Tagalog, describe what you have drawn to a classmate without showing him or her the drawing. Be clear and thorough in your description. Your classmate will try to draw a copy of the picture based solely on your words. Your partner may ask questions in Tagalog to help with the drawing. When your partner has finished, show him or her your drawing and compare the two. Then switch roles.",
@@ -3574,8 +3216,8 @@
           }
         },
         {
-          "type": "text",
-          "style": "body",
+          "type": "exercise",
+          "role": "content",
           "text": {
             "sourceLanguage": "en",
             "sourceText": "Draw your living room in the box provided below.",
@@ -3587,8 +3229,8 @@
           "path": "assets/175.jpg"
         },
         {
-          "type": "text",
-          "style": "body",
+          "type": "exercise",
+          "role": "content",
           "text": {
             "sourceLanguage": "en",
             "sourceText": "Draw your partner’s living room in the box provided below.",
@@ -3598,19 +3240,21 @@
         {
           "type": "image",
           "path": "assets/175.jpg"
-        },
+        }
+      ],
+      "id": "lesson-10-20-i-speaking-practice"
+    },
+    {
+      "type": "EXERCISES",
+      "title": {
+        "sourceLanguage": "mixed",
+        "sourceText": "II. Reading Practice",
+        "id": "II. Latihan Membaca"
+      },
+      "blocks": [
         {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "mixed",
-            "sourceText": "II. Reading Practice",
-            "id": "II. Latihan Membaca"
-          }
-        },
-        {
-          "type": "text",
-          "style": "body",
+          "type": "exercise",
+          "role": "instruction",
           "text": {
             "sourceLanguage": "en",
             "sourceText": "Read the text below and sketch what is being described in the box provided below.",
@@ -3618,8 +3262,8 @@
           }
         },
         {
-          "type": "text",
-          "style": "body",
+          "type": "exercise",
+          "role": "content",
           "text": {
             "sourceLanguage": "fil",
             "sourceText": "Sa gitna ng kahon bandang ibaba magdrowing ka ng telebisyon. Sa harap ng telebisyon mayroong mesa. Mahaba ang mesa na ito. Nasa kaliwa ng mesa ang isang maliit na sopa. Nasa kanan ng mesa ang isang recliner. Nasa harapan ng mesa ang isang mahabang sopa. Nasa gilid, bandang kaliwa ng mahabang sopa ang isang maliit na mesa. Nasa kanan ng mahabang sopa ang isang halaman.",
@@ -3630,19 +3274,21 @@
         {
           "type": "image",
           "path": "assets/175.jpg"
-        },
+        }
+      ],
+      "id": "lesson-10-21-ii-reading-practice"
+    },
+    {
+      "type": "EXERCISES",
+      "title": {
+        "sourceLanguage": "mixed",
+        "sourceText": "III. Writing Practice",
+        "id": "III. Latihan Menulis"
+      },
+      "blocks": [
         {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "mixed",
-            "sourceText": "III. Writing Practice",
-            "id": "III. Latihan Menulis"
-          }
-        },
-        {
-          "type": "text",
-          "style": "body",
+          "type": "exercise",
+          "role": "content",
           "text": {
             "sourceLanguage": "en",
             "sourceText": "You made friends with a Filipino online. She’s asking you about student life in your country and the typical set-up in a classroom at your school. First, draw a picture of your classroom and the things that you can find there, then write a detailed description of your classroom so she could picture it on her mind. Use the box provided below for your drawing and the lines below for your description.",
@@ -3654,53 +3300,8 @@
           "path": "assets/184.jpg"
         },
         {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "mixed",
-            "sourceText": "_______________________________________________________",
-            "id": "_______________________________________________________"
-          }
-        },
-        {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "mixed",
-            "sourceText": "_______________________________________________________",
-            "id": "_______________________________________________________"
-          }
-        },
-        {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "mixed",
-            "sourceText": "_______________________________________________________",
-            "id": "_______________________________________________________"
-          }
-        },
-        {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "mixed",
-            "sourceText": "_______________________________________________________",
-            "id": "_______________________________________________________"
-          }
-        },
-        {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "mixed",
-            "sourceText": "_______________________________________________________",
-            "id": "_______________________________________________________"
-          }
-        },
-        {
-          "type": "text",
-          "style": "body",
+          "type": "exercise",
+          "role": "content",
           "text": {
             "sourceLanguage": "en",
             "sourceText": "To Download the audio files, please click here.",
@@ -3710,19 +3311,21 @@
         {
           "type": "image",
           "path": "assets/cd.jpg"
-        },
+        }
+      ],
+      "id": "lesson-10-22-iii-writing-practice"
+    },
+    {
+      "type": "EXERCISES",
+      "title": {
+        "sourceLanguage": "mixed",
+        "sourceText": "IV. Listening Practice",
+        "id": "IV. Latihan Menyimak"
+      },
+      "blocks": [
         {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "mixed",
-            "sourceText": "IV. Listening Practice",
-            "id": "IV. Latihan Menyimak"
-          }
-        },
-        {
-          "type": "text",
-          "style": "body",
+          "type": "exercise",
+          "role": "instruction",
           "text": {
             "sourceLanguage": "en",
             "sourceText": "Using the Bonus Material of the book, listen to audio file (10–2) and make a sketch of what is being described.",
@@ -3733,7 +3336,35 @@
           "type": "image",
           "path": "assets/175.jpg"
         }
-      ]
+      ],
+      "id": "lesson-10-23-iv-listening-practice"
     }
-  ]
+  ],
+  "structureVersion": 2,
+  "contentAudit": {
+    "sourceTextItemsBefore": 454,
+    "sourceTextItemsAfter": 433,
+    "uniqueSourceItemsPreserved": 369,
+    "duplicateHeadingsRemoved": 4,
+    "blankFragmentsRemoved": 15,
+    "sectionTypes": {
+      "DIALOGUE": 1,
+      "EXAMPLES": 4,
+      "EXERCISES": 8,
+      "INTRODUCTION": 1,
+      "LEARNING_MATERIAL": 8,
+      "VOCABULARY": 1
+    },
+    "blockTypes": {
+      "dialogue": 2,
+      "example": 17,
+      "exercise": 26,
+      "image": 10,
+      "list": 2,
+      "table": 9,
+      "text": 28,
+      "vocabulary": 6
+    },
+    "duplicateBlocksRemoved": 0
+  }
 }

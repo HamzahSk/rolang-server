@@ -1,0 +1,2059 @@
+{
+  "schemaVersion": 1,
+  "structureVersion": 2,
+  "id": "learning-tagalog-course-book-1-lesson-03",
+  "courseId": "learning-tagalog-course-book-1",
+  "unitId": "course-book-1-unit-01-conversation-foundations",
+  "order": 3,
+  "level": "BEGINNER",
+  "title": {
+    "id": "Apa kabar?",
+    "fil": "Kumusta?"
+  },
+  "summary": {
+    "id": "Dua siswa bertemu di jalan setelah kelas.",
+    "fil": "Kumusta?"
+  },
+  "objectives": [
+    {
+      "sourceLanguage": "mixed",
+      "sourceText": "Chapter 3 · Story A",
+      "id": "Memahami dialog utama Bab 3 tentang apa kabar."
+    },
+    {
+      "sourceLanguage": "mixed",
+      "sourceText": "Literal and natural translations",
+      "id": "Membandingkan susunan Tagalog dengan glosa harfiah dan terjemahan alami dari sumber."
+    },
+    {
+      "sourceLanguage": "mixed",
+      "sourceText": "Drills",
+      "id": "Melatih kembali pola dan ungkapan pada bagian Drills."
+    }
+  ],
+  "source": {
+    "book": "Learning Tagalog - Fluency Made Fast and Easy - Course Book 1",
+    "file": "Learning Tagalog - Fluency Made Fast and Easy - Course Book 1.pdf",
+    "pdfSha256": "52e9f464239c2ae98248a452edfbf1f58eb01bec69374a16d5205e70afa80f58",
+    "chapter": 3,
+    "pages": {
+      "start": 52,
+      "end": 76
+    },
+    "drillsDividerPage": 64,
+    "recapPage": 76
+  },
+  "sourceLinks": [
+    {
+      "page": 59,
+      "uri": "https://learningtagalog.com/grammar/pronunciation/replaceable_sounds.html"
+    },
+    {
+      "page": 60,
+      "uri": "https://learningtagalog.com/grammar/may_mayroon_meron_marami_wala/overview.html"
+    },
+    {
+      "page": 66,
+      "uri": "https://learningtagalog.com/grammar/may_mayroon_meron_marami_wala/standalone_meron_marami_wala.html"
+    }
+  ],
+  "assets": [
+    "assets/03-kumusta.jpg"
+  ],
+  "sections": [
+    {
+      "id": "introduction",
+      "type": "INTRODUCTION",
+      "title": {
+        "sourceLanguage": "mixed",
+        "sourceText": "How are you?",
+        "id": "Apa kabar?"
+      },
+      "blocks": [
+        {
+          "type": "image",
+          "path": "assets/03-kumusta.jpg",
+          "sourcePage": 52
+        },
+        {
+          "type": "text",
+          "style": "heading",
+          "text": {
+            "sourceLanguage": "en",
+            "sourceText": "How are you?",
+            "id": "Apa kabar?"
+          }
+        }
+      ]
+    },
+    {
+      "id": "learning-material",
+      "type": "LEARNING_MATERIAL",
+      "title": {
+        "sourceLanguage": "mixed",
+        "sourceText": "Chapter context",
+        "id": "Konteks bab"
+      },
+      "blocks": [
+        {
+          "type": "text",
+          "style": "body",
+          "sourcePage": 52,
+          "text": {
+            "sourceLanguage": "en",
+            "sourceText": "Two students meet on the street after class.",
+            "id": "Dua siswa bertemu di jalan setelah kelas."
+          }
+        },
+        {
+          "type": "text",
+          "style": "body",
+          "sourcePage": 58,
+          "sourceLabel": "A 06",
+          "links": [],
+          "text": {
+            "sourceLanguage": "en",
+            "sourceText": "Ikaw and ka both mean you. Ikaw is generally used in the News of a sentence, while ka is used in the POD. Don't worry, you'll soon pick up the patterns!",
+            "id": "A 06 · halaman PDF 58\n\nIkaw dan ka keduanya berarti Anda. Ikaw umumnya digunakan dalam Berita suatu kalimat, sedangkan ka digunakan dalam POD. Jangan khawatir, Anda akan segera mengetahui polanya!"
+          }
+        }
+      ]
+    },
+    {
+      "id": "dialogue",
+      "type": "DIALOGUE",
+      "title": {
+        "sourceLanguage": "mixed",
+        "sourceText": "Story A",
+        "id": "Dialog utama (Bagian A)"
+      },
+      "blocks": [
+        {
+          "type": "dialogue",
+          "turns": [
+            {
+              "speaker": "A 01",
+              "speakerText": {
+                "sourceLanguage": "mixed",
+                "sourceText": "A 01",
+                "id": "Bagian A 01"
+              },
+              "text": {
+                "sourceLanguage": "fil",
+                "sourceText": "Kumusta?",
+                "id": "Apa kabar?",
+                "tagalog": "Kumusta?"
+              },
+              "sourcePage": 53
+            },
+            {
+              "speaker": "A 02",
+              "speakerText": {
+                "sourceLanguage": "mixed",
+                "sourceText": "A 02",
+                "id": "Bagian A 02"
+              },
+              "text": {
+                "sourceLanguage": "fil",
+                "sourceText": "Hello!",
+                "id": "Halo!",
+                "tagalog": "Hello!"
+              },
+              "sourcePage": 54
+            },
+            {
+              "speaker": "A 03",
+              "speakerText": {
+                "sourceLanguage": "mixed",
+                "sourceText": "A 03",
+                "id": "Bagian A 03"
+              },
+              "text": {
+                "sourceLanguage": "fil",
+                "sourceText": "Hello, kumusta?",
+                "id": "Halo, apa kabarmu?",
+                "tagalog": "Hello, kumusta?"
+              },
+              "sourcePage": 55
+            },
+            {
+              "speaker": "A 04",
+              "speakerText": {
+                "sourceLanguage": "mixed",
+                "sourceText": "A 04",
+                "id": "Bagian A 04"
+              },
+              "text": {
+                "sourceLanguage": "fil",
+                "sourceText": "Mabuti. Ikaw?",
+                "id": "Baik. (Dan kamu?)",
+                "tagalog": "Mabuti. Ikaw?"
+              },
+              "sourcePage": 56
+            },
+            {
+              "speaker": "A 05",
+              "speakerText": {
+                "sourceLanguage": "mixed",
+                "sourceText": "A 05",
+                "id": "Bagian A 05"
+              },
+              "text": {
+                "sourceLanguage": "fil",
+                "sourceText": "Mabuti rin.",
+                "id": "Saya juga baik.",
+                "tagalog": "Mabuti rin."
+              },
+              "sourcePage": 57
+            },
+            {
+              "speaker": "A 06",
+              "speakerText": {
+                "sourceLanguage": "mixed",
+                "sourceText": "A 06",
+                "id": "Bagian A 06"
+              },
+              "text": {
+                "sourceLanguage": "fil",
+                "sourceText": "Saan ka pupunta?",
+                "id": "Kemana kamu pergi?",
+                "tagalog": "Saan ka pupunta?"
+              },
+              "sourcePage": 58
+            },
+            {
+              "speaker": "A 07",
+              "speakerText": {
+                "sourceLanguage": "mixed",
+                "sourceText": "A 07",
+                "id": "Bagian A 07"
+              },
+              "text": {
+                "sourceLanguage": "fil",
+                "sourceText": "Sa klase ko. Ikaw, may klase ka ba ngayon?",
+                "id": "Ke kelasku. Bagaimana denganmu? Apakah kamu ada kelas sekarang?",
+                "tagalog": "Sa klase ko. Ikaw, may klase ka ba ngayon?"
+              },
+              "sourcePage": 59
+            },
+            {
+              "speaker": "A 08",
+              "speakerText": {
+                "sourceLanguage": "mixed",
+                "sourceText": "A 08",
+                "id": "Bagian A 08"
+              },
+              "text": {
+                "sourceLanguage": "fil",
+                "sourceText": "Wala' na. Tapos na. Bukas ang sunod na klase ko.",
+                "id": "Tidak lagi. saya sudah selesai. Kelasku selanjutnya adalah besok.",
+                "tagalog": "Wala' na. Tapos na. Bukas ang sunod na klase ko."
+              },
+              "sourcePage": 60
+            },
+            {
+              "speaker": "A 09",
+              "speakerText": {
+                "sourceLanguage": "mixed",
+                "sourceText": "A 09",
+                "id": "Bagian A 09"
+              },
+              "text": {
+                "sourceLanguage": "fil",
+                "sourceText": "O sige. Magkita' na lang tayo bukas.",
+                "id": "Oke. Mari kita bertemu besok saja.",
+                "tagalog": "O sige. Magkita' na lang tayo bukas."
+              },
+              "sourcePage": 61
+            },
+            {
+              "speaker": "A 10",
+              "speakerText": {
+                "sourceLanguage": "mixed",
+                "sourceText": "A 10",
+                "id": "Bagian A 10"
+              },
+              "text": {
+                "sourceLanguage": "fil",
+                "sourceText": "Sige, ingat.",
+                "id": "Baiklah, berhati-hatilah.",
+                "tagalog": "Sige, ingat."
+              },
+              "sourcePage": 62
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "vocabulary",
+      "type": "VOCABULARY",
+      "title": {
+        "sourceLanguage": "mixed",
+        "sourceText": "Vocabulary and expressions",
+        "id": "Kosakata dan ungkapan"
+      },
+      "blocks": [
+        {
+          "type": "vocabulary",
+          "entries": [
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "Kumusta?",
+                "id": "Apa kabarmu?",
+                "tagalog": "Kumusta?"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "How are you?",
+                "id": "Apa kabarmu?"
+              },
+              "sourcePage": 53
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "Hello!",
+                "id": "Halo!",
+                "tagalog": "Hello!"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "Hello!",
+                "id": "Halo!"
+              },
+              "sourcePage": 54
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "Mabuti.",
+                "id": "Bagus.",
+                "tagalog": "Mabuti."
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "Good.",
+                "id": "Bagus."
+              },
+              "sourcePage": 56
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "Ikaw?",
+                "id": "Anda?",
+                "tagalog": "Ikaw?"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "You?",
+                "id": "Anda?"
+              },
+              "sourcePage": 56
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "rin.",
+                "id": "Juga.",
+                "tagalog": "rin."
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "too.",
+                "id": "Juga."
+              },
+              "sourcePage": 57
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "Saan",
+                "id": "Di mana",
+                "tagalog": "Saan"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "Where",
+                "id": "Di mana"
+              },
+              "sourcePage": 58
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "ka",
+                "id": "kamu",
+                "tagalog": "ka"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "you",
+                "id": "kamu"
+              },
+              "sourcePage": 58
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "pupunta?",
+                "id": "Akan pergi?",
+                "tagalog": "pupunta?"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "will go?",
+                "id": "Akan pergi?"
+              },
+              "sourcePage": 58
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "Sa",
+                "id": "Ke",
+                "tagalog": "Sa"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "To",
+                "id": "Ke"
+              },
+              "sourcePage": 59
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "klase",
+                "id": "Kelas",
+                "tagalog": "klase"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "class",
+                "id": "Kelas"
+              },
+              "sourcePage": 59
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "ko.",
+                "id": "Ku.",
+                "tagalog": "ko."
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "my.",
+                "id": "Ku."
+              },
+              "sourcePage": 59
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "may",
+                "id": "Memiliki",
+                "tagalog": "may"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "have",
+                "id": "Memiliki"
+              },
+              "sourcePage": 59
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "ba",
+                "id": "[penanda tanya]",
+                "tagalog": "ba"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "[question]",
+                "id": "[penanda tanya]"
+              },
+              "sourcePage": 59
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "ngayon?",
+                "id": "Sekarang?",
+                "tagalog": "ngayon?"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "now?",
+                "id": "Sekarang?"
+              },
+              "sourcePage": 59
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "Wala'",
+                "id": "Tidak punya",
+                "tagalog": "Wala'"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "Have none",
+                "id": "Tidak punya"
+              },
+              "sourcePage": 60
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "na.",
+                "id": "Sekarang.",
+                "tagalog": "na."
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "now.",
+                "id": "Sekarang."
+              },
+              "sourcePage": 60
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "Tapos",
+                "id": "Selesai",
+                "tagalog": "Tapos"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "Done",
+                "id": "Selesai"
+              },
+              "sourcePage": 60
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "Bukas",
+                "id": "Besok",
+                "tagalog": "Bukas"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "Tomorrow",
+                "id": "Besok"
+              },
+              "sourcePage": 60
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "ang",
+                "id": "penanda definit",
+                "tagalog": "ang"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "the",
+                "id": "penanda definit"
+              },
+              "sourcePage": 60
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "sunod",
+                "id": "Berikutnya",
+                "tagalog": "sunod"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "next",
+                "id": "Berikutnya"
+              },
+              "sourcePage": 60
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "O sige.",
+                "id": "Oke.",
+                "tagalog": "O sige."
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "OK.",
+                "id": "Oke."
+              },
+              "sourcePage": 61
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "Magkita'",
+                "id": "Bertemu",
+                "tagalog": "Magkita'"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "Meet",
+                "id": "Bertemu"
+              },
+              "sourcePage": 61
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "na lang",
+                "id": "Hanya",
+                "tagalog": "na lang"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "just",
+                "id": "Hanya"
+              },
+              "sourcePage": 61
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "tayo",
+                "id": "Kami (termasuk kamu)",
+                "tagalog": "tayo"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "we (incl. you)",
+                "id": "Kami (termasuk kamu)"
+              },
+              "sourcePage": 61
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "Sige,",
+                "id": "Oke,",
+                "tagalog": "Sige,"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "OK,",
+                "id": "Oke,"
+              },
+              "sourcePage": 62
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "ingat.",
+                "id": "Hati-hati.",
+                "tagalog": "ingat."
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "take care.",
+                "id": "Hati-hati."
+              },
+              "sourcePage": 62
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "din.",
+                "id": "Juga.",
+                "tagalog": "din."
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "too.",
+                "id": "Juga."
+              },
+              "sourcePage": 63
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "trabaho",
+                "id": "Bekerja",
+                "tagalog": "trabaho"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "work",
+                "id": "Bekerja"
+              },
+              "sourcePage": 65
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "Meron.",
+                "id": "Miliki beberapa.",
+                "tagalog": "Meron."
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "Have some.",
+                "id": "Miliki beberapa."
+              },
+              "sourcePage": 66
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "ako",
+                "id": "saya",
+                "tagalog": "ako"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "I",
+                "id": "saya"
+              },
+              "sourcePage": 66
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "araw-araw.",
+                "id": "Setiap hari.",
+                "tagalog": "araw-araw."
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "every day.",
+                "id": "Setiap hari."
+              },
+              "sourcePage": 66
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "meeting",
+                "id": "Pertemuan",
+                "tagalog": "meeting"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "meeting",
+                "id": "Pertemuan"
+              },
+              "sourcePage": 68
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "kanina?",
+                "id": "Sebelumnya hari ini?",
+                "tagalog": "kanina?"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "earlier today?",
+                "id": "Sebelumnya hari ini?"
+              },
+              "sourcePage": 68
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "mamaya'?",
+                "id": "Nanti hari ini?",
+                "tagalog": "mamaya'?"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "later today?",
+                "id": "Nanti hari ini?"
+              },
+              "sourcePage": 70
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "pasok",
+                "id": "Kerja/sekolah",
+                "tagalog": "pasok"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "work/school",
+                "id": "Kerja/sekolah"
+              },
+              "sourcePage": 72
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "kahapon?",
+                "id": "Kemarin?",
+                "tagalog": "kahapon?"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "yesterday?",
+                "id": "Kemarin?"
+              },
+              "sourcePage": 72
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "style": "body",
+          "sourcePage": 60,
+          "sourceLabel": "A 08",
+          "links": [
+            "https://learningtagalog.com/grammar/may_mayroon_meron_marami_wala/overview.html"
+          ],
+          "text": {
+            "sourceLanguage": "en",
+            "sourceText": "Recommended reading: May, mayroon/meron, marami, wala: Overview.",
+            "id": "A 08 · halaman PDF 60\n\nBacaan yang disarankan: May, mayroon/meron, marami, wala: gambaran umum."
+          }
+        },
+        {
+          "type": "text",
+          "style": "body",
+          "sourcePage": 61,
+          "sourceLabel": "A 09",
+          "links": [],
+          "text": {
+            "sourceLanguage": "en",
+            "sourceText": "Tayo – we (including you). Kami – we (excluding you).",
+            "id": "A 09 · halaman PDF 61\n\nTayo berarti kita (termasuk lawan bicara). Kami berarti kami (tidak termasuk lawan bicara)."
+          }
+        },
+        {
+          "type": "text",
+          "style": "body",
+          "sourcePage": 66,
+          "sourceLabel": "B 02",
+          "links": [
+            "https://learningtagalog.com/grammar/may_mayroon_meron_marami_wala/standalone_meron_marami_wala.html"
+          ],
+          "text": {
+            "sourceLanguage": "en",
+            "sourceText": "Yes/no questions starting with may, meron or wala' are generally answered with meron (for yes) or wala' (for no).",
+            "id": "B 02 · halaman PDF 66\n\nPertanyaan ya/tidak yang dimulai dengan may, meron atau wala' umumnya dijawab dengan meron (untuk ya) atau wala' (untuk tidak)."
+          }
+        },
+        {
+          "type": "text",
+          "style": "body",
+          "sourcePage": 66,
+          "sourceLabel": "B 02",
+          "links": [
+            "https://learningtagalog.com/grammar/may_mayroon_meron_marami_wala/standalone_meron_marami_wala.html"
+          ],
+          "text": {
+            "sourceLanguage": "en",
+            "sourceText": "Optional reading: Stand-alone meron/marami/wala.",
+            "id": "B 02 · halaman PDF 66\n\nBacaan opsional: Meron/marami/wala yang berdiri sendiri."
+          }
+        }
+      ]
+    },
+    {
+      "id": "grammar",
+      "type": "GRAMMAR",
+      "title": {
+        "sourceLanguage": "mixed",
+        "sourceText": "Grammar and pronunciation notes",
+        "id": "Catatan tata bahasa dan pelafalan"
+      },
+      "blocks": [
+        {
+          "type": "text",
+          "style": "body",
+          "sourcePage": 59,
+          "sourceLabel": "A 07",
+          "links": [
+            "https://learningtagalog.com/grammar/pronunciation/replaceable_sounds.html"
+          ],
+          "text": {
+            "sourceLanguage": "en",
+            "sourceText": "In this sentence, may means has/have/had (a/some) (...). May klase ka. – You have a class. Ka is the POD.",
+            "id": "A 07 · halaman PDF 59\n\nDalam kalimat ini, may menyatakan kepemilikan. May klase ka berarti kamu memiliki kelas. Ka adalah POD."
+          }
+        },
+        {
+          "type": "text",
+          "style": "body",
+          "sourcePage": 59,
+          "sourceLabel": "A 07",
+          "links": [
+            "https://learningtagalog.com/grammar/pronunciation/replaceable_sounds.html"
+          ],
+          "text": {
+            "sourceLanguage": "en",
+            "sourceText": "Notice the pronunciation of may here. It sounds like \"mey.\" The sound /ay/ can be pronounced as \"ay,\" \"ey\" or \"e.\"",
+            "id": "A 07 · halaman PDF 59\n\nPerhatikan pengucapan may di sini. Kedengarannya seperti \"saya.\" Bunyi /ay/ dapat diucapkan sebagai \"ay\", \"ey\", atau \"e\"."
+          }
+        },
+        {
+          "type": "text",
+          "style": "body",
+          "sourcePage": 59,
+          "sourceLabel": "A 07",
+          "links": [
+            "https://learningtagalog.com/grammar/pronunciation/replaceable_sounds.html"
+          ],
+          "text": {
+            "sourceLanguage": "en",
+            "sourceText": "Optional reading: Replaceable sounds.",
+            "id": "A 07 · halaman PDF 59\n\nBacaan opsional: bunyi yang dapat saling menggantikan."
+          }
+        },
+        {
+          "type": "text",
+          "style": "body",
+          "sourcePage": 60,
+          "sourceLabel": "A 08",
+          "links": [
+            "https://learningtagalog.com/grammar/may_mayroon_meron_marami_wala/overview.html"
+          ],
+          "text": {
+            "sourceLanguage": "en",
+            "sourceText": "Note the pronunciation of Wala' na. Since wala' is immediately followed by another word (na), the final vowel is long and there is no glottal stop.",
+            "id": "A 08 · halaman PDF 60\n\nPerhatikan pengucapan Wala' na. Karena wala' langsung diikuti kata lain (na), vokal terakhirnya panjang dan tidak ada glottal stop."
+          }
+        },
+        {
+          "type": "text",
+          "style": "body",
+          "sourcePage": 60,
+          "sourceLabel": "A 08",
+          "links": [
+            "https://learningtagalog.com/grammar/may_mayroon_meron_marami_wala/overview.html"
+          ],
+          "text": {
+            "sourceLanguage": "en",
+            "sourceText": "In this sentence, wala' means has/have/had no (...) or has/have/had none.",
+            "id": "A 08 · halaman PDF 60\n\nDalam kalimat ini, wala' berarti memiliki/memiliki/tidak memiliki (...) atau tidak memiliki/memiliki/tidak memiliki."
+          }
+        },
+        {
+          "type": "text",
+          "style": "body",
+          "sourcePage": 61,
+          "sourceLabel": "A 09",
+          "links": [],
+          "text": {
+            "sourceLanguage": "en",
+            "sourceText": "Magkita' is a verb in the basic form (the form one would find in a dictionary, usually under the verb root).",
+            "id": "A 09 · halaman PDF 61\n\nMagkita' adalah kata kerja dalam bentuk dasar (bentuk yang bisa ditemukan di kamus, biasanya di bawah akar kata kerja)."
+          }
+        },
+        {
+          "type": "text",
+          "style": "body",
+          "sourcePage": 61,
+          "sourceLabel": "A 09",
+          "links": [],
+          "text": {
+            "sourceLanguage": "en",
+            "sourceText": "Basic form + tayo. – Let's (...). Magkita' tayo – Let's meet.",
+            "id": "A 09 · halaman PDF 61\n\nBentuk dasar + tayo. – Ayo (...). Magkita' tayo – Mari kita bertemu."
+          }
+        }
+      ]
+    },
+    {
+      "id": "examples",
+      "type": "EXAMPLES",
+      "title": {
+        "sourceLanguage": "mixed",
+        "sourceText": "Literal and natural translations",
+        "id": "Contoh dengan glosa harfiah dan alami"
+      },
+      "blocks": [
+        {
+          "type": "example",
+          "title": {
+            "sourceLanguage": "mixed",
+            "sourceText": "A 01",
+            "id": "A 01 · halaman PDF 53"
+          },
+          "sourcePage": 53,
+          "rows": [
+            {
+              "cells": [
+                {
+                  "sourceLanguage": "fil",
+                  "sourceText": "Kumusta?",
+                  "id": "Apa kabar?",
+                  "tagalog": "Kumusta?"
+                },
+                {
+                  "sourceLanguage": "en",
+                  "sourceText": "How are you?",
+                  "id": "Glosa harfiah (Inggris)\nHow are you?"
+                },
+                {
+                  "sourceLanguage": "en",
+                  "sourceText": "How are you?",
+                  "id": "Terjemahan alami sumber (Inggris)\nHow are you?"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "example",
+          "title": {
+            "sourceLanguage": "mixed",
+            "sourceText": "A 02",
+            "id": "A 02 · halaman PDF 54"
+          },
+          "sourcePage": 54,
+          "rows": [
+            {
+              "cells": [
+                {
+                  "sourceLanguage": "fil",
+                  "sourceText": "Hello!",
+                  "id": "Halo!",
+                  "tagalog": "Hello!"
+                },
+                {
+                  "sourceLanguage": "en",
+                  "sourceText": "Hello!",
+                  "id": "Glosa harfiah (Inggris)\nHello!"
+                },
+                {
+                  "sourceLanguage": "en",
+                  "sourceText": "Hello!",
+                  "id": "Terjemahan alami sumber (Inggris)\nHello!"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "example",
+          "title": {
+            "sourceLanguage": "mixed",
+            "sourceText": "A 03",
+            "id": "A 03 · halaman PDF 55"
+          },
+          "sourcePage": 55,
+          "rows": [
+            {
+              "cells": [
+                {
+                  "sourceLanguage": "fil",
+                  "sourceText": "Hello, kumusta?",
+                  "id": "Halo, apa kabarmu?",
+                  "tagalog": "Hello, kumusta?"
+                },
+                {
+                  "sourceLanguage": "en",
+                  "sourceText": "Hello, how are you?",
+                  "id": "Glosa harfiah (Inggris)\nHello, how are you?"
+                },
+                {
+                  "sourceLanguage": "en",
+                  "sourceText": "Hello, how are you?",
+                  "id": "Terjemahan alami sumber (Inggris)\nHello, how are you?"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "example",
+          "title": {
+            "sourceLanguage": "mixed",
+            "sourceText": "A 04",
+            "id": "A 04 · halaman PDF 56"
+          },
+          "sourcePage": 56,
+          "rows": [
+            {
+              "cells": [
+                {
+                  "sourceLanguage": "fil",
+                  "sourceText": "Mabuti. Ikaw?",
+                  "id": "Baik. (Dan kamu?)",
+                  "tagalog": "Mabuti. Ikaw?"
+                },
+                {
+                  "sourceLanguage": "en",
+                  "sourceText": "Good. You?",
+                  "id": "Glosa harfiah (Inggris)\nGood. You?"
+                },
+                {
+                  "sourceLanguage": "en",
+                  "sourceText": "Fine. (And) you?",
+                  "id": "Terjemahan alami sumber (Inggris)\nFine. (And) you?"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "example",
+          "title": {
+            "sourceLanguage": "mixed",
+            "sourceText": "A 05",
+            "id": "A 05 · halaman PDF 57"
+          },
+          "sourcePage": 57,
+          "rows": [
+            {
+              "cells": [
+                {
+                  "sourceLanguage": "fil",
+                  "sourceText": "Mabuti rin.",
+                  "id": "Saya juga baik.",
+                  "tagalog": "Mabuti rin."
+                },
+                {
+                  "sourceLanguage": "en",
+                  "sourceText": "Good too.",
+                  "id": "Glosa harfiah (Inggris)\nGood too."
+                },
+                {
+                  "sourceLanguage": "en",
+                  "sourceText": "I'm fine too.",
+                  "id": "Terjemahan alami sumber (Inggris)\nI'm fine too."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "example",
+          "title": {
+            "sourceLanguage": "mixed",
+            "sourceText": "A 06",
+            "id": "A 06 · halaman PDF 58"
+          },
+          "sourcePage": 58,
+          "rows": [
+            {
+              "cells": [
+                {
+                  "sourceLanguage": "fil",
+                  "sourceText": "Saan ka pupunta?",
+                  "id": "Kemana kamu pergi?",
+                  "tagalog": "Saan ka pupunta?"
+                },
+                {
+                  "sourceLanguage": "en",
+                  "sourceText": "Where you will go?",
+                  "id": "Glosa harfiah (Inggris)\nWhere you will go?"
+                },
+                {
+                  "sourceLanguage": "en",
+                  "sourceText": "Where are you going?",
+                  "id": "Terjemahan alami sumber (Inggris)\nWhere are you going?"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "example",
+          "title": {
+            "sourceLanguage": "mixed",
+            "sourceText": "A 07",
+            "id": "A 07 · halaman PDF 59"
+          },
+          "sourcePage": 59,
+          "rows": [
+            {
+              "cells": [
+                {
+                  "sourceLanguage": "fil",
+                  "sourceText": "Sa klase ko. Ikaw, may klase ka ba ngayon?",
+                  "id": "Ke kelasku. Bagaimana denganmu? Apakah kamu ada kelas sekarang?",
+                  "tagalog": "Sa klase ko. Ikaw, may klase ka ba ngayon?"
+                },
+                {
+                  "sourceLanguage": "en",
+                  "sourceText": "To class my. You, have class you [question] now?",
+                  "id": "Glosa harfiah (Inggris)\nTo class my. You, have class you [question] now?"
+                },
+                {
+                  "sourceLanguage": "en",
+                  "sourceText": "To my class. How about you? Do you have a class now?",
+                  "id": "Terjemahan alami sumber (Inggris)\nTo my class. How about you? Do you have a class now?"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "example",
+          "title": {
+            "sourceLanguage": "mixed",
+            "sourceText": "A 08",
+            "id": "A 08 · halaman PDF 60"
+          },
+          "sourcePage": 60,
+          "rows": [
+            {
+              "cells": [
+                {
+                  "sourceLanguage": "fil",
+                  "sourceText": "Wala' na. Tapos na. Bukas ang sunod na klase ko.",
+                  "id": "Tidak lagi. saya sudah selesai. Kelasku selanjutnya adalah besok.",
+                  "tagalog": "Wala' na. Tapos na. Bukas ang sunod na klase ko."
+                },
+                {
+                  "sourceLanguage": "en",
+                  "sourceText": "Have none now. Done now. Tomorrow the next [linker] class my.",
+                  "id": "Glosa harfiah (Inggris)\nHave none now. Done now. Tomorrow the next [linker] class my."
+                },
+                {
+                  "sourceLanguage": "en",
+                  "sourceText": "Not anymore. I'm done. My next class is tomorrow.",
+                  "id": "Terjemahan alami sumber (Inggris)\nNot anymore. I'm done. My next class is tomorrow."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "example",
+          "title": {
+            "sourceLanguage": "mixed",
+            "sourceText": "A 09",
+            "id": "A 09 · halaman PDF 61"
+          },
+          "sourcePage": 61,
+          "rows": [
+            {
+              "cells": [
+                {
+                  "sourceLanguage": "fil",
+                  "sourceText": "O sige. Magkita' na lang tayo bukas.",
+                  "id": "Oke. Mari kita bertemu besok saja.",
+                  "tagalog": "O sige. Magkita' na lang tayo bukas."
+                },
+                {
+                  "sourceLanguage": "en",
+                  "sourceText": "OK. Meet just we (incl. you) tomorrow.",
+                  "id": "Glosa harfiah (Inggris)\nOK. Meet just we (incl. you) tomorrow."
+                },
+                {
+                  "sourceLanguage": "en",
+                  "sourceText": "OK. Let's just see each other tomorrow.",
+                  "id": "Terjemahan alami sumber (Inggris)\nOK. Let's just see each other tomorrow."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "example",
+          "title": {
+            "sourceLanguage": "mixed",
+            "sourceText": "A 10",
+            "id": "A 10 · halaman PDF 62"
+          },
+          "sourcePage": 62,
+          "rows": [
+            {
+              "cells": [
+                {
+                  "sourceLanguage": "fil",
+                  "sourceText": "Sige, ingat.",
+                  "id": "Baiklah, berhati-hatilah.",
+                  "tagalog": "Sige, ingat."
+                },
+                {
+                  "sourceLanguage": "en",
+                  "sourceText": "OK, take care.",
+                  "id": "Glosa harfiah (Inggris)\nOK, take care."
+                },
+                {
+                  "sourceLanguage": "en",
+                  "sourceText": "All right, take care.",
+                  "id": "Terjemahan alami sumber (Inggris)\nAll right, take care."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "example",
+          "title": {
+            "sourceLanguage": "mixed",
+            "sourceText": "A 11",
+            "id": "A 11 · halaman PDF 63"
+          },
+          "sourcePage": 63,
+          "rows": [
+            {
+              "cells": [
+                {
+                  "sourceLanguage": "fil",
+                  "sourceText": "Ingat din.",
+                  "id": "Anda juga (hati-hati).",
+                  "tagalog": "Ingat din."
+                },
+                {
+                  "sourceLanguage": "en",
+                  "sourceText": "Take care too.",
+                  "id": "Glosa harfiah (Inggris)\nTake care too."
+                },
+                {
+                  "sourceLanguage": "en",
+                  "sourceText": "You too (take care).",
+                  "id": "Terjemahan alami sumber (Inggris)\nYou too (take care)."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "example",
+          "title": {
+            "sourceLanguage": "mixed",
+            "sourceText": "B 01",
+            "id": "B 01 · halaman PDF 65"
+          },
+          "sourcePage": 65,
+          "rows": [
+            {
+              "cells": [
+                {
+                  "sourceLanguage": "fil",
+                  "sourceText": "May trabaho ka ba ngayon?",
+                  "id": "Apakah kamu ada pekerjaan hari ini?",
+                  "tagalog": "May trabaho ka ba ngayon?"
+                },
+                {
+                  "sourceLanguage": "en",
+                  "sourceText": "Have work you [question] today?",
+                  "id": "Glosa harfiah (Inggris)\nHave work you [question] today?"
+                },
+                {
+                  "sourceLanguage": "en",
+                  "sourceText": "Do you have work today?",
+                  "id": "Terjemahan alami sumber (Inggris)\nDo you have work today?"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "example",
+          "title": {
+            "sourceLanguage": "mixed",
+            "sourceText": "B 02",
+            "id": "B 02 · halaman PDF 66"
+          },
+          "sourcePage": 66,
+          "rows": [
+            {
+              "cells": [
+                {
+                  "sourceLanguage": "fil",
+                  "sourceText": "Meron. May trabaho ako araw-araw.",
+                  "id": "Ya. Saya punya pekerjaan setiap hari.",
+                  "tagalog": "Meron. May trabaho ako araw-araw."
+                },
+                {
+                  "sourceLanguage": "en",
+                  "sourceText": "Have some. Have work I every day.",
+                  "id": "Glosa harfiah (Inggris)\nHave some. Have work I every day."
+                },
+                {
+                  "sourceLanguage": "en",
+                  "sourceText": "Yes. I have work every day.",
+                  "id": "Terjemahan alami sumber (Inggris)\nYes. I have work every day."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "example",
+          "title": {
+            "sourceLanguage": "mixed",
+            "sourceText": "B 03",
+            "id": "B 03 · halaman PDF 67"
+          },
+          "sourcePage": 67,
+          "rows": [
+            {
+              "cells": [
+                {
+                  "sourceLanguage": "fil",
+                  "sourceText": "Ako rin.",
+                  "id": "Saya juga.",
+                  "tagalog": "Ako rin."
+                },
+                {
+                  "sourceLanguage": "en",
+                  "sourceText": "I too.",
+                  "id": "Glosa harfiah (Inggris)\nI too."
+                },
+                {
+                  "sourceLanguage": "en",
+                  "sourceText": "Me too.",
+                  "id": "Terjemahan alami sumber (Inggris)\nMe too."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "example",
+          "title": {
+            "sourceLanguage": "mixed",
+            "sourceText": "B 04",
+            "id": "B 04 · halaman PDF 68"
+          },
+          "sourcePage": 68,
+          "rows": [
+            {
+              "cells": [
+                {
+                  "sourceLanguage": "fil",
+                  "sourceText": "May meeting ka ba kanina?",
+                  "id": "Apakah Anda ada rapat hari ini?",
+                  "tagalog": "May meeting ka ba kanina?"
+                },
+                {
+                  "sourceLanguage": "en",
+                  "sourceText": "Had meeting you [question] earlier today?",
+                  "id": "Glosa harfiah (Inggris)\nHad meeting you [question] earlier today?"
+                },
+                {
+                  "sourceLanguage": "en",
+                  "sourceText": "Did you have a meeting earlier today?",
+                  "id": "Terjemahan alami sumber (Inggris)\nDid you have a meeting earlier today?"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "example",
+          "title": {
+            "sourceLanguage": "mixed",
+            "sourceText": "B 05",
+            "id": "B 05 · halaman PDF 69"
+          },
+          "sourcePage": 69,
+          "rows": [
+            {
+              "cells": [
+                {
+                  "sourceLanguage": "fil",
+                  "sourceText": "Meron.",
+                  "id": "Ya (saya melakukannya).",
+                  "tagalog": "Meron."
+                },
+                {
+                  "sourceLanguage": "en",
+                  "sourceText": "Had one.",
+                  "id": "Glosa harfiah (Inggris)\nHad one."
+                },
+                {
+                  "sourceLanguage": "en",
+                  "sourceText": "Yes (I did).",
+                  "id": "Terjemahan alami sumber (Inggris)\nYes (I did)."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "example",
+          "title": {
+            "sourceLanguage": "mixed",
+            "sourceText": "B 06",
+            "id": "B 06 · halaman PDF 70"
+          },
+          "sourcePage": 70,
+          "rows": [
+            {
+              "cells": [
+                {
+                  "sourceLanguage": "fil",
+                  "sourceText": "May meeting ka ba mamaya'?",
+                  "id": "Apakah Anda ada rapat hari ini?",
+                  "tagalog": "May meeting ka ba mamaya'?"
+                },
+                {
+                  "sourceLanguage": "en",
+                  "sourceText": "Have meeting you [question] later today?",
+                  "id": "Glosa harfiah (Inggris)\nHave meeting you [question] later today?"
+                },
+                {
+                  "sourceLanguage": "en",
+                  "sourceText": "Do you have a meeting later today?",
+                  "id": "Terjemahan alami sumber (Inggris)\nDo you have a meeting later today?"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "example",
+          "title": {
+            "sourceLanguage": "mixed",
+            "sourceText": "B 07",
+            "id": "B 07 · halaman PDF 71"
+          },
+          "sourcePage": 71,
+          "rows": [
+            {
+              "cells": [
+                {
+                  "sourceLanguage": "fil",
+                  "sourceText": "Meron din.",
+                  "id": "Ya, saya juga melakukannya.",
+                  "tagalog": "Meron din."
+                },
+                {
+                  "sourceLanguage": "en",
+                  "sourceText": "Have one too.",
+                  "id": "Glosa harfiah (Inggris)\nHave one too."
+                },
+                {
+                  "sourceLanguage": "en",
+                  "sourceText": "Yes, I do, as well.",
+                  "id": "Terjemahan alami sumber (Inggris)\nYes, I do, as well."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "example",
+          "title": {
+            "sourceLanguage": "mixed",
+            "sourceText": "B 08",
+            "id": "B 08 · halaman PDF 72"
+          },
+          "sourcePage": 72,
+          "rows": [
+            {
+              "cells": [
+                {
+                  "sourceLanguage": "fil",
+                  "sourceText": "May pasok ka ba kahapon?",
+                  "id": "Apakah kamu ada kerja/sekolah kemarin?",
+                  "tagalog": "May pasok ka ba kahapon?"
+                },
+                {
+                  "sourceLanguage": "en",
+                  "sourceText": "Had work/school you [question] yesterday?",
+                  "id": "Glosa harfiah (Inggris)\nHad work/school you [question] yesterday?"
+                },
+                {
+                  "sourceLanguage": "en",
+                  "sourceText": "Did you have work/school yesterday?",
+                  "id": "Terjemahan alami sumber (Inggris)\nDid you have work/school yesterday?"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "example",
+          "title": {
+            "sourceLanguage": "mixed",
+            "sourceText": "B 09",
+            "id": "B 09 · halaman PDF 73"
+          },
+          "sourcePage": 73,
+          "rows": [
+            {
+              "cells": [
+                {
+                  "sourceLanguage": "fil",
+                  "sourceText": "Wala'.",
+                  "id": "Tidak.",
+                  "tagalog": "Wala'."
+                },
+                {
+                  "sourceLanguage": "en",
+                  "sourceText": "Had none.",
+                  "id": "Glosa harfiah (Inggris)\nHad none."
+                },
+                {
+                  "sourceLanguage": "en",
+                  "sourceText": "No.",
+                  "id": "Terjemahan alami sumber (Inggris)\nNo."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "example",
+          "title": {
+            "sourceLanguage": "mixed",
+            "sourceText": "B 10",
+            "id": "B 10 · halaman PDF 74"
+          },
+          "sourcePage": 74,
+          "rows": [
+            {
+              "cells": [
+                {
+                  "sourceLanguage": "fil",
+                  "sourceText": "May pasok ka ba bukas?",
+                  "id": "Apakah kamu ada pekerjaan/sekolah besok?",
+                  "tagalog": "May pasok ka ba bukas?"
+                },
+                {
+                  "sourceLanguage": "en",
+                  "sourceText": "Have work/school you [question] tomorrow?",
+                  "id": "Glosa harfiah (Inggris)\nHave work/school you [question] tomorrow?"
+                },
+                {
+                  "sourceLanguage": "en",
+                  "sourceText": "Do you have work/school tomorrow?",
+                  "id": "Terjemahan alami sumber (Inggris)\nDo you have work/school tomorrow?"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "example",
+          "title": {
+            "sourceLanguage": "mixed",
+            "sourceText": "B 11",
+            "id": "B 11 · halaman PDF 75"
+          },
+          "sourcePage": 75,
+          "rows": [
+            {
+              "cells": [
+                {
+                  "sourceLanguage": "fil",
+                  "sourceText": "Wala' rin.",
+                  "id": "Tidak, aku juga tidak melakukannya.",
+                  "tagalog": "Wala' rin."
+                },
+                {
+                  "sourceLanguage": "en",
+                  "sourceText": "Have none either.",
+                  "id": "Glosa harfiah (Inggris)\nHave none either."
+                },
+                {
+                  "sourceLanguage": "en",
+                  "sourceText": "No, I don't either.",
+                  "id": "Terjemahan alami sumber (Inggris)\nNo, I don't either."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "exercises",
+      "type": "EXERCISES",
+      "title": {
+        "sourceLanguage": "mixed",
+        "sourceText": "Drills",
+        "id": "Latihan pola"
+      },
+      "blocks": [
+        {
+          "type": "exercise",
+          "role": "instruction",
+          "text": {
+            "sourceLanguage": "mixed",
+            "sourceText": "Drills",
+            "id": "Latihan pola (Drills)"
+          },
+          "sourcePage": 64
+        },
+        {
+          "type": "exercise",
+          "role": "content",
+          "title": {
+            "sourceLanguage": "mixed",
+            "sourceText": "A 11",
+            "id": "A 11 · halaman PDF 63"
+          },
+          "sourcePage": 63,
+          "text": {
+            "sourceLanguage": "fil",
+            "sourceText": "Ingat din.",
+            "id": "Anda juga (hati-hati).",
+            "tagalog": "Ingat din."
+          }
+        },
+        {
+          "type": "exercise",
+          "role": "content",
+          "title": {
+            "sourceLanguage": "mixed",
+            "sourceText": "B 01",
+            "id": "B 01 · halaman PDF 65"
+          },
+          "sourcePage": 65,
+          "text": {
+            "sourceLanguage": "fil",
+            "sourceText": "May trabaho ka ba ngayon?",
+            "id": "Apakah kamu ada pekerjaan hari ini?",
+            "tagalog": "May trabaho ka ba ngayon?"
+          }
+        },
+        {
+          "type": "exercise",
+          "role": "content",
+          "title": {
+            "sourceLanguage": "mixed",
+            "sourceText": "B 02",
+            "id": "B 02 · halaman PDF 66"
+          },
+          "sourcePage": 66,
+          "text": {
+            "sourceLanguage": "fil",
+            "sourceText": "Meron. May trabaho ako araw-araw.",
+            "id": "Ya. Saya punya pekerjaan setiap hari.",
+            "tagalog": "Meron. May trabaho ako araw-araw."
+          }
+        },
+        {
+          "type": "exercise",
+          "role": "content",
+          "title": {
+            "sourceLanguage": "mixed",
+            "sourceText": "B 03",
+            "id": "B 03 · halaman PDF 67"
+          },
+          "sourcePage": 67,
+          "text": {
+            "sourceLanguage": "fil",
+            "sourceText": "Ako rin.",
+            "id": "Saya juga.",
+            "tagalog": "Ako rin."
+          }
+        },
+        {
+          "type": "exercise",
+          "role": "content",
+          "title": {
+            "sourceLanguage": "mixed",
+            "sourceText": "B 04",
+            "id": "B 04 · halaman PDF 68"
+          },
+          "sourcePage": 68,
+          "text": {
+            "sourceLanguage": "fil",
+            "sourceText": "May meeting ka ba kanina?",
+            "id": "Apakah Anda ada rapat hari ini?",
+            "tagalog": "May meeting ka ba kanina?"
+          }
+        },
+        {
+          "type": "exercise",
+          "role": "content",
+          "title": {
+            "sourceLanguage": "mixed",
+            "sourceText": "B 05",
+            "id": "B 05 · halaman PDF 69"
+          },
+          "sourcePage": 69,
+          "text": {
+            "sourceLanguage": "fil",
+            "sourceText": "Meron.",
+            "id": "Ya (saya melakukannya).",
+            "tagalog": "Meron."
+          }
+        },
+        {
+          "type": "exercise",
+          "role": "content",
+          "title": {
+            "sourceLanguage": "mixed",
+            "sourceText": "B 06",
+            "id": "B 06 · halaman PDF 70"
+          },
+          "sourcePage": 70,
+          "text": {
+            "sourceLanguage": "fil",
+            "sourceText": "May meeting ka ba mamaya'?",
+            "id": "Apakah Anda ada rapat hari ini?",
+            "tagalog": "May meeting ka ba mamaya'?"
+          }
+        },
+        {
+          "type": "exercise",
+          "role": "content",
+          "title": {
+            "sourceLanguage": "mixed",
+            "sourceText": "B 07",
+            "id": "B 07 · halaman PDF 71"
+          },
+          "sourcePage": 71,
+          "text": {
+            "sourceLanguage": "fil",
+            "sourceText": "Meron din.",
+            "id": "Ya, saya juga melakukannya.",
+            "tagalog": "Meron din."
+          }
+        },
+        {
+          "type": "exercise",
+          "role": "content",
+          "title": {
+            "sourceLanguage": "mixed",
+            "sourceText": "B 08",
+            "id": "B 08 · halaman PDF 72"
+          },
+          "sourcePage": 72,
+          "text": {
+            "sourceLanguage": "fil",
+            "sourceText": "May pasok ka ba kahapon?",
+            "id": "Apakah kamu ada kerja/sekolah kemarin?",
+            "tagalog": "May pasok ka ba kahapon?"
+          }
+        },
+        {
+          "type": "exercise",
+          "role": "content",
+          "title": {
+            "sourceLanguage": "mixed",
+            "sourceText": "B 09",
+            "id": "B 09 · halaman PDF 73"
+          },
+          "sourcePage": 73,
+          "text": {
+            "sourceLanguage": "fil",
+            "sourceText": "Wala'.",
+            "id": "Tidak.",
+            "tagalog": "Wala'."
+          }
+        },
+        {
+          "type": "exercise",
+          "role": "content",
+          "title": {
+            "sourceLanguage": "mixed",
+            "sourceText": "B 10",
+            "id": "B 10 · halaman PDF 74"
+          },
+          "sourcePage": 74,
+          "text": {
+            "sourceLanguage": "fil",
+            "sourceText": "May pasok ka ba bukas?",
+            "id": "Apakah kamu ada pekerjaan/sekolah besok?",
+            "tagalog": "May pasok ka ba bukas?"
+          }
+        },
+        {
+          "type": "exercise",
+          "role": "content",
+          "title": {
+            "sourceLanguage": "mixed",
+            "sourceText": "B 11",
+            "id": "B 11 · halaman PDF 75"
+          },
+          "sourcePage": 75,
+          "text": {
+            "sourceLanguage": "fil",
+            "sourceText": "Wala' rin.",
+            "id": "Tidak, aku juga tidak melakukannya.",
+            "tagalog": "Wala' rin."
+          }
+        }
+      ]
+    },
+    {
+      "id": "summary",
+      "type": "SUMMARY",
+      "title": {
+        "sourceLanguage": "mixed",
+        "sourceText": "Kumusta?",
+        "id": "Ringkasan bab"
+      },
+      "blocks": [
+        {
+          "type": "text",
+          "style": "heading",
+          "text": {
+            "sourceLanguage": "mixed",
+            "sourceText": "Story A",
+            "id": "Dialog utama"
+          }
+        },
+        {
+          "type": "list",
+          "style": "outline",
+          "items": [
+            {
+              "sourceLanguage": "fil",
+              "sourceText": "Kumusta?",
+              "id": "Apa kabar?",
+              "tagalog": "Kumusta?"
+            },
+            {
+              "sourceLanguage": "fil",
+              "sourceText": "Hello!",
+              "id": "Halo!",
+              "tagalog": "Hello!"
+            },
+            {
+              "sourceLanguage": "fil",
+              "sourceText": "Hello, kumusta?",
+              "id": "Halo, apa kabarmu?",
+              "tagalog": "Hello, kumusta?"
+            },
+            {
+              "sourceLanguage": "fil",
+              "sourceText": "Mabuti. Ikaw?",
+              "id": "Baik. (Dan kamu?)",
+              "tagalog": "Mabuti. Ikaw?"
+            },
+            {
+              "sourceLanguage": "fil",
+              "sourceText": "Mabuti rin.",
+              "id": "Saya juga baik.",
+              "tagalog": "Mabuti rin."
+            },
+            {
+              "sourceLanguage": "fil",
+              "sourceText": "Saan ka pupunta?",
+              "id": "Kemana kamu pergi?",
+              "tagalog": "Saan ka pupunta?"
+            },
+            {
+              "sourceLanguage": "fil",
+              "sourceText": "Sa klase ko. Ikaw, may klase ka ba ngayon?",
+              "id": "Ke kelasku. Bagaimana denganmu? Apakah kamu ada kelas sekarang?",
+              "tagalog": "Sa klase ko. Ikaw, may klase ka ba ngayon?"
+            },
+            {
+              "sourceLanguage": "fil",
+              "sourceText": "Wala' na. Tapos na. Bukas ang sunod na klase ko.",
+              "id": "Tidak lagi. saya sudah selesai. Kelasku selanjutnya adalah besok.",
+              "tagalog": "Wala' na. Tapos na. Bukas ang sunod na klase ko."
+            },
+            {
+              "sourceLanguage": "fil",
+              "sourceText": "O sige. Magkita' na lang tayo bukas.",
+              "id": "Oke. Mari kita bertemu besok saja.",
+              "tagalog": "O sige. Magkita' na lang tayo bukas."
+            },
+            {
+              "sourceLanguage": "fil",
+              "sourceText": "Sige, ingat.",
+              "id": "Baiklah, berhati-hatilah.",
+              "tagalog": "Sige, ingat."
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "style": "heading",
+          "text": {
+            "sourceLanguage": "mixed",
+            "sourceText": "Drills",
+            "id": "Latihan pola"
+          }
+        },
+        {
+          "type": "list",
+          "style": "outline",
+          "items": [
+            {
+              "sourceLanguage": "fil",
+              "sourceText": "Ingat din.",
+              "id": "Anda juga (hati-hati).",
+              "tagalog": "Ingat din."
+            },
+            {
+              "sourceLanguage": "fil",
+              "sourceText": "May trabaho ka ba ngayon?",
+              "id": "Apakah kamu ada pekerjaan hari ini?",
+              "tagalog": "May trabaho ka ba ngayon?"
+            },
+            {
+              "sourceLanguage": "fil",
+              "sourceText": "Meron. May trabaho ako araw-araw.",
+              "id": "Ya. Saya punya pekerjaan setiap hari.",
+              "tagalog": "Meron. May trabaho ako araw-araw."
+            },
+            {
+              "sourceLanguage": "fil",
+              "sourceText": "Ako rin.",
+              "id": "Saya juga.",
+              "tagalog": "Ako rin."
+            },
+            {
+              "sourceLanguage": "fil",
+              "sourceText": "May meeting ka ba kanina?",
+              "id": "Apakah Anda ada rapat hari ini?",
+              "tagalog": "May meeting ka ba kanina?"
+            },
+            {
+              "sourceLanguage": "fil",
+              "sourceText": "Meron.",
+              "id": "Ya (saya melakukannya).",
+              "tagalog": "Meron."
+            },
+            {
+              "sourceLanguage": "fil",
+              "sourceText": "May meeting ka ba mamaya'?",
+              "id": "Apakah Anda ada rapat hari ini?",
+              "tagalog": "May meeting ka ba mamaya'?"
+            },
+            {
+              "sourceLanguage": "fil",
+              "sourceText": "Meron din.",
+              "id": "Ya, saya juga melakukannya.",
+              "tagalog": "Meron din."
+            },
+            {
+              "sourceLanguage": "fil",
+              "sourceText": "May pasok ka ba kahapon?",
+              "id": "Apakah kamu ada kerja/sekolah kemarin?",
+              "tagalog": "May pasok ka ba kahapon?"
+            },
+            {
+              "sourceLanguage": "fil",
+              "sourceText": "Wala'.",
+              "id": "Tidak.",
+              "tagalog": "Wala'."
+            },
+            {
+              "sourceLanguage": "fil",
+              "sourceText": "May pasok ka ba bukas?",
+              "id": "Apakah kamu ada pekerjaan/sekolah besok?",
+              "tagalog": "May pasok ka ba bukas?"
+            },
+            {
+              "sourceLanguage": "fil",
+              "sourceText": "Wala' rin.",
+              "id": "Tidak, aku juga tidak melakukannya.",
+              "tagalog": "Wala' rin."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "contentAudit": {
+    "sourcePages": 25,
+    "phrasePages": 22,
+    "storyPhrases": 10,
+    "drillPhrases": 12,
+    "noteBlocks": 12,
+    "vocabularyEntries": 36,
+    "sourceTextItemsBefore": 79,
+    "sourceTextItemsAfter": 79,
+    "recapVerified": true,
+    "imageCount": 1
+  }
+}

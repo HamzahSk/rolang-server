@@ -4,12 +4,25 @@
     {
       "id": "elementary-tagalog-1",
       "path": "elementary-tagalog-1/index.json",
-      "sha256": "d1383e0c7dac023d91da729afecdfec8daec721b0df1071185915419e031075a",
+      "sha256": "813414e25ff81fc0c9eb0b5120de3163a70667d71525246437f1f6dfb88aa98b",
       "lessonCount": 24,
       "unitCount": 8,
       "title": {
         "id": "Elementary Tagalog 1",
         "fil": "Elementary Tagalog 1"
+      },
+      "order": 1
+    },
+    {
+      "id": "learning-tagalog-course-book-1",
+      "order": 2,
+      "path": "learning-tagalog-course-book-1/index.json",
+      "sha256": "7201951c2b5fad297d0b5c9f27793358c4df7395b9c599d13f1b87a39d0f9afb",
+      "lessonCount": 20,
+      "unitCount": 5,
+      "title": {
+        "id": "Belajar Tagalog — Lancar dengan Cepat dan Mudah — Buku Kursus 1",
+        "fil": "Learning Tagalog — Course Book 1"
       }
     }
   ]

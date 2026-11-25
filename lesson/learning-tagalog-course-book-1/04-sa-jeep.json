@@ -1,0 +1,2401 @@
+{
+  "schemaVersion": 1,
+  "structureVersion": 2,
+  "id": "learning-tagalog-course-book-1-lesson-04",
+  "courseId": "learning-tagalog-course-book-1",
+  "unitId": "course-book-1-unit-01-conversation-foundations",
+  "order": 4,
+  "level": "BEGINNER",
+  "title": {
+    "id": "Di dalam jeepney",
+    "fil": "Sa jeep"
+  },
+  "summary": {
+    "id": "Seorang wanita pergi ke pasar dengan jeepney. Dia baru di kota dan menanyakan arah kepada pengemudi.",
+    "fil": "Sa jeep"
+  },
+  "objectives": [
+    {
+      "sourceLanguage": "mixed",
+      "sourceText": "Chapter 4 · Story A",
+      "id": "Memahami dialog utama Bab 4 tentang di dalam jeepney."
+    },
+    {
+      "sourceLanguage": "mixed",
+      "sourceText": "Literal and natural translations",
+      "id": "Membandingkan susunan Tagalog dengan glosa harfiah dan terjemahan alami dari sumber."
+    },
+    {
+      "sourceLanguage": "mixed",
+      "sourceText": "Drills",
+      "id": "Melatih kembali pola dan ungkapan pada bagian Drills."
+    }
+  ],
+  "source": {
+    "book": "Learning Tagalog - Fluency Made Fast and Easy - Course Book 1",
+    "file": "Learning Tagalog - Fluency Made Fast and Easy - Course Book 1.pdf",
+    "pdfSha256": "52e9f464239c2ae98248a452edfbf1f58eb01bec69374a16d5205e70afa80f58",
+    "chapter": 4,
+    "pages": {
+      "start": 77,
+      "end": 104
+    },
+    "drillsDividerPage": 92,
+    "recapPage": 104
+  },
+  "sourceLinks": [
+    {
+      "page": 84,
+      "uri": "https://learningtagalog.com/grammar/other_describing_words/expressing_location/eto_ayan_ayun.html"
+    }
+  ],
+  "assets": [
+    "assets/04-sa-jeep.jpg"
+  ],
+  "sections": [
+    {
+      "id": "introduction",
+      "type": "INTRODUCTION",
+      "title": {
+        "sourceLanguage": "mixed",
+        "sourceText": "On the jeepney",
+        "id": "Di dalam jeepney"
+      },
+      "blocks": [
+        {
+          "type": "image",
+          "path": "assets/04-sa-jeep.jpg",
+          "sourcePage": 77
+        },
+        {
+          "type": "text",
+          "style": "heading",
+          "text": {
+            "sourceLanguage": "en",
+            "sourceText": "On the jeepney",
+            "id": "Di dalam jeepney"
+          }
+        }
+      ]
+    },
+    {
+      "id": "learning-material",
+      "type": "LEARNING_MATERIAL",
+      "title": {
+        "sourceLanguage": "mixed",
+        "sourceText": "Chapter context",
+        "id": "Konteks bab"
+      },
+      "blocks": [
+        {
+          "type": "text",
+          "style": "body",
+          "sourcePage": 77,
+          "text": {
+            "sourceLanguage": "en",
+            "sourceText": "A woman goes to the market by jeepney. She's new in town and asks the driver for directions.",
+            "id": "Seorang wanita pergi ke pasar dengan jeepney. Dia baru di kota dan menanyakan arah kepada pengemudi."
+          }
+        }
+      ]
+    },
+    {
+      "id": "dialogue",
+      "type": "DIALOGUE",
+      "title": {
+        "sourceLanguage": "mixed",
+        "sourceText": "Story A",
+        "id": "Dialog utama (Bagian A)"
+      },
+      "blocks": [
+        {
+          "type": "dialogue",
+          "turns": [
+            {
+              "speaker": "A 01",
+              "speakerText": {
+                "sourceLanguage": "mixed",
+                "sourceText": "A 01",
+                "id": "Bagian A 01"
+              },
+              "text": {
+                "sourceLanguage": "fil",
+                "sourceText": "Sa jeep",
+                "id": "Di dalam jeepney",
+                "tagalog": "Sa jeep"
+              },
+              "sourcePage": 78
+            },
+            {
+              "speaker": "A 02",
+              "speakerText": {
+                "sourceLanguage": "mixed",
+                "sourceText": "A 02",
+                "id": "Bagian A 02"
+              },
+              "text": {
+                "sourceLanguage": "fil",
+                "sourceText": "Bayad.",
+                "id": "Ini ongkos saya.",
+                "tagalog": "Bayad."
+              },
+              "sourcePage": 79
+            },
+            {
+              "speaker": "A 03",
+              "speakerText": {
+                "sourceLanguage": "mixed",
+                "sourceText": "A 03",
+                "id": "Bagian A 03"
+              },
+              "text": {
+                "sourceLanguage": "fil",
+                "sourceText": "Ilan?",
+                "id": "(Untuk berapa orang)?",
+                "tagalog": "Ilan?"
+              },
+              "sourcePage": 80
+            },
+            {
+              "speaker": "A 04",
+              "speakerText": {
+                "sourceLanguage": "mixed",
+                "sourceText": "A 04",
+                "id": "Bagian A 04"
+              },
+              "text": {
+                "sourceLanguage": "fil",
+                "sourceText": "Isa lang.",
+                "id": "Hanya satu.",
+                "tagalog": "Isa lang."
+              },
+              "sourcePage": 81
+            },
+            {
+              "speaker": "A 05",
+              "speakerText": {
+                "sourceLanguage": "mixed",
+                "sourceText": "A 05",
+                "id": "Bagian A 05"
+              },
+              "text": {
+                "sourceLanguage": "fil",
+                "sourceText": "Saan kayo bababa'?",
+                "id": "Di mana kamu akan turun?",
+                "tagalog": "Saan kayo bababa'?"
+              },
+              "sourcePage": 82
+            },
+            {
+              "speaker": "A 06",
+              "speakerText": {
+                "sourceLanguage": "mixed",
+                "sourceText": "A 06",
+                "id": "Bagian A 06"
+              },
+              "text": {
+                "sourceLanguage": "fil",
+                "sourceText": "Sa bayan.",
+                "id": "Di kota.",
+                "tagalog": "Sa bayan."
+              },
+              "sourcePage": 83
+            },
+            {
+              "speaker": "A 07",
+              "speakerText": {
+                "sourceLanguage": "mixed",
+                "sourceText": "A 07",
+                "id": "Bagian A 07"
+              },
+              "text": {
+                "sourceLanguage": "fil",
+                "sourceText": "Eto ang sukli'.",
+                "id": "Ini kembaliannya.",
+                "tagalog": "Eto ang sukli'."
+              },
+              "sourcePage": 84
+            },
+            {
+              "speaker": "A 08",
+              "speakerText": {
+                "sourceLanguage": "mixed",
+                "sourceText": "A 08",
+                "id": "Bagian A 08"
+              },
+              "text": {
+                "sourceLanguage": "fil",
+                "sourceText": "Salamat. [...]",
+                "id": "Terima kasih. [...]",
+                "tagalog": "Salamat. [...]"
+              },
+              "sourcePage": 85
+            },
+            {
+              "speaker": "A 09",
+              "speakerText": {
+                "sourceLanguage": "mixed",
+                "sourceText": "A 09",
+                "id": "Bagian A 09"
+              },
+              "text": {
+                "sourceLanguage": "fil",
+                "sourceText": "Malayo' pa ba ang palengke?",
+                "id": "Apakah pasarnya masih jauh?",
+                "tagalog": "Malayo' pa ba ang palengke?"
+              },
+              "sourcePage": 86
+            },
+            {
+              "speaker": "A 10",
+              "speakerText": {
+                "sourceLanguage": "mixed",
+                "sourceText": "A 10",
+                "id": "Bagian A 10"
+              },
+              "text": {
+                "sourceLanguage": "fil",
+                "sourceText": "Hindi', malapit na.",
+                "id": "Tidak, kita hampir sampai.",
+                "tagalog": "Hindi', malapit na."
+              },
+              "sourcePage": 87
+            },
+            {
+              "speaker": "A 11",
+              "speakerText": {
+                "sourceLanguage": "mixed",
+                "sourceText": "A 11",
+                "id": "Bagian A 11"
+              },
+              "text": {
+                "sourceLanguage": "fil",
+                "sourceText": "Malaki ba ang palengke rito?",
+                "id": "Apakah pasar di sini besar?",
+                "tagalog": "Malaki ba ang palengke rito?"
+              },
+              "sourcePage": 88
+            },
+            {
+              "speaker": "A 12",
+              "speakerText": {
+                "sourceLanguage": "mixed",
+                "sourceText": "A 12",
+                "id": "Bagian A 12"
+              },
+              "text": {
+                "sourceLanguage": "fil",
+                "sourceText": "Oo. [...]",
+                "id": "Ya. [...]",
+                "tagalog": "Oo. [...]"
+              },
+              "sourcePage": 89
+            },
+            {
+              "speaker": "A 13",
+              "speakerText": {
+                "sourceLanguage": "mixed",
+                "sourceText": "A 13",
+                "id": "Bagian A 13"
+              },
+              "text": {
+                "sourceLanguage": "fil",
+                "sourceText": "Nandito na ang palengke.",
+                "id": "Kita sudah sampai di pasar. (Pasarnya sudah di sini.)",
+                "tagalog": "Nandito na ang palengke."
+              },
+              "sourcePage": 90
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "vocabulary",
+      "type": "VOCABULARY",
+      "title": {
+        "sourceLanguage": "mixed",
+        "sourceText": "Vocabulary and expressions",
+        "id": "Kosakata dan ungkapan"
+      },
+      "blocks": [
+        {
+          "type": "vocabulary",
+          "entries": [
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "Sa",
+                "id": "Pada",
+                "tagalog": "Sa"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "On",
+                "id": "Pada"
+              },
+              "sourcePage": 78
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "jeep",
+                "id": "Jeepney",
+                "tagalog": "jeep"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "jeepney",
+                "id": "Jeepney"
+              },
+              "sourcePage": 78
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "Bayad.",
+                "id": "Pembayaran.",
+                "tagalog": "Bayad."
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "Payment.",
+                "id": "Pembayaran."
+              },
+              "sourcePage": 79
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "Ilan?",
+                "id": "Berapa banyak?",
+                "tagalog": "Ilan?"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "How many?",
+                "id": "Berapa banyak?"
+              },
+              "sourcePage": 80
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "Isa",
+                "id": "Satu",
+                "tagalog": "Isa"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "One",
+                "id": "Satu"
+              },
+              "sourcePage": 81
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "lang.",
+                "id": "Hanya.",
+                "tagalog": "lang."
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "only.",
+                "id": "Hanya."
+              },
+              "sourcePage": 81
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "Saan",
+                "id": "Di mana",
+                "tagalog": "Saan"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "Where",
+                "id": "Di mana"
+              },
+              "sourcePage": 82
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "kayo",
+                "id": "Kamu (sopan)",
+                "tagalog": "kayo"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "you (polite)",
+                "id": "Kamu (sopan)"
+              },
+              "sourcePage": 82
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "bababa'?",
+                "id": "Akan turun?",
+                "tagalog": "bababa'?"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "will go down?",
+                "id": "Akan turun?"
+              },
+              "sourcePage": 82
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "bayan.",
+                "id": "Kota.",
+                "tagalog": "bayan."
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "town.",
+                "id": "Kota."
+              },
+              "sourcePage": 83
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "Eto",
+                "id": "Di sini adalah",
+                "tagalog": "Eto"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "Here is",
+                "id": "Di sini adalah"
+              },
+              "sourcePage": 84
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "ang",
+                "id": "penanda definit",
+                "tagalog": "ang"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "the",
+                "id": "penanda definit"
+              },
+              "sourcePage": 84
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "sukli'.",
+                "id": "Mengubah.",
+                "tagalog": "sukli'."
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "change.",
+                "id": "Mengubah."
+              },
+              "sourcePage": 84
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "Salamat.",
+                "id": "Terima kasih.",
+                "tagalog": "Salamat."
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "Thanks.",
+                "id": "Terima kasih."
+              },
+              "sourcePage": 85
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "Malayo'",
+                "id": "Jauh",
+                "tagalog": "Malayo'"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "Far",
+                "id": "Jauh"
+              },
+              "sourcePage": 86
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "pa",
+                "id": "Tetap",
+                "tagalog": "pa"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "still",
+                "id": "Tetap"
+              },
+              "sourcePage": 86
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "ba",
+                "id": "[penanda tanya]",
+                "tagalog": "ba"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "[question]",
+                "id": "[penanda tanya]"
+              },
+              "sourcePage": 86
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "palengke?",
+                "id": "Pasar?",
+                "tagalog": "palengke?"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "market?",
+                "id": "Pasar?"
+              },
+              "sourcePage": 86
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "Hindi',",
+                "id": "Tidak,",
+                "tagalog": "Hindi',"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "No,",
+                "id": "Tidak,"
+              },
+              "sourcePage": 87
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "malapit",
+                "id": "Di dekat",
+                "tagalog": "malapit"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "near",
+                "id": "Di dekat"
+              },
+              "sourcePage": 87
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "na.",
+                "id": "Sekarang.",
+                "tagalog": "na."
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "now.",
+                "id": "Sekarang."
+              },
+              "sourcePage": 87
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "Malaki",
+                "id": "Besar",
+                "tagalog": "Malaki"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "Big",
+                "id": "Besar"
+              },
+              "sourcePage": 88
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "rito?",
+                "id": "Di Sini?",
+                "tagalog": "rito?"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "here?",
+                "id": "Di Sini?"
+              },
+              "sourcePage": 88
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "Oo.",
+                "id": "Ya.",
+                "tagalog": "Oo."
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "Yes.",
+                "id": "Ya."
+              },
+              "sourcePage": 89
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "Nandito",
+                "id": "Apakah disini",
+                "tagalog": "Nandito"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "Is here",
+                "id": "Apakah disini"
+              },
+              "sourcePage": 90
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "Sige,",
+                "id": "Oke,",
+                "tagalog": "Sige,"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "OK,",
+                "id": "Oke,"
+              },
+              "sourcePage": 91
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "Mahal",
+                "id": "Mahal",
+                "tagalog": "Mahal"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "Expensive",
+                "id": "Mahal"
+              },
+              "sourcePage": 95
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "gulay",
+                "id": "Sayuran",
+                "tagalog": "gulay"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "vegetable",
+                "id": "Sayuran"
+              },
+              "sourcePage": 95
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "supermarket.",
+                "id": "Supermarket.",
+                "tagalog": "supermarket."
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "supermarket.",
+                "id": "Supermarket."
+              },
+              "sourcePage": 95
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "Mura",
+                "id": "Murah",
+                "tagalog": "Mura"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "Cheap",
+                "id": "Murah"
+              },
+              "sourcePage": 96
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "Maraming",
+                "id": "Ada banyak-[penghubung]",
+                "tagalog": "Maraming"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "There are a lot of-[linker]",
+                "id": "Ada banyak-[penghubung]"
+              },
+              "sourcePage": 97
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "dito.",
+                "id": "Di Sini.",
+                "tagalog": "dito."
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "here.",
+                "id": "Di Sini."
+              },
+              "sourcePage": 97
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "Walang",
+                "id": "Tidak ada-[penghubung]",
+                "tagalog": "Walang"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "There is no-[linker]",
+                "id": "Tidak ada-[penghubung]"
+              },
+              "sourcePage": 98
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "prutas",
+                "id": "Buah",
+                "tagalog": "prutas"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "fruit",
+                "id": "Buah"
+              },
+              "sourcePage": 98
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "diyan.",
+                "id": "Di sana (di dekat Anda).",
+                "tagalog": "diyan."
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "there (near you).",
+                "id": "Di sana (di dekat Anda)."
+              },
+              "sourcePage": 98
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "Wala'",
+                "id": "Tidak ada",
+                "tagalog": "Wala'"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "There is no",
+                "id": "Tidak ada"
+              },
+              "sourcePage": 99
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "ring",
+                "id": "Baik-[penghubung]",
+                "tagalog": "ring"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "either-[linker]",
+                "id": "Baik-[penghubung]"
+              },
+              "sourcePage": 99
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "doon.",
+                "id": "Di sana.",
+                "tagalog": "doon."
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "over there.",
+                "id": "Di sana."
+              },
+              "sourcePage": 99
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "Para.",
+                "id": "Berhenti.",
+                "tagalog": "Para."
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "Stop.",
+                "id": "Berhenti."
+              },
+              "sourcePage": 101
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "dalawa,",
+                "id": "Dua,",
+                "tagalog": "dalawa,"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "two,",
+                "id": "Dua,"
+              },
+              "sourcePage": 102
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "tatlo,",
+                "id": "Tiga,",
+                "tagalog": "tatlo,"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "three,",
+                "id": "Tiga,"
+              },
+              "sourcePage": 102
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "apat,",
+                "id": "Empat,",
+                "tagalog": "apat,"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "four,",
+                "id": "Empat,"
+              },
+              "sourcePage": 102
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "lima",
+                "id": "Lima",
+                "tagalog": "lima"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "five",
+                "id": "Lima"
+              },
+              "sourcePage": 102
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "anim,",
+                "id": "Enam,",
+                "tagalog": "anim,"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "six,",
+                "id": "Enam,"
+              },
+              "sourcePage": 103
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "pito,",
+                "id": "Tujuh,",
+                "tagalog": "pito,"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "seven,",
+                "id": "Tujuh,"
+              },
+              "sourcePage": 103
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "walo,",
+                "id": "Delapan,",
+                "tagalog": "walo,"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "eight,",
+                "id": "Delapan,"
+              },
+              "sourcePage": 103
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "siyam,",
+                "id": "Sembilan,",
+                "tagalog": "siyam,"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "nine,",
+                "id": "Sembilan,"
+              },
+              "sourcePage": 103
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "sampu'",
+                "id": "Sepuluh",
+                "tagalog": "sampu'"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "ten",
+                "id": "Sepuluh"
+              },
+              "sourcePage": 103
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "style": "body",
+          "sourcePage": 79,
+          "sourceLabel": "A 02",
+          "links": [],
+          "text": {
+            "sourceLanguage": "en",
+            "sourceText": "Bayad is often said when handing one's fare on a jeepney.",
+            "id": "A 02 · halaman PDF 79\n\nBayad sering diucapkan saat menyerahkan ongkos jeepney."
+          }
+        },
+        {
+          "type": "text",
+          "style": "body",
+          "sourcePage": 82,
+          "sourceLabel": "A 05",
+          "links": [],
+          "text": {
+            "sourceLanguage": "en",
+            "sourceText": "Sometimes, the driver needs to know where the passenger will get off to determine the fare.",
+            "id": "A 05 · halaman PDF 82\n\nTerkadang, pengemudi perlu mengetahui di mana penumpang akan turun untuk menentukan tarif."
+          }
+        },
+        {
+          "type": "text",
+          "style": "body",
+          "sourcePage": 83,
+          "sourceLabel": "A 06",
+          "links": [],
+          "text": {
+            "sourceLanguage": "en",
+            "sourceText": "Bayan – town, town center.",
+            "id": "A 06 · halaman PDF 83\n\nBayan – kota, pusat kota."
+          }
+        },
+        {
+          "type": "text",
+          "style": "body",
+          "sourcePage": 84,
+          "sourceLabel": "A 07",
+          "links": [
+            "https://learningtagalog.com/grammar/other_describing_words/expressing_location/eto_ayan_ayun.html"
+          ],
+          "text": {
+            "sourceLanguage": "en",
+            "sourceText": "Sukli' means change (money).",
+            "id": "A 07 · halaman PDF 84\n\nSukli' artinya kembalian (uang)."
+          }
+        },
+        {
+          "type": "text",
+          "style": "body",
+          "sourcePage": 84,
+          "sourceLabel": "A 07",
+          "links": [
+            "https://learningtagalog.com/grammar/other_describing_words/expressing_location/eto_ayan_ayun.html"
+          ],
+          "text": {
+            "sourceLanguage": "en",
+            "sourceText": "Eto (or eto) means here is/are (when introducing or pointing to someone or something).",
+            "id": "A 07 · halaman PDF 84\n\nEto (atau eto) artinya di sini adalah/adalah (saat memperkenalkan atau menunjuk seseorang atau sesuatu)."
+          }
+        },
+        {
+          "type": "text",
+          "style": "body",
+          "sourcePage": 84,
+          "sourceLabel": "A 07",
+          "links": [
+            "https://learningtagalog.com/grammar/other_describing_words/expressing_location/eto_ayan_ayun.html"
+          ],
+          "text": {
+            "sourceLanguage": "en",
+            "sourceText": "Optional reading: Eto, ayan, ayun.",
+            "id": "A 07 · halaman PDF 84\n\nBacaan opsional: Eto, ayan, ayun."
+          }
+        },
+        {
+          "type": "text",
+          "style": "body",
+          "sourcePage": 86,
+          "sourceLabel": "A 09",
+          "links": [],
+          "text": {
+            "sourceLanguage": "en",
+            "sourceText": "Here, pa means still.",
+            "id": "A 09 · halaman PDF 86\n\nDi sini, pa berarti masih."
+          }
+        },
+        {
+          "type": "text",
+          "style": "body",
+          "sourcePage": 88,
+          "sourceLabel": "A 11",
+          "links": [],
+          "text": {
+            "sourceLanguage": "en",
+            "sourceText": "Rito or dito means here.",
+            "id": "A 11 · halaman PDF 88\n\nRito atau dito maksudnya disini."
+          }
+        },
+        {
+          "type": "text",
+          "style": "body",
+          "sourcePage": 90,
+          "sourceLabel": "A 13",
+          "links": [],
+          "text": {
+            "sourceLanguage": "en",
+            "sourceText": "Nandito means is/are/was/were here.",
+            "id": "A 13 · halaman PDF 90\n\nNandito berarti ada atau berada di sini."
+          }
+        },
+        {
+          "type": "text",
+          "style": "body",
+          "sourcePage": 98,
+          "sourceLabel": "B 06",
+          "links": [],
+          "text": {
+            "sourceLanguage": "en",
+            "sourceText": "Diyan or riyan means there (near you).",
+            "id": "B 06 · halaman PDF 98\n\nDiyan atau riyan artinya disana (dekat anda)."
+          }
+        },
+        {
+          "type": "text",
+          "style": "body",
+          "sourcePage": 99,
+          "sourceLabel": "B 07",
+          "links": [],
+          "text": {
+            "sourceLanguage": "en",
+            "sourceText": "Doon or roon means over there (far from you and me).",
+            "id": "B 07 · halaman PDF 99\n\nDoon atau roon artinya di sana (jauh dari Anda dan saya)."
+          }
+        },
+        {
+          "type": "text",
+          "style": "body",
+          "sourcePage": 101,
+          "sourceLabel": "B 09",
+          "links": [],
+          "text": {
+            "sourceLanguage": "en",
+            "sourceText": "On a jeepney, you say para to let the driver know you want to get off.",
+            "id": "B 09 · halaman PDF 101\n\nDi jeepney, ucapkan para untuk memberi tahu pengemudi bahwa Anda ingin turun."
+          }
+        }
+      ]
+    },
+    {
+      "id": "grammar",
+      "type": "GRAMMAR",
+      "title": {
+        "sourceLanguage": "mixed",
+        "sourceText": "Grammar and pronunciation notes",
+        "id": "Catatan tata bahasa dan pelafalan"
+      },
+      "blocks": [
+        {
+          "type": "text",
+          "style": "body",
+          "sourcePage": 82,
+          "sourceLabel": "A 05",
+          "links": [],
+          "text": {
+            "sourceLanguage": "en",
+            "sourceText": "Kayo, you (plural), is used instead of ikaw/ka, you (singular), to address older people, superiors, adult strangers and adult customers.",
+            "id": "A 05 · halaman PDF 82\n\nKayo, Anda (jamak), digunakan sebagai pengganti ikaw/ka, Anda (tunggal), untuk menyapa orang tua, atasan, orang asing dewasa, dan pelanggan dewasa."
+          }
+        },
+        {
+          "type": "text",
+          "style": "body",
+          "sourcePage": 95,
+          "sourceLabel": "B 03",
+          "links": [],
+          "text": {
+            "sourceLanguage": "en",
+            "sourceText": "Mahal is the root itself. It does not have a ma- affix like many other adjectives.",
+            "id": "B 03 · halaman PDF 95\n\nMahal adalah root itu sendiri. Ia tidak memiliki imbuhan ma- seperti banyak kata sifat lainnya."
+          }
+        },
+        {
+          "type": "text",
+          "style": "body",
+          "sourcePage": 99,
+          "sourceLabel": "B 07",
+          "links": [],
+          "text": {
+            "sourceLanguage": "en",
+            "sourceText": "The linker -ng in walang prutas is moved after rin in this sentence: Wala' ring prutas. The reason is that din/rin is an enclitic word. Enclitic words are words that generally follow either the first word of the sentence or another enclitic word. When enclitic words come between linked words, na/-ng is moved to the last enclitic word.",
+            "id": "B 07 · halaman PDF 99\n\nLinker -ng di walang prutas dipindahkan setelah rin dalam kalimat ini: Wala' ring prutas. Alasannya adalah din/rin merupakan kata enklitik. Kata enklitik adalah kata-kata yang umumnya mengikuti kata pertama kalimat atau kata enklitik lainnya. Jika kata enklitik berada di antara kata tertaut, na/-ng dipindahkan ke kata enklitik terakhir."
+          }
+        }
+      ]
+    },
+    {
+      "id": "examples",
+      "type": "EXAMPLES",
+      "title": {
+        "sourceLanguage": "mixed",
+        "sourceText": "Literal and natural translations",
+        "id": "Contoh dengan glosa harfiah dan alami"
+      },
+      "blocks": [
+        {
+          "type": "example",
+          "title": {
+            "sourceLanguage": "mixed",
+            "sourceText": "A 01",
+            "id": "A 01 · halaman PDF 78"
+          },
+          "sourcePage": 78,
+          "rows": [
+            {
+              "cells": [
+                {
+                  "sourceLanguage": "fil",
+                  "sourceText": "Sa jeep",
+                  "id": "Di dalam jeepney",
+                  "tagalog": "Sa jeep"
+                },
+                {
+                  "sourceLanguage": "en",
+                  "sourceText": "On jeepney",
+                  "id": "Glosa harfiah (Inggris)\nOn jeepney"
+                },
+                {
+                  "sourceLanguage": "en",
+                  "sourceText": "On the jeepney",
+                  "id": "Terjemahan alami sumber (Inggris)\nOn the jeepney"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "example",
+          "title": {
+            "sourceLanguage": "mixed",
+            "sourceText": "A 02",
+            "id": "A 02 · halaman PDF 79"
+          },
+          "sourcePage": 79,
+          "rows": [
+            {
+              "cells": [
+                {
+                  "sourceLanguage": "fil",
+                  "sourceText": "Bayad.",
+                  "id": "Ini ongkos saya.",
+                  "tagalog": "Bayad."
+                },
+                {
+                  "sourceLanguage": "en",
+                  "sourceText": "Payment.",
+                  "id": "Glosa harfiah (Inggris)\nPayment."
+                },
+                {
+                  "sourceLanguage": "en",
+                  "sourceText": "Here's my fare.",
+                  "id": "Terjemahan alami sumber (Inggris)\nHere's my fare."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "example",
+          "title": {
+            "sourceLanguage": "mixed",
+            "sourceText": "A 03",
+            "id": "A 03 · halaman PDF 80"
+          },
+          "sourcePage": 80,
+          "rows": [
+            {
+              "cells": [
+                {
+                  "sourceLanguage": "fil",
+                  "sourceText": "Ilan?",
+                  "id": "(Untuk berapa orang)?",
+                  "tagalog": "Ilan?"
+                },
+                {
+                  "sourceLanguage": "en",
+                  "sourceText": "How many?",
+                  "id": "Glosa harfiah (Inggris)\nHow many?"
+                },
+                {
+                  "sourceLanguage": "en",
+                  "sourceText": "(For) how many (people)?",
+                  "id": "Terjemahan alami sumber (Inggris)\n(For) how many (people)?"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "example",
+          "title": {
+            "sourceLanguage": "mixed",
+            "sourceText": "A 04",
+            "id": "A 04 · halaman PDF 81"
+          },
+          "sourcePage": 81,
+          "rows": [
+            {
+              "cells": [
+                {
+                  "sourceLanguage": "fil",
+                  "sourceText": "Isa lang.",
+                  "id": "Hanya satu.",
+                  "tagalog": "Isa lang."
+                },
+                {
+                  "sourceLanguage": "en",
+                  "sourceText": "One only.",
+                  "id": "Glosa harfiah (Inggris)\nOne only."
+                },
+                {
+                  "sourceLanguage": "en",
+                  "sourceText": "Just one.",
+                  "id": "Terjemahan alami sumber (Inggris)\nJust one."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "example",
+          "title": {
+            "sourceLanguage": "mixed",
+            "sourceText": "A 05",
+            "id": "A 05 · halaman PDF 82"
+          },
+          "sourcePage": 82,
+          "rows": [
+            {
+              "cells": [
+                {
+                  "sourceLanguage": "fil",
+                  "sourceText": "Saan kayo bababa'?",
+                  "id": "Di mana kamu akan turun?",
+                  "tagalog": "Saan kayo bababa'?"
+                },
+                {
+                  "sourceLanguage": "en",
+                  "sourceText": "Where you (polite) will go down?",
+                  "id": "Glosa harfiah (Inggris)\nWhere you (polite) will go down?"
+                },
+                {
+                  "sourceLanguage": "en",
+                  "sourceText": "Where will you get off?",
+                  "id": "Terjemahan alami sumber (Inggris)\nWhere will you get off?"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "example",
+          "title": {
+            "sourceLanguage": "mixed",
+            "sourceText": "A 06",
+            "id": "A 06 · halaman PDF 83"
+          },
+          "sourcePage": 83,
+          "rows": [
+            {
+              "cells": [
+                {
+                  "sourceLanguage": "fil",
+                  "sourceText": "Sa bayan.",
+                  "id": "Di kota.",
+                  "tagalog": "Sa bayan."
+                },
+                {
+                  "sourceLanguage": "en",
+                  "sourceText": "In town.",
+                  "id": "Glosa harfiah (Inggris)\nIn town."
+                },
+                {
+                  "sourceLanguage": "en",
+                  "sourceText": "In town.",
+                  "id": "Terjemahan alami sumber (Inggris)\nIn town."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "example",
+          "title": {
+            "sourceLanguage": "mixed",
+            "sourceText": "A 07",
+            "id": "A 07 · halaman PDF 84"
+          },
+          "sourcePage": 84,
+          "rows": [
+            {
+              "cells": [
+                {
+                  "sourceLanguage": "fil",
+                  "sourceText": "Eto ang sukli'.",
+                  "id": "Ini kembaliannya.",
+                  "tagalog": "Eto ang sukli'."
+                },
+                {
+                  "sourceLanguage": "en",
+                  "sourceText": "Here is the change.",
+                  "id": "Glosa harfiah (Inggris)\nHere is the change."
+                },
+                {
+                  "sourceLanguage": "en",
+                  "sourceText": "Here's the change.",
+                  "id": "Terjemahan alami sumber (Inggris)\nHere's the change."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "example",
+          "title": {
+            "sourceLanguage": "mixed",
+            "sourceText": "A 08",
+            "id": "A 08 · halaman PDF 85"
+          },
+          "sourcePage": 85,
+          "rows": [
+            {
+              "cells": [
+                {
+                  "sourceLanguage": "fil",
+                  "sourceText": "Salamat. [...]",
+                  "id": "Terima kasih. [...]",
+                  "tagalog": "Salamat. [...]"
+                },
+                {
+                  "sourceLanguage": "en",
+                  "sourceText": "Thanks. [...]",
+                  "id": "Glosa harfiah (Inggris)\nThanks. [...]"
+                },
+                {
+                  "sourceLanguage": "en",
+                  "sourceText": "Thanks. [...]",
+                  "id": "Terjemahan alami sumber (Inggris)\nThanks. [...]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "example",
+          "title": {
+            "sourceLanguage": "mixed",
+            "sourceText": "A 09",
+            "id": "A 09 · halaman PDF 86"
+          },
+          "sourcePage": 86,
+          "rows": [
+            {
+              "cells": [
+                {
+                  "sourceLanguage": "fil",
+                  "sourceText": "Malayo' pa ba ang palengke?",
+                  "id": "Apakah pasarnya masih jauh?",
+                  "tagalog": "Malayo' pa ba ang palengke?"
+                },
+                {
+                  "sourceLanguage": "en",
+                  "sourceText": "Far still [question] the market?",
+                  "id": "Glosa harfiah (Inggris)\nFar still [question] the market?"
+                },
+                {
+                  "sourceLanguage": "en",
+                  "sourceText": "Is the market still far?",
+                  "id": "Terjemahan alami sumber (Inggris)\nIs the market still far?"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "example",
+          "title": {
+            "sourceLanguage": "mixed",
+            "sourceText": "A 10",
+            "id": "A 10 · halaman PDF 87"
+          },
+          "sourcePage": 87,
+          "rows": [
+            {
+              "cells": [
+                {
+                  "sourceLanguage": "fil",
+                  "sourceText": "Hindi', malapit na.",
+                  "id": "Tidak, kita hampir sampai.",
+                  "tagalog": "Hindi', malapit na."
+                },
+                {
+                  "sourceLanguage": "en",
+                  "sourceText": "No, near now.",
+                  "id": "Glosa harfiah (Inggris)\nNo, near now."
+                },
+                {
+                  "sourceLanguage": "en",
+                  "sourceText": "No, we're almost there.",
+                  "id": "Terjemahan alami sumber (Inggris)\nNo, we're almost there."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "example",
+          "title": {
+            "sourceLanguage": "mixed",
+            "sourceText": "A 11",
+            "id": "A 11 · halaman PDF 88"
+          },
+          "sourcePage": 88,
+          "rows": [
+            {
+              "cells": [
+                {
+                  "sourceLanguage": "fil",
+                  "sourceText": "Malaki ba ang palengke rito?",
+                  "id": "Apakah pasar di sini besar?",
+                  "tagalog": "Malaki ba ang palengke rito?"
+                },
+                {
+                  "sourceLanguage": "en",
+                  "sourceText": "Big [question] the market here?",
+                  "id": "Glosa harfiah (Inggris)\nBig [question] the market here?"
+                },
+                {
+                  "sourceLanguage": "en",
+                  "sourceText": "Is the market here big?",
+                  "id": "Terjemahan alami sumber (Inggris)\nIs the market here big?"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "example",
+          "title": {
+            "sourceLanguage": "mixed",
+            "sourceText": "A 12",
+            "id": "A 12 · halaman PDF 89"
+          },
+          "sourcePage": 89,
+          "rows": [
+            {
+              "cells": [
+                {
+                  "sourceLanguage": "fil",
+                  "sourceText": "Oo. [...]",
+                  "id": "Ya. [...]",
+                  "tagalog": "Oo. [...]"
+                },
+                {
+                  "sourceLanguage": "en",
+                  "sourceText": "Yes. [...]",
+                  "id": "Glosa harfiah (Inggris)\nYes. [...]"
+                },
+                {
+                  "sourceLanguage": "en",
+                  "sourceText": "Yes. [...]",
+                  "id": "Terjemahan alami sumber (Inggris)\nYes. [...]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "example",
+          "title": {
+            "sourceLanguage": "mixed",
+            "sourceText": "A 13",
+            "id": "A 13 · halaman PDF 90"
+          },
+          "sourcePage": 90,
+          "rows": [
+            {
+              "cells": [
+                {
+                  "sourceLanguage": "fil",
+                  "sourceText": "Nandito na ang palengke.",
+                  "id": "Kita sudah sampai di pasar. (Pasarnya sudah di sini.)",
+                  "tagalog": "Nandito na ang palengke."
+                },
+                {
+                  "sourceLanguage": "en",
+                  "sourceText": "Is here now the market.",
+                  "id": "Glosa harfiah (Inggris)\nIs here now the market."
+                },
+                {
+                  "sourceLanguage": "en",
+                  "sourceText": "We're at the market now. (The market is here now.)",
+                  "id": "Terjemahan alami sumber (Inggris)\nWe're at the market now. (The market is here now.)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "example",
+          "title": {
+            "sourceLanguage": "mixed",
+            "sourceText": "A 14",
+            "id": "A 14 · halaman PDF 91"
+          },
+          "sourcePage": 91,
+          "rows": [
+            {
+              "cells": [
+                {
+                  "sourceLanguage": "fil",
+                  "sourceText": "Sige, salamat.",
+                  "id": "Oke terima kasih.",
+                  "tagalog": "Sige, salamat."
+                },
+                {
+                  "sourceLanguage": "en",
+                  "sourceText": "OK, thanks.",
+                  "id": "Glosa harfiah (Inggris)\nOK, thanks."
+                },
+                {
+                  "sourceLanguage": "en",
+                  "sourceText": "OK, thanks.",
+                  "id": "Terjemahan alami sumber (Inggris)\nOK, thanks."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "example",
+          "title": {
+            "sourceLanguage": "mixed",
+            "sourceText": "B 01",
+            "id": "B 01 · halaman PDF 93"
+          },
+          "sourcePage": 93,
+          "rows": [
+            {
+              "cells": [
+                {
+                  "sourceLanguage": "fil",
+                  "sourceText": "Malapit na ang palengke.",
+                  "id": "Kita sudah dekat dengan pasar. (Pasarnya sudah dekat.)",
+                  "tagalog": "Malapit na ang palengke."
+                },
+                {
+                  "sourceLanguage": "en",
+                  "sourceText": "Near now the market.",
+                  "id": "Glosa harfiah (Inggris)\nNear now the market."
+                },
+                {
+                  "sourceLanguage": "en",
+                  "sourceText": "We're near the market now. (The market is near now.)",
+                  "id": "Terjemahan alami sumber (Inggris)\nWe're near the market now. (The market is near now.)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "example",
+          "title": {
+            "sourceLanguage": "mixed",
+            "sourceText": "B 02",
+            "id": "B 02 · halaman PDF 94"
+          },
+          "sourcePage": 94,
+          "rows": [
+            {
+              "cells": [
+                {
+                  "sourceLanguage": "fil",
+                  "sourceText": "Malayo' pa ang bayan.",
+                  "id": "Kota ini masih jauh.",
+                  "tagalog": "Malayo' pa ang bayan."
+                },
+                {
+                  "sourceLanguage": "en",
+                  "sourceText": "Far still the town.",
+                  "id": "Glosa harfiah (Inggris)\nFar still the town."
+                },
+                {
+                  "sourceLanguage": "en",
+                  "sourceText": "The town is still far.",
+                  "id": "Terjemahan alami sumber (Inggris)\nThe town is still far."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "example",
+          "title": {
+            "sourceLanguage": "mixed",
+            "sourceText": "B 03",
+            "id": "B 03 · halaman PDF 95"
+          },
+          "sourcePage": 95,
+          "rows": [
+            {
+              "cells": [
+                {
+                  "sourceLanguage": "fil",
+                  "sourceText": "Mahal ang gulay sa supermarket.",
+                  "id": "Sayuran di supermarket mahal.",
+                  "tagalog": "Mahal ang gulay sa supermarket."
+                },
+                {
+                  "sourceLanguage": "en",
+                  "sourceText": "Expensive the vegetable at supermarket.",
+                  "id": "Glosa harfiah (Inggris)\nExpensive the vegetable at supermarket."
+                },
+                {
+                  "sourceLanguage": "en",
+                  "sourceText": "The vegetables at the supermarket are expensive.",
+                  "id": "Terjemahan alami sumber (Inggris)\nThe vegetables at the supermarket are expensive."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "example",
+          "title": {
+            "sourceLanguage": "mixed",
+            "sourceText": "B 04",
+            "id": "B 04 · halaman PDF 96"
+          },
+          "sourcePage": 96,
+          "rows": [
+            {
+              "cells": [
+                {
+                  "sourceLanguage": "fil",
+                  "sourceText": "Mura ang gulay sa palengke.",
+                  "id": "Harga sayur mayur di pasar ini murah.",
+                  "tagalog": "Mura ang gulay sa palengke."
+                },
+                {
+                  "sourceLanguage": "en",
+                  "sourceText": "Cheap the vegetable at market.",
+                  "id": "Glosa harfiah (Inggris)\nCheap the vegetable at market."
+                },
+                {
+                  "sourceLanguage": "en",
+                  "sourceText": "The vegetables at the market are cheap.",
+                  "id": "Terjemahan alami sumber (Inggris)\nThe vegetables at the market are cheap."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "example",
+          "title": {
+            "sourceLanguage": "mixed",
+            "sourceText": "B 05",
+            "id": "B 05 · halaman PDF 97"
+          },
+          "sourcePage": 97,
+          "rows": [
+            {
+              "cells": [
+                {
+                  "sourceLanguage": "fil",
+                  "sourceText": "Maraming gulay dito.",
+                  "id": "Ada banyak sayuran di sini.",
+                  "tagalog": "Maraming gulay dito."
+                },
+                {
+                  "sourceLanguage": "en",
+                  "sourceText": "There are a lot of-[linker] vegetable here.",
+                  "id": "Glosa harfiah (Inggris)\nThere are a lot of-[linker] vegetable here."
+                },
+                {
+                  "sourceLanguage": "en",
+                  "sourceText": "There are a lot of vegetables here.",
+                  "id": "Terjemahan alami sumber (Inggris)\nThere are a lot of vegetables here."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "example",
+          "title": {
+            "sourceLanguage": "mixed",
+            "sourceText": "B 06",
+            "id": "B 06 · halaman PDF 98"
+          },
+          "sourcePage": 98,
+          "rows": [
+            {
+              "cells": [
+                {
+                  "sourceLanguage": "fil",
+                  "sourceText": "Walang prutas diyan.",
+                  "id": "Tidak ada buah di sana (dekat Anda).",
+                  "tagalog": "Walang prutas diyan."
+                },
+                {
+                  "sourceLanguage": "en",
+                  "sourceText": "There is no-[linker] fruit there (near you).",
+                  "id": "Glosa harfiah (Inggris)\nThere is no-[linker] fruit there (near you)."
+                },
+                {
+                  "sourceLanguage": "en",
+                  "sourceText": "There's no fruit there (near you).",
+                  "id": "Terjemahan alami sumber (Inggris)\nThere's no fruit there (near you)."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "example",
+          "title": {
+            "sourceLanguage": "mixed",
+            "sourceText": "B 07",
+            "id": "B 07 · halaman PDF 99"
+          },
+          "sourcePage": 99,
+          "rows": [
+            {
+              "cells": [
+                {
+                  "sourceLanguage": "fil",
+                  "sourceText": "Wala' ring prutas doon.",
+                  "id": "Di sana juga tidak ada buah.",
+                  "tagalog": "Wala' ring prutas doon."
+                },
+                {
+                  "sourceLanguage": "en",
+                  "sourceText": "There is no either-[linker] fruit over there.",
+                  "id": "Glosa harfiah (Inggris)\nThere is no either-[linker] fruit over there."
+                },
+                {
+                  "sourceLanguage": "en",
+                  "sourceText": "There's no fruit over there either.",
+                  "id": "Terjemahan alami sumber (Inggris)\nThere's no fruit over there either."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "example",
+          "title": {
+            "sourceLanguage": "mixed",
+            "sourceText": "B 08",
+            "id": "B 08 · halaman PDF 100"
+          },
+          "sourcePage": 100,
+          "rows": [
+            {
+              "cells": [
+                {
+                  "sourceLanguage": "fil",
+                  "sourceText": "Bayad.",
+                  "id": "Ini ongkos saya.",
+                  "tagalog": "Bayad."
+                },
+                {
+                  "sourceLanguage": "en",
+                  "sourceText": "Payment.",
+                  "id": "Glosa harfiah (Inggris)\nPayment."
+                },
+                {
+                  "sourceLanguage": "en",
+                  "sourceText": "Here's my fare.",
+                  "id": "Terjemahan alami sumber (Inggris)\nHere's my fare."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "example",
+          "title": {
+            "sourceLanguage": "mixed",
+            "sourceText": "B 09",
+            "id": "B 09 · halaman PDF 101"
+          },
+          "sourcePage": 101,
+          "rows": [
+            {
+              "cells": [
+                {
+                  "sourceLanguage": "fil",
+                  "sourceText": "Para.",
+                  "id": "Tolong berhenti. (Saya ingin turun.)",
+                  "tagalog": "Para."
+                },
+                {
+                  "sourceLanguage": "en",
+                  "sourceText": "Stop.",
+                  "id": "Glosa harfiah (Inggris)\nStop."
+                },
+                {
+                  "sourceLanguage": "en",
+                  "sourceText": "Please stop. (I want to get off.)",
+                  "id": "Terjemahan alami sumber (Inggris)\nPlease stop. (I want to get off.)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "example",
+          "title": {
+            "sourceLanguage": "mixed",
+            "sourceText": "B 10",
+            "id": "B 10 · halaman PDF 102"
+          },
+          "sourcePage": 102,
+          "rows": [
+            {
+              "cells": [
+                {
+                  "sourceLanguage": "fil",
+                  "sourceText": "isa, dalawa, tatlo, apat, lima",
+                  "id": "Satu dua tiga empat lima",
+                  "tagalog": "isa, dalawa, tatlo, apat, lima"
+                },
+                {
+                  "sourceLanguage": "en",
+                  "sourceText": "one, two, three, four, five",
+                  "id": "Glosa harfiah (Inggris)\none, two, three, four, five"
+                },
+                {
+                  "sourceLanguage": "en",
+                  "sourceText": "one, two, three, four, five",
+                  "id": "Terjemahan alami sumber (Inggris)\none, two, three, four, five"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "example",
+          "title": {
+            "sourceLanguage": "mixed",
+            "sourceText": "B 11",
+            "id": "B 11 · halaman PDF 103"
+          },
+          "sourcePage": 103,
+          "rows": [
+            {
+              "cells": [
+                {
+                  "sourceLanguage": "fil",
+                  "sourceText": "anim, pito, walo, siyam, sampu'",
+                  "id": "Enam, tujuh, delapan, sembilan, sepuluh",
+                  "tagalog": "anim, pito, walo, siyam, sampu'"
+                },
+                {
+                  "sourceLanguage": "en",
+                  "sourceText": "six, seven, eight, nine, ten",
+                  "id": "Glosa harfiah (Inggris)\nsix, seven, eight, nine, ten"
+                },
+                {
+                  "sourceLanguage": "en",
+                  "sourceText": "six, seven, eight, nine, ten",
+                  "id": "Terjemahan alami sumber (Inggris)\nsix, seven, eight, nine, ten"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "exercises",
+      "type": "EXERCISES",
+      "title": {
+        "sourceLanguage": "mixed",
+        "sourceText": "Drills",
+        "id": "Latihan pola"
+      },
+      "blocks": [
+        {
+          "type": "exercise",
+          "role": "instruction",
+          "text": {
+            "sourceLanguage": "mixed",
+            "sourceText": "Drills",
+            "id": "Latihan pola (Drills)"
+          },
+          "sourcePage": 92
+        },
+        {
+          "type": "exercise",
+          "role": "content",
+          "title": {
+            "sourceLanguage": "mixed",
+            "sourceText": "A 14",
+            "id": "A 14 · halaman PDF 91"
+          },
+          "sourcePage": 91,
+          "text": {
+            "sourceLanguage": "fil",
+            "sourceText": "Sige, salamat.",
+            "id": "Oke terima kasih.",
+            "tagalog": "Sige, salamat."
+          }
+        },
+        {
+          "type": "exercise",
+          "role": "content",
+          "title": {
+            "sourceLanguage": "mixed",
+            "sourceText": "B 01",
+            "id": "B 01 · halaman PDF 93"
+          },
+          "sourcePage": 93,
+          "text": {
+            "sourceLanguage": "fil",
+            "sourceText": "Malapit na ang palengke.",
+            "id": "Kita sudah dekat dengan pasar. (Pasarnya sudah dekat.)",
+            "tagalog": "Malapit na ang palengke."
+          }
+        },
+        {
+          "type": "exercise",
+          "role": "content",
+          "title": {
+            "sourceLanguage": "mixed",
+            "sourceText": "B 02",
+            "id": "B 02 · halaman PDF 94"
+          },
+          "sourcePage": 94,
+          "text": {
+            "sourceLanguage": "fil",
+            "sourceText": "Malayo' pa ang bayan.",
+            "id": "Kota ini masih jauh.",
+            "tagalog": "Malayo' pa ang bayan."
+          }
+        },
+        {
+          "type": "exercise",
+          "role": "content",
+          "title": {
+            "sourceLanguage": "mixed",
+            "sourceText": "B 03",
+            "id": "B 03 · halaman PDF 95"
+          },
+          "sourcePage": 95,
+          "text": {
+            "sourceLanguage": "fil",
+            "sourceText": "Mahal ang gulay sa supermarket.",
+            "id": "Sayuran di supermarket mahal.",
+            "tagalog": "Mahal ang gulay sa supermarket."
+          }
+        },
+        {
+          "type": "exercise",
+          "role": "content",
+          "title": {
+            "sourceLanguage": "mixed",
+            "sourceText": "B 04",
+            "id": "B 04 · halaman PDF 96"
+          },
+          "sourcePage": 96,
+          "text": {
+            "sourceLanguage": "fil",
+            "sourceText": "Mura ang gulay sa palengke.",
+            "id": "Harga sayur mayur di pasar ini murah.",
+            "tagalog": "Mura ang gulay sa palengke."
+          }
+        },
+        {
+          "type": "exercise",
+          "role": "content",
+          "title": {
+            "sourceLanguage": "mixed",
+            "sourceText": "B 05",
+            "id": "B 05 · halaman PDF 97"
+          },
+          "sourcePage": 97,
+          "text": {
+            "sourceLanguage": "fil",
+            "sourceText": "Maraming gulay dito.",
+            "id": "Ada banyak sayuran di sini.",
+            "tagalog": "Maraming gulay dito."
+          }
+        },
+        {
+          "type": "exercise",
+          "role": "content",
+          "title": {
+            "sourceLanguage": "mixed",
+            "sourceText": "B 06",
+            "id": "B 06 · halaman PDF 98"
+          },
+          "sourcePage": 98,
+          "text": {
+            "sourceLanguage": "fil",
+            "sourceText": "Walang prutas diyan.",
+            "id": "Tidak ada buah di sana (dekat Anda).",
+            "tagalog": "Walang prutas diyan."
+          }
+        },
+        {
+          "type": "exercise",
+          "role": "content",
+          "title": {
+            "sourceLanguage": "mixed",
+            "sourceText": "B 07",
+            "id": "B 07 · halaman PDF 99"
+          },
+          "sourcePage": 99,
+          "text": {
+            "sourceLanguage": "fil",
+            "sourceText": "Wala' ring prutas doon.",
+            "id": "Di sana juga tidak ada buah.",
+            "tagalog": "Wala' ring prutas doon."
+          }
+        },
+        {
+          "type": "exercise",
+          "role": "content",
+          "title": {
+            "sourceLanguage": "mixed",
+            "sourceText": "B 08",
+            "id": "B 08 · halaman PDF 100"
+          },
+          "sourcePage": 100,
+          "text": {
+            "sourceLanguage": "fil",
+            "sourceText": "Bayad.",
+            "id": "Ini ongkos saya.",
+            "tagalog": "Bayad."
+          }
+        },
+        {
+          "type": "exercise",
+          "role": "content",
+          "title": {
+            "sourceLanguage": "mixed",
+            "sourceText": "B 09",
+            "id": "B 09 · halaman PDF 101"
+          },
+          "sourcePage": 101,
+          "text": {
+            "sourceLanguage": "fil",
+            "sourceText": "Para.",
+            "id": "Tolong berhenti. (Saya ingin turun.)",
+            "tagalog": "Para."
+          }
+        },
+        {
+          "type": "exercise",
+          "role": "content",
+          "title": {
+            "sourceLanguage": "mixed",
+            "sourceText": "B 10",
+            "id": "B 10 · halaman PDF 102"
+          },
+          "sourcePage": 102,
+          "text": {
+            "sourceLanguage": "fil",
+            "sourceText": "isa, dalawa, tatlo, apat, lima",
+            "id": "Satu dua tiga empat lima",
+            "tagalog": "isa, dalawa, tatlo, apat, lima"
+          }
+        },
+        {
+          "type": "exercise",
+          "role": "content",
+          "title": {
+            "sourceLanguage": "mixed",
+            "sourceText": "B 11",
+            "id": "B 11 · halaman PDF 103"
+          },
+          "sourcePage": 103,
+          "text": {
+            "sourceLanguage": "fil",
+            "sourceText": "anim, pito, walo, siyam, sampu'",
+            "id": "Enam, tujuh, delapan, sembilan, sepuluh",
+            "tagalog": "anim, pito, walo, siyam, sampu'"
+          }
+        }
+      ]
+    },
+    {
+      "id": "summary",
+      "type": "SUMMARY",
+      "title": {
+        "sourceLanguage": "mixed",
+        "sourceText": "Sa jeep",
+        "id": "Ringkasan bab"
+      },
+      "blocks": [
+        {
+          "type": "text",
+          "style": "heading",
+          "text": {
+            "sourceLanguage": "mixed",
+            "sourceText": "Story A",
+            "id": "Dialog utama"
+          }
+        },
+        {
+          "type": "list",
+          "style": "outline",
+          "items": [
+            {
+              "sourceLanguage": "fil",
+              "sourceText": "Sa jeep",
+              "id": "Di dalam jeepney",
+              "tagalog": "Sa jeep"
+            },
+            {
+              "sourceLanguage": "fil",
+              "sourceText": "Bayad.",
+              "id": "Ini ongkos saya.",
+              "tagalog": "Bayad."
+            },
+            {
+              "sourceLanguage": "fil",
+              "sourceText": "Ilan?",
+              "id": "(Untuk berapa orang)?",
+              "tagalog": "Ilan?"
+            },
+            {
+              "sourceLanguage": "fil",
+              "sourceText": "Isa lang.",
+              "id": "Hanya satu.",
+              "tagalog": "Isa lang."
+            },
+            {
+              "sourceLanguage": "fil",
+              "sourceText": "Saan kayo bababa'?",
+              "id": "Di mana kamu akan turun?",
+              "tagalog": "Saan kayo bababa'?"
+            },
+            {
+              "sourceLanguage": "fil",
+              "sourceText": "Sa bayan.",
+              "id": "Di kota.",
+              "tagalog": "Sa bayan."
+            },
+            {
+              "sourceLanguage": "fil",
+              "sourceText": "Eto ang sukli'.",
+              "id": "Ini kembaliannya.",
+              "tagalog": "Eto ang sukli'."
+            },
+            {
+              "sourceLanguage": "fil",
+              "sourceText": "Salamat. [...]",
+              "id": "Terima kasih. [...]",
+              "tagalog": "Salamat. [...]"
+            },
+            {
+              "sourceLanguage": "fil",
+              "sourceText": "Malayo' pa ba ang palengke?",
+              "id": "Apakah pasarnya masih jauh?",
+              "tagalog": "Malayo' pa ba ang palengke?"
+            },
+            {
+              "sourceLanguage": "fil",
+              "sourceText": "Hindi', malapit na.",
+              "id": "Tidak, kita hampir sampai.",
+              "tagalog": "Hindi', malapit na."
+            },
+            {
+              "sourceLanguage": "fil",
+              "sourceText": "Malaki ba ang palengke rito?",
+              "id": "Apakah pasar di sini besar?",
+              "tagalog": "Malaki ba ang palengke rito?"
+            },
+            {
+              "sourceLanguage": "fil",
+              "sourceText": "Oo. [...]",
+              "id": "Ya. [...]",
+              "tagalog": "Oo. [...]"
+            },
+            {
+              "sourceLanguage": "fil",
+              "sourceText": "Nandito na ang palengke.",
+              "id": "Kita sudah sampai di pasar. (Pasarnya sudah di sini.)",
+              "tagalog": "Nandito na ang palengke."
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "style": "heading",
+          "text": {
+            "sourceLanguage": "mixed",
+            "sourceText": "Drills",
+            "id": "Latihan pola"
+          }
+        },
+        {
+          "type": "list",
+          "style": "outline",
+          "items": [
+            {
+              "sourceLanguage": "fil",
+              "sourceText": "Sige, salamat.",
+              "id": "Oke terima kasih.",
+              "tagalog": "Sige, salamat."
+            },
+            {
+              "sourceLanguage": "fil",
+              "sourceText": "Malapit na ang palengke.",
+              "id": "Kita sudah dekat dengan pasar. (Pasarnya sudah dekat.)",
+              "tagalog": "Malapit na ang palengke."
+            },
+            {
+              "sourceLanguage": "fil",
+              "sourceText": "Malayo' pa ang bayan.",
+              "id": "Kota ini masih jauh.",
+              "tagalog": "Malayo' pa ang bayan."
+            },
+            {
+              "sourceLanguage": "fil",
+              "sourceText": "Mahal ang gulay sa supermarket.",
+              "id": "Sayuran di supermarket mahal.",
+              "tagalog": "Mahal ang gulay sa supermarket."
+            },
+            {
+              "sourceLanguage": "fil",
+              "sourceText": "Mura ang gulay sa palengke.",
+              "id": "Harga sayur mayur di pasar ini murah.",
+              "tagalog": "Mura ang gulay sa palengke."
+            },
+            {
+              "sourceLanguage": "fil",
+              "sourceText": "Maraming gulay dito.",
+              "id": "Ada banyak sayuran di sini.",
+              "tagalog": "Maraming gulay dito."
+            },
+            {
+              "sourceLanguage": "fil",
+              "sourceText": "Walang prutas diyan.",
+              "id": "Tidak ada buah di sana (dekat Anda).",
+              "tagalog": "Walang prutas diyan."
+            },
+            {
+              "sourceLanguage": "fil",
+              "sourceText": "Wala' ring prutas doon.",
+              "id": "Di sana juga tidak ada buah.",
+              "tagalog": "Wala' ring prutas doon."
+            },
+            {
+              "sourceLanguage": "fil",
+              "sourceText": "Bayad.",
+              "id": "Ini ongkos saya.",
+              "tagalog": "Bayad."
+            },
+            {
+              "sourceLanguage": "fil",
+              "sourceText": "Para.",
+              "id": "Tolong berhenti. (Saya ingin turun.)",
+              "tagalog": "Para."
+            },
+            {
+              "sourceLanguage": "fil",
+              "sourceText": "isa, dalawa, tatlo, apat, lima",
+              "id": "Satu dua tiga empat lima",
+              "tagalog": "isa, dalawa, tatlo, apat, lima"
+            },
+            {
+              "sourceLanguage": "fil",
+              "sourceText": "anim, pito, walo, siyam, sampu'",
+              "id": "Enam, tujuh, delapan, sembilan, sepuluh",
+              "tagalog": "anim, pito, walo, siyam, sampu'"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "contentAudit": {
+    "sourcePages": 28,
+    "phrasePages": 25,
+    "storyPhrases": 13,
+    "drillPhrases": 12,
+    "noteBlocks": 15,
+    "vocabularyEntries": 48,
+    "sourceTextItemsBefore": 91,
+    "sourceTextItemsAfter": 91,
+    "recapVerified": true,
+    "imageCount": 1
+  }
+}

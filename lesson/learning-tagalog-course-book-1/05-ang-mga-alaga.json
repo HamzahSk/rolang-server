@@ -1,0 +1,2519 @@
+{
+  "schemaVersion": 1,
+  "structureVersion": 2,
+  "id": "learning-tagalog-course-book-1-lesson-05",
+  "courseId": "learning-tagalog-course-book-1",
+  "unitId": "course-book-1-unit-02-objects-and-shopping",
+  "order": 5,
+  "level": "BEGINNER",
+  "title": {
+    "id": "Hewan-hewan peliharaan",
+    "fil": "Ang mga alaga'"
+  },
+  "summary": {
+    "id": "Cindy memperkenalkan anjingnya, Tabby dan Tingting, kepada tetangga barunya.",
+    "fil": "Ang mga alaga'"
+  },
+  "objectives": [
+    {
+      "sourceLanguage": "mixed",
+      "sourceText": "Chapter 5 · Story A",
+      "id": "Memahami dialog utama Bab 5 tentang hewan-hewan peliharaan."
+    },
+    {
+      "sourceLanguage": "mixed",
+      "sourceText": "Literal and natural translations",
+      "id": "Membandingkan susunan Tagalog dengan glosa harfiah dan terjemahan alami dari sumber."
+    },
+    {
+      "sourceLanguage": "mixed",
+      "sourceText": "Drills",
+      "id": "Melatih kembali pola dan ungkapan pada bagian Drills."
+    }
+  ],
+  "source": {
+    "book": "Learning Tagalog - Fluency Made Fast and Easy - Course Book 1",
+    "file": "Learning Tagalog - Fluency Made Fast and Easy - Course Book 1.pdf",
+    "pdfSha256": "52e9f464239c2ae98248a452edfbf1f58eb01bec69374a16d5205e70afa80f58",
+    "chapter": 5,
+    "pages": {
+      "start": 105,
+      "end": 133
+    },
+    "drillsDividerPage": 117,
+    "recapPage": 133
+  },
+  "sourceLinks": [
+    {
+      "page": 107,
+      "uri": "https://learningtagalog.com/grammar/pronouns/summary_markers_and_pronouns.html"
+    },
+    {
+      "page": 110,
+      "uri": "https://learningtagalog.com/grammar/pronouns/summary_markers_and_pronouns.html"
+    }
+  ],
+  "assets": [
+    "assets/05-ang-mga-alaga.jpg"
+  ],
+  "sections": [
+    {
+      "id": "introduction",
+      "type": "INTRODUCTION",
+      "title": {
+        "sourceLanguage": "mixed",
+        "sourceText": "The pets",
+        "id": "Hewan-hewan peliharaan"
+      },
+      "blocks": [
+        {
+          "type": "image",
+          "path": "assets/05-ang-mga-alaga.jpg",
+          "sourcePage": 105
+        },
+        {
+          "type": "text",
+          "style": "heading",
+          "text": {
+            "sourceLanguage": "en",
+            "sourceText": "The pets",
+            "id": "Hewan-hewan peliharaan"
+          }
+        }
+      ]
+    },
+    {
+      "id": "learning-material",
+      "type": "LEARNING_MATERIAL",
+      "title": {
+        "sourceLanguage": "mixed",
+        "sourceText": "Chapter context",
+        "id": "Konteks bab"
+      },
+      "blocks": [
+        {
+          "type": "text",
+          "style": "body",
+          "sourcePage": 105,
+          "text": {
+            "sourceLanguage": "en",
+            "sourceText": "Cindy introduces her dogs, Tabby and Tingting, to her new neighbor.",
+            "id": "Cindy memperkenalkan anjingnya, Tabby dan Tingting, kepada tetangga barunya."
+          }
+        },
+        {
+          "type": "text",
+          "style": "body",
+          "sourcePage": 107,
+          "sourceLabel": "A 02",
+          "links": [
+            "https://learningtagalog.com/grammar/pronouns/summary_markers_and_pronouns.html"
+          ],
+          "text": {
+            "sourceLanguage": "en",
+            "sourceText": "Take a moment to look at the summary of markers and pronouns in the grammar: Summary: markers and pronouns (bookmark the page to refer to it later). All these markers and pronouns will be covered in the next lessons.",
+            "id": "A 02 · halaman PDF 107\n\nLuangkan waktu sejenak untuk melihat ringkasan penanda dan kata ganti dalam tata bahasa: Ringkasan: penanda dan kata ganti (tandai halaman untuk merujuknya nanti). Semua penanda dan kata ganti ini akan dibahas dalam pelajaran berikutnya."
+          }
+        }
+      ]
+    },
+    {
+      "id": "dialogue",
+      "type": "DIALOGUE",
+      "title": {
+        "sourceLanguage": "mixed",
+        "sourceText": "Story A",
+        "id": "Dialog utama (Bagian A)"
+      },
+      "blocks": [
+        {
+          "type": "dialogue",
+          "turns": [
+            {
+              "speaker": "A 01",
+              "speakerText": {
+                "sourceLanguage": "mixed",
+                "sourceText": "A 01",
+                "id": "Bagian A 01"
+              },
+              "text": {
+                "sourceLanguage": "fil",
+                "sourceText": "Ang mga alaga'",
+                "id": "Hewan-hewan peliharaan",
+                "tagalog": "Ang mga alaga'"
+              },
+              "sourcePage": 106
+            },
+            {
+              "speaker": "A 02",
+              "speakerText": {
+                "sourceLanguage": "mixed",
+                "sourceText": "A 02",
+                "id": "Bagian A 02"
+              },
+              "text": {
+                "sourceLanguage": "fil",
+                "sourceText": "Ito si Tabby, ang aso ko.",
+                "id": "Ini anjingku Tabby.",
+                "tagalog": "Ito si Tabby, ang aso ko."
+              },
+              "sourcePage": 107
+            },
+            {
+              "speaker": "A 03",
+              "speakerText": {
+                "sourceLanguage": "mixed",
+                "sourceText": "A 03",
+                "id": "Bagian A 03"
+              },
+              "text": {
+                "sourceLanguage": "fil",
+                "sourceText": "A, hello Tabby! Bakit Tabby ang pangalan niya?",
+                "id": "Ah, halo Tabby! Kenapa dia dipanggil Tabby? (Mengapa namanya Tabby?)",
+                "tagalog": "A, hello Tabby! Bakit Tabby ang pangalan niya?"
+              },
+              "sourcePage": 108
+            },
+            {
+              "speaker": "A 04",
+              "speakerText": {
+                "sourceLanguage": "mixed",
+                "sourceText": "A 04",
+                "id": "Bagian A 04"
+              },
+              "text": {
+                "sourceLanguage": "fil",
+                "sourceText": "Kasi ang taba' niya e.",
+                "id": "Karena dia sangat gemuk.",
+                "tagalog": "Kasi ang taba' niya e."
+              },
+              "sourcePage": 109
+            },
+            {
+              "speaker": "A 05",
+              "speakerText": {
+                "sourceLanguage": "mixed",
+                "sourceText": "A 05",
+                "id": "Bagian A 05"
+              },
+              "text": {
+                "sourceLanguage": "fil",
+                "sourceText": "Oo nga' ano. Mataba' nga' siya.",
+                "id": "Ya, sekarang kamu mengatakannya. Dia memang gemuk.",
+                "tagalog": "Oo nga' ano. Mataba' nga' siya."
+              },
+              "sourcePage": 110
+            },
+            {
+              "speaker": "A 06",
+              "speakerText": {
+                "sourceLanguage": "mixed",
+                "sourceText": "A 06",
+                "id": "Bagian A 06"
+              },
+              "text": {
+                "sourceLanguage": "fil",
+                "sourceText": "Ang bait niya di ba?",
+                "id": "Dia sangat baik, bukan?",
+                "tagalog": "Ang bait niya di ba?"
+              },
+              "sourcePage": 111
+            },
+            {
+              "speaker": "A 07",
+              "speakerText": {
+                "sourceLanguage": "mixed",
+                "sourceText": "A 07",
+                "id": "Bagian A 07"
+              },
+              "text": {
+                "sourceLanguage": "fil",
+                "sourceText": "Oo. Ilang taon na siya?",
+                "id": "Ya. Berapa umurnya? (Berapa tahun dia?)",
+                "tagalog": "Oo. Ilang taon na siya?"
+              },
+              "sourcePage": 112
+            },
+            {
+              "speaker": "A 08",
+              "speakerText": {
+                "sourceLanguage": "mixed",
+                "sourceText": "A 08",
+                "id": "Bagian A 08"
+              },
+              "text": {
+                "sourceLanguage": "fil",
+                "sourceText": "Tatlong taon na yata'. [...]",
+                "id": "Tiga tahun, menurutku. [...]",
+                "tagalog": "Tatlong taon na yata'. [...]"
+              },
+              "sourcePage": 113
+            },
+            {
+              "speaker": "A 09",
+              "speakerText": {
+                "sourceLanguage": "mixed",
+                "sourceText": "A 09",
+                "id": "Bagian A 09"
+              },
+              "text": {
+                "sourceLanguage": "fil",
+                "sourceText": "At ito naman si Tingting, ang kapatid ni Tabby.",
+                "id": "Dan ini Tingting, saudara perempuan Tabby.",
+                "tagalog": "At ito naman si Tingting, ang kapatid ni Tabby."
+              },
+              "sourcePage": 114
+            },
+            {
+              "speaker": "A 10",
+              "speakerText": {
+                "sourceLanguage": "mixed",
+                "sourceText": "A 10",
+                "id": "Bagian A 10"
+              },
+              "text": {
+                "sourceLanguage": "fil",
+                "sourceText": "Ang payat ni Tingting!",
+                "id": "Tingting sangat kurus!",
+                "tagalog": "Ang payat ni Tingting!"
+              },
+              "sourcePage": 115
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "vocabulary",
+      "type": "VOCABULARY",
+      "title": {
+        "sourceLanguage": "mixed",
+        "sourceText": "Vocabulary and expressions",
+        "id": "Kosakata dan ungkapan"
+      },
+      "blocks": [
+        {
+          "type": "vocabulary",
+          "entries": [
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "Ang",
+                "id": "penanda definit",
+                "tagalog": "Ang"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "The",
+                "id": "penanda definit"
+              },
+              "sourcePage": 106
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "mga",
+                "id": "[jamak]",
+                "tagalog": "mga"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "[plural]",
+                "id": "[jamak]"
+              },
+              "sourcePage": 106
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "alaga'",
+                "id": "Peliharaan",
+                "tagalog": "alaga'"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "pet",
+                "id": "Peliharaan"
+              },
+              "sourcePage": 106
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "Ito",
+                "id": "Ini",
+                "tagalog": "Ito"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "This",
+                "id": "Ini"
+              },
+              "sourcePage": 107
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "si",
+                "id": "[penanda ang]",
+                "tagalog": "si"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "[Ang marker]",
+                "id": "[penanda ang]"
+              },
+              "sourcePage": 107
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "Tabby,",
+                "id": "Tabby",
+                "tagalog": "Tabby,"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "Tabby,",
+                "id": "Tabby"
+              },
+              "sourcePage": 107
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "aso",
+                "id": "Anjing",
+                "tagalog": "aso"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "dog",
+                "id": "Anjing"
+              },
+              "sourcePage": 107
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "ko.",
+                "id": "Ku.",
+                "tagalog": "ko."
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "my.",
+                "id": "Ku."
+              },
+              "sourcePage": 107
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "A,",
+                "id": "Ah,",
+                "tagalog": "A,"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "Ah,",
+                "id": "Ah,"
+              },
+              "sourcePage": 108
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "hello",
+                "id": "Halo",
+                "tagalog": "hello"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "hello",
+                "id": "Halo"
+              },
+              "sourcePage": 108
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "Bakit",
+                "id": "Mengapa",
+                "tagalog": "Bakit"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "Why",
+                "id": "Mengapa"
+              },
+              "sourcePage": 108
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "pangalan",
+                "id": "Nama",
+                "tagalog": "pangalan"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "name",
+                "id": "Nama"
+              },
+              "sourcePage": 108
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "niya?",
+                "id": "Miliknya?",
+                "tagalog": "niya?"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "his/her?",
+                "id": "Miliknya?"
+              },
+              "sourcePage": 108
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "Kasi",
+                "id": "Karena",
+                "tagalog": "Kasi"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "Because",
+                "id": "Karena"
+              },
+              "sourcePage": 109
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "ang taba'",
+                "id": "Sangat gemuk",
+                "tagalog": "ang taba'"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "very fat",
+                "id": "Sangat gemuk"
+              },
+              "sourcePage": 109
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "e.",
+                "id": "Kamu lihat.",
+                "tagalog": "e."
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "you see.",
+                "id": "Kamu lihat."
+              },
+              "sourcePage": 109
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "Oo",
+                "id": "Ya,",
+                "tagalog": "Oo"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "Yes,",
+                "id": "Ya,"
+              },
+              "sourcePage": 110
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "nga'",
+                "id": "Memang",
+                "tagalog": "nga'"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "indeed",
+                "id": "Memang"
+              },
+              "sourcePage": 110
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "ano.",
+                "id": "Bukan?",
+                "tagalog": "ano."
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "isn't it.",
+                "id": "Bukan?"
+              },
+              "sourcePage": 110
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "Mataba'",
+                "id": "Gemuk",
+                "tagalog": "Mataba'"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "Fat",
+                "id": "Gemuk"
+              },
+              "sourcePage": 110
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "siya.",
+                "id": "Dia.",
+                "tagalog": "siya."
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "he/she.",
+                "id": "Dia."
+              },
+              "sourcePage": 110
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "Ang bait",
+                "id": "Bagus sekali",
+                "tagalog": "Ang bait"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "Very nice",
+                "id": "Bagus sekali"
+              },
+              "sourcePage": 111
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "di ba?",
+                "id": "Kanan?",
+                "tagalog": "di ba?"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "right?",
+                "id": "Kanan?"
+              },
+              "sourcePage": 111
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "Ilang",
+                "id": "Berapa banyak-[penghubung]",
+                "tagalog": "Ilang"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "How many-[linker]",
+                "id": "Berapa banyak-[penghubung]"
+              },
+              "sourcePage": 112
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "taon",
+                "id": "Tahun",
+                "tagalog": "taon"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "year",
+                "id": "Tahun"
+              },
+              "sourcePage": 112
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "na",
+                "id": "Sekarang",
+                "tagalog": "na"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "now",
+                "id": "Sekarang"
+              },
+              "sourcePage": 112
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "Tatlong",
+                "id": "Tiga-[penghubung]",
+                "tagalog": "Tatlong"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "Three-[linker]",
+                "id": "Tiga-[penghubung]"
+              },
+              "sourcePage": 113
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "yata'.",
+                "id": "Mungkin.",
+                "tagalog": "yata'."
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "maybe.",
+                "id": "Mungkin."
+              },
+              "sourcePage": 113
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "At",
+                "id": "Dan",
+                "tagalog": "At"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "And",
+                "id": "Dan"
+              },
+              "sourcePage": 114
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "naman",
+                "id": "[kontras]",
+                "tagalog": "naman"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "[contrast]",
+                "id": "[kontras]"
+              },
+              "sourcePage": 114
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "Tingting,",
+                "id": "Tingting",
+                "tagalog": "Tingting,"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "Tingting,",
+                "id": "Tingting"
+              },
+              "sourcePage": 114
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "kapatid",
+                "id": "Saudara",
+                "tagalog": "kapatid"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "sibling",
+                "id": "Saudara"
+              },
+              "sourcePage": 114
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "ni",
+                "id": "Dari",
+                "tagalog": "ni"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "of",
+                "id": "Dari"
+              },
+              "sourcePage": 114
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "Ang payat",
+                "id": "Betapa kurusnya",
+                "tagalog": "Ang payat"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "How thin",
+                "id": "Betapa kurusnya"
+              },
+              "sourcePage": 115
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "Parang",
+                "id": "Menyukai",
+                "tagalog": "Parang"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "Like",
+                "id": "Menyukai"
+              },
+              "sourcePage": 116
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "Mabait",
+                "id": "Bagus",
+                "tagalog": "Mabait"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "Nice",
+                "id": "Bagus"
+              },
+              "sourcePage": 120
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "Ang bait-bait",
+                "id": "Bagus sekali",
+                "tagalog": "Ang bait-bait"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "How very nice",
+                "id": "Bagus sekali"
+              },
+              "sourcePage": 122
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "Payat",
+                "id": "Tipis",
+                "tagalog": "Payat"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "Thin",
+                "id": "Tipis"
+              },
+              "sourcePage": 123
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "Makulit",
+                "id": "Mendesak",
+                "tagalog": "Makulit"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "Importunate",
+                "id": "Mendesak"
+              },
+              "sourcePage": 125
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "Ang kulit",
+                "id": "Betapa pentingnya",
+                "tagalog": "Ang kulit"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "How importunate",
+                "id": "Betapa pentingnya"
+              },
+              "sourcePage": 126
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "ng",
+                "id": "Dari",
+                "tagalog": "ng"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "of",
+                "id": "Dari"
+              },
+              "sourcePage": 126
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "Maganda",
+                "id": "Cantik",
+                "tagalog": "Maganda"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "Beautiful",
+                "id": "Cantik"
+              },
+              "sourcePage": 127
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "Ang ganda",
+                "id": "Betapa indahnya",
+                "tagalog": "Ang ganda"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "How beautiful",
+                "id": "Betapa indahnya"
+              },
+              "sourcePage": 128
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "nito.",
+                "id": "Ini.",
+                "tagalog": "nito."
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "of this.",
+                "id": "Ini."
+              },
+              "sourcePage": 128
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "Masakit",
+                "id": "Menyakitkan",
+                "tagalog": "Masakit"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "Painful",
+                "id": "Menyakitkan"
+              },
+              "sourcePage": 129
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "iyan.",
+                "id": "Itu (di dekatmu).",
+                "tagalog": "iyan."
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "that (near you).",
+                "id": "Itu (di dekatmu)."
+              },
+              "sourcePage": 129
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "Ang sakit",
+                "id": "Sungguh menyakitkan",
+                "tagalog": "Ang sakit"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "How painful",
+                "id": "Sungguh menyakitkan"
+              },
+              "sourcePage": 130
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "niyan.",
+                "id": "Dari itu (di dekat Anda).",
+                "tagalog": "niyan."
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "of that (near you).",
+                "id": "Dari itu (di dekat Anda)."
+              },
+              "sourcePage": 130
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "Pangit",
+                "id": "Jelek",
+                "tagalog": "Pangit"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "Ugly",
+                "id": "Jelek"
+              },
+              "sourcePage": 131
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "iyon.",
+                "id": "Itu (di sana).",
+                "tagalog": "iyon."
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "that (over there).",
+                "id": "Itu (di sana)."
+              },
+              "sourcePage": 131
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "Ang pangit",
+                "id": "Jelek sekali",
+                "tagalog": "Ang pangit"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "How ugly",
+                "id": "Jelek sekali"
+              },
+              "sourcePage": 132
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "niyon.",
+                "id": "Dari itu (di sana).",
+                "tagalog": "niyon."
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "of that (over there).",
+                "id": "Dari itu (di sana)."
+              },
+              "sourcePage": 132
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "style": "body",
+          "sourcePage": 110,
+          "sourceLabel": "A 05",
+          "links": [
+            "https://learningtagalog.com/grammar/pronouns/summary_markers_and_pronouns.html"
+          ],
+          "text": {
+            "sourceLanguage": "en",
+            "sourceText": "Oo nga’ ano. – Yes, now that you said it. It’s an expression (translated loosely to capture the same meaning).",
+            "id": "A 05 · halaman PDF 110\n\nOo nga’ ano. – Ya, setelah Anda mengatakannya. Itu adalah sebuah ekspresi (diterjemahkan secara longgar untuk menangkap makna yang sama)."
+          }
+        },
+        {
+          "type": "text",
+          "style": "body",
+          "sourcePage": 111,
+          "sourceLabel": "A 06",
+          "links": [],
+          "text": {
+            "sourceLanguage": "en",
+            "sourceText": "Di ba – isn’t it/he/she, aren’t they etc.",
+            "id": "A 06 · halaman PDF 111\n\nDi ba – bukan, bukan, dll."
+          }
+        },
+        {
+          "type": "text",
+          "style": "body",
+          "sourcePage": 111,
+          "sourceLabel": "A 06",
+          "links": [],
+          "text": {
+            "sourceLanguage": "en",
+            "sourceText": "Mabait siya – he/she's nice. Ang bait niya – he/she's very nice.",
+            "id": "A 06 · halaman PDF 111\n\nMabait siya – dia baik. Ang bait niya – dia sangat baik."
+          }
+        },
+        {
+          "type": "text",
+          "style": "body",
+          "sourcePage": 112,
+          "sourceLabel": "A 07",
+          "links": [],
+          "text": {
+            "sourceLanguage": "en",
+            "sourceText": "Ilang taon na – how old.",
+            "id": "A 07 · halaman PDF 112\n\nIlang taon na – berapa umurnya."
+          }
+        },
+        {
+          "type": "text",
+          "style": "body",
+          "sourcePage": 113,
+          "sourceLabel": "A 08",
+          "links": [],
+          "text": {
+            "sourceLanguage": "en",
+            "sourceText": "Yata' is used to express uncertainty, so it can mean I think, I guess, maybe, if I remember correctly etc.",
+            "id": "A 08 · halaman PDF 113\n\nYata' digunakan untuk menyatakan ketidakpastian, jadi bisa berarti saya berpikir, saya kira, mungkin, jika saya mengingatnya dengan benar, dll."
+          }
+        },
+        {
+          "type": "text",
+          "style": "body",
+          "sourcePage": 114,
+          "sourceLabel": "A 09",
+          "links": [],
+          "text": {
+            "sourceLanguage": "en",
+            "sourceText": "Naman can be used to show contrast with what has been previously introduced.",
+            "id": "A 09 · halaman PDF 114\n\nNaman dapat digunakan untuk menunjukkan kontras dengan apa yang telah diperkenalkan sebelumnya."
+          }
+        },
+        {
+          "type": "text",
+          "style": "body",
+          "sourcePage": 116,
+          "sourceLabel": "A 11",
+          "links": [],
+          "text": {
+            "sourceLanguage": "en",
+            "sourceText": "A tingting is the midrib (central vein) of a palm leaf. It is often bundled together and used as a broom in the Philippines. Tingting can also be used to describe skinny people.",
+            "id": "A 11 · halaman PDF 116\n\nTingting adalah pelepah (urat tengah) daun lontar. Seringkali dibundel menjadi satu dan digunakan sebagai sapu di Filipina. Tingting juga bisa digunakan untuk menggambarkan orang kurus."
+          }
+        },
+        {
+          "type": "text",
+          "style": "body",
+          "sourcePage": 122,
+          "sourceLabel": "B 05",
+          "links": [],
+          "text": {
+            "sourceLanguage": "en",
+            "sourceText": "Repeating bait a second time intensifies its meaning even more.",
+            "id": "B 05 · halaman PDF 122\n\nMengulangi bait untuk kedua kalinya semakin memperkuat maknanya."
+          }
+        }
+      ]
+    },
+    {
+      "id": "grammar",
+      "type": "GRAMMAR",
+      "title": {
+        "sourceLanguage": "mixed",
+        "sourceText": "Grammar and pronunciation notes",
+        "id": "Catatan tata bahasa dan pelafalan"
+      },
+      "blocks": [
+        {
+          "type": "text",
+          "style": "body",
+          "sourcePage": 106,
+          "sourceLabel": "A 01",
+          "links": [],
+          "text": {
+            "sourceLanguage": "en",
+            "sourceText": "Noun plurals are formed by placing mga before the noun.",
+            "id": "A 01 · halaman PDF 106\n\nKata benda jamak dibentuk dengan menempatkan mga sebelum kata benda."
+          }
+        },
+        {
+          "type": "text",
+          "style": "body",
+          "sourcePage": 107,
+          "sourceLabel": "A 02",
+          "links": [
+            "https://learningtagalog.com/grammar/pronouns/summary_markers_and_pronouns.html"
+          ],
+          "text": {
+            "sourceLanguage": "en",
+            "sourceText": "Ito, si Tabby and ang aso are all examples of Ang phrases. They can assume the same roles in a sentence. Ang phrases can either be Ang pronouns or phrases introduced by an Ang marker. The POD is always expressed as an Ang phrase.",
+            "id": "A 02 · halaman PDF 107\n\nIto, si Tabby dan ang aso adalah contoh frasa Ang. Mereka dapat mengambil peran yang sama dalam sebuah kalimat. Frasa Ang dapat berupa kata ganti Ang atau frasa yang diperkenalkan oleh penanda Ang. POD selalu dinyatakan sebagai frase Ang."
+          }
+        },
+        {
+          "type": "text",
+          "style": "body",
+          "sourcePage": 109,
+          "sourceLabel": "A 04",
+          "links": [],
+          "text": {
+            "sourceLanguage": "en",
+            "sourceText": "When ang is used as an intensifier (ang + root, as in, ang taba' – how fat, very fat), the person or thing described is expressed as a Ng phrase (niya in this case).",
+            "id": "A 04 · halaman PDF 109\n\nKetika ang digunakan sebagai intensifier (ang + root, seperti dalam, ang taba' – betapa gemuk, sangat gemuk), orang atau benda yang dideskripsikan dinyatakan sebagai frasa Ng (dalam hal ini niya)."
+          }
+        },
+        {
+          "type": "text",
+          "style": "body",
+          "sourcePage": 109,
+          "sourceLabel": "A 04",
+          "links": [],
+          "text": {
+            "sourceLanguage": "en",
+            "sourceText": "As we will see later, there are other intensifiers that follow the same pattern.",
+            "id": "A 04 · halaman PDF 109\n\nSeperti yang akan kita lihat nanti, ada intensifier lain yang mengikuti pola yang sama."
+          }
+        },
+        {
+          "type": "text",
+          "style": "body",
+          "sourcePage": 110,
+          "sourceLabel": "A 05",
+          "links": [
+            "https://learningtagalog.com/grammar/pronouns/summary_markers_and_pronouns.html"
+          ],
+          "text": {
+            "sourceLanguage": "en",
+            "sourceText": "Mataba' siya – he/she's fat. Ang taba' niya – he/she's very fat (see the previous phrase). Siya is an Ang pronoun and niya is the corresponding Ng pronoun. You can check the summary of markers and pronouns again: Summary: markers and pronouns.",
+            "id": "A 05 · halaman PDF 110\n\nMataba' siya – dia gemuk. Ang taba' niya – dia sangat gemuk (lihat kalimat sebelumnya). Siya adalah kata ganti Ang dan niya adalah kata ganti Ng yang sesuai. Anda dapat memeriksa kembali ringkasan penanda dan kata ganti: Ringkasan: penanda dan kata ganti."
+          }
+        },
+        {
+          "type": "text",
+          "style": "body",
+          "sourcePage": 115,
+          "sourceLabel": "A 10",
+          "links": [],
+          "text": {
+            "sourceLanguage": "en",
+            "sourceText": "Payat si Tingting – Tingting is thin. Payat is an adjective without an affix. Ang payat ni Tingting – Tingting is very/so thin.",
+            "id": "A 10 · halaman PDF 115\n\nPayat si Tingting – Tingtingnya tipis. Payat adalah kata sifat tanpa imbuhan. Ang payat ni Tingting – Tingting sangat/sangat tipis."
+          }
+        }
+      ]
+    },
+    {
+      "id": "examples",
+      "type": "EXAMPLES",
+      "title": {
+        "sourceLanguage": "mixed",
+        "sourceText": "Literal and natural translations",
+        "id": "Contoh dengan glosa harfiah dan alami"
+      },
+      "blocks": [
+        {
+          "type": "example",
+          "title": {
+            "sourceLanguage": "mixed",
+            "sourceText": "A 01",
+            "id": "A 01 · halaman PDF 106"
+          },
+          "sourcePage": 106,
+          "rows": [
+            {
+              "cells": [
+                {
+                  "sourceLanguage": "fil",
+                  "sourceText": "Ang mga alaga'",
+                  "id": "Hewan-hewan peliharaan",
+                  "tagalog": "Ang mga alaga'"
+                },
+                {
+                  "sourceLanguage": "en",
+                  "sourceText": "The [plural] pet",
+                  "id": "Glosa harfiah (Inggris)\nThe [plural] pet"
+                },
+                {
+                  "sourceLanguage": "en",
+                  "sourceText": "The pets",
+                  "id": "Terjemahan alami sumber (Inggris)\nThe pets"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "example",
+          "title": {
+            "sourceLanguage": "mixed",
+            "sourceText": "A 02",
+            "id": "A 02 · halaman PDF 107"
+          },
+          "sourcePage": 107,
+          "rows": [
+            {
+              "cells": [
+                {
+                  "sourceLanguage": "fil",
+                  "sourceText": "Ito si Tabby, ang aso ko.",
+                  "id": "Ini anjingku Tabby.",
+                  "tagalog": "Ito si Tabby, ang aso ko."
+                },
+                {
+                  "sourceLanguage": "en",
+                  "sourceText": "This [Ang marker] Tabby, the dog my.",
+                  "id": "Glosa harfiah (Inggris)\nThis [Ang marker] Tabby, the dog my."
+                },
+                {
+                  "sourceLanguage": "en",
+                  "sourceText": "This is my dog Tabby.",
+                  "id": "Terjemahan alami sumber (Inggris)\nThis is my dog Tabby."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "example",
+          "title": {
+            "sourceLanguage": "mixed",
+            "sourceText": "A 03",
+            "id": "A 03 · halaman PDF 108"
+          },
+          "sourcePage": 108,
+          "rows": [
+            {
+              "cells": [
+                {
+                  "sourceLanguage": "fil",
+                  "sourceText": "A, hello Tabby! Bakit Tabby ang pangalan niya?",
+                  "id": "Ah, halo Tabby! Kenapa dia dipanggil Tabby? (Mengapa namanya Tabby?)",
+                  "tagalog": "A, hello Tabby! Bakit Tabby ang pangalan niya?"
+                },
+                {
+                  "sourceLanguage": "en",
+                  "sourceText": "Ah, hello Tabby! Why Tabby the name his/her?",
+                  "id": "Glosa harfiah (Inggris)\nAh, hello Tabby! Why Tabby the name his/her?"
+                },
+                {
+                  "sourceLanguage": "en",
+                  "sourceText": "Ah, hello Tabby! Why is he called Tabby? (Why is his name Tabby?)",
+                  "id": "Terjemahan alami sumber (Inggris)\nAh, hello Tabby! Why is he called Tabby? (Why is his name Tabby?)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "example",
+          "title": {
+            "sourceLanguage": "mixed",
+            "sourceText": "A 04",
+            "id": "A 04 · halaman PDF 109"
+          },
+          "sourcePage": 109,
+          "rows": [
+            {
+              "cells": [
+                {
+                  "sourceLanguage": "fil",
+                  "sourceText": "Kasi ang taba' niya e.",
+                  "id": "Karena dia sangat gemuk.",
+                  "tagalog": "Kasi ang taba' niya e."
+                },
+                {
+                  "sourceLanguage": "en",
+                  "sourceText": "Because very fat of him/her you see.",
+                  "id": "Glosa harfiah (Inggris)\nBecause very fat of him/her you see."
+                },
+                {
+                  "sourceLanguage": "en",
+                  "sourceText": "Because he's so fat.",
+                  "id": "Terjemahan alami sumber (Inggris)\nBecause he's so fat."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "example",
+          "title": {
+            "sourceLanguage": "mixed",
+            "sourceText": "A 05",
+            "id": "A 05 · halaman PDF 110"
+          },
+          "sourcePage": 110,
+          "rows": [
+            {
+              "cells": [
+                {
+                  "sourceLanguage": "fil",
+                  "sourceText": "Oo nga' ano. Mataba' nga' siya.",
+                  "id": "Ya, sekarang kamu mengatakannya. Dia memang gemuk.",
+                  "tagalog": "Oo nga' ano. Mataba' nga' siya."
+                },
+                {
+                  "sourceLanguage": "en",
+                  "sourceText": "Yes, indeed isn't it. Fat indeed he/she.",
+                  "id": "Glosa harfiah (Inggris)\nYes, indeed isn't it. Fat indeed he/she."
+                },
+                {
+                  "sourceLanguage": "en",
+                  "sourceText": "Yes, now that you said it. He's fat indeed.",
+                  "id": "Terjemahan alami sumber (Inggris)\nYes, now that you said it. He's fat indeed."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "example",
+          "title": {
+            "sourceLanguage": "mixed",
+            "sourceText": "A 06",
+            "id": "A 06 · halaman PDF 111"
+          },
+          "sourcePage": 111,
+          "rows": [
+            {
+              "cells": [
+                {
+                  "sourceLanguage": "fil",
+                  "sourceText": "Ang bait niya di ba?",
+                  "id": "Dia sangat baik, bukan?",
+                  "tagalog": "Ang bait niya di ba?"
+                },
+                {
+                  "sourceLanguage": "en",
+                  "sourceText": "Very nice of him/her right?",
+                  "id": "Glosa harfiah (Inggris)\nVery nice of him/her right?"
+                },
+                {
+                  "sourceLanguage": "en",
+                  "sourceText": "He's very nice, isn't he?",
+                  "id": "Terjemahan alami sumber (Inggris)\nHe's very nice, isn't he?"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "example",
+          "title": {
+            "sourceLanguage": "mixed",
+            "sourceText": "A 07",
+            "id": "A 07 · halaman PDF 112"
+          },
+          "sourcePage": 112,
+          "rows": [
+            {
+              "cells": [
+                {
+                  "sourceLanguage": "fil",
+                  "sourceText": "Oo. Ilang taon na siya?",
+                  "id": "Ya. Berapa umurnya? (Berapa tahun dia?)",
+                  "tagalog": "Oo. Ilang taon na siya?"
+                },
+                {
+                  "sourceLanguage": "en",
+                  "sourceText": "Yes. How many-[linker] year now he/she?",
+                  "id": "Glosa harfiah (Inggris)\nYes. How many-[linker] year now he/she?"
+                },
+                {
+                  "sourceLanguage": "en",
+                  "sourceText": "Yes. How old is he? (How many years is he?)",
+                  "id": "Terjemahan alami sumber (Inggris)\nYes. How old is he? (How many years is he?)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "example",
+          "title": {
+            "sourceLanguage": "mixed",
+            "sourceText": "A 08",
+            "id": "A 08 · halaman PDF 113"
+          },
+          "sourcePage": 113,
+          "rows": [
+            {
+              "cells": [
+                {
+                  "sourceLanguage": "fil",
+                  "sourceText": "Tatlong taon na yata'. [...]",
+                  "id": "Tiga tahun, menurutku. [...]",
+                  "tagalog": "Tatlong taon na yata'. [...]"
+                },
+                {
+                  "sourceLanguage": "en",
+                  "sourceText": "Three-[linker] year now maybe. [...]",
+                  "id": "Glosa harfiah (Inggris)\nThree-[linker] year now maybe. [...]"
+                },
+                {
+                  "sourceLanguage": "en",
+                  "sourceText": "Three years, I think. [...]",
+                  "id": "Terjemahan alami sumber (Inggris)\nThree years, I think. [...]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "example",
+          "title": {
+            "sourceLanguage": "mixed",
+            "sourceText": "A 09",
+            "id": "A 09 · halaman PDF 114"
+          },
+          "sourcePage": 114,
+          "rows": [
+            {
+              "cells": [
+                {
+                  "sourceLanguage": "fil",
+                  "sourceText": "At ito naman si Tingting, ang kapatid ni Tabby.",
+                  "id": "Dan ini Tingting, saudara perempuan Tabby.",
+                  "tagalog": "At ito naman si Tingting, ang kapatid ni Tabby."
+                },
+                {
+                  "sourceLanguage": "en",
+                  "sourceText": "And this [contrast] [Ang marker] Tingting, the sibling of Tabby.",
+                  "id": "Glosa harfiah (Inggris)\nAnd this [contrast] [Ang marker] Tingting, the sibling of Tabby."
+                },
+                {
+                  "sourceLanguage": "en",
+                  "sourceText": "And this is Tingting, Tabby's sister (sibling).",
+                  "id": "Terjemahan alami sumber (Inggris)\nAnd this is Tingting, Tabby's sister (sibling)."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "example",
+          "title": {
+            "sourceLanguage": "mixed",
+            "sourceText": "A 10",
+            "id": "A 10 · halaman PDF 115"
+          },
+          "sourcePage": 115,
+          "rows": [
+            {
+              "cells": [
+                {
+                  "sourceLanguage": "fil",
+                  "sourceText": "Ang payat ni Tingting!",
+                  "id": "Tingting sangat kurus!",
+                  "tagalog": "Ang payat ni Tingting!"
+                },
+                {
+                  "sourceLanguage": "en",
+                  "sourceText": "How thin of Tingting!",
+                  "id": "Glosa harfiah (Inggris)\nHow thin of Tingting!"
+                },
+                {
+                  "sourceLanguage": "en",
+                  "sourceText": "Tingting is so thin!",
+                  "id": "Terjemahan alami sumber (Inggris)\nTingting is so thin!"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "example",
+          "title": {
+            "sourceLanguage": "mixed",
+            "sourceText": "A 11",
+            "id": "A 11 · halaman PDF 116"
+          },
+          "sourcePage": 116,
+          "rows": [
+            {
+              "cells": [
+                {
+                  "sourceLanguage": "fil",
+                  "sourceText": "Parang tingting di ba?",
+                  "id": "Setipis ranting, bukan?",
+                  "tagalog": "Parang tingting di ba?"
+                },
+                {
+                  "sourceLanguage": "en",
+                  "sourceText": "Like midrib (leaf vein) right?",
+                  "id": "Glosa harfiah (Inggris)\nLike midrib (leaf vein) right?"
+                },
+                {
+                  "sourceLanguage": "en",
+                  "sourceText": "As thin as a twig, isn't she?",
+                  "id": "Terjemahan alami sumber (Inggris)\nAs thin as a twig, isn't she?"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "example",
+          "title": {
+            "sourceLanguage": "mixed",
+            "sourceText": "B 01",
+            "id": "B 01 · halaman PDF 118"
+          },
+          "sourcePage": 118,
+          "rows": [
+            {
+              "cells": [
+                {
+                  "sourceLanguage": "fil",
+                  "sourceText": "Mataba' si Tabby.",
+                  "id": "Tabby gemuk.",
+                  "tagalog": "Mataba' si Tabby."
+                },
+                {
+                  "sourceLanguage": "en",
+                  "sourceText": "Fat [Ang marker] Tabby.",
+                  "id": "Glosa harfiah (Inggris)\nFat [Ang marker] Tabby."
+                },
+                {
+                  "sourceLanguage": "en",
+                  "sourceText": "Tabby is fat.",
+                  "id": "Terjemahan alami sumber (Inggris)\nTabby is fat."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "example",
+          "title": {
+            "sourceLanguage": "mixed",
+            "sourceText": "B 02",
+            "id": "B 02 · halaman PDF 119"
+          },
+          "sourcePage": 119,
+          "rows": [
+            {
+              "cells": [
+                {
+                  "sourceLanguage": "fil",
+                  "sourceText": "Ang taba' ni Tabby!",
+                  "id": "Tabby sangat gemuk!",
+                  "tagalog": "Ang taba' ni Tabby!"
+                },
+                {
+                  "sourceLanguage": "en",
+                  "sourceText": "How fat of Tabby!",
+                  "id": "Glosa harfiah (Inggris)\nHow fat of Tabby!"
+                },
+                {
+                  "sourceLanguage": "en",
+                  "sourceText": "Tabby is so fat!",
+                  "id": "Terjemahan alami sumber (Inggris)\nTabby is so fat!"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "example",
+          "title": {
+            "sourceLanguage": "mixed",
+            "sourceText": "B 03",
+            "id": "B 03 · halaman PDF 120"
+          },
+          "sourcePage": 120,
+          "rows": [
+            {
+              "cells": [
+                {
+                  "sourceLanguage": "fil",
+                  "sourceText": "Mabait si Tingting.",
+                  "id": "Tingting baik.",
+                  "tagalog": "Mabait si Tingting."
+                },
+                {
+                  "sourceLanguage": "en",
+                  "sourceText": "Nice [Ang marker] Tingting.",
+                  "id": "Glosa harfiah (Inggris)\nNice [Ang marker] Tingting."
+                },
+                {
+                  "sourceLanguage": "en",
+                  "sourceText": "Tingting is nice.",
+                  "id": "Terjemahan alami sumber (Inggris)\nTingting is nice."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "example",
+          "title": {
+            "sourceLanguage": "mixed",
+            "sourceText": "B 04",
+            "id": "B 04 · halaman PDF 121"
+          },
+          "sourcePage": 121,
+          "rows": [
+            {
+              "cells": [
+                {
+                  "sourceLanguage": "fil",
+                  "sourceText": "Ang bait ni Tingting.",
+                  "id": "Tingting sangat baik.",
+                  "tagalog": "Ang bait ni Tingting."
+                },
+                {
+                  "sourceLanguage": "en",
+                  "sourceText": "How nice of Tingting.",
+                  "id": "Glosa harfiah (Inggris)\nHow nice of Tingting."
+                },
+                {
+                  "sourceLanguage": "en",
+                  "sourceText": "Tingting is so nice.",
+                  "id": "Terjemahan alami sumber (Inggris)\nTingting is so nice."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "example",
+          "title": {
+            "sourceLanguage": "mixed",
+            "sourceText": "B 05",
+            "id": "B 05 · halaman PDF 122"
+          },
+          "sourcePage": 122,
+          "rows": [
+            {
+              "cells": [
+                {
+                  "sourceLanguage": "fil",
+                  "sourceText": "Ang bait-bait ni Tingting.",
+                  "id": "Tingting sangat, sangat baik.",
+                  "tagalog": "Ang bait-bait ni Tingting."
+                },
+                {
+                  "sourceLanguage": "en",
+                  "sourceText": "How very nice of Tingting.",
+                  "id": "Glosa harfiah (Inggris)\nHow very nice of Tingting."
+                },
+                {
+                  "sourceLanguage": "en",
+                  "sourceText": "Tingting is sooo nice.",
+                  "id": "Terjemahan alami sumber (Inggris)\nTingting is sooo nice."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "example",
+          "title": {
+            "sourceLanguage": "mixed",
+            "sourceText": "B 06",
+            "id": "B 06 · halaman PDF 123"
+          },
+          "sourcePage": 123,
+          "rows": [
+            {
+              "cells": [
+                {
+                  "sourceLanguage": "fil",
+                  "sourceText": "Payat siya.",
+                  "id": "Dia kurus.",
+                  "tagalog": "Payat siya."
+                },
+                {
+                  "sourceLanguage": "en",
+                  "sourceText": "Thin he/she.",
+                  "id": "Glosa harfiah (Inggris)\nThin he/she."
+                },
+                {
+                  "sourceLanguage": "en",
+                  "sourceText": "He/she is thin.",
+                  "id": "Terjemahan alami sumber (Inggris)\nHe/she is thin."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "example",
+          "title": {
+            "sourceLanguage": "mixed",
+            "sourceText": "B 07",
+            "id": "B 07 · halaman PDF 124"
+          },
+          "sourcePage": 124,
+          "rows": [
+            {
+              "cells": [
+                {
+                  "sourceLanguage": "fil",
+                  "sourceText": "Ang payat niya.",
+                  "id": "Dia sangat kurus.",
+                  "tagalog": "Ang payat niya."
+                },
+                {
+                  "sourceLanguage": "en",
+                  "sourceText": "How thin of him/her.",
+                  "id": "Glosa harfiah (Inggris)\nHow thin of him/her."
+                },
+                {
+                  "sourceLanguage": "en",
+                  "sourceText": "He/she is so thin.",
+                  "id": "Terjemahan alami sumber (Inggris)\nHe/she is so thin."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "example",
+          "title": {
+            "sourceLanguage": "mixed",
+            "sourceText": "B 08",
+            "id": "B 08 · halaman PDF 125"
+          },
+          "sourcePage": 125,
+          "rows": [
+            {
+              "cells": [
+                {
+                  "sourceLanguage": "fil",
+                  "sourceText": "Makulit ang aso niya.",
+                  "id": "Anjingnya menjengkelkan.",
+                  "tagalog": "Makulit ang aso niya."
+                },
+                {
+                  "sourceLanguage": "en",
+                  "sourceText": "Importunate the dog his/her.",
+                  "id": "Glosa harfiah (Inggris)\nImportunate the dog his/her."
+                },
+                {
+                  "sourceLanguage": "en",
+                  "sourceText": "His/her dog is irritating.",
+                  "id": "Terjemahan alami sumber (Inggris)\nHis/her dog is irritating."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "example",
+          "title": {
+            "sourceLanguage": "mixed",
+            "sourceText": "B 09",
+            "id": "B 09 · halaman PDF 126"
+          },
+          "sourcePage": 126,
+          "rows": [
+            {
+              "cells": [
+                {
+                  "sourceLanguage": "fil",
+                  "sourceText": "Ang kulit ng aso niya.",
+                  "id": "Anjingnya sangat menjengkelkan.",
+                  "tagalog": "Ang kulit ng aso niya."
+                },
+                {
+                  "sourceLanguage": "en",
+                  "sourceText": "How importunate of dog his/her.",
+                  "id": "Glosa harfiah (Inggris)\nHow importunate of dog his/her."
+                },
+                {
+                  "sourceLanguage": "en",
+                  "sourceText": "His/her dog is so irritating.",
+                  "id": "Terjemahan alami sumber (Inggris)\nHis/her dog is so irritating."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "example",
+          "title": {
+            "sourceLanguage": "mixed",
+            "sourceText": "B 10",
+            "id": "B 10 · halaman PDF 127"
+          },
+          "sourcePage": 127,
+          "rows": [
+            {
+              "cells": [
+                {
+                  "sourceLanguage": "fil",
+                  "sourceText": "Maganda ito.",
+                  "id": "Ini cantik.",
+                  "tagalog": "Maganda ito."
+                },
+                {
+                  "sourceLanguage": "en",
+                  "sourceText": "Beautiful this.",
+                  "id": "Glosa harfiah (Inggris)\nBeautiful this."
+                },
+                {
+                  "sourceLanguage": "en",
+                  "sourceText": "This is pretty.",
+                  "id": "Terjemahan alami sumber (Inggris)\nThis is pretty."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "example",
+          "title": {
+            "sourceLanguage": "mixed",
+            "sourceText": "B 11",
+            "id": "B 11 · halaman PDF 128"
+          },
+          "sourcePage": 128,
+          "rows": [
+            {
+              "cells": [
+                {
+                  "sourceLanguage": "fil",
+                  "sourceText": "Ang ganda nito.",
+                  "id": "Ini sangat cantik.",
+                  "tagalog": "Ang ganda nito."
+                },
+                {
+                  "sourceLanguage": "en",
+                  "sourceText": "How beautiful of this.",
+                  "id": "Glosa harfiah (Inggris)\nHow beautiful of this."
+                },
+                {
+                  "sourceLanguage": "en",
+                  "sourceText": "This is so pretty.",
+                  "id": "Terjemahan alami sumber (Inggris)\nThis is so pretty."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "example",
+          "title": {
+            "sourceLanguage": "mixed",
+            "sourceText": "B 12",
+            "id": "B 12 · halaman PDF 129"
+          },
+          "sourcePage": 129,
+          "rows": [
+            {
+              "cells": [
+                {
+                  "sourceLanguage": "fil",
+                  "sourceText": "Masakit iyan.",
+                  "id": "Itu menyakitkan. (Itu menyakitkan.)",
+                  "tagalog": "Masakit iyan."
+                },
+                {
+                  "sourceLanguage": "en",
+                  "sourceText": "Painful that (near you).",
+                  "id": "Glosa harfiah (Inggris)\nPainful that (near you)."
+                },
+                {
+                  "sourceLanguage": "en",
+                  "sourceText": "That hurts. (That's painful.)",
+                  "id": "Terjemahan alami sumber (Inggris)\nThat hurts. (That's painful.)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "example",
+          "title": {
+            "sourceLanguage": "mixed",
+            "sourceText": "B 13",
+            "id": "B 13 · halaman PDF 130"
+          },
+          "sourcePage": 130,
+          "rows": [
+            {
+              "cells": [
+                {
+                  "sourceLanguage": "fil",
+                  "sourceText": "Ang sakit niyan.",
+                  "id": "Itu sangat menyakitkan. (Itu sangat menyakitkan.)",
+                  "tagalog": "Ang sakit niyan."
+                },
+                {
+                  "sourceLanguage": "en",
+                  "sourceText": "How painful of that (near you).",
+                  "id": "Glosa harfiah (Inggris)\nHow painful of that (near you)."
+                },
+                {
+                  "sourceLanguage": "en",
+                  "sourceText": "That really hurts. (That's so painful.)",
+                  "id": "Terjemahan alami sumber (Inggris)\nThat really hurts. (That's so painful.)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "example",
+          "title": {
+            "sourceLanguage": "mixed",
+            "sourceText": "B 14",
+            "id": "B 14 · halaman PDF 131"
+          },
+          "sourcePage": 131,
+          "rows": [
+            {
+              "cells": [
+                {
+                  "sourceLanguage": "fil",
+                  "sourceText": "Pangit iyon.",
+                  "id": "Itu jelek.",
+                  "tagalog": "Pangit iyon."
+                },
+                {
+                  "sourceLanguage": "en",
+                  "sourceText": "Ugly that (over there).",
+                  "id": "Glosa harfiah (Inggris)\nUgly that (over there)."
+                },
+                {
+                  "sourceLanguage": "en",
+                  "sourceText": "That's ugly.",
+                  "id": "Terjemahan alami sumber (Inggris)\nThat's ugly."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "example",
+          "title": {
+            "sourceLanguage": "mixed",
+            "sourceText": "B 15",
+            "id": "B 15 · halaman PDF 132"
+          },
+          "sourcePage": 132,
+          "rows": [
+            {
+              "cells": [
+                {
+                  "sourceLanguage": "fil",
+                  "sourceText": "Ang pangit niyon.",
+                  "id": "Itu sangat jelek.",
+                  "tagalog": "Ang pangit niyon."
+                },
+                {
+                  "sourceLanguage": "en",
+                  "sourceText": "How ugly of that (over there).",
+                  "id": "Glosa harfiah (Inggris)\nHow ugly of that (over there)."
+                },
+                {
+                  "sourceLanguage": "en",
+                  "sourceText": "That's so ugly.",
+                  "id": "Terjemahan alami sumber (Inggris)\nThat's so ugly."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "exercises",
+      "type": "EXERCISES",
+      "title": {
+        "sourceLanguage": "mixed",
+        "sourceText": "Drills",
+        "id": "Latihan pola"
+      },
+      "blocks": [
+        {
+          "type": "exercise",
+          "role": "instruction",
+          "text": {
+            "sourceLanguage": "mixed",
+            "sourceText": "Drills",
+            "id": "Latihan pola (Drills)"
+          },
+          "sourcePage": 117
+        },
+        {
+          "type": "exercise",
+          "role": "content",
+          "title": {
+            "sourceLanguage": "mixed",
+            "sourceText": "A 11",
+            "id": "A 11 · halaman PDF 116"
+          },
+          "sourcePage": 116,
+          "text": {
+            "sourceLanguage": "fil",
+            "sourceText": "Parang tingting di ba?",
+            "id": "Setipis ranting, bukan?",
+            "tagalog": "Parang tingting di ba?"
+          }
+        },
+        {
+          "type": "exercise",
+          "role": "content",
+          "title": {
+            "sourceLanguage": "mixed",
+            "sourceText": "B 01",
+            "id": "B 01 · halaman PDF 118"
+          },
+          "sourcePage": 118,
+          "text": {
+            "sourceLanguage": "fil",
+            "sourceText": "Mataba' si Tabby.",
+            "id": "Tabby gemuk.",
+            "tagalog": "Mataba' si Tabby."
+          }
+        },
+        {
+          "type": "exercise",
+          "role": "content",
+          "title": {
+            "sourceLanguage": "mixed",
+            "sourceText": "B 02",
+            "id": "B 02 · halaman PDF 119"
+          },
+          "sourcePage": 119,
+          "text": {
+            "sourceLanguage": "fil",
+            "sourceText": "Ang taba' ni Tabby!",
+            "id": "Tabby sangat gemuk!",
+            "tagalog": "Ang taba' ni Tabby!"
+          }
+        },
+        {
+          "type": "exercise",
+          "role": "content",
+          "title": {
+            "sourceLanguage": "mixed",
+            "sourceText": "B 03",
+            "id": "B 03 · halaman PDF 120"
+          },
+          "sourcePage": 120,
+          "text": {
+            "sourceLanguage": "fil",
+            "sourceText": "Mabait si Tingting.",
+            "id": "Tingting baik.",
+            "tagalog": "Mabait si Tingting."
+          }
+        },
+        {
+          "type": "exercise",
+          "role": "content",
+          "title": {
+            "sourceLanguage": "mixed",
+            "sourceText": "B 04",
+            "id": "B 04 · halaman PDF 121"
+          },
+          "sourcePage": 121,
+          "text": {
+            "sourceLanguage": "fil",
+            "sourceText": "Ang bait ni Tingting.",
+            "id": "Tingting sangat baik.",
+            "tagalog": "Ang bait ni Tingting."
+          }
+        },
+        {
+          "type": "exercise",
+          "role": "content",
+          "title": {
+            "sourceLanguage": "mixed",
+            "sourceText": "B 05",
+            "id": "B 05 · halaman PDF 122"
+          },
+          "sourcePage": 122,
+          "text": {
+            "sourceLanguage": "fil",
+            "sourceText": "Ang bait-bait ni Tingting.",
+            "id": "Tingting sangat, sangat baik.",
+            "tagalog": "Ang bait-bait ni Tingting."
+          }
+        },
+        {
+          "type": "exercise",
+          "role": "content",
+          "title": {
+            "sourceLanguage": "mixed",
+            "sourceText": "B 06",
+            "id": "B 06 · halaman PDF 123"
+          },
+          "sourcePage": 123,
+          "text": {
+            "sourceLanguage": "fil",
+            "sourceText": "Payat siya.",
+            "id": "Dia kurus.",
+            "tagalog": "Payat siya."
+          }
+        },
+        {
+          "type": "exercise",
+          "role": "content",
+          "title": {
+            "sourceLanguage": "mixed",
+            "sourceText": "B 07",
+            "id": "B 07 · halaman PDF 124"
+          },
+          "sourcePage": 124,
+          "text": {
+            "sourceLanguage": "fil",
+            "sourceText": "Ang payat niya.",
+            "id": "Dia sangat kurus.",
+            "tagalog": "Ang payat niya."
+          }
+        },
+        {
+          "type": "exercise",
+          "role": "content",
+          "title": {
+            "sourceLanguage": "mixed",
+            "sourceText": "B 08",
+            "id": "B 08 · halaman PDF 125"
+          },
+          "sourcePage": 125,
+          "text": {
+            "sourceLanguage": "fil",
+            "sourceText": "Makulit ang aso niya.",
+            "id": "Anjingnya menjengkelkan.",
+            "tagalog": "Makulit ang aso niya."
+          }
+        },
+        {
+          "type": "exercise",
+          "role": "content",
+          "title": {
+            "sourceLanguage": "mixed",
+            "sourceText": "B 09",
+            "id": "B 09 · halaman PDF 126"
+          },
+          "sourcePage": 126,
+          "text": {
+            "sourceLanguage": "fil",
+            "sourceText": "Ang kulit ng aso niya.",
+            "id": "Anjingnya sangat menjengkelkan.",
+            "tagalog": "Ang kulit ng aso niya."
+          }
+        },
+        {
+          "type": "exercise",
+          "role": "content",
+          "title": {
+            "sourceLanguage": "mixed",
+            "sourceText": "B 10",
+            "id": "B 10 · halaman PDF 127"
+          },
+          "sourcePage": 127,
+          "text": {
+            "sourceLanguage": "fil",
+            "sourceText": "Maganda ito.",
+            "id": "Ini cantik.",
+            "tagalog": "Maganda ito."
+          }
+        },
+        {
+          "type": "exercise",
+          "role": "content",
+          "title": {
+            "sourceLanguage": "mixed",
+            "sourceText": "B 11",
+            "id": "B 11 · halaman PDF 128"
+          },
+          "sourcePage": 128,
+          "text": {
+            "sourceLanguage": "fil",
+            "sourceText": "Ang ganda nito.",
+            "id": "Ini sangat cantik.",
+            "tagalog": "Ang ganda nito."
+          }
+        },
+        {
+          "type": "exercise",
+          "role": "content",
+          "title": {
+            "sourceLanguage": "mixed",
+            "sourceText": "B 12",
+            "id": "B 12 · halaman PDF 129"
+          },
+          "sourcePage": 129,
+          "text": {
+            "sourceLanguage": "fil",
+            "sourceText": "Masakit iyan.",
+            "id": "Itu menyakitkan. (Itu menyakitkan.)",
+            "tagalog": "Masakit iyan."
+          }
+        },
+        {
+          "type": "exercise",
+          "role": "content",
+          "title": {
+            "sourceLanguage": "mixed",
+            "sourceText": "B 13",
+            "id": "B 13 · halaman PDF 130"
+          },
+          "sourcePage": 130,
+          "text": {
+            "sourceLanguage": "fil",
+            "sourceText": "Ang sakit niyan.",
+            "id": "Itu sangat menyakitkan. (Itu sangat menyakitkan.)",
+            "tagalog": "Ang sakit niyan."
+          }
+        },
+        {
+          "type": "exercise",
+          "role": "content",
+          "title": {
+            "sourceLanguage": "mixed",
+            "sourceText": "B 14",
+            "id": "B 14 · halaman PDF 131"
+          },
+          "sourcePage": 131,
+          "text": {
+            "sourceLanguage": "fil",
+            "sourceText": "Pangit iyon.",
+            "id": "Itu jelek.",
+            "tagalog": "Pangit iyon."
+          }
+        },
+        {
+          "type": "exercise",
+          "role": "content",
+          "title": {
+            "sourceLanguage": "mixed",
+            "sourceText": "B 15",
+            "id": "B 15 · halaman PDF 132"
+          },
+          "sourcePage": 132,
+          "text": {
+            "sourceLanguage": "fil",
+            "sourceText": "Ang pangit niyon.",
+            "id": "Itu sangat jelek.",
+            "tagalog": "Ang pangit niyon."
+          }
+        }
+      ]
+    },
+    {
+      "id": "summary",
+      "type": "SUMMARY",
+      "title": {
+        "sourceLanguage": "mixed",
+        "sourceText": "Ang mga alaga'",
+        "id": "Ringkasan bab"
+      },
+      "blocks": [
+        {
+          "type": "text",
+          "style": "heading",
+          "text": {
+            "sourceLanguage": "mixed",
+            "sourceText": "Story A",
+            "id": "Dialog utama"
+          }
+        },
+        {
+          "type": "list",
+          "style": "outline",
+          "items": [
+            {
+              "sourceLanguage": "fil",
+              "sourceText": "Ang mga alaga'",
+              "id": "Hewan-hewan peliharaan",
+              "tagalog": "Ang mga alaga'"
+            },
+            {
+              "sourceLanguage": "fil",
+              "sourceText": "Ito si Tabby, ang aso ko.",
+              "id": "Ini anjingku Tabby.",
+              "tagalog": "Ito si Tabby, ang aso ko."
+            },
+            {
+              "sourceLanguage": "fil",
+              "sourceText": "A, hello Tabby! Bakit Tabby ang pangalan niya?",
+              "id": "Ah, halo Tabby! Kenapa dia dipanggil Tabby? (Mengapa namanya Tabby?)",
+              "tagalog": "A, hello Tabby! Bakit Tabby ang pangalan niya?"
+            },
+            {
+              "sourceLanguage": "fil",
+              "sourceText": "Kasi ang taba' niya e.",
+              "id": "Karena dia sangat gemuk.",
+              "tagalog": "Kasi ang taba' niya e."
+            },
+            {
+              "sourceLanguage": "fil",
+              "sourceText": "Oo nga' ano. Mataba' nga' siya.",
+              "id": "Ya, sekarang kamu mengatakannya. Dia memang gemuk.",
+              "tagalog": "Oo nga' ano. Mataba' nga' siya."
+            },
+            {
+              "sourceLanguage": "fil",
+              "sourceText": "Ang bait niya di ba?",
+              "id": "Dia sangat baik, bukan?",
+              "tagalog": "Ang bait niya di ba?"
+            },
+            {
+              "sourceLanguage": "fil",
+              "sourceText": "Oo. Ilang taon na siya?",
+              "id": "Ya. Berapa umurnya? (Berapa tahun dia?)",
+              "tagalog": "Oo. Ilang taon na siya?"
+            },
+            {
+              "sourceLanguage": "fil",
+              "sourceText": "Tatlong taon na yata'. [...]",
+              "id": "Tiga tahun, menurutku. [...]",
+              "tagalog": "Tatlong taon na yata'. [...]"
+            },
+            {
+              "sourceLanguage": "fil",
+              "sourceText": "At ito naman si Tingting, ang kapatid ni Tabby.",
+              "id": "Dan ini Tingting, saudara perempuan Tabby.",
+              "tagalog": "At ito naman si Tingting, ang kapatid ni Tabby."
+            },
+            {
+              "sourceLanguage": "fil",
+              "sourceText": "Ang payat ni Tingting!",
+              "id": "Tingting sangat kurus!",
+              "tagalog": "Ang payat ni Tingting!"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "style": "heading",
+          "text": {
+            "sourceLanguage": "mixed",
+            "sourceText": "Drills",
+            "id": "Latihan pola"
+          }
+        },
+        {
+          "type": "list",
+          "style": "outline",
+          "items": [
+            {
+              "sourceLanguage": "fil",
+              "sourceText": "Parang tingting di ba?",
+              "id": "Setipis ranting, bukan?",
+              "tagalog": "Parang tingting di ba?"
+            },
+            {
+              "sourceLanguage": "fil",
+              "sourceText": "Mataba' si Tabby.",
+              "id": "Tabby gemuk.",
+              "tagalog": "Mataba' si Tabby."
+            },
+            {
+              "sourceLanguage": "fil",
+              "sourceText": "Ang taba' ni Tabby!",
+              "id": "Tabby sangat gemuk!",
+              "tagalog": "Ang taba' ni Tabby!"
+            },
+            {
+              "sourceLanguage": "fil",
+              "sourceText": "Mabait si Tingting.",
+              "id": "Tingting baik.",
+              "tagalog": "Mabait si Tingting."
+            },
+            {
+              "sourceLanguage": "fil",
+              "sourceText": "Ang bait ni Tingting.",
+              "id": "Tingting sangat baik.",
+              "tagalog": "Ang bait ni Tingting."
+            },
+            {
+              "sourceLanguage": "fil",
+              "sourceText": "Ang bait-bait ni Tingting.",
+              "id": "Tingting sangat, sangat baik.",
+              "tagalog": "Ang bait-bait ni Tingting."
+            },
+            {
+              "sourceLanguage": "fil",
+              "sourceText": "Payat siya.",
+              "id": "Dia kurus.",
+              "tagalog": "Payat siya."
+            },
+            {
+              "sourceLanguage": "fil",
+              "sourceText": "Ang payat niya.",
+              "id": "Dia sangat kurus.",
+              "tagalog": "Ang payat niya."
+            },
+            {
+              "sourceLanguage": "fil",
+              "sourceText": "Makulit ang aso niya.",
+              "id": "Anjingnya menjengkelkan.",
+              "tagalog": "Makulit ang aso niya."
+            },
+            {
+              "sourceLanguage": "fil",
+              "sourceText": "Ang kulit ng aso niya.",
+              "id": "Anjingnya sangat menjengkelkan.",
+              "tagalog": "Ang kulit ng aso niya."
+            },
+            {
+              "sourceLanguage": "fil",
+              "sourceText": "Maganda ito.",
+              "id": "Ini cantik.",
+              "tagalog": "Maganda ito."
+            },
+            {
+              "sourceLanguage": "fil",
+              "sourceText": "Ang ganda nito.",
+              "id": "Ini sangat cantik.",
+              "tagalog": "Ang ganda nito."
+            },
+            {
+              "sourceLanguage": "fil",
+              "sourceText": "Masakit iyan.",
+              "id": "Itu menyakitkan. (Itu menyakitkan.)",
+              "tagalog": "Masakit iyan."
+            },
+            {
+              "sourceLanguage": "fil",
+              "sourceText": "Ang sakit niyan.",
+              "id": "Itu sangat menyakitkan. (Itu sangat menyakitkan.)",
+              "tagalog": "Ang sakit niyan."
+            },
+            {
+              "sourceLanguage": "fil",
+              "sourceText": "Pangit iyon.",
+              "id": "Itu jelek.",
+              "tagalog": "Pangit iyon."
+            },
+            {
+              "sourceLanguage": "fil",
+              "sourceText": "Ang pangit niyon.",
+              "id": "Itu sangat jelek.",
+              "tagalog": "Ang pangit niyon."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "contentAudit": {
+    "sourcePages": 29,
+    "phrasePages": 26,
+    "storyPhrases": 10,
+    "drillPhrases": 16,
+    "noteBlocks": 15,
+    "vocabularyEntries": 52,
+    "sourceTextItemsBefore": 94,
+    "sourceTextItemsAfter": 94,
+    "recapVerified": true,
+    "imageCount": 1
+  }
+}

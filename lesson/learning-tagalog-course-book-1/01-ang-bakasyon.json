@@ -1,0 +1,2220 @@
+{
+  "schemaVersion": 1,
+  "structureVersion": 2,
+  "id": "learning-tagalog-course-book-1-lesson-01",
+  "courseId": "learning-tagalog-course-book-1",
+  "unitId": "course-book-1-unit-01-conversation-foundations",
+  "order": 1,
+  "level": "BEGINNER",
+  "title": {
+    "id": "Liburan",
+    "fil": "Ang bakasyon"
+  },
+  "summary": {
+    "id": "Dengarkan audionya dan ulangi setiap frasa dengan lantang beberapa kali. Dalam ceritanya, Mark dan Linda bercerita tentang liburan mereka.",
+    "fil": "Ang bakasyon"
+  },
+  "objectives": [
+    {
+      "sourceLanguage": "mixed",
+      "sourceText": "Chapter 1 · Story A",
+      "id": "Memahami dialog utama Bab 1 tentang liburan."
+    },
+    {
+      "sourceLanguage": "mixed",
+      "sourceText": "Literal and natural translations",
+      "id": "Membandingkan susunan Tagalog dengan glosa harfiah dan terjemahan alami dari sumber."
+    },
+    {
+      "sourceLanguage": "mixed",
+      "sourceText": "Drills",
+      "id": "Melatih kembali pola dan ungkapan pada bagian Drills."
+    }
+  ],
+  "source": {
+    "book": "Learning Tagalog - Fluency Made Fast and Easy - Course Book 1",
+    "file": "Learning Tagalog - Fluency Made Fast and Easy - Course Book 1.pdf",
+    "pdfSha256": "52e9f464239c2ae98248a452edfbf1f58eb01bec69374a16d5205e70afa80f58",
+    "chapter": 1,
+    "pages": {
+      "start": 1,
+      "end": 25
+    },
+    "drillsDividerPage": 14,
+    "recapPage": 25
+  },
+  "sourceLinks": [
+    {
+      "page": 3,
+      "uri": "https://learningtagalog.com/videos"
+    },
+    {
+      "page": 3,
+      "uri": "https://learningtagalog.com/grammar/pronunciation.html"
+    },
+    {
+      "page": 4,
+      "uri": "https://learningtagalog.com/grammar/pronunciation/long_vowels_stress_and_glottal_stops/long_vowels_stress.html"
+    },
+    {
+      "page": 11,
+      "uri": "https://learningtagalog.com/grammar/forming_and_connecting_words/roots_and_affixes.html"
+    },
+    {
+      "page": 15,
+      "uri": "https://learningtagalog.com/grammar/pronunciation/long_vowels_stress_and_glottal_stops/final_glottal_stops.html"
+    }
+  ],
+  "assets": [
+    "assets/01-ang-bakasyon.jpg"
+  ],
+  "sections": [
+    {
+      "id": "introduction",
+      "type": "INTRODUCTION",
+      "title": {
+        "sourceLanguage": "mixed",
+        "sourceText": "The vacation",
+        "id": "Liburan"
+      },
+      "blocks": [
+        {
+          "type": "image",
+          "path": "assets/01-ang-bakasyon.jpg",
+          "sourcePage": 1
+        },
+        {
+          "type": "text",
+          "style": "heading",
+          "text": {
+            "sourceLanguage": "en",
+            "sourceText": "The vacation",
+            "id": "Liburan"
+          }
+        }
+      ]
+    },
+    {
+      "id": "learning-material",
+      "type": "LEARNING_MATERIAL",
+      "title": {
+        "sourceLanguage": "mixed",
+        "sourceText": "Chapter context",
+        "id": "Konteks bab"
+      },
+      "blocks": [
+        {
+          "type": "text",
+          "style": "body",
+          "sourcePage": 1,
+          "text": {
+            "sourceLanguage": "en",
+            "sourceText": "Listen to the audio and repeat each phrase out loud a few times. In the story, Mark and Linda talk about their vacations.",
+            "id": "Dengarkan audionya dan ulangi setiap frasa dengan lantang beberapa kali. Dalam ceritanya, Mark dan Linda bercerita tentang liburan mereka."
+          }
+        },
+        {
+          "type": "text",
+          "style": "body",
+          "sourcePage": 3,
+          "sourceLabel": "A 02",
+          "links": [
+            "https://learningtagalog.com/videos",
+            "https://learningtagalog.com/grammar/pronunciation.html"
+          ],
+          "text": {
+            "sourceLanguage": "en",
+            "sourceText": "You can simply listen to the audio for the pronunciation and read the pointers in the notes. For an overview, watch the pronunciation videos on our videos page, or read the pronunciation chapter in the grammar. (Links will open in a new window.)",
+            "id": "A 02 · halaman PDF 3\n\nAnda cukup mendengarkan audio pengucapannya dan membaca petunjuk di catatan. Untuk gambaran umum, tonton video pengucapan di halaman video kami, atau baca bab pengucapan di tata bahasa. (Tautan akan terbuka di jendela baru.)"
+          }
+        },
+        {
+          "type": "text",
+          "style": "body",
+          "sourcePage": 4,
+          "sourceLabel": "A 03",
+          "links": [
+            "https://learningtagalog.com/grammar/pronunciation/long_vowels_stress_and_glottal_stops/long_vowels_stress.html"
+          ],
+          "text": {
+            "sourceLanguage": "en",
+            "sourceText": "In this course, underlined syllables are stressed, that is, the vowel in the syllable is long. Optional reading: Long vowels (stress).",
+            "id": "A 03 · halaman PDF 4\n\nDalam mata kuliah ini suku kata yang digarisbawahi diberi tekanan, yaitu vokal dalam suku kata itu panjang. Bacaan opsional: Vokal panjang (tekanan)."
+          }
+        },
+        {
+          "type": "text",
+          "style": "body",
+          "sourcePage": 15,
+          "sourceLabel": "B 01",
+          "links": [
+            "https://learningtagalog.com/grammar/pronunciation/long_vowels_stress_and_glottal_stops/final_glottal_stops.html"
+          ],
+          "text": {
+            "sourceLanguage": "en",
+            "sourceText": "Notice the /'/ at the end of Maynila'. In this course, the symbol /'/ is used to indicate either (1) a glottal stop, when it is followed by a pause; or (2) a long vowel, when immediately followed by another word.",
+            "id": "B 01 · halaman PDF 15\n\nPerhatikan /'/ di akhir Maynila'. Dalam kursus ini, simbol /'/ digunakan untuk menunjukkan (1) glottal stop, yang diikuti dengan jeda; atau (2) vokal panjang, yang langsung diikuti kata lain."
+          }
+        },
+        {
+          "type": "text",
+          "style": "body",
+          "sourcePage": 24,
+          "sourceLabel": "B 10",
+          "links": [],
+          "text": {
+            "sourceLanguage": "en",
+            "sourceText": "You might want to do the same lesson for two days before moving on to the next lesson.",
+            "id": "B 10 · halaman PDF 24\n\nAnda mungkin ingin melakukan pelajaran yang sama selama dua hari sebelum melanjutkan ke pelajaran berikutnya."
+          }
+        },
+        {
+          "type": "text",
+          "style": "body",
+          "sourcePage": 24,
+          "sourceLabel": "B 10",
+          "links": [],
+          "text": {
+            "sourceLanguage": "en",
+            "sourceText": "The key to success in learning Tagalog is daily practice. By setting aside 15 to 30 minutes a day, you will be amazed at the progress you are making.",
+            "id": "B 10 · halaman PDF 24\n\nKunci sukses belajar bahasa Tagalog adalah latihan sehari-hari. Dengan menyisihkan waktu 15 hingga 30 menit sehari, Anda akan kagum dengan kemajuan yang Anda capai."
+          }
+        },
+        {
+          "type": "text",
+          "style": "body",
+          "sourcePage": 24,
+          "sourceLabel": "B 10",
+          "links": [],
+          "text": {
+            "sourceLanguage": "en",
+            "sourceText": "Click Next to go to the Lesson Overview.",
+            "id": "B 10 · halaman PDF 24\n\nKlik Berikutnya untuk membuka Ikhtisar Pelajaran."
+          }
+        }
+      ]
+    },
+    {
+      "id": "dialogue",
+      "type": "DIALOGUE",
+      "title": {
+        "sourceLanguage": "mixed",
+        "sourceText": "Story A",
+        "id": "Dialog utama (Bagian A)"
+      },
+      "blocks": [
+        {
+          "type": "dialogue",
+          "turns": [
+            {
+              "speaker": "A 01",
+              "speakerText": {
+                "sourceLanguage": "mixed",
+                "sourceText": "A 01",
+                "id": "Bagian A 01"
+              },
+              "text": {
+                "sourceLanguage": "fil",
+                "sourceText": "Ang bakasyon",
+                "id": "Liburan",
+                "tagalog": "Ang bakasyon"
+              },
+              "sourcePage": 2
+            },
+            {
+              "speaker": "A 02",
+              "speakerText": {
+                "sourceLanguage": "mixed",
+                "sourceText": "A 02",
+                "id": "Bagian A 02"
+              },
+              "text": {
+                "sourceLanguage": "fil",
+                "sourceText": "Kumusta?",
+                "id": "Apa kabarmu?",
+                "tagalog": "Kumusta?"
+              },
+              "sourcePage": 3
+            },
+            {
+              "speaker": "A 03",
+              "speakerText": {
+                "sourceLanguage": "mixed",
+                "sourceText": "A 03",
+                "id": "Bagian A 03"
+              },
+              "text": {
+                "sourceLanguage": "fil",
+                "sourceText": "Mabuti. Ikaw?",
+                "id": "Baik. (Dan kamu?)",
+                "tagalog": "Mabuti. Ikaw?"
+              },
+              "sourcePage": 4
+            },
+            {
+              "speaker": "A 04",
+              "speakerText": {
+                "sourceLanguage": "mixed",
+                "sourceText": "A 04",
+                "id": "Bagian A 04"
+              },
+              "text": {
+                "sourceLanguage": "fil",
+                "sourceText": "Mabuti rin.",
+                "id": "Saya juga baik.",
+                "tagalog": "Mabuti rin."
+              },
+              "sourcePage": 5
+            },
+            {
+              "speaker": "A 05",
+              "speakerText": {
+                "sourceLanguage": "mixed",
+                "sourceText": "A 05",
+                "id": "Bagian A 05"
+              },
+              "text": {
+                "sourceLanguage": "fil",
+                "sourceText": "Kumusta ang bakasyon mo?",
+                "id": "Bagaimana liburanmu?",
+                "tagalog": "Kumusta ang bakasyon mo?"
+              },
+              "sourcePage": 6
+            },
+            {
+              "speaker": "A 06",
+              "speakerText": {
+                "sourceLanguage": "mixed",
+                "sourceText": "A 06",
+                "id": "Bagian A 06"
+              },
+              "text": {
+                "sourceLanguage": "fil",
+                "sourceText": "Masaya. Pumunta ako sa Banaue.",
+                "id": "Itu menyenangkan. Saya pergi ke Banaue.",
+                "tagalog": "Masaya. Pumunta ako sa Banaue."
+              },
+              "sourcePage": 7
+            },
+            {
+              "speaker": "A 07",
+              "speakerText": {
+                "sourceLanguage": "mixed",
+                "sourceText": "A 07",
+                "id": "Bagian A 07"
+              },
+              "text": {
+                "sourceLanguage": "fil",
+                "sourceText": "Wow! Maganda ba ang Rice Terraces?",
+                "id": "Wow! Apakah Sawah Teras itu indah?",
+                "tagalog": "Wow! Maganda ba ang Rice Terraces?"
+              },
+              "sourcePage": 8
+            },
+            {
+              "speaker": "A 08",
+              "speakerText": {
+                "sourceLanguage": "mixed",
+                "sourceText": "A 08",
+                "id": "Bagian A 08"
+              },
+              "text": {
+                "sourceLanguage": "fil",
+                "sourceText": "Oo, ang ganda talaga!",
+                "id": "Ya, sangat cantik!",
+                "tagalog": "Oo, ang ganda talaga!"
+              },
+              "sourcePage": 9
+            },
+            {
+              "speaker": "A 09",
+              "speakerText": {
+                "sourceLanguage": "mixed",
+                "sourceText": "A 09",
+                "id": "Bagian A 09"
+              },
+              "text": {
+                "sourceLanguage": "fil",
+                "sourceText": "Ikaw, kumusta ang bakasyon mo?",
+                "id": "(Dan) kamu, bagaimana liburanmu?",
+                "tagalog": "Ikaw, kumusta ang bakasyon mo?"
+              },
+              "sourcePage": 10
+            },
+            {
+              "speaker": "A 10",
+              "speakerText": {
+                "sourceLanguage": "mixed",
+                "sourceText": "A 10",
+                "id": "Bagian A 10"
+              },
+              "text": {
+                "sourceLanguage": "fil",
+                "sourceText": "Masaya rin. Pumunta ako sa London, sa New York at sa Sydney.",
+                "id": "Itu juga menyenangkan. Saya pergi ke London, New York dan Sydney.",
+                "tagalog": "Masaya rin. Pumunta ako sa London, sa New York at sa Sydney."
+              },
+              "sourcePage": 11
+            },
+            {
+              "speaker": "A 11",
+              "speakerText": {
+                "sourceLanguage": "mixed",
+                "sourceText": "A 11",
+                "id": "Bagian A 11"
+              },
+              "text": {
+                "sourceLanguage": "fil",
+                "sourceText": "Talaga?",
+                "id": "Benarkah?",
+                "tagalog": "Talaga?"
+              },
+              "sourcePage": 12
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "vocabulary",
+      "type": "VOCABULARY",
+      "title": {
+        "sourceLanguage": "mixed",
+        "sourceText": "Vocabulary and expressions",
+        "id": "Kosakata dan ungkapan"
+      },
+      "blocks": [
+        {
+          "type": "vocabulary",
+          "entries": [
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "Ang",
+                "id": "penanda definit",
+                "tagalog": "Ang"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "The",
+                "id": "penanda definit"
+              },
+              "sourcePage": 2
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "bakasyon",
+                "id": "Liburan",
+                "tagalog": "bakasyon"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "vacation",
+                "id": "Liburan"
+              },
+              "sourcePage": 2
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "Kumusta?",
+                "id": "Apa kabarmu?",
+                "tagalog": "Kumusta?"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "How are you?",
+                "id": "Apa kabarmu?"
+              },
+              "sourcePage": 3
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "Mabuti.",
+                "id": "Bagus.",
+                "tagalog": "Mabuti."
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "Good.",
+                "id": "Bagus."
+              },
+              "sourcePage": 4
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "Ikaw?",
+                "id": "Anda?",
+                "tagalog": "Ikaw?"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "You?",
+                "id": "Anda?"
+              },
+              "sourcePage": 4
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "rin.",
+                "id": "Juga.",
+                "tagalog": "rin."
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "too.",
+                "id": "Juga."
+              },
+              "sourcePage": 5
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "mo?",
+                "id": "Milikmu?",
+                "tagalog": "mo?"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "your?",
+                "id": "Milikmu?"
+              },
+              "sourcePage": 6
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "Masaya.",
+                "id": "Seru.",
+                "tagalog": "Masaya."
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "Fun.",
+                "id": "Seru."
+              },
+              "sourcePage": 7
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "Pumunta",
+                "id": "Telah pergi",
+                "tagalog": "Pumunta"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "Went",
+                "id": "Telah pergi"
+              },
+              "sourcePage": 7
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "ako",
+                "id": "saya",
+                "tagalog": "ako"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "I",
+                "id": "saya"
+              },
+              "sourcePage": 7
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "sa",
+                "id": "Ke",
+                "tagalog": "sa"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "to",
+                "id": "Ke"
+              },
+              "sourcePage": 7
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "Banaue.",
+                "id": "Banaue.",
+                "tagalog": "Banaue."
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "Banaue.",
+                "id": "Banaue."
+              },
+              "sourcePage": 7
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "Wow!",
+                "id": "Wow!",
+                "tagalog": "Wow!"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "Wow!",
+                "id": "Wow!"
+              },
+              "sourcePage": 8
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "Maganda",
+                "id": "Cantik",
+                "tagalog": "Maganda"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "Beautiful",
+                "id": "Cantik"
+              },
+              "sourcePage": 8
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "ba",
+                "id": "[penanda tanya]",
+                "tagalog": "ba"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "[question]",
+                "id": "[penanda tanya]"
+              },
+              "sourcePage": 8
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "Rice Terraces?",
+                "id": "Rice Terraces",
+                "tagalog": "Rice Terraces?"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "Rice Terraces?",
+                "id": "Rice Terraces"
+              },
+              "sourcePage": 8
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "Oo,",
+                "id": "Ya,",
+                "tagalog": "Oo,"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "Yes,",
+                "id": "Ya,"
+              },
+              "sourcePage": 9
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "ang ganda",
+                "id": "Sangat indah",
+                "tagalog": "ang ganda"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "very beautiful",
+                "id": "Sangat indah"
+              },
+              "sourcePage": 9
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "talaga!",
+                "id": "Sungguh!",
+                "tagalog": "talaga!"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "really!",
+                "id": "Sungguh!"
+              },
+              "sourcePage": 9
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "London,",
+                "id": "London",
+                "tagalog": "London,"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "London,",
+                "id": "London"
+              },
+              "sourcePage": 11
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "New York",
+                "id": "New York",
+                "tagalog": "New York"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "New York",
+                "id": "New York"
+              },
+              "sourcePage": 11
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "at",
+                "id": "Dan",
+                "tagalog": "at"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "and",
+                "id": "Dan"
+              },
+              "sourcePage": 11
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "Sydney.",
+                "id": "Sidney.",
+                "tagalog": "Sydney."
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "Sydney.",
+                "id": "Sidney."
+              },
+              "sourcePage": 11
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "Joke",
+                "id": "Candaan",
+                "tagalog": "Joke"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "Joke",
+                "id": "Candaan"
+              },
+              "sourcePage": 13
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "lang.",
+                "id": "Hanya.",
+                "tagalog": "lang."
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "only.",
+                "id": "Hanya."
+              },
+              "sourcePage": 13
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "Nasa",
+                "id": "Berada di",
+                "tagalog": "Nasa"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "Was at",
+                "id": "Berada di"
+              },
+              "sourcePage": 13
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "bahay",
+                "id": "Rumah",
+                "tagalog": "bahay"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "home",
+                "id": "Rumah"
+              },
+              "sourcePage": 13
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "Maynila'.",
+                "id": "Manila.",
+                "tagalog": "Maynila'."
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "Manila.",
+                "id": "Manila."
+              },
+              "sourcePage": 15
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "ang saya",
+                "id": "Sangat senang",
+                "tagalog": "ang saya"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "very happy",
+                "id": "Sangat senang"
+              },
+              "sourcePage": 17
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "pamilya",
+                "id": "Keluarga",
+                "tagalog": "pamilya"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "family",
+                "id": "Keluarga"
+              },
+              "sourcePage": 18
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "Salamat.",
+                "id": "Terima kasih.",
+                "tagalog": "Salamat."
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "Thank you.",
+                "id": "Terima kasih."
+              },
+              "sourcePage": 20
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "Thank you.",
+                "id": "Terima kasih.",
+                "tagalog": "Thank you."
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "Thank you.",
+                "id": "Terima kasih."
+              },
+              "sourcePage": 21
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "Pasensya",
+                "id": "Kesabaran",
+                "tagalog": "Pasensya"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "Patience",
+                "id": "Kesabaran"
+              },
+              "sourcePage": 22
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "na.",
+                "id": "Sekarang.",
+                "tagalog": "na."
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "now.",
+                "id": "Sekarang."
+              },
+              "sourcePage": 22
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "Sorry.",
+                "id": "Maaf.",
+                "tagalog": "Sorry."
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "Sorry.",
+                "id": "Maaf."
+              },
+              "sourcePage": 23
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "Ingat.",
+                "id": "Hati-hati di jalan.",
+                "tagalog": "Ingat."
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "Take care.",
+                "id": "Hati-hati di jalan."
+              },
+              "sourcePage": 24
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "style": "body",
+          "sourcePage": 3,
+          "sourceLabel": "A 02",
+          "links": [
+            "https://learningtagalog.com/videos",
+            "https://learningtagalog.com/grammar/pronunciation.html"
+          ],
+          "text": {
+            "sourceLanguage": "en",
+            "sourceText": "Kumusta means how is/are/was/were (...). By itself, it is used as a greeting: How are you?",
+            "id": "A 02 · halaman PDF 3\n\nKumusta artinya bagaimana/apa adanya/apa (...). Dengan sendirinya, ini digunakan sebagai salam: Apa kabar?"
+          }
+        },
+        {
+          "type": "text",
+          "style": "body",
+          "sourcePage": 4,
+          "sourceLabel": "A 03",
+          "links": [
+            "https://learningtagalog.com/grammar/pronunciation/long_vowels_stress_and_glottal_stops/long_vowels_stress.html"
+          ],
+          "text": {
+            "sourceLanguage": "en",
+            "sourceText": "Mabuti means fine, good or well.",
+            "id": "A 03 · halaman PDF 4\n\nMabuti artinya baik, baik, atau baik."
+          }
+        },
+        {
+          "type": "text",
+          "style": "body",
+          "sourcePage": 7,
+          "sourceLabel": "A 06",
+          "links": [],
+          "text": {
+            "sourceLanguage": "en",
+            "sourceText": "Masaya – happy, fun. Sa can mean to, on, at, into, onto, through etc.",
+            "id": "A 06 · halaman PDF 7\n\nMasaya – senang, menyenangkan. Sa dapat berarti ke, pada, pada, ke, ke, melalui dll."
+          }
+        },
+        {
+          "type": "text",
+          "style": "body",
+          "sourcePage": 9,
+          "sourceLabel": "A 08",
+          "links": [],
+          "text": {
+            "sourceLanguage": "en",
+            "sourceText": "Ganda – beauty.",
+            "id": "A 08 · halaman PDF 9\n\nGanda – kecantikan."
+          }
+        }
+      ]
+    },
+    {
+      "id": "grammar",
+      "type": "GRAMMAR",
+      "title": {
+        "sourceLanguage": "mixed",
+        "sourceText": "Grammar and pronunciation notes",
+        "id": "Catatan tata bahasa dan pelafalan"
+      },
+      "blocks": [
+        {
+          "type": "text",
+          "style": "body",
+          "sourcePage": 2,
+          "sourceLabel": "A 01",
+          "links": [],
+          "text": {
+            "sourceLanguage": "en",
+            "sourceText": "The Tagalog phrase on the first line is translated literally (word for word) on the second line and highlighted in a matching color. The third line gives a natural translation of the whole sentence. In this case, they are the same. Literal and natural translations will help you understand how Tagalog works.",
+            "id": "A 01 · halaman PDF 2\n\nFrasa Tagalog pada baris pertama diterjemahkan secara harfiah (kata demi kata) pada baris kedua dan disorot dengan warna yang serasi. Baris ketiga memberikan terjemahan alami dari keseluruhan kalimat. Dalam hal ini, keduanya sama. Terjemahan literal dan alami akan membantu Anda memahami cara kerja Tagalog."
+          }
+        },
+        {
+          "type": "text",
+          "style": "body",
+          "sourcePage": 4,
+          "sourceLabel": "A 03",
+          "links": [
+            "https://learningtagalog.com/grammar/pronunciation/long_vowels_stress_and_glottal_stops/long_vowels_stress.html"
+          ],
+          "text": {
+            "sourceLanguage": "en",
+            "sourceText": "The /i/ in the final syllable of native Tagalog words can be pronounced as /e/ when followed by a pause, like in mabuti.",
+            "id": "A 03 · halaman PDF 4\n\n/i/ pada suku kata terakhir kata asli Tagalog dapat diucapkan sebagai /e/ bila diikuti dengan jeda, seperti di mabuti."
+          }
+        },
+        {
+          "type": "text",
+          "style": "body",
+          "sourcePage": 5,
+          "sourceLabel": "A 04",
+          "links": [],
+          "text": {
+            "sourceLanguage": "en",
+            "sourceText": "Rin (or din) means too, also or either. Rin is commonly used after words ending in a vowel. Din is commonly used after words ending in a consonant. However, this rule is not strict.",
+            "id": "A 04 · halaman PDF 5\n\nRin (atau din) berarti juga, juga atau salah satu dari keduanya. Rin biasanya digunakan setelah kata yang berakhiran vokal. Din biasanya digunakan setelah kata yang berakhiran konsonan. Namun aturan ini tidak ketat."
+          }
+        },
+        {
+          "type": "text",
+          "style": "body",
+          "sourcePage": 6,
+          "sourceLabel": "A 05",
+          "links": [],
+          "text": {
+            "sourceLanguage": "en",
+            "sourceText": "This is a very typical sentence pattern in Tagalog. You'll soon get used to it.",
+            "id": "A 05 · halaman PDF 6\n\nIni adalah pola kalimat yang sangat khas dalam bahasa Tagalog. Anda akan segera terbiasa."
+          }
+        },
+        {
+          "type": "text",
+          "style": "body",
+          "sourcePage": 8,
+          "sourceLabel": "A 07",
+          "links": [],
+          "text": {
+            "sourceLanguage": "en",
+            "sourceText": "Ba turns a statement into a question. It often follows the first word of the sentence.",
+            "id": "A 07 · halaman PDF 8\n\nBa mengubah pernyataan menjadi pertanyaan. Ini sering kali mengikuti kata pertama kalimat."
+          }
+        },
+        {
+          "type": "text",
+          "style": "body",
+          "sourcePage": 9,
+          "sourceLabel": "A 08",
+          "links": [],
+          "text": {
+            "sourceLanguage": "en",
+            "sourceText": "Ang can be added to a quality (e.g. ganda) to mean how (...) or very (...). Ang ganda! – How pretty! This ang is different from the ang in the previous sentence, which means the.",
+            "id": "A 08 · halaman PDF 9\n\nAng dapat ditambahkan ke kualitas (misalnya ganda) yang berarti seberapa (...) atau sangat (...). Ang ganda! – Cantik sekali! ang ini berbeda dengan ang pada kalimat sebelumnya yang artinya."
+          }
+        },
+        {
+          "type": "text",
+          "style": "body",
+          "sourcePage": 11,
+          "sourceLabel": "A 10",
+          "links": [
+            "https://learningtagalog.com/grammar/forming_and_connecting_words/roots_and_affixes.html"
+          ],
+          "text": {
+            "sourceLanguage": "en",
+            "sourceText": "Masaya – happy or fun (adjective).",
+            "id": "A 10 · halaman PDF 11\n\nMasaya – senang atau menyenangkan (kata sifat)."
+          }
+        },
+        {
+          "type": "text",
+          "style": "body",
+          "sourcePage": 11,
+          "sourceLabel": "A 10",
+          "links": [
+            "https://learningtagalog.com/grammar/forming_and_connecting_words/roots_and_affixes.html"
+          ],
+          "text": {
+            "sourceLanguage": "en",
+            "sourceText": "Saya – happiness or fun (noun).",
+            "id": "A 10 · halaman PDF 11\n\nSaya – kebahagiaan atau kesenangan (kata benda)."
+          }
+        },
+        {
+          "type": "text",
+          "style": "body",
+          "sourcePage": 11,
+          "sourceLabel": "A 10",
+          "links": [
+            "https://learningtagalog.com/grammar/forming_and_connecting_words/roots_and_affixes.html"
+          ],
+          "text": {
+            "sourceLanguage": "en",
+            "sourceText": "In masaya, saya is the root, which carries the core meaning of the word. Ma- is an affix, which means having (a certain quality) or having a lot of (something).",
+            "id": "A 10 · halaman PDF 11\n\nDalam masaya, saya adalah akar kata, yang membawa makna inti kata tersebut. Ma- merupakan imbuhan yang artinya mempunyai (kualitas tertentu) atau mempunyai banyak (sesuatu)."
+          }
+        },
+        {
+          "type": "text",
+          "style": "body",
+          "sourcePage": 11,
+          "sourceLabel": "A 10",
+          "links": [
+            "https://learningtagalog.com/grammar/forming_and_connecting_words/roots_and_affixes.html"
+          ],
+          "text": {
+            "sourceLanguage": "en",
+            "sourceText": "Optional reading: Roots and affixes.",
+            "id": "A 10 · halaman PDF 11\n\nBacaan opsional: Akar dan imbuhan."
+          }
+        },
+        {
+          "type": "text",
+          "style": "body",
+          "sourcePage": 13,
+          "sourceLabel": "A 12",
+          "links": [],
+          "text": {
+            "sourceLanguage": "en",
+            "sourceText": "Nasa is used to indicate where someone or something is. It is equivalent to is/are/was/were in/on/at etc. Nasa Cebu – is in Cebu; nasa mesa / nasa lamesa – is on (the) table.",
+            "id": "A 12 · halaman PDF 13\n\nNasa menunjukkan lokasi seseorang atau sesuatu. Nasa Cebu berarti berada di Cebu; nasa mesa / nasa lamesa berarti berada di atas meja."
+          }
+        },
+        {
+          "type": "text",
+          "style": "body",
+          "sourcePage": 15,
+          "sourceLabel": "B 01",
+          "links": [
+            "https://learningtagalog.com/grammar/pronunciation/long_vowels_stress_and_glottal_stops/final_glottal_stops.html"
+          ],
+          "text": {
+            "sourceLanguage": "en",
+            "sourceText": "An example of a glottal stop in English is the sound represented by the hyphen in uh-oh!",
+            "id": "B 01 · halaman PDF 15\n\nContoh glottal stop dalam bahasa Inggris adalah bunyi yang diwakili oleh tanda hubung di uh-oh!"
+          }
+        },
+        {
+          "type": "text",
+          "style": "body",
+          "sourcePage": 15,
+          "sourceLabel": "B 01",
+          "links": [
+            "https://learningtagalog.com/grammar/pronunciation/long_vowels_stress_and_glottal_stops/final_glottal_stops.html"
+          ],
+          "text": {
+            "sourceLanguage": "en",
+            "sourceText": "Optional reading: Final glottal stops.",
+            "id": "B 01 · halaman PDF 15\n\nBacaan opsional: Perhentian glotal terakhir."
+          }
+        },
+        {
+          "type": "text",
+          "style": "body",
+          "sourcePage": 19,
+          "sourceLabel": "B 05",
+          "links": [],
+          "text": {
+            "sourceLanguage": "en",
+            "sourceText": "The root of mabuti is buti (goodness).",
+            "id": "B 05 · halaman PDF 19\n\nAkar dari mabuti adalah buti (kebaikan)."
+          }
+        }
+      ]
+    },
+    {
+      "id": "examples",
+      "type": "EXAMPLES",
+      "title": {
+        "sourceLanguage": "mixed",
+        "sourceText": "Literal and natural translations",
+        "id": "Contoh dengan glosa harfiah dan alami"
+      },
+      "blocks": [
+        {
+          "type": "example",
+          "title": {
+            "sourceLanguage": "mixed",
+            "sourceText": "A 01",
+            "id": "A 01 · halaman PDF 2"
+          },
+          "sourcePage": 2,
+          "rows": [
+            {
+              "cells": [
+                {
+                  "sourceLanguage": "fil",
+                  "sourceText": "Ang bakasyon",
+                  "id": "Liburan",
+                  "tagalog": "Ang bakasyon"
+                },
+                {
+                  "sourceLanguage": "en",
+                  "sourceText": "The vacation",
+                  "id": "Glosa harfiah (Inggris)\nThe vacation"
+                },
+                {
+                  "sourceLanguage": "en",
+                  "sourceText": "The vacation",
+                  "id": "Terjemahan alami sumber (Inggris)\nThe vacation"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "example",
+          "title": {
+            "sourceLanguage": "mixed",
+            "sourceText": "A 02",
+            "id": "A 02 · halaman PDF 3"
+          },
+          "sourcePage": 3,
+          "rows": [
+            {
+              "cells": [
+                {
+                  "sourceLanguage": "fil",
+                  "sourceText": "Kumusta?",
+                  "id": "Apa kabarmu?",
+                  "tagalog": "Kumusta?"
+                },
+                {
+                  "sourceLanguage": "en",
+                  "sourceText": "How are you?",
+                  "id": "Glosa harfiah (Inggris)\nHow are you?"
+                },
+                {
+                  "sourceLanguage": "en",
+                  "sourceText": "How are you?",
+                  "id": "Terjemahan alami sumber (Inggris)\nHow are you?"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "example",
+          "title": {
+            "sourceLanguage": "mixed",
+            "sourceText": "A 03",
+            "id": "A 03 · halaman PDF 4"
+          },
+          "sourcePage": 4,
+          "rows": [
+            {
+              "cells": [
+                {
+                  "sourceLanguage": "fil",
+                  "sourceText": "Mabuti. Ikaw?",
+                  "id": "Baik. (Dan kamu?)",
+                  "tagalog": "Mabuti. Ikaw?"
+                },
+                {
+                  "sourceLanguage": "en",
+                  "sourceText": "Good. You?",
+                  "id": "Glosa harfiah (Inggris)\nGood. You?"
+                },
+                {
+                  "sourceLanguage": "en",
+                  "sourceText": "Fine. (And) you?",
+                  "id": "Terjemahan alami sumber (Inggris)\nFine. (And) you?"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "example",
+          "title": {
+            "sourceLanguage": "mixed",
+            "sourceText": "A 04",
+            "id": "A 04 · halaman PDF 5"
+          },
+          "sourcePage": 5,
+          "rows": [
+            {
+              "cells": [
+                {
+                  "sourceLanguage": "fil",
+                  "sourceText": "Mabuti rin.",
+                  "id": "Saya juga baik.",
+                  "tagalog": "Mabuti rin."
+                },
+                {
+                  "sourceLanguage": "en",
+                  "sourceText": "Good too.",
+                  "id": "Glosa harfiah (Inggris)\nGood too."
+                },
+                {
+                  "sourceLanguage": "en",
+                  "sourceText": "I'm fine too.",
+                  "id": "Terjemahan alami sumber (Inggris)\nI'm fine too."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "example",
+          "title": {
+            "sourceLanguage": "mixed",
+            "sourceText": "A 05",
+            "id": "A 05 · halaman PDF 6"
+          },
+          "sourcePage": 6,
+          "rows": [
+            {
+              "cells": [
+                {
+                  "sourceLanguage": "fil",
+                  "sourceText": "Kumusta ang bakasyon mo?",
+                  "id": "Bagaimana liburanmu?",
+                  "tagalog": "Kumusta ang bakasyon mo?"
+                },
+                {
+                  "sourceLanguage": "en",
+                  "sourceText": "How was the vacation your?",
+                  "id": "Glosa harfiah (Inggris)\nHow was the vacation your?"
+                },
+                {
+                  "sourceLanguage": "en",
+                  "sourceText": "How was your vacation?",
+                  "id": "Terjemahan alami sumber (Inggris)\nHow was your vacation?"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "example",
+          "title": {
+            "sourceLanguage": "mixed",
+            "sourceText": "A 06",
+            "id": "A 06 · halaman PDF 7"
+          },
+          "sourcePage": 7,
+          "rows": [
+            {
+              "cells": [
+                {
+                  "sourceLanguage": "fil",
+                  "sourceText": "Masaya. Pumunta ako sa Banaue.",
+                  "id": "Itu menyenangkan. Saya pergi ke Banaue.",
+                  "tagalog": "Masaya. Pumunta ako sa Banaue."
+                },
+                {
+                  "sourceLanguage": "en",
+                  "sourceText": "Fun. Went I to Banaue.",
+                  "id": "Glosa harfiah (Inggris)\nFun. Went I to Banaue."
+                },
+                {
+                  "sourceLanguage": "en",
+                  "sourceText": "It was fun. I went to Banaue.",
+                  "id": "Terjemahan alami sumber (Inggris)\nIt was fun. I went to Banaue."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "example",
+          "title": {
+            "sourceLanguage": "mixed",
+            "sourceText": "A 07",
+            "id": "A 07 · halaman PDF 8"
+          },
+          "sourcePage": 8,
+          "rows": [
+            {
+              "cells": [
+                {
+                  "sourceLanguage": "fil",
+                  "sourceText": "Wow! Maganda ba ang Rice Terraces?",
+                  "id": "Wow! Apakah Sawah Teras itu indah?",
+                  "tagalog": "Wow! Maganda ba ang Rice Terraces?"
+                },
+                {
+                  "sourceLanguage": "en",
+                  "sourceText": "Wow! Beautiful [question] the Rice Terraces?",
+                  "id": "Glosa harfiah (Inggris)\nWow! Beautiful [question] the Rice Terraces?"
+                },
+                {
+                  "sourceLanguage": "en",
+                  "sourceText": "Wow! Are the Rice Terraces beautiful?",
+                  "id": "Terjemahan alami sumber (Inggris)\nWow! Are the Rice Terraces beautiful?"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "example",
+          "title": {
+            "sourceLanguage": "mixed",
+            "sourceText": "A 08",
+            "id": "A 08 · halaman PDF 9"
+          },
+          "sourcePage": 9,
+          "rows": [
+            {
+              "cells": [
+                {
+                  "sourceLanguage": "fil",
+                  "sourceText": "Oo, ang ganda talaga!",
+                  "id": "Ya, sangat cantik!",
+                  "tagalog": "Oo, ang ganda talaga!"
+                },
+                {
+                  "sourceLanguage": "en",
+                  "sourceText": "Yes, very beautiful really!",
+                  "id": "Glosa harfiah (Inggris)\nYes, very beautiful really!"
+                },
+                {
+                  "sourceLanguage": "en",
+                  "sourceText": "Yes, very beautiful!",
+                  "id": "Terjemahan alami sumber (Inggris)\nYes, very beautiful!"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "example",
+          "title": {
+            "sourceLanguage": "mixed",
+            "sourceText": "A 09",
+            "id": "A 09 · halaman PDF 10"
+          },
+          "sourcePage": 10,
+          "rows": [
+            {
+              "cells": [
+                {
+                  "sourceLanguage": "fil",
+                  "sourceText": "Ikaw, kumusta ang bakasyon mo?",
+                  "id": "(Dan) kamu, bagaimana liburanmu?",
+                  "tagalog": "Ikaw, kumusta ang bakasyon mo?"
+                },
+                {
+                  "sourceLanguage": "en",
+                  "sourceText": "You, how was the vacation your?",
+                  "id": "Glosa harfiah (Inggris)\nYou, how was the vacation your?"
+                },
+                {
+                  "sourceLanguage": "en",
+                  "sourceText": "(And) you, how was your vacation?",
+                  "id": "Terjemahan alami sumber (Inggris)\n(And) you, how was your vacation?"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "example",
+          "title": {
+            "sourceLanguage": "mixed",
+            "sourceText": "A 10",
+            "id": "A 10 · halaman PDF 11"
+          },
+          "sourcePage": 11,
+          "rows": [
+            {
+              "cells": [
+                {
+                  "sourceLanguage": "fil",
+                  "sourceText": "Masaya rin. Pumunta ako sa London, sa New York at sa Sydney.",
+                  "id": "Itu juga menyenangkan. Saya pergi ke London, New York dan Sydney.",
+                  "tagalog": "Masaya rin. Pumunta ako sa London, sa New York at sa Sydney."
+                },
+                {
+                  "sourceLanguage": "en",
+                  "sourceText": "Fun too. Went I to London, to New York and to Sydney.",
+                  "id": "Glosa harfiah (Inggris)\nFun too. Went I to London, to New York and to Sydney."
+                },
+                {
+                  "sourceLanguage": "en",
+                  "sourceText": "It was fun too. I went to London, New York and Sydney.",
+                  "id": "Terjemahan alami sumber (Inggris)\nIt was fun too. I went to London, New York and Sydney."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "example",
+          "title": {
+            "sourceLanguage": "mixed",
+            "sourceText": "A 11",
+            "id": "A 11 · halaman PDF 12"
+          },
+          "sourcePage": 12,
+          "rows": [
+            {
+              "cells": [
+                {
+                  "sourceLanguage": "fil",
+                  "sourceText": "Talaga?",
+                  "id": "Benarkah?",
+                  "tagalog": "Talaga?"
+                },
+                {
+                  "sourceLanguage": "en",
+                  "sourceText": "Really?",
+                  "id": "Glosa harfiah (Inggris)\nReally?"
+                },
+                {
+                  "sourceLanguage": "en",
+                  "sourceText": "Really?",
+                  "id": "Terjemahan alami sumber (Inggris)\nReally?"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "example",
+          "title": {
+            "sourceLanguage": "mixed",
+            "sourceText": "A 12",
+            "id": "A 12 · halaman PDF 13"
+          },
+          "sourcePage": 13,
+          "rows": [
+            {
+              "cells": [
+                {
+                  "sourceLanguage": "fil",
+                  "sourceText": "Joke lang. Nasa bahay lang ako.",
+                  "id": "Cuma bercanda. Saya hanya tinggal di rumah.",
+                  "tagalog": "Joke lang. Nasa bahay lang ako."
+                },
+                {
+                  "sourceLanguage": "en",
+                  "sourceText": "Joke only. Was at home only I.",
+                  "id": "Glosa harfiah (Inggris)\nJoke only. Was at home only I."
+                },
+                {
+                  "sourceLanguage": "en",
+                  "sourceText": "Just kidding. I just stayed home.",
+                  "id": "Terjemahan alami sumber (Inggris)\nJust kidding. I just stayed home."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "example",
+          "title": {
+            "sourceLanguage": "mixed",
+            "sourceText": "B 01",
+            "id": "B 01 · halaman PDF 15"
+          },
+          "sourcePage": 15,
+          "rows": [
+            {
+              "cells": [
+                {
+                  "sourceLanguage": "fil",
+                  "sourceText": "Pumunta ako sa Maynila'.",
+                  "id": "Saya pergi ke Manila.",
+                  "tagalog": "Pumunta ako sa Maynila'."
+                },
+                {
+                  "sourceLanguage": "en",
+                  "sourceText": "Went I to Manila.",
+                  "id": "Glosa harfiah (Inggris)\nWent I to Manila."
+                },
+                {
+                  "sourceLanguage": "en",
+                  "sourceText": "I went to Manila.",
+                  "id": "Terjemahan alami sumber (Inggris)\nI went to Manila."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "example",
+          "title": {
+            "sourceLanguage": "mixed",
+            "sourceText": "B 02",
+            "id": "B 02 · halaman PDF 16"
+          },
+          "sourcePage": 16,
+          "rows": [
+            {
+              "cells": [
+                {
+                  "sourceLanguage": "fil",
+                  "sourceText": "Masaya ba ang bakasyon mo?",
+                  "id": "Apakah Anda bersenang-senang saat liburan? (Apakah liburanmu menyenangkan?)",
+                  "tagalog": "Masaya ba ang bakasyon mo?"
+                },
+                {
+                  "sourceLanguage": "en",
+                  "sourceText": "Happy [question] the vacation your?",
+                  "id": "Glosa harfiah (Inggris)\nHappy [question] the vacation your?"
+                },
+                {
+                  "sourceLanguage": "en",
+                  "sourceText": "Did you have fun on your vacation? (Was your vacation fun?)",
+                  "id": "Terjemahan alami sumber (Inggris)\nDid you have fun on your vacation? (Was your vacation fun?)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "example",
+          "title": {
+            "sourceLanguage": "mixed",
+            "sourceText": "B 03",
+            "id": "B 03 · halaman PDF 17"
+          },
+          "sourcePage": 17,
+          "rows": [
+            {
+              "cells": [
+                {
+                  "sourceLanguage": "fil",
+                  "sourceText": "Oo, ang saya talaga!",
+                  "id": "Ya, saya bersenang-senang! (Itu sangat menyenangkan!)",
+                  "tagalog": "Oo, ang saya talaga!"
+                },
+                {
+                  "sourceLanguage": "en",
+                  "sourceText": "Yes, very happy really!",
+                  "id": "Glosa harfiah (Inggris)\nYes, very happy really!"
+                },
+                {
+                  "sourceLanguage": "en",
+                  "sourceText": "Yes, I had a great time! (It was really fun!)",
+                  "id": "Terjemahan alami sumber (Inggris)\nYes, I had a great time! (It was really fun!)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "example",
+          "title": {
+            "sourceLanguage": "mixed",
+            "sourceText": "B 04",
+            "id": "B 04 · halaman PDF 18"
+          },
+          "sourcePage": 18,
+          "rows": [
+            {
+              "cells": [
+                {
+                  "sourceLanguage": "fil",
+                  "sourceText": "Kumusta ang pamilya mo?",
+                  "id": "Bagaimana kabar keluargamu?",
+                  "tagalog": "Kumusta ang pamilya mo?"
+                },
+                {
+                  "sourceLanguage": "en",
+                  "sourceText": "How is the family your?",
+                  "id": "Glosa harfiah (Inggris)\nHow is the family your?"
+                },
+                {
+                  "sourceLanguage": "en",
+                  "sourceText": "How is your family?",
+                  "id": "Terjemahan alami sumber (Inggris)\nHow is your family?"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "example",
+          "title": {
+            "sourceLanguage": "mixed",
+            "sourceText": "B 05",
+            "id": "B 05 · halaman PDF 19"
+          },
+          "sourcePage": 19,
+          "rows": [
+            {
+              "cells": [
+                {
+                  "sourceLanguage": "fil",
+                  "sourceText": "Mabuti.",
+                  "id": "Baik.",
+                  "tagalog": "Mabuti."
+                },
+                {
+                  "sourceLanguage": "en",
+                  "sourceText": "Good.",
+                  "id": "Glosa harfiah (Inggris)\nGood."
+                },
+                {
+                  "sourceLanguage": "en",
+                  "sourceText": "Fine.",
+                  "id": "Terjemahan alami sumber (Inggris)\nFine."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "example",
+          "title": {
+            "sourceLanguage": "mixed",
+            "sourceText": "B 06",
+            "id": "B 06 · halaman PDF 20"
+          },
+          "sourcePage": 20,
+          "rows": [
+            {
+              "cells": [
+                {
+                  "sourceLanguage": "fil",
+                  "sourceText": "Salamat.",
+                  "id": "Terima kasih.",
+                  "tagalog": "Salamat."
+                },
+                {
+                  "sourceLanguage": "en",
+                  "sourceText": "Thank you.",
+                  "id": "Glosa harfiah (Inggris)\nThank you."
+                },
+                {
+                  "sourceLanguage": "en",
+                  "sourceText": "Thank you.",
+                  "id": "Terjemahan alami sumber (Inggris)\nThank you."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "example",
+          "title": {
+            "sourceLanguage": "mixed",
+            "sourceText": "B 07",
+            "id": "B 07 · halaman PDF 21"
+          },
+          "sourcePage": 21,
+          "rows": [
+            {
+              "cells": [
+                {
+                  "sourceLanguage": "fil",
+                  "sourceText": "Thank you.",
+                  "id": "Terima kasih.",
+                  "tagalog": "Thank you."
+                },
+                {
+                  "sourceLanguage": "en",
+                  "sourceText": "Thank you.",
+                  "id": "Glosa harfiah (Inggris)\nThank you."
+                },
+                {
+                  "sourceLanguage": "en",
+                  "sourceText": "Thank you.",
+                  "id": "Terjemahan alami sumber (Inggris)\nThank you."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "example",
+          "title": {
+            "sourceLanguage": "mixed",
+            "sourceText": "B 08",
+            "id": "B 08 · halaman PDF 22"
+          },
+          "sourcePage": 22,
+          "rows": [
+            {
+              "cells": [
+                {
+                  "sourceLanguage": "fil",
+                  "sourceText": "Pasensya na.",
+                  "id": "Maaf.",
+                  "tagalog": "Pasensya na."
+                },
+                {
+                  "sourceLanguage": "en",
+                  "sourceText": "Patience now.",
+                  "id": "Glosa harfiah (Inggris)\nPatience now."
+                },
+                {
+                  "sourceLanguage": "en",
+                  "sourceText": "Sorry.",
+                  "id": "Terjemahan alami sumber (Inggris)\nSorry."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "example",
+          "title": {
+            "sourceLanguage": "mixed",
+            "sourceText": "B 09",
+            "id": "B 09 · halaman PDF 23"
+          },
+          "sourcePage": 23,
+          "rows": [
+            {
+              "cells": [
+                {
+                  "sourceLanguage": "fil",
+                  "sourceText": "Sorry.",
+                  "id": "Maaf.",
+                  "tagalog": "Sorry."
+                },
+                {
+                  "sourceLanguage": "en",
+                  "sourceText": "Sorry.",
+                  "id": "Glosa harfiah (Inggris)\nSorry."
+                },
+                {
+                  "sourceLanguage": "en",
+                  "sourceText": "Sorry.",
+                  "id": "Terjemahan alami sumber (Inggris)\nSorry."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "example",
+          "title": {
+            "sourceLanguage": "mixed",
+            "sourceText": "B 10",
+            "id": "B 10 · halaman PDF 24"
+          },
+          "sourcePage": 24,
+          "rows": [
+            {
+              "cells": [
+                {
+                  "sourceLanguage": "fil",
+                  "sourceText": "Ingat.",
+                  "id": "Hati-hati di jalan.",
+                  "tagalog": "Ingat."
+                },
+                {
+                  "sourceLanguage": "en",
+                  "sourceText": "Take care.",
+                  "id": "Glosa harfiah (Inggris)\nTake care."
+                },
+                {
+                  "sourceLanguage": "en",
+                  "sourceText": "Take care.",
+                  "id": "Terjemahan alami sumber (Inggris)\nTake care."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "exercises",
+      "type": "EXERCISES",
+      "title": {
+        "sourceLanguage": "mixed",
+        "sourceText": "Drills",
+        "id": "Latihan pola"
+      },
+      "blocks": [
+        {
+          "type": "exercise",
+          "role": "instruction",
+          "text": {
+            "sourceLanguage": "mixed",
+            "sourceText": "Drills",
+            "id": "Latihan pola (Drills)"
+          },
+          "sourcePage": 14
+        },
+        {
+          "type": "exercise",
+          "role": "content",
+          "title": {
+            "sourceLanguage": "mixed",
+            "sourceText": "A 12",
+            "id": "A 12 · halaman PDF 13"
+          },
+          "sourcePage": 13,
+          "text": {
+            "sourceLanguage": "fil",
+            "sourceText": "Joke lang. Nasa bahay lang ako.",
+            "id": "Cuma bercanda. Saya hanya tinggal di rumah.",
+            "tagalog": "Joke lang. Nasa bahay lang ako."
+          }
+        },
+        {
+          "type": "exercise",
+          "role": "content",
+          "title": {
+            "sourceLanguage": "mixed",
+            "sourceText": "B 01",
+            "id": "B 01 · halaman PDF 15"
+          },
+          "sourcePage": 15,
+          "text": {
+            "sourceLanguage": "fil",
+            "sourceText": "Pumunta ako sa Maynila'.",
+            "id": "Saya pergi ke Manila.",
+            "tagalog": "Pumunta ako sa Maynila'."
+          }
+        },
+        {
+          "type": "exercise",
+          "role": "content",
+          "title": {
+            "sourceLanguage": "mixed",
+            "sourceText": "B 02",
+            "id": "B 02 · halaman PDF 16"
+          },
+          "sourcePage": 16,
+          "text": {
+            "sourceLanguage": "fil",
+            "sourceText": "Masaya ba ang bakasyon mo?",
+            "id": "Apakah Anda bersenang-senang saat liburan? (Apakah liburanmu menyenangkan?)",
+            "tagalog": "Masaya ba ang bakasyon mo?"
+          }
+        },
+        {
+          "type": "exercise",
+          "role": "content",
+          "title": {
+            "sourceLanguage": "mixed",
+            "sourceText": "B 03",
+            "id": "B 03 · halaman PDF 17"
+          },
+          "sourcePage": 17,
+          "text": {
+            "sourceLanguage": "fil",
+            "sourceText": "Oo, ang saya talaga!",
+            "id": "Ya, saya bersenang-senang! (Itu sangat menyenangkan!)",
+            "tagalog": "Oo, ang saya talaga!"
+          }
+        },
+        {
+          "type": "exercise",
+          "role": "content",
+          "title": {
+            "sourceLanguage": "mixed",
+            "sourceText": "B 04",
+            "id": "B 04 · halaman PDF 18"
+          },
+          "sourcePage": 18,
+          "text": {
+            "sourceLanguage": "fil",
+            "sourceText": "Kumusta ang pamilya mo?",
+            "id": "Bagaimana kabar keluargamu?",
+            "tagalog": "Kumusta ang pamilya mo?"
+          }
+        },
+        {
+          "type": "exercise",
+          "role": "content",
+          "title": {
+            "sourceLanguage": "mixed",
+            "sourceText": "B 05",
+            "id": "B 05 · halaman PDF 19"
+          },
+          "sourcePage": 19,
+          "text": {
+            "sourceLanguage": "fil",
+            "sourceText": "Mabuti.",
+            "id": "Baik.",
+            "tagalog": "Mabuti."
+          }
+        },
+        {
+          "type": "exercise",
+          "role": "content",
+          "title": {
+            "sourceLanguage": "mixed",
+            "sourceText": "B 06",
+            "id": "B 06 · halaman PDF 20"
+          },
+          "sourcePage": 20,
+          "text": {
+            "sourceLanguage": "fil",
+            "sourceText": "Salamat.",
+            "id": "Terima kasih.",
+            "tagalog": "Salamat."
+          }
+        },
+        {
+          "type": "exercise",
+          "role": "content",
+          "title": {
+            "sourceLanguage": "mixed",
+            "sourceText": "B 07",
+            "id": "B 07 · halaman PDF 21"
+          },
+          "sourcePage": 21,
+          "text": {
+            "sourceLanguage": "fil",
+            "sourceText": "Thank you.",
+            "id": "Terima kasih.",
+            "tagalog": "Thank you."
+          }
+        },
+        {
+          "type": "exercise",
+          "role": "content",
+          "title": {
+            "sourceLanguage": "mixed",
+            "sourceText": "B 08",
+            "id": "B 08 · halaman PDF 22"
+          },
+          "sourcePage": 22,
+          "text": {
+            "sourceLanguage": "fil",
+            "sourceText": "Pasensya na.",
+            "id": "Maaf.",
+            "tagalog": "Pasensya na."
+          }
+        },
+        {
+          "type": "exercise",
+          "role": "content",
+          "title": {
+            "sourceLanguage": "mixed",
+            "sourceText": "B 09",
+            "id": "B 09 · halaman PDF 23"
+          },
+          "sourcePage": 23,
+          "text": {
+            "sourceLanguage": "fil",
+            "sourceText": "Sorry.",
+            "id": "Maaf.",
+            "tagalog": "Sorry."
+          }
+        },
+        {
+          "type": "exercise",
+          "role": "content",
+          "title": {
+            "sourceLanguage": "mixed",
+            "sourceText": "B 10",
+            "id": "B 10 · halaman PDF 24"
+          },
+          "sourcePage": 24,
+          "text": {
+            "sourceLanguage": "fil",
+            "sourceText": "Ingat.",
+            "id": "Hati-hati di jalan.",
+            "tagalog": "Ingat."
+          }
+        }
+      ]
+    },
+    {
+      "id": "summary",
+      "type": "SUMMARY",
+      "title": {
+        "sourceLanguage": "mixed",
+        "sourceText": "Ang bakasyon",
+        "id": "Ringkasan bab"
+      },
+      "blocks": [
+        {
+          "type": "text",
+          "style": "heading",
+          "text": {
+            "sourceLanguage": "mixed",
+            "sourceText": "Story A",
+            "id": "Dialog utama"
+          }
+        },
+        {
+          "type": "list",
+          "style": "outline",
+          "items": [
+            {
+              "sourceLanguage": "fil",
+              "sourceText": "Ang bakasyon",
+              "id": "Liburan",
+              "tagalog": "Ang bakasyon"
+            },
+            {
+              "sourceLanguage": "fil",
+              "sourceText": "Kumusta?",
+              "id": "Apa kabarmu?",
+              "tagalog": "Kumusta?"
+            },
+            {
+              "sourceLanguage": "fil",
+              "sourceText": "Mabuti. Ikaw?",
+              "id": "Baik. (Dan kamu?)",
+              "tagalog": "Mabuti. Ikaw?"
+            },
+            {
+              "sourceLanguage": "fil",
+              "sourceText": "Mabuti rin.",
+              "id": "Saya juga baik.",
+              "tagalog": "Mabuti rin."
+            },
+            {
+              "sourceLanguage": "fil",
+              "sourceText": "Kumusta ang bakasyon mo?",
+              "id": "Bagaimana liburanmu?",
+              "tagalog": "Kumusta ang bakasyon mo?"
+            },
+            {
+              "sourceLanguage": "fil",
+              "sourceText": "Masaya. Pumunta ako sa Banaue.",
+              "id": "Itu menyenangkan. Saya pergi ke Banaue.",
+              "tagalog": "Masaya. Pumunta ako sa Banaue."
+            },
+            {
+              "sourceLanguage": "fil",
+              "sourceText": "Wow! Maganda ba ang Rice Terraces?",
+              "id": "Wow! Apakah Sawah Teras itu indah?",
+              "tagalog": "Wow! Maganda ba ang Rice Terraces?"
+            },
+            {
+              "sourceLanguage": "fil",
+              "sourceText": "Oo, ang ganda talaga!",
+              "id": "Ya, sangat cantik!",
+              "tagalog": "Oo, ang ganda talaga!"
+            },
+            {
+              "sourceLanguage": "fil",
+              "sourceText": "Ikaw, kumusta ang bakasyon mo?",
+              "id": "(Dan) kamu, bagaimana liburanmu?",
+              "tagalog": "Ikaw, kumusta ang bakasyon mo?"
+            },
+            {
+              "sourceLanguage": "fil",
+              "sourceText": "Masaya rin. Pumunta ako sa London, sa New York at sa Sydney.",
+              "id": "Itu juga menyenangkan. Saya pergi ke London, New York dan Sydney.",
+              "tagalog": "Masaya rin. Pumunta ako sa London, sa New York at sa Sydney."
+            },
+            {
+              "sourceLanguage": "fil",
+              "sourceText": "Talaga?",
+              "id": "Benarkah?",
+              "tagalog": "Talaga?"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "style": "heading",
+          "text": {
+            "sourceLanguage": "mixed",
+            "sourceText": "Drills",
+            "id": "Latihan pola"
+          }
+        },
+        {
+          "type": "list",
+          "style": "outline",
+          "items": [
+            {
+              "sourceLanguage": "fil",
+              "sourceText": "Joke lang. Nasa bahay lang ako.",
+              "id": "Cuma bercanda. Saya hanya tinggal di rumah.",
+              "tagalog": "Joke lang. Nasa bahay lang ako."
+            },
+            {
+              "sourceLanguage": "fil",
+              "sourceText": "Pumunta ako sa Maynila'.",
+              "id": "Saya pergi ke Manila.",
+              "tagalog": "Pumunta ako sa Maynila'."
+            },
+            {
+              "sourceLanguage": "fil",
+              "sourceText": "Masaya ba ang bakasyon mo?",
+              "id": "Apakah Anda bersenang-senang saat liburan? (Apakah liburanmu menyenangkan?)",
+              "tagalog": "Masaya ba ang bakasyon mo?"
+            },
+            {
+              "sourceLanguage": "fil",
+              "sourceText": "Oo, ang saya talaga!",
+              "id": "Ya, saya bersenang-senang! (Itu sangat menyenangkan!)",
+              "tagalog": "Oo, ang saya talaga!"
+            },
+            {
+              "sourceLanguage": "fil",
+              "sourceText": "Kumusta ang pamilya mo?",
+              "id": "Bagaimana kabar keluargamu?",
+              "tagalog": "Kumusta ang pamilya mo?"
+            },
+            {
+              "sourceLanguage": "fil",
+              "sourceText": "Mabuti.",
+              "id": "Baik.",
+              "tagalog": "Mabuti."
+            },
+            {
+              "sourceLanguage": "fil",
+              "sourceText": "Salamat.",
+              "id": "Terima kasih.",
+              "tagalog": "Salamat."
+            },
+            {
+              "sourceLanguage": "fil",
+              "sourceText": "Thank you.",
+              "id": "Terima kasih.",
+              "tagalog": "Thank you."
+            },
+            {
+              "sourceLanguage": "fil",
+              "sourceText": "Pasensya na.",
+              "id": "Maaf.",
+              "tagalog": "Pasensya na."
+            },
+            {
+              "sourceLanguage": "fil",
+              "sourceText": "Sorry.",
+              "id": "Maaf.",
+              "tagalog": "Sorry."
+            },
+            {
+              "sourceLanguage": "fil",
+              "sourceText": "Ingat.",
+              "id": "Hati-hati di jalan.",
+              "tagalog": "Ingat."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "contentAudit": {
+    "sourcePages": 25,
+    "phrasePages": 22,
+    "storyPhrases": 11,
+    "drillPhrases": 11,
+    "noteBlocks": 24,
+    "vocabularyEntries": 36,
+    "sourceTextItemsBefore": 91,
+    "sourceTextItemsAfter": 91,
+    "recapVerified": true,
+    "imageCount": 1
+  }
+}

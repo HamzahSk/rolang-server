@@ -17,12 +17,12 @@
     {
       "sourceLanguage": "en",
       "sourceText": "• Understand a Filipino song",
-      "id": "Memahami lagu Filipina"
+      "id": "• Memahami sebuah lagu Filipina"
     },
     {
       "sourceLanguage": "en",
       "sourceText": "• Express your abilities or what you can or cannot do",
-      "id": "Ekspres kemampuan Anda atau apa yang Anda dapat atau tidak bisa melakukan"
+      "id": "• Menyatakan kemampuan atau hal yang dapat dan tidak dapat dilakukan"
     }
   ],
   "source": {
@@ -39,167 +39,125 @@
   ],
   "sections": [
     {
-      "id": "lesson-24-overview",
-      "type": "OVERVIEW",
+      "type": "INTRODUCTION",
       "title": {
-        "sourceLanguage": "mixed",
-        "sourceText": "Overview",
-        "id": "Gambaran Umum"
+        "sourceLanguage": "en",
+        "sourceText": "An Overview of Lesson 24",
+        "id": "Pengantar Pelajaran 24"
       },
       "blocks": [
         {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "en",
-            "sourceText": "An Overview of Lesson 24",
-            "id": "Gambaran Umum Pelajaran 24"
-          }
+          "type": "list",
+          "style": "objectives",
+          "items": [
+            {
+              "sourceLanguage": "en",
+              "sourceText": "• Understand a Filipino song",
+              "id": "• Memahami sebuah lagu Filipina"
+            },
+            {
+              "sourceLanguage": "en",
+              "sourceText": "• Express your abilities or what you can or cannot do",
+              "id": "• Menyatakan kemampuan atau hal yang dapat dan tidak dapat dilakukan"
+            }
+          ]
         },
         {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "mixed",
-            "sourceText": "Objectives",
-            "id": "Objeksi"
-          }
-        },
-        {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "en",
-            "sourceText": "• Understand a Filipino song",
-            "id": "Memahami lagu Filipina"
-          }
-        },
-        {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "en",
-            "sourceText": "• Express your abilities or what you can or cannot do",
-            "id": "Ekspres kemampuan Anda atau apa yang Anda dapat atau tidak bisa melakukan"
-          }
-        },
-        {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "mixed",
-            "sourceText": "Vocabulary",
-            "id": "Kosakata"
-          }
-        },
-        {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "en",
-            "sourceText": "• Sayaw at Musika Dance and Music",
-            "id": "Sayaw di Murika Dance and Music"
-          }
-        },
-        {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "mixed",
-            "sourceText": "• Makapag- and Maka- Verbs (Abilitative Verbs)",
-            "id": "Makapag- dan Maka- Verbs (Abilitatif Verbs)",
-            "tagalog": "Makapag- Maka-"
-          }
-        },
-        {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "mixed",
-            "sourceText": "• Idioms and Expressions",
-            "id": "Ekspresi dan Idiom"
-          }
-        },
-        {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "mixed",
-            "sourceText": "Reading Text: Turuan Mo Naman Akong Kumanta Do Teach Me How to Sing",
-            "id": "Teks Bacaan: Tuuan Mo Naman Akong Kumanta Do Teach Me How to Sing"
-          }
-        },
-        {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "mixed",
-            "sourceText": "Reading Comprehension",
-            "id": "Pemahaman Bacaan"
-          }
-        },
-        {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "mixed",
-            "sourceText": "Activities",
-            "id": "Aktivitas"
-          }
-        },
-        {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "mixed",
-            "sourceText": "Activity 1: Interview: Favorite Type of Music",
-            "id": "Aktivitas 1: Interview: Jenis Musik Favorit"
-          }
-        },
-        {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "mixed",
-            "sourceText": "Activity 2: Favorite Singer and Dancer",
-            "id": "Aktivitas 2: Penyanyi dan Penari Favorit"
-          }
-        },
-        {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "mixed",
-            "sourceText": "Activity 3: Cocktail Party",
-            "id": "Aktivitas 3: pesta Cocktail"
-          }
-        },
-        {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "mixed",
-            "sourceText": "Grammar",
-            "id": "Tata Bahasa"
-          }
-        },
-        {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "mixed",
-            "sourceText": "Definition of Terms: Abilitative Verbs",
-            "id": "Definisi Terms: Verbs Abilitatif"
-          }
-        },
-        {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "mixed",
-            "sourceText": "Examining Form",
-            "id": "Mengkaji Bentuk"
-          }
+          "type": "list",
+          "style": "outline",
+          "items": [
+            {
+              "sourceLanguage": "mixed",
+              "sourceText": "Vocabulary",
+              "id": "Kosakata"
+            },
+            {
+              "sourceLanguage": "en",
+              "sourceText": "• Sayaw at Musika Dance and Music",
+              "id": "Sayaw di Murika Dance and Music"
+            },
+            {
+              "sourceLanguage": "mixed",
+              "sourceText": "• Makapag- and Maka- Verbs (Abilitative Verbs)",
+              "id": "Makapag- dan Maka- Verbs (Abilitatif Verbs)",
+              "tagalog": "Makapag- Maka-"
+            },
+            {
+              "sourceLanguage": "mixed",
+              "sourceText": "• Idioms and Expressions",
+              "id": "Ekspresi dan Idiom"
+            },
+            {
+              "sourceLanguage": "mixed",
+              "sourceText": "Reading Text: Turuan Mo Naman Akong Kumanta Do Teach Me How to Sing",
+              "id": "Teks Bacaan: Tuuan Mo Naman Akong Kumanta Do Teach Me How to Sing"
+            },
+            {
+              "sourceLanguage": "mixed",
+              "sourceText": "Reading Comprehension",
+              "id": "Pemahaman Bacaan"
+            },
+            {
+              "sourceLanguage": "mixed",
+              "sourceText": "Activities",
+              "id": "Aktivitas"
+            },
+            {
+              "sourceLanguage": "mixed",
+              "sourceText": "Activity 1: Interview: Favorite Type of Music",
+              "id": "Aktivitas 1: Interview: Jenis Musik Favorit"
+            },
+            {
+              "sourceLanguage": "mixed",
+              "sourceText": "Activity 2: Favorite Singer and Dancer",
+              "id": "Aktivitas 2: Penyanyi dan Penari Favorit"
+            },
+            {
+              "sourceLanguage": "mixed",
+              "sourceText": "Activity 3: Cocktail Party",
+              "id": "Aktivitas 3: pesta Cocktail"
+            },
+            {
+              "sourceLanguage": "mixed",
+              "sourceText": "Grammar",
+              "id": "Tata Bahasa"
+            },
+            {
+              "sourceLanguage": "mixed",
+              "sourceText": "Definition of Terms: Abilitative Verbs",
+              "id": "Definisi Terms: Verbs Abilitatif"
+            },
+            {
+              "sourceLanguage": "mixed",
+              "sourceText": "Examining Form",
+              "id": "Mengkaji Bentuk"
+            },
+            {
+              "sourceLanguage": "mixed",
+              "sourceText": "Practice",
+              "id": "Latihan"
+            },
+            {
+              "sourceLanguage": "en",
+              "sourceText": "I. Speaking Practice",
+              "id": "I. Latihan Berbicara"
+            },
+            {
+              "sourceLanguage": "mixed",
+              "sourceText": "II. Reading Practice",
+              "id": "II. Latihan Membaca"
+            },
+            {
+              "sourceLanguage": "mixed",
+              "sourceText": "III. Writing Practice",
+              "id": "III. Latihan Menulis"
+            },
+            {
+              "sourceLanguage": "mixed",
+              "sourceText": "IV. Listening Practice",
+              "id": "IV. Latihan Menyimak"
+            }
+          ]
         },
         {
           "type": "table",
@@ -228,57 +186,13 @@
                 }
               ]
             }
-          ]
-        },
-        {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "mixed",
-            "sourceText": "Practice",
-            "id": "Latihan"
-          }
-        },
-        {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "en",
-            "sourceText": "I. Speaking Practice",
-            "id": "I. Latihan Berbicara"
-          }
-        },
-        {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "mixed",
-            "sourceText": "II. Reading Practice",
-            "id": "II. Latihan Membaca"
-          }
-        },
-        {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "mixed",
-            "sourceText": "III. Writing Practice",
-            "id": "III. Latihan Menulis"
-          }
-        },
-        {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "mixed",
-            "sourceText": "IV. Listening Practice",
-            "id": "IV. Latihan Menyimak"
-          }
+          ],
+          "role": "outline"
         }
-      ]
+      ],
+      "id": "lesson-24-01-an-overview-of-lesson-24"
     },
     {
-      "id": "lesson-24-vocabulary",
       "type": "VOCABULARY",
       "title": {
         "sourceLanguage": "mixed",
@@ -288,7 +202,7 @@
       "blocks": [
         {
           "type": "text",
-          "style": "body",
+          "style": "heading",
           "text": {
             "sourceLanguage": "mixed",
             "sourceText": "Vocabulary (24–1)",
@@ -309,1522 +223,1329 @@
           }
         },
         {
-          "type": "table",
-          "rows": [
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "Musika at Sayaw",
-                  "id": "Music and Dance",
-                  "tagalog": "Musika at Sayaw"
-                },
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "Music and Dance",
-                  "id": "Music and Dance"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "awiting-bayan",
-                  "id": "musik rakyat",
-                  "tagalog": "awiting-bayan"
-                },
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "folk music",
-                  "id": "musik rakyat"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "awitin tungkol sa pag-ibig",
-                  "id": "balada",
-                  "tagalog": "awitin tungkol sa pag-ibig"
-                },
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "ballad",
-                  "id": "balada"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "harana",
-                  "id": "lagu cinta yang digunakan untuk serending seorang wanita",
-                  "tagalog": "harana"
-                },
-                {
-                  "sourceLanguage": "en",
-                  "sourceText": "love song used for serenading a woman",
-                  "id": "lagu cinta yang digunakan untuk serending seorang wanita"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "Itik-itik",
-                  "id": "Tarian rakyat di Filipina, tarian tersebut meniru gerakan bebek di antara padi.",
-                  "tagalog": "Itik-itik"
-                },
-                {
-                  "sourceLanguage": "en",
-                  "sourceText": "a type of folk dance in the Philippines. The dance steps imitate the movement of ducks among rice paddies.",
-                  "id": "Tarian rakyat di Filipina, tarian tersebut meniru gerakan bebek di antara padi."
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "kundiman",
-                  "id": "Lagu cinta tradisional Filipina",
-                  "tagalog": "kundiman"
-                },
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "Filipino traditional love song",
-                  "id": "Lagu cinta tradisional Filipina"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "makalumang musika",
-                  "id": "oldies",
-                  "tagalog": "makalumang musika"
-                },
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "oldies",
-                  "id": "oldies"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "Maglalatik",
-                  "id": "tarian yang menggunakan kerang kelapa diikat ke payudara, bahu belakang, lutut, harfiah orang yang pekerjaannya memproduksi \"latik\", sampah yang tersisa setelah memasak dan mengekstrak minyak dari daging kelapa",
-                  "tagalog": "Maglalatik"
-                },
-                {
-                  "sourceLanguage": "en",
-                  "sourceText": "a dance that uses coconut shells tied to the breast, back shoulder, knees; literally a person whose occupation is producing “latik,” the scum left after cooking and extracting oil from coconut meat",
-                  "id": "tarian yang menggunakan kerang kelapa diikat ke payudara, bahu belakang, lutut, harfiah orang yang pekerjaannya memproduksi \"latik\", sampah yang tersisa setelah memasak dan mengekstrak minyak dari daging kelapa"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "OPM",
-                  "id": "Musik Pilipino Asli",
-                  "tagalog": "OPM"
-                },
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "Original Pilipino Music",
-                  "id": "Musik Pilipino Asli"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "Pandanggo sa Ilaw",
-                  "id": "jenis tarian rakyat yang melibatkan keseimbangan lampu minyak di salah satu kepala dan tangan",
-                  "tagalog": "Pandanggo sa Ilaw"
-                },
-                {
-                  "sourceLanguage": "en",
-                  "sourceText": "a type of folk dance that involves balancing oil lamps on one’s head and hands",
-                  "id": "jenis tarian rakyat yang melibatkan keseimbangan lampu minyak di salah satu kepala dan tangan"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "rakistang musika",
-                  "id": "musik rock",
-                  "tagalog": "rakistang musika"
-                },
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "rock music",
-                  "id": "musik rock"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "Sakuting",
-                  "id": "jenis tarian rakyat yang menggunakan arnis atau tongkat kayu",
-                  "tagalog": "Sakuting"
-                },
-                {
-                  "sourceLanguage": "en",
-                  "sourceText": "a type of folk dance that uses arnis or wooden sticks",
-                  "id": "jenis tarian rakyat yang menggunakan arnis atau tongkat kayu"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "Sayaw sa Bangko",
-                  "id": "jenis tarian yang melibatkan keseimbangan pada bangku-bangku sempit atau tarian yang dilakukan pada bangku-bangku sempit",
-                  "tagalog": "Sayaw sa Bangko"
-                },
-                {
-                  "sourceLanguage": "en",
-                  "sourceText": "a type of dance that involves balancing on narrow benches or dance performed on narrow benches",
-                  "id": "jenis tarian yang melibatkan keseimbangan pada bangku-bangku sempit atau tarian yang dilakukan pada bangku-bangku sempit"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "Tinikling",
-                  "id": "Tarian nasional Filipina, Dancers meniru keanggunan burung yang legendaris dan kecepatan dengan keterampilan manuver antara kutub bambu besar.",
-                  "tagalog": "Tinikling"
-                },
-                {
-                  "sourceLanguage": "en",
-                  "sourceText": "the national dance of the Philippines. Dancers imitate the tikling bird’s legendary grace and speed by skillfully maneuvering between large bamboo poles.",
-                  "id": "Tarian nasional Filipina, Dancers meniru keanggunan burung yang legendaris dan kecepatan dengan keterampilan manuver antara kutub bambu besar."
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "Makapag- and Maka- Verbs (Abilitiative Verbs)",
-                  "id": "Makapag- dan Maka- Verbs (Bahasa AbbiIitiative)"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "Makapag- Verbs",
-                  "id": "Bisa Verbs",
-                  "tagalog": "Makapag- Verbs"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "makapag-aral",
-                  "id": "untuk dapat belajar",
-                  "tagalog": "makapag-aral"
-                },
-                {
-                  "sourceLanguage": "en",
-                  "sourceText": "to be able to study",
-                  "id": "untuk dapat belajar"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "makapagbakasyon",
-                  "id": "untuk dapat mengambil liburan",
-                  "tagalog": "makapagbakasyon"
-                },
-                {
-                  "sourceLanguage": "en",
-                  "sourceText": "to be able to take a vacation",
-                  "id": "untuk dapat mengambil liburan"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "makapagbalita",
-                  "id": "untuk dapat menyampaikan informasi atau berita",
-                  "tagalog": "makapagbalita"
-                },
-                {
-                  "sourceLanguage": "en",
-                  "sourceText": "to be able to relay an information or news",
-                  "id": "untuk dapat menyampaikan informasi atau berita"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "makapagbaon",
-                  "id": "untuk dapat mengambil ketentuan seseorang, seperti ketika pergi pada perjalanan",
-                  "tagalog": "makapagbaon"
-                },
-                {
-                  "sourceLanguage": "en",
-                  "sourceText": "to be able to take one’s provisions, as when going on a trip",
-                  "id": "untuk dapat mengambil ketentuan seseorang, seperti ketika pergi pada perjalanan"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "makapagbayad",
-                  "id": "untuk dapat membayar",
-                  "tagalog": "makapagbayad"
-                },
-                {
-                  "sourceLanguage": "en",
-                  "sourceText": "to be able to pay",
-                  "id": "untuk dapat membayar"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "makapagbenta",
-                  "id": "untuk dapat menjual",
-                  "tagalog": "makapagbenta"
-                },
-                {
-                  "sourceLanguage": "en",
-                  "sourceText": "to be able to sell",
-                  "id": "untuk dapat menjual"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "makapagbigay",
-                  "id": "untuk dapat memberikan",
-                  "tagalog": "makapagbigay"
-                },
-                {
-                  "sourceLanguage": "en",
-                  "sourceText": "to be able to give",
-                  "id": "untuk dapat memberikan"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "makapagkuwento",
-                  "id": "untuk dapat bercerita",
-                  "tagalog": "makapagkuwento"
-                },
-                {
-                  "sourceLanguage": "en",
-                  "sourceText": "to be able to tell a story",
-                  "id": "untuk dapat bercerita"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "makapagdala",
-                  "id": "untuk dapat membawa / membawa",
-                  "tagalog": "makapagdala"
-                },
-                {
-                  "sourceLanguage": "en",
-                  "sourceText": "to be able to bring/carry",
-                  "id": "untuk dapat membawa / membawa"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "makapaghatid",
-                  "id": "untuk dapat mengirim / menurunkan seseorang atau sesuatu",
-                  "tagalog": "makapaghatid"
-                },
-                {
-                  "sourceLanguage": "en",
-                  "sourceText": "to be able to send/drop off someone or something",
-                  "id": "untuk dapat mengirim / menurunkan seseorang atau sesuatu"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "makapaghiganti",
-                  "id": "untuk mampu membalas dendam",
-                  "tagalog": "makapaghiganti"
-                },
-                {
-                  "sourceLanguage": "en",
-                  "sourceText": "to be able to take vengeance",
-                  "id": "untuk mampu membalas dendam"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "makapaghintay",
-                  "id": "untuk dapat menunggu",
-                  "tagalog": "makapaghintay"
-                },
-                {
-                  "sourceLanguage": "en",
-                  "sourceText": "to be able to wait",
-                  "id": "untuk dapat menunggu"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "makapag-ipon",
-                  "id": "untuk dapat menyimpan uang",
-                  "tagalog": "makapag-ipon"
-                },
-                {
-                  "sourceLanguage": "en",
-                  "sourceText": "to be able to save money",
-                  "id": "untuk dapat menyimpan uang"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "makapag-isip",
-                  "id": "untuk dapat berpikir",
-                  "tagalog": "makapag-isip"
-                },
-                {
-                  "sourceLanguage": "en",
-                  "sourceText": "to be able to think",
-                  "id": "untuk dapat berpikir"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "makapaglagay",
-                  "id": "untuk dapat menempatkan sesuatu",
-                  "tagalog": "makapaglagay"
-                },
-                {
-                  "sourceLanguage": "en",
-                  "sourceText": "to be able to put something",
-                  "id": "untuk dapat menempatkan sesuatu"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "makapaglinis",
-                  "id": "untuk dapat membersihkan",
-                  "tagalog": "makapaglinis"
-                },
-                {
-                  "sourceLanguage": "en",
-                  "sourceText": "to be able to clean",
-                  "id": "untuk dapat membersihkan"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "makapagluto",
-                  "id": "untuk dapat memasak",
-                  "tagalog": "makapagluto"
-                },
-                {
-                  "sourceLanguage": "en",
-                  "sourceText": "to be able to cook",
-                  "id": "untuk dapat memasak"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "makapagnakaw",
-                  "id": "untuk dapat mencuri",
-                  "tagalog": "makapagnakaw"
-                },
-                {
-                  "sourceLanguage": "en",
-                  "sourceText": "to be able to steal",
-                  "id": "untuk dapat mencuri"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "makapagpatawad",
-                  "id": "untuk dapat memaafkan",
-                  "tagalog": "makapagpatawad"
-                },
-                {
-                  "sourceLanguage": "en",
-                  "sourceText": "to be able to forgive",
-                  "id": "untuk dapat memaafkan"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "makapagreklamo",
-                  "id": "untuk dapat mengeluh",
-                  "tagalog": "makapagreklamo"
-                },
-                {
-                  "sourceLanguage": "en",
-                  "sourceText": "to be able to complain",
-                  "id": "untuk dapat mengeluh"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "makapagsalita",
-                  "id": "untuk dapat berbicara",
-                  "tagalog": "makapagsalita"
-                },
-                {
-                  "sourceLanguage": "en",
-                  "sourceText": "to be able to speak",
-                  "id": "untuk dapat berbicara"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "makapagsimba",
-                  "id": "untuk dapat pergi ke gereja",
-                  "tagalog": "makapagsimba"
-                },
-                {
-                  "sourceLanguage": "en",
-                  "sourceText": "to be able to go to church",
-                  "id": "untuk dapat pergi ke gereja"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "makapagsimula",
-                  "id": "untuk dapat memulai",
-                  "tagalog": "makapagsimula"
-                },
-                {
-                  "sourceLanguage": "en",
-                  "sourceText": "to be able to start",
-                  "id": "untuk dapat memulai"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "makapagtanong",
-                  "id": "untuk dapat mengajukan pertanyaan",
-                  "tagalog": "makapagtanong"
-                },
-                {
-                  "sourceLanguage": "en",
-                  "sourceText": "to be able to ask a question",
-                  "id": "untuk dapat mengajukan pertanyaan"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "makapagtiwala",
-                  "id": "untuk dapat mempercayai",
-                  "tagalog": "makapagtiwala"
-                },
-                {
-                  "sourceLanguage": "en",
-                  "sourceText": "to be able to trust",
-                  "id": "untuk dapat mempercayai"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "makapagtrabaho",
-                  "id": "untuk dapat bekerja",
-                  "tagalog": "makapagtrabaho"
-                },
-                {
-                  "sourceLanguage": "en",
-                  "sourceText": "to be able to work",
-                  "id": "untuk dapat bekerja"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "makapagturo",
-                  "id": "untuk dapat mengajar",
-                  "tagalog": "makapagturo"
-                },
-                {
-                  "sourceLanguage": "en",
-                  "sourceText": "to be able to teach",
-                  "id": "untuk dapat mengajar"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "makapag-usap",
-                  "id": "untuk dapat berbicara",
-                  "tagalog": "makapag-usap"
-                },
-                {
-                  "sourceLanguage": "en",
-                  "sourceText": "to be able to talk",
-                  "id": "untuk dapat berbicara"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "makapag-uwi",
-                  "id": "untuk dapat membawa / membawa sesuatu ke rumah",
-                  "tagalog": "makapag-uwi"
-                },
-                {
-                  "sourceLanguage": "en",
-                  "sourceText": "to be able to bring/take something home",
-                  "id": "untuk dapat membawa / membawa sesuatu ke rumah"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "Maka- Verbs",
-                  "id": "Vebbs",
-                  "tagalog": "Maka- Verbs"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "makaakyat",
-                  "id": "untuk dapat pergi ke atas / memanjat",
-                  "tagalog": "makaakyat"
-                },
-                {
-                  "sourceLanguage": "en",
-                  "sourceText": "to be able to go upstairs/climb",
-                  "id": "untuk dapat pergi ke atas / memanjat"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "makaalis",
-                  "id": "untuk dapat meninggalkan",
-                  "tagalog": "makaalis"
-                },
-                {
-                  "sourceLanguage": "en",
-                  "sourceText": "to be able to leave",
-                  "id": "untuk dapat meninggalkan"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "makababa",
-                  "id": "untuk dapat mendapatkan atau turun",
-                  "tagalog": "makababa"
-                },
-                {
-                  "sourceLanguage": "en",
-                  "sourceText": "to be able to get or go down",
-                  "id": "untuk dapat mendapatkan atau turun"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "makabalik",
-                  "id": "untuk dapat kembali",
-                  "tagalog": "makabalik"
-                },
-                {
-                  "sourceLanguage": "en",
-                  "sourceText": "to be able to return",
-                  "id": "untuk dapat kembali"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "makabangon",
-                  "id": "untuk dapat bangun dari posisi berbohong",
-                  "tagalog": "makabangon"
-                },
-                {
-                  "sourceLanguage": "en",
-                  "sourceText": "to be able to get up from a lying position",
-                  "id": "untuk dapat bangun dari posisi berbohong"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "makabasa",
-                  "id": "untuk dapat membaca",
-                  "tagalog": "makabasa"
-                },
-                {
-                  "sourceLanguage": "en",
-                  "sourceText": "to be able to read",
-                  "id": "untuk dapat membaca"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "makabili",
-                  "id": "untuk dapat membeli",
-                  "tagalog": "makabili"
-                },
-                {
-                  "sourceLanguage": "en",
-                  "sourceText": "to be able to buy",
-                  "id": "untuk dapat membeli"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "makakain",
-                  "id": "untuk dapat makan",
-                  "tagalog": "makakain"
-                },
-                {
-                  "sourceLanguage": "en",
-                  "sourceText": "to be able to eat",
-                  "id": "untuk dapat makan"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "makakuha",
-                  "id": "untuk dapat mendapatkan / mengambil sesuatu",
-                  "tagalog": "makakuha"
-                },
-                {
-                  "sourceLanguage": "en",
-                  "sourceText": "to be able to get/take something",
-                  "id": "untuk dapat mendapatkan / mengambil sesuatu"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "makakanta",
-                  "id": "untuk dapat menyanyi",
-                  "tagalog": "makakanta"
-                },
-                {
-                  "sourceLanguage": "en",
-                  "sourceText": "to be able to sing",
-                  "id": "untuk dapat menyanyi"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "makakita",
-                  "id": "untuk dapat melihat",
-                  "tagalog": "makakita"
-                },
-                {
-                  "sourceLanguage": "en",
-                  "sourceText": "to be able to see",
-                  "id": "untuk dapat melihat"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "makadaan",
-                  "id": "untuk dapat melewati",
-                  "tagalog": "makadaan"
-                },
-                {
-                  "sourceLanguage": "en",
-                  "sourceText": "to be able to pass through",
-                  "id": "untuk dapat melewati"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "makadalaw",
-                  "id": "untuk dapat mengunjungi seseorang",
-                  "tagalog": "makadalaw"
-                },
-                {
-                  "sourceLanguage": "en",
-                  "sourceText": "to be able to visit someone",
-                  "id": "untuk dapat mengunjungi seseorang"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "makagamit",
-                  "id": "untuk dapat menggunakan",
-                  "tagalog": "makagamit"
-                },
-                {
-                  "sourceLanguage": "en",
-                  "sourceText": "to be able to use",
-                  "id": "untuk dapat menggunakan"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "makagawa",
-                  "id": "untuk dapat melakukan / membuat / bekerja",
-                  "tagalog": "makagawa"
-                },
-                {
-                  "sourceLanguage": "en",
-                  "sourceText": "to be able to do/make/work",
-                  "id": "untuk dapat melakukan / membuat / bekerja"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "makahiram",
-                  "id": "untuk dapat meminjam / sewa",
-                  "tagalog": "makahiram"
-                },
-                {
-                  "sourceLanguage": "en",
-                  "sourceText": "to be able to borrow/rent",
-                  "id": "untuk dapat meminjam / sewa"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "makainom",
-                  "id": "(Untuk mendapatkan minuman) atau minuman yang enak.",
-                  "tagalog": "makainom"
-                },
-                {
-                  "sourceLanguage": "en",
-                  "sourceText": "to be able to drink",
-                  "id": "(Untuk mendapatkan minuman) atau minuman yang enak."
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "makaiyak",
-                  "id": "untuk dapat menangis",
-                  "tagalog": "makaiyak"
-                },
-                {
-                  "sourceLanguage": "en",
-                  "sourceText": "to be able to cry",
-                  "id": "untuk dapat menangis"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "makalakad",
-                  "id": "untuk dapat berjalan",
-                  "tagalog": "makalakad"
-                },
-                {
-                  "sourceLanguage": "en",
-                  "sourceText": "to be able to walk",
-                  "id": "untuk dapat berjalan"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "makalapit",
-                  "id": "yang dekat (kepada Allah) dan yang dekat (waktunya)",
-                  "tagalog": "makalapit"
-                },
-                {
-                  "sourceLanguage": "en",
-                  "sourceText": "to be able to approach or go near",
-                  "id": "yang dekat (kepada Allah) dan yang dekat (waktunya)"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "makalangoy",
-                  "id": "untuk dapat berenang",
-                  "tagalog": "makalangoy"
-                },
-                {
-                  "sourceLanguage": "en",
-                  "sourceText": "to be able to swim",
-                  "id": "untuk dapat berenang"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "makalayo",
-                  "id": "untuk dapat menjauh dari",
-                  "tagalog": "makalayo"
-                },
-                {
-                  "sourceLanguage": "en",
-                  "sourceText": "to be able to get away from",
-                  "id": "untuk dapat menjauh dari"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "makaligo",
-                  "id": "untuk dapat mandi",
-                  "tagalog": "makaligo"
-                },
-                {
-                  "sourceLanguage": "en",
-                  "sourceText": "to be able to take a shower",
-                  "id": "untuk dapat mandi"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "makalipat",
-                  "id": "untuk dapat mentransfer atau pindah dari satu tempat ke tempat lain",
-                  "tagalog": "makalipat"
-                },
-                {
-                  "sourceLanguage": "en",
-                  "sourceText": "to be able to transfer or move from one place to another",
-                  "id": "untuk dapat mentransfer atau pindah dari satu tempat ke tempat lain"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "makangiti",
-                  "id": "untuk dapat tersenyum",
-                  "tagalog": "makangiti"
-                },
-                {
-                  "sourceLanguage": "en",
-                  "sourceText": "to be able to smile",
-                  "id": "untuk dapat tersenyum"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "makapanood",
-                  "id": "untuk dapat menonton",
-                  "tagalog": "makapanood"
-                },
-                {
-                  "sourceLanguage": "en",
-                  "sourceText": "to be able to watch",
-                  "id": "untuk dapat menonton"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "makapasok",
-                  "id": "untuk dapat masuk",
-                  "tagalog": "makapasok"
-                },
-                {
-                  "sourceLanguage": "en",
-                  "sourceText": "to be able to enter",
-                  "id": "untuk dapat masuk"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "makapasyal",
-                  "id": "untuk dapat pergi dan mengunjungi tempat",
-                  "tagalog": "makapasyal"
-                },
-                {
-                  "sourceLanguage": "en",
-                  "sourceText": "to be able to go and visit a place",
-                  "id": "untuk dapat pergi dan mengunjungi tempat"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "makapili",
-                  "id": "untuk dapat memilih",
-                  "tagalog": "makapili"
-                },
-                {
-                  "sourceLanguage": "en",
-                  "sourceText": "to be able to choose",
-                  "id": "untuk dapat memilih"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "makapunta",
-                  "id": "untuk dapat pergi",
-                  "tagalog": "makapunta"
-                },
-                {
-                  "sourceLanguage": "en",
-                  "sourceText": "to be able to go",
-                  "id": "untuk dapat pergi"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "makarating",
-                  "id": "untuk dapat datang / tiba",
-                  "tagalog": "makarating"
-                },
-                {
-                  "sourceLanguage": "en",
-                  "sourceText": "to be able to come/arrive",
-                  "id": "untuk dapat datang / tiba"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "makasakay",
-                  "id": "untuk dapat naik",
-                  "tagalog": "makasakay"
-                },
-                {
-                  "sourceLanguage": "en",
-                  "sourceText": "to be able to ride",
-                  "id": "untuk dapat naik"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "makasama",
-                  "id": "untuk dapat pergi dengan",
-                  "tagalog": "makasama"
-                },
-                {
-                  "sourceLanguage": "en",
-                  "sourceText": "to be able to go with",
-                  "id": "untuk dapat pergi dengan"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "makasayaw",
-                  "id": "untuk dapat menari",
-                  "tagalog": "makasayaw"
-                },
-                {
-                  "sourceLanguage": "en",
-                  "sourceText": "to be able to dance",
-                  "id": "untuk dapat menari"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "makasigaw",
-                  "id": "untuk dapat berteriak",
-                  "tagalog": "makasigaw"
-                },
-                {
-                  "sourceLanguage": "en",
-                  "sourceText": "to be able to shout",
-                  "id": "untuk dapat berteriak"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "makasulat",
-                  "id": "untuk dapat menulis",
-                  "tagalog": "makasulat"
-                },
-                {
-                  "sourceLanguage": "en",
-                  "sourceText": "to be able to write",
-                  "id": "untuk dapat menulis"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "makatakbo",
-                  "id": "untuk dapat menjalankan",
-                  "tagalog": "makatakbo"
-                },
-                {
-                  "sourceLanguage": "en",
-                  "sourceText": "to be able to run",
-                  "id": "untuk dapat menjalankan"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "makatalon",
-                  "id": "untuk dapat melompat",
-                  "tagalog": "makatalon"
-                },
-                {
-                  "sourceLanguage": "en",
-                  "sourceText": "to be able to jump",
-                  "id": "untuk dapat melompat"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "makatanggap",
-                  "id": "untuk dapat menerima",
-                  "tagalog": "makatanggap"
-                },
-                {
-                  "sourceLanguage": "en",
-                  "sourceText": "to be able to receive",
-                  "id": "untuk dapat menerima"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "makatanggi",
-                  "id": "untuk dapat menolak / mengatakan tidak",
-                  "tagalog": "makatanggi"
-                },
-                {
-                  "sourceLanguage": "en",
-                  "sourceText": "to be able to refuse/say no",
-                  "id": "untuk dapat menolak / mengatakan tidak"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "makatapos",
-                  "id": "untuk dapat menyelesaikan",
-                  "tagalog": "makatapos"
-                },
-                {
-                  "sourceLanguage": "en",
-                  "sourceText": "to be able to finish",
-                  "id": "untuk dapat menyelesaikan"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "makatawa",
-                  "id": "untuk dapat tertawa",
-                  "tagalog": "makatawa"
-                },
-                {
-                  "sourceLanguage": "en",
-                  "sourceText": "to be able to laugh",
-                  "id": "untuk dapat tertawa"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "makatawag",
-                  "id": "untuk dapat memanggil",
-                  "tagalog": "makatawag"
-                },
-                {
-                  "sourceLanguage": "en",
-                  "sourceText": "to be able to call",
-                  "id": "untuk dapat memanggil"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "makatayo",
-                  "id": "untuk dapat berdiri",
-                  "tagalog": "makatayo"
-                },
-                {
-                  "sourceLanguage": "en",
-                  "sourceText": "to be able to stand up",
-                  "id": "untuk dapat berdiri"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "makatingin",
-                  "id": "untuk dapat melihat seseorang atau sesuatu",
-                  "tagalog": "makatingin"
-                },
-                {
-                  "sourceLanguage": "en",
-                  "sourceText": "to be able to look at someone or something",
-                  "id": "untuk dapat melihat seseorang atau sesuatu"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "makatugtog",
-                  "id": "untuk dapat memainkan alat musik",
-                  "tagalog": "makatugtog"
-                },
-                {
-                  "sourceLanguage": "en",
-                  "sourceText": "to be able to play a musical instrument",
-                  "id": "untuk dapat memainkan alat musik"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "makatulong",
-                  "id": "untuk dapat membantu",
-                  "tagalog": "makatulong"
-                },
-                {
-                  "sourceLanguage": "en",
-                  "sourceText": "to be able to help",
-                  "id": "untuk dapat membantu"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "makaupo",
-                  "id": "untuk dapat duduk",
-                  "tagalog": "makaupo"
-                },
-                {
-                  "sourceLanguage": "en",
-                  "sourceText": "to be able to sit",
-                  "id": "untuk dapat duduk"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "makautang",
-                  "id": "untuk dapat meminjam uang",
-                  "tagalog": "makautang"
-                },
-                {
-                  "sourceLanguage": "en",
-                  "sourceText": "to be able to borrow money",
-                  "id": "untuk dapat meminjam uang"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "makauwi",
-                  "id": "untuk bisa pulang",
-                  "tagalog": "makauwi"
-                },
-                {
-                  "sourceLanguage": "en",
-                  "sourceText": "to be able to go home",
-                  "id": "untuk bisa pulang"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "Idioms and Expressions",
-                  "id": "Idiom and Expressions"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "Buti ka pa",
-                  "id": "Kau lebih baik pergi",
-                  "tagalog": "Buti ka pa"
-                },
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "You’re better off",
-                  "id": "Kau lebih baik pergi"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "Oo naman",
-                  "id": "Ya, tentu saja",
-                  "tagalog": "Oo naman"
-                },
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "Yes, of course",
-                  "id": "Ya, tentu saja"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "Aba!",
-                  "id": "Sebuah seruan yang mengekspresikan kejutan, bertanya-tanya, jijik, tergantung pada bagaimana digunakan dalam kalimat. ini juga bisa berarti \"Hei!\"",
-                  "tagalog": "Aba!"
-                },
-                {
-                  "sourceLanguage": "en",
-                  "sourceText": "an exclamation that expresses surprise, wonder, disgust, depending on how it is used in a sentence. It could also mean “Hey!”",
-                  "id": "Sebuah seruan yang mengekspresikan kejutan, bertanya-tanya, jijik, tergantung pada bagaimana digunakan dalam kalimat. ini juga bisa berarti \"Hei!\""
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "Bilib ako sa iyo",
-                  "id": "ekspresi biasanya dikatakan dalam kekaguman atau kekaguman dari bahasa Inggris \"percaya\" secara harfiah \"Aku percaya padamu\".",
-                  "tagalog": "Bilib ako sa iyo"
-                },
-                {
-                  "sourceLanguage": "en",
-                  "sourceText": "expression usually said in admiration or awe. From the English “believe.” Literally “I believe in you.”",
-                  "id": "ekspresi biasanya dikatakan dalam kekaguman atau kekaguman dari bahasa Inggris \"percaya\" secara harfiah \"Aku percaya padamu\"."
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "Sobra ka naman!",
-                  "id": "Kau terlalu banyak, di atas.",
-                  "tagalog": "Sobra ka naman!"
-                },
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "You’re too much, over the top.",
-                  "id": "Kau terlalu banyak, di atas."
-                }
-              ]
+          "type": "vocabulary",
+          "entries": [
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "Musika at Sayaw",
+                "id": "Music and Dance",
+                "tagalog": "Musika at Sayaw"
+              },
+              "meaning": {
+                "sourceLanguage": "mixed",
+                "sourceText": "Music and Dance",
+                "id": "Music and Dance"
+              }
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "awiting-bayan",
+                "id": "musik rakyat",
+                "tagalog": "awiting-bayan"
+              },
+              "meaning": {
+                "sourceLanguage": "mixed",
+                "sourceText": "folk music",
+                "id": "musik rakyat"
+              }
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "awitin tungkol sa pag-ibig",
+                "id": "balada",
+                "tagalog": "awitin tungkol sa pag-ibig"
+              },
+              "meaning": {
+                "sourceLanguage": "mixed",
+                "sourceText": "ballad",
+                "id": "balada"
+              }
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "harana",
+                "id": "lagu cinta yang digunakan untuk serending seorang wanita",
+                "tagalog": "harana"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "love song used for serenading a woman",
+                "id": "lagu cinta yang digunakan untuk serending seorang wanita"
+              }
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "Itik-itik",
+                "id": "Tarian rakyat di Filipina, tarian tersebut meniru gerakan bebek di antara padi.",
+                "tagalog": "Itik-itik"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "a type of folk dance in the Philippines. The dance steps imitate the movement of ducks among rice paddies.",
+                "id": "Tarian rakyat di Filipina, tarian tersebut meniru gerakan bebek di antara padi."
+              }
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "kundiman",
+                "id": "Lagu cinta tradisional Filipina",
+                "tagalog": "kundiman"
+              },
+              "meaning": {
+                "sourceLanguage": "mixed",
+                "sourceText": "Filipino traditional love song",
+                "id": "Lagu cinta tradisional Filipina"
+              }
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "makalumang musika",
+                "id": "oldies",
+                "tagalog": "makalumang musika"
+              },
+              "meaning": {
+                "sourceLanguage": "mixed",
+                "sourceText": "oldies",
+                "id": "oldies"
+              }
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "Maglalatik",
+                "id": "tarian yang menggunakan kerang kelapa diikat ke payudara, bahu belakang, lutut, harfiah orang yang pekerjaannya memproduksi \"latik\", sampah yang tersisa setelah memasak dan mengekstrak minyak dari daging kelapa",
+                "tagalog": "Maglalatik"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "a dance that uses coconut shells tied to the breast, back shoulder, knees; literally a person whose occupation is producing “latik,” the scum left after cooking and extracting oil from coconut meat",
+                "id": "tarian yang menggunakan kerang kelapa diikat ke payudara, bahu belakang, lutut, harfiah orang yang pekerjaannya memproduksi \"latik\", sampah yang tersisa setelah memasak dan mengekstrak minyak dari daging kelapa"
+              }
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "OPM",
+                "id": "Musik Pilipino Asli",
+                "tagalog": "OPM"
+              },
+              "meaning": {
+                "sourceLanguage": "mixed",
+                "sourceText": "Original Pilipino Music",
+                "id": "Musik Pilipino Asli"
+              }
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "Pandanggo sa Ilaw",
+                "id": "jenis tarian rakyat yang melibatkan keseimbangan lampu minyak di salah satu kepala dan tangan",
+                "tagalog": "Pandanggo sa Ilaw"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "a type of folk dance that involves balancing oil lamps on one’s head and hands",
+                "id": "jenis tarian rakyat yang melibatkan keseimbangan lampu minyak di salah satu kepala dan tangan"
+              }
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "rakistang musika",
+                "id": "musik rock",
+                "tagalog": "rakistang musika"
+              },
+              "meaning": {
+                "sourceLanguage": "mixed",
+                "sourceText": "rock music",
+                "id": "musik rock"
+              }
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "Sakuting",
+                "id": "jenis tarian rakyat yang menggunakan arnis atau tongkat kayu",
+                "tagalog": "Sakuting"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "a type of folk dance that uses arnis or wooden sticks",
+                "id": "jenis tarian rakyat yang menggunakan arnis atau tongkat kayu"
+              }
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "Sayaw sa Bangko",
+                "id": "jenis tarian yang melibatkan keseimbangan pada bangku-bangku sempit atau tarian yang dilakukan pada bangku-bangku sempit",
+                "tagalog": "Sayaw sa Bangko"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "a type of dance that involves balancing on narrow benches or dance performed on narrow benches",
+                "id": "jenis tarian yang melibatkan keseimbangan pada bangku-bangku sempit atau tarian yang dilakukan pada bangku-bangku sempit"
+              }
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "Tinikling",
+                "id": "Tarian nasional Filipina, Dancers meniru keanggunan burung yang legendaris dan kecepatan dengan keterampilan manuver antara kutub bambu besar.",
+                "tagalog": "Tinikling"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "the national dance of the Philippines. Dancers imitate the tikling bird’s legendary grace and speed by skillfully maneuvering between large bamboo poles.",
+                "id": "Tarian nasional Filipina, Dancers meniru keanggunan burung yang legendaris dan kecepatan dengan keterampilan manuver antara kutub bambu besar."
+              }
             }
           ]
+        },
+        {
+          "type": "text",
+          "style": "heading",
+          "text": {
+            "sourceLanguage": "mixed",
+            "sourceText": "Makapag- and Maka- Verbs (Abilitiative Verbs)",
+            "id": "Makapag- dan Maka- Verbs (Bahasa AbbiIitiative)"
+          }
+        },
+        {
+          "type": "vocabulary",
+          "entries": [
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "makapag-aral",
+                "id": "untuk dapat belajar",
+                "tagalog": "makapag-aral"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "to be able to study",
+                "id": "untuk dapat belajar"
+              }
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "makapagbakasyon",
+                "id": "untuk dapat mengambil liburan",
+                "tagalog": "makapagbakasyon"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "to be able to take a vacation",
+                "id": "untuk dapat mengambil liburan"
+              }
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "makapagbalita",
+                "id": "untuk dapat menyampaikan informasi atau berita",
+                "tagalog": "makapagbalita"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "to be able to relay an information or news",
+                "id": "untuk dapat menyampaikan informasi atau berita"
+              }
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "makapagbaon",
+                "id": "untuk dapat mengambil ketentuan seseorang, seperti ketika pergi pada perjalanan",
+                "tagalog": "makapagbaon"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "to be able to take one’s provisions, as when going on a trip",
+                "id": "untuk dapat mengambil ketentuan seseorang, seperti ketika pergi pada perjalanan"
+              }
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "makapagbayad",
+                "id": "untuk dapat membayar",
+                "tagalog": "makapagbayad"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "to be able to pay",
+                "id": "untuk dapat membayar"
+              }
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "makapagbenta",
+                "id": "untuk dapat menjual",
+                "tagalog": "makapagbenta"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "to be able to sell",
+                "id": "untuk dapat menjual"
+              }
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "makapagbigay",
+                "id": "untuk dapat memberikan",
+                "tagalog": "makapagbigay"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "to be able to give",
+                "id": "untuk dapat memberikan"
+              }
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "makapagkuwento",
+                "id": "untuk dapat bercerita",
+                "tagalog": "makapagkuwento"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "to be able to tell a story",
+                "id": "untuk dapat bercerita"
+              }
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "makapagdala",
+                "id": "untuk dapat membawa / membawa",
+                "tagalog": "makapagdala"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "to be able to bring/carry",
+                "id": "untuk dapat membawa / membawa"
+              }
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "makapaghatid",
+                "id": "untuk dapat mengirim / menurunkan seseorang atau sesuatu",
+                "tagalog": "makapaghatid"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "to be able to send/drop off someone or something",
+                "id": "untuk dapat mengirim / menurunkan seseorang atau sesuatu"
+              }
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "makapaghiganti",
+                "id": "untuk mampu membalas dendam",
+                "tagalog": "makapaghiganti"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "to be able to take vengeance",
+                "id": "untuk mampu membalas dendam"
+              }
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "makapaghintay",
+                "id": "untuk dapat menunggu",
+                "tagalog": "makapaghintay"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "to be able to wait",
+                "id": "untuk dapat menunggu"
+              }
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "makapag-ipon",
+                "id": "untuk dapat menyimpan uang",
+                "tagalog": "makapag-ipon"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "to be able to save money",
+                "id": "untuk dapat menyimpan uang"
+              }
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "makapag-isip",
+                "id": "untuk dapat berpikir",
+                "tagalog": "makapag-isip"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "to be able to think",
+                "id": "untuk dapat berpikir"
+              }
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "makapaglagay",
+                "id": "untuk dapat menempatkan sesuatu",
+                "tagalog": "makapaglagay"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "to be able to put something",
+                "id": "untuk dapat menempatkan sesuatu"
+              }
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "makapaglinis",
+                "id": "untuk dapat membersihkan",
+                "tagalog": "makapaglinis"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "to be able to clean",
+                "id": "untuk dapat membersihkan"
+              }
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "makapagluto",
+                "id": "untuk dapat memasak",
+                "tagalog": "makapagluto"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "to be able to cook",
+                "id": "untuk dapat memasak"
+              }
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "makapagnakaw",
+                "id": "untuk dapat mencuri",
+                "tagalog": "makapagnakaw"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "to be able to steal",
+                "id": "untuk dapat mencuri"
+              }
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "makapagpatawad",
+                "id": "untuk dapat memaafkan",
+                "tagalog": "makapagpatawad"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "to be able to forgive",
+                "id": "untuk dapat memaafkan"
+              }
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "makapagreklamo",
+                "id": "untuk dapat mengeluh",
+                "tagalog": "makapagreklamo"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "to be able to complain",
+                "id": "untuk dapat mengeluh"
+              }
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "makapagsalita",
+                "id": "untuk dapat berbicara",
+                "tagalog": "makapagsalita"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "to be able to speak",
+                "id": "untuk dapat berbicara"
+              }
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "makapagsimba",
+                "id": "untuk dapat pergi ke gereja",
+                "tagalog": "makapagsimba"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "to be able to go to church",
+                "id": "untuk dapat pergi ke gereja"
+              }
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "makapagsimula",
+                "id": "untuk dapat memulai",
+                "tagalog": "makapagsimula"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "to be able to start",
+                "id": "untuk dapat memulai"
+              }
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "makapagtanong",
+                "id": "untuk dapat mengajukan pertanyaan",
+                "tagalog": "makapagtanong"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "to be able to ask a question",
+                "id": "untuk dapat mengajukan pertanyaan"
+              }
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "makapagtiwala",
+                "id": "untuk dapat mempercayai",
+                "tagalog": "makapagtiwala"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "to be able to trust",
+                "id": "untuk dapat mempercayai"
+              }
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "makapagtrabaho",
+                "id": "untuk dapat bekerja",
+                "tagalog": "makapagtrabaho"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "to be able to work",
+                "id": "untuk dapat bekerja"
+              }
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "makapagturo",
+                "id": "untuk dapat mengajar",
+                "tagalog": "makapagturo"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "to be able to teach",
+                "id": "untuk dapat mengajar"
+              }
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "makapag-usap",
+                "id": "untuk dapat berbicara",
+                "tagalog": "makapag-usap"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "to be able to talk",
+                "id": "untuk dapat berbicara"
+              }
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "makapag-uwi",
+                "id": "untuk dapat membawa / membawa sesuatu ke rumah",
+                "tagalog": "makapag-uwi"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "to be able to bring/take something home",
+                "id": "untuk dapat membawa / membawa sesuatu ke rumah"
+              }
+            }
+          ],
+          "title": {
+            "sourceLanguage": "fil",
+            "sourceText": "Makapag- Verbs",
+            "id": "Bisa Verbs",
+            "tagalog": "Makapag- Verbs"
+          }
+        },
+        {
+          "type": "vocabulary",
+          "entries": [
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "makaakyat",
+                "id": "untuk dapat pergi ke atas / memanjat",
+                "tagalog": "makaakyat"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "to be able to go upstairs/climb",
+                "id": "untuk dapat pergi ke atas / memanjat"
+              }
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "makaalis",
+                "id": "untuk dapat meninggalkan",
+                "tagalog": "makaalis"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "to be able to leave",
+                "id": "untuk dapat meninggalkan"
+              }
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "makababa",
+                "id": "untuk dapat mendapatkan atau turun",
+                "tagalog": "makababa"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "to be able to get or go down",
+                "id": "untuk dapat mendapatkan atau turun"
+              }
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "makabalik",
+                "id": "untuk dapat kembali",
+                "tagalog": "makabalik"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "to be able to return",
+                "id": "untuk dapat kembali"
+              }
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "makabangon",
+                "id": "untuk dapat bangun dari posisi berbohong",
+                "tagalog": "makabangon"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "to be able to get up from a lying position",
+                "id": "untuk dapat bangun dari posisi berbohong"
+              }
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "makabasa",
+                "id": "untuk dapat membaca",
+                "tagalog": "makabasa"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "to be able to read",
+                "id": "untuk dapat membaca"
+              }
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "makabili",
+                "id": "untuk dapat membeli",
+                "tagalog": "makabili"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "to be able to buy",
+                "id": "untuk dapat membeli"
+              }
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "makakain",
+                "id": "untuk dapat makan",
+                "tagalog": "makakain"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "to be able to eat",
+                "id": "untuk dapat makan"
+              }
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "makakuha",
+                "id": "untuk dapat mendapatkan / mengambil sesuatu",
+                "tagalog": "makakuha"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "to be able to get/take something",
+                "id": "untuk dapat mendapatkan / mengambil sesuatu"
+              }
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "makakanta",
+                "id": "untuk dapat menyanyi",
+                "tagalog": "makakanta"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "to be able to sing",
+                "id": "untuk dapat menyanyi"
+              }
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "makakita",
+                "id": "untuk dapat melihat",
+                "tagalog": "makakita"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "to be able to see",
+                "id": "untuk dapat melihat"
+              }
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "makadaan",
+                "id": "untuk dapat melewati",
+                "tagalog": "makadaan"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "to be able to pass through",
+                "id": "untuk dapat melewati"
+              }
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "makadalaw",
+                "id": "untuk dapat mengunjungi seseorang",
+                "tagalog": "makadalaw"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "to be able to visit someone",
+                "id": "untuk dapat mengunjungi seseorang"
+              }
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "makagamit",
+                "id": "untuk dapat menggunakan",
+                "tagalog": "makagamit"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "to be able to use",
+                "id": "untuk dapat menggunakan"
+              }
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "makagawa",
+                "id": "untuk dapat melakukan / membuat / bekerja",
+                "tagalog": "makagawa"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "to be able to do/make/work",
+                "id": "untuk dapat melakukan / membuat / bekerja"
+              }
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "makahiram",
+                "id": "untuk dapat meminjam / sewa",
+                "tagalog": "makahiram"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "to be able to borrow/rent",
+                "id": "untuk dapat meminjam / sewa"
+              }
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "makainom",
+                "id": "(Untuk mendapatkan minuman) atau minuman yang enak.",
+                "tagalog": "makainom"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "to be able to drink",
+                "id": "(Untuk mendapatkan minuman) atau minuman yang enak."
+              }
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "makaiyak",
+                "id": "untuk dapat menangis",
+                "tagalog": "makaiyak"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "to be able to cry",
+                "id": "untuk dapat menangis"
+              }
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "makalakad",
+                "id": "untuk dapat berjalan",
+                "tagalog": "makalakad"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "to be able to walk",
+                "id": "untuk dapat berjalan"
+              }
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "makalapit",
+                "id": "yang dekat (kepada Allah) dan yang dekat (waktunya)",
+                "tagalog": "makalapit"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "to be able to approach or go near",
+                "id": "yang dekat (kepada Allah) dan yang dekat (waktunya)"
+              }
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "makalangoy",
+                "id": "untuk dapat berenang",
+                "tagalog": "makalangoy"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "to be able to swim",
+                "id": "untuk dapat berenang"
+              }
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "makalayo",
+                "id": "untuk dapat menjauh dari",
+                "tagalog": "makalayo"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "to be able to get away from",
+                "id": "untuk dapat menjauh dari"
+              }
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "makaligo",
+                "id": "untuk dapat mandi",
+                "tagalog": "makaligo"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "to be able to take a shower",
+                "id": "untuk dapat mandi"
+              }
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "makalipat",
+                "id": "untuk dapat mentransfer atau pindah dari satu tempat ke tempat lain",
+                "tagalog": "makalipat"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "to be able to transfer or move from one place to another",
+                "id": "untuk dapat mentransfer atau pindah dari satu tempat ke tempat lain"
+              }
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "makangiti",
+                "id": "untuk dapat tersenyum",
+                "tagalog": "makangiti"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "to be able to smile",
+                "id": "untuk dapat tersenyum"
+              }
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "makapanood",
+                "id": "untuk dapat menonton",
+                "tagalog": "makapanood"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "to be able to watch",
+                "id": "untuk dapat menonton"
+              }
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "makapasok",
+                "id": "untuk dapat masuk",
+                "tagalog": "makapasok"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "to be able to enter",
+                "id": "untuk dapat masuk"
+              }
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "makapasyal",
+                "id": "untuk dapat pergi dan mengunjungi tempat",
+                "tagalog": "makapasyal"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "to be able to go and visit a place",
+                "id": "untuk dapat pergi dan mengunjungi tempat"
+              }
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "makapili",
+                "id": "untuk dapat memilih",
+                "tagalog": "makapili"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "to be able to choose",
+                "id": "untuk dapat memilih"
+              }
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "makapunta",
+                "id": "untuk dapat pergi",
+                "tagalog": "makapunta"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "to be able to go",
+                "id": "untuk dapat pergi"
+              }
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "makarating",
+                "id": "untuk dapat datang / tiba",
+                "tagalog": "makarating"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "to be able to come/arrive",
+                "id": "untuk dapat datang / tiba"
+              }
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "makasakay",
+                "id": "untuk dapat naik",
+                "tagalog": "makasakay"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "to be able to ride",
+                "id": "untuk dapat naik"
+              }
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "makasama",
+                "id": "untuk dapat pergi dengan",
+                "tagalog": "makasama"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "to be able to go with",
+                "id": "untuk dapat pergi dengan"
+              }
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "makasayaw",
+                "id": "untuk dapat menari",
+                "tagalog": "makasayaw"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "to be able to dance",
+                "id": "untuk dapat menari"
+              }
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "makasigaw",
+                "id": "untuk dapat berteriak",
+                "tagalog": "makasigaw"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "to be able to shout",
+                "id": "untuk dapat berteriak"
+              }
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "makasulat",
+                "id": "untuk dapat menulis",
+                "tagalog": "makasulat"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "to be able to write",
+                "id": "untuk dapat menulis"
+              }
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "makatakbo",
+                "id": "untuk dapat menjalankan",
+                "tagalog": "makatakbo"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "to be able to run",
+                "id": "untuk dapat menjalankan"
+              }
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "makatalon",
+                "id": "untuk dapat melompat",
+                "tagalog": "makatalon"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "to be able to jump",
+                "id": "untuk dapat melompat"
+              }
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "makatanggap",
+                "id": "untuk dapat menerima",
+                "tagalog": "makatanggap"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "to be able to receive",
+                "id": "untuk dapat menerima"
+              }
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "makatanggi",
+                "id": "untuk dapat menolak / mengatakan tidak",
+                "tagalog": "makatanggi"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "to be able to refuse/say no",
+                "id": "untuk dapat menolak / mengatakan tidak"
+              }
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "makatapos",
+                "id": "untuk dapat menyelesaikan",
+                "tagalog": "makatapos"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "to be able to finish",
+                "id": "untuk dapat menyelesaikan"
+              }
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "makatawa",
+                "id": "untuk dapat tertawa",
+                "tagalog": "makatawa"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "to be able to laugh",
+                "id": "untuk dapat tertawa"
+              }
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "makatawag",
+                "id": "untuk dapat memanggil",
+                "tagalog": "makatawag"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "to be able to call",
+                "id": "untuk dapat memanggil"
+              }
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "makatayo",
+                "id": "untuk dapat berdiri",
+                "tagalog": "makatayo"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "to be able to stand up",
+                "id": "untuk dapat berdiri"
+              }
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "makatingin",
+                "id": "untuk dapat melihat seseorang atau sesuatu",
+                "tagalog": "makatingin"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "to be able to look at someone or something",
+                "id": "untuk dapat melihat seseorang atau sesuatu"
+              }
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "makatugtog",
+                "id": "untuk dapat memainkan alat musik",
+                "tagalog": "makatugtog"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "to be able to play a musical instrument",
+                "id": "untuk dapat memainkan alat musik"
+              }
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "makatulong",
+                "id": "untuk dapat membantu",
+                "tagalog": "makatulong"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "to be able to help",
+                "id": "untuk dapat membantu"
+              }
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "makaupo",
+                "id": "untuk dapat duduk",
+                "tagalog": "makaupo"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "to be able to sit",
+                "id": "untuk dapat duduk"
+              }
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "makautang",
+                "id": "untuk dapat meminjam uang",
+                "tagalog": "makautang"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "to be able to borrow money",
+                "id": "untuk dapat meminjam uang"
+              }
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "makauwi",
+                "id": "untuk bisa pulang",
+                "tagalog": "makauwi"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "to be able to go home",
+                "id": "untuk bisa pulang"
+              }
+            }
+          ],
+          "title": {
+            "sourceLanguage": "fil",
+            "sourceText": "Maka- Verbs",
+            "id": "Vebbs",
+            "tagalog": "Maka- Verbs"
+          }
+        },
+        {
+          "type": "vocabulary",
+          "entries": [
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "Buti ka pa",
+                "id": "Kau lebih baik pergi",
+                "tagalog": "Buti ka pa"
+              },
+              "meaning": {
+                "sourceLanguage": "mixed",
+                "sourceText": "You’re better off",
+                "id": "Kau lebih baik pergi"
+              }
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "Oo naman",
+                "id": "Ya, tentu saja",
+                "tagalog": "Oo naman"
+              },
+              "meaning": {
+                "sourceLanguage": "mixed",
+                "sourceText": "Yes, of course",
+                "id": "Ya, tentu saja"
+              }
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "Aba!",
+                "id": "Sebuah seruan yang mengekspresikan kejutan, bertanya-tanya, jijik, tergantung pada bagaimana digunakan dalam kalimat. ini juga bisa berarti \"Hei!\"",
+                "tagalog": "Aba!"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "an exclamation that expresses surprise, wonder, disgust, depending on how it is used in a sentence. It could also mean “Hey!”",
+                "id": "Sebuah seruan yang mengekspresikan kejutan, bertanya-tanya, jijik, tergantung pada bagaimana digunakan dalam kalimat. ini juga bisa berarti \"Hei!\""
+              }
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "Bilib ako sa iyo",
+                "id": "ekspresi biasanya dikatakan dalam kekaguman atau kekaguman dari bahasa Inggris \"percaya\" secara harfiah \"Aku percaya padamu\".",
+                "tagalog": "Bilib ako sa iyo"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "expression usually said in admiration or awe. From the English “believe.” Literally “I believe in you.”",
+                "id": "ekspresi biasanya dikatakan dalam kekaguman atau kekaguman dari bahasa Inggris \"percaya\" secara harfiah \"Aku percaya padamu\"."
+              }
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "Sobra ka naman!",
+                "id": "Kau terlalu banyak, di atas.",
+                "tagalog": "Sobra ka naman!"
+              },
+              "meaning": {
+                "sourceLanguage": "mixed",
+                "sourceText": "You’re too much, over the top.",
+                "id": "Kau terlalu banyak, di atas."
+              }
+            }
+          ],
+          "title": {
+            "sourceLanguage": "mixed",
+            "sourceText": "Idioms and Expressions",
+            "id": "Idiom and Expressions"
+          }
         }
-      ]
+      ],
+      "id": "lesson-24-02-vocabulary"
     },
     {
-      "id": "lesson-24-dialogue-turuan-mo-naman-akong-kumanta-do-teach-me-how-to-sing",
       "type": "DIALOGUE",
       "title": {
         "sourceLanguage": "en",
@@ -1832,15 +1553,6 @@
         "id": "Dialog: Tuuan Mo Naman Akong Kumanta Do Teach Me How to Sing"
       },
       "blocks": [
-        {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "en",
-            "sourceText": "Dialogue: Turuan Mo Naman Akong Kumanta Do Teach Me How to Sing",
-            "id": "Dialog: Tuuan Mo Naman Akong Kumanta Do Teach Me How to Sing"
-          }
-        },
         {
           "type": "text",
           "style": "body",
@@ -1859,307 +1571,287 @@
           "path": "assets/387a.jpg"
         },
         {
-          "type": "table",
-          "rows": [
+          "type": "dialogue",
+          "turns": [
             {
-              "cells": [
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "Nelson:",
-                  "id": "Nelson:"
-                },
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "O, ano ‘yang kinakanta mo?",
-                  "id": "Atau, apa yang kau katakan?",
-                  "tagalog": "O, ano ‘yang kinakanta mo?"
-                }
-              ]
+              "speaker": "Nelson",
+              "speakerText": {
+                "sourceLanguage": "mixed",
+                "sourceText": "Nelson:",
+                "id": "Nelson:"
+              },
+              "text": {
+                "sourceLanguage": "fil",
+                "sourceText": "O, ano ‘yang kinakanta mo?",
+                "id": "Atau, apa yang kau katakan?",
+                "tagalog": "O, ano ‘yang kinakanta mo?"
+              }
             },
             {
-              "cells": [
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "Brian:",
-                  "id": "Brian:"
-                },
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "Anak.",
-                  "id": "Nak.",
-                  "tagalog": "Anak."
-                }
-              ]
+              "speaker": "Brian",
+              "speakerText": {
+                "sourceLanguage": "mixed",
+                "sourceText": "Brian:",
+                "id": "Brian:"
+              },
+              "text": {
+                "sourceLanguage": "fil",
+                "sourceText": "Anak.",
+                "id": "Nak.",
+                "tagalog": "Anak."
+              }
             },
             {
-              "cells": [
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "Nelson:",
-                  "id": "Nelson:"
-                },
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "Aba! Hindi ko alam na nakakakanta ka pala.",
-                  "id": "Yah, aku tidak tahu kau bernyanyi.",
-                  "tagalog": "Aba! Hindi ko alam na nakakakanta ka pala."
-                }
-              ]
+              "speaker": "Nelson",
+              "speakerText": {
+                "sourceLanguage": "mixed",
+                "sourceText": "Nelson:",
+                "id": "Nelson:"
+              },
+              "text": {
+                "sourceLanguage": "fil",
+                "sourceText": "Aba! Hindi ko alam na nakakakanta ka pala.",
+                "id": "Yah, aku tidak tahu kau bernyanyi.",
+                "tagalog": "Aba! Hindi ko alam na nakakakanta ka pala."
+              }
             },
             {
-              "cells": [
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "Brian:",
-                  "id": "Brian:"
-                },
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "Oo naman. Kapag marami akong gawain, gusto kong kumanta.",
-                  "id": "Ya, ketika saya memiliki banyak yang harus dilakukan, saya ingin menyanyi.",
-                  "tagalog": "Oo naman. Kapag marami akong gawain, gusto kong kumanta."
-                }
-              ]
+              "speaker": "Brian",
+              "speakerText": {
+                "sourceLanguage": "mixed",
+                "sourceText": "Brian:",
+                "id": "Brian:"
+              },
+              "text": {
+                "sourceLanguage": "fil",
+                "sourceText": "Oo naman. Kapag marami akong gawain, gusto kong kumanta.",
+                "id": "Ya, ketika saya memiliki banyak yang harus dilakukan, saya ingin menyanyi.",
+                "tagalog": "Oo naman. Kapag marami akong gawain, gusto kong kumanta."
+              }
             },
             {
-              "cells": [
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "Nelson:",
-                  "id": "Nelson:"
-                },
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "Ano naman ang paborito mong kantahin?",
-                  "id": "Bagaimana dengan lagu favoritmu?",
-                  "tagalog": "Ano naman ang paborito mong kantahin?"
-                }
-              ]
+              "speaker": "Nelson",
+              "speakerText": {
+                "sourceLanguage": "mixed",
+                "sourceText": "Nelson:",
+                "id": "Nelson:"
+              },
+              "text": {
+                "sourceLanguage": "fil",
+                "sourceText": "Ano naman ang paborito mong kantahin?",
+                "id": "Bagaimana dengan lagu favoritmu?",
+                "tagalog": "Ano naman ang paborito mong kantahin?"
+              }
             },
             {
-              "cells": [
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "Brian:",
-                  "id": "Brian:"
-                },
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "Depende sa ginagawa ko. Kapag nagluluto ako, kumakanta ako ng mga lumang kanta at kapag naliligo naman ako, kumakanta ako ng mga kantang tungkol sa pag-ibig.",
-                  "id": "Tergantung pada apa yang kulakukan, saat aku memasak, aku menyanyikan lagu lama, dan saat aku mandi, aku menyanyikan lagu tentang cinta.",
-                  "tagalog": "Depende sa ginagawa ko. Kapag nagluluto ako, kumakanta ako ng mga lumang kanta at kapag naliligo naman ako, kumakanta ako ng mga kantang tungkol sa pag-ibig."
-                }
-              ]
+              "speaker": "Brian",
+              "speakerText": {
+                "sourceLanguage": "mixed",
+                "sourceText": "Brian:",
+                "id": "Brian:"
+              },
+              "text": {
+                "sourceLanguage": "fil",
+                "sourceText": "Depende sa ginagawa ko. Kapag nagluluto ako, kumakanta ako ng mga lumang kanta at kapag naliligo naman ako, kumakanta ako ng mga kantang tungkol sa pag-ibig.",
+                "id": "Tergantung pada apa yang kulakukan, saat aku memasak, aku menyanyikan lagu lama, dan saat aku mandi, aku menyanyikan lagu tentang cinta.",
+                "tagalog": "Depende sa ginagawa ko. Kapag nagluluto ako, kumakanta ako ng mga lumang kanta at kapag naliligo naman ako, kumakanta ako ng mga kantang tungkol sa pag-ibig."
+              }
             },
             {
-              "cells": [
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "Nelson:",
-                  "id": "Nelson:"
-                },
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "Bilib naman ako sa iyo.",
-                  "id": "Aku bernomor denganmu.",
-                  "tagalog": "Bilib naman ako sa iyo."
-                }
-              ]
+              "speaker": "Nelson",
+              "speakerText": {
+                "sourceLanguage": "mixed",
+                "sourceText": "Nelson:",
+                "id": "Nelson:"
+              },
+              "text": {
+                "sourceLanguage": "fil",
+                "sourceText": "Bilib naman ako sa iyo.",
+                "id": "Aku bernomor denganmu.",
+                "tagalog": "Bilib naman ako sa iyo."
+              }
             },
             {
-              "cells": [
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "Brian:",
-                  "id": "Brian:"
-                },
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "Kung nag-aaral nga ako, kumakanta ako ng mga kanta sa simbahan.",
-                  "id": "Jika aku melakukannya, aku akan menyanyikan lagu di gereja.",
-                  "tagalog": "Kung nag-aaral nga ako, kumakanta ako ng mga kanta sa simbahan."
-                }
-              ]
+              "speaker": "Brian",
+              "speakerText": {
+                "sourceLanguage": "mixed",
+                "sourceText": "Brian:",
+                "id": "Brian:"
+              },
+              "text": {
+                "sourceLanguage": "fil",
+                "sourceText": "Kung nag-aaral nga ako, kumakanta ako ng mga kanta sa simbahan.",
+                "id": "Jika aku melakukannya, aku akan menyanyikan lagu di gereja.",
+                "tagalog": "Kung nag-aaral nga ako, kumakanta ako ng mga kanta sa simbahan."
+              }
             },
             {
-              "cells": [
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "Nelson:",
-                  "id": "Nelson:"
-                },
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "Sobra ka naman!",
-                  "id": "Kau terlalu besar!",
-                  "tagalog": "Sobra ka naman!"
-                }
-              ]
+              "speaker": "Nelson",
+              "speakerText": {
+                "sourceLanguage": "mixed",
+                "sourceText": "Nelson:",
+                "id": "Nelson:"
+              },
+              "text": {
+                "sourceLanguage": "fil",
+                "sourceText": "Sobra ka naman!",
+                "id": "Kau terlalu besar!",
+                "tagalog": "Sobra ka naman!"
+              }
             },
             {
-              "cells": [
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "Brian:",
-                  "id": "Brian:"
-                },
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "E Ikaw? Ano naman ang ginagawa mo kung marami kang gawain?",
-                  "id": "Apa yang kau lakukan jika kau punya banyak pekerjaan?",
-                  "tagalog": "E Ikaw? Ano naman ang ginagawa mo kung marami kang gawain?"
-                }
-              ]
+              "speaker": "Brian",
+              "speakerText": {
+                "sourceLanguage": "mixed",
+                "sourceText": "Brian:",
+                "id": "Brian:"
+              },
+              "text": {
+                "sourceLanguage": "fil",
+                "sourceText": "E Ikaw? Ano naman ang ginagawa mo kung marami kang gawain?",
+                "id": "Apa yang kau lakukan jika kau punya banyak pekerjaan?",
+                "tagalog": "E Ikaw? Ano naman ang ginagawa mo kung marami kang gawain?"
+              }
             },
             {
-              "cells": [
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "Nelson:",
-                  "id": "Nelson:"
-                },
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "Kung nagmamaneho ako, nakikinig ako sa mga rap na kanta at kung nasa bahay ako, sinasabayan ko ng sayaw.",
-                  "id": "Jika saya mengemudi, saya mendengarkan lagu rap dan jika saya di rumah, menari bersama dengan mereka.",
-                  "tagalog": "Kung nagmamaneho ako, nakikinig ako sa mga rap na kanta at kung nasa bahay ako, sinasabayan ko ng sayaw."
-                }
-              ]
+              "speaker": "Nelson",
+              "speakerText": {
+                "sourceLanguage": "mixed",
+                "sourceText": "Nelson:",
+                "id": "Nelson:"
+              },
+              "text": {
+                "sourceLanguage": "fil",
+                "sourceText": "Kung nagmamaneho ako, nakikinig ako sa mga rap na kanta at kung nasa bahay ako, sinasabayan ko ng sayaw.",
+                "id": "Jika saya mengemudi, saya mendengarkan lagu rap dan jika saya di rumah, menari bersama dengan mereka.",
+                "tagalog": "Kung nagmamaneho ako, nakikinig ako sa mga rap na kanta at kung nasa bahay ako, sinasabayan ko ng sayaw."
+              }
             },
             {
-              "cells": [
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "Brian:",
-                  "id": "Brian:"
-                },
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "Aba, hindi ko alam na nakakasayaw ka pala.",
-                  "id": "Yah, aku tidak tahu kau bisa menari.",
-                  "tagalog": "Aba, hindi ko alam na nakakasayaw ka pala."
-                }
-              ]
+              "speaker": "Brian",
+              "speakerText": {
+                "sourceLanguage": "mixed",
+                "sourceText": "Brian:",
+                "id": "Brian:"
+              },
+              "text": {
+                "sourceLanguage": "fil",
+                "sourceText": "Aba, hindi ko alam na nakakasayaw ka pala.",
+                "id": "Yah, aku tidak tahu kau bisa menari.",
+                "tagalog": "Aba, hindi ko alam na nakakasayaw ka pala."
+              }
             },
             {
-              "cells": [
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "Nelson:",
-                  "id": "Nelson:"
-                },
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "Oo naman. Mananayaw ako noon sa kolehiyo. Nagsasayaw ako dati ng mga tradisyunal na sayaw-Pilipino.",
-                  "id": "Ya, saya dilatih di perguruan tinggi, dan saya digunakan untuk menari tarian tradisional.",
-                  "tagalog": "Oo naman. Mananayaw ako noon sa kolehiyo. Nagsasayaw ako dati ng mga tradisyunal na sayaw-Pilipino."
-                }
-              ]
+              "speaker": "Nelson",
+              "speakerText": {
+                "sourceLanguage": "mixed",
+                "sourceText": "Nelson:",
+                "id": "Nelson:"
+              },
+              "text": {
+                "sourceLanguage": "fil",
+                "sourceText": "Oo naman. Mananayaw ako noon sa kolehiyo. Nagsasayaw ako dati ng mga tradisyunal na sayaw-Pilipino.",
+                "id": "Ya, saya dilatih di perguruan tinggi, dan saya digunakan untuk menari tarian tradisional.",
+                "tagalog": "Oo naman. Mananayaw ako noon sa kolehiyo. Nagsasayaw ako dati ng mga tradisyunal na sayaw-Pilipino."
+              }
             },
             {
-              "cells": [
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "Brian:",
-                  "id": "Brian:"
-                },
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "Talaga? Gaya ng ano?",
-                  "id": "Benarkah, seperti apa?",
-                  "tagalog": "Talaga? Gaya ng ano?"
-                }
-              ]
+              "speaker": "Brian",
+              "speakerText": {
+                "sourceLanguage": "mixed",
+                "sourceText": "Brian:",
+                "id": "Brian:"
+              },
+              "text": {
+                "sourceLanguage": "fil",
+                "sourceText": "Talaga? Gaya ng ano?",
+                "id": "Benarkah, seperti apa?",
+                "tagalog": "Talaga? Gaya ng ano?"
+              }
             },
             {
-              "cells": [
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "Nelson:",
-                  "id": "Nelson:"
-                },
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "Nakakapagsayaw ako ng maglalatik, tinikling, pandanggo sa ilaw at marami pang iba.",
-                  "id": "Aku bisa menari stubling, berduri, mendayung ringan dan sebagainya.",
-                  "tagalog": "Nakakapagsayaw ako ng maglalatik, tinikling, pandanggo sa ilaw at marami pang iba."
-                }
-              ]
+              "speaker": "Nelson",
+              "speakerText": {
+                "sourceLanguage": "mixed",
+                "sourceText": "Nelson:",
+                "id": "Nelson:"
+              },
+              "text": {
+                "sourceLanguage": "fil",
+                "sourceText": "Nakakapagsayaw ako ng maglalatik, tinikling, pandanggo sa ilaw at marami pang iba.",
+                "id": "Aku bisa menari stubling, berduri, mendayung ringan dan sebagainya.",
+                "tagalog": "Nakakapagsayaw ako ng maglalatik, tinikling, pandanggo sa ilaw at marami pang iba."
+              }
             },
             {
-              "cells": [
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "Brian:",
-                  "id": "Brian:"
-                },
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "Aba. Turuan mo naman ako.",
-                  "id": "Ajari aku.",
-                  "tagalog": "Aba. Turuan mo naman ako."
-                }
-              ]
+              "speaker": "Brian",
+              "speakerText": {
+                "sourceLanguage": "mixed",
+                "sourceText": "Brian:",
+                "id": "Brian:"
+              },
+              "text": {
+                "sourceLanguage": "fil",
+                "sourceText": "Aba. Turuan mo naman ako.",
+                "id": "Ajari aku.",
+                "tagalog": "Aba. Turuan mo naman ako."
+              }
             },
             {
-              "cells": [
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "Nelson:",
-                  "id": "Nelson:"
-                },
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "Sige! Basta turuan mo rin akong kumanta.",
-                  "id": "Ayolah, ajari aku cara bernyanyi.",
-                  "tagalog": "Sige! Basta turuan mo rin akong kumanta."
-                }
-              ]
+              "speaker": "Nelson",
+              "speakerText": {
+                "sourceLanguage": "mixed",
+                "sourceText": "Nelson:",
+                "id": "Nelson:"
+              },
+              "text": {
+                "sourceLanguage": "fil",
+                "sourceText": "Sige! Basta turuan mo rin akong kumanta.",
+                "id": "Ayolah, ajari aku cara bernyanyi.",
+                "tagalog": "Sige! Basta turuan mo rin akong kumanta."
+              }
             },
             {
-              "cells": [
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "Brian:",
-                  "id": "Brian:"
-                },
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "Sige. Walang problema! Unahin natin ‘tong kanta ng Hotdog noong taong 1970.",
-                  "id": "Ayo, tidak masalah Mari kita meletakkan 'Hotdog lagu' pertama di tahun 1970.",
-                  "tagalog": "Sige. Walang problema! Unahin natin ‘tong kanta ng Hotdog noong taong 1970."
-                }
-              ]
+              "speaker": "Brian",
+              "speakerText": {
+                "sourceLanguage": "mixed",
+                "sourceText": "Brian:",
+                "id": "Brian:"
+              },
+              "text": {
+                "sourceLanguage": "fil",
+                "sourceText": "Sige. Walang problema! Unahin natin ‘tong kanta ng Hotdog noong taong 1970.",
+                "id": "Ayo, tidak masalah Mari kita meletakkan 'Hotdog lagu' pertama di tahun 1970.",
+                "tagalog": "Sige. Walang problema! Unahin natin ‘tong kanta ng Hotdog noong taong 1970."
+              }
             },
             {
-              "cells": [
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "Nelson:",
-                  "id": "Nelson:"
-                },
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "Ano ba ‘yang “Hotdog”?",
-                  "id": "Apa 'menyenangkan ini bencana?",
-                  "tagalog": "Ano ba ‘yang “Hotdog”?"
-                }
-              ]
+              "speaker": "Nelson",
+              "speakerText": {
+                "sourceLanguage": "mixed",
+                "sourceText": "Nelson:",
+                "id": "Nelson:"
+              },
+              "text": {
+                "sourceLanguage": "fil",
+                "sourceText": "Ano ba ‘yang “Hotdog”?",
+                "id": "Apa 'menyenangkan ini bencana?",
+                "tagalog": "Ano ba ‘yang “Hotdog”?"
+              }
             },
             {
-              "cells": [
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "Brian:",
-                  "id": "Brian:"
-                },
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "Basta, maganda ‘to. Sikat na sikat sila noong mga taong 1970 sa Pilipinas. Magugustuhan mo ‘tong “Pers Lab.”",
-                  "id": "Hanya, indah 'di sini,' mereka terkenal di 1970 's di Filipina, dan Anda ingin' top cePers Lab.",
-                  "tagalog": "Basta, maganda ‘to. Sikat na sikat sila noong mga taong 1970 sa Pilipinas. Magugustuhan mo ‘tong “Pers Lab.”"
-                }
-              ]
+              "speaker": "Brian",
+              "speakerText": {
+                "sourceLanguage": "mixed",
+                "sourceText": "Brian:",
+                "id": "Brian:"
+              },
+              "text": {
+                "sourceLanguage": "fil",
+                "sourceText": "Basta, maganda ‘to. Sikat na sikat sila noong mga taong 1970 sa Pilipinas. Magugustuhan mo ‘tong “Pers Lab.”",
+                "id": "Hanya, indah 'di sini,' mereka terkenal di 1970 's di Filipina, dan Anda ingin' top cePers Lab.",
+                "tagalog": "Basta, maganda ‘to. Sikat na sikat sila noong mga taong 1970 sa Pilipinas. Magugustuhan mo ‘tong “Pers Lab.”"
+              }
             }
           ]
         },
@@ -2182,19 +1874,21 @@
             "id": "Nelson akan bertemu mereka dan mencoba untuk mengikuti Brian.",
             "tagalog": "Kakanta sila at susubukan ni Nelson na sumunod kay Brian."
           }
-        },
+        }
+      ],
+      "id": "lesson-24-03-dialogue-turuan-mo-naman-akong-kumanta-do-teach-"
+    },
+    {
+      "type": "EXERCISES",
+      "title": {
+        "sourceLanguage": "mixed",
+        "sourceText": "Dialogue Comprehension",
+        "id": "Pemahaman Dialog"
+      },
+      "blocks": [
         {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "mixed",
-            "sourceText": "Dialogue Comprehension",
-            "id": "Pemahaman Dialog"
-          }
-        },
-        {
-          "type": "text",
-          "style": "body",
+          "type": "exercise",
+          "role": "question",
           "text": {
             "sourceLanguage": "fil",
             "sourceText": "1. Pagkadating ni Nelson, ano ang ginagawa ni Brian?",
@@ -2203,17 +1897,8 @@
           }
         },
         {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "mixed",
-            "sourceText": "____________________________________________________",
-            "id": "____________________________________________________"
-          }
-        },
-        {
-          "type": "text",
-          "style": "body",
+          "type": "exercise",
+          "role": "question",
           "text": {
             "sourceLanguage": "fil",
             "sourceText": "2. Ano ang kinakanta ni Brian kapag nag-aaral siya?",
@@ -2222,17 +1907,8 @@
           }
         },
         {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "mixed",
-            "sourceText": "____________________________________________________",
-            "id": "____________________________________________________"
-          }
-        },
-        {
-          "type": "text",
-          "style": "body",
+          "type": "exercise",
+          "role": "question",
           "text": {
             "sourceLanguage": "fil",
             "sourceText": "3. Ano naman ang ginagawa ni Nelson kung nagmamaneho siya?",
@@ -2241,17 +1917,8 @@
           }
         },
         {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "mixed",
-            "sourceText": "____________________________________________________",
-            "id": "____________________________________________________"
-          }
-        },
-        {
-          "type": "text",
-          "style": "body",
+          "type": "exercise",
+          "role": "question",
           "text": {
             "sourceLanguage": "fil",
             "sourceText": "4. Anu-anong klase ng sayaw ang kaya ni Nelson na sayawin?",
@@ -2260,17 +1927,8 @@
           }
         },
         {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "mixed",
-            "sourceText": "____________________________________________________",
-            "id": "____________________________________________________"
-          }
-        },
-        {
-          "type": "text",
-          "style": "body",
+          "type": "exercise",
+          "role": "question",
           "text": {
             "sourceLanguage": "fil",
             "sourceText": "5. Ano ang kasunduan nilang dalawa?",
@@ -2279,17 +1937,8 @@
           }
         },
         {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "mixed",
-            "sourceText": "____________________________________________________",
-            "id": "____________________________________________________"
-          }
-        },
-        {
-          "type": "text",
-          "style": "body",
+          "type": "exercise",
+          "role": "question",
           "text": {
             "sourceLanguage": "fil",
             "sourceText": "6. Ano’ng inilalarawan sa kantang “Pers Lab”?",
@@ -2298,26 +1947,8 @@
           }
         },
         {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "mixed",
-            "sourceText": "____________________________________________________",
-            "id": "____________________________________________________"
-          }
-        },
-        {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "mixed",
-            "sourceText": "____________________________________________________",
-            "id": "____________________________________________________"
-          }
-        },
-        {
-          "type": "text",
-          "style": "body",
+          "type": "exercise",
+          "role": "question",
           "text": {
             "sourceLanguage": "fil",
             "sourceText": "7. Saan ikinukumpara ang isang taong umiibig?",
@@ -2326,17 +1957,8 @@
           }
         },
         {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "mixed",
-            "sourceText": "____________________________________________________",
-            "id": "____________________________________________________"
-          }
-        },
-        {
-          "type": "text",
-          "style": "body",
+          "type": "exercise",
+          "role": "question",
           "text": {
             "sourceLanguage": "fil",
             "sourceText": "8. Ano pa ang ibang mga nangyayari sa isang nagmamahal?",
@@ -2345,35 +1967,8 @@
           }
         },
         {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "mixed",
-            "sourceText": "____________________________________________________",
-            "id": "____________________________________________________"
-          }
-        },
-        {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "mixed",
-            "sourceText": "____________________________________________________",
-            "id": "____________________________________________________"
-          }
-        },
-        {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "mixed",
-            "sourceText": "____________________________________________________",
-            "id": "____________________________________________________"
-          }
-        },
-        {
-          "type": "text",
-          "style": "body",
+          "type": "exercise",
+          "role": "question",
           "text": {
             "sourceLanguage": "fil",
             "sourceText": "9. Ano ang ibig sabihin ng “Puso ko’y dumudungaw”?",
@@ -2382,92 +1977,29 @@
           }
         },
         {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "mixed",
-            "sourceText": "____________________________________________________",
-            "id": "____________________________________________________"
-          }
-        },
-        {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "mixed",
-            "sourceText": "____________________________________________________",
-            "id": "____________________________________________________"
-          }
-        },
-        {
-          "type": "text",
-          "style": "body",
+          "type": "exercise",
+          "role": "question",
           "text": {
             "sourceLanguage": "fil",
             "sourceText": "10. Nasabi ba ang pag-ibig sa minamahal niya sa kantang ito? Ipaliwanag.",
             "id": "10. / Apa katanya dia suka lagu ini?",
             "tagalog": "10. Nasabi ba ang pag-ibig sa minamahal niya sa kantang ito? Ipaliwanag."
           }
-        },
-        {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "mixed",
-            "sourceText": "____________________________________________________",
-            "id": "____________________________________________________"
-          }
-        },
-        {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "mixed",
-            "sourceText": "____________________________________________________",
-            "id": "____________________________________________________"
-          }
-        },
-        {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "mixed",
-            "sourceText": "____________________________________________________",
-            "id": "____________________________________________________"
-          }
         }
-      ]
+      ],
+      "id": "lesson-24-04-dialogue-comprehension"
     },
     {
-      "id": "lesson-24-activities",
-      "type": "ACTIVITY",
+      "type": "EXERCISES",
       "title": {
         "sourceLanguage": "mixed",
-        "sourceText": "Activities",
-        "id": "Aktivitas"
+        "sourceText": "Activity 1",
+        "id": "Aktivitas 1"
       },
       "blocks": [
         {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "mixed",
-            "sourceText": "Activities",
-            "id": "Aktivitas"
-          }
-        },
-        {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "mixed",
-            "sourceText": "Activity 1",
-            "id": "Aktivitas 1"
-          }
-        },
-        {
-          "type": "text",
-          "style": "body",
+          "type": "exercise",
+          "role": "content",
           "text": {
             "sourceLanguage": "en",
             "sourceText": "Find a classmate who likes each of the genres of music indicated in the table below and have them explain why. Record your findings below.",
@@ -2475,8 +2007,8 @@
           }
         },
         {
-          "type": "text",
-          "style": "body",
+          "type": "exercise",
+          "role": "content",
           "text": {
             "sourceLanguage": "mixed",
             "sourceText": "EXAMPLE:",
@@ -2484,8 +2016,8 @@
           }
         },
         {
-          "type": "text",
-          "style": "body",
+          "type": "exercise",
+          "role": "question",
           "text": {
             "sourceLanguage": "fil",
             "sourceText": "Student 1: Ano’ng klase ng musika ang gusto mong pakinggan at bakit?",
@@ -2494,8 +2026,8 @@
           }
         },
         {
-          "type": "text",
-          "style": "body",
+          "type": "exercise",
+          "role": "content",
           "text": {
             "sourceLanguage": "fil",
             "sourceText": "Student 2: Gusto kong makinig sa OPM kasi nakakarelaks ang tugtog na ito.",
@@ -2504,7 +2036,8 @@
           }
         },
         {
-          "type": "table",
+          "type": "exercise",
+          "role": "worksheet",
           "rows": [
             {
               "cells": [
@@ -2634,19 +2167,21 @@
               ]
             }
           ]
-        },
+        }
+      ],
+      "id": "lesson-24-05-activity-1"
+    },
+    {
+      "type": "EXERCISES",
+      "title": {
+        "sourceLanguage": "mixed",
+        "sourceText": "Activity 2",
+        "id": "Aktivitas 2"
+      },
+      "blocks": [
         {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "mixed",
-            "sourceText": "Activity 2",
-            "id": "Aktivitas 2"
-          }
-        },
-        {
-          "type": "text",
-          "style": "body",
+          "type": "exercise",
+          "role": "instruction",
           "text": {
             "sourceLanguage": "en",
             "sourceText": "Name your favorite singer and dancer in the spaces provided below and explain why they are your favorites.",
@@ -2654,8 +2189,8 @@
           }
         },
         {
-          "type": "text",
-          "style": "body",
+          "type": "exercise",
+          "role": "content",
           "text": {
             "sourceLanguage": "mixed",
             "sourceText": "EXAMPLE:",
@@ -2663,8 +2198,8 @@
           }
         },
         {
-          "type": "text",
-          "style": "body",
+          "type": "exercise",
+          "role": "content",
           "text": {
             "sourceLanguage": "fil",
             "sourceText": "Si Freddie Aguilar ang paborito kong manganganta kasi gusto ko ang tema ng mga kanta niya. Iba-iba ang paksa ng kanta niya at kadalasan medyo politikal ang tema ng kaniyang mga kanta.",
@@ -2673,7 +2208,8 @@
           }
         },
         {
-          "type": "table",
+          "type": "exercise",
+          "role": "worksheet",
           "rows": [
             {
               "cells": [
@@ -2734,19 +2270,21 @@
               ]
             }
           ]
-        },
+        }
+      ],
+      "id": "lesson-24-06-activity-2"
+    },
+    {
+      "type": "EXERCISES",
+      "title": {
+        "sourceLanguage": "mixed",
+        "sourceText": "Activity 3",
+        "id": "Aktivitas 3"
+      },
+      "blocks": [
         {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "mixed",
-            "sourceText": "Activity 3",
-            "id": "Aktivitas 3"
-          }
-        },
-        {
-          "type": "text",
-          "style": "body",
+          "type": "exercise",
+          "role": "instruction",
           "text": {
             "sourceLanguage": "en",
             "sourceText": "Read one of the five biographies of famous Filipinos around the world. After you finish reading, assume the identity of the person you read about and pretend that you are at a cocktail party. Introduce yourself to four other people in the party.",
@@ -2754,8 +2292,8 @@
           }
         },
         {
-          "type": "text",
-          "style": "body",
+          "type": "exercise",
+          "role": "content",
           "text": {
             "sourceLanguage": "fil",
             "sourceText": "Si Emmanuel Dapidran Pacquiao o kilala sa tawag na Manny Pacquiao ay isang Filipino na boksingero, artista, manganganta, at politiko. Ipinanganak siya noong a-disisiyete ng Disyembre taong 1978. Sa edad na labing-anim, nagsimula na si Manny ng boksing sa propesyonal na antas at sa kasalukuyan, nanalo na siya ng anim na world title sa kompetisyon ng 112, 122, 130, 135, 147, at 154 na libra. Sa tuwing maglalaro si Manny, nakatutok ang buong Pilipinas para magbigay ng suporta sa kaniya.",
@@ -2764,8 +2302,8 @@
           }
         },
         {
-          "type": "text",
-          "style": "body",
+          "type": "exercise",
+          "role": "content",
           "text": {
             "sourceLanguage": "fil",
             "sourceText": "Si Maria Geraldine Jamora, o kilala sa pangalang Jinkee, ang asawa ni Manny at sila ay may apat na anak at kasalukuyang nakatira sila ngayon sa Sarangani.",
@@ -2774,8 +2312,8 @@
           }
         },
         {
-          "type": "text",
-          "style": "body",
+          "type": "exercise",
+          "role": "content",
           "text": {
             "sourceLanguage": "fil",
             "sourceText": "Si Peter Hernandez o kilala sa tawag na Bruno Mars ay isang manganganta at musikero na nagmula sa Waikiki, Hawai‘i. Ipinanganak siya noong a-otso ng Oktubre taong 1985. Sina Pete at Bernadette Hernandez ang mga magulang ni Peter. Taga-Puerto Rico ang tatay niya, samantalang taga-Pilipinas naman ang nanay niya. Naging popular si Bruno sa kanta niyang “Nothing on You” at “Billionaire”. Bata pa lang si Bruno ay nagpakita na siya ng hilig sa pagkanta. Noong apat na taong gulang siya ay pinangalanan na siyang “Little Elvis” ng ilang mga manunulat sa diyaryo. Noong labimpito siya ay lumipat na siya sa Los Angeles para pumirma ng kontrata sa Motown Records noong 2005. Ang pangalang Bruno ay mula sa kaniyang paboritong wrestler na si Bruno Sammartino.",
@@ -2784,8 +2322,8 @@
           }
         },
         {
-          "type": "text",
-          "style": "body",
+          "type": "exercise",
+          "role": "content",
           "text": {
             "sourceLanguage": "fil",
             "sourceText": "Si Lea Salonga ay isang Filipino na manganganta at artista. Ipinanganak siya noong a-bente dos ng Pebrero taong 1971. Naging kilala siya sa kaniyang pagganap bilang Kim sa musical na pinamagatang Miss Saigon. Sa musical na ito, nanalo siya ng mga award mula sa Olivier, Tony, Drama Desk, Outer Critics, at Theatre World. Si Lea rin ang kauna-unahang Ayano na gumanap bilang Eponine at Fantine sa musical na “Les Miserables” sa Broadway. Bukod pa rito, kumanta rin siya sa mga sine ng Disney tulad ng “Aladdin” noong 1992 at “Mulan” noong 1998 at 2004.",
@@ -2794,8 +2332,8 @@
           }
         },
         {
-          "type": "text",
-          "style": "body",
+          "type": "exercise",
+          "role": "content",
           "text": {
             "sourceLanguage": "fil",
             "sourceText": "Si Charmaine Clarice Pempengco o kilala sa pangalang Charice ay isang mangangangta at artistang Pilipino. Ipinanganak siya noong a-diyes ng Mayo taong 1992. Nakilala si Charice sa Youtube at pinangalanan siya ni Oprah Winfrey na “The Most Talented Girl in the World”. Lumabas ang kaniyang unang album noong 2010 at naging pangwalo ito sa Billboard 200. Si Charice ang kauna-unahang Asyanong manganganta na nakasama sa top 10 ng Billboards 200 album chart.",
@@ -2804,8 +2342,8 @@
           }
         },
         {
-          "type": "text",
-          "style": "body",
+          "type": "exercise",
+          "role": "content",
           "text": {
             "sourceLanguage": "fil",
             "sourceText": "Ngayon mayroon siyang dalawang sikat na kanta na naging top 40 sa mga ilang bansa. Ang mga kantang ito ay ang “Pyramid” at “Before it Explodes” na isinulat ni Bruno Mars. Bukod sa pagkanta, pinasok din ni Charice ang pag-arte sa Hollywood. Noong 2010, sumali siya sa programa sa telebisyon na pinamagatang “Glee”. Dito sa palabas na ito, nakilala siyang si Sunshine Corazon, isang exchange student mula sa Pilipinas.",
@@ -2814,8 +2352,8 @@
           }
         },
         {
-          "type": "text",
-          "style": "body",
+          "type": "exercise",
+          "role": "content",
           "text": {
             "sourceLanguage": "fil",
             "sourceText": "Si Allan Pineda Lindo o kilala sa tawag na api.de.ap ay isang manganganta sa bandang Black-Eyed Peas. Ipinanganak siya noong a-bente otso ng Nobyembre taong 1974 sa Pampanga, Pilipinas. Pilipina ang kaniyang nanay at Aprikano-Amerikano naman ang kaniyang tatay. Sa kasamaang-palad, hindi niya nakilala ang tatay niya. Ang nanay lang niya ang nagpalaki sa kaniya at noong labing-apat siya, inampon siya ng isang Amerikanong pamilya at dinala siya ng mga ito sa Los Angeles. Dito sa Los Angeles, nakilala niya si William Adams o kilala sa tawag na will.i.am. Dito nagsimula ang pagkakaibigan nila na human-tong sa pagbuo ng bandang “The Black-Eyed Peas.”",
@@ -2823,35 +2361,17 @@
             "tagalog": "Si Allan Pineda Lindo o kilala sa tawag na api.de.ap ay isang manganganta sa bandang Black-Eyed Peas. Ipinanganak siya noong a-bente otso ng Nobyembre taong 1974 sa Pampanga, Pilipinas. Pilipina ang kaniyang nanay at Aprikano-Amerikano naman ang kaniyang tatay. Sa kasamaang-palad, hindi niya nakilala ang tatay niya. Ang nanay lang niya ang nagpalaki sa kaniya at noong labing-apat siya, inampon siya ng isang Amerikanong pamilya at dinala siya ng mga ito sa Los Angeles. Dito sa Los Angeles, nakilala niya si William Adams o kilala sa tawag na will.i.am. Dito nagsimula ang pagkakaibigan nila na human-tong sa pagbuo ng bandang “The Black-Eyed Peas.”"
           }
         }
-      ]
+      ],
+      "id": "lesson-24-07-activity-3"
     },
     {
-      "id": "lesson-24-grammar",
-      "type": "GRAMMAR",
+      "type": "LEARNING_MATERIAL",
       "title": {
         "sourceLanguage": "mixed",
-        "sourceText": "Grammar",
-        "id": "Tata Bahasa"
+        "sourceText": "Definition of Terms",
+        "id": "Definisi Istilah"
       },
       "blocks": [
-        {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "mixed",
-            "sourceText": "Grammar",
-            "id": "Tata Bahasa"
-          }
-        },
-        {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "mixed",
-            "sourceText": "Definition of Terms",
-            "id": "Definisi Istilah"
-          }
-        },
         {
           "type": "table",
           "rows": [
@@ -2869,17 +2389,20 @@
                 }
               ]
             }
-          ]
-        },
-        {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "mixed",
-            "sourceText": "Examining Form",
-            "id": "Mengkaji Bentuk"
-          }
-        },
+          ],
+          "role": "reference"
+        }
+      ],
+      "id": "lesson-24-08-definition-of-terms"
+    },
+    {
+      "type": "LEARNING_MATERIAL",
+      "title": {
+        "sourceLanguage": "mixed",
+        "sourceText": "Examining Form",
+        "id": "Menganalisis Bentuk"
+      },
+      "blocks": [
         {
           "type": "text",
           "style": "body",
@@ -2922,7 +2445,8 @@
                 }
               ]
             }
-          ]
+          ],
+          "role": "reference"
         },
         {
           "type": "text",
@@ -2950,16 +2474,18 @@
             "sourceText": "3. When do you think we use maka-, and when do we use makapag- as a prefix?",
             "id": "Kapan kau pikir kita menggunakan maka-, dan kapan kita menggunakan make- sebagai prefix?"
           }
-        },
-        {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "en",
-            "sourceText": "I. Maka- and Makapag- Verbs (Abilitative Verbs)",
-            "id": "I. Maka-dan Makapag- Verbs (Abilitatif Verbs)"
-          }
-        },
+        }
+      ],
+      "id": "lesson-24-09-examining-form"
+    },
+    {
+      "type": "LEARNING_MATERIAL",
+      "title": {
+        "sourceLanguage": "en",
+        "sourceText": "I. Maka- and Makapag- Verbs (Abilitative Verbs)",
+        "id": "I. Maka-dan Makapag- Verbs (Abilitatif Verbs)"
+      },
+      "blocks": [
         {
           "type": "text",
           "style": "body",
@@ -3036,7 +2562,8 @@
                 }
               ]
             }
-          ]
+          ],
+          "role": "reference"
         },
         {
           "type": "text",
@@ -3114,7 +2641,8 @@
                 }
               ]
             }
-          ]
+          ],
+          "role": "reference"
         },
         {
           "type": "text",
@@ -3218,7 +2746,8 @@
                 {
                   "sourceLanguage": "en",
                   "sourceText": "From the infinitive, change m to n.",
-                  "id": "Dari infinitive, ubah m ke n."
+                  "id": "Dari infinitive, ubah m ke n.",
+                  "tagalog": "From the infinitive, change m to n ."
                 }
               ]
             },
@@ -3245,7 +2774,8 @@
                 {
                   "sourceLanguage": "en",
                   "sourceText": "Take the first two syllables of the completed, reduplicate “ka,” plus the root word",
-                  "id": "Ambil dua suku kata pertama dari kata selesai, duplikasi ulang \"ka\", ditambah kata akar"
+                  "id": "Ambil dua suku kata pertama dari kata selesai, duplikasi ulang \"ka\", ditambah kata akar",
+                  "tagalog": "Take the first two syllables of the completed, reduplicate “ ka ,” plus the root word"
                 }
               ]
             },
@@ -3272,21 +2802,25 @@
                 {
                   "sourceLanguage": "en",
                   "sourceText": "From the incompleted, change n to m.",
-                  "id": "Dari yang belum selesai, perubahan n ke m."
+                  "id": "Dari yang belum selesai, perubahan n ke m.",
+                  "tagalog": "From the incompleted, change n to m ."
                 }
               ]
             }
-          ]
-        },
-        {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "mixed",
-            "sourceText": "Grammar Presentation",
-            "id": "Penyajian Tata Bahasa"
-          }
-        },
+          ],
+          "role": "reference"
+        }
+      ],
+      "id": "lesson-24-10-i-maka-and-makapag-verbs-abilitative-verbs"
+    },
+    {
+      "type": "LEARNING_MATERIAL",
+      "title": {
+        "sourceLanguage": "mixed",
+        "sourceText": "Grammar Presentation",
+        "id": "Penyajian Tata Bahasa"
+      },
+      "blocks": [
         {
           "type": "text",
           "style": "body",
@@ -3295,36 +2829,51 @@
             "sourceText": "Abilitative verbs can only be made from words showing action, not emotion or feeling. There are no imperative forms with this class of verbs.",
             "id": "Kata sifat hanya dapat dibuat dari kata-kata yang menunjukkan aksi, bukan emosi atau perasaan. tidak ada bentuk-bentuk penting dalam kelas kata kerja ini."
           }
+        }
+      ],
+      "id": "lesson-24-11-grammar-presentation"
+    },
+    {
+      "type": "EXAMPLES",
+      "title": {
+        "sourceLanguage": "mixed",
+        "sourceText": "EXAMPLES:",
+        "id": "Contoh"
+      },
+      "blocks": [
+        {
+          "type": "example",
+          "items": [
+            {
+              "sourceLanguage": "fil",
+              "sourceText": "*Makapunta ka sa Italya. (incorrect)",
+              "id": "Kau bisa pergi ke Italia.",
+              "tagalog": "*Makapunta ka sa Italya. (incorrect)"
+            }
+          ]
         },
         {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "mixed",
-            "sourceText": "EXAMPLES:",
-            "id": "EXAMPLES:"
-          }
-        },
-        {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "fil",
-            "sourceText": "*Makapunta ka sa Italya. (incorrect)",
-            "id": "Kau bisa pergi ke Italia.",
-            "tagalog": "*Makapunta ka sa Italya. (incorrect)"
-          }
-        },
-        {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "fil",
-            "sourceText": "*Makatuwa ka. (incorrect)",
-            "id": "Kau bisa bahagia.",
-            "tagalog": "*Makatuwa ka. (incorrect)"
-          }
-        },
+          "type": "example",
+          "items": [
+            {
+              "sourceLanguage": "fil",
+              "sourceText": "*Makatuwa ka. (incorrect)",
+              "id": "Kau bisa bahagia.",
+              "tagalog": "*Makatuwa ka. (incorrect)"
+            }
+          ]
+        }
+      ],
+      "id": "lesson-24-12-examples"
+    },
+    {
+      "type": "LEARNING_MATERIAL",
+      "title": {
+        "sourceLanguage": "mixed",
+        "sourceText": "Grammar Presentation",
+        "id": "Penyajian Tata Bahasa"
+      },
+      "blocks": [
         {
           "type": "text",
           "style": "body",
@@ -3515,55 +3064,75 @@
                 }
               ]
             }
+          ],
+          "role": "reference"
+        }
+      ],
+      "id": "lesson-24-13-grammar-presentation-2"
+    },
+    {
+      "type": "EXAMPLES",
+      "title": {
+        "sourceLanguage": "mixed",
+        "sourceText": "EXAMPLES:",
+        "id": "Contoh"
+      },
+      "blocks": [
+        {
+          "type": "example",
+          "items": [
+            {
+              "sourceLanguage": "fil",
+              "sourceText": "Nakabili ng damit si Edison sa SM noong isang linggo. Edison was able to buy clothes at Shoe Mart last week.",
+              "id": "Edison membeli pakaian di SM selama seminggu Edison bebas untuk menjadi pakaian yang baik dan Shoe Mart pelayan terakhir.",
+              "tagalog": "Nakabili ng damit si Edison sa SM noong isang linggo. Edison was able to buy clothes at Shoe Mart last week."
+            }
           ]
         },
         {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "mixed",
-            "sourceText": "EXAMPLES:",
-            "id": "EXAMPLES:"
-          }
+          "type": "example",
+          "items": [
+            {
+              "sourceLanguage": "fil",
+              "sourceText": "Makakaalis ba siya sa Lunes? Can he leave on Monday?",
+              "id": "Bisakah dia pergi hari Senin?",
+              "tagalog": "Makakaalis ba siya sa Lunes? Can he leave on Monday?"
+            }
+          ]
         },
         {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "fil",
-            "sourceText": "Nakabili ng damit si Edison sa SM noong isang linggo. Edison was able to buy clothes at Shoe Mart last week.",
-            "id": "Edison membeli pakaian di SM selama seminggu Edison bebas untuk menjadi pakaian yang baik dan Shoe Mart pelayan terakhir.",
-            "tagalog": "Nakabili ng damit si Edison sa SM noong isang linggo. Edison was able to buy clothes at Shoe Mart last week."
-          }
+          "type": "example",
+          "items": [
+            {
+              "sourceLanguage": "en",
+              "sourceText": "Nakakapunta ba sina Susana at Greg sa simbahan tuwing Linggo? Are Susana and Greg able to go to church every Sunday?",
+              "id": "Apakah Susana dan Greg bisa pergi ke gereja setiap hari Minggu?",
+              "tagalog": "Nakakapunta ba sina Susana at Greg sa simbahan tuwing Linggo?"
+            }
+          ]
         },
         {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "fil",
-            "sourceText": "Makakaalis ba siya sa Lunes? Can he leave on Monday?",
-            "id": "Bisakah dia pergi hari Senin?",
-            "tagalog": "Makakaalis ba siya sa Lunes? Can he leave on Monday?"
-          }
-        },
-        {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "en",
-            "sourceText": "Nakakapunta ba sina Susana at Greg sa simbahan tuwing Linggo? Are Susana and Greg able to go to church every Sunday?",
-            "id": "Apakah Susana dan Greg bisa pergi ke gereja setiap hari Minggu?"
-          }
-        },
-        {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "en",
-            "sourceText": "Hindi makakakanta si Maria ngayong gabi. Maria will not be able to sing tonight.",
-            "id": "Hindi makakanta si Maria Ngayong gabi Maria tidak akan bisa menyanyi malam ini."
-          }
-        },
+          "type": "example",
+          "items": [
+            {
+              "sourceLanguage": "en",
+              "sourceText": "Hindi makakakanta si Maria ngayong gabi. Maria will not be able to sing tonight.",
+              "id": "Hindi makakanta si Maria Ngayong gabi Maria tidak akan bisa menyanyi malam ini.",
+              "tagalog": "Hindi makakakanta si Maria ngayong gabi."
+            }
+          ]
+        }
+      ],
+      "id": "lesson-24-14-examples-2"
+    },
+    {
+      "type": "LEARNING_MATERIAL",
+      "title": {
+        "sourceLanguage": "mixed",
+        "sourceText": "Grammar Presentation",
+        "id": "Penyajian Tata Bahasa"
+      },
+      "blocks": [
         {
           "type": "text",
           "style": "body",
@@ -3748,87 +3317,78 @@
                 }
               ]
             }
-          ]
-        },
-        {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "mixed",
-            "sourceText": "EXAMPLES:",
-            "id": "EXAMPLES:"
-          }
-        },
-        {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "mixed",
-            "sourceText": "Makakapagbiyahe ako sa Italya sa susunod na taon. I will be able to travel to Italy next year.",
-            "id": "Makkapagbiyahe ako sa Italya sa susunod na taon.",
-            "tagalog": "Makakapagbiyahe ako sa Italya sa susunod na taon."
-          }
-        },
-        {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "en",
-            "sourceText": "Nakapaglinis siya ng bahay kagabi. She/He was able to clean the house last night.",
-            "id": "Nakapaglinis siya ng bahay kagabi. / Dia bisa membersihkan rumah tadi malam."
-          }
-        },
-        {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "fil",
-            "sourceText": "Nakakapagtrabaho pa ba siya? Can she/he still work?",
-            "id": "Apa dia dapat pekerjaan?",
-            "tagalog": "Nakakapagtrabaho pa ba siya? Can she/he still work?"
-          }
-        },
-        {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "en",
-            "sourceText": "Hindi ako makakapagluto ng pagkain mamaya. I will not be able to make (cook) food later.",
-            "id": "aku tidak akan bisa memasak nanti."
-          }
+          ],
+          "role": "reference"
         }
-      ]
+      ],
+      "id": "lesson-24-15-grammar-presentation-3"
     },
     {
-      "id": "lesson-24-practice",
-      "type": "PRACTICE",
+      "type": "EXAMPLES",
       "title": {
         "sourceLanguage": "mixed",
-        "sourceText": "Practice",
-        "id": "Latihan"
+        "sourceText": "EXAMPLES:",
+        "id": "Contoh"
       },
       "blocks": [
         {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "mixed",
-            "sourceText": "Practice",
-            "id": "Latihan"
-          }
+          "type": "example",
+          "items": [
+            {
+              "sourceLanguage": "mixed",
+              "sourceText": "Makakapagbiyahe ako sa Italya sa susunod na taon. I will be able to travel to Italy next year.",
+              "id": "Makkapagbiyahe ako sa Italya sa susunod na taon.",
+              "tagalog": "Makakapagbiyahe ako sa Italya sa susunod na taon."
+            }
+          ]
         },
         {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "en",
-            "sourceText": "I. Speaking Practice",
-            "id": "I. Latihan Berbicara"
-          }
+          "type": "example",
+          "items": [
+            {
+              "sourceLanguage": "en",
+              "sourceText": "Nakapaglinis siya ng bahay kagabi. She/He was able to clean the house last night.",
+              "id": "Nakapaglinis siya ng bahay kagabi. / Dia bisa membersihkan rumah tadi malam.",
+              "tagalog": "Nakapaglinis siya ng bahay kagabi."
+            }
+          ]
         },
         {
-          "type": "text",
-          "style": "body",
+          "type": "example",
+          "items": [
+            {
+              "sourceLanguage": "fil",
+              "sourceText": "Nakakapagtrabaho pa ba siya? Can she/he still work?",
+              "id": "Apa dia dapat pekerjaan?",
+              "tagalog": "Nakakapagtrabaho pa ba siya? Can she/he still work?"
+            }
+          ]
+        },
+        {
+          "type": "example",
+          "items": [
+            {
+              "sourceLanguage": "en",
+              "sourceText": "Hindi ako makakapagluto ng pagkain mamaya. I will not be able to make (cook) food later.",
+              "id": "aku tidak akan bisa memasak nanti.",
+              "tagalog": "Hindi ako makakapagluto ng pagkain mamaya."
+            }
+          ]
+        }
+      ],
+      "id": "lesson-24-16-examples-3"
+    },
+    {
+      "type": "EXERCISES",
+      "title": {
+        "sourceLanguage": "en",
+        "sourceText": "I. Speaking Practice",
+        "id": "I. Latihan Berbicara"
+      },
+      "blocks": [
+        {
+          "type": "exercise",
+          "role": "content",
           "text": {
             "sourceLanguage": "en",
             "sourceText": "Divide into groups of six. Your teacher will assign each group one of the dances listed below, which you must research on the Internet. Each group must write a report of two to three paragraphs in Tagalog on the dance assigned to them. The report should include the following information: name of the dance, its meaning, the ethnic group that originated it, the purpose of dance, the setting, the costume for male and female dancers, props and accessories, the basic movement, and any background information. Each group will then perform its own version of the dance and present it to the class.",
@@ -3838,19 +3398,21 @@
         {
           "type": "image",
           "path": "assets/394.jpg"
-        },
+        }
+      ],
+      "id": "lesson-24-17-i-speaking-practice"
+    },
+    {
+      "type": "EXERCISES",
+      "title": {
+        "sourceLanguage": "mixed",
+        "sourceText": "II. Reading Practice",
+        "id": "II. Latihan Membaca"
+      },
+      "blocks": [
         {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "mixed",
-            "sourceText": "II. Reading Practice",
-            "id": "II. Latihan Membaca"
-          }
-        },
-        {
-          "type": "text",
-          "style": "body",
+          "type": "exercise",
+          "role": "instruction",
           "text": {
             "sourceLanguage": "en",
             "sourceText": "Read the selection below and answer the Reading Comprehension questions.",
@@ -3862,8 +3424,8 @@
           "path": "assets/395.jpg"
         },
         {
-          "type": "text",
-          "style": "body",
+          "type": "exercise",
+          "role": "question",
           "text": {
             "sourceLanguage": "fil",
             "sourceText": "Bakit Tayo Sumasayaw?",
@@ -3872,8 +3434,8 @@
           }
         },
         {
-          "type": "text",
-          "style": "body",
+          "type": "exercise",
+          "role": "content",
           "text": {
             "sourceLanguage": "fil",
             "sourceText": "Maraming mga sayaw ang mga Pilipino. Ipinapakita nito ang dibersidad ng tradisyon sa sayaw ng mga Pilipino. Nasa isip at kaluluwa ng mga Pilipino ang kalikasan ng ating mga sayaw. Ipinakikilala ng uri ng mga sayaw kung sino tayo at sinasalamin nito ang kasaysayan, mga kaugalian at pananalig ng mga Pilipino. Sa mga sayaw na Pilipino, hinihiling ng mga sayaw ang partisipasyon ng mga tao na makiisa sa komunidad. Hindi ito katulad ng ballet na para lamang sa mga nag-aral at nagsanay, sa halip, pag-aari ito ng buong sambayanan.",
@@ -3882,8 +3444,8 @@
           }
         },
         {
-          "type": "text",
-          "style": "body",
+          "type": "exercise",
+          "role": "content",
           "text": {
             "sourceLanguage": "fil",
             "sourceText": "Bawat sayaw ay may layunin, partikular na konteksto at karanasan ng sambayanan. Pwedeng pagdiriwang, panunuyo, debosyon, sayaw bago sumalakay o sayaw na pandigma mula sa kabundukan ng Cordillera; pang-alay mula sa Mindanao na ginagaya ang kilos ng isda at ng alon ng tubig sa dagat; o sayaw sa lupa tulad ng kumintang, pandanggo sa ilaw, at subli. Makikita rin sa mga sayaw ang mga elementong katutubo at mga impluwensiyang banyaga tulad ng Indian, Tsino, Indo-Tsino, Indonesyo, Malayo, Espanyol, at Amerikano. Ang mga impluwensiyang ito ay makikita sa anyo, layunin, musika, at galaw ng sayaw.",
@@ -3892,27 +3454,29 @@
           }
         },
         {
-          "type": "text",
-          "style": "body",
+          "type": "exercise",
+          "role": "content",
           "text": {
             "sourceLanguage": "fil",
             "sourceText": "Sa kasalukuyan, tinitingnan ang sayaw bilang libangan, “palabas” na pagkakaaliwan, ehersisyo, at pagpapakita ng galing at husay sa pagkilos. Ginagamit din ito sa diplomasya dahil unibersal ang wika ng galaw at indak at hindi kailangan ang wika upang magkaintindihan at makapagbigay ng mabuting pakikipag-ugnayan. Sa mga lugar na pinaglipatan ng mga Pilipino, tumutulong ang sayaw sa pagbubuo ng komunidad at ng pagkatao o Pilipinong identidad. Ang sayaw din ang isang paraan ng pagpapakita ng kung sino ang mga Pilipino—isang paraan at proseso ng balidasyon o apirmasyon ng komunidad, sa Hapon, Amerika, Europa o saan mang lupalop ng mundo na may mga Pilipino na sumasayaw ng sayaw na Pilipino. At sa tuwing sumasayaw sila, binubuhay nila ang kanilang lupang pinanggalingan, ang Pilipinas, ang kanilang kasaysayan, tradisyon, at pananalig sa bawat indak at kumpas.",
             "id": "Saat ini, tarian dipandang sebagai hiburan, hiburan, olahraga, dan efisiensi, juga digunakan dalam diplomasi karena bahasanya universal dan bahasa tidak diperlukan untuk memahami dan berkomunikasi dengan baik. Di tempat-tempat di mana Filipinos telah pindah, tari membantu membentuk komunitas dan karakter atau identitas Filipina. Tarian ini juga merupakan sarana untuk menunjukkan siapa cara Filipina dan proses balidasi komunitas atau tanda tangan, di Jepang, Amerika, Eropa atau daerah di mana Filipinos menari. Dan setiap kali mereka menari, mereka menghidupkan kembali tanah asal mereka, Filipina, sejarah mereka, tradisi, dan keyakinan dalam setiap sentuhan dan mengalahkan.",
             "tagalog": "Sa kasalukuyan, tinitingnan ang sayaw bilang libangan, “palabas” na pagkakaaliwan, ehersisyo, at pagpapakita ng galing at husay sa pagkilos. Ginagamit din ito sa diplomasya dahil unibersal ang wika ng galaw at indak at hindi kailangan ang wika upang magkaintindihan at makapagbigay ng mabuting pakikipag-ugnayan. Sa mga lugar na pinaglipatan ng mga Pilipino, tumutulong ang sayaw sa pagbubuo ng komunidad at ng pagkatao o Pilipinong identidad. Ang sayaw din ang isang paraan ng pagpapakita ng kung sino ang mga Pilipino—isang paraan at proseso ng balidasyon o apirmasyon ng komunidad, sa Hapon, Amerika, Europa o saan mang lupalop ng mundo na may mga Pilipino na sumasayaw ng sayaw na Pilipino. At sa tuwing sumasayaw sila, binubuhay nila ang kanilang lupang pinanggalingan, ang Pilipinas, ang kanilang kasaysayan, tradisyon, at pananalig sa bawat indak at kumpas."
           }
-        },
+        }
+      ],
+      "id": "lesson-24-18-ii-reading-practice"
+    },
+    {
+      "type": "EXERCISES",
+      "title": {
+        "sourceLanguage": "mixed",
+        "sourceText": "Reading Comprehension",
+        "id": "Pemahaman Bacaan"
+      },
+      "blocks": [
         {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "mixed",
-            "sourceText": "Reading Comprehension",
-            "id": "Pemahaman Bacaan"
-          }
-        },
-        {
-          "type": "text",
-          "style": "body",
+          "type": "exercise",
+          "role": "content",
           "text": {
             "sourceLanguage": "en",
             "sourceText": "Note in English in the first column the information that you gleaned from each paragraph. Next, work with a partner and ask your partner what he or she understood from each paragraph. Write down your partner’s answers in the second column. Lastly, in the third column, work with your partner to come up with a single summary based on the information in the first two boxes.",
@@ -3920,7 +3484,8 @@
           }
         },
         {
-          "type": "table",
+          "type": "exercise",
+          "role": "worksheet",
           "rows": [
             {
               "cells": [
@@ -3956,7 +3521,8 @@
           ]
         },
         {
-          "type": "table",
+          "type": "exercise",
+          "role": "worksheet",
           "rows": [
             {
               "cells": [
@@ -3992,7 +3558,8 @@
           ]
         },
         {
-          "type": "table",
+          "type": "exercise",
+          "role": "worksheet",
           "rows": [
             {
               "cells": [
@@ -4026,19 +3593,21 @@
               ]
             }
           ]
-        },
+        }
+      ],
+      "id": "lesson-24-19-reading-comprehension"
+    },
+    {
+      "type": "EXERCISES",
+      "title": {
+        "sourceLanguage": "mixed",
+        "sourceText": "III. Writing Practice",
+        "id": "III. Latihan Menulis"
+      },
+      "blocks": [
         {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "mixed",
-            "sourceText": "III. Writing Practice",
-            "id": "III. Latihan Menulis"
-          }
-        },
-        {
-          "type": "text",
-          "style": "body",
+          "type": "exercise",
+          "role": "content",
           "text": {
             "sourceLanguage": "en",
             "sourceText": "This activity can be done individually or in groups depending on class size. On a separate sheet of paper, pick a popular song and write your own lyrics to it, then sing the song to the class, substituting your own lyrics.",
@@ -4046,8 +3615,8 @@
           }
         },
         {
-          "type": "text",
-          "style": "body",
+          "type": "exercise",
+          "role": "content",
           "text": {
             "sourceLanguage": "en",
             "sourceText": "To Download the audio files, please click here.",
@@ -4057,26 +3626,56 @@
         {
           "type": "image",
           "path": "assets/cd.jpg"
-        },
+        }
+      ],
+      "id": "lesson-24-20-iii-writing-practice"
+    },
+    {
+      "type": "EXERCISES",
+      "title": {
+        "sourceLanguage": "mixed",
+        "sourceText": "IV. Listening Practice",
+        "id": "IV. Latihan Menyimak"
+      },
+      "blocks": [
         {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "mixed",
-            "sourceText": "IV. Listening Practice",
-            "id": "IV. Latihan Menyimak"
-          }
-        },
-        {
-          "type": "text",
-          "style": "body",
+          "type": "exercise",
+          "role": "content",
           "text": {
             "sourceLanguage": "en",
             "sourceText": "Your teacher will play you a song that he or she likes and that suits the level of proficiency and interest of the class. Listen to the song with your eyes closed and feel the emotion that it conveys through its lyrics and melody. Based on this emotion, think of a situation that can fit this feeling and, on a separate sheet of paper, write a dialogue conveying your understanding of the song.",
             "id": "Gurumu akan memainkan lagu yang dia sukai dan itu cocok dengan tingkat kemahiran dan minat kelas. Berdasarkan emosi ini, pikirkan situasi yang dapat sesuai dengan perasaan ini dan, pada lembaran kertas yang terpisah, menulis dialog menyampaikan pemahaman Anda tentang lagu."
           }
         }
-      ]
+      ],
+      "id": "lesson-24-21-iv-listening-practice"
     }
-  ]
+  ],
+  "structureVersion": 2,
+  "contentAudit": {
+    "sourceTextItemsBefore": 508,
+    "sourceTextItemsAfter": 485,
+    "uniqueSourceItemsPreserved": 399,
+    "duplicateHeadingsRemoved": 4,
+    "blankFragmentsRemoved": 16,
+    "sectionTypes": {
+      "DIALOGUE": 1,
+      "EXAMPLES": 3,
+      "EXERCISES": 9,
+      "INTRODUCTION": 1,
+      "LEARNING_MATERIAL": 6,
+      "VOCABULARY": 1
+    },
+    "blockTypes": {
+      "dialogue": 1,
+      "example": 10,
+      "exercise": 40,
+      "image": 6,
+      "list": 2,
+      "table": 8,
+      "text": 16,
+      "vocabulary": 4
+    },
+    "duplicateBlocksRemoved": 0
+  }
 }

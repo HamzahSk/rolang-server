@@ -1,0 +1,53 @@
+{
+  "schemaVersion": 1,
+  "id": "course-book-1-unit-02-objects-and-shopping",
+  "courseId": "learning-tagalog-course-book-1",
+  "title": {
+    "id": "Benda, kepemilikan, dan belanja",
+    "fil": "Mga bagay, pagmamay-ari, at pamimili"
+  },
+  "assets": [],
+  "sections": [
+    {
+      "id": "unit-overview",
+      "type": "OVERVIEW",
+      "title": {
+        "sourceLanguage": "mixed",
+        "sourceText": "Unit overview",
+        "id": "Gambaran unit"
+      },
+      "blocks": [
+        {
+          "type": "list",
+          "style": "outline",
+          "items": [
+            {
+              "sourceLanguage": "fil",
+              "sourceText": "Ang mga alaga'",
+              "id": "Hewan-hewan peliharaan",
+              "tagalog": "Ang mga alaga'"
+            },
+            {
+              "sourceLanguage": "fil",
+              "sourceText": "Ang sapatos",
+              "id": "Sepatu",
+              "tagalog": "Ang sapatos"
+            },
+            {
+              "sourceLanguage": "fil",
+              "sourceText": "May sulat",
+              "id": "Ada surat",
+              "tagalog": "May sulat"
+            },
+            {
+              "sourceLanguage": "fil",
+              "sourceText": "Sa fruit stand",
+              "id": "Di kios buah",
+              "tagalog": "Sa fruit stand"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

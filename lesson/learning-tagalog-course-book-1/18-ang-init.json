@@ -1,0 +1,2576 @@
+{
+  "schemaVersion": 1,
+  "structureVersion": 2,
+  "id": "learning-tagalog-course-book-1-lesson-18",
+  "courseId": "learning-tagalog-course-book-1",
+  "unitId": "course-book-1-unit-05-travel-and-daily-needs",
+  "order": 18,
+  "level": "BEGINNER",
+  "title": {
+    "id": "Panas sekali!",
+    "fil": "Ang init!"
+  },
+  "summary": {
+    "id": "Ini hari yang sangat panas dan AC di kantor tidak berfungsi, bukan?",
+    "fil": "Ang init!"
+  },
+  "objectives": [
+    {
+      "sourceLanguage": "mixed",
+      "sourceText": "Chapter 18 · Story A",
+      "id": "Memahami dialog utama Bab 18 tentang panas sekali."
+    },
+    {
+      "sourceLanguage": "mixed",
+      "sourceText": "Literal and natural translations",
+      "id": "Membandingkan susunan Tagalog dengan glosa harfiah dan terjemahan alami dari sumber."
+    },
+    {
+      "sourceLanguage": "mixed",
+      "sourceText": "Drills",
+      "id": "Melatih kembali pola dan ungkapan pada bagian Drills."
+    }
+  ],
+  "source": {
+    "book": "Learning Tagalog - Fluency Made Fast and Easy - Course Book 1",
+    "file": "Learning Tagalog - Fluency Made Fast and Easy - Course Book 1.pdf",
+    "pdfSha256": "52e9f464239c2ae98248a452edfbf1f58eb01bec69374a16d5205e70afa80f58",
+    "chapter": 18,
+    "pages": {
+      "start": 447,
+      "end": 471
+    },
+    "drillsDividerPage": 461,
+    "recapPage": 471
+  },
+  "sourceLinks": [],
+  "assets": [
+    "assets/18-ang-init.jpg"
+  ],
+  "sections": [
+    {
+      "id": "introduction",
+      "type": "INTRODUCTION",
+      "title": {
+        "sourceLanguage": "mixed",
+        "sourceText": "It's so hot!",
+        "id": "Panas sekali!"
+      },
+      "blocks": [
+        {
+          "type": "image",
+          "path": "assets/18-ang-init.jpg",
+          "sourcePage": 447
+        },
+        {
+          "type": "text",
+          "style": "heading",
+          "text": {
+            "sourceLanguage": "en",
+            "sourceText": "It's so hot!",
+            "id": "Panas sekali!"
+          }
+        }
+      ]
+    },
+    {
+      "id": "learning-material",
+      "type": "LEARNING_MATERIAL",
+      "title": {
+        "sourceLanguage": "mixed",
+        "sourceText": "Chapter context",
+        "id": "Konteks bab"
+      },
+      "blocks": [
+        {
+          "type": "text",
+          "style": "body",
+          "sourcePage": 447,
+          "text": {
+            "sourceLanguage": "en",
+            "sourceText": "It's a very hot day and the air conditioner in the office doesn't work, or does it?",
+            "id": "Ini hari yang sangat panas dan AC di kantor tidak berfungsi, bukan?"
+          }
+        }
+      ]
+    },
+    {
+      "id": "dialogue",
+      "type": "DIALOGUE",
+      "title": {
+        "sourceLanguage": "mixed",
+        "sourceText": "Story A",
+        "id": "Dialog utama (Bagian A)"
+      },
+      "blocks": [
+        {
+          "type": "dialogue",
+          "turns": [
+            {
+              "speaker": "A 01",
+              "speakerText": {
+                "sourceLanguage": "mixed",
+                "sourceText": "A 01",
+                "id": "Bagian A 01"
+              },
+              "text": {
+                "sourceLanguage": "fil",
+                "sourceText": "Ang init!",
+                "id": "Panas sekali!",
+                "tagalog": "Ang init!"
+              },
+              "sourcePage": 448
+            },
+            {
+              "speaker": "A 02",
+              "speakerText": {
+                "sourceLanguage": "mixed",
+                "sourceText": "A 02",
+                "id": "Bagian A 02"
+              },
+              "text": {
+                "sourceLanguage": "fil",
+                "sourceText": "Grabe ang init dito!",
+                "id": "Di sini panas sekali! (Panas di sini luar biasa!)",
+                "tagalog": "Grabe ang init dito!"
+              },
+              "sourcePage": 449
+            },
+            {
+              "speaker": "A 03",
+              "speakerText": {
+                "sourceLanguage": "mixed",
+                "sourceText": "A 03",
+                "id": "Bagian A 03"
+              },
+              "text": {
+                "sourceLanguage": "fil",
+                "sourceText": "Oo. Sobrang init. Mas mainit pa rito kaysa sa labas.",
+                "id": "Ya. Panas sekali. Di sini bahkan lebih panas daripada di luar.",
+                "tagalog": "Oo. Sobrang init. Mas mainit pa rito kaysa sa labas."
+              },
+              "sourcePage": 450
+            },
+            {
+              "speaker": "A 04",
+              "speakerText": {
+                "sourceLanguage": "mixed",
+                "sourceText": "A 04",
+                "id": "Bagian A 04"
+              },
+              "text": {
+                "sourceLanguage": "fil",
+                "sourceText": "Di ba bago ang aircon natin?",
+                "id": "Bukankah AC kita baru?",
+                "tagalog": "Di ba bago ang aircon natin?"
+              },
+              "sourcePage": 451
+            },
+            {
+              "speaker": "A 05",
+              "speakerText": {
+                "sourceLanguage": "mixed",
+                "sourceText": "A 05",
+                "id": "Bagian A 05"
+              },
+              "text": {
+                "sourceLanguage": "fil",
+                "sourceText": "Oo.",
+                "id": "Ya.",
+                "tagalog": "Oo."
+              },
+              "sourcePage": 452
+            },
+            {
+              "speaker": "A 06",
+              "speakerText": {
+                "sourceLanguage": "mixed",
+                "sourceText": "A 06",
+                "id": "Bagian A 06"
+              },
+              "text": {
+                "sourceLanguage": "fil",
+                "sourceText": "Nakabukas ba ang aircon?",
+                "id": "Apakah AC sudah dihidupkan?",
+                "tagalog": "Nakabukas ba ang aircon?"
+              },
+              "sourcePage": 453
+            },
+            {
+              "speaker": "A 07",
+              "speakerText": {
+                "sourceLanguage": "mixed",
+                "sourceText": "A 07",
+                "id": "Bagian A 07"
+              },
+              "text": {
+                "sourceLanguage": "fil",
+                "sourceText": "Oo, tingnan mo.",
+                "id": "Ya, lihatlah AC-nya.",
+                "tagalog": "Oo, tingnan mo."
+              },
+              "sourcePage": 454
+            },
+            {
+              "speaker": "A 08",
+              "speakerText": {
+                "sourceLanguage": "mixed",
+                "sourceText": "A 08",
+                "id": "Bagian A 08"
+              },
+              "text": {
+                "sourceLanguage": "fil",
+                "sourceText": "Bakit parang mas malakas pa ang lumang aircon kaysa rito?",
+                "id": "Mengapa AC lama nampaknya lebih kuat dari yang ini?",
+                "tagalog": "Bakit parang mas malakas pa ang lumang aircon kaysa rito?"
+              },
+              "sourcePage": 455
+            },
+            {
+              "speaker": "A 09",
+              "speakerText": {
+                "sourceLanguage": "mixed",
+                "sourceText": "A 09",
+                "id": "Bagian A 09"
+              },
+              "text": {
+                "sourceLanguage": "fil",
+                "sourceText": "Baka naman may problema ito?",
+                "id": "Mungkin ada masalah dengan yang satu ini?",
+                "tagalog": "Baka naman may problema ito?"
+              },
+              "sourcePage": 456
+            },
+            {
+              "speaker": "A 10",
+              "speakerText": {
+                "sourceLanguage": "mixed",
+                "sourceText": "A 10",
+                "id": "Bagian A 10"
+              },
+              "text": {
+                "sourceLanguage": "fil",
+                "sourceText": "Hindi', mukhang ayos naman.",
+                "id": "Tidak, sepertinya ini berfungsi dengan baik.",
+                "tagalog": "Hindi', mukhang ayos naman."
+              },
+              "sourcePage": 457
+            },
+            {
+              "speaker": "A 11",
+              "speakerText": {
+                "sourceLanguage": "mixed",
+                "sourceText": "A 11",
+                "id": "Bagian A 11"
+              },
+              "text": {
+                "sourceLanguage": "fil",
+                "sourceText": "Teka. Naririnig mo ba ang mga sasakyan sa labas?",
+                "id": "Tunggu. Bisakah Anda mendengar suara mobil di luar?",
+                "tagalog": "Teka. Naririnig mo ba ang mga sasakyan sa labas?"
+              },
+              "sourcePage": 458
+            },
+            {
+              "speaker": "A 12",
+              "speakerText": {
+                "sourceLanguage": "mixed",
+                "sourceText": "A 12",
+                "id": "Bagian A 12"
+              },
+              "text": {
+                "sourceLanguage": "fil",
+                "sourceText": "Oo, bakit?",
+                "id": "Ya kenapa?",
+                "tagalog": "Oo, bakit?"
+              },
+              "sourcePage": 459
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "vocabulary",
+      "type": "VOCABULARY",
+      "title": {
+        "sourceLanguage": "mixed",
+        "sourceText": "Vocabulary and expressions",
+        "id": "Kosakata dan ungkapan"
+      },
+      "blocks": [
+        {
+          "type": "vocabulary",
+          "entries": [
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "Ang init!",
+                "id": "Panas sekali!",
+                "tagalog": "Ang init!"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "How hot!",
+                "id": "Panas sekali!"
+              },
+              "sourcePage": 448
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "Grabe",
+                "id": "Menakjubkan",
+                "tagalog": "Grabe"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "Incredible",
+                "id": "Menakjubkan"
+              },
+              "sourcePage": 449
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "ang",
+                "id": "penanda definit",
+                "tagalog": "ang"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "the",
+                "id": "penanda definit"
+              },
+              "sourcePage": 449
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "init",
+                "id": "Panas",
+                "tagalog": "init"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "heat",
+                "id": "Panas"
+              },
+              "sourcePage": 449
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "dito!",
+                "id": "Di Sini!",
+                "tagalog": "dito!"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "here!",
+                "id": "Di Sini!"
+              },
+              "sourcePage": 449
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "Oo.",
+                "id": "Ya.",
+                "tagalog": "Oo."
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "Yes.",
+                "id": "Ya."
+              },
+              "sourcePage": 450
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "Sobrang init.",
+                "id": "Jadi-[penghubung] panas.",
+                "tagalog": "Sobrang init."
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "So-[linker] hot.",
+                "id": "Jadi-[penghubung] panas."
+              },
+              "sourcePage": 450
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "Mas",
+                "id": "Lagi",
+                "tagalog": "Mas"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "More",
+                "id": "Lagi"
+              },
+              "sourcePage": 450
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "mainit",
+                "id": "Panas",
+                "tagalog": "mainit"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "hot",
+                "id": "Panas"
+              },
+              "sourcePage": 450
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "pa",
+                "id": "Bahkan",
+                "tagalog": "pa"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "even",
+                "id": "Bahkan"
+              },
+              "sourcePage": 450
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "rito",
+                "id": "Di Sini",
+                "tagalog": "rito"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "here",
+                "id": "Di Sini"
+              },
+              "sourcePage": 450
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "kaysa",
+                "id": "Dibandingkan",
+                "tagalog": "kaysa"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "than",
+                "id": "Dibandingkan"
+              },
+              "sourcePage": 450
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "sa",
+                "id": "Di dalam",
+                "tagalog": "sa"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "in",
+                "id": "Di dalam"
+              },
+              "sourcePage": 450
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "labas.",
+                "id": "Di luar.",
+                "tagalog": "labas."
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "outside.",
+                "id": "Di luar."
+              },
+              "sourcePage": 450
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "Di ba",
+                "id": "Bukan begitu",
+                "tagalog": "Di ba"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "Isn't it",
+                "id": "Bukan begitu"
+              },
+              "sourcePage": 451
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "bago",
+                "id": "Baru",
+                "tagalog": "bago"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "new",
+                "id": "Baru"
+              },
+              "sourcePage": 451
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "aircon",
+                "id": "AC",
+                "tagalog": "aircon"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "air conditioner",
+                "id": "AC"
+              },
+              "sourcePage": 451
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "natin?",
+                "id": "Kami (termasuk Anda)?",
+                "tagalog": "natin?"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "our (incl. you)?",
+                "id": "Kami (termasuk Anda)?"
+              },
+              "sourcePage": 451
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "Nakabukas",
+                "id": "Diaktifkan",
+                "tagalog": "Nakabukas"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "Turned on",
+                "id": "Diaktifkan"
+              },
+              "sourcePage": 453
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "ba",
+                "id": "[penanda tanya]",
+                "tagalog": "ba"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "[question]",
+                "id": "[penanda tanya]"
+              },
+              "sourcePage": 453
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "tingnan",
+                "id": "Dilihat",
+                "tagalog": "tingnan"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "be looked at",
+                "id": "Dilihat"
+              },
+              "sourcePage": 454
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "mo.",
+                "id": "Olehmu.",
+                "tagalog": "mo."
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "by you.",
+                "id": "Olehmu."
+              },
+              "sourcePage": 454
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "Bakit",
+                "id": "Mengapa",
+                "tagalog": "Bakit"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "Why",
+                "id": "Mengapa"
+              },
+              "sourcePage": 455
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "parang",
+                "id": "Sepertinya",
+                "tagalog": "parang"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "seems",
+                "id": "Sepertinya"
+              },
+              "sourcePage": 455
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "malakas",
+                "id": "Kuat",
+                "tagalog": "malakas"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "strong",
+                "id": "Kuat"
+              },
+              "sourcePage": 455
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "lumang",
+                "id": "Lama-[penghubung]",
+                "tagalog": "lumang"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "old-[linker]",
+                "id": "Lama-[penghubung]"
+              },
+              "sourcePage": 455
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "Baka",
+                "id": "Mungkin",
+                "tagalog": "Baka"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "Maybe",
+                "id": "Mungkin"
+              },
+              "sourcePage": 456
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "naman",
+                "id": "[kontras]",
+                "tagalog": "naman"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "[contrast]",
+                "id": "[kontras]"
+              },
+              "sourcePage": 456
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "may",
+                "id": "Memiliki",
+                "tagalog": "may"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "has",
+                "id": "Memiliki"
+              },
+              "sourcePage": 456
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "problema",
+                "id": "Masalah",
+                "tagalog": "problema"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "problem",
+                "id": "Masalah"
+              },
+              "sourcePage": 456
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "ito?",
+                "id": "Ini?",
+                "tagalog": "ito?"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "this?",
+                "id": "Ini?"
+              },
+              "sourcePage": 456
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "Hindi',",
+                "id": "Tidak,",
+                "tagalog": "Hindi',"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "No,",
+                "id": "Tidak,"
+              },
+              "sourcePage": 457
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "mukhang",
+                "id": "Sepertinya",
+                "tagalog": "mukhang"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "seems",
+                "id": "Sepertinya"
+              },
+              "sourcePage": 457
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "ayos",
+                "id": "Dalam urutan kerja",
+                "tagalog": "ayos"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "in working order",
+                "id": "Dalam urutan kerja"
+              },
+              "sourcePage": 457
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "Teka.",
+                "id": "Tunggu.",
+                "tagalog": "Teka."
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "Wait.",
+                "id": "Tunggu."
+              },
+              "sourcePage": 458
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "Naririnig",
+                "id": "Dapat didengar",
+                "tagalog": "Naririnig"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "Can be heard",
+                "id": "Dapat didengar"
+              },
+              "sourcePage": 458
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "mga",
+                "id": "[jamak]",
+                "tagalog": "mga"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "[plural]",
+                "id": "[jamak]"
+              },
+              "sourcePage": 458
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "sasakyan",
+                "id": "Kendaraan",
+                "tagalog": "sasakyan"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "vehicle",
+                "id": "Kendaraan"
+              },
+              "sourcePage": 458
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "Kasi",
+                "id": "Karena",
+                "tagalog": "Kasi"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "Because",
+                "id": "Karena"
+              },
+              "sourcePage": 460
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "bukas",
+                "id": "Membuka",
+                "tagalog": "bukas"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "open",
+                "id": "Membuka"
+              },
+              "sourcePage": 460
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "bintana'",
+                "id": "Jendela",
+                "tagalog": "bintana'"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "window",
+                "id": "Jendela"
+              },
+              "sourcePage": 460
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "likod!",
+                "id": "Kembali!",
+                "tagalog": "likod!"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "back!",
+                "id": "Kembali!"
+              },
+              "sourcePage": 460
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "Maynila'",
+                "id": "Manila",
+                "tagalog": "Maynila'"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "Manila",
+                "id": "Manila"
+              },
+              "sourcePage": 462
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "Baguio.",
+                "id": "Baguio.",
+                "tagalog": "Baguio."
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "Baguio.",
+                "id": "Baguio."
+              },
+              "sourcePage": 462
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "matangkad",
+                "id": "Tinggi",
+                "tagalog": "matangkad"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "tall",
+                "id": "Tinggi"
+              },
+              "sourcePage": 463
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "ka",
+                "id": "kamu",
+                "tagalog": "ka"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "you",
+                "id": "kamu"
+              },
+              "sourcePage": 463
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "kay",
+                "id": "[penanda sa]",
+                "tagalog": "kay"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "[Sa marker]",
+                "id": "[penanda sa]"
+              },
+              "sourcePage": 463
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "Ray.",
+                "id": "Sinar.",
+                "tagalog": "Ray."
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "Ray.",
+                "id": "Sinar."
+              },
+              "sourcePage": 463
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "Marunong",
+                "id": "Tahu caranya",
+                "tagalog": "Marunong"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "Know how",
+                "id": "Tahu caranya"
+              },
+              "sourcePage": 464
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "bang",
+                "id": "[penanda tanya]-[penghubung]",
+                "tagalog": "bang"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "[question]-[linker]",
+                "id": "[penanda tanya]-[penghubung]"
+              },
+              "sourcePage": 464
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "mag-chess?",
+                "id": "Bermain catur?",
+                "tagalog": "mag-chess?"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "to play chess?",
+                "id": "Bermain catur?"
+              },
+              "sourcePage": 464
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "pero",
+                "id": "Tetapi",
+                "tagalog": "pero"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "but",
+                "id": "Tetapi"
+              },
+              "sourcePage": 465
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "magaling",
+                "id": "Bagus",
+                "tagalog": "magaling"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "good",
+                "id": "Bagus"
+              },
+              "sourcePage": 465
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "chess",
+                "id": "Catur",
+                "tagalog": "chess"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "chess",
+                "id": "Catur"
+              },
+              "sourcePage": 465
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "akin.",
+                "id": "Saya.",
+                "tagalog": "akin."
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "me.",
+                "id": "Saya."
+              },
+              "sourcePage": 465
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "tagsibol,",
+                "id": "Musim semi,",
+                "tagalog": "tagsibol,"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "spring,",
+                "id": "Musim semi,"
+              },
+              "sourcePage": 466
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "tag-init,",
+                "id": "Musim panas/musim panas,",
+                "tagalog": "tag-init,"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "hot season/summer,",
+                "id": "Musim panas/musim panas,"
+              },
+              "sourcePage": 466
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "tag-ulan,",
+                "id": "Musim hujan,",
+                "tagalog": "tag-ulan,"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "rainy season,",
+                "id": "Musim hujan,"
+              },
+              "sourcePage": 466
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "taglagas,",
+                "id": "Musim gugur,",
+                "tagalog": "taglagas,"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "autumn,",
+                "id": "Musim gugur,"
+              },
+              "sourcePage": 466
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "taglamig",
+                "id": "Musim dingin/musim dingin",
+                "tagalog": "taglamig"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "cold season/winter",
+                "id": "Musim dingin/musim dingin"
+              },
+              "sourcePage": 466
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "hangin",
+                "id": "Angin",
+                "tagalog": "hangin"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "wind",
+                "id": "Angin"
+              },
+              "sourcePage": 467
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "at",
+                "id": "Dan",
+                "tagalog": "at"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "and",
+                "id": "Dan"
+              },
+              "sourcePage": 467
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "ulan.",
+                "id": "Hujan.",
+                "tagalog": "ulan."
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "rain.",
+                "id": "Hujan."
+              },
+              "sourcePage": 467
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "Ang lakas",
+                "id": "Seberapa kuat",
+                "tagalog": "Ang lakas"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "How strong",
+                "id": "Seberapa kuat"
+              },
+              "sourcePage": 468
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "ng",
+                "id": "Dari",
+                "tagalog": "ng"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "of",
+                "id": "Dari"
+              },
+              "sourcePage": 468
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "bagyo!",
+                "id": "Topan!",
+                "tagalog": "bagyo!"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "typhoon!",
+                "id": "Topan!"
+              },
+              "sourcePage": 468
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "Nakakatakot",
+                "id": "Menakutkan",
+                "tagalog": "Nakakatakot"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "Scary",
+                "id": "Menakutkan"
+              },
+              "sourcePage": 469
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "kidlat.",
+                "id": "Petir.",
+                "tagalog": "kidlat."
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "lightning.",
+                "id": "Petir."
+              },
+              "sourcePage": 469
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "Takot",
+                "id": "Takut",
+                "tagalog": "Takot"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "Afraid",
+                "id": "Takut"
+              },
+              "sourcePage": 470
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "siya",
+                "id": "Dia",
+                "tagalog": "siya"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "he/she",
+                "id": "Dia"
+              },
+              "sourcePage": 470
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "style": "body",
+          "sourcePage": 449,
+          "sourceLabel": "A 02",
+          "links": [],
+          "text": {
+            "sourceLanguage": "en",
+            "sourceText": "Grabe – incredible, amazing. By itself, it means Wow! or Oh my!",
+            "id": "A 02 · halaman PDF 449\n\nGrabe – luar biasa, luar biasa. Dengan sendirinya, artinya Wow! atau Ya ampun!"
+          }
+        },
+        {
+          "type": "text",
+          "style": "body",
+          "sourcePage": 450,
+          "sourceLabel": "A 03",
+          "links": [],
+          "text": {
+            "sourceLanguage": "en",
+            "sourceText": "Mas... pa – even more (...) / even (...)-er. Mas mainit pa – even hotter.",
+            "id": "A 03 · halaman PDF 450\n\nMas... pa berarti bahkan lebih (...). Mas mainit pa berarti bahkan lebih panas."
+          }
+        },
+        {
+          "type": "text",
+          "style": "body",
+          "sourcePage": 450,
+          "sourceLabel": "A 03",
+          "links": [],
+          "text": {
+            "sourceLanguage": "en",
+            "sourceText": "Mas... kaysa – more (...) than / (...)-er than.",
+            "id": "A 03 · halaman PDF 450\n\nMas... kaysa berarti lebih (...) daripada (...)."
+          }
+        },
+        {
+          "type": "text",
+          "style": "body",
+          "sourcePage": 455,
+          "sourceLabel": "A 08",
+          "links": [],
+          "text": {
+            "sourceLanguage": "en",
+            "sourceText": "Here, para -ng means seems (to be/like).",
+            "id": "A 08 · halaman PDF 455\n\nDi sini, para -ng artinya tampak (menjadi/seperti)."
+          }
+        },
+        {
+          "type": "text",
+          "style": "body",
+          "sourcePage": 455,
+          "sourceLabel": "A 08",
+          "links": [],
+          "text": {
+            "sourceLanguage": "en",
+            "sourceText": "Mas... (kaysa) + Sa phrase – more (...)/-er than (...).",
+            "id": "A 08 · halaman PDF 455\n\nMas... (kaysa) + frasa Sa berarti lebih (...) daripada (...)."
+          }
+        },
+        {
+          "type": "text",
+          "style": "body",
+          "sourcePage": 456,
+          "sourceLabel": "A 09",
+          "links": [],
+          "text": {
+            "sourceLanguage": "en",
+            "sourceText": "Naman can be used to show contrast with what usually happens, what has recently or just happened, or what might be expected.",
+            "id": "A 09 · halaman PDF 456\n\nNaman dapat digunakan untuk menunjukkan kontras dengan apa yang biasanya terjadi, apa yang baru saja atau baru saja terjadi, atau apa yang mungkin diharapkan."
+          }
+        },
+        {
+          "type": "text",
+          "style": "body",
+          "sourcePage": 457,
+          "sourceLabel": "A 10",
+          "links": [],
+          "text": {
+            "sourceLanguage": "en",
+            "sourceText": "Naman can also be used to show contrast with what somebody said, for instance, when expressing an opposing opinion or correcting someone.",
+            "id": "A 10 · halaman PDF 457\n\nNaman juga dapat digunakan untuk menunjukkan kontras dengan apa yang dikatakan seseorang, misalnya ketika menyatakan pendapat yang berlawanan atau mengoreksi seseorang."
+          }
+        },
+        {
+          "type": "text",
+          "style": "body",
+          "sourcePage": 465,
+          "sourceLabel": "B 04",
+          "links": [],
+          "text": {
+            "sourceLanguage": "en",
+            "sourceText": "Magaling – good (able to do something well).",
+            "id": "B 04 · halaman PDF 465\n\nMagaling – baik (mampu melakukan sesuatu dengan baik)."
+          }
+        },
+        {
+          "type": "text",
+          "style": "body",
+          "sourcePage": 469,
+          "sourceLabel": "B 08",
+          "links": [],
+          "text": {
+            "sourceLanguage": "en",
+            "sourceText": "Takot – fear. Nakakatakot – frightening, scary.",
+            "id": "B 08 · halaman PDF 469\n\nTakot – ketakutan. Nakakatakot – menakutkan, menakutkan."
+          }
+        },
+        {
+          "type": "text",
+          "style": "body",
+          "sourcePage": 470,
+          "sourceLabel": "B 09",
+          "links": [],
+          "text": {
+            "sourceLanguage": "en",
+            "sourceText": "Takot (sa) – scared (of), afraid (of).",
+            "id": "B 09 · halaman PDF 470\n\nTakot (sa) – takut (dari), takut (dari)."
+          }
+        }
+      ]
+    },
+    {
+      "id": "grammar",
+      "type": "GRAMMAR",
+      "title": {
+        "sourceLanguage": "mixed",
+        "sourceText": "Grammar and pronunciation notes",
+        "id": "Catatan tata bahasa dan pelafalan"
+      },
+      "blocks": [
+        {
+          "type": "text",
+          "style": "body",
+          "sourcePage": 450,
+          "sourceLabel": "A 03",
+          "links": [],
+          "text": {
+            "sourceLanguage": "en",
+            "sourceText": "Sobra -ng + adjective root – so (...). Sobrang ganda – so pretty. Used this way, sobra -ng is an adjective intensifier (like ang + root). What the adjective describes (if present) is expressed as a Ng phrase. Sobrang init ng sopas! – The soup is so hot!",
+            "id": "A 03 · halaman PDF 450\n\nSobra -ng + akar kata sifat – jadi (...). Sobrang ganda – sangat cantik. Digunakan dengan cara ini, sobra -ng adalah penguat kata sifat (seperti ang + root). Apa yang dijelaskan oleh kata sifat (jika ada) dinyatakan sebagai frase Ng. Sobrang init ng sopas! – Supnya panas sekali!"
+          }
+        },
+        {
+          "type": "text",
+          "style": "body",
+          "sourcePage": 451,
+          "sourceLabel": "A 04",
+          "links": [],
+          "text": {
+            "sourceLanguage": "en",
+            "sourceText": "Di ba is used for confirming something. It may be translated as isn't it/he/she, aren't they, didn't you, right? etc. and may be used at the beginning or at the end of a sentence.",
+            "id": "A 04 · halaman PDF 451\n\nDi ba digunakan untuk mengkonfirmasi sesuatu. Ini mungkin diterjemahkan sebagai bukankah dia, bukan, bukan? dll. dan dapat digunakan di awal atau di akhir kalimat."
+          }
+        },
+        {
+          "type": "text",
+          "style": "body",
+          "sourcePage": 454,
+          "sourceLabel": "A 07",
+          "links": [],
+          "text": {
+            "sourceLanguage": "en",
+            "sourceText": "Tingnan is a verb in the basic form. Its literal translation is (to) be looked at. The POD is the thing looked at, which is omitted here. This type of verb will be covered in detail later.",
+            "id": "A 07 · halaman PDF 454\n\nTingnan adalah kata kerja dalam bentuk dasar. Terjemahan literalnya adalah (untuk) dilihat. POD adalah hal yang dilihat, yang dihilangkan di sini. Jenis kata kerja ini akan dibahas secara rinci nanti."
+          }
+        },
+        {
+          "type": "text",
+          "style": "body",
+          "sourcePage": 454,
+          "sourceLabel": "A 07",
+          "links": [],
+          "text": {
+            "sourceLanguage": "en",
+            "sourceText": "Basic form + mo/ninyo is one of the ways to give a command or directions. Tingnan mo ang aircon. – Look at the aircon.",
+            "id": "A 07 · halaman PDF 454\n\nBentuk dasar +mo/ninyo merupakan salah satu cara untuk memberikan perintah atau arahan. Tingnan mo ang aircon. – Lihat ACnya."
+          }
+        },
+        {
+          "type": "text",
+          "style": "body",
+          "sourcePage": 458,
+          "sourceLabel": "A 11",
+          "links": [],
+          "text": {
+            "sourceLanguage": "en",
+            "sourceText": "Naririnig is the uncompleted form of marinig. With marinig, the POD of the sentence is the object (what is heard; in this case, ang mga sasakyan sa labas) and the doer is expressed as a Ng phrase (in this case, mo). If the object of an action in a basic Tagalog sentence is definite, it generally becomes the POD of the sentence.",
+            "id": "A 11 · halaman PDF 458\n\nNaririnig adalah bentuk marinig yang belum selesai. Dengan marinig, POD kalimatnya adalah objeknya (apa yang didengar; dalam hal ini ang mga sasakyan sa labas) dan pelakunya dinyatakan sebagai frasa Ng (dalam hal ini mo). Jika objek suatu tindakan dalam kalimat dasar Tagalog pasti, maka umumnya menjadi POD kalimat tersebut."
+          }
+        },
+        {
+          "type": "text",
+          "style": "body",
+          "sourcePage": 460,
+          "sourceLabel": "A 13",
+          "links": [],
+          "text": {
+            "sourceLanguage": "en",
+            "sourceText": "Kasi – because, that's because. Kasi is enclitic, but can also be placed at the beginning of the sentence or clause (sentence within a sentence).",
+            "id": "A 13 · halaman PDF 460\n\nKasi – karena, itu karena. Kasi bersifat enklitik, namun dapat juga ditempatkan pada awal kalimat atau klausa (kalimat dalam kalimat)."
+          }
+        },
+        {
+          "type": "text",
+          "style": "body",
+          "sourcePage": 463,
+          "sourceLabel": "B 02",
+          "links": [],
+          "text": {
+            "sourceLanguage": "en",
+            "sourceText": "Mas cannot be immediately followed by enclitic words, such as ka.",
+            "id": "B 02 · halaman PDF 463\n\nMas tidak bisa langsung diikuti dengan kata enklitik, seperti ka."
+          }
+        },
+        {
+          "type": "text",
+          "style": "body",
+          "sourcePage": 464,
+          "sourceLabel": "B 03",
+          "links": [],
+          "text": {
+            "sourceLanguage": "en",
+            "sourceText": "Marunong (-ng) + basic form – know how to (...). If the word preceding the basic form ends in a vowel or /n/, -ng may be added.",
+            "id": "B 03 · halaman PDF 464\n\nMarunong (-ng) + bentuk dasar – tahu caranya (...). Jika kata sebelum bentuk dasar diakhiri dengan vokal atau /n/, dapat ditambahkan -ng."
+          }
+        }
+      ]
+    },
+    {
+      "id": "examples",
+      "type": "EXAMPLES",
+      "title": {
+        "sourceLanguage": "mixed",
+        "sourceText": "Literal and natural translations",
+        "id": "Contoh dengan glosa harfiah dan alami"
+      },
+      "blocks": [
+        {
+          "type": "example",
+          "title": {
+            "sourceLanguage": "mixed",
+            "sourceText": "A 01",
+            "id": "A 01 · halaman PDF 448"
+          },
+          "sourcePage": 448,
+          "rows": [
+            {
+              "cells": [
+                {
+                  "sourceLanguage": "fil",
+                  "sourceText": "Ang init!",
+                  "id": "Panas sekali!",
+                  "tagalog": "Ang init!"
+                },
+                {
+                  "sourceLanguage": "en",
+                  "sourceText": "How hot!",
+                  "id": "Glosa harfiah (Inggris)\nHow hot!"
+                },
+                {
+                  "sourceLanguage": "en",
+                  "sourceText": "It's so hot!",
+                  "id": "Terjemahan alami sumber (Inggris)\nIt's so hot!"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "example",
+          "title": {
+            "sourceLanguage": "mixed",
+            "sourceText": "A 02",
+            "id": "A 02 · halaman PDF 449"
+          },
+          "sourcePage": 449,
+          "rows": [
+            {
+              "cells": [
+                {
+                  "sourceLanguage": "fil",
+                  "sourceText": "Grabe ang init dito!",
+                  "id": "Di sini panas sekali! (Panas di sini luar biasa!)",
+                  "tagalog": "Grabe ang init dito!"
+                },
+                {
+                  "sourceLanguage": "en",
+                  "sourceText": "Incredible the heat here!",
+                  "id": "Glosa harfiah (Inggris)\nIncredible the heat here!"
+                },
+                {
+                  "sourceLanguage": "en",
+                  "sourceText": "It's so hot here! (The heat here is incredible!)",
+                  "id": "Terjemahan alami sumber (Inggris)\nIt's so hot here! (The heat here is incredible!)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "example",
+          "title": {
+            "sourceLanguage": "mixed",
+            "sourceText": "A 03",
+            "id": "A 03 · halaman PDF 450"
+          },
+          "sourcePage": 450,
+          "rows": [
+            {
+              "cells": [
+                {
+                  "sourceLanguage": "fil",
+                  "sourceText": "Oo. Sobrang init. Mas mainit pa rito kaysa sa labas.",
+                  "id": "Ya. Panas sekali. Di sini bahkan lebih panas daripada di luar.",
+                  "tagalog": "Oo. Sobrang init. Mas mainit pa rito kaysa sa labas."
+                },
+                {
+                  "sourceLanguage": "en",
+                  "sourceText": "Yes. So-[linker] hot. More hot even here than in outside.",
+                  "id": "Glosa harfiah (Inggris)\nYes. So-[linker] hot. More hot even here than in outside."
+                },
+                {
+                  "sourceLanguage": "en",
+                  "sourceText": "Yes. It's so hot. It's even hotter here than outside.",
+                  "id": "Terjemahan alami sumber (Inggris)\nYes. It's so hot. It's even hotter here than outside."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "example",
+          "title": {
+            "sourceLanguage": "mixed",
+            "sourceText": "A 04",
+            "id": "A 04 · halaman PDF 451"
+          },
+          "sourcePage": 451,
+          "rows": [
+            {
+              "cells": [
+                {
+                  "sourceLanguage": "fil",
+                  "sourceText": "Di ba bago ang aircon natin?",
+                  "id": "Bukankah AC kita baru?",
+                  "tagalog": "Di ba bago ang aircon natin?"
+                },
+                {
+                  "sourceLanguage": "en",
+                  "sourceText": "Isn't it new the air conditioner our (incl. you)?",
+                  "id": "Glosa harfiah (Inggris)\nIsn't it new the air conditioner our (incl. you)?"
+                },
+                {
+                  "sourceLanguage": "en",
+                  "sourceText": "Isn't our air conditioner new?",
+                  "id": "Terjemahan alami sumber (Inggris)\nIsn't our air conditioner new?"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "example",
+          "title": {
+            "sourceLanguage": "mixed",
+            "sourceText": "A 05",
+            "id": "A 05 · halaman PDF 452"
+          },
+          "sourcePage": 452,
+          "rows": [
+            {
+              "cells": [
+                {
+                  "sourceLanguage": "fil",
+                  "sourceText": "Oo.",
+                  "id": "Ya.",
+                  "tagalog": "Oo."
+                },
+                {
+                  "sourceLanguage": "en",
+                  "sourceText": "Yes.",
+                  "id": "Glosa harfiah (Inggris)\nYes."
+                },
+                {
+                  "sourceLanguage": "en",
+                  "sourceText": "Yes.",
+                  "id": "Terjemahan alami sumber (Inggris)\nYes."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "example",
+          "title": {
+            "sourceLanguage": "mixed",
+            "sourceText": "A 06",
+            "id": "A 06 · halaman PDF 453"
+          },
+          "sourcePage": 453,
+          "rows": [
+            {
+              "cells": [
+                {
+                  "sourceLanguage": "fil",
+                  "sourceText": "Nakabukas ba ang aircon?",
+                  "id": "Apakah AC sudah dihidupkan?",
+                  "tagalog": "Nakabukas ba ang aircon?"
+                },
+                {
+                  "sourceLanguage": "en",
+                  "sourceText": "Turned on [question] the air conditioner?",
+                  "id": "Glosa harfiah (Inggris)\nTurned on [question] the air conditioner?"
+                },
+                {
+                  "sourceLanguage": "en",
+                  "sourceText": "Is the air conditioner turned on?",
+                  "id": "Terjemahan alami sumber (Inggris)\nIs the air conditioner turned on?"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "example",
+          "title": {
+            "sourceLanguage": "mixed",
+            "sourceText": "A 07",
+            "id": "A 07 · halaman PDF 454"
+          },
+          "sourcePage": 454,
+          "rows": [
+            {
+              "cells": [
+                {
+                  "sourceLanguage": "fil",
+                  "sourceText": "Oo, tingnan mo.",
+                  "id": "Ya, lihatlah AC-nya.",
+                  "tagalog": "Oo, tingnan mo."
+                },
+                {
+                  "sourceLanguage": "en",
+                  "sourceText": "Yes, be looked at by you.",
+                  "id": "Glosa harfiah (Inggris)\nYes, be looked at by you."
+                },
+                {
+                  "sourceLanguage": "en",
+                  "sourceText": "Yes, look (at the aircon).",
+                  "id": "Terjemahan alami sumber (Inggris)\nYes, look (at the aircon)."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "example",
+          "title": {
+            "sourceLanguage": "mixed",
+            "sourceText": "A 08",
+            "id": "A 08 · halaman PDF 455"
+          },
+          "sourcePage": 455,
+          "rows": [
+            {
+              "cells": [
+                {
+                  "sourceLanguage": "fil",
+                  "sourceText": "Bakit parang mas malakas pa ang lumang aircon kaysa rito?",
+                  "id": "Mengapa AC lama nampaknya lebih kuat dari yang ini?",
+                  "tagalog": "Bakit parang mas malakas pa ang lumang aircon kaysa rito?"
+                },
+                {
+                  "sourceLanguage": "en",
+                  "sourceText": "Why seems more strong even the old-[linker] air conditioner than this.",
+                  "id": "Glosa harfiah (Inggris)\nWhy seems more strong even the old-[linker] air conditioner than this."
+                },
+                {
+                  "sourceLanguage": "en",
+                  "sourceText": "Why does the old air conditioner seem to be even stronger than this one?",
+                  "id": "Terjemahan alami sumber (Inggris)\nWhy does the old air conditioner seem to be even stronger than this one?"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "example",
+          "title": {
+            "sourceLanguage": "mixed",
+            "sourceText": "A 09",
+            "id": "A 09 · halaman PDF 456"
+          },
+          "sourcePage": 456,
+          "rows": [
+            {
+              "cells": [
+                {
+                  "sourceLanguage": "fil",
+                  "sourceText": "Baka naman may problema ito?",
+                  "id": "Mungkin ada masalah dengan yang satu ini?",
+                  "tagalog": "Baka naman may problema ito?"
+                },
+                {
+                  "sourceLanguage": "en",
+                  "sourceText": "Maybe [contrast] has problem this?",
+                  "id": "Glosa harfiah (Inggris)\nMaybe [contrast] has problem this?"
+                },
+                {
+                  "sourceLanguage": "en",
+                  "sourceText": "Maybe there's a problem with this one?",
+                  "id": "Terjemahan alami sumber (Inggris)\nMaybe there's a problem with this one?"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "example",
+          "title": {
+            "sourceLanguage": "mixed",
+            "sourceText": "A 10",
+            "id": "A 10 · halaman PDF 457"
+          },
+          "sourcePage": 457,
+          "rows": [
+            {
+              "cells": [
+                {
+                  "sourceLanguage": "fil",
+                  "sourceText": "Hindi', mukhang ayos naman.",
+                  "id": "Tidak, sepertinya ini berfungsi dengan baik.",
+                  "tagalog": "Hindi', mukhang ayos naman."
+                },
+                {
+                  "sourceLanguage": "en",
+                  "sourceText": "No, seems in working order [contrast].",
+                  "id": "Glosa harfiah (Inggris)\nNo, seems in working order [contrast]."
+                },
+                {
+                  "sourceLanguage": "en",
+                  "sourceText": "No, it seems to be working just fine.",
+                  "id": "Terjemahan alami sumber (Inggris)\nNo, it seems to be working just fine."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "example",
+          "title": {
+            "sourceLanguage": "mixed",
+            "sourceText": "A 11",
+            "id": "A 11 · halaman PDF 458"
+          },
+          "sourcePage": 458,
+          "rows": [
+            {
+              "cells": [
+                {
+                  "sourceLanguage": "fil",
+                  "sourceText": "Teka. Naririnig mo ba ang mga sasakyan sa labas?",
+                  "id": "Tunggu. Bisakah Anda mendengar suara mobil di luar?",
+                  "tagalog": "Teka. Naririnig mo ba ang mga sasakyan sa labas?"
+                },
+                {
+                  "sourceLanguage": "en",
+                  "sourceText": "Wait. Can be heard by you [question] the [plural] vehicle in outside?",
+                  "id": "Glosa harfiah (Inggris)\nWait. Can be heard by you [question] the [plural] vehicle in outside?"
+                },
+                {
+                  "sourceLanguage": "en",
+                  "sourceText": "Wait. Can you hear the cars outside?",
+                  "id": "Terjemahan alami sumber (Inggris)\nWait. Can you hear the cars outside?"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "example",
+          "title": {
+            "sourceLanguage": "mixed",
+            "sourceText": "A 12",
+            "id": "A 12 · halaman PDF 459"
+          },
+          "sourcePage": 459,
+          "rows": [
+            {
+              "cells": [
+                {
+                  "sourceLanguage": "fil",
+                  "sourceText": "Oo, bakit?",
+                  "id": "Ya kenapa?",
+                  "tagalog": "Oo, bakit?"
+                },
+                {
+                  "sourceLanguage": "en",
+                  "sourceText": "Yes, why?",
+                  "id": "Glosa harfiah (Inggris)\nYes, why?"
+                },
+                {
+                  "sourceLanguage": "en",
+                  "sourceText": "Yes, why?",
+                  "id": "Terjemahan alami sumber (Inggris)\nYes, why?"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "example",
+          "title": {
+            "sourceLanguage": "mixed",
+            "sourceText": "A 13",
+            "id": "A 13 · halaman PDF 460"
+          },
+          "sourcePage": 460,
+          "rows": [
+            {
+              "cells": [
+                {
+                  "sourceLanguage": "fil",
+                  "sourceText": "Kasi bukas ang bintana' sa likod!",
+                  "id": "Itu karena jendela di belakang terbuka!",
+                  "tagalog": "Kasi bukas ang bintana' sa likod!"
+                },
+                {
+                  "sourceLanguage": "en",
+                  "sourceText": "Because open the window at back!",
+                  "id": "Glosa harfiah (Inggris)\nBecause open the window at back!"
+                },
+                {
+                  "sourceLanguage": "en",
+                  "sourceText": "That's because the window at the back is open!",
+                  "id": "Terjemahan alami sumber (Inggris)\nThat's because the window at the back is open!"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "example",
+          "title": {
+            "sourceLanguage": "mixed",
+            "sourceText": "B 01",
+            "id": "B 01 · halaman PDF 462"
+          },
+          "sourcePage": 462,
+          "rows": [
+            {
+              "cells": [
+                {
+                  "sourceLanguage": "fil",
+                  "sourceText": "Mas mainit sa Maynila' kaysa sa Baguio.",
+                  "id": "Di Manila lebih panas daripada di Baguio.",
+                  "tagalog": "Mas mainit sa Maynila' kaysa sa Baguio."
+                },
+                {
+                  "sourceLanguage": "en",
+                  "sourceText": "More hot in Manila than in Baguio.",
+                  "id": "Glosa harfiah (Inggris)\nMore hot in Manila than in Baguio."
+                },
+                {
+                  "sourceLanguage": "en",
+                  "sourceText": "It's hotter in Manila than in Baguio.",
+                  "id": "Terjemahan alami sumber (Inggris)\nIt's hotter in Manila than in Baguio."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "example",
+          "title": {
+            "sourceLanguage": "mixed",
+            "sourceText": "B 02",
+            "id": "B 02 · halaman PDF 463"
+          },
+          "sourcePage": 463,
+          "rows": [
+            {
+              "cells": [
+                {
+                  "sourceLanguage": "fil",
+                  "sourceText": "Mas matangkad ka kaysa kay Ray.",
+                  "id": "Kamu lebih tinggi dari Ray.",
+                  "tagalog": "Mas matangkad ka kaysa kay Ray."
+                },
+                {
+                  "sourceLanguage": "en",
+                  "sourceText": "More tall you than [Sa marker] Ray.",
+                  "id": "Glosa harfiah (Inggris)\nMore tall you than [Sa marker] Ray."
+                },
+                {
+                  "sourceLanguage": "en",
+                  "sourceText": "You're taller than Ray.",
+                  "id": "Terjemahan alami sumber (Inggris)\nYou're taller than Ray."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "example",
+          "title": {
+            "sourceLanguage": "mixed",
+            "sourceText": "B 03",
+            "id": "B 03 · halaman PDF 464"
+          },
+          "sourcePage": 464,
+          "rows": [
+            {
+              "cells": [
+                {
+                  "sourceLanguage": "fil",
+                  "sourceText": "Marunong ka bang mag-chess?",
+                  "id": "Tahukah Anda cara bermain catur?",
+                  "tagalog": "Marunong ka bang mag-chess?"
+                },
+                {
+                  "sourceLanguage": "en",
+                  "sourceText": "Know how you [question]-[linker] to play chess?",
+                  "id": "Glosa harfiah (Inggris)\nKnow how you [question]-[linker] to play chess?"
+                },
+                {
+                  "sourceLanguage": "en",
+                  "sourceText": "Do you know how to play chess?",
+                  "id": "Terjemahan alami sumber (Inggris)\nDo you know how to play chess?"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "example",
+          "title": {
+            "sourceLanguage": "mixed",
+            "sourceText": "B 04",
+            "id": "B 04 · halaman PDF 465"
+          },
+          "sourcePage": 465,
+          "rows": [
+            {
+              "cells": [
+                {
+                  "sourceLanguage": "fil",
+                  "sourceText": "Oo, pero mas magaling ka sa chess kaysa sa akin.",
+                  "id": "Ya, tapi kamu lebih jago catur daripada aku.",
+                  "tagalog": "Oo, pero mas magaling ka sa chess kaysa sa akin."
+                },
+                {
+                  "sourceLanguage": "en",
+                  "sourceText": "Yes, but more good you at chess than [Sa marker] me.",
+                  "id": "Glosa harfiah (Inggris)\nYes, but more good you at chess than [Sa marker] me."
+                },
+                {
+                  "sourceLanguage": "en",
+                  "sourceText": "Yes, but you're better at chess than me.",
+                  "id": "Terjemahan alami sumber (Inggris)\nYes, but you're better at chess than me."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "example",
+          "title": {
+            "sourceLanguage": "mixed",
+            "sourceText": "B 05",
+            "id": "B 05 · halaman PDF 466"
+          },
+          "sourcePage": 466,
+          "rows": [
+            {
+              "cells": [
+                {
+                  "sourceLanguage": "fil",
+                  "sourceText": "tagsibol, tag-init, tag-ulan, taglagas, taglamig",
+                  "id": "Musim semi, musim panas, musim hujan, musim gugur, musim dingin",
+                  "tagalog": "tagsibol, tag-init, tag-ulan, taglagas, taglamig"
+                },
+                {
+                  "sourceLanguage": "en",
+                  "sourceText": "spring, hot season/summer, rainy season, autumn, cold season/winter",
+                  "id": "Glosa harfiah (Inggris)\nspring, hot season/summer, rainy season, autumn, cold season/winter"
+                },
+                {
+                  "sourceLanguage": "en",
+                  "sourceText": "spring, hot season/summer, rainy season, autumn, cold season/winter",
+                  "id": "Terjemahan alami sumber (Inggris)\nspring, hot season/summer, rainy season, autumn, cold season/winter"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "example",
+          "title": {
+            "sourceLanguage": "mixed",
+            "sourceText": "B 06",
+            "id": "B 06 · halaman PDF 467"
+          },
+          "sourcePage": 467,
+          "rows": [
+            {
+              "cells": [
+                {
+                  "sourceLanguage": "fil",
+                  "sourceText": "Malakas ang hangin at ulan.",
+                  "id": "Angin kencang dan hujan deras. (Angin dan hujan kencang/lebat.)",
+                  "tagalog": "Malakas ang hangin at ulan."
+                },
+                {
+                  "sourceLanguage": "en",
+                  "sourceText": "Strong the wind and rain.",
+                  "id": "Glosa harfiah (Inggris)\nStrong the wind and rain."
+                },
+                {
+                  "sourceLanguage": "en",
+                  "sourceText": "The wind is strong and it's raining hard. (The wind and rain are strong/heavy.)",
+                  "id": "Terjemahan alami sumber (Inggris)\nThe wind is strong and it's raining hard. (The wind and rain are strong/heavy.)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "example",
+          "title": {
+            "sourceLanguage": "mixed",
+            "sourceText": "B 07",
+            "id": "B 07 · halaman PDF 468"
+          },
+          "sourcePage": 468,
+          "rows": [
+            {
+              "cells": [
+                {
+                  "sourceLanguage": "fil",
+                  "sourceText": "Ang lakas ng bagyo!",
+                  "id": "Topan ini sangat kuat!",
+                  "tagalog": "Ang lakas ng bagyo!"
+                },
+                {
+                  "sourceLanguage": "en",
+                  "sourceText": "How strong of typhoon!",
+                  "id": "Glosa harfiah (Inggris)\nHow strong of typhoon!"
+                },
+                {
+                  "sourceLanguage": "en",
+                  "sourceText": "The typhoon is so strong!",
+                  "id": "Terjemahan alami sumber (Inggris)\nThe typhoon is so strong!"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "example",
+          "title": {
+            "sourceLanguage": "mixed",
+            "sourceText": "B 08",
+            "id": "B 08 · halaman PDF 469"
+          },
+          "sourcePage": 469,
+          "rows": [
+            {
+              "cells": [
+                {
+                  "sourceLanguage": "fil",
+                  "sourceText": "Nakakatakot ang kidlat.",
+                  "id": "Petir itu menakutkan.",
+                  "tagalog": "Nakakatakot ang kidlat."
+                },
+                {
+                  "sourceLanguage": "en",
+                  "sourceText": "Scary the lightning.",
+                  "id": "Glosa harfiah (Inggris)\nScary the lightning."
+                },
+                {
+                  "sourceLanguage": "en",
+                  "sourceText": "The lightning is scary.",
+                  "id": "Terjemahan alami sumber (Inggris)\nThe lightning is scary."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "example",
+          "title": {
+            "sourceLanguage": "mixed",
+            "sourceText": "B 09",
+            "id": "B 09 · halaman PDF 470"
+          },
+          "sourcePage": 470,
+          "rows": [
+            {
+              "cells": [
+                {
+                  "sourceLanguage": "fil",
+                  "sourceText": "Takot siya sa kidlat.",
+                  "id": "Dia takut dengan petir.",
+                  "tagalog": "Takot siya sa kidlat."
+                },
+                {
+                  "sourceLanguage": "en",
+                  "sourceText": "Afraid he/she of lightning.",
+                  "id": "Glosa harfiah (Inggris)\nAfraid he/she of lightning."
+                },
+                {
+                  "sourceLanguage": "en",
+                  "sourceText": "He/she's afraid of lightning.",
+                  "id": "Terjemahan alami sumber (Inggris)\nHe/she's afraid of lightning."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "exercises",
+      "type": "EXERCISES",
+      "title": {
+        "sourceLanguage": "mixed",
+        "sourceText": "Drills",
+        "id": "Latihan pola"
+      },
+      "blocks": [
+        {
+          "type": "exercise",
+          "role": "instruction",
+          "text": {
+            "sourceLanguage": "mixed",
+            "sourceText": "Drills",
+            "id": "Latihan pola (Drills)"
+          },
+          "sourcePage": 461
+        },
+        {
+          "type": "exercise",
+          "role": "content",
+          "title": {
+            "sourceLanguage": "mixed",
+            "sourceText": "A 13",
+            "id": "A 13 · halaman PDF 460"
+          },
+          "sourcePage": 460,
+          "text": {
+            "sourceLanguage": "fil",
+            "sourceText": "Kasi bukas ang bintana' sa likod!",
+            "id": "Itu karena jendela di belakang terbuka!",
+            "tagalog": "Kasi bukas ang bintana' sa likod!"
+          }
+        },
+        {
+          "type": "exercise",
+          "role": "content",
+          "title": {
+            "sourceLanguage": "mixed",
+            "sourceText": "B 01",
+            "id": "B 01 · halaman PDF 462"
+          },
+          "sourcePage": 462,
+          "text": {
+            "sourceLanguage": "fil",
+            "sourceText": "Mas mainit sa Maynila' kaysa sa Baguio.",
+            "id": "Di Manila lebih panas daripada di Baguio.",
+            "tagalog": "Mas mainit sa Maynila' kaysa sa Baguio."
+          }
+        },
+        {
+          "type": "exercise",
+          "role": "content",
+          "title": {
+            "sourceLanguage": "mixed",
+            "sourceText": "B 02",
+            "id": "B 02 · halaman PDF 463"
+          },
+          "sourcePage": 463,
+          "text": {
+            "sourceLanguage": "fil",
+            "sourceText": "Mas matangkad ka kaysa kay Ray.",
+            "id": "Kamu lebih tinggi dari Ray.",
+            "tagalog": "Mas matangkad ka kaysa kay Ray."
+          }
+        },
+        {
+          "type": "exercise",
+          "role": "content",
+          "title": {
+            "sourceLanguage": "mixed",
+            "sourceText": "B 03",
+            "id": "B 03 · halaman PDF 464"
+          },
+          "sourcePage": 464,
+          "text": {
+            "sourceLanguage": "fil",
+            "sourceText": "Marunong ka bang mag-chess?",
+            "id": "Tahukah Anda cara bermain catur?",
+            "tagalog": "Marunong ka bang mag-chess?"
+          }
+        },
+        {
+          "type": "exercise",
+          "role": "content",
+          "title": {
+            "sourceLanguage": "mixed",
+            "sourceText": "B 04",
+            "id": "B 04 · halaman PDF 465"
+          },
+          "sourcePage": 465,
+          "text": {
+            "sourceLanguage": "fil",
+            "sourceText": "Oo, pero mas magaling ka sa chess kaysa sa akin.",
+            "id": "Ya, tapi kamu lebih jago catur daripada aku.",
+            "tagalog": "Oo, pero mas magaling ka sa chess kaysa sa akin."
+          }
+        },
+        {
+          "type": "exercise",
+          "role": "content",
+          "title": {
+            "sourceLanguage": "mixed",
+            "sourceText": "B 05",
+            "id": "B 05 · halaman PDF 466"
+          },
+          "sourcePage": 466,
+          "text": {
+            "sourceLanguage": "fil",
+            "sourceText": "tagsibol, tag-init, tag-ulan, taglagas, taglamig",
+            "id": "Musim semi, musim panas, musim hujan, musim gugur, musim dingin",
+            "tagalog": "tagsibol, tag-init, tag-ulan, taglagas, taglamig"
+          }
+        },
+        {
+          "type": "exercise",
+          "role": "content",
+          "title": {
+            "sourceLanguage": "mixed",
+            "sourceText": "B 06",
+            "id": "B 06 · halaman PDF 467"
+          },
+          "sourcePage": 467,
+          "text": {
+            "sourceLanguage": "fil",
+            "sourceText": "Malakas ang hangin at ulan.",
+            "id": "Angin kencang dan hujan deras. (Angin dan hujan kencang/lebat.)",
+            "tagalog": "Malakas ang hangin at ulan."
+          }
+        },
+        {
+          "type": "exercise",
+          "role": "content",
+          "title": {
+            "sourceLanguage": "mixed",
+            "sourceText": "B 07",
+            "id": "B 07 · halaman PDF 468"
+          },
+          "sourcePage": 468,
+          "text": {
+            "sourceLanguage": "fil",
+            "sourceText": "Ang lakas ng bagyo!",
+            "id": "Topan ini sangat kuat!",
+            "tagalog": "Ang lakas ng bagyo!"
+          }
+        },
+        {
+          "type": "exercise",
+          "role": "content",
+          "title": {
+            "sourceLanguage": "mixed",
+            "sourceText": "B 08",
+            "id": "B 08 · halaman PDF 469"
+          },
+          "sourcePage": 469,
+          "text": {
+            "sourceLanguage": "fil",
+            "sourceText": "Nakakatakot ang kidlat.",
+            "id": "Petir itu menakutkan.",
+            "tagalog": "Nakakatakot ang kidlat."
+          }
+        },
+        {
+          "type": "exercise",
+          "role": "content",
+          "title": {
+            "sourceLanguage": "mixed",
+            "sourceText": "B 09",
+            "id": "B 09 · halaman PDF 470"
+          },
+          "sourcePage": 470,
+          "text": {
+            "sourceLanguage": "fil",
+            "sourceText": "Takot siya sa kidlat.",
+            "id": "Dia takut dengan petir.",
+            "tagalog": "Takot siya sa kidlat."
+          }
+        }
+      ]
+    },
+    {
+      "id": "summary",
+      "type": "SUMMARY",
+      "title": {
+        "sourceLanguage": "mixed",
+        "sourceText": "Ang init!",
+        "id": "Ringkasan bab"
+      },
+      "blocks": [
+        {
+          "type": "text",
+          "style": "heading",
+          "text": {
+            "sourceLanguage": "mixed",
+            "sourceText": "Story A",
+            "id": "Dialog utama"
+          }
+        },
+        {
+          "type": "list",
+          "style": "outline",
+          "items": [
+            {
+              "sourceLanguage": "fil",
+              "sourceText": "Ang init!",
+              "id": "Panas sekali!",
+              "tagalog": "Ang init!"
+            },
+            {
+              "sourceLanguage": "fil",
+              "sourceText": "Grabe ang init dito!",
+              "id": "Di sini panas sekali! (Panas di sini luar biasa!)",
+              "tagalog": "Grabe ang init dito!"
+            },
+            {
+              "sourceLanguage": "fil",
+              "sourceText": "Oo. Sobrang init. Mas mainit pa rito kaysa sa labas.",
+              "id": "Ya. Panas sekali. Di sini bahkan lebih panas daripada di luar.",
+              "tagalog": "Oo. Sobrang init. Mas mainit pa rito kaysa sa labas."
+            },
+            {
+              "sourceLanguage": "fil",
+              "sourceText": "Di ba bago ang aircon natin?",
+              "id": "Bukankah AC kita baru?",
+              "tagalog": "Di ba bago ang aircon natin?"
+            },
+            {
+              "sourceLanguage": "fil",
+              "sourceText": "Oo.",
+              "id": "Ya.",
+              "tagalog": "Oo."
+            },
+            {
+              "sourceLanguage": "fil",
+              "sourceText": "Nakabukas ba ang aircon?",
+              "id": "Apakah AC sudah dihidupkan?",
+              "tagalog": "Nakabukas ba ang aircon?"
+            },
+            {
+              "sourceLanguage": "fil",
+              "sourceText": "Oo, tingnan mo.",
+              "id": "Ya, lihatlah AC-nya.",
+              "tagalog": "Oo, tingnan mo."
+            },
+            {
+              "sourceLanguage": "fil",
+              "sourceText": "Bakit parang mas malakas pa ang lumang aircon kaysa rito?",
+              "id": "Mengapa AC lama nampaknya lebih kuat dari yang ini?",
+              "tagalog": "Bakit parang mas malakas pa ang lumang aircon kaysa rito?"
+            },
+            {
+              "sourceLanguage": "fil",
+              "sourceText": "Baka naman may problema ito?",
+              "id": "Mungkin ada masalah dengan yang satu ini?",
+              "tagalog": "Baka naman may problema ito?"
+            },
+            {
+              "sourceLanguage": "fil",
+              "sourceText": "Hindi', mukhang ayos naman.",
+              "id": "Tidak, sepertinya ini berfungsi dengan baik.",
+              "tagalog": "Hindi', mukhang ayos naman."
+            },
+            {
+              "sourceLanguage": "fil",
+              "sourceText": "Teka. Naririnig mo ba ang mga sasakyan sa labas?",
+              "id": "Tunggu. Bisakah Anda mendengar suara mobil di luar?",
+              "tagalog": "Teka. Naririnig mo ba ang mga sasakyan sa labas?"
+            },
+            {
+              "sourceLanguage": "fil",
+              "sourceText": "Oo, bakit?",
+              "id": "Ya kenapa?",
+              "tagalog": "Oo, bakit?"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "style": "heading",
+          "text": {
+            "sourceLanguage": "mixed",
+            "sourceText": "Drills",
+            "id": "Latihan pola"
+          }
+        },
+        {
+          "type": "list",
+          "style": "outline",
+          "items": [
+            {
+              "sourceLanguage": "fil",
+              "sourceText": "Kasi bukas ang bintana' sa likod!",
+              "id": "Itu karena jendela di belakang terbuka!",
+              "tagalog": "Kasi bukas ang bintana' sa likod!"
+            },
+            {
+              "sourceLanguage": "fil",
+              "sourceText": "Mas mainit sa Maynila' kaysa sa Baguio.",
+              "id": "Di Manila lebih panas daripada di Baguio.",
+              "tagalog": "Mas mainit sa Maynila' kaysa sa Baguio."
+            },
+            {
+              "sourceLanguage": "fil",
+              "sourceText": "Mas matangkad ka kaysa kay Ray.",
+              "id": "Kamu lebih tinggi dari Ray.",
+              "tagalog": "Mas matangkad ka kaysa kay Ray."
+            },
+            {
+              "sourceLanguage": "fil",
+              "sourceText": "Marunong ka bang mag-chess?",
+              "id": "Tahukah Anda cara bermain catur?",
+              "tagalog": "Marunong ka bang mag-chess?"
+            },
+            {
+              "sourceLanguage": "fil",
+              "sourceText": "Oo, pero mas magaling ka sa chess kaysa sa akin.",
+              "id": "Ya, tapi kamu lebih jago catur daripada aku.",
+              "tagalog": "Oo, pero mas magaling ka sa chess kaysa sa akin."
+            },
+            {
+              "sourceLanguage": "fil",
+              "sourceText": "tagsibol, tag-init, tag-ulan, taglagas, taglamig",
+              "id": "Musim semi, musim panas, musim hujan, musim gugur, musim dingin",
+              "tagalog": "tagsibol, tag-init, tag-ulan, taglagas, taglamig"
+            },
+            {
+              "sourceLanguage": "fil",
+              "sourceText": "Malakas ang hangin at ulan.",
+              "id": "Angin kencang dan hujan deras. (Angin dan hujan kencang/lebat.)",
+              "tagalog": "Malakas ang hangin at ulan."
+            },
+            {
+              "sourceLanguage": "fil",
+              "sourceText": "Ang lakas ng bagyo!",
+              "id": "Topan ini sangat kuat!",
+              "tagalog": "Ang lakas ng bagyo!"
+            },
+            {
+              "sourceLanguage": "fil",
+              "sourceText": "Nakakatakot ang kidlat.",
+              "id": "Petir itu menakutkan.",
+              "tagalog": "Nakakatakot ang kidlat."
+            },
+            {
+              "sourceLanguage": "fil",
+              "sourceText": "Takot siya sa kidlat.",
+              "id": "Dia takut dengan petir.",
+              "tagalog": "Takot siya sa kidlat."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "contentAudit": {
+    "sourcePages": 25,
+    "phrasePages": 22,
+    "storyPhrases": 12,
+    "drillPhrases": 10,
+    "noteBlocks": 18,
+    "vocabularyEntries": 70,
+    "sourceTextItemsBefore": 85,
+    "sourceTextItemsAfter": 85,
+    "recapVerified": true,
+    "imageCount": 1
+  }
+}

@@ -17,12 +17,12 @@
     {
       "sourceLanguage": "en",
       "sourceText": "• Give and understand a summary of a movie",
-      "id": "Berikan dan memahami ringkasan film"
+      "id": "• Menyampaikan dan memahami ringkasan film"
     },
     {
       "sourceLanguage": "en",
       "sourceText": "• Express your response to a movie",
-      "id": "Ekspres Respon Anda untuk sebuah film"
+      "id": "• Menyatakan tanggapan terhadap film"
     }
   ],
   "source": {
@@ -38,193 +38,139 @@
   ],
   "sections": [
     {
-      "id": "lesson-23-overview",
-      "type": "OVERVIEW",
+      "type": "INTRODUCTION",
       "title": {
-        "sourceLanguage": "mixed",
-        "sourceText": "Overview",
-        "id": "Gambaran Umum"
+        "sourceLanguage": "en",
+        "sourceText": "An Overview of Lesson 23",
+        "id": "Pengantar Pelajaran 23"
       },
       "blocks": [
         {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "en",
-            "sourceText": "An Overview of Lesson 23",
-            "id": "Gambaran Umum Pelajaran 23"
-          }
+          "type": "list",
+          "style": "objectives",
+          "items": [
+            {
+              "sourceLanguage": "en",
+              "sourceText": "• Give and understand a summary of a movie",
+              "id": "• Menyampaikan dan memahami ringkasan film"
+            },
+            {
+              "sourceLanguage": "en",
+              "sourceText": "• Express your response to a movie",
+              "id": "• Menyatakan tanggapan terhadap film"
+            }
+          ]
         },
         {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "mixed",
-            "sourceText": "Objectives",
-            "id": "Objeksi"
-          }
-        },
-        {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "en",
-            "sourceText": "• Give and understand a summary of a movie",
-            "id": "Berikan dan memahami ringkasan film"
-          }
-        },
-        {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "en",
-            "sourceText": "• Express your response to a movie",
-            "id": "Ekspres Respon Anda untuk sebuah film"
-          }
-        },
-        {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "mixed",
-            "sourceText": "Vocabulary",
-            "id": "Kosakata"
-          }
-        },
-        {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "mixed",
-            "sourceText": "• Nouns",
-            "id": "Nouns"
-          }
-        },
-        {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "mixed",
-            "sourceText": "• Adjectives",
-            "id": "Advances"
-          }
-        },
-        {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "mixed",
-            "sourceText": "• Causative Verbs",
-            "id": "Bahasa Causative"
-          }
-        },
-        {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "mixed",
-            "sourceText": "• Other Verbs",
-            "id": "Verbs Lain"
-          }
-        },
-        {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "mixed",
-            "sourceText": "• Prefixes",
-            "id": "Prefiks"
-          }
-        },
-        {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "mixed",
-            "sourceText": "• Idioms and Expressions",
-            "id": "Ekspresi dan Idiom"
-          }
-        },
-        {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "mixed",
-            "sourceText": "Reading Text: Minsa’y Isang Gamu-gamo Once a Moth (1976)",
-            "id": "Teks Bacaan: Minsa 'y Isang Gamu- gamo Sekali Moth (1976)"
-          }
-        },
-        {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "mixed",
-            "sourceText": "Reading Comprehension",
-            "id": "Pemahaman Bacaan"
-          }
-        },
-        {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "mixed",
-            "sourceText": "Activities",
-            "id": "Aktivitas"
-          }
-        },
-        {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "mixed",
-            "sourceText": "Activity 1: My Favorite Movie",
-            "id": "Aktivitas 1: Film Favoritku"
-          }
-        },
-        {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "mixed",
-            "sourceText": "Activity 2: Interview",
-            "id": "Aktivitas 2: Wawancara"
-          }
-        },
-        {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "mixed",
-            "sourceText": "Activity 3: Muted Dialogue",
-            "id": "Aktivitas 3: Dialog Bergumam"
-          }
-        },
-        {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "mixed",
-            "sourceText": "Grammar",
-            "id": "Tata Bahasa"
-          }
-        },
-        {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "en",
-            "sourceText": "Definition of Terms: Causative Verbs, Direct Actor, Indirect Actor, Main Clause, Subordinate Clause, Time Clause, Pagka-, Verbal Root Word",
-            "id": "Definisi Terms: Causative Verbs, Aktor Direct, Aktor Indirect, Clause Main, Clause Suobey, Clause Time, Pagka-, Verbal Root Word"
-          }
-        },
-        {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "mixed",
-            "sourceText": "Examining Form",
-            "id": "Mengkaji Bentuk"
-          }
+          "type": "list",
+          "style": "outline",
+          "items": [
+            {
+              "sourceLanguage": "mixed",
+              "sourceText": "Vocabulary",
+              "id": "Kosakata"
+            },
+            {
+              "sourceLanguage": "mixed",
+              "sourceText": "• Nouns",
+              "id": "Nouns"
+            },
+            {
+              "sourceLanguage": "mixed",
+              "sourceText": "• Adjectives",
+              "id": "Advances"
+            },
+            {
+              "sourceLanguage": "mixed",
+              "sourceText": "• Causative Verbs",
+              "id": "Bahasa Causative"
+            },
+            {
+              "sourceLanguage": "mixed",
+              "sourceText": "• Other Verbs",
+              "id": "Verbs Lain"
+            },
+            {
+              "sourceLanguage": "mixed",
+              "sourceText": "• Prefixes",
+              "id": "Prefiks"
+            },
+            {
+              "sourceLanguage": "mixed",
+              "sourceText": "• Idioms and Expressions",
+              "id": "Ekspresi dan Idiom"
+            },
+            {
+              "sourceLanguage": "mixed",
+              "sourceText": "Reading Text: Minsa’y Isang Gamu-gamo Once a Moth (1976)",
+              "id": "Teks Bacaan: Minsa 'y Isang Gamu- gamo Sekali Moth (1976)"
+            },
+            {
+              "sourceLanguage": "mixed",
+              "sourceText": "Reading Comprehension",
+              "id": "Pemahaman Bacaan"
+            },
+            {
+              "sourceLanguage": "mixed",
+              "sourceText": "Activities",
+              "id": "Aktivitas"
+            },
+            {
+              "sourceLanguage": "mixed",
+              "sourceText": "Activity 1: My Favorite Movie",
+              "id": "Aktivitas 1: Film Favoritku"
+            },
+            {
+              "sourceLanguage": "mixed",
+              "sourceText": "Activity 2: Interview",
+              "id": "Aktivitas 2: Wawancara"
+            },
+            {
+              "sourceLanguage": "mixed",
+              "sourceText": "Activity 3: Muted Dialogue",
+              "id": "Aktivitas 3: Dialog Bergumam"
+            },
+            {
+              "sourceLanguage": "mixed",
+              "sourceText": "Grammar",
+              "id": "Tata Bahasa"
+            },
+            {
+              "sourceLanguage": "en",
+              "sourceText": "Definition of Terms: Causative Verbs, Direct Actor, Indirect Actor, Main Clause, Subordinate Clause, Time Clause, Pagka-, Verbal Root Word",
+              "id": "Definisi Terms: Causative Verbs, Aktor Direct, Aktor Indirect, Clause Main, Clause Suobey, Clause Time, Pagka-, Verbal Root Word"
+            },
+            {
+              "sourceLanguage": "mixed",
+              "sourceText": "Examining Form",
+              "id": "Mengkaji Bentuk"
+            },
+            {
+              "sourceLanguage": "mixed",
+              "sourceText": "Practice",
+              "id": "Latihan"
+            },
+            {
+              "sourceLanguage": "en",
+              "sourceText": "I. Speaking Practice",
+              "id": "I. Latihan Berbicara"
+            },
+            {
+              "sourceLanguage": "mixed",
+              "sourceText": "II. Reading Practice",
+              "id": "II. Latihan Membaca"
+            },
+            {
+              "sourceLanguage": "mixed",
+              "sourceText": "III. Writing Practice",
+              "id": "III. Latihan Menulis"
+            },
+            {
+              "sourceLanguage": "mixed",
+              "sourceText": "IV. Listening Practice",
+              "id": "IV. Latihan Menyimak"
+            }
+          ]
         },
         {
           "type": "table",
@@ -295,57 +241,13 @@
                 }
               ]
             }
-          ]
-        },
-        {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "mixed",
-            "sourceText": "Practice",
-            "id": "Latihan"
-          }
-        },
-        {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "en",
-            "sourceText": "I. Speaking Practice",
-            "id": "I. Latihan Berbicara"
-          }
-        },
-        {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "mixed",
-            "sourceText": "II. Reading Practice",
-            "id": "II. Latihan Membaca"
-          }
-        },
-        {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "mixed",
-            "sourceText": "III. Writing Practice",
-            "id": "III. Latihan Menulis"
-          }
-        },
-        {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "mixed",
-            "sourceText": "IV. Listening Practice",
-            "id": "IV. Latihan Menyimak"
-          }
+          ],
+          "role": "outline"
         }
-      ]
+      ],
+      "id": "lesson-23-01-an-overview-of-lesson-23"
     },
     {
-      "id": "lesson-23-vocabulary",
       "type": "VOCABULARY",
       "title": {
         "sourceLanguage": "mixed",
@@ -355,7 +257,7 @@
       "blocks": [
         {
           "type": "text",
-          "style": "body",
+          "style": "heading",
           "text": {
             "sourceLanguage": "mixed",
             "sourceText": "Vocabulary (23–1)",
@@ -376,1093 +278,951 @@
           }
         },
         {
-          "type": "table",
-          "rows": [
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "Nouns",
-                  "id": "Kata benda"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "artista",
-                  "id": "aktor",
-                  "tagalog": "artista"
-                },
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "actor",
-                  "id": "aktor"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "bakbakan",
-                  "id": "aksi",
-                  "tagalog": "bakbakan"
-                },
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "action",
-                  "id": "aksi"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "balita",
-                  "id": "berita",
-                  "tagalog": "balita"
-                },
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "news",
-                  "id": "berita"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "banghay",
-                  "id": "plot",
-                  "tagalog": "banghay"
-                },
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "plot",
-                  "id": "plot"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "bida",
-                  "id": "karakter utama",
-                  "tagalog": "bida"
-                },
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "main character",
-                  "id": "karakter utama"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "bidang babae",
-                  "id": "Pahlawan",
-                  "tagalog": "bidang babae"
-                },
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "heroine",
-                  "id": "Pahlawan"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "bidang lalake",
-                  "id": "pahlawan",
-                  "tagalog": "bidang lalake"
-                },
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "hero",
-                  "id": "pahlawan"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "drama",
-                  "id": "drama",
-                  "tagalog": "drama"
-                },
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "drama",
-                  "id": "drama"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "eksena",
-                  "id": "adegan",
-                  "tagalog": "eksena"
-                },
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "scene",
-                  "id": "adegan"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "habulan",
-                  "id": "mengejar",
-                  "tagalog": "habulan"
-                },
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "chase",
-                  "id": "mengejar"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "huli",
-                  "id": "akhir",
-                  "tagalog": "huli"
-                },
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "end",
-                  "id": "akhir"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "kalakaran",
-                  "id": "sistem",
-                  "tagalog": "kalakaran"
-                },
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "system",
-                  "id": "sistem"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "kasukdulan",
-                  "id": "klimaks",
-                  "tagalog": "kasukdulan"
-                },
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "climax",
-                  "id": "klimaks"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "kawalan ng hustisya",
-                  "id": "ketidakadilan",
-                  "tagalog": "kawalan ng hustisya"
-                },
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "injustice",
-                  "id": "ketidakadilan"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "komedya",
-                  "id": "komedi",
-                  "tagalog": "komedya"
-                },
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "comedy",
-                  "id": "komedi"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "kontrabida",
-                  "id": "penjahat",
-                  "tagalog": "kontrabida"
-                },
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "villain",
-                  "id": "penjahat"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "kuwento",
-                  "id": "cerita",
-                  "tagalog": "kuwento"
-                },
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "story",
-                  "id": "cerita"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "militar",
-                  "id": "militer",
-                  "tagalog": "militar"
-                },
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "military",
-                  "id": "militer"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "nangyari",
-                  "id": "terjadi",
-                  "tagalog": "nangyari"
-                },
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "happen",
-                  "id": "terjadi"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "palabas",
-                  "id": "tampilkan",
-                  "tagalog": "palabas"
-                },
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "show",
-                  "id": "tampilkan"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "pamagat",
-                  "id": "judul",
-                  "tagalog": "pamagat"
-                },
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "title",
-                  "id": "judul"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "pamahalaan",
-                  "id": "pemerintah",
-                  "tagalog": "pamahalaan"
-                },
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "government",
-                  "id": "pemerintah"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "pangyayari",
-                  "id": "event",
-                  "tagalog": "pangyayari"
-                },
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "event",
-                  "id": "event"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "patalastas",
-                  "id": "komersial",
-                  "tagalog": "patalastas"
-                },
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "commercial",
-                  "id": "komersial"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "pagbabalik-tanaw",
-                  "id": "kilas balik",
-                  "tagalog": "pagbabalik-tanaw"
-                },
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "flashback",
-                  "id": "kilas balik"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "pelikulang iyakan",
-                  "id": "film dramatis",
-                  "tagalog": "pelikulang iyakan"
-                },
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "dramatic movie",
-                  "id": "film dramatis"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "programa",
-                  "id": "program",
-                  "tagalog": "programa"
-                },
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "program",
-                  "id": "program"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "sine",
-                  "id": "film",
-                  "tagalog": "sine"
-                },
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "movie",
-                  "id": "film"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "sineng iyakan",
-                  "id": "Tear- jerker",
-                  "tagalog": "sineng iyakan"
-                },
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "tear-jerker",
-                  "id": "Tear- jerker"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "simula",
-                  "id": "awal, pembukaan, awal",
-                  "tagalog": "simula"
-                },
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "start, opening, beginning",
-                  "id": "awal, pembukaan, awal"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "sundalo",
-                  "id": "Prajurit.",
-                  "tagalog": "sundalo"
-                },
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "soldier",
-                  "id": "Prajurit."
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "tagpuan",
-                  "id": "pengaturan",
-                  "tagalog": "tagpuan"
-                },
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "setting",
-                  "id": "pengaturan"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "tauhan",
-                  "id": "karakter",
-                  "tagalog": "tauhan"
-                },
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "character",
-                  "id": "karakter"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "tunggalian",
-                  "id": "konflik",
-                  "tagalog": "tunggalian"
-                },
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "conflict",
-                  "id": "konflik"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "trahedya",
-                  "id": "tragedi",
-                  "tagalog": "trahedya"
-                },
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "tragedy",
-                  "id": "tragedi"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "Adjectives",
-                  "id": "Kata sifat"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "nakakaawa",
-                  "id": "menyedihkan",
-                  "tagalog": "nakakaawa"
-                },
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "pitiful",
-                  "id": "menyedihkan"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "nakakatawa",
-                  "id": "lucu",
-                  "tagalog": "nakakatawa"
-                },
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "funny",
-                  "id": "lucu"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "nakakatakot",
-                  "id": "Menakutkan",
-                  "tagalog": "nakakatakot"
-                },
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "scary",
-                  "id": "Menakutkan"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "nakakaiyak",
-                  "id": "membuat satu menangis",
-                  "tagalog": "nakakaiyak"
-                },
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "makes one cry",
-                  "id": "membuat satu menangis"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "nakakainis",
-                  "id": "menjengkelkan",
-                  "tagalog": "nakakainis"
-                },
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "annoying",
-                  "id": "menjengkelkan"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "nakakagulat",
-                  "id": "mengejutkan, menegangkan",
-                  "tagalog": "nakakagulat"
-                },
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "surprising, suspenseful",
-                  "id": "mengejutkan, menegangkan"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "nakakalito",
-                  "id": "membingungkan",
-                  "tagalog": "nakakalito"
-                },
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "confusing",
-                  "id": "membingungkan"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "nakakalungkot",
-                  "id": "sedih, menyebabkan kesedihan atau kesulitan",
-                  "tagalog": "nakakalungkot"
-                },
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "sad, causing sorrow or distress",
-                  "id": "sedih, menyebabkan kesedihan atau kesulitan"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "nakakabato",
-                  "id": "membosankan",
-                  "tagalog": "nakakabato"
-                },
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "boring",
-                  "id": "membosankan"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "pangunahin",
-                  "id": "utama",
-                  "tagalog": "pangunahin"
-                },
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "main",
-                  "id": "utama"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "Causative Verbs",
-                  "id": "Kata Causatif"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "magpaalis",
-                  "id": "untuk memiliki seseorang meninggalkan",
-                  "tagalog": "magpaalis"
-                },
-                {
-                  "sourceLanguage": "en",
-                  "sourceText": "to have someone leave",
-                  "id": "untuk memiliki seseorang meninggalkan"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "magpabigay",
-                  "id": "untuk memiliki seseorang memberikan sesuatu",
-                  "tagalog": "magpabigay"
-                },
-                {
-                  "sourceLanguage": "en",
-                  "sourceText": "to have someone give something",
-                  "id": "untuk memiliki seseorang memberikan sesuatu"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "magpabili",
-                  "id": "untuk memiliki seseorang membeli",
-                  "tagalog": "magpabili"
-                },
-                {
-                  "sourceLanguage": "en",
-                  "sourceText": "to have someone buy",
-                  "id": "untuk memiliki seseorang membeli"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "magpagawa",
-                  "id": "untuk memiliki seseorang melakukan sesuatu",
-                  "tagalog": "magpagawa"
-                },
-                {
-                  "sourceLanguage": "en",
-                  "sourceText": "to have someone do something",
-                  "id": "untuk memiliki seseorang melakukan sesuatu"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "magpahintay",
-                  "id": "untuk memiliki seseorang menunggu",
-                  "tagalog": "magpahintay"
-                },
-                {
-                  "sourceLanguage": "en",
-                  "sourceText": "to have someone wait",
-                  "id": "untuk memiliki seseorang menunggu"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "magpainom",
-                  "id": "untuk memiliki seseorang minum",
-                  "tagalog": "magpainom"
-                },
-                {
-                  "sourceLanguage": "en",
-                  "sourceText": "to have someone drink",
-                  "id": "untuk memiliki seseorang minum"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "magpakain",
-                  "id": "untuk memiliki seseorang makan",
-                  "tagalog": "magpakain"
-                },
-                {
-                  "sourceLanguage": "en",
-                  "sourceText": "to have someone eat",
-                  "id": "untuk memiliki seseorang makan"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "magpakuha",
-                  "id": "untuk memiliki seseorang mendapatkan / mengambil",
-                  "tagalog": "magpakuha"
-                },
-                {
-                  "sourceLanguage": "en",
-                  "sourceText": "to have someone get/take",
-                  "id": "untuk memiliki seseorang mendapatkan / mengambil"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "magpalinis",
-                  "id": "untuk memiliki seseorang yang bersih",
-                  "tagalog": "magpalinis"
-                },
-                {
-                  "sourceLanguage": "en",
-                  "sourceText": "to have someone clean",
-                  "id": "untuk memiliki seseorang yang bersih"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "magpaluto",
-                  "id": "untuk memiliki seseorang memasak",
-                  "tagalog": "magpaluto"
-                },
-                {
-                  "sourceLanguage": "en",
-                  "sourceText": "to have someone cook",
-                  "id": "untuk memiliki seseorang memasak"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "magpapunta",
-                  "id": "untuk memiliki seseorang pergi",
-                  "tagalog": "magpapunta"
-                },
-                {
-                  "sourceLanguage": "en",
-                  "sourceText": "to have someone go",
-                  "id": "untuk memiliki seseorang pergi"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "magpasama",
-                  "id": "untuk memiliki seseorang pergi dengan",
-                  "tagalog": "magpasama"
-                },
-                {
-                  "sourceLanguage": "en",
-                  "sourceText": "to have someone go with",
-                  "id": "untuk memiliki seseorang pergi dengan"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "magpatulong",
-                  "id": "untuk memiliki seseorang membantu",
-                  "tagalog": "magpatulong"
-                },
-                {
-                  "sourceLanguage": "en",
-                  "sourceText": "to have someone help",
-                  "id": "untuk memiliki seseorang membantu"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "magpaturo",
-                  "id": "untuk memiliki seseorang mengajar",
-                  "tagalog": "magpaturo"
-                },
-                {
-                  "sourceLanguage": "en",
-                  "sourceText": "to have someone teach",
-                  "id": "untuk memiliki seseorang mengajar"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "magpatawag",
-                  "id": "untuk memiliki seseorang panggilan",
-                  "tagalog": "magpatawag"
-                },
-                {
-                  "sourceLanguage": "en",
-                  "sourceText": "to have someone call",
-                  "id": "untuk memiliki seseorang panggilan"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "Other Verbs",
-                  "id": "Verbs Lain"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "mangarap",
-                  "id": "untuk bermimpi",
-                  "tagalog": "mangarap"
-                },
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "to dream",
-                  "id": "untuk bermimpi"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "talakayin",
-                  "id": "untuk mengatasi, untuk membahas",
-                  "tagalog": "talakayin"
-                },
-                {
-                  "sourceLanguage": "en",
-                  "sourceText": "to tackle, to discuss",
-                  "id": "untuk mengatasi, untuk membahas"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "Prefixes",
-                  "id": "Prefiks"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "magpa-",
-                  "id": "sebuah affix verbal kausatif",
-                  "tagalog": "magpa-"
-                },
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "a causative verbal affix",
-                  "id": "sebuah affix verbal kausatif"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "pagka-",
-                  "id": "sesudah, di atas",
-                  "tagalog": "pagka-"
-                },
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "after, upon",
-                  "id": "sesudah, di atas"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "Idioms and Expressions",
-                  "id": "Idiom and Expressions"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "bigla na lang . . .",
-                  "id": "Tiba-tiba...",
-                  "tagalog": "bigla na lang . . ."
-                },
-                {
-                  "sourceLanguage": "en",
-                  "sourceText": "all of a sudden . . .",
-                  "id": "Tiba-tiba..."
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "Sino ang bida sa sine?",
-                  "id": "Siapa karakter utamanya?",
-                  "tagalog": "Sino ang bida sa sine?"
-                },
-                {
-                  "sourceLanguage": "en",
-                  "sourceText": "Who is the main character?",
-                  "id": "Siapa karakter utamanya?"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "Saan ginawa ang sine?",
-                  "id": "Di mana filmnya dibuat / ditembak?",
-                  "tagalog": "Saan ginawa ang sine?"
-                },
-                {
-                  "sourceLanguage": "en",
-                  "sourceText": "Where was the movie made/shot?",
-                  "id": "Di mana filmnya dibuat / ditembak?"
-                }
-              ]
+          "type": "vocabulary",
+          "entries": [
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "artista",
+                "id": "aktor",
+                "tagalog": "artista"
+              },
+              "meaning": {
+                "sourceLanguage": "mixed",
+                "sourceText": "actor",
+                "id": "aktor"
+              }
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "bakbakan",
+                "id": "aksi",
+                "tagalog": "bakbakan"
+              },
+              "meaning": {
+                "sourceLanguage": "mixed",
+                "sourceText": "action",
+                "id": "aksi"
+              }
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "balita",
+                "id": "berita",
+                "tagalog": "balita"
+              },
+              "meaning": {
+                "sourceLanguage": "mixed",
+                "sourceText": "news",
+                "id": "berita"
+              }
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "banghay",
+                "id": "plot",
+                "tagalog": "banghay"
+              },
+              "meaning": {
+                "sourceLanguage": "mixed",
+                "sourceText": "plot",
+                "id": "plot"
+              }
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "bida",
+                "id": "karakter utama",
+                "tagalog": "bida"
+              },
+              "meaning": {
+                "sourceLanguage": "mixed",
+                "sourceText": "main character",
+                "id": "karakter utama"
+              }
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "bidang babae",
+                "id": "Pahlawan",
+                "tagalog": "bidang babae"
+              },
+              "meaning": {
+                "sourceLanguage": "mixed",
+                "sourceText": "heroine",
+                "id": "Pahlawan"
+              }
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "bidang lalake",
+                "id": "pahlawan",
+                "tagalog": "bidang lalake"
+              },
+              "meaning": {
+                "sourceLanguage": "mixed",
+                "sourceText": "hero",
+                "id": "pahlawan"
+              }
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "drama",
+                "id": "drama",
+                "tagalog": "drama"
+              },
+              "meaning": {
+                "sourceLanguage": "mixed",
+                "sourceText": "drama",
+                "id": "drama"
+              }
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "eksena",
+                "id": "adegan",
+                "tagalog": "eksena"
+              },
+              "meaning": {
+                "sourceLanguage": "mixed",
+                "sourceText": "scene",
+                "id": "adegan"
+              }
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "habulan",
+                "id": "mengejar",
+                "tagalog": "habulan"
+              },
+              "meaning": {
+                "sourceLanguage": "mixed",
+                "sourceText": "chase",
+                "id": "mengejar"
+              }
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "huli",
+                "id": "akhir",
+                "tagalog": "huli"
+              },
+              "meaning": {
+                "sourceLanguage": "mixed",
+                "sourceText": "end",
+                "id": "akhir"
+              }
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "kalakaran",
+                "id": "sistem",
+                "tagalog": "kalakaran"
+              },
+              "meaning": {
+                "sourceLanguage": "mixed",
+                "sourceText": "system",
+                "id": "sistem"
+              }
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "kasukdulan",
+                "id": "klimaks",
+                "tagalog": "kasukdulan"
+              },
+              "meaning": {
+                "sourceLanguage": "mixed",
+                "sourceText": "climax",
+                "id": "klimaks"
+              }
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "kawalan ng hustisya",
+                "id": "ketidakadilan",
+                "tagalog": "kawalan ng hustisya"
+              },
+              "meaning": {
+                "sourceLanguage": "mixed",
+                "sourceText": "injustice",
+                "id": "ketidakadilan"
+              }
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "komedya",
+                "id": "komedi",
+                "tagalog": "komedya"
+              },
+              "meaning": {
+                "sourceLanguage": "mixed",
+                "sourceText": "comedy",
+                "id": "komedi"
+              }
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "kontrabida",
+                "id": "penjahat",
+                "tagalog": "kontrabida"
+              },
+              "meaning": {
+                "sourceLanguage": "mixed",
+                "sourceText": "villain",
+                "id": "penjahat"
+              }
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "kuwento",
+                "id": "cerita",
+                "tagalog": "kuwento"
+              },
+              "meaning": {
+                "sourceLanguage": "mixed",
+                "sourceText": "story",
+                "id": "cerita"
+              }
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "militar",
+                "id": "militer",
+                "tagalog": "militar"
+              },
+              "meaning": {
+                "sourceLanguage": "mixed",
+                "sourceText": "military",
+                "id": "militer"
+              }
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "nangyari",
+                "id": "terjadi",
+                "tagalog": "nangyari"
+              },
+              "meaning": {
+                "sourceLanguage": "mixed",
+                "sourceText": "happen",
+                "id": "terjadi"
+              }
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "palabas",
+                "id": "tampilkan",
+                "tagalog": "palabas"
+              },
+              "meaning": {
+                "sourceLanguage": "mixed",
+                "sourceText": "show",
+                "id": "tampilkan"
+              }
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "pamagat",
+                "id": "judul",
+                "tagalog": "pamagat"
+              },
+              "meaning": {
+                "sourceLanguage": "mixed",
+                "sourceText": "title",
+                "id": "judul"
+              }
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "pamahalaan",
+                "id": "pemerintah",
+                "tagalog": "pamahalaan"
+              },
+              "meaning": {
+                "sourceLanguage": "mixed",
+                "sourceText": "government",
+                "id": "pemerintah"
+              }
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "pangyayari",
+                "id": "event",
+                "tagalog": "pangyayari"
+              },
+              "meaning": {
+                "sourceLanguage": "mixed",
+                "sourceText": "event",
+                "id": "event"
+              }
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "patalastas",
+                "id": "komersial",
+                "tagalog": "patalastas"
+              },
+              "meaning": {
+                "sourceLanguage": "mixed",
+                "sourceText": "commercial",
+                "id": "komersial"
+              }
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "pagbabalik-tanaw",
+                "id": "kilas balik",
+                "tagalog": "pagbabalik-tanaw"
+              },
+              "meaning": {
+                "sourceLanguage": "mixed",
+                "sourceText": "flashback",
+                "id": "kilas balik"
+              }
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "pelikulang iyakan",
+                "id": "film dramatis",
+                "tagalog": "pelikulang iyakan"
+              },
+              "meaning": {
+                "sourceLanguage": "mixed",
+                "sourceText": "dramatic movie",
+                "id": "film dramatis"
+              }
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "programa",
+                "id": "program",
+                "tagalog": "programa"
+              },
+              "meaning": {
+                "sourceLanguage": "mixed",
+                "sourceText": "program",
+                "id": "program"
+              }
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "sine",
+                "id": "film",
+                "tagalog": "sine"
+              },
+              "meaning": {
+                "sourceLanguage": "mixed",
+                "sourceText": "movie",
+                "id": "film"
+              }
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "sineng iyakan",
+                "id": "Tear- jerker",
+                "tagalog": "sineng iyakan"
+              },
+              "meaning": {
+                "sourceLanguage": "mixed",
+                "sourceText": "tear-jerker",
+                "id": "Tear- jerker"
+              }
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "simula",
+                "id": "awal, pembukaan, awal",
+                "tagalog": "simula"
+              },
+              "meaning": {
+                "sourceLanguage": "mixed",
+                "sourceText": "start, opening, beginning",
+                "id": "awal, pembukaan, awal"
+              }
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "sundalo",
+                "id": "Prajurit.",
+                "tagalog": "sundalo"
+              },
+              "meaning": {
+                "sourceLanguage": "mixed",
+                "sourceText": "soldier",
+                "id": "Prajurit."
+              }
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "tagpuan",
+                "id": "pengaturan",
+                "tagalog": "tagpuan"
+              },
+              "meaning": {
+                "sourceLanguage": "mixed",
+                "sourceText": "setting",
+                "id": "pengaturan"
+              }
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "tauhan",
+                "id": "karakter",
+                "tagalog": "tauhan"
+              },
+              "meaning": {
+                "sourceLanguage": "mixed",
+                "sourceText": "character",
+                "id": "karakter"
+              }
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "tunggalian",
+                "id": "konflik",
+                "tagalog": "tunggalian"
+              },
+              "meaning": {
+                "sourceLanguage": "mixed",
+                "sourceText": "conflict",
+                "id": "konflik"
+              }
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "trahedya",
+                "id": "tragedi",
+                "tagalog": "trahedya"
+              },
+              "meaning": {
+                "sourceLanguage": "mixed",
+                "sourceText": "tragedy",
+                "id": "tragedi"
+              }
             }
-          ]
+          ],
+          "title": {
+            "sourceLanguage": "mixed",
+            "sourceText": "Nouns",
+            "id": "Kata benda"
+          }
+        },
+        {
+          "type": "vocabulary",
+          "entries": [
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "nakakaawa",
+                "id": "menyedihkan",
+                "tagalog": "nakakaawa"
+              },
+              "meaning": {
+                "sourceLanguage": "mixed",
+                "sourceText": "pitiful",
+                "id": "menyedihkan"
+              }
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "nakakatawa",
+                "id": "lucu",
+                "tagalog": "nakakatawa"
+              },
+              "meaning": {
+                "sourceLanguage": "mixed",
+                "sourceText": "funny",
+                "id": "lucu"
+              }
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "nakakatakot",
+                "id": "Menakutkan",
+                "tagalog": "nakakatakot"
+              },
+              "meaning": {
+                "sourceLanguage": "mixed",
+                "sourceText": "scary",
+                "id": "Menakutkan"
+              }
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "nakakaiyak",
+                "id": "membuat satu menangis",
+                "tagalog": "nakakaiyak"
+              },
+              "meaning": {
+                "sourceLanguage": "mixed",
+                "sourceText": "makes one cry",
+                "id": "membuat satu menangis"
+              }
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "nakakainis",
+                "id": "menjengkelkan",
+                "tagalog": "nakakainis"
+              },
+              "meaning": {
+                "sourceLanguage": "mixed",
+                "sourceText": "annoying",
+                "id": "menjengkelkan"
+              }
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "nakakagulat",
+                "id": "mengejutkan, menegangkan",
+                "tagalog": "nakakagulat"
+              },
+              "meaning": {
+                "sourceLanguage": "mixed",
+                "sourceText": "surprising, suspenseful",
+                "id": "mengejutkan, menegangkan"
+              }
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "nakakalito",
+                "id": "membingungkan",
+                "tagalog": "nakakalito"
+              },
+              "meaning": {
+                "sourceLanguage": "mixed",
+                "sourceText": "confusing",
+                "id": "membingungkan"
+              }
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "nakakalungkot",
+                "id": "sedih, menyebabkan kesedihan atau kesulitan",
+                "tagalog": "nakakalungkot"
+              },
+              "meaning": {
+                "sourceLanguage": "mixed",
+                "sourceText": "sad, causing sorrow or distress",
+                "id": "sedih, menyebabkan kesedihan atau kesulitan"
+              }
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "nakakabato",
+                "id": "membosankan",
+                "tagalog": "nakakabato"
+              },
+              "meaning": {
+                "sourceLanguage": "mixed",
+                "sourceText": "boring",
+                "id": "membosankan"
+              }
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "pangunahin",
+                "id": "utama",
+                "tagalog": "pangunahin"
+              },
+              "meaning": {
+                "sourceLanguage": "mixed",
+                "sourceText": "main",
+                "id": "utama"
+              }
+            }
+          ],
+          "title": {
+            "sourceLanguage": "mixed",
+            "sourceText": "Adjectives",
+            "id": "Kata sifat"
+          }
+        },
+        {
+          "type": "vocabulary",
+          "entries": [
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "magpaalis",
+                "id": "untuk memiliki seseorang meninggalkan",
+                "tagalog": "magpaalis"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "to have someone leave",
+                "id": "untuk memiliki seseorang meninggalkan"
+              }
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "magpabigay",
+                "id": "untuk memiliki seseorang memberikan sesuatu",
+                "tagalog": "magpabigay"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "to have someone give something",
+                "id": "untuk memiliki seseorang memberikan sesuatu"
+              }
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "magpabili",
+                "id": "untuk memiliki seseorang membeli",
+                "tagalog": "magpabili"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "to have someone buy",
+                "id": "untuk memiliki seseorang membeli"
+              }
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "magpagawa",
+                "id": "untuk memiliki seseorang melakukan sesuatu",
+                "tagalog": "magpagawa"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "to have someone do something",
+                "id": "untuk memiliki seseorang melakukan sesuatu"
+              }
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "magpahintay",
+                "id": "untuk memiliki seseorang menunggu",
+                "tagalog": "magpahintay"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "to have someone wait",
+                "id": "untuk memiliki seseorang menunggu"
+              }
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "magpainom",
+                "id": "untuk memiliki seseorang minum",
+                "tagalog": "magpainom"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "to have someone drink",
+                "id": "untuk memiliki seseorang minum"
+              }
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "magpakain",
+                "id": "untuk memiliki seseorang makan",
+                "tagalog": "magpakain"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "to have someone eat",
+                "id": "untuk memiliki seseorang makan"
+              }
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "magpakuha",
+                "id": "untuk memiliki seseorang mendapatkan / mengambil",
+                "tagalog": "magpakuha"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "to have someone get/take",
+                "id": "untuk memiliki seseorang mendapatkan / mengambil"
+              }
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "magpalinis",
+                "id": "untuk memiliki seseorang yang bersih",
+                "tagalog": "magpalinis"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "to have someone clean",
+                "id": "untuk memiliki seseorang yang bersih"
+              }
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "magpaluto",
+                "id": "untuk memiliki seseorang memasak",
+                "tagalog": "magpaluto"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "to have someone cook",
+                "id": "untuk memiliki seseorang memasak"
+              }
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "magpapunta",
+                "id": "untuk memiliki seseorang pergi",
+                "tagalog": "magpapunta"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "to have someone go",
+                "id": "untuk memiliki seseorang pergi"
+              }
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "magpasama",
+                "id": "untuk memiliki seseorang pergi dengan",
+                "tagalog": "magpasama"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "to have someone go with",
+                "id": "untuk memiliki seseorang pergi dengan"
+              }
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "magpatulong",
+                "id": "untuk memiliki seseorang membantu",
+                "tagalog": "magpatulong"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "to have someone help",
+                "id": "untuk memiliki seseorang membantu"
+              }
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "magpaturo",
+                "id": "untuk memiliki seseorang mengajar",
+                "tagalog": "magpaturo"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "to have someone teach",
+                "id": "untuk memiliki seseorang mengajar"
+              }
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "magpatawag",
+                "id": "untuk memiliki seseorang panggilan",
+                "tagalog": "magpatawag"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "to have someone call",
+                "id": "untuk memiliki seseorang panggilan"
+              }
+            }
+          ],
+          "title": {
+            "sourceLanguage": "mixed",
+            "sourceText": "Causative Verbs",
+            "id": "Kata Causatif"
+          }
+        },
+        {
+          "type": "vocabulary",
+          "entries": [
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "mangarap",
+                "id": "untuk bermimpi",
+                "tagalog": "mangarap"
+              },
+              "meaning": {
+                "sourceLanguage": "mixed",
+                "sourceText": "to dream",
+                "id": "untuk bermimpi"
+              }
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "talakayin",
+                "id": "untuk mengatasi, untuk membahas",
+                "tagalog": "talakayin"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "to tackle, to discuss",
+                "id": "untuk mengatasi, untuk membahas"
+              }
+            }
+          ],
+          "title": {
+            "sourceLanguage": "mixed",
+            "sourceText": "Other Verbs",
+            "id": "Verbs Lain"
+          }
+        },
+        {
+          "type": "vocabulary",
+          "entries": [
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "magpa-",
+                "id": "sebuah affix verbal kausatif",
+                "tagalog": "magpa-"
+              },
+              "meaning": {
+                "sourceLanguage": "mixed",
+                "sourceText": "a causative verbal affix",
+                "id": "sebuah affix verbal kausatif"
+              }
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "pagka-",
+                "id": "sesudah, di atas",
+                "tagalog": "pagka-"
+              },
+              "meaning": {
+                "sourceLanguage": "mixed",
+                "sourceText": "after, upon",
+                "id": "sesudah, di atas"
+              }
+            }
+          ],
+          "title": {
+            "sourceLanguage": "mixed",
+            "sourceText": "Prefixes",
+            "id": "Prefiks"
+          }
+        },
+        {
+          "type": "vocabulary",
+          "entries": [
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "bigla na lang . . .",
+                "id": "Tiba-tiba...",
+                "tagalog": "bigla na lang . . ."
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "all of a sudden . . .",
+                "id": "Tiba-tiba..."
+              }
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "Sino ang bida sa sine?",
+                "id": "Siapa karakter utamanya?",
+                "tagalog": "Sino ang bida sa sine?"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "Who is the main character?",
+                "id": "Siapa karakter utamanya?"
+              }
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "Saan ginawa ang sine?",
+                "id": "Di mana filmnya dibuat / ditembak?",
+                "tagalog": "Saan ginawa ang sine?"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "Where was the movie made/shot?",
+                "id": "Di mana filmnya dibuat / ditembak?"
+              }
+            }
+          ],
+          "title": {
+            "sourceLanguage": "mixed",
+            "sourceText": "Idioms and Expressions",
+            "id": "Idiom and Expressions"
+          }
         },
         {
           "type": "image",
           "path": "assets/374.jpg"
         }
-      ]
+      ],
+      "id": "lesson-23-02-vocabulary"
     },
     {
-      "id": "lesson-23-reading-text-minsa-y-isang-gamu-gamo-once-a-moth",
-      "type": "DIALOGUE",
+      "type": "LEARNING_MATERIAL",
       "title": {
         "sourceLanguage": "mixed",
         "sourceText": "Reading Text: Minsa’y Isang Gamu-gamo Once a Moth",
         "id": "Teks Bacaan: Minsa 'y Isang Gamu- gamo Sekali Moth"
       },
       "blocks": [
-        {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "mixed",
-            "sourceText": "Reading Text: Minsa’y Isang Gamu-gamo Once a Moth",
-            "id": "Teks Bacaan: Minsa 'y Isang Gamu- gamo Sekali Moth"
-          }
-        },
         {
           "type": "text",
           "style": "body",
@@ -1495,18 +1255,21 @@
             "id": "Tapi ketika surat-suratnya siap untuk Amerika, tragedi melanda, sementara seluruh keluarga Corazon sibuk mempersiapkan untuk makan, adiknya mengatakan baik - bye untuk pergi ke peternakan, dan karena semuanya dilakukan, mereka mengabaikannya. Ketika Corazon mengajarkan tarian Filipina kepada teman-temannya dan ibunya memasak beberapa makanan, saudaranya pergi dan pergi ke tribun sana, ada, ada, di sana, ada fast Amerika menembak binatang. Tindakan hukum keluarga Corazon, tapi masalahnya adalah ketika ia menggugat tentara, ketidakadilan muncul, dan tentara mendengar bahwa ia memiliki surat perintah pengadilan, ia segera mendapatkan tiket kembali ke Amerika dan mendiskusikan hubungan antara Filipina dan Amerika.",
             "tagalog": "Ngunit nang handa na ang mga papeles niya papunta sa Amerika, bigla na lang may trahedyang nangyari. Habang okupado ang buong pamilya ni Corazon sa paghahanda para sa isang salu-salo, nagpaalam ang bata niyang kapatid na pupunta sa bukid. At dahil maraming ginagawa ang lahat, hindi nila siya pinansin. Habang nagpapaturo si Corazon ng mga Pilipinong sayaw sa mga kaibigan niya at nagpapaluto ng pagkain ang nanay ni Corazon, umalis ang kapatid niya at pumunta sa bukird. Doon, may mga sunda-long Amerikano na namamaril ng mga hayop. Sa hindi inaasahang pangyayari, nabaril ang kapatid niya at namatay ito. Nagdemanda ang pamilya ni Corazon pero ang naging problema ay nang idinedemanda na niya ang sundalo, lumabas ang kawalan ng hustisya. Pagkarinig ng sundalo na may subpoena siya, agad siyang nagpakuha ng tiket pabalik sa Amerika. Tinatalakay din ng sineng ito ang relasyon ng Pilipinas at ng Amerika."
           }
-        },
+        }
+      ],
+      "id": "lesson-23-03-reading-text-minsa-y-isang-gamu-gamo-once-a-moth"
+    },
+    {
+      "type": "EXERCISES",
+      "title": {
+        "sourceLanguage": "mixed",
+        "sourceText": "Reading Comprehension",
+        "id": "Pemahaman Bacaan"
+      },
+      "blocks": [
         {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "mixed",
-            "sourceText": "Reading Comprehension",
-            "id": "Pemahaman Bacaan"
-          }
-        },
-        {
-          "type": "table",
+          "type": "exercise",
+          "role": "worksheet",
           "rows": [
             {
               "cells": [
@@ -1630,38 +1393,20 @@
             }
           ]
         }
-      ]
+      ],
+      "id": "lesson-23-04-reading-comprehension"
     },
     {
-      "id": "lesson-23-activities",
-      "type": "ACTIVITY",
+      "type": "EXERCISES",
       "title": {
         "sourceLanguage": "mixed",
-        "sourceText": "Activities",
-        "id": "Aktivitas"
+        "sourceText": "Activity 1",
+        "id": "Aktivitas 1"
       },
       "blocks": [
         {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "mixed",
-            "sourceText": "Activities",
-            "id": "Aktivitas"
-          }
-        },
-        {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "mixed",
-            "sourceText": "Activity 1",
-            "id": "Aktivitas 1"
-          }
-        },
-        {
-          "type": "text",
-          "style": "body",
+          "type": "exercise",
+          "role": "question",
           "text": {
             "sourceLanguage": "en",
             "sourceText": "What is your favorite movie? Write the title of the movie in the box on the left and provide a short summary of the movie’s plot.",
@@ -1669,7 +1414,8 @@
           }
         },
         {
-          "type": "table",
+          "type": "exercise",
+          "role": "worksheet",
           "rows": [
             {
               "cells": [
@@ -1701,19 +1447,21 @@
               ]
             }
           ]
-        },
+        }
+      ],
+      "id": "lesson-23-05-activity-1"
+    },
+    {
+      "type": "EXERCISES",
+      "title": {
+        "sourceLanguage": "mixed",
+        "sourceText": "Activity 2",
+        "id": "Aktivitas 2"
+      },
+      "blocks": [
         {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "mixed",
-            "sourceText": "Activity 2",
-            "id": "Aktivitas 2"
-          }
-        },
-        {
-          "type": "text",
-          "style": "body",
+          "type": "exercise",
+          "role": "instruction",
           "text": {
             "sourceLanguage": "en",
             "sourceText": "Interview two classmates about their favorite movies and fill in the table below.",
@@ -1721,7 +1469,8 @@
           }
         },
         {
-          "type": "table",
+          "type": "exercise",
+          "role": "worksheet",
           "rows": [
             {
               "cells": [
@@ -1768,54 +1517,38 @@
               ]
             }
           ]
-        },
+        }
+      ],
+      "id": "lesson-23-06-activity-2"
+    },
+    {
+      "type": "EXERCISES",
+      "title": {
+        "sourceLanguage": "mixed",
+        "sourceText": "Activity 3",
+        "id": "Aktivitas 3"
+      },
+      "blocks": [
         {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "mixed",
-            "sourceText": "Activity 3",
-            "id": "Aktivitas 3"
-          }
-        },
-        {
-          "type": "text",
-          "style": "body",
+          "type": "exercise",
+          "role": "instruction",
           "text": {
             "sourceLanguage": "en",
             "sourceText": "Choose a partner. You and your partner will face each other, but one of you will also face the television or video screen while the other will face in the opposite direction. The teacher will play a short video clip without any sound. The student looking at the screen must describe in detail what she or he sees. At the end of the clip, the teacher will ask all the students who are facing the back to describe what the video clip is about. When they have finished, the teacher will play the clip with the sound on to check how accurate the students’ descriptions are.",
             "id": "Anda dan pasangan Anda akan berhadapan satu sama lain, tapi salah satu dari Anda juga akan menghadapi layar televisi atau video sementara yang lain akan menghadap ke arah yang berlawanan. Guru akan memainkan klip video pendek tanpa suara apapun. Siswa yang melihat di layar harus menjelaskan secara rinci apa yang dia atau dia lihat. Di akhir video, para guru akan bertanya kepada semua siswa yang menghadap ke belakang untuk menjelaskan tentang video klip itu. ketika mereka selesai, guru akan memainkan klip dengan suara itu untuk memeriksa seberapa akurat deskripsi siswa."
           }
         }
-      ]
+      ],
+      "id": "lesson-23-07-activity-3"
     },
     {
-      "id": "lesson-23-grammar",
-      "type": "GRAMMAR",
+      "type": "LEARNING_MATERIAL",
       "title": {
         "sourceLanguage": "mixed",
-        "sourceText": "Grammar",
-        "id": "Tata Bahasa"
+        "sourceText": "Definition of Terms",
+        "id": "Definisi Istilah"
       },
       "blocks": [
-        {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "mixed",
-            "sourceText": "Grammar",
-            "id": "Tata Bahasa"
-          }
-        },
-        {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "mixed",
-            "sourceText": "Definition of Terms",
-            "id": "Definisi Istilah"
-          }
-        },
         {
           "type": "table",
           "rows": [
@@ -1829,7 +1562,8 @@
                 {
                   "sourceLanguage": "en",
                   "sourceText": "Verbs that express the idea that someone is causing another person to perform an action.\n\nEXAMPLE:\n\nNagpaluto ako sa kapatid ko ng manok. I had my brother cook chicken.",
-                  "id": "Verbs yang mengungkapkan gagasan bahwa seseorang menyebabkan orang lain untuk melakukan tindakan. EXAMPLE: Nagpauto ako sa kapatid ko ng manok."
+                  "id": "Verbs yang mengungkapkan gagasan bahwa seseorang menyebabkan orang lain untuk melakukan tindakan. EXAMPLE: Nagpauto ako sa kapatid ko ng manok.",
+                  "tagalog": "Nagpaluto ako sa kapatid ko ng manok."
                 }
               ]
             },
@@ -1899,7 +1633,8 @@
                 {
                   "sourceLanguage": "en",
                   "sourceText": "A clause that cannot stand alone and is introduced by a subordinating conjunction like bago (before), pagkatapos (after), dahil (because), bagamat (although), kung, kapag (if), habang (while), nang (when), etc.",
-                  "id": "Sebuah klausa yang tidak dapat berdiri sendiri dan diperkenalkan oleh conjunction bawahan seperti bago (sebelumnya), pagkapapo (setelah), dahil (karena), bagamat (meskipun), kung, kapag (jika), habang (sementara), nang (kapan) dll."
+                  "id": "Sebuah klausa yang tidak dapat berdiri sendiri dan diperkenalkan oleh conjunction bawahan seperti bago (sebelumnya), pagkapapo (setelah), dahil (karena), bagamat (meskipun), kung, kapag (jika), habang (sementara), nang (kapan) dll.",
+                  "tagalog": "bago pagkatapos dahil bagamat kung kapag habang nang"
                 }
               ]
             },
@@ -1945,17 +1680,20 @@
                 }
               ]
             }
-          ]
-        },
-        {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "mixed",
-            "sourceText": "Examining Form",
-            "id": "Mengkaji Bentuk"
-          }
-        },
+          ],
+          "role": "reference"
+        }
+      ],
+      "id": "lesson-23-08-definition-of-terms"
+    },
+    {
+      "type": "LEARNING_MATERIAL",
+      "title": {
+        "sourceLanguage": "mixed",
+        "sourceText": "Examining Form",
+        "id": "Menganalisis Bentuk"
+      },
+      "blocks": [
         {
           "type": "text",
           "style": "body",
@@ -2088,16 +1826,18 @@
             "sourceText": "4. Which part of the sentence takes the ang phrase?",
             "id": "Bagian mana dari kalimat \"ang\"?"
           }
-        },
-        {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "en",
-            "sourceText": "I. Pagka- (Time-Clause Verbal Prefix)",
-            "id": "I. Pagka - (Time- Clause Verbal Prefix)"
-          }
-        },
+        }
+      ],
+      "id": "lesson-23-09-examining-form"
+    },
+    {
+      "type": "LEARNING_MATERIAL",
+      "title": {
+        "sourceLanguage": "en",
+        "sourceText": "I. Pagka- (Time-Clause Verbal Prefix)",
+        "id": "I. Pagka - (Time- Clause Verbal Prefix)"
+      },
+      "blocks": [
         {
           "type": "text",
           "style": "body",
@@ -2166,17 +1906,20 @@
                 }
               ]
             }
-          ]
-        },
-        {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "mixed",
-            "sourceText": "Grammar Presentation",
-            "id": "Penyajian Tata Bahasa"
-          }
-        },
+          ],
+          "role": "reference"
+        }
+      ],
+      "id": "lesson-23-10-i-pagka-time-clause-verbal-prefix"
+    },
+    {
+      "type": "LEARNING_MATERIAL",
+      "title": {
+        "sourceLanguage": "mixed",
+        "sourceText": "Grammar Presentation",
+        "id": "Penyajian Tata Bahasa"
+      },
+      "blocks": [
         {
           "type": "text",
           "style": "body",
@@ -2250,47 +1993,64 @@
                 }
               ]
             }
+          ],
+          "role": "reference"
+        }
+      ],
+      "id": "lesson-23-11-grammar-presentation"
+    },
+    {
+      "type": "EXAMPLES",
+      "title": {
+        "sourceLanguage": "mixed",
+        "sourceText": "EXAMPLES:",
+        "id": "Contoh"
+      },
+      "blocks": [
+        {
+          "type": "example",
+          "items": [
+            {
+              "sourceLanguage": "fil",
+              "sourceText": "Pagkarating nila sa bahay . . . After they came home . . .",
+              "id": "Saat mereka pulang. / Setelah mereka pulang.",
+              "tagalog": "Pagkarating nila sa bahay . . . After they came home . . ."
+            }
           ]
         },
         {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "mixed",
-            "sourceText": "EXAMPLES:",
-            "id": "EXAMPLES:"
-          }
+          "type": "example",
+          "items": [
+            {
+              "sourceLanguage": "mixed",
+              "sourceText": "Pagkabili ko ng bahay sa syudad . . . After I bought a house in the city . . .",
+              "id": "Pagkabili ko ng bahay sa syudad... setelah aku membeli rumah di kota.",
+              "tagalog": "Pagkabili ko ng bahay sa syudad . . ."
+            }
+          ]
         },
         {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "fil",
-            "sourceText": "Pagkarating nila sa bahay . . . After they came home . . .",
-            "id": "Saat mereka pulang. / Setelah mereka pulang.",
-            "tagalog": "Pagkarating nila sa bahay . . . After they came home . . ."
-          }
-        },
-        {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "mixed",
-            "sourceText": "Pagkabili ko ng bahay sa syudad . . . After I bought a house in the city . . .",
-            "id": "Pagkabili ko ng bahay sa syudad... setelah aku membeli rumah di kota.",
-            "tagalog": "Pagkabili ko ng bahay sa syudad . . ."
-          }
-        },
-        {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "fil",
-            "sourceText": "Pagkaalis ni Hiro . . . After Hiro left . . .",
-            "id": "Setelah Hiro pergi.",
-            "tagalog": "Pagkaalis ni Hiro . . . After Hiro left . . ."
-          }
-        },
+          "type": "example",
+          "items": [
+            {
+              "sourceLanguage": "fil",
+              "sourceText": "Pagkaalis ni Hiro . . . After Hiro left . . .",
+              "id": "Setelah Hiro pergi.",
+              "tagalog": "Pagkaalis ni Hiro . . . After Hiro left . . ."
+            }
+          ]
+        }
+      ],
+      "id": "lesson-23-12-examples"
+    },
+    {
+      "type": "LEARNING_MATERIAL",
+      "title": {
+        "sourceLanguage": "mixed",
+        "sourceText": "Grammar Presentation",
+        "id": "Penyajian Tata Bahasa"
+      },
+      "blocks": [
         {
           "type": "text",
           "style": "body",
@@ -2351,56 +2111,64 @@
                 }
               ]
             }
+          ],
+          "role": "reference"
+        }
+      ],
+      "id": "lesson-23-13-grammar-presentation-2"
+    },
+    {
+      "type": "EXAMPLES",
+      "title": {
+        "sourceLanguage": "mixed",
+        "sourceText": "EXAMPLES:",
+        "id": "Contoh"
+      },
+      "blocks": [
+        {
+          "type": "example",
+          "items": [
+            {
+              "sourceLanguage": "fil",
+              "sourceText": "Pagkarating nila sa bahay, nagsimula na kaming kumain. After they came home, we started eating.",
+              "id": "Begitu mereka tiba di rumah, kami mulai makan, dan setelah kami mulai makan.",
+              "tagalog": "Pagkarating nila sa bahay, nagsimula na kaming kumain. After they came home, we started eating."
+            }
           ]
         },
         {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "mixed",
-            "sourceText": "EXAMPLES:",
-            "id": "EXAMPLES:"
-          }
+          "type": "example",
+          "items": [
+            {
+              "sourceLanguage": "fil",
+              "sourceText": "Pagkabili ko ng bahay sa syudad, mas malapit na ang biyahe ko sa eskwelahan. Since I bought a house in the city, my commute to school is closer.",
+              "id": "Setelah saya membeli sebuah rumah di kota, saya berada di jauh lebih dekat perjalanan ke tempat, dan itu lebih dekat.",
+              "tagalog": "Pagkabili ko ng bahay sa syudad, mas malapit na ang biyahe ko sa eskwelahan. Since I bought a house in the city, my commute to school is closer."
+            }
+          ]
         },
         {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "fil",
-            "sourceText": "Pagkarating nila sa bahay, nagsimula na kaming kumain. After they came home, we started eating.",
-            "id": "Begitu mereka tiba di rumah, kami mulai makan, dan setelah kami mulai makan.",
-            "tagalog": "Pagkarating nila sa bahay, nagsimula na kaming kumain. After they came home, we started eating."
-          }
-        },
-        {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "fil",
-            "sourceText": "Pagkabili ko ng bahay sa syudad, mas malapit na ang biyahe ko sa eskwelahan. Since I bought a house in the city, my commute to school is closer.",
-            "id": "Setelah saya membeli sebuah rumah di kota, saya berada di jauh lebih dekat perjalanan ke tempat, dan itu lebih dekat.",
-            "tagalog": "Pagkabili ko ng bahay sa syudad, mas malapit na ang biyahe ko sa eskwelahan. Since I bought a house in the city, my commute to school is closer."
-          }
-        },
-        {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "fil",
-            "sourceText": "Pagkabalik ni Hiro sa Pilipinas, pumunta siya sa bahay ng mga magulang niya. After Hiro returned to the Philippines, he went to his parents’ house.",
-            "id": "Setelah Hiro kembali ke Filipina, dia pergi ke rumah orang tuanya.",
-            "tagalog": "Pagkabalik ni Hiro sa Pilipinas, pumunta siya sa bahay ng mga magulang niya. After Hiro returned to the Philippines, he went to his parents’ house."
-          }
-        },
-        {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "mixed",
-            "sourceText": "Grammar Notes",
-            "id": "Catatan Tata Bahasa"
-          }
-        },
+          "type": "example",
+          "items": [
+            {
+              "sourceLanguage": "fil",
+              "sourceText": "Pagkabalik ni Hiro sa Pilipinas, pumunta siya sa bahay ng mga magulang niya. After Hiro returned to the Philippines, he went to his parents’ house.",
+              "id": "Setelah Hiro kembali ke Filipina, dia pergi ke rumah orang tuanya.",
+              "tagalog": "Pagkabalik ni Hiro sa Pilipinas, pumunta siya sa bahay ng mga magulang niya. After Hiro returned to the Philippines, he went to his parents’ house."
+            }
+          ]
+        }
+      ],
+      "id": "lesson-23-14-examples-2"
+    },
+    {
+      "type": "LEARNING_MATERIAL",
+      "title": {
+        "sourceLanguage": "mixed",
+        "sourceText": "Grammar Notes",
+        "id": "Catatan Tata Bahasa"
+      },
+      "blocks": [
         {
           "type": "table",
           "rows": [
@@ -2502,17 +2270,20 @@
                 }
               ]
             }
-          ]
-        },
-        {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "mixed",
-            "sourceText": "II. The Causative Verb Magpa- (Indirect-Actor Focus)",
-            "id": "The Causative Verb Magpa- (Indirect- Aktor Fokus)"
-          }
-        },
+          ],
+          "role": "reference"
+        }
+      ],
+      "id": "lesson-23-15-grammar-notes"
+    },
+    {
+      "type": "LEARNING_MATERIAL",
+      "title": {
+        "sourceLanguage": "mixed",
+        "sourceText": "II. The Causative Verb Magpa- (Indirect-Actor Focus)",
+        "id": "The Causative Verb Magpa- (Indirect- Aktor Fokus)"
+      },
+      "blocks": [
         {
           "type": "text",
           "style": "body",
@@ -2621,7 +2392,8 @@
                 {
                   "sourceLanguage": "en",
                   "sourceText": "From the infinitive, change m to n.",
-                  "id": "Dari infinitive, ubah m ke n."
+                  "id": "Dari infinitive, ubah m ke n.",
+                  "tagalog": "From the infinitive, change m to n ."
                 }
               ]
             },
@@ -2648,7 +2420,8 @@
                 {
                   "sourceLanguage": "en",
                   "sourceText": "From the infinitive, reduplicate pa.",
-                  "id": "Dari infinitive, meniru pa."
+                  "id": "Dari infinitive, meniru pa.",
+                  "tagalog": "From the infinitive, reduplicate pa ."
                 }
               ]
             },
@@ -2675,21 +2448,25 @@
                 {
                   "sourceLanguage": "en",
                   "sourceText": "From the incompleted, change n to m.",
-                  "id": "Dari yang belum selesai, perubahan n ke m."
+                  "id": "Dari yang belum selesai, perubahan n ke m.",
+                  "tagalog": "From the incompleted, change n to m ."
                 }
               ]
             }
-          ]
-        },
-        {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "mixed",
-            "sourceText": "Grammar Presentation",
-            "id": "Penyajian Tata Bahasa"
-          }
-        },
+          ],
+          "role": "reference"
+        }
+      ],
+      "id": "lesson-23-16-ii-the-causative-verb-magpa-indirect-actor-focus"
+    },
+    {
+      "type": "LEARNING_MATERIAL",
+      "title": {
+        "sourceLanguage": "mixed",
+        "sourceText": "Grammar Presentation",
+        "id": "Penyajian Tata Bahasa"
+      },
+      "blocks": [
         {
           "type": "text",
           "style": "body",
@@ -2840,55 +2617,64 @@
                 }
               ]
             }
+          ],
+          "role": "reference"
+        }
+      ],
+      "id": "lesson-23-17-grammar-presentation-3"
+    },
+    {
+      "type": "EXAMPLES",
+      "title": {
+        "sourceLanguage": "mixed",
+        "sourceText": "EXAMPLES:",
+        "id": "Contoh"
+      },
+      "blocks": [
+        {
+          "type": "example",
+          "items": [
+            {
+              "sourceLanguage": "fil",
+              "sourceText": "Nagpakuha siya sa akin ng mga libro sa aklatan. She/he asked me to get books from the library.",
+              "id": "Dia meminta saya untuk mendapatkan buku-buku dari perpustakaan.",
+              "tagalog": "Nagpakuha siya sa akin ng mga libro sa aklatan. She/he asked me to get books from the library."
+            }
           ]
         },
         {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "mixed",
-            "sourceText": "EXAMPLES:",
-            "id": "EXAMPLES:"
-          }
+          "type": "example",
+          "items": [
+            {
+              "sourceLanguage": "fil",
+              "sourceText": "Nagpalinis ako kay Mike ng kuwarto ko. I had Mike clean my room.",
+              "id": "Aku membersihkan kamarku dengan Mike, dan aku punya Mike cleaner yang baik kamarku.",
+              "tagalog": "Nagpalinis ako kay Mike ng kuwarto ko. I had Mike clean my room."
+            }
+          ]
         },
         {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "fil",
-            "sourceText": "Nagpakuha siya sa akin ng mga libro sa aklatan. She/he asked me to get books from the library.",
-            "id": "Dia meminta saya untuk mendapatkan buku-buku dari perpustakaan.",
-            "tagalog": "Nagpakuha siya sa akin ng mga libro sa aklatan. She/he asked me to get books from the library."
-          }
-        },
-        {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "fil",
-            "sourceText": "Nagpalinis ako kay Mike ng kuwarto ko. I had Mike clean my room.",
-            "id": "Aku membersihkan kamarku dengan Mike, dan aku punya Mike cleaner yang baik kamarku.",
-            "tagalog": "Nagpalinis ako kay Mike ng kuwarto ko. I had Mike clean my room."
-          }
-        },
-        {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "en",
-            "sourceText": "Magpapatulong ako kay Mike. I will have Mike help me.",
-            "id": "Magapatulong ako kay Mike."
-          }
-        },
-        {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "mixed",
-            "sourceText": "Grammar Notes",
-            "id": "Catatan Tata Bahasa"
-          }
-        },
+          "type": "example",
+          "items": [
+            {
+              "sourceLanguage": "en",
+              "sourceText": "Magpapatulong ako kay Mike. I will have Mike help me.",
+              "id": "Magapatulong ako kay Mike.",
+              "tagalog": "Magpapatulong ako kay Mike."
+            }
+          ]
+        }
+      ],
+      "id": "lesson-23-18-examples-3"
+    },
+    {
+      "type": "LEARNING_MATERIAL",
+      "title": {
+        "sourceLanguage": "mixed",
+        "sourceText": "Grammar Notes",
+        "id": "Catatan Tata Bahasa"
+      },
+      "blocks": [
         {
           "type": "table",
           "rows": [
@@ -2897,7 +2683,8 @@
                 {
                   "sourceLanguage": "en",
                   "sourceText": "1. When using the magpa- affix, the direct actor is sometimes omitted.\n\nEXAMPLE:\n\nNagpagupit ako ng buhok. I had a haircut.",
-                  "id": "Ketika menggunakan magpa- affix, aktor langsung kadang-kadang diabaikan. EXAMPLE: Nagpagupit ako ng buhok."
+                  "id": "Ketika menggunakan magpa- affix, aktor langsung kadang-kadang diabaikan. EXAMPLE: Nagpagupit ako ng buhok.",
+                  "tagalog": "magpa- Nagpagupit ako ng buhok."
                 }
               ]
             },
@@ -2916,44 +2703,28 @@
                 {
                   "sourceLanguage": "en",
                   "sourceText": "3. When there is an indirect object or directional complement, it must be in the sa form.\n\nEXAMPLE:\n\nNagpabigay si Will kay Mike ng mga bulaklak kay Kat. Will asked Mike to give flowers to Kat.",
-                  "id": "Ketika ada obyek tidak langsung atau kompleks direksional, itu harus dalam bentuk sa. EXAMPLE: Nagpabatay si Will kay Mike ng mga bulaklak kay Kat akan meminta Mike untuk memberikan bunga kepada Kat."
+                  "id": "Ketika ada obyek tidak langsung atau kompleks direksional, itu harus dalam bentuk sa. EXAMPLE: Nagpabatay si Will kay Mike ng mga bulaklak kay Kat akan meminta Mike untuk memberikan bunga kepada Kat.",
+                  "tagalog": "sa Nagpabigay si Will kay Mike ng mga bulaklak Kat."
                 }
               ]
             }
-          ]
+          ],
+          "role": "reference"
         }
-      ]
+      ],
+      "id": "lesson-23-19-grammar-notes-2"
     },
     {
-      "id": "lesson-23-practice",
-      "type": "PRACTICE",
+      "type": "EXERCISES",
       "title": {
-        "sourceLanguage": "mixed",
-        "sourceText": "Practice",
-        "id": "Latihan"
+        "sourceLanguage": "en",
+        "sourceText": "I. Speaking Practice",
+        "id": "I. Latihan Berbicara"
       },
       "blocks": [
         {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "mixed",
-            "sourceText": "Practice",
-            "id": "Latihan"
-          }
-        },
-        {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "en",
-            "sourceText": "I. Speaking Practice",
-            "id": "I. Latihan Berbicara"
-          }
-        },
-        {
-          "type": "text",
-          "style": "body",
+          "type": "exercise",
+          "role": "instruction",
           "text": {
             "sourceLanguage": "en",
             "sourceText": "Write the title of your favorite movie on a piece of paper and give it to your teacher. The teacher will stack the favorites of all the students in a pile and then ask each student to take one. The student must describe the movie to his or her classmates using the sentence pattern below. The other students have to guess what movie is being described.",
@@ -2961,8 +2732,8 @@
           }
         },
         {
-          "type": "text",
-          "style": "body",
+          "type": "exercise",
+          "role": "content",
           "text": {
             "sourceLanguage": "mixed",
             "sourceText": "EXAMPLE:",
@@ -2970,8 +2741,8 @@
           }
         },
         {
-          "type": "text",
-          "style": "body",
+          "type": "exercise",
+          "role": "content",
           "text": {
             "sourceLanguage": "en",
             "sourceText": "Movie Title: ________________ (Keep this a secret)",
@@ -2979,8 +2750,8 @@
           }
         },
         {
-          "type": "text",
-          "style": "body",
+          "type": "exercise",
+          "role": "content",
           "text": {
             "sourceLanguage": "fil",
             "sourceText": "Clue 1: _______________ ito. (Genre)",
@@ -2989,8 +2760,8 @@
           }
         },
         {
-          "type": "text",
-          "style": "body",
+          "type": "exercise",
+          "role": "content",
           "text": {
             "sourceLanguage": "fil",
             "sourceText": "Clue 2: Nangyari ang sine sa _______________________ (Setting)",
@@ -2999,8 +2770,8 @@
           }
         },
         {
-          "type": "text",
-          "style": "body",
+          "type": "exercise",
+          "role": "content",
           "text": {
             "sourceLanguage": "fil",
             "sourceText": "Clue 3: Si/Sina __________________ ang bida sa sine. (Actor)",
@@ -3009,8 +2780,8 @@
           }
         },
         {
-          "type": "text",
-          "style": "body",
+          "type": "exercise",
+          "role": "content",
           "text": {
             "sourceLanguage": "fil",
             "sourceText": "Clue 4: Tungkol sa ______________________________________ ang sine. (Plot)",
@@ -3019,8 +2790,8 @@
           }
         },
         {
-          "type": "text",
-          "style": "body",
+          "type": "exercise",
+          "role": "content",
           "text": {
             "sourceLanguage": "fil",
             "sourceText": "Clue 5: Ang kasukdulan, ______________________________________________ (Climax)",
@@ -3029,27 +2800,29 @@
           }
         },
         {
-          "type": "text",
-          "style": "body",
+          "type": "exercise",
+          "role": "content",
           "text": {
             "sourceLanguage": "mixed",
             "sourceText": "Clue 6: Sa huli, ______________________________________________ (Denouement and End)",
             "id": "Petunjuk 6: Sa huli, _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ (((denoment dan End)",
             "tagalog": "Sa huli,"
           }
-        },
+        }
+      ],
+      "id": "lesson-23-20-i-speaking-practice"
+    },
+    {
+      "type": "EXERCISES",
+      "title": {
+        "sourceLanguage": "mixed",
+        "sourceText": "II. Writing Practice",
+        "id": "II. Latihan Menulis"
+      },
+      "blocks": [
         {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "mixed",
-            "sourceText": "II. Writing Practice",
-            "id": "II. Latihan Menulis"
-          }
-        },
-        {
-          "type": "text",
-          "style": "body",
+          "type": "exercise",
+          "role": "instruction",
           "text": {
             "sourceLanguage": "en",
             "sourceText": "Work with a partner. Choose a movie that you have both seen and then create a story map. Using the story map, write a paragraph or two about the movie on a separate sheet of paper.",
@@ -3057,8 +2830,8 @@
           }
         },
         {
-          "type": "text",
-          "style": "body",
+          "type": "exercise",
+          "role": "content",
           "text": {
             "sourceLanguage": "mixed",
             "sourceText": "Movie Title: _________________",
@@ -3068,19 +2841,21 @@
         {
           "type": "image",
           "path": "assets/382.jpg"
-        },
+        }
+      ],
+      "id": "lesson-23-21-ii-writing-practice"
+    },
+    {
+      "type": "EXERCISES",
+      "title": {
+        "sourceLanguage": "en",
+        "sourceText": "III. Writing and Reading Practice",
+        "id": "III, Menulis dan Membaca Latihan"
+      },
+      "blocks": [
         {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "en",
-            "sourceText": "III. Writing and Reading Practice",
-            "id": "III, Menulis dan Membaca Latihan"
-          }
-        },
-        {
-          "type": "text",
-          "style": "body",
+          "type": "exercise",
+          "role": "content",
           "text": {
             "sourceLanguage": "en",
             "sourceText": "Think of your favorite movie and summarize its plot on a separate sheet of paper. When you’re finished, exchange summaries with a partner and read each other’s story.",
@@ -3088,8 +2863,8 @@
           }
         },
         {
-          "type": "text",
-          "style": "body",
+          "type": "exercise",
+          "role": "content",
           "text": {
             "sourceLanguage": "en",
             "sourceText": "To Download the audio files, please click here.",
@@ -3099,19 +2874,21 @@
         {
           "type": "image",
           "path": "assets/cd.jpg"
-        },
+        }
+      ],
+      "id": "lesson-23-22-iii-writing-and-reading-practice"
+    },
+    {
+      "type": "EXERCISES",
+      "title": {
+        "sourceLanguage": "mixed",
+        "sourceText": "IV. Listening Practice",
+        "id": "IV. Latihan Menyimak"
+      },
+      "blocks": [
         {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "mixed",
-            "sourceText": "IV. Listening Practice",
-            "id": "IV. Latihan Menyimak"
-          }
-        },
-        {
-          "type": "text",
-          "style": "body",
+          "type": "exercise",
+          "role": "instruction",
           "text": {
             "sourceLanguage": "en",
             "sourceText": "Using the Bonus Material of the book, listen to audio file (23–2) and complete the box below.",
@@ -3119,7 +2896,8 @@
           }
         },
         {
-          "type": "table",
+          "type": "exercise",
+          "role": "worksheet",
           "rows": [
             {
               "cells": [
@@ -3147,7 +2925,33 @@
             }
           ]
         }
-      ]
+      ],
+      "id": "lesson-23-23-iv-listening-practice"
     }
-  ]
+  ],
+  "structureVersion": 2,
+  "contentAudit": {
+    "sourceTextItemsBefore": 382,
+    "sourceTextItemsAfter": 374,
+    "uniqueSourceItemsPreserved": 336,
+    "duplicateHeadingsRemoved": 4,
+    "blankFragmentsRemoved": 0,
+    "sectionTypes": {
+      "EXAMPLES": 3,
+      "EXERCISES": 8,
+      "INTRODUCTION": 1,
+      "LEARNING_MATERIAL": 10,
+      "VOCABULARY": 1
+    },
+    "blockTypes": {
+      "example": 9,
+      "exercise": 21,
+      "image": 5,
+      "list": 2,
+      "table": 9,
+      "text": 24,
+      "vocabulary": 6
+    },
+    "duplicateBlocksRemoved": 0
+  }
 }

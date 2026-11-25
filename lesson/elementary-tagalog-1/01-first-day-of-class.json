@@ -17,17 +17,18 @@
     {
       "sourceLanguage": "en",
       "sourceText": "• Ask questions using the interrogative pronouns sino (who) and ano (what)",
-      "id": "Ajukan pertanyaan menggunakan pernyataan interogasi sino (siapa) dan ano (apa)"
+      "id": "• Mengajukan pertanyaan dengan kata ganti tanya sino (siapa) dan ano (apa)",
+      "tagalog": "sino ano"
     },
     {
       "sourceLanguage": "en",
       "sourceText": "• Respond to inquiries using short and long responses",
-      "id": "Respon pertanyaan menggunakan tanggapan pendek dan panjang"
+      "id": "• Menjawab pertanyaan dengan jawaban pendek maupun lengkap"
     },
     {
       "sourceLanguage": "en",
       "sourceText": "• Construct identificational and predicational statements",
-      "id": "Konstruksi pernyataan identifikasi dan prestimasi"
+      "id": "• Menyusun kalimat identifikasi dan kalimat predikatif"
     }
   ],
   "source": {
@@ -43,315 +44,185 @@
   ],
   "sections": [
     {
-      "id": "lesson-01-overview",
-      "type": "OVERVIEW",
+      "type": "INTRODUCTION",
       "title": {
-        "sourceLanguage": "mixed",
-        "sourceText": "Overview",
-        "id": "Gambaran Umum"
+        "sourceLanguage": "en",
+        "sourceText": "An Overview of Lesson 1",
+        "id": "Pengantar Pelajaran 1"
       },
       "blocks": [
         {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "en",
-            "sourceText": "An Overview of Lesson 1",
-            "id": "Gambaran Umum Pelajaran 1"
-          }
+          "type": "list",
+          "style": "objectives",
+          "items": [
+            {
+              "sourceLanguage": "en",
+              "sourceText": "• Ask questions using the interrogative pronouns sino (who) and ano (what)",
+              "id": "• Mengajukan pertanyaan dengan kata ganti tanya sino (siapa) dan ano (apa)",
+              "tagalog": "sino ano"
+            },
+            {
+              "sourceLanguage": "en",
+              "sourceText": "• Respond to inquiries using short and long responses",
+              "id": "• Menjawab pertanyaan dengan jawaban pendek maupun lengkap"
+            },
+            {
+              "sourceLanguage": "en",
+              "sourceText": "• Construct identificational and predicational statements",
+              "id": "• Menyusun kalimat identifikasi dan kalimat predikatif"
+            }
+          ]
         },
         {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "mixed",
-            "sourceText": "Objectives",
-            "id": "Objeksi"
-          }
-        },
-        {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "en",
-            "sourceText": "• Ask questions using the interrogative pronouns sino (who) and ano (what)",
-            "id": "Ajukan pertanyaan menggunakan pernyataan interogasi sino (siapa) dan ano (apa)"
-          }
-        },
-        {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "en",
-            "sourceText": "• Respond to inquiries using short and long responses",
-            "id": "Respon pertanyaan menggunakan tanggapan pendek dan panjang"
-          }
-        },
-        {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "en",
-            "sourceText": "• Construct identificational and predicational statements",
-            "id": "Konstruksi pernyataan identifikasi dan prestimasi"
-          }
-        },
-        {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "mixed",
-            "sourceText": "Vocabulary",
-            "id": "Kosakata"
-          }
-        },
-        {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "mixed",
-            "sourceText": "• Majors/Courses",
-            "id": "Majors / Courses"
-          }
-        },
-        {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "mixed",
-            "sourceText": "• Nationalities",
-            "id": "Nasionalitas:"
-          }
-        },
-        {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "mixed",
-            "sourceText": "• Officials",
-            "id": "Pejabat"
-          }
-        },
-        {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "mixed",
-            "sourceText": "• Professions and Occupations",
-            "id": "Profesi dan Pekerjaan"
-          }
-        },
-        {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "mixed",
-            "sourceText": "• Marital Status",
-            "id": "Status Marital"
-          }
-        },
-        {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "mixed",
-            "sourceText": "• Gender",
-            "id": "Gender Gender"
-          }
-        },
-        {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "mixed",
-            "sourceText": "• Religion",
-            "id": "Agama"
-          }
-        },
-        {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "mixed",
-            "sourceText": "• Pronouns",
-            "id": "Pronouns"
-          }
-        },
-        {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "mixed",
-            "sourceText": "• Adverbs",
-            "id": "Adverbs"
-          }
-        },
-        {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "mixed",
-            "sourceText": "• Markers",
-            "id": "Markers:"
-          }
-        },
-        {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "mixed",
-            "sourceText": "• Idioms and Expressions",
-            "id": "Ekspresi dan Idiom"
-          }
-        },
-        {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "en",
-            "sourceText": "Dialogue: Kumusta Ka? How Are You?",
-            "id": "Dialog: \"Kumusta Ka\" Bagaimana kabarmu?"
-          }
-        },
-        {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "mixed",
-            "sourceText": "Dialogue Comprehension",
-            "id": "Pemahaman Dialog"
-          }
-        },
-        {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "mixed",
-            "sourceText": "Activities",
-            "id": "Aktivitas"
-          }
-        },
-        {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "mixed",
-            "sourceText": "Activity 1: Interview",
-            "id": "Aktivitas 1: Wawancara"
-          }
-        },
-        {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "mixed",
-            "sourceText": "Activity 2: Interview",
-            "id": "Aktivitas 2: Wawancara"
-          }
-        },
-        {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "en",
-            "sourceText": "Activity 3: Fill in the Blanks",
-            "id": "Activity 3: Fill in the Blacks"
-          }
-        },
-        {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "mixed",
-            "sourceText": "Grammar",
-            "id": "Tata Bahasa"
-          }
-        },
-        {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "en",
-            "sourceText": "Definition of Terms: Sentence, Subject, Predicate, Markers, Ang Marker in an Ang Phrase, Ang Pronouns, Ang Form, Interrogative Pronouns, Identificational Sentence, Predicational Sentence, Proper Noun, and Common Noun",
-            "id": "Definisi Terms: Kalimat, Subyek, Predikat, Markers, Ang Marker dalam sebuah Phrase Ang, Ang Pronouns, Bentuk Ang, Form Interrogatif Pronounos, Intens Inifichecal Sendence, Prediksional Sendence, Proper Noun, dan Common Noun"
-          }
-        },
-        {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "mixed",
-            "sourceText": "Examining Form",
-            "id": "Mengkaji Bentuk"
-          }
-        },
-        {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "en",
-            "sourceText": "I. Sino (Who): Interrogative Pronoun Sino (Who)\n\nGrammar Presentation: The Interrogative Pronoun Sino and the Identificational Sentence\n\nGrammar Notes",
-            "id": "I. Sino (Siapa): Interrogatif Pronoun Sino (Siapa) Grammar Presentation: The Interrogatif Pronoun Sino dan Identifikasi Sentence Catatan Grammar"
-          }
-        },
-        {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "en",
-            "sourceText": "II. Ano (What): Interrogative Pronoun Ano (What)\n\nGrammar Presentation: The Interrogative Pronoun Ano and the Predicational Sentence\n\nGrammar Notes",
-            "id": "II. Ano (Apa): Interrogatif Pronoun Ano (Apa) Presentasi Grammar: Catatan Grammar"
-          }
-        },
-        {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "mixed",
-            "sourceText": "Practice",
-            "id": "Latihan"
-          }
-        },
-        {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "en",
-            "sourceText": "I. Speaking Practice",
-            "id": "I. Latihan Berbicara"
-          }
-        },
-        {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "mixed",
-            "sourceText": "II. Reading Practice",
-            "id": "II. Latihan Membaca"
-          }
-        },
-        {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "mixed",
-            "sourceText": "III. Writing Practice",
-            "id": "III. Latihan Menulis"
-          }
-        },
-        {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "mixed",
-            "sourceText": "IV. Listening Practice",
-            "id": "IV. Latihan Menyimak"
-          }
+          "type": "list",
+          "style": "outline",
+          "items": [
+            {
+              "sourceLanguage": "mixed",
+              "sourceText": "Vocabulary",
+              "id": "Kosakata"
+            },
+            {
+              "sourceLanguage": "mixed",
+              "sourceText": "• Majors/Courses",
+              "id": "Majors / Courses"
+            },
+            {
+              "sourceLanguage": "mixed",
+              "sourceText": "• Nationalities",
+              "id": "Nasionalitas:"
+            },
+            {
+              "sourceLanguage": "mixed",
+              "sourceText": "• Officials",
+              "id": "Pejabat"
+            },
+            {
+              "sourceLanguage": "mixed",
+              "sourceText": "• Professions and Occupations",
+              "id": "Profesi dan Pekerjaan"
+            },
+            {
+              "sourceLanguage": "mixed",
+              "sourceText": "• Marital Status",
+              "id": "Status Marital"
+            },
+            {
+              "sourceLanguage": "mixed",
+              "sourceText": "• Gender",
+              "id": "Gender Gender"
+            },
+            {
+              "sourceLanguage": "mixed",
+              "sourceText": "• Religion",
+              "id": "Agama"
+            },
+            {
+              "sourceLanguage": "mixed",
+              "sourceText": "• Pronouns",
+              "id": "Pronouns"
+            },
+            {
+              "sourceLanguage": "mixed",
+              "sourceText": "• Adverbs",
+              "id": "Adverbs"
+            },
+            {
+              "sourceLanguage": "mixed",
+              "sourceText": "• Markers",
+              "id": "Markers:"
+            },
+            {
+              "sourceLanguage": "mixed",
+              "sourceText": "• Idioms and Expressions",
+              "id": "Ekspresi dan Idiom"
+            },
+            {
+              "sourceLanguage": "en",
+              "sourceText": "Dialogue: Kumusta Ka? How Are You?",
+              "id": "Dialog: \"Kumusta Ka\" Bagaimana kabarmu?"
+            },
+            {
+              "sourceLanguage": "mixed",
+              "sourceText": "Dialogue Comprehension",
+              "id": "Pemahaman Dialog"
+            },
+            {
+              "sourceLanguage": "mixed",
+              "sourceText": "Activities",
+              "id": "Aktivitas"
+            },
+            {
+              "sourceLanguage": "mixed",
+              "sourceText": "Activity 1: Interview",
+              "id": "Aktivitas 1: Wawancara"
+            },
+            {
+              "sourceLanguage": "mixed",
+              "sourceText": "Activity 2: Interview",
+              "id": "Aktivitas 2: Wawancara"
+            },
+            {
+              "sourceLanguage": "en",
+              "sourceText": "Activity 3: Fill in the Blanks",
+              "id": "Activity 3: Fill in the Blacks"
+            },
+            {
+              "sourceLanguage": "mixed",
+              "sourceText": "Grammar",
+              "id": "Tata Bahasa"
+            },
+            {
+              "sourceLanguage": "en",
+              "sourceText": "Definition of Terms: Sentence, Subject, Predicate, Markers, Ang Marker in an Ang Phrase, Ang Pronouns, Ang Form, Interrogative Pronouns, Identificational Sentence, Predicational Sentence, Proper Noun, and Common Noun",
+              "id": "Definisi Terms: Kalimat, Subyek, Predikat, Markers, Ang Marker dalam sebuah Phrase Ang, Ang Pronouns, Bentuk Ang, Form Interrogatif Pronounos, Intens Inifichecal Sendence, Prediksional Sendence, Proper Noun, dan Common Noun"
+            },
+            {
+              "sourceLanguage": "mixed",
+              "sourceText": "Examining Form",
+              "id": "Mengkaji Bentuk"
+            },
+            {
+              "sourceLanguage": "en",
+              "sourceText": "I. Sino (Who): Interrogative Pronoun Sino (Who)\n\nGrammar Presentation: The Interrogative Pronoun Sino and the Identificational Sentence\n\nGrammar Notes",
+              "id": "I. Sino (Siapa): Interrogatif Pronoun Sino (Siapa) Grammar Presentation: The Interrogatif Pronoun Sino dan Identifikasi Sentence Catatan Grammar"
+            },
+            {
+              "sourceLanguage": "en",
+              "sourceText": "II. Ano (What): Interrogative Pronoun Ano (What)\n\nGrammar Presentation: The Interrogative Pronoun Ano and the Predicational Sentence\n\nGrammar Notes",
+              "id": "II. Ano (Apa): Interrogatif Pronoun Ano (Apa) Presentasi Grammar: Catatan Grammar"
+            },
+            {
+              "sourceLanguage": "mixed",
+              "sourceText": "Practice",
+              "id": "Latihan"
+            },
+            {
+              "sourceLanguage": "en",
+              "sourceText": "I. Speaking Practice",
+              "id": "I. Latihan Berbicara"
+            },
+            {
+              "sourceLanguage": "mixed",
+              "sourceText": "II. Reading Practice",
+              "id": "II. Latihan Membaca"
+            },
+            {
+              "sourceLanguage": "mixed",
+              "sourceText": "III. Writing Practice",
+              "id": "III. Latihan Menulis"
+            },
+            {
+              "sourceLanguage": "mixed",
+              "sourceText": "IV. Listening Practice",
+              "id": "IV. Latihan Menyimak"
+            }
+          ]
         }
-      ]
+      ],
+      "id": "lesson-01-01-an-overview-of-lesson-1"
     },
     {
-      "id": "lesson-01-vocabulary",
       "type": "VOCABULARY",
       "title": {
         "sourceLanguage": "mixed",
@@ -361,7 +232,7 @@
       "blocks": [
         {
           "type": "text",
-          "style": "body",
+          "style": "heading",
           "text": {
             "sourceLanguage": "mixed",
             "sourceText": "Vocabulary (01–1)",
@@ -382,1092 +253,968 @@
           }
         },
         {
-          "type": "table",
-          "rows": [
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "Majors/Courses",
-                  "id": "Mayor / Pengadilan"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "Abogasiya",
-                  "id": "Hukum",
-                  "tagalog": "Abogasiya"
-                },
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "Law",
-                  "id": "Hukum"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "Arkitektura",
-                  "id": "Arsitektur",
-                  "tagalog": "Arkitektura"
-                },
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "Architecture",
-                  "id": "Arsitektur"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "Ingles",
-                  "id": "Inggris",
-                  "tagalog": "Ingles"
-                },
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "English",
-                  "id": "Inggris"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "Kasaysayan",
-                  "id": "Riwayat",
-                  "tagalog": "Kasaysayan"
-                },
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "History",
-                  "id": "Riwayat"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "Literatura",
-                  "id": "Sastra",
-                  "tagalog": "Literatura"
-                },
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "Literature",
-                  "id": "Sastra"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "Matematika",
-                  "id": "Matematika",
-                  "tagalog": "Matematika"
-                },
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "Math",
-                  "id": "Matematika"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "Medisina",
-                  "id": "Obat",
-                  "tagalog": "Medisina"
-                },
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "Medicine",
-                  "id": "Obat"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "Narsing",
-                  "id": "Perawat",
-                  "tagalog": "Narsing"
-                },
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "Nursing",
-                  "id": "Perawat"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "Wika",
-                  "id": "Bahasa",
-                  "tagalog": "Wika"
-                },
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "Language",
-                  "id": "Bahasa"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "Nationalities",
-                  "id": "Nasionalitas"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "Aleman",
-                  "id": "Jerman",
-                  "tagalog": "Aleman"
-                },
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "German",
-                  "id": "Jerman"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "Amerikano/a",
-                  "id": "Amerika",
-                  "tagalog": "Amerikano/a"
-                },
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "American",
-                  "id": "Amerika"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "Hapones",
-                  "id": "Jepang",
-                  "tagalog": "Hapones"
-                },
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "Japanese",
-                  "id": "Jepang"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "Kastila",
-                  "id": "Spanyol",
-                  "tagalog": "Kastila"
-                },
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "Spanish",
-                  "id": "Spanyol"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "Koreano/a",
-                  "id": "Korea",
-                  "tagalog": "Koreano/a"
-                },
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "Korean",
-                  "id": "Korea"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "Pilipino/a",
-                  "id": "Filipina",
-                  "tagalog": "Pilipino/a"
-                },
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "Filipino",
-                  "id": "Filipina"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "Tsino",
-                  "id": "Cina",
-                  "tagalog": "Tsino"
-                },
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "Chinese",
-                  "id": "Cina"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "Officials",
-                  "id": "Pejabat"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "alkalde",
-                  "id": "Walikota",
-                  "tagalog": "alkalde"
-                },
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "mayor",
-                  "id": "Walikota"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "gobernador/a",
-                  "id": "Gubernur",
-                  "tagalog": "gobernador/a"
-                },
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "governor",
-                  "id": "Gubernur"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "presidente",
-                  "id": "Presiden",
-                  "tagalog": "presidente"
-                },
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "president",
-                  "id": "Presiden"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "pulis",
-                  "id": "Polisi",
-                  "tagalog": "pulis"
-                },
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "policeman",
-                  "id": "Polisi"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "senador",
-                  "id": "senator",
-                  "tagalog": "senador"
-                },
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "senator",
-                  "id": "senator"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "Professions and Occupations",
-                  "id": "Profesi dan Pekerjaan"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "abogado/a",
-                  "id": "pengacara",
-                  "tagalog": "abogado/a"
-                },
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "lawyer",
-                  "id": "pengacara"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "arkitekto",
-                  "id": "arsitek",
-                  "tagalog": "arkitekto"
-                },
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "architect",
-                  "id": "arsitek"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "artista",
-                  "id": "aktor / aktris",
-                  "tagalog": "artista"
-                },
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "actor/actress",
-                  "id": "aktor / aktris"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "dentista",
-                  "id": "Dokter gigi",
-                  "tagalog": "dentista"
-                },
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "dentist",
-                  "id": "Dokter gigi"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "doktor",
-                  "id": "dokter",
-                  "tagalog": "doktor"
-                },
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "doctor",
-                  "id": "dokter"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "estudyante",
-                  "id": "siswa",
-                  "tagalog": "estudyante"
-                },
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "student",
-                  "id": "siswa"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "inhinyero/a",
-                  "id": "insinyur",
-                  "tagalog": "inhinyero/a"
-                },
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "engineer",
-                  "id": "insinyur"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "kusinero/a/tagaluto",
-                  "id": "koki / juru masak",
-                  "tagalog": "kusinero/a/tagaluto"
-                },
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "chef/cook",
-                  "id": "koki / juru masak"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "mananayaw",
-                  "id": "Penari",
-                  "tagalog": "mananayaw"
-                },
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "dancer",
-                  "id": "Penari"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "manganganta",
-                  "id": "Penyanyi",
-                  "tagalog": "manganganta"
-                },
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "singer",
-                  "id": "Penyanyi"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "manunulat",
-                  "id": "penulis",
-                  "tagalog": "manunulat"
-                },
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "writer",
-                  "id": "penulis"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "musikero/a",
-                  "id": "musisi",
-                  "tagalog": "musikero/a"
-                },
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "musician",
-                  "id": "musisi"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "negosyante",
-                  "id": "pengusaha",
-                  "tagalog": "negosyante"
-                },
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "businessman",
-                  "id": "pengusaha"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "titser/guro",
-                  "id": "guru",
-                  "tagalog": "titser/guro"
-                },
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "teacher",
-                  "id": "guru"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "yaya",
-                  "id": "pengasuh",
-                  "tagalog": "yaya"
-                },
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "nanny",
-                  "id": "pengasuh"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "Marital Status",
-                  "id": "Status Pernikahan"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "binata",
-                  "id": "pria lajang",
-                  "tagalog": "binata"
-                },
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "single male",
-                  "id": "pria lajang"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "dalaga",
-                  "id": "single women",
-                  "tagalog": "dalaga"
-                },
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "single female",
-                  "id": "single women"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "diborsyado/a",
-                  "id": "bercerai",
-                  "tagalog": "diborsyado/a"
-                },
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "divorced",
-                  "id": "bercerai"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "may-asawa",
-                  "id": "menikah",
-                  "tagalog": "may-asawa"
-                },
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "married",
-                  "id": "menikah"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "Gender",
-                  "id": "Gender"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "babae",
-                  "id": "perempuan",
-                  "tagalog": "babae"
-                },
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "female",
-                  "id": "perempuan"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "lalaki",
-                  "id": "pria",
-                  "tagalog": "lalaki"
-                },
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "male",
-                  "id": "pria"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "Religion",
-                  "id": "Agama"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "Budista",
-                  "id": "Buddha",
-                  "tagalog": "Budista"
-                },
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "Buddhist",
-                  "id": "Buddha"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "Katoliko",
-                  "id": "Katolik",
-                  "tagalog": "Katoliko"
-                },
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "Catholic",
-                  "id": "Katolik"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "Protestante",
-                  "id": "Protestan",
-                  "tagalog": "Protestante"
-                },
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "Protestant",
-                  "id": "Protestan"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "Pronouns",
-                  "id": "Pronouns"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "ako",
-                  "id": "Aku...",
-                  "tagalog": "ako"
-                },
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "I",
-                  "id": "Aku..."
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "ano",
-                  "id": "Apa?",
-                  "tagalog": "ano"
-                },
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "what",
-                  "id": "Apa?"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "ikaw/ka",
-                  "id": "Anda",
-                  "tagalog": "ikaw/ka"
-                },
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "you",
-                  "id": "Anda"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "kami",
-                  "id": "kami (eksklusif; tidak termasuk pendengar)",
-                  "tagalog": "kami"
-                },
-                {
-                  "sourceLanguage": "en",
-                  "sourceText": "we (exclusive; not including the listener)",
-                  "id": "kami (eksklusif; tidak termasuk pendengar)"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "kayo",
-                  "id": "Anda (plural)",
-                  "tagalog": "kayo"
-                },
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "you (plural)",
-                  "id": "Anda (plural)"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "ko",
-                  "id": "my",
-                  "tagalog": "ko"
-                },
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "my",
-                  "id": "my"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "mo",
-                  "id": "Anda (posesif)",
-                  "tagalog": "mo"
-                },
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "your (possessive)",
-                  "id": "Anda (posesif)"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "sila",
-                  "id": "mereka",
-                  "tagalog": "sila"
-                },
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "they",
-                  "id": "mereka"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "sino",
-                  "id": "siapa",
-                  "tagalog": "sino"
-                },
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "who",
-                  "id": "siapa"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "siya",
-                  "id": "he / she",
-                  "tagalog": "siya"
-                },
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "he/she",
-                  "id": "he / she"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "tayo",
-                  "id": "Kami (termasuk termasuk pendengar)",
-                  "tagalog": "tayo"
-                },
-                {
-                  "sourceLanguage": "en",
-                  "sourceText": "we (inclusive; including the listener)",
-                  "id": "Kami (termasuk termasuk pendengar)"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "Adverbs",
-                  "id": "Adverbs"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "ngayon",
-                  "id": "sekarang",
-                  "tagalog": "ngayon"
-                },
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "now",
-                  "id": "sekarang"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "Markers",
-                  "id": "Penanda"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "ang",
-                  "id": "menandai kata benda yang umum tunggal dan nama yang tepat dari tempat atau hal-hal",
-                  "tagalog": "ang"
-                },
-                {
-                  "sourceLanguage": "en",
-                  "sourceText": "marks singular common nouns and proper names of places or things",
-                  "id": "menandai kata benda yang umum tunggal dan nama yang tepat dari tempat atau hal-hal"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "ang mga",
-                  "id": "tandai satu atau lebih kata benda umum dan nama yang tepat dari tempat atau hal-hal",
-                  "tagalog": "ang mga"
-                },
-                {
-                  "sourceLanguage": "en",
-                  "sourceText": "marks one or more common nouns and proper names of places or things",
-                  "id": "tandai satu atau lebih kata benda umum dan nama yang tepat dari tempat atau hal-hal"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "si",
-                  "id": "menandai nama dari satu orang atau binatang",
-                  "tagalog": "si"
-                },
-                {
-                  "sourceLanguage": "en",
-                  "sourceText": "marks the name of a singular person or animal",
-                  "id": "menandai nama dari satu orang atau binatang"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "sina",
-                  "id": "menandai nama dua atau lebih orang atau hewan",
-                  "tagalog": "sina"
-                },
-                {
-                  "sourceLanguage": "en",
-                  "sourceText": "marks the name of two or more persons or animals",
-                  "id": "menandai nama dua atau lebih orang atau hewan"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "Idioms and Expressions",
-                  "id": "Idiom and Expressions"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "Kita na lang tayo mamaya.",
-                  "id": "Sampai nanti.",
-                  "tagalog": "Kita na lang tayo mamaya."
-                },
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "See you later.",
-                  "id": "Sampai nanti."
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "O sige! Kita tayo mamaya.",
-                  "id": "Baiklah, sampai nanti.",
-                  "tagalog": "O sige! Kita tayo mamaya."
-                },
-                {
-                  "sourceLanguage": "en",
-                  "sourceText": "All right! See you later.",
-                  "id": "Baiklah, sampai nanti."
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "siyanga pala",
-                  "id": "by the way",
-                  "tagalog": "siyanga pala"
-                },
-                {
-                  "sourceLanguage": "en",
-                  "sourceText": "by the way",
-                  "id": "by the way"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "talaga",
-                  "id": "benar",
-                  "tagalog": "talaga"
-                },
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "really",
-                  "id": "benar"
-                }
-              ]
+          "type": "vocabulary",
+          "entries": [
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "Abogasiya",
+                "id": "Hukum",
+                "tagalog": "Abogasiya"
+              },
+              "meaning": {
+                "sourceLanguage": "mixed",
+                "sourceText": "Law",
+                "id": "Hukum"
+              }
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "Arkitektura",
+                "id": "Arsitektur",
+                "tagalog": "Arkitektura"
+              },
+              "meaning": {
+                "sourceLanguage": "mixed",
+                "sourceText": "Architecture",
+                "id": "Arsitektur"
+              }
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "Ingles",
+                "id": "Inggris",
+                "tagalog": "Ingles"
+              },
+              "meaning": {
+                "sourceLanguage": "mixed",
+                "sourceText": "English",
+                "id": "Inggris"
+              }
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "Kasaysayan",
+                "id": "Riwayat",
+                "tagalog": "Kasaysayan"
+              },
+              "meaning": {
+                "sourceLanguage": "mixed",
+                "sourceText": "History",
+                "id": "Riwayat"
+              }
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "Literatura",
+                "id": "Sastra",
+                "tagalog": "Literatura"
+              },
+              "meaning": {
+                "sourceLanguage": "mixed",
+                "sourceText": "Literature",
+                "id": "Sastra"
+              }
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "Matematika",
+                "id": "Matematika",
+                "tagalog": "Matematika"
+              },
+              "meaning": {
+                "sourceLanguage": "mixed",
+                "sourceText": "Math",
+                "id": "Matematika"
+              }
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "Medisina",
+                "id": "Obat",
+                "tagalog": "Medisina"
+              },
+              "meaning": {
+                "sourceLanguage": "mixed",
+                "sourceText": "Medicine",
+                "id": "Obat"
+              }
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "Narsing",
+                "id": "Perawat",
+                "tagalog": "Narsing"
+              },
+              "meaning": {
+                "sourceLanguage": "mixed",
+                "sourceText": "Nursing",
+                "id": "Perawat"
+              }
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "Wika",
+                "id": "Bahasa",
+                "tagalog": "Wika"
+              },
+              "meaning": {
+                "sourceLanguage": "mixed",
+                "sourceText": "Language",
+                "id": "Bahasa"
+              }
             }
-          ]
+          ],
+          "title": {
+            "sourceLanguage": "mixed",
+            "sourceText": "Majors/Courses",
+            "id": "Mayor / Pengadilan"
+          }
+        },
+        {
+          "type": "vocabulary",
+          "entries": [
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "Aleman",
+                "id": "Jerman",
+                "tagalog": "Aleman"
+              },
+              "meaning": {
+                "sourceLanguage": "mixed",
+                "sourceText": "German",
+                "id": "Jerman"
+              }
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "Amerikano/a",
+                "id": "Amerika",
+                "tagalog": "Amerikano/a"
+              },
+              "meaning": {
+                "sourceLanguage": "mixed",
+                "sourceText": "American",
+                "id": "Amerika"
+              }
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "Hapones",
+                "id": "Jepang",
+                "tagalog": "Hapones"
+              },
+              "meaning": {
+                "sourceLanguage": "mixed",
+                "sourceText": "Japanese",
+                "id": "Jepang"
+              }
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "Kastila",
+                "id": "Spanyol",
+                "tagalog": "Kastila"
+              },
+              "meaning": {
+                "sourceLanguage": "mixed",
+                "sourceText": "Spanish",
+                "id": "Spanyol"
+              }
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "Koreano/a",
+                "id": "Korea",
+                "tagalog": "Koreano/a"
+              },
+              "meaning": {
+                "sourceLanguage": "mixed",
+                "sourceText": "Korean",
+                "id": "Korea"
+              }
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "Pilipino/a",
+                "id": "Filipina",
+                "tagalog": "Pilipino/a"
+              },
+              "meaning": {
+                "sourceLanguage": "mixed",
+                "sourceText": "Filipino",
+                "id": "Filipina"
+              }
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "Tsino",
+                "id": "Cina",
+                "tagalog": "Tsino"
+              },
+              "meaning": {
+                "sourceLanguage": "mixed",
+                "sourceText": "Chinese",
+                "id": "Cina"
+              }
+            }
+          ],
+          "title": {
+            "sourceLanguage": "mixed",
+            "sourceText": "Nationalities",
+            "id": "Nasionalitas"
+          }
+        },
+        {
+          "type": "vocabulary",
+          "entries": [
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "alkalde",
+                "id": "Walikota",
+                "tagalog": "alkalde"
+              },
+              "meaning": {
+                "sourceLanguage": "mixed",
+                "sourceText": "mayor",
+                "id": "Walikota"
+              }
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "gobernador/a",
+                "id": "Gubernur",
+                "tagalog": "gobernador/a"
+              },
+              "meaning": {
+                "sourceLanguage": "mixed",
+                "sourceText": "governor",
+                "id": "Gubernur"
+              }
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "presidente",
+                "id": "Presiden",
+                "tagalog": "presidente"
+              },
+              "meaning": {
+                "sourceLanguage": "mixed",
+                "sourceText": "president",
+                "id": "Presiden"
+              }
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "pulis",
+                "id": "Polisi",
+                "tagalog": "pulis"
+              },
+              "meaning": {
+                "sourceLanguage": "mixed",
+                "sourceText": "policeman",
+                "id": "Polisi"
+              }
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "senador",
+                "id": "senator",
+                "tagalog": "senador"
+              },
+              "meaning": {
+                "sourceLanguage": "mixed",
+                "sourceText": "senator",
+                "id": "senator"
+              }
+            }
+          ],
+          "title": {
+            "sourceLanguage": "mixed",
+            "sourceText": "Officials",
+            "id": "Pejabat"
+          }
+        },
+        {
+          "type": "vocabulary",
+          "entries": [
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "abogado/a",
+                "id": "pengacara",
+                "tagalog": "abogado/a"
+              },
+              "meaning": {
+                "sourceLanguage": "mixed",
+                "sourceText": "lawyer",
+                "id": "pengacara"
+              }
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "arkitekto",
+                "id": "arsitek",
+                "tagalog": "arkitekto"
+              },
+              "meaning": {
+                "sourceLanguage": "mixed",
+                "sourceText": "architect",
+                "id": "arsitek"
+              }
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "artista",
+                "id": "aktor / aktris",
+                "tagalog": "artista"
+              },
+              "meaning": {
+                "sourceLanguage": "mixed",
+                "sourceText": "actor/actress",
+                "id": "aktor / aktris"
+              }
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "dentista",
+                "id": "Dokter gigi",
+                "tagalog": "dentista"
+              },
+              "meaning": {
+                "sourceLanguage": "mixed",
+                "sourceText": "dentist",
+                "id": "Dokter gigi"
+              }
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "doktor",
+                "id": "dokter",
+                "tagalog": "doktor"
+              },
+              "meaning": {
+                "sourceLanguage": "mixed",
+                "sourceText": "doctor",
+                "id": "dokter"
+              }
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "estudyante",
+                "id": "siswa",
+                "tagalog": "estudyante"
+              },
+              "meaning": {
+                "sourceLanguage": "mixed",
+                "sourceText": "student",
+                "id": "siswa"
+              }
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "inhinyero/a",
+                "id": "insinyur",
+                "tagalog": "inhinyero/a"
+              },
+              "meaning": {
+                "sourceLanguage": "mixed",
+                "sourceText": "engineer",
+                "id": "insinyur"
+              }
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "kusinero/a/tagaluto",
+                "id": "koki / juru masak",
+                "tagalog": "kusinero/a/tagaluto"
+              },
+              "meaning": {
+                "sourceLanguage": "mixed",
+                "sourceText": "chef/cook",
+                "id": "koki / juru masak"
+              }
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "mananayaw",
+                "id": "Penari",
+                "tagalog": "mananayaw"
+              },
+              "meaning": {
+                "sourceLanguage": "mixed",
+                "sourceText": "dancer",
+                "id": "Penari"
+              }
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "manganganta",
+                "id": "Penyanyi",
+                "tagalog": "manganganta"
+              },
+              "meaning": {
+                "sourceLanguage": "mixed",
+                "sourceText": "singer",
+                "id": "Penyanyi"
+              }
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "manunulat",
+                "id": "penulis",
+                "tagalog": "manunulat"
+              },
+              "meaning": {
+                "sourceLanguage": "mixed",
+                "sourceText": "writer",
+                "id": "penulis"
+              }
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "musikero/a",
+                "id": "musisi",
+                "tagalog": "musikero/a"
+              },
+              "meaning": {
+                "sourceLanguage": "mixed",
+                "sourceText": "musician",
+                "id": "musisi"
+              }
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "negosyante",
+                "id": "pengusaha",
+                "tagalog": "negosyante"
+              },
+              "meaning": {
+                "sourceLanguage": "mixed",
+                "sourceText": "businessman",
+                "id": "pengusaha"
+              }
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "titser/guro",
+                "id": "guru",
+                "tagalog": "titser/guro"
+              },
+              "meaning": {
+                "sourceLanguage": "mixed",
+                "sourceText": "teacher",
+                "id": "guru"
+              }
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "yaya",
+                "id": "pengasuh",
+                "tagalog": "yaya"
+              },
+              "meaning": {
+                "sourceLanguage": "mixed",
+                "sourceText": "nanny",
+                "id": "pengasuh"
+              }
+            }
+          ],
+          "title": {
+            "sourceLanguage": "mixed",
+            "sourceText": "Professions and Occupations",
+            "id": "Profesi dan Pekerjaan"
+          }
+        },
+        {
+          "type": "vocabulary",
+          "entries": [
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "binata",
+                "id": "pria lajang",
+                "tagalog": "binata"
+              },
+              "meaning": {
+                "sourceLanguage": "mixed",
+                "sourceText": "single male",
+                "id": "pria lajang"
+              }
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "dalaga",
+                "id": "single women",
+                "tagalog": "dalaga"
+              },
+              "meaning": {
+                "sourceLanguage": "mixed",
+                "sourceText": "single female",
+                "id": "single women"
+              }
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "diborsyado/a",
+                "id": "bercerai",
+                "tagalog": "diborsyado/a"
+              },
+              "meaning": {
+                "sourceLanguage": "mixed",
+                "sourceText": "divorced",
+                "id": "bercerai"
+              }
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "may-asawa",
+                "id": "menikah",
+                "tagalog": "may-asawa"
+              },
+              "meaning": {
+                "sourceLanguage": "mixed",
+                "sourceText": "married",
+                "id": "menikah"
+              }
+            }
+          ],
+          "title": {
+            "sourceLanguage": "mixed",
+            "sourceText": "Marital Status",
+            "id": "Status Pernikahan"
+          }
+        },
+        {
+          "type": "vocabulary",
+          "entries": [
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "babae",
+                "id": "perempuan",
+                "tagalog": "babae"
+              },
+              "meaning": {
+                "sourceLanguage": "mixed",
+                "sourceText": "female",
+                "id": "perempuan"
+              }
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "lalaki",
+                "id": "pria",
+                "tagalog": "lalaki"
+              },
+              "meaning": {
+                "sourceLanguage": "mixed",
+                "sourceText": "male",
+                "id": "pria"
+              }
+            }
+          ],
+          "title": {
+            "sourceLanguage": "mixed",
+            "sourceText": "Gender",
+            "id": "Gender"
+          }
+        },
+        {
+          "type": "vocabulary",
+          "entries": [
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "Budista",
+                "id": "Buddha",
+                "tagalog": "Budista"
+              },
+              "meaning": {
+                "sourceLanguage": "mixed",
+                "sourceText": "Buddhist",
+                "id": "Buddha"
+              }
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "Katoliko",
+                "id": "Katolik",
+                "tagalog": "Katoliko"
+              },
+              "meaning": {
+                "sourceLanguage": "mixed",
+                "sourceText": "Catholic",
+                "id": "Katolik"
+              }
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "Protestante",
+                "id": "Protestan",
+                "tagalog": "Protestante"
+              },
+              "meaning": {
+                "sourceLanguage": "mixed",
+                "sourceText": "Protestant",
+                "id": "Protestan"
+              }
+            }
+          ],
+          "title": {
+            "sourceLanguage": "mixed",
+            "sourceText": "Religion",
+            "id": "Agama"
+          }
+        },
+        {
+          "type": "vocabulary",
+          "entries": [
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "ako",
+                "id": "Aku...",
+                "tagalog": "ako"
+              },
+              "meaning": {
+                "sourceLanguage": "mixed",
+                "sourceText": "I",
+                "id": "Aku..."
+              }
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "ano",
+                "id": "Apa?",
+                "tagalog": "ano"
+              },
+              "meaning": {
+                "sourceLanguage": "mixed",
+                "sourceText": "what",
+                "id": "Apa?"
+              }
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "ikaw/ka",
+                "id": "Anda",
+                "tagalog": "ikaw/ka"
+              },
+              "meaning": {
+                "sourceLanguage": "mixed",
+                "sourceText": "you",
+                "id": "Anda"
+              }
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "kami",
+                "id": "kami (eksklusif; tidak termasuk pendengar)",
+                "tagalog": "kami"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "we (exclusive; not including the listener)",
+                "id": "kami (eksklusif; tidak termasuk pendengar)"
+              }
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "kayo",
+                "id": "Anda (plural)",
+                "tagalog": "kayo"
+              },
+              "meaning": {
+                "sourceLanguage": "mixed",
+                "sourceText": "you (plural)",
+                "id": "Anda (plural)"
+              }
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "ko",
+                "id": "my",
+                "tagalog": "ko"
+              },
+              "meaning": {
+                "sourceLanguage": "mixed",
+                "sourceText": "my",
+                "id": "my"
+              }
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "mo",
+                "id": "Anda (posesif)",
+                "tagalog": "mo"
+              },
+              "meaning": {
+                "sourceLanguage": "mixed",
+                "sourceText": "your (possessive)",
+                "id": "Anda (posesif)"
+              }
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "sila",
+                "id": "mereka",
+                "tagalog": "sila"
+              },
+              "meaning": {
+                "sourceLanguage": "mixed",
+                "sourceText": "they",
+                "id": "mereka"
+              }
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "sino",
+                "id": "siapa",
+                "tagalog": "sino"
+              },
+              "meaning": {
+                "sourceLanguage": "mixed",
+                "sourceText": "who",
+                "id": "siapa"
+              }
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "siya",
+                "id": "he / she",
+                "tagalog": "siya"
+              },
+              "meaning": {
+                "sourceLanguage": "mixed",
+                "sourceText": "he/she",
+                "id": "he / she"
+              }
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "tayo",
+                "id": "Kami (termasuk termasuk pendengar)",
+                "tagalog": "tayo"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "we (inclusive; including the listener)",
+                "id": "Kami (termasuk termasuk pendengar)"
+              }
+            }
+          ],
+          "title": {
+            "sourceLanguage": "mixed",
+            "sourceText": "Pronouns",
+            "id": "Kata ganti"
+          }
+        },
+        {
+          "type": "vocabulary",
+          "entries": [
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "ngayon",
+                "id": "sekarang",
+                "tagalog": "ngayon"
+              },
+              "meaning": {
+                "sourceLanguage": "mixed",
+                "sourceText": "now",
+                "id": "sekarang"
+              }
+            }
+          ],
+          "title": {
+            "sourceLanguage": "mixed",
+            "sourceText": "Adverbs",
+            "id": "Kata keterangan"
+          }
+        },
+        {
+          "type": "vocabulary",
+          "entries": [
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "ang",
+                "id": "menandai kata benda yang umum tunggal dan nama yang tepat dari tempat atau hal-hal",
+                "tagalog": "ang"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "marks singular common nouns and proper names of places or things",
+                "id": "menandai kata benda yang umum tunggal dan nama yang tepat dari tempat atau hal-hal"
+              }
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "ang mga",
+                "id": "tandai satu atau lebih kata benda umum dan nama yang tepat dari tempat atau hal-hal",
+                "tagalog": "ang mga"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "marks one or more common nouns and proper names of places or things",
+                "id": "tandai satu atau lebih kata benda umum dan nama yang tepat dari tempat atau hal-hal"
+              }
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "si",
+                "id": "menandai nama dari satu orang atau binatang",
+                "tagalog": "si"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "marks the name of a singular person or animal",
+                "id": "menandai nama dari satu orang atau binatang"
+              }
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "sina",
+                "id": "menandai nama dua atau lebih orang atau hewan",
+                "tagalog": "sina"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "marks the name of two or more persons or animals",
+                "id": "menandai nama dua atau lebih orang atau hewan"
+              }
+            }
+          ],
+          "title": {
+            "sourceLanguage": "mixed",
+            "sourceText": "Markers",
+            "id": "Penanda"
+          }
+        },
+        {
+          "type": "vocabulary",
+          "entries": [
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "Kita na lang tayo mamaya.",
+                "id": "Sampai nanti.",
+                "tagalog": "Kita na lang tayo mamaya."
+              },
+              "meaning": {
+                "sourceLanguage": "mixed",
+                "sourceText": "See you later.",
+                "id": "Sampai nanti."
+              }
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "O sige! Kita tayo mamaya.",
+                "id": "Baiklah, sampai nanti.",
+                "tagalog": "O sige! Kita tayo mamaya."
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "All right! See you later.",
+                "id": "Baiklah, sampai nanti."
+              }
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "siyanga pala",
+                "id": "by the way",
+                "tagalog": "siyanga pala"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "by the way",
+                "id": "by the way"
+              }
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "talaga",
+                "id": "benar",
+                "tagalog": "talaga"
+              },
+              "meaning": {
+                "sourceLanguage": "mixed",
+                "sourceText": "really",
+                "id": "benar"
+              }
+            }
+          ],
+          "title": {
+            "sourceLanguage": "mixed",
+            "sourceText": "Idioms and Expressions",
+            "id": "Idiom and Expressions"
+          }
         },
         {
           "type": "image",
           "path": "assets/29.jpg"
         }
-      ]
+      ],
+      "id": "lesson-01-02-vocabulary"
     },
     {
-      "id": "lesson-01-dialogue-kumusta-ka-how-are-you",
       "type": "DIALOGUE",
       "title": {
         "sourceLanguage": "en",
@@ -1480,231 +1227,211 @@
           "style": "body",
           "text": {
             "sourceLanguage": "en",
-            "sourceText": "Dialogue: Kumusta Ka? How Are You?",
-            "id": "Dialog: \"Kumusta Ka\" Bagaimana kabarmu?"
-          }
-        },
-        {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "en",
             "sourceText": "The dialogue illustrates how to use the words and expressions you studied above. Read it aloud with a partner and complete the Dialogue Comprehension activity that follows.",
             "id": "Dialog menggambarkan bagaimana menggunakan kata-kata dan ekspresi yang Anda pelajari di atas. Baca dengan suara keras dengan pasangan dan menyelesaikan aktivitas Komprehensi Dialog yang berikut."
           }
         },
         {
-          "type": "table",
-          "rows": [
+          "type": "dialogue",
+          "turns": [
             {
-              "cells": [
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "Patrick:",
-                  "id": "Patrick:"
-                },
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "Magandang umaga, Mike!",
-                  "id": "Pagi, Mike!",
-                  "tagalog": "Magandang umaga, Mike!"
-                }
-              ]
+              "speaker": "Patrick",
+              "speakerText": {
+                "sourceLanguage": "mixed",
+                "sourceText": "Patrick:",
+                "id": "Patrick:"
+              },
+              "text": {
+                "sourceLanguage": "fil",
+                "sourceText": "Magandang umaga, Mike!",
+                "id": "Pagi, Mike!",
+                "tagalog": "Magandang umaga, Mike!"
+              }
             },
             {
-              "cells": [
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "Mike:",
-                  "id": "Mike:"
-                },
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "Magandang umaga din naman, Pat. Kumusta ka na?",
-                  "id": "Selamat pagi, Pat.",
-                  "tagalog": "Magandang umaga din naman, Pat. Kumusta ka na?"
-                }
-              ]
+              "speaker": "Mike",
+              "speakerText": {
+                "sourceLanguage": "mixed",
+                "sourceText": "Mike:",
+                "id": "Mike:"
+              },
+              "text": {
+                "sourceLanguage": "fil",
+                "sourceText": "Magandang umaga din naman, Pat. Kumusta ka na?",
+                "id": "Selamat pagi, Pat.",
+                "tagalog": "Magandang umaga din naman, Pat. Kumusta ka na?"
+              }
             },
             {
-              "cells": [
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "Patrick:",
-                  "id": "Patrick:"
-                },
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "Ayos naman. Ikaw?",
-                  "id": "Tidak apa-apa.",
-                  "tagalog": "Ayos naman. Ikaw?"
-                }
-              ]
+              "speaker": "Patrick",
+              "speakerText": {
+                "sourceLanguage": "mixed",
+                "sourceText": "Patrick:",
+                "id": "Patrick:"
+              },
+              "text": {
+                "sourceLanguage": "fil",
+                "sourceText": "Ayos naman. Ikaw?",
+                "id": "Tidak apa-apa.",
+                "tagalog": "Ayos naman. Ikaw?"
+              }
             },
             {
-              "cells": [
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "Mike:",
-                  "id": "Mike:"
-                },
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "Ayos lang. Heto, buhay pa. Ikaw, ano na’ng bago?",
-                  "id": "Tak apa, kau masih hidup. / Tempat baru apa itu?",
-                  "tagalog": "Ayos lang. Heto, buhay pa. Ikaw, ano na’ng bago?"
-                }
-              ]
+              "speaker": "Mike",
+              "speakerText": {
+                "sourceLanguage": "mixed",
+                "sourceText": "Mike:",
+                "id": "Mike:"
+              },
+              "text": {
+                "sourceLanguage": "fil",
+                "sourceText": "Ayos lang. Heto, buhay pa. Ikaw, ano na’ng bago?",
+                "id": "Tak apa, kau masih hidup. / Tempat baru apa itu?",
+                "tagalog": "Ayos lang. Heto, buhay pa. Ikaw, ano na’ng bago?"
+              }
             },
             {
-              "cells": [
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "Patrick:",
-                  "id": "Patrick:"
-                },
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "Wala naman. Siyanga pala ano ang klase mo ngayon?",
-                  "id": "Tidak, orang macam apa kau sekarang?",
-                  "tagalog": "Wala naman. Siyanga pala ano ang klase mo ngayon?"
-                }
-              ]
+              "speaker": "Patrick",
+              "speakerText": {
+                "sourceLanguage": "mixed",
+                "sourceText": "Patrick:",
+                "id": "Patrick:"
+              },
+              "text": {
+                "sourceLanguage": "fil",
+                "sourceText": "Wala naman. Siyanga pala ano ang klase mo ngayon?",
+                "id": "Tidak, orang macam apa kau sekarang?",
+                "tagalog": "Wala naman. Siyanga pala ano ang klase mo ngayon?"
+              }
             },
             {
-              "cells": [
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "Mike:",
-                  "id": "Mike:"
-                },
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "Tagalog.",
-                  "id": "Tagalog.",
-                  "tagalog": "Tagalog."
-                }
-              ]
+              "speaker": "Mike",
+              "speakerText": {
+                "sourceLanguage": "mixed",
+                "sourceText": "Mike:",
+                "id": "Mike:"
+              },
+              "text": {
+                "sourceLanguage": "fil",
+                "sourceText": "Tagalog.",
+                "id": "Tagalog.",
+                "tagalog": "Tagalog."
+              }
             },
             {
-              "cells": [
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "Patrick:",
-                  "id": "Patrick:"
-                },
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "Talaga? Sino ang titser mo sa Tagalog?",
-                  "id": "Sungguh, siapa gurumu dalam bahasa Inggris?",
-                  "tagalog": "Talaga? Sino ang titser mo sa Tagalog?"
-                }
-              ]
+              "speaker": "Patrick",
+              "speakerText": {
+                "sourceLanguage": "mixed",
+                "sourceText": "Patrick:",
+                "id": "Patrick:"
+              },
+              "text": {
+                "sourceLanguage": "fil",
+                "sourceText": "Talaga? Sino ang titser mo sa Tagalog?",
+                "id": "Sungguh, siapa gurumu dalam bahasa Inggris?",
+                "tagalog": "Talaga? Sino ang titser mo sa Tagalog?"
+              }
             },
             {
-              "cells": [
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "Mike:",
-                  "id": "Mike:"
-                },
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "Si Propesor Santos. Ikaw? Ano ang klase mo ngayon?",
-                  "id": "Profesor Santos, dan apa kelasmu hari ini?",
-                  "tagalog": "Si Propesor Santos. Ikaw? Ano ang klase mo ngayon?"
-                }
-              ]
+              "speaker": "Mike",
+              "speakerText": {
+                "sourceLanguage": "mixed",
+                "sourceText": "Mike:",
+                "id": "Mike:"
+              },
+              "text": {
+                "sourceLanguage": "fil",
+                "sourceText": "Si Propesor Santos. Ikaw? Ano ang klase mo ngayon?",
+                "id": "Profesor Santos, dan apa kelasmu hari ini?",
+                "tagalog": "Si Propesor Santos. Ikaw? Ano ang klase mo ngayon?"
+              }
             },
             {
-              "cells": [
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "Patrick:",
-                  "id": "Patrick:"
-                },
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "Math.",
-                  "id": "Matematika.",
-                  "tagalog": "Math."
-                }
-              ]
+              "speaker": "Patrick",
+              "speakerText": {
+                "sourceLanguage": "mixed",
+                "sourceText": "Patrick:",
+                "id": "Patrick:"
+              },
+              "text": {
+                "sourceLanguage": "fil",
+                "sourceText": "Math.",
+                "id": "Matematika.",
+                "tagalog": "Math."
+              }
             },
             {
-              "cells": [
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "Mike:",
-                  "id": "Mike:"
-                },
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "Sino ang titser mo sa Math?",
-                  "id": "Siapa gurumu di Mahth?",
-                  "tagalog": "Sino ang titser mo sa Math?"
-                }
-              ]
+              "speaker": "Mike",
+              "speakerText": {
+                "sourceLanguage": "mixed",
+                "sourceText": "Mike:",
+                "id": "Mike:"
+              },
+              "text": {
+                "sourceLanguage": "fil",
+                "sourceText": "Sino ang titser mo sa Math?",
+                "id": "Siapa gurumu di Mahth?",
+                "tagalog": "Sino ang titser mo sa Math?"
+              }
             },
             {
-              "cells": [
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "Patrick:",
-                  "id": "Patrick:"
-                },
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "Si Propesor Smith.",
-                  "id": "Profesor Smith.",
-                  "tagalog": "Si Propesor Smith."
-                }
-              ]
+              "speaker": "Patrick",
+              "speakerText": {
+                "sourceLanguage": "mixed",
+                "sourceText": "Patrick:",
+                "id": "Patrick:"
+              },
+              "text": {
+                "sourceLanguage": "fil",
+                "sourceText": "Si Propesor Smith.",
+                "id": "Profesor Smith.",
+                "tagalog": "Si Propesor Smith."
+              }
             },
             {
-              "cells": [
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "Mike:",
-                  "id": "Mike:"
-                },
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "Ah, o sige. Kita na lang tayo mamaya.",
-                  "id": "Ah, atau bang, aku akan lihat nanti.",
-                  "tagalog": "Ah, o sige. Kita na lang tayo mamaya."
-                }
-              ]
+              "speaker": "Mike",
+              "speakerText": {
+                "sourceLanguage": "mixed",
+                "sourceText": "Mike:",
+                "id": "Mike:"
+              },
+              "text": {
+                "sourceLanguage": "fil",
+                "sourceText": "Ah, o sige. Kita na lang tayo mamaya.",
+                "id": "Ah, atau bang, aku akan lihat nanti.",
+                "tagalog": "Ah, o sige. Kita na lang tayo mamaya."
+              }
             },
             {
-              "cells": [
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "Patrick:",
-                  "id": "Patrick:"
-                },
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "O sige. Ingat ka!",
-                  "id": "Oke, hati-hati!",
-                  "tagalog": "O sige. Ingat ka!"
-                }
-              ]
+              "speaker": "Patrick",
+              "speakerText": {
+                "sourceLanguage": "mixed",
+                "sourceText": "Patrick:",
+                "id": "Patrick:"
+              },
+              "text": {
+                "sourceLanguage": "fil",
+                "sourceText": "O sige. Ingat ka!",
+                "id": "Oke, hati-hati!",
+                "tagalog": "O sige. Ingat ka!"
+              }
             }
           ]
-        },
+        }
+      ],
+      "id": "lesson-01-03-dialogue-kumusta-ka-how-are-you"
+    },
+    {
+      "type": "EXERCISES",
+      "title": {
+        "sourceLanguage": "mixed",
+        "sourceText": "Dialogue Comprehension",
+        "id": "Pemahaman Dialog"
+      },
+      "blocks": [
         {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "mixed",
-            "sourceText": "Dialogue Comprehension",
-            "id": "Pemahaman Dialog"
-          }
-        },
-        {
-          "type": "text",
-          "style": "body",
+          "type": "exercise",
+          "role": "content",
           "text": {
             "sourceLanguage": "en",
             "sourceText": "For each of the following statements about the dialogue, place a check mark in the appropriate blank, depending on whether the statement is true, Tama, or false, Mali.",
@@ -1712,7 +1439,8 @@
           }
         },
         {
-          "type": "table",
+          "type": "exercise",
+          "role": "worksheet",
           "rows": [
             {
               "cells": [
@@ -1825,38 +1553,20 @@
             }
           ]
         }
-      ]
+      ],
+      "id": "lesson-01-04-dialogue-comprehension"
     },
     {
-      "id": "lesson-01-activities",
-      "type": "ACTIVITY",
+      "type": "EXERCISES",
       "title": {
         "sourceLanguage": "mixed",
-        "sourceText": "Activities",
-        "id": "Aktivitas"
+        "sourceText": "Activity 1",
+        "id": "Aktivitas 1"
       },
       "blocks": [
         {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "mixed",
-            "sourceText": "Activities",
-            "id": "Aktivitas"
-          }
-        },
-        {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "mixed",
-            "sourceText": "Activity 1",
-            "id": "Aktivitas 1"
-          }
-        },
-        {
-          "type": "text",
-          "style": "body",
+          "type": "exercise",
+          "role": "instruction",
           "text": {
             "sourceLanguage": "en",
             "sourceText": "Work with a partner. Write down all the classes you are taking this semester or quarter, then interview each other in order to exchange information about your professors or teachers and teaching assistants for each class. The example below illustrates how to use sino (who) in your interview.",
@@ -1865,6 +1575,7 @@
         },
         {
           "type": "table",
+          "role": "dialogue-context",
           "rows": [
             {
               "cells": [
@@ -1874,72 +1585,73 @@
                   "id": "EXAMPLE:"
                 }
               ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "Q:",
-                  "id": "Q:"
-                },
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "Sino ang propesor (titser) mo sa Kasaysayan? Who is your professor (teacher) in History?",
-                  "id": "Siapa profesormu dalam Sejarah?",
-                  "tagalog": "Sino ang propesor (titser) mo sa Kasaysayan? Who is your professor (teacher) in History?"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "A:",
-                  "id": "A:"
-                },
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "Si Propesor Bonus. Professor Bonus.",
-                  "id": "Profesor Boynus, Profesor Bonus.",
-                  "tagalog": "Si Propesor Bonus. Professor Bonus."
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "Q:",
-                  "id": "Q:"
-                },
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "Sino ang TA mo sa Kasaysayan? Who is your TA in History?",
-                  "id": "Who Are You Like in History?",
-                  "tagalog": "Sino ang TA mo sa Kasaysayan? Who is your TA in History?"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "A:",
-                  "id": "A:"
-                },
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "Si Eric. Eric.",
-                  "id": "Eric.",
-                  "tagalog": "Si Eric. Eric."
-                }
-              ]
             }
           ]
         },
         {
-          "type": "text",
-          "style": "body",
+          "type": "dialogue",
+          "turns": [
+            {
+              "speaker": "Q",
+              "speakerText": {
+                "sourceLanguage": "mixed",
+                "sourceText": "Q:",
+                "id": "Q:"
+              },
+              "text": {
+                "sourceLanguage": "fil",
+                "sourceText": "Sino ang propesor (titser) mo sa Kasaysayan? Who is your professor (teacher) in History?",
+                "id": "Siapa profesormu dalam Sejarah?",
+                "tagalog": "Sino ang propesor (titser) mo sa Kasaysayan? Who is your professor (teacher) in History?"
+              }
+            },
+            {
+              "speaker": "A",
+              "speakerText": {
+                "sourceLanguage": "mixed",
+                "sourceText": "A:",
+                "id": "A:"
+              },
+              "text": {
+                "sourceLanguage": "fil",
+                "sourceText": "Si Propesor Bonus. Professor Bonus.",
+                "id": "Profesor Boynus, Profesor Bonus.",
+                "tagalog": "Si Propesor Bonus. Professor Bonus."
+              }
+            },
+            {
+              "speaker": "Q",
+              "speakerText": {
+                "sourceLanguage": "mixed",
+                "sourceText": "Q:",
+                "id": "Q:"
+              },
+              "text": {
+                "sourceLanguage": "fil",
+                "sourceText": "Sino ang TA mo sa Kasaysayan? Who is your TA in History?",
+                "id": "Who Are You Like in History?",
+                "tagalog": "Sino ang TA mo sa Kasaysayan? Who is your TA in History?"
+              }
+            },
+            {
+              "speaker": "A",
+              "speakerText": {
+                "sourceLanguage": "mixed",
+                "sourceText": "A:",
+                "id": "A:"
+              },
+              "text": {
+                "sourceLanguage": "fil",
+                "sourceText": "Si Eric. Eric.",
+                "id": "Eric.",
+                "tagalog": "Si Eric. Eric."
+              }
+            }
+          ]
+        },
+        {
+          "type": "exercise",
+          "role": "instruction",
           "text": {
             "sourceLanguage": "en",
             "sourceText": "Using the chart below, write your classes in column 1, the names of the professors in column 2, and the names of the teaching assistants in column 3. Then practice using sino in questions and responding appropriately.",
@@ -1947,7 +1659,8 @@
           }
         },
         {
-          "type": "table",
+          "type": "exercise",
+          "role": "worksheet",
           "rows": [
             {
               "cells": [
@@ -2067,19 +1780,21 @@
               ]
             }
           ]
-        },
+        }
+      ],
+      "id": "lesson-01-05-activity-1"
+    },
+    {
+      "type": "EXERCISES",
+      "title": {
+        "sourceLanguage": "mixed",
+        "sourceText": "Activity 2",
+        "id": "Aktivitas 2"
+      },
+      "blocks": [
         {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "mixed",
-            "sourceText": "Activity 2",
-            "id": "Aktivitas 2"
-          }
-        },
-        {
-          "type": "text",
-          "style": "body",
+          "type": "exercise",
+          "role": "content",
           "text": {
             "sourceLanguage": "en",
             "sourceText": "This time, use the interrogative ano (what) to obtain the information. Work with a partner, and ask each other the questions listed below. Using complete sentences, record your partner’s responses in the space provided. After filling in all the information, report your findings to the class.",
@@ -2088,6 +1803,7 @@
         },
         {
           "type": "table",
+          "role": "dialogue-context",
           "rows": [
             {
               "cells": [
@@ -2097,71 +1813,73 @@
                   "id": "EXAMPLE:"
                 }
               ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "Q:",
-                  "id": "Q:"
-                },
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "Ano ang kurso mo? What is your course?",
-                  "id": "Apa saja Anda?",
-                  "tagalog": "Ano ang kurso mo? What is your course?"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "A:",
-                  "id": "A:"
-                },
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "Narsing ang kurso ko. My course is nursing.",
-                  "id": "Kursus sekolah saya keperawatan.",
-                  "tagalog": "Narsing ang kurso ko. My course is nursing."
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "Q:",
-                  "id": "Q:"
-                },
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "Ano ang mga klase mo ngayon? What are your classes now?",
-                  "id": "Apa kelas Anda hari ini?",
-                  "tagalog": "Ano ang mga klase mo ngayon? What are your classes now?"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "A:",
-                  "id": "A:"
-                },
-                {
-                  "sourceLanguage": "en",
-                  "sourceText": "Matematika, Literatura, at Ingles ang mga klase ko ngayon. My classes now are Math, Literature, and English.",
-                  "id": "Matematika, Satutura, di Ingle ang mga Klase ko ngayon, kelasku sekarang adalah Matematika, Sastra, dan Inggris."
-                }
-              ]
             }
           ]
         },
         {
-          "type": "text",
-          "style": "body",
+          "type": "dialogue",
+          "turns": [
+            {
+              "speaker": "Q",
+              "speakerText": {
+                "sourceLanguage": "mixed",
+                "sourceText": "Q:",
+                "id": "Q:"
+              },
+              "text": {
+                "sourceLanguage": "fil",
+                "sourceText": "Ano ang kurso mo? What is your course?",
+                "id": "Apa saja Anda?",
+                "tagalog": "Ano ang kurso mo? What is your course?"
+              }
+            },
+            {
+              "speaker": "A",
+              "speakerText": {
+                "sourceLanguage": "mixed",
+                "sourceText": "A:",
+                "id": "A:"
+              },
+              "text": {
+                "sourceLanguage": "fil",
+                "sourceText": "Narsing ang kurso ko. My course is nursing.",
+                "id": "Kursus sekolah saya keperawatan.",
+                "tagalog": "Narsing ang kurso ko. My course is nursing."
+              }
+            },
+            {
+              "speaker": "Q",
+              "speakerText": {
+                "sourceLanguage": "mixed",
+                "sourceText": "Q:",
+                "id": "Q:"
+              },
+              "text": {
+                "sourceLanguage": "fil",
+                "sourceText": "Ano ang mga klase mo ngayon? What are your classes now?",
+                "id": "Apa kelas Anda hari ini?",
+                "tagalog": "Ano ang mga klase mo ngayon? What are your classes now?"
+              }
+            },
+            {
+              "speaker": "A",
+              "speakerText": {
+                "sourceLanguage": "mixed",
+                "sourceText": "A:",
+                "id": "A:"
+              },
+              "text": {
+                "sourceLanguage": "en",
+                "sourceText": "Matematika, Literatura, at Ingles ang mga klase ko ngayon. My classes now are Math, Literature, and English.",
+                "id": "Matematika, Satutura, di Ingle ang mga Klase ko ngayon, kelasku sekarang adalah Matematika, Sastra, dan Inggris.",
+                "tagalog": "Matematika, Literatura, at Ingles ang mga klase ko ngayon."
+              }
+            }
+          ]
+        },
+        {
+          "type": "exercise",
+          "role": "content",
           "text": {
             "sourceLanguage": "en",
             "sourceText": "Notice that to answer the question, you simply replace ano with the answer and replace mo (your) with ko (my). Notice too that the word order in Tagalog is PREDICATE/SUBJECT. The predicate comments on the subject or topic of the sentence.",
@@ -2169,7 +1887,8 @@
           }
         },
         {
-          "type": "table",
+          "type": "exercise",
+          "role": "worksheet",
           "rows": [
             {
               "cells": [
@@ -2226,19 +1945,21 @@
               ]
             }
           ]
-        },
+        }
+      ],
+      "id": "lesson-01-06-activity-2"
+    },
+    {
+      "type": "EXERCISES",
+      "title": {
+        "sourceLanguage": "mixed",
+        "sourceText": "Activity 3",
+        "id": "Aktivitas 3"
+      },
+      "blocks": [
         {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "mixed",
-            "sourceText": "Activity 3",
-            "id": "Aktivitas 3"
-          }
-        },
-        {
-          "type": "text",
-          "style": "body",
+          "type": "exercise",
+          "role": "content",
           "text": {
             "sourceLanguage": "en",
             "sourceText": "For more practice with the interrogative sino (who), take turns with your partner asking who the following people are. For your answers, use the word bank provided below.",
@@ -2246,7 +1967,8 @@
           }
         },
         {
-          "type": "table",
+          "type": "exercise",
+          "role": "worksheet",
           "rows": [
             {
               "cells": [
@@ -2295,7 +2017,8 @@
           ]
         },
         {
-          "type": "table",
+          "type": "exercise",
+          "role": "worksheet",
           "rows": [
             {
               "cells": [
@@ -2373,35 +2096,17 @@
           "type": "image",
           "path": "assets/31a.jpg"
         }
-      ]
+      ],
+      "id": "lesson-01-07-activity-3"
     },
     {
-      "id": "lesson-01-grammar",
-      "type": "GRAMMAR",
+      "type": "LEARNING_MATERIAL",
       "title": {
         "sourceLanguage": "mixed",
-        "sourceText": "Grammar",
-        "id": "Tata Bahasa"
+        "sourceText": "Definition of Terms",
+        "id": "Definisi Istilah"
       },
       "blocks": [
-        {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "mixed",
-            "sourceText": "Grammar",
-            "id": "Tata Bahasa"
-          }
-        },
-        {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "mixed",
-            "sourceText": "Definition of Terms",
-            "id": "Definisi Istilah"
-          }
-        },
         {
           "type": "text",
           "style": "body",
@@ -2522,7 +2227,8 @@
                 {
                   "sourceLanguage": "en",
                   "sourceText": "These are pronouns used to ask questions.\n\nEXAMPLES: Sino ang titser mo? Who is your teacher?\n\nAno ang klase mo? What is your class?",
-                  "id": "Ini adalah kata ganti digunakan untuk mengajukan pertanyaan. Siapa gurumu? Ano ang klase mo?"
+                  "id": "Ini adalah kata ganti digunakan untuk mengajukan pertanyaan. Siapa gurumu? Ano ang klase mo?",
+                  "tagalog": "Sino ang titser mo? Ano ang klase mo?"
                 }
               ]
             },
@@ -2582,17 +2288,20 @@
                 }
               ]
             }
-          ]
-        },
-        {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "mixed",
-            "sourceText": "Examining Form",
-            "id": "Mengkaji Bentuk"
-          }
-        },
+          ],
+          "role": "reference"
+        }
+      ],
+      "id": "lesson-01-08-definition-of-terms"
+    },
+    {
+      "type": "LEARNING_MATERIAL",
+      "title": {
+        "sourceLanguage": "mixed",
+        "sourceText": "Examining Form",
+        "id": "Menganalisis Bentuk"
+      },
+      "blocks": [
         {
           "type": "text",
           "style": "body",
@@ -2745,7 +2454,8 @@
                 }
               ]
             }
-          ]
+          ],
+          "role": "reference"
         },
         {
           "type": "table",
@@ -2792,7 +2502,8 @@
                 }
               ]
             }
-          ]
+          ],
+          "role": "reference"
         },
         {
           "type": "text",
@@ -2802,16 +2513,18 @@
             "sourceText": "Now, in the section that follows, let’s analyze the sentence into its parts in order to understand the grammatical forms associated with sino and ano.",
             "id": "Sekarang, dalam bagian yang berikut, mari kita menganalisis kalimat ke bagian-bagiannya untuk memahami bentuk tata bahasa yang berhubungan dengan sino dan ano."
           }
-        },
-        {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "en",
-            "sourceText": "I. Interrogative Pronoun Sino (Who)",
-            "id": "I. Interrogatif Pronoun Sino (Siapa)"
-          }
-        },
+        }
+      ],
+      "id": "lesson-01-09-examining-form"
+    },
+    {
+      "type": "LEARNING_MATERIAL",
+      "title": {
+        "sourceLanguage": "en",
+        "sourceText": "I. Interrogative Pronoun Sino (Who)",
+        "id": "I. Interrogatif Pronoun Sino (Siapa)"
+      },
+      "blocks": [
         {
           "type": "text",
           "style": "body",
@@ -2820,36 +2533,51 @@
             "sourceText": "The interrogative pronoun sino is used to ask questions about a person or people. The English equivalent of sino is who. The basic pattern of a sino question is: Sino + ang PHRASE ? The ang phrase is made up of an ang marker and the noun it marks.",
             "id": "Frasa bahasa Inggris setara dengan sino adalah siapa. Pola dasar dari pertanyaan sino adalah: Sino + ang PHRASE? frase ang terdiri dari sebuah penanda ang dan kata benda yang ditandai."
           }
+        }
+      ],
+      "id": "lesson-01-10-i-interrogative-pronoun-sino-who"
+    },
+    {
+      "type": "EXAMPLES",
+      "title": {
+        "sourceLanguage": "mixed",
+        "sourceText": "EXAMPLES:",
+        "id": "Contoh"
+      },
+      "blocks": [
+        {
+          "type": "example",
+          "items": [
+            {
+              "sourceLanguage": "fil",
+              "sourceText": "Sino ang doktor?",
+              "id": "Siapa dokternya?",
+              "tagalog": "Sino ang doktor?"
+            }
+          ]
         },
         {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "mixed",
-            "sourceText": "EXAMPLES:",
-            "id": "EXAMPLES:"
-          }
-        },
-        {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "fil",
-            "sourceText": "Sino ang doktor?",
-            "id": "Siapa dokternya?",
-            "tagalog": "Sino ang doktor?"
-          }
-        },
-        {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "fil",
-            "sourceText": "Sino si Mr. Natividad?",
-            "id": "Siapa Tn. Kelahiran?",
-            "tagalog": "Sino si Mr. Natividad?"
-          }
-        },
+          "type": "example",
+          "items": [
+            {
+              "sourceLanguage": "fil",
+              "sourceText": "Sino si Mr. Natividad?",
+              "id": "Siapa Tn. Kelahiran?",
+              "tagalog": "Sino si Mr. Natividad?"
+            }
+          ]
+        }
+      ],
+      "id": "lesson-01-11-examples"
+    },
+    {
+      "type": "LEARNING_MATERIAL",
+      "title": {
+        "sourceLanguage": "en",
+        "sourceText": "I. Interrogative Pronoun Sino (Who)",
+        "id": "I. Interrogatif Pronoun Sino (Siapa)"
+      },
+      "blocks": [
         {
           "type": "text",
           "style": "body",
@@ -2884,7 +2612,8 @@
           "text": {
             "sourceLanguage": "en",
             "sourceText": "Si + name of a person or animal",
-            "id": "Si + nama seseorang atau hewan"
+            "id": "Si + nama seseorang atau hewan",
+            "tagalog": "Si name of a person or animal"
           }
         },
         {
@@ -2893,7 +2622,8 @@
           "text": {
             "sourceLanguage": "en",
             "sourceText": "Sina + name(s) of people or animals",
-            "id": "Sina + name dari manusia atau hewan"
+            "id": "Sina + name dari manusia atau hewan",
+            "tagalog": "Sina name(s) of people or animals"
           }
         },
         {
@@ -2902,7 +2632,8 @@
           "text": {
             "sourceLanguage": "en",
             "sourceText": "Ang + noun or proper name of a place or a thing",
-            "id": "Ang + noun atau nama yang tepat dari suatu tempat atau sesuatu"
+            "id": "Ang + noun atau nama yang tepat dari suatu tempat atau sesuatu",
+            "tagalog": "Ang noun or proper name of a place or a thing"
           }
         },
         {
@@ -2911,7 +2642,8 @@
           "text": {
             "sourceLanguage": "en",
             "sourceText": "Ang mga + noun(s) or proper name of a place or a thing",
-            "id": "Ang mga + noun atau nama yang tepat dari suatu tempat atau sesuatu"
+            "id": "Ang mga + noun atau nama yang tepat dari suatu tempat atau sesuatu",
+            "tagalog": "Ang mga noun(s) or proper name of a place or a thing"
           }
         },
         {
@@ -3016,7 +2748,8 @@
                 }
               ]
             }
-          ]
+          ],
+          "role": "reference"
         },
         {
           "type": "text",
@@ -3174,7 +2907,8 @@
                 }
               ]
             }
-          ]
+          ],
+          "role": "reference"
         },
         {
           "type": "text",
@@ -3204,16 +2938,18 @@
             "id": "Kau adalah presiden.",
             "tagalog": "Presidente ka. (predicational sentence)"
           }
-        },
-        {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "mixed",
-            "sourceText": "Grammar Presentation",
-            "id": "Penyajian Tata Bahasa"
-          }
-        },
+        }
+      ],
+      "id": "lesson-01-12-i-interrogative-pronoun-sino-who-2"
+    },
+    {
+      "type": "LEARNING_MATERIAL",
+      "title": {
+        "sourceLanguage": "mixed",
+        "sourceText": "Grammar Presentation",
+        "id": "Penyajian Tata Bahasa"
+      },
+      "blocks": [
         {
           "type": "text",
           "style": "body",
@@ -3315,37 +3051,53 @@
                 }
               ]
             }
+          ],
+          "role": "reference"
+        }
+      ],
+      "id": "lesson-01-13-grammar-presentation"
+    },
+    {
+      "type": "EXAMPLES",
+      "title": {
+        "sourceLanguage": "mixed",
+        "sourceText": "EXAMPLES:",
+        "id": "Contoh"
+      },
+      "blocks": [
+        {
+          "type": "example",
+          "items": [
+            {
+              "sourceLanguage": "fil",
+              "sourceText": "Sino ang titser? Who is the teacher?",
+              "id": "Siapa gurunya?",
+              "tagalog": "Sino ang titser? Who is the teacher?"
+            }
           ]
         },
         {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "mixed",
-            "sourceText": "EXAMPLES:",
-            "id": "EXAMPLES:"
-          }
-        },
-        {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "fil",
-            "sourceText": "Sino ang titser? Who is the teacher?",
-            "id": "Siapa gurunya?",
-            "tagalog": "Sino ang titser? Who is the teacher?"
-          }
-        },
-        {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "fil",
-            "sourceText": "Sino ang mga lalaki? Who are the men?",
-            "id": "Siapa orang-orang?",
-            "tagalog": "Sino ang mga lalaki? Who are the men?"
-          }
-        },
+          "type": "example",
+          "items": [
+            {
+              "sourceLanguage": "fil",
+              "sourceText": "Sino ang mga lalaki? Who are the men?",
+              "id": "Siapa orang-orang?",
+              "tagalog": "Sino ang mga lalaki? Who are the men?"
+            }
+          ]
+        }
+      ],
+      "id": "lesson-01-14-examples-2"
+    },
+    {
+      "type": "LEARNING_MATERIAL",
+      "title": {
+        "sourceLanguage": "mixed",
+        "sourceText": "Grammar Presentation",
+        "id": "Penyajian Tata Bahasa"
+      },
+      "blocks": [
         {
           "type": "text",
           "style": "body",
@@ -3451,47 +3203,64 @@
                 }
               ]
             }
+          ],
+          "role": "reference"
+        }
+      ],
+      "id": "lesson-01-15-grammar-presentation-2"
+    },
+    {
+      "type": "EXAMPLES",
+      "title": {
+        "sourceLanguage": "mixed",
+        "sourceText": "EXAMPLES:",
+        "id": "Contoh"
+      },
+      "blocks": [
+        {
+          "type": "example",
+          "items": [
+            {
+              "sourceLanguage": "fil",
+              "sourceText": "Si Mayta. Mayta.",
+              "id": "Mayta.",
+              "tagalog": "Si Mayta. Mayta."
+            }
           ]
         },
         {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "mixed",
-            "sourceText": "EXAMPLES:",
-            "id": "EXAMPLES:"
-          }
+          "type": "example",
+          "items": [
+            {
+              "sourceLanguage": "fil",
+              "sourceText": "Ang guro. The teacher.",
+              "id": "Guru.",
+              "tagalog": "Ang guro. The teacher."
+            }
+          ]
         },
         {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "fil",
-            "sourceText": "Si Mayta. Mayta.",
-            "id": "Mayta.",
-            "tagalog": "Si Mayta. Mayta."
-          }
-        },
-        {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "fil",
-            "sourceText": "Ang guro. The teacher.",
-            "id": "Guru.",
-            "tagalog": "Ang guro. The teacher."
-          }
-        },
-        {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "fil",
-            "sourceText": "Ikaw. You.",
-            "id": "Kau.",
-            "tagalog": "Ikaw. You."
-          }
-        },
+          "type": "example",
+          "items": [
+            {
+              "sourceLanguage": "fil",
+              "sourceText": "Ikaw. You.",
+              "id": "Kau.",
+              "tagalog": "Ikaw. You."
+            }
+          ]
+        }
+      ],
+      "id": "lesson-01-16-examples-3"
+    },
+    {
+      "type": "LEARNING_MATERIAL",
+      "title": {
+        "sourceLanguage": "mixed",
+        "sourceText": "Grammar Presentation",
+        "id": "Penyajian Tata Bahasa"
+      },
+      "blocks": [
         {
           "type": "text",
           "style": "body",
@@ -3645,65 +3414,86 @@
                 }
               ]
             }
+          ],
+          "role": "reference"
+        }
+      ],
+      "id": "lesson-01-17-grammar-presentation-3"
+    },
+    {
+      "type": "EXAMPLES",
+      "title": {
+        "sourceLanguage": "mixed",
+        "sourceText": "EXAMPLES:",
+        "id": "Contoh"
+      },
+      "blocks": [
+        {
+          "type": "example",
+          "items": [
+            {
+              "sourceLanguage": "fil",
+              "sourceText": "Si Patrick ang estudyante. Patrick is the student.",
+              "id": "Patrick adalah muridnya.",
+              "tagalog": "Si Patrick ang estudyante. Patrick is the student."
+            }
           ]
         },
         {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "mixed",
-            "sourceText": "EXAMPLES:",
-            "id": "EXAMPLES:"
-          }
+          "type": "example",
+          "items": [
+            {
+              "sourceLanguage": "fil",
+              "sourceText": "Ang estudyante si Patrick. The student is Patrick.",
+              "id": "Patrick, mahasiswa itu, adalah Patrick.",
+              "tagalog": "Ang estudyante si Patrick. The student is Patrick."
+            }
+          ]
         },
         {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "fil",
-            "sourceText": "Si Patrick ang estudyante. Patrick is the student.",
-            "id": "Patrick adalah muridnya.",
-            "tagalog": "Si Patrick ang estudyante. Patrick is the student."
-          }
+          "type": "example",
+          "items": [
+            {
+              "sourceLanguage": "en",
+              "sourceText": "Ako ang estudyante. I am the student.",
+              "id": "Ako ang estudyante.",
+              "tagalog": "Ako ang estudyante."
+            }
+          ]
         },
         {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "fil",
-            "sourceText": "Ang estudyante si Patrick. The student is Patrick.",
-            "id": "Patrick, mahasiswa itu, adalah Patrick.",
-            "tagalog": "Ang estudyante si Patrick. The student is Patrick."
-          }
+          "type": "example",
+          "items": [
+            {
+              "sourceLanguage": "en",
+              "sourceText": "Sino ang estudyante? Who is the student?",
+              "id": "Sino ang estudyante?",
+              "tagalog": "Sino ang estudyante?"
+            }
+          ]
         },
         {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "en",
-            "sourceText": "Ako ang estudyante. I am the student.",
-            "id": "Ako ang estudyante."
-          }
-        },
-        {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "en",
-            "sourceText": "Sino ang estudyante? Who is the student?",
-            "id": "Sino ang estudyante?"
-          }
-        },
-        {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "fil",
-            "sourceText": "Sina Mike at Greg po ang mga estudyante. Mike and Greg are the students, sir/madam.",
-            "id": "Mike dan Greg adalah siswa, Mike dan Greg adalah siswa, Sar / Madam.",
-            "tagalog": "Sina Mike at Greg po ang mga estudyante. Mike and Greg are the students, sir/madam."
-          }
-        },
+          "type": "example",
+          "items": [
+            {
+              "sourceLanguage": "fil",
+              "sourceText": "Sina Mike at Greg po ang mga estudyante. Mike and Greg are the students, sir/madam.",
+              "id": "Mike dan Greg adalah siswa, Mike dan Greg adalah siswa, Sar / Madam.",
+              "tagalog": "Sina Mike at Greg po ang mga estudyante. Mike and Greg are the students, sir/madam."
+            }
+          ]
+        }
+      ],
+      "id": "lesson-01-18-examples-4"
+    },
+    {
+      "type": "LEARNING_MATERIAL",
+      "title": {
+        "sourceLanguage": "mixed",
+        "sourceText": "Grammar Presentation",
+        "id": "Penyajian Tata Bahasa"
+      },
+      "blocks": [
         {
           "type": "text",
           "style": "body",
@@ -3712,16 +3502,18 @@
             "sourceText": "Notice that an identificational sentence doesn’t require a verb in the predicate to be complete.",
             "id": "Perhatikan bahwa sebuah kalimat identifikasi tidak memerlukan kata kerja dalam predikat untuk melengkapi."
           }
-        },
-        {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "mixed",
-            "sourceText": "Grammar Notes",
-            "id": "Catatan Tata Bahasa"
-          }
-        },
+        }
+      ],
+      "id": "lesson-01-19-grammar-presentation-4"
+    },
+    {
+      "type": "LEARNING_MATERIAL",
+      "title": {
+        "sourceLanguage": "mixed",
+        "sourceText": "Grammar Notes",
+        "id": "Catatan Tata Bahasa"
+      },
+      "blocks": [
         {
           "type": "table",
           "rows": [
@@ -3753,17 +3545,20 @@
                 }
               ]
             }
-          ]
-        },
-        {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "mixed",
-            "sourceText": "II. Interrogative Pronoun Ano (What)",
-            "id": "II. Interrogatif Pronoun Ano (Apa)"
-          }
-        },
+          ],
+          "role": "reference"
+        }
+      ],
+      "id": "lesson-01-20-grammar-notes"
+    },
+    {
+      "type": "LEARNING_MATERIAL",
+      "title": {
+        "sourceLanguage": "mixed",
+        "sourceText": "II. Interrogative Pronoun Ano (What)",
+        "id": "II. Interrogatif Pronoun Ano (Apa)"
+      },
+      "blocks": [
         {
           "type": "text",
           "style": "body",
@@ -3829,7 +3624,8 @@
                 }
               ]
             }
-          ]
+          ],
+          "role": "reference"
         },
         {
           "type": "text",
@@ -3928,7 +3724,8 @@
                 }
               ]
             }
-          ]
+          ],
+          "role": "reference"
         },
         {
           "type": "text",
@@ -3938,16 +3735,18 @@
             "sourceText": "Normally, what the speaker is inquiring about can easily be inferred from the context of the conversation.",
             "id": "Biasanya, apa yang ingin ditanyakan oleh pembicara dapat dengan mudah dilihat dari konteks percakapan."
           }
-        },
-        {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "mixed",
-            "sourceText": "Grammar Presentation",
-            "id": "Penyajian Tata Bahasa"
-          }
-        },
+        }
+      ],
+      "id": "lesson-01-21-ii-interrogative-pronoun-ano-what"
+    },
+    {
+      "type": "LEARNING_MATERIAL",
+      "title": {
+        "sourceLanguage": "mixed",
+        "sourceText": "Grammar Presentation",
+        "id": "Penyajian Tata Bahasa"
+      },
+      "blocks": [
         {
           "type": "text",
           "style": "body",
@@ -4049,36 +3848,53 @@
                 }
               ]
             }
+          ],
+          "role": "reference"
+        }
+      ],
+      "id": "lesson-01-22-grammar-presentation-5"
+    },
+    {
+      "type": "EXAMPLES",
+      "title": {
+        "sourceLanguage": "mixed",
+        "sourceText": "EXAMPLES:",
+        "id": "Contoh"
+      },
+      "blocks": [
+        {
+          "type": "example",
+          "items": [
+            {
+              "sourceLanguage": "fil",
+              "sourceText": "Ano ang kurso mo? What is your major?",
+              "id": "Apa saja Anda, dan apa utama Anda?",
+              "tagalog": "Ano ang kurso mo? What is your major?"
+            }
           ]
         },
         {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "mixed",
-            "sourceText": "EXAMPLES:",
-            "id": "EXAMPLES:"
-          }
-        },
-        {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "fil",
-            "sourceText": "Ano ang kurso mo? What is your major?",
-            "id": "Apa saja Anda, dan apa utama Anda?",
-            "tagalog": "Ano ang kurso mo? What is your major?"
-          }
-        },
-        {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "en",
-            "sourceText": "Ano ang trabaho mo? What is your work? (What do you do?)",
-            "id": "Apa pekerjaanmu?"
-          }
-        },
+          "type": "example",
+          "items": [
+            {
+              "sourceLanguage": "en",
+              "sourceText": "Ano ang trabaho mo? What is your work? (What do you do?)",
+              "id": "Apa pekerjaanmu?",
+              "tagalog": "Ano ang trabaho mo?"
+            }
+          ]
+        }
+      ],
+      "id": "lesson-01-23-examples-5"
+    },
+    {
+      "type": "LEARNING_MATERIAL",
+      "title": {
+        "sourceLanguage": "mixed",
+        "sourceText": "Grammar Presentation",
+        "id": "Penyajian Tata Bahasa"
+      },
+      "blocks": [
         {
           "type": "text",
           "style": "body",
@@ -4138,47 +3954,64 @@
                 }
               ]
             }
+          ],
+          "role": "reference"
+        }
+      ],
+      "id": "lesson-01-24-grammar-presentation-6"
+    },
+    {
+      "type": "EXAMPLES",
+      "title": {
+        "sourceLanguage": "mixed",
+        "sourceText": "EXAMPLES:",
+        "id": "Contoh"
+      },
+      "blocks": [
+        {
+          "type": "example",
+          "items": [
+            {
+              "sourceLanguage": "fil",
+              "sourceText": "narsing nursing",
+              "id": "keperawatan",
+              "tagalog": "narsing nursing"
+            }
           ]
         },
         {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "mixed",
-            "sourceText": "EXAMPLES:",
-            "id": "EXAMPLES:"
-          }
+          "type": "example",
+          "items": [
+            {
+              "sourceLanguage": "fil",
+              "sourceText": "Aleman German",
+              "id": "Jerman",
+              "tagalog": "Aleman German"
+            }
+          ]
         },
         {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "fil",
-            "sourceText": "narsing nursing",
-            "id": "keperawatan",
-            "tagalog": "narsing nursing"
-          }
-        },
-        {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "fil",
-            "sourceText": "Aleman German",
-            "id": "Jerman",
-            "tagalog": "Aleman German"
-          }
-        },
-        {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "fil",
-            "sourceText": "Budista Buddhist",
-            "id": "Buddha Buddha Buddha Buddha",
-            "tagalog": "Budista Buddhist"
-          }
-        },
+          "type": "example",
+          "items": [
+            {
+              "sourceLanguage": "fil",
+              "sourceText": "Budista Buddhist",
+              "id": "Buddha Buddha Buddha Buddha",
+              "tagalog": "Budista Buddhist"
+            }
+          ]
+        }
+      ],
+      "id": "lesson-01-25-examples-6"
+    },
+    {
+      "type": "SUMMARY",
+      "title": {
+        "sourceLanguage": "en",
+        "sourceText": "Summary",
+        "id": "Ringkasan"
+      },
+      "blocks": [
         {
           "type": "text",
           "style": "body",
@@ -4187,7 +4020,18 @@
             "sourceText": "→ To summarize, when answering a question using ano, a predicational sentence can be used. This sentence structure is the most common type of sentence in Tagalog. It is used when stating a piece of information. There are different types of predicational sentences, and these types will be covered in the next lesson. The word order is always: PREDICATE + SUBJECT. Note that the predicate does not take markers, while the subject is always in ang form.",
             "id": "Untuk meringkas, ketika menjawab sebuah pertanyaan menggunakan ano, sebuah kalimat presesiari dapat digunakan. Struktur kalimat ini adalah kalimat yang paling umum di Tagalog. Digunakan ketika menyatakan sepotong informasi. Ada berbagai tipe kalimat prestikasi, dan tipe ini akan dibahas pada pelajaran berikutnya. Urutan kata selalu: PREDICATE + SUBJECT. Perhatikan bahwa predikat tidak mengambil penanda, sementara subjek selalu dalam bentuk ang."
           }
-        },
+        }
+      ],
+      "id": "lesson-01-26-summary"
+    },
+    {
+      "type": "LEARNING_MATERIAL",
+      "title": {
+        "sourceLanguage": "mixed",
+        "sourceText": "Grammar Presentation",
+        "id": "Penyajian Tata Bahasa"
+      },
+      "blocks": [
         {
           "type": "table",
           "rows": [
@@ -4282,73 +4126,86 @@
                 }
               ]
             }
+          ],
+          "role": "reference"
+        }
+      ],
+      "id": "lesson-01-27-grammar-presentation-7"
+    },
+    {
+      "type": "EXAMPLES",
+      "title": {
+        "sourceLanguage": "mixed",
+        "sourceText": "EXAMPLES:",
+        "id": "Contoh"
+      },
+      "blocks": [
+        {
+          "type": "example",
+          "items": [
+            {
+              "sourceLanguage": "fil",
+              "sourceText": "Tagalog ang klase ko. My class is Tagalog.",
+              "id": "Kelas saya Tagalog.",
+              "tagalog": "Tagalog ang klase ko. My class is Tagalog."
+            }
           ]
         },
         {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "mixed",
-            "sourceText": "EXAMPLES:",
-            "id": "EXAMPLES:"
-          }
+          "type": "example",
+          "items": [
+            {
+              "sourceLanguage": "en",
+              "sourceText": "Estudyante si Patrick. Patrick is a student.",
+              "id": "Dan Patrick adalah seorang mahasiswa.",
+              "tagalog": "Estudyante si Patrick."
+            }
+          ]
         },
         {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "fil",
-            "sourceText": "Tagalog ang klase ko. My class is Tagalog.",
-            "id": "Kelas saya Tagalog.",
-            "tagalog": "Tagalog ang klase ko. My class is Tagalog."
-          }
+          "type": "example",
+          "items": [
+            {
+              "sourceLanguage": "fil",
+              "sourceText": "Ano ang mga klase mo? What are your classes?",
+              "id": "Apa kelasmu?",
+              "tagalog": "Ano ang mga klase mo? What are your classes?"
+            }
+          ]
         },
         {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "en",
-            "sourceText": "Estudyante si Patrick. Patrick is a student.",
-            "id": "Dan Patrick adalah seorang mahasiswa."
-          }
+          "type": "example",
+          "items": [
+            {
+              "sourceLanguage": "en",
+              "sourceText": "Titser siya. He is a teacher.",
+              "id": "Titser siya Dia adalah seorang guru.",
+              "tagalog": "Titser siya."
+            }
+          ]
         },
         {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "fil",
-            "sourceText": "Ano ang mga klase mo? What are your classes?",
-            "id": "Apa kelasmu?",
-            "tagalog": "Ano ang mga klase mo? What are your classes?"
-          }
-        },
-        {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "en",
-            "sourceText": "Titser siya. He is a teacher.",
-            "id": "Titser siya Dia adalah seorang guru."
-          }
-        },
-        {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "en",
-            "sourceText": "Estudyante po sina Patrick at Mike. Patrick and Mike are students, sir/madam.",
-            "id": "Patrick dan Mike adalah mahasiswa, Pak / Madam."
-          }
-        },
-        {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "mixed",
-            "sourceText": "Grammar Notes",
-            "id": "Catatan Tata Bahasa"
-          }
-        },
+          "type": "example",
+          "items": [
+            {
+              "sourceLanguage": "en",
+              "sourceText": "Estudyante po sina Patrick at Mike. Patrick and Mike are students, sir/madam.",
+              "id": "Patrick dan Mike adalah mahasiswa, Pak / Madam.",
+              "tagalog": "Estudyante po sina Patrick at Mike."
+            }
+          ]
+        }
+      ],
+      "id": "lesson-01-28-examples-7"
+    },
+    {
+      "type": "LEARNING_MATERIAL",
+      "title": {
+        "sourceLanguage": "mixed",
+        "sourceText": "Grammar Notes",
+        "id": "Catatan Tata Bahasa"
+      },
+      "blocks": [
         {
           "type": "table",
           "rows": [
@@ -4371,40 +4228,23 @@
                 }
               ]
             }
-          ]
+          ],
+          "role": "reference"
         }
-      ]
+      ],
+      "id": "lesson-01-29-grammar-notes-2"
     },
     {
-      "id": "lesson-01-practice",
-      "type": "PRACTICE",
+      "type": "EXERCISES",
       "title": {
-        "sourceLanguage": "mixed",
-        "sourceText": "Practice",
-        "id": "Latihan"
+        "sourceLanguage": "en",
+        "sourceText": "I. Speaking Practice",
+        "id": "I. Latihan Berbicara"
       },
       "blocks": [
         {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "mixed",
-            "sourceText": "Practice",
-            "id": "Latihan"
-          }
-        },
-        {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "en",
-            "sourceText": "I. Speaking Practice",
-            "id": "I. Latihan Berbicara"
-          }
-        },
-        {
-          "type": "text",
-          "style": "body",
+          "type": "exercise",
+          "role": "instruction",
           "text": {
             "sourceLanguage": "en",
             "sourceText": "Work with a partner. Referring to the grammar explanation that you have just studied, take turns asking each other about the kind of work done by the people listed below. Use the example to model your dialogue.",
@@ -4412,8 +4252,8 @@
           }
         },
         {
-          "type": "text",
-          "style": "body",
+          "type": "exercise",
+          "role": "content",
           "text": {
             "sourceLanguage": "mixed",
             "sourceText": "EXAMPLE:",
@@ -4421,25 +4261,28 @@
           }
         },
         {
-          "type": "text",
-          "style": "body",
+          "type": "exercise",
+          "role": "question",
           "text": {
             "sourceLanguage": "en",
             "sourceText": "Q: Ano si Nicanor? What is (the work of) Nicanor?",
-            "id": "Q: Ano si Nicanor?"
+            "id": "Q: Ano si Nicanor?",
+            "tagalog": "Ano si Nicanor?"
           }
         },
         {
-          "type": "text",
-          "style": "body",
+          "type": "exercise",
+          "role": "content",
           "text": {
             "sourceLanguage": "en",
             "sourceText": "A: Negosyante si Nicanor. Nicanor is a businessman.",
-            "id": "A: Negosiante si Nicanor."
+            "id": "A: Negosiante si Nicanor.",
+            "tagalog": "Negosyante si Nicanor."
           }
         },
         {
-          "type": "table",
+          "type": "exercise",
+          "role": "worksheet",
           "rows": [
             {
               "cells": [
@@ -4526,19 +4369,21 @@
               ]
             }
           ]
-        },
+        }
+      ],
+      "id": "lesson-01-30-i-speaking-practice"
+    },
+    {
+      "type": "EXERCISES",
+      "title": {
+        "sourceLanguage": "mixed",
+        "sourceText": "II. Reading Practice",
+        "id": "II. Latihan Membaca"
+      },
+      "blocks": [
         {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "mixed",
-            "sourceText": "II. Reading Practice",
-            "id": "II. Latihan Membaca"
-          }
-        },
-        {
-          "type": "text",
-          "style": "body",
+          "type": "exercise",
+          "role": "instruction",
           "text": {
             "sourceLanguage": "en",
             "sourceText": "Read the dialogue between Raul and Miriam and answer the Reading Comprehension questions in Tagalog.",
@@ -4550,172 +4395,164 @@
           "path": "assets/39.jpg"
         },
         {
-          "type": "table",
-          "rows": [
+          "type": "dialogue",
+          "turns": [
             {
-              "cells": [
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "Raul:",
-                  "id": "Raul:"
-                },
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "Kumusta ka, Miriam?",
-                  "id": "Apa kabar, Miriam?",
-                  "tagalog": "Kumusta ka, Miriam?"
-                }
-              ]
+              "speaker": "Raul",
+              "speakerText": {
+                "sourceLanguage": "mixed",
+                "sourceText": "Raul:",
+                "id": "Raul:"
+              },
+              "text": {
+                "sourceLanguage": "fil",
+                "sourceText": "Kumusta ka, Miriam?",
+                "id": "Apa kabar, Miriam?",
+                "tagalog": "Kumusta ka, Miriam?"
+              }
             },
             {
-              "cells": [
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "Miriam:",
-                  "id": "Miriam:"
-                },
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "Heto buhay pa. Ikaw, kumusta ka na?",
-                  "id": "Di sini kau masih hidup.",
-                  "tagalog": "Heto buhay pa. Ikaw, kumusta ka na?"
-                }
-              ]
+              "speaker": "Miriam",
+              "speakerText": {
+                "sourceLanguage": "mixed",
+                "sourceText": "Miriam:",
+                "id": "Miriam:"
+              },
+              "text": {
+                "sourceLanguage": "fil",
+                "sourceText": "Heto buhay pa. Ikaw, kumusta ka na?",
+                "id": "Di sini kau masih hidup.",
+                "tagalog": "Heto buhay pa. Ikaw, kumusta ka na?"
+              }
             },
             {
-              "cells": [
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "Raul:",
-                  "id": "Raul:"
-                },
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "Ayos lang. Siyanga pala, sino ang kasama mo kahapon?",
-                  "id": "Ya, siapa yang bersamamu kemarin?",
-                  "tagalog": "Ayos lang. Siyanga pala, sino ang kasama mo kahapon?"
-                }
-              ]
+              "speaker": "Raul",
+              "speakerText": {
+                "sourceLanguage": "mixed",
+                "sourceText": "Raul:",
+                "id": "Raul:"
+              },
+              "text": {
+                "sourceLanguage": "fil",
+                "sourceText": "Ayos lang. Siyanga pala, sino ang kasama mo kahapon?",
+                "id": "Ya, siapa yang bersamamu kemarin?",
+                "tagalog": "Ayos lang. Siyanga pala, sino ang kasama mo kahapon?"
+              }
             },
             {
-              "cells": [
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "Miriam:",
-                  "id": "Miriam:"
-                },
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "Si Greg.",
-                  "id": "Greg.",
-                  "tagalog": "Si Greg."
-                }
-              ]
+              "speaker": "Miriam",
+              "speakerText": {
+                "sourceLanguage": "mixed",
+                "sourceText": "Miriam:",
+                "id": "Miriam:"
+              },
+              "text": {
+                "sourceLanguage": "fil",
+                "sourceText": "Si Greg.",
+                "id": "Greg.",
+                "tagalog": "Si Greg."
+              }
             },
             {
-              "cells": [
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "Raul:",
-                  "id": "Raul:"
-                },
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "Sino si Greg?",
-                  "id": "Siapa Greg?",
-                  "tagalog": "Sino si Greg?"
-                }
-              ]
+              "speaker": "Raul",
+              "speakerText": {
+                "sourceLanguage": "mixed",
+                "sourceText": "Raul:",
+                "id": "Raul:"
+              },
+              "text": {
+                "sourceLanguage": "fil",
+                "sourceText": "Sino si Greg?",
+                "id": "Siapa Greg?",
+                "tagalog": "Sino si Greg?"
+              }
             },
             {
-              "cells": [
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "Miriam:",
-                  "id": "Miriam:"
-                },
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "Si Greg ang tagaluto sa Tokyo Grill.",
-                  "id": "Greg adalah pembuat masak dari Tokyo Grill.",
-                  "tagalog": "Si Greg ang tagaluto sa Tokyo Grill."
-                }
-              ]
+              "speaker": "Miriam",
+              "speakerText": {
+                "sourceLanguage": "mixed",
+                "sourceText": "Miriam:",
+                "id": "Miriam:"
+              },
+              "text": {
+                "sourceLanguage": "fil",
+                "sourceText": "Si Greg ang tagaluto sa Tokyo Grill.",
+                "id": "Greg adalah pembuat masak dari Tokyo Grill.",
+                "tagalog": "Si Greg ang tagaluto sa Tokyo Grill."
+              }
             },
             {
-              "cells": [
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "Raul:",
-                  "id": "Raul:"
-                },
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "Talaga?",
-                  "id": "Benarkah?",
-                  "tagalog": "Talaga?"
-                }
-              ]
+              "speaker": "Raul",
+              "speakerText": {
+                "sourceLanguage": "mixed",
+                "sourceText": "Raul:",
+                "id": "Raul:"
+              },
+              "text": {
+                "sourceLanguage": "fil",
+                "sourceText": "Talaga?",
+                "id": "Benarkah?",
+                "tagalog": "Talaga?"
+              }
             },
             {
-              "cells": [
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "Miriam:",
-                  "id": "Miriam:"
-                },
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "Oo. Hapon siya at estudyante siya sa Unibersidad ng Pilipinas.",
-                  "id": "Ya, dia adalah seorang mahasiswa Jepang di Universitas Filipina.",
-                  "tagalog": "Oo. Hapon siya at estudyante siya sa Unibersidad ng Pilipinas."
-                }
-              ]
+              "speaker": "Miriam",
+              "speakerText": {
+                "sourceLanguage": "mixed",
+                "sourceText": "Miriam:",
+                "id": "Miriam:"
+              },
+              "text": {
+                "sourceLanguage": "fil",
+                "sourceText": "Oo. Hapon siya at estudyante siya sa Unibersidad ng Pilipinas.",
+                "id": "Ya, dia adalah seorang mahasiswa Jepang di Universitas Filipina.",
+                "tagalog": "Oo. Hapon siya at estudyante siya sa Unibersidad ng Pilipinas."
+              }
             },
             {
-              "cells": [
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "Raul:",
-                  "id": "Raul:"
-                },
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "Ah. Talaga? Ang galing ah! O sige.",
-                  "id": "Oh ya!",
-                  "tagalog": "Ah. Talaga? Ang galing ah! O sige."
-                }
-              ]
+              "speaker": "Raul",
+              "speakerText": {
+                "sourceLanguage": "mixed",
+                "sourceText": "Raul:",
+                "id": "Raul:"
+              },
+              "text": {
+                "sourceLanguage": "fil",
+                "sourceText": "Ah. Talaga? Ang galing ah! O sige.",
+                "id": "Oh ya!",
+                "tagalog": "Ah. Talaga? Ang galing ah! O sige."
+              }
             },
             {
-              "cells": [
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "Miriam:",
-                  "id": "Miriam:"
-                },
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "O sige. Kita tayo mamaya!",
-                  "id": "Oke, aku akan menemuimu nanti!",
-                  "tagalog": "O sige. Kita tayo mamaya!"
-                }
-              ]
+              "speaker": "Miriam",
+              "speakerText": {
+                "sourceLanguage": "mixed",
+                "sourceText": "Miriam:",
+                "id": "Miriam:"
+              },
+              "text": {
+                "sourceLanguage": "fil",
+                "sourceText": "O sige. Kita tayo mamaya!",
+                "id": "Oke, aku akan menemuimu nanti!",
+                "tagalog": "O sige. Kita tayo mamaya!"
+              }
             }
           ]
-        },
+        }
+      ],
+      "id": "lesson-01-31-ii-reading-practice"
+    },
+    {
+      "type": "EXERCISES",
+      "title": {
+        "sourceLanguage": "mixed",
+        "sourceText": "Reading Comprehension",
+        "id": "Pemahaman Bacaan"
+      },
+      "blocks": [
         {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "mixed",
-            "sourceText": "Reading Comprehension",
-            "id": "Pemahaman Bacaan"
-          }
-        },
-        {
-          "type": "text",
-          "style": "body",
+          "type": "exercise",
+          "role": "question",
           "text": {
             "sourceLanguage": "fil",
             "sourceText": "1. Sino si Greg?",
@@ -4724,45 +4561,29 @@
           }
         },
         {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "mixed",
-            "sourceText": "______________________",
-            "id": "______________________"
-          }
-        },
-        {
-          "type": "text",
-          "style": "body",
+          "type": "exercise",
+          "role": "question",
           "text": {
             "sourceLanguage": "fil",
             "sourceText": "2. Ano si Greg?",
             "id": "Apa itu Greg?",
             "tagalog": "2. Ano si Greg?"
           }
-        },
+        }
+      ],
+      "id": "lesson-01-32-reading-comprehension"
+    },
+    {
+      "type": "EXERCISES",
+      "title": {
+        "sourceLanguage": "mixed",
+        "sourceText": "III. Writing Practice",
+        "id": "III. Latihan Menulis"
+      },
+      "blocks": [
         {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "mixed",
-            "sourceText": "______________________",
-            "id": "______________________"
-          }
-        },
-        {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "mixed",
-            "sourceText": "III. Writing Practice",
-            "id": "III. Latihan Menulis"
-          }
-        },
-        {
-          "type": "text",
-          "style": "body",
+          "type": "exercise",
+          "role": "instruction",
           "text": {
             "sourceLanguage": "en",
             "sourceText": "Complete the dialogue below in Tagalog. The English equivalent has been provided.",
@@ -4770,154 +4591,144 @@
           }
         },
         {
-          "type": "table",
-          "rows": [
+          "type": "dialogue",
+          "turns": [
             {
-              "cells": [
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "Ted:",
-                  "id": "Ted:"
-                },
-                {
-                  "sourceLanguage": "en",
-                  "sourceText": "____________________ (How are you, Jed?)",
-                  "id": "Apa kabar, Jed?"
-                }
-              ]
+              "speaker": "Ted",
+              "speakerText": {
+                "sourceLanguage": "mixed",
+                "sourceText": "Ted:",
+                "id": "Ted:"
+              },
+              "text": {
+                "sourceLanguage": "en",
+                "sourceText": "____________________ (How are you, Jed?)",
+                "id": "Apa kabar, Jed?"
+              }
             },
             {
-              "cells": [
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "Jed:",
-                  "id": "Jed:"
-                },
-                {
-                  "sourceLanguage": "en",
-                  "sourceText": "_______________________________ (I’m great! How about you?)",
-                  "id": "Bagaimana denganmu?"
-                }
-              ]
+              "speaker": "Jed",
+              "speakerText": {
+                "sourceLanguage": "mixed",
+                "sourceText": "Jed:",
+                "id": "Jed:"
+              },
+              "text": {
+                "sourceLanguage": "en",
+                "sourceText": "_______________________________ (I’m great! How about you?)",
+                "id": "Bagaimana denganmu?"
+              }
             },
             {
-              "cells": [
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "Ted:",
-                  "id": "Ted:"
-                },
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "______________ (I’m all right!) Siyanga pala, sino ang kasama mo kahapon?",
-                  "id": "_............",
-                  "tagalog": "______________ (I’m all right!) Siyanga pala, sino ang kasama mo kahapon?"
-                }
-              ]
+              "speaker": "Ted",
+              "speakerText": {
+                "sourceLanguage": "mixed",
+                "sourceText": "Ted:",
+                "id": "Ted:"
+              },
+              "text": {
+                "sourceLanguage": "fil",
+                "sourceText": "______________ (I’m all right!) Siyanga pala, sino ang kasama mo kahapon?",
+                "id": "_............",
+                "tagalog": "______________ (I’m all right!) Siyanga pala, sino ang kasama mo kahapon?"
+              }
             },
             {
-              "cells": [
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "Jed:",
-                  "id": "Jed:"
-                },
-                {
-                  "sourceLanguage": "en",
-                  "sourceText": "____________ (I was with Peter.)",
-                  "id": "Aku bersama Peter."
-                }
-              ]
+              "speaker": "Jed",
+              "speakerText": {
+                "sourceLanguage": "mixed",
+                "sourceText": "Jed:",
+                "id": "Jed:"
+              },
+              "text": {
+                "sourceLanguage": "en",
+                "sourceText": "____________ (I was with Peter.)",
+                "id": "Aku bersama Peter."
+              }
             },
             {
-              "cells": [
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "Ted:",
-                  "id": "Ted:"
-                },
-                {
-                  "sourceLanguage": "en",
-                  "sourceText": "_________________ (Who is Peter?)",
-                  "id": "Siapa itu Peter?"
-                }
-              ]
+              "speaker": "Ted",
+              "speakerText": {
+                "sourceLanguage": "mixed",
+                "sourceText": "Ted:",
+                "id": "Ted:"
+              },
+              "text": {
+                "sourceLanguage": "en",
+                "sourceText": "_________________ (Who is Peter?)",
+                "id": "Siapa itu Peter?"
+              }
             },
             {
-              "cells": [
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "Jed:",
-                  "id": "Jed:"
-                },
-                {
-                  "sourceLanguage": "en",
-                  "sourceText": "_______________________________ (Peter is the singer at the Bom Bom Bar.)",
-                  "id": "Peter adalah penyanyi di Bom Bom Bar.)"
-                }
-              ]
+              "speaker": "Jed",
+              "speakerText": {
+                "sourceLanguage": "mixed",
+                "sourceText": "Jed:",
+                "id": "Jed:"
+              },
+              "text": {
+                "sourceLanguage": "en",
+                "sourceText": "_______________________________ (Peter is the singer at the Bom Bom Bar.)",
+                "id": "Peter adalah penyanyi di Bom Bom Bar.)"
+              }
             },
             {
-              "cells": [
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "Ted:",
-                  "id": "Ted:"
-                },
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "____________ (Really?)",
-                  "id": "_ _ _ _ _ _ _ _ _ _ _ ((Benarkah?)"
-                }
-              ]
+              "speaker": "Ted",
+              "speakerText": {
+                "sourceLanguage": "mixed",
+                "sourceText": "Ted:",
+                "id": "Ted:"
+              },
+              "text": {
+                "sourceLanguage": "mixed",
+                "sourceText": "____________ (Really?)",
+                "id": "_ _ _ _ _ _ _ _ _ _ _ ((Benarkah?)"
+              }
             },
             {
-              "cells": [
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "Jed:",
-                  "id": "Jed:"
-                },
-                {
-                  "sourceLanguage": "en",
-                  "sourceText": "_______________________________ (Yeah! He is Korean.)",
-                  "id": "Dia orang Korea.)"
-                }
-              ]
+              "speaker": "Jed",
+              "speakerText": {
+                "sourceLanguage": "mixed",
+                "sourceText": "Jed:",
+                "id": "Jed:"
+              },
+              "text": {
+                "sourceLanguage": "en",
+                "sourceText": "_______________________________ (Yeah! He is Korean.)",
+                "id": "Dia orang Korea.)"
+              }
             },
             {
-              "cells": [
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "Ted:",
-                  "id": "Ted:"
-                },
-                {
-                  "sourceLanguage": "en",
-                  "sourceText": "_______________________________ (Really? That’s great! All right! I’ll see you later.)",
-                  "id": "Aku akan menemuimu nanti."
-                }
-              ]
+              "speaker": "Ted",
+              "speakerText": {
+                "sourceLanguage": "mixed",
+                "sourceText": "Ted:",
+                "id": "Ted:"
+              },
+              "text": {
+                "sourceLanguage": "en",
+                "sourceText": "_______________________________ (Really? That’s great! All right! I’ll see you later.)",
+                "id": "Aku akan menemuimu nanti."
+              }
             },
             {
-              "cells": [
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "Jed:",
-                  "id": "Jed:"
-                },
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "_______________________________ (Okay! See you later!)",
-                  "id": "Aku tidak tahu apa yang harus kulakukan."
-                }
-              ]
+              "speaker": "Jed",
+              "speakerText": {
+                "sourceLanguage": "mixed",
+                "sourceText": "Jed:",
+                "id": "Jed:"
+              },
+              "text": {
+                "sourceLanguage": "mixed",
+                "sourceText": "_______________________________ (Okay! See you later!)",
+                "id": "Aku tidak tahu apa yang harus kulakukan."
+              }
             }
           ]
         },
         {
-          "type": "text",
-          "style": "body",
+          "type": "exercise",
+          "role": "content",
           "text": {
             "sourceLanguage": "en",
             "sourceText": "To Download the audio files, please click here.",
@@ -4927,19 +4738,21 @@
         {
           "type": "image",
           "path": "assets/cd.jpg"
-        },
+        }
+      ],
+      "id": "lesson-01-33-iii-writing-practice"
+    },
+    {
+      "type": "EXERCISES",
+      "title": {
+        "sourceLanguage": "mixed",
+        "sourceText": "IV. Listening Practice",
+        "id": "IV. Latihan Menyimak"
+      },
+      "blocks": [
         {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "mixed",
-            "sourceText": "IV. Listening Practice",
-            "id": "IV. Latihan Menyimak"
-          }
-        },
-        {
-          "type": "text",
-          "style": "body",
+          "type": "exercise",
+          "role": "instruction",
           "text": {
             "sourceLanguage": "en",
             "sourceText": "Using the Bonus Material of the book, listen to audio file (01–2) and answer the following questions in English.",
@@ -4947,8 +4760,8 @@
           }
         },
         {
-          "type": "text",
-          "style": "body",
+          "type": "exercise",
+          "role": "question",
           "text": {
             "sourceLanguage": "en",
             "sourceText": "1. With whom was Eric speaking?",
@@ -4956,17 +4769,8 @@
           }
         },
         {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "mixed",
-            "sourceText": "______________________",
-            "id": "______________________"
-          }
-        },
-        {
-          "type": "text",
-          "style": "body",
+          "type": "exercise",
+          "role": "question",
           "text": {
             "sourceLanguage": "en",
             "sourceText": "2. Who was Eric with yesterday?",
@@ -4974,33 +4778,44 @@
           }
         },
         {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "mixed",
-            "sourceText": "______________________",
-            "id": "______________________"
-          }
-        },
-        {
-          "type": "text",
-          "style": "body",
+          "type": "exercise",
+          "role": "question",
           "text": {
             "sourceLanguage": "en",
             "sourceText": "3. Who is Mindy and what does she do?",
             "id": "Siapa Mindy dan apa yang dia lakukan?"
           }
-        },
-        {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "mixed",
-            "sourceText": "______________________",
-            "id": "______________________"
-          }
         }
-      ]
+      ],
+      "id": "lesson-01-34-iv-listening-practice"
     }
-  ]
+  ],
+  "structureVersion": 2,
+  "contentAudit": {
+    "sourceTextItemsBefore": 611,
+    "sourceTextItemsAfter": 604,
+    "uniqueSourceItemsPreserved": 454,
+    "duplicateHeadingsRemoved": 4,
+    "blankFragmentsRemoved": 5,
+    "sectionTypes": {
+      "DIALOGUE": 1,
+      "EXAMPLES": 7,
+      "EXERCISES": 9,
+      "INTRODUCTION": 1,
+      "LEARNING_MATERIAL": 14,
+      "SUMMARY": 1,
+      "VOCABULARY": 1
+    },
+    "blockTypes": {
+      "dialogue": 5,
+      "example": 22,
+      "exercise": 25,
+      "image": 5,
+      "list": 2,
+      "table": 17,
+      "text": 39,
+      "vocabulary": 11
+    },
+    "duplicateBlocksRemoved": 0
+  }
 }

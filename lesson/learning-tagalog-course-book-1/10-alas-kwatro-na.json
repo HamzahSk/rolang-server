@@ -1,0 +1,2559 @@
+{
+  "schemaVersion": 1,
+  "structureVersion": 2,
+  "id": "learning-tagalog-course-book-1-lesson-10",
+  "courseId": "learning-tagalog-course-book-1",
+  "unitId": "course-book-1-unit-03-family-time-and-home",
+  "order": 10,
+  "level": "BEGINNER",
+  "title": {
+    "id": "Sudah pukul empat",
+    "fil": "Alas kwatro na"
+  },
+  "summary": {
+    "id": "Dua orang teman sedang menunggu teman lainnya datang.",
+    "fil": "Alas kwatro na"
+  },
+  "objectives": [
+    {
+      "sourceLanguage": "mixed",
+      "sourceText": "Chapter 10 · Story A",
+      "id": "Memahami dialog utama Bab 10 tentang sudah pukul empat."
+    },
+    {
+      "sourceLanguage": "mixed",
+      "sourceText": "Literal and natural translations",
+      "id": "Membandingkan susunan Tagalog dengan glosa harfiah dan terjemahan alami dari sumber."
+    },
+    {
+      "sourceLanguage": "mixed",
+      "sourceText": "Drills",
+      "id": "Melatih kembali pola dan ungkapan pada bagian Drills."
+    }
+  ],
+  "source": {
+    "book": "Learning Tagalog - Fluency Made Fast and Easy - Course Book 1",
+    "file": "Learning Tagalog - Fluency Made Fast and Easy - Course Book 1.pdf",
+    "pdfSha256": "52e9f464239c2ae98248a452edfbf1f58eb01bec69374a16d5205e70afa80f58",
+    "chapter": 10,
+    "pages": {
+      "start": 238,
+      "end": 264
+    },
+    "drillsDividerPage": 250,
+    "recapPage": 264
+  },
+  "sourceLinks": [
+    {
+      "page": 249,
+      "uri": "https://learningtagalog.com/grammar/enclitic_words/using_enclitic_words/enclitic_words_in_clauses_or_ang_ng_sa_phrases.html"
+    },
+    {
+      "page": 263,
+      "uri": "https://learningtagalog.com/grammar/other_describing_words/expressing_time_frequency_or_duration/parts_of_the_day.html"
+    },
+    {
+      "page": 263,
+      "uri": "https://learningtagalog.com/grammar/other_describing_words/expressing_time_frequency_or_duration/clock_time.html"
+    }
+  ],
+  "assets": [
+    "assets/10-alas-kwatro-na.jpg"
+  ],
+  "sections": [
+    {
+      "id": "introduction",
+      "type": "INTRODUCTION",
+      "title": {
+        "sourceLanguage": "mixed",
+        "sourceText": "It's four o'clock",
+        "id": "Sudah pukul empat"
+      },
+      "blocks": [
+        {
+          "type": "image",
+          "path": "assets/10-alas-kwatro-na.jpg",
+          "sourcePage": 238
+        },
+        {
+          "type": "text",
+          "style": "heading",
+          "text": {
+            "sourceLanguage": "en",
+            "sourceText": "It's four o'clock",
+            "id": "Sudah pukul empat"
+          }
+        }
+      ]
+    },
+    {
+      "id": "learning-material",
+      "type": "LEARNING_MATERIAL",
+      "title": {
+        "sourceLanguage": "mixed",
+        "sourceText": "Chapter context",
+        "id": "Konteks bab"
+      },
+      "blocks": [
+        {
+          "type": "text",
+          "style": "body",
+          "sourcePage": 238,
+          "text": {
+            "sourceLanguage": "en",
+            "sourceText": "Two friends are waiting for other friends to arrive.",
+            "id": "Dua orang teman sedang menunggu teman lainnya datang."
+          }
+        },
+        {
+          "type": "text",
+          "style": "body",
+          "sourcePage": 263,
+          "sourceLabel": "B 13",
+          "links": [
+            "https://learningtagalog.com/grammar/other_describing_words/expressing_time_frequency_or_duration/parts_of_the_day.html",
+            "https://learningtagalog.com/grammar/other_describing_words/expressing_time_frequency_or_duration/clock_time.html"
+          ],
+          "text": {
+            "sourceLanguage": "en",
+            "sourceText": "Before moving on to Lesson 11, it would be a good idea to first review Lessons 1–5. A quick and effective way to review previous lessons is to listen to the recordings while reading the lesson overview.",
+            "id": "B 13 · halaman PDF 263\n\nSebelum melanjutkan ke Pelajaran 11, ada baiknya Anda meninjau kembali Pelajaran 1–5 terlebih dahulu. Cara cepat dan efektif untuk meninjau kembali pelajaran sebelumnya adalah dengan mendengarkan rekaman sambil membaca ikhtisar pelajaran."
+          }
+        }
+      ]
+    },
+    {
+      "id": "dialogue",
+      "type": "DIALOGUE",
+      "title": {
+        "sourceLanguage": "mixed",
+        "sourceText": "Story A",
+        "id": "Dialog utama (Bagian A)"
+      },
+      "blocks": [
+        {
+          "type": "dialogue",
+          "turns": [
+            {
+              "speaker": "A 01",
+              "speakerText": {
+                "sourceLanguage": "mixed",
+                "sourceText": "A 01",
+                "id": "Bagian A 01"
+              },
+              "text": {
+                "sourceLanguage": "fil",
+                "sourceText": "Alas kwatro na",
+                "id": "Sudah pukul empat",
+                "tagalog": "Alas kwatro na"
+              },
+              "sourcePage": 239
+            },
+            {
+              "speaker": "A 02",
+              "speakerText": {
+                "sourceLanguage": "mixed",
+                "sourceText": "A 02",
+                "id": "Bagian A 02"
+              },
+              "text": {
+                "sourceLanguage": "fil",
+                "sourceText": "Alas kwatro na pero wala' pa sila dito.",
+                "id": "Sekarang sudah jam empat, tapi mereka masih belum datang.",
+                "tagalog": "Alas kwatro na pero wala' pa sila dito."
+              },
+              "sourcePage": 240
+            },
+            {
+              "speaker": "A 03",
+              "speakerText": {
+                "sourceLanguage": "mixed",
+                "sourceText": "A 03",
+                "id": "Bagian A 03"
+              },
+              "text": {
+                "sourceLanguage": "fil",
+                "sourceText": "Oo nga'. Pero sabi nila, darating sila.",
+                "id": "Ya (itu benar). Tapi mereka bilang akan datang.",
+                "tagalog": "Oo nga'. Pero sabi nila, darating sila."
+              },
+              "sourcePage": 241
+            },
+            {
+              "speaker": "A 04",
+              "speakerText": {
+                "sourceLanguage": "mixed",
+                "sourceText": "A 04",
+                "id": "Bagian A 04"
+              },
+              "text": {
+                "sourceLanguage": "fil",
+                "sourceText": "Sigurado ka?",
+                "id": "Apa kamu yakin?",
+                "tagalog": "Sigurado ka?"
+              },
+              "sourcePage": 242
+            },
+            {
+              "speaker": "A 05",
+              "speakerText": {
+                "sourceLanguage": "mixed",
+                "sourceText": "A 05",
+                "id": "Bagian A 05"
+              },
+              "text": {
+                "sourceLanguage": "fil",
+                "sourceText": "Oo, tumawag ako kahapon.",
+                "id": "Ya, saya menelepon kemarin.",
+                "tagalog": "Oo, tumawag ako kahapon."
+              },
+              "sourcePage": 243
+            },
+            {
+              "speaker": "A 06",
+              "speakerText": {
+                "sourceLanguage": "mixed",
+                "sourceText": "A 06",
+                "id": "Bagian A 06"
+              },
+              "text": {
+                "sourceLanguage": "fil",
+                "sourceText": "Ganoon ba?",
+                "id": "Apakah begitu?",
+                "tagalog": "Ganoon ba?"
+              },
+              "sourcePage": 244
+            },
+            {
+              "speaker": "A 07",
+              "speakerText": {
+                "sourceLanguage": "mixed",
+                "sourceText": "A 07",
+                "id": "Bagian A 07"
+              },
+              "text": {
+                "sourceLanguage": "fil",
+                "sourceText": "Teka. Tatawag ako uli'.",
+                "id": "Tunggu. Saya akan menelepon (mereka) lagi.",
+                "tagalog": "Teka. Tatawag ako uli'."
+              },
+              "sourcePage": 245
+            },
+            {
+              "speaker": "A 08",
+              "speakerText": {
+                "sourceLanguage": "mixed",
+                "sourceText": "A 08",
+                "id": "Bagian A 08"
+              },
+              "text": {
+                "sourceLanguage": "fil",
+                "sourceText": "Sige.",
+                "id": "Oke.",
+                "tagalog": "Sige."
+              },
+              "sourcePage": 246
+            },
+            {
+              "speaker": "A 09",
+              "speakerText": {
+                "sourceLanguage": "mixed",
+                "sourceText": "A 09",
+                "id": "Bagian A 09"
+              },
+              "text": {
+                "sourceLanguage": "fil",
+                "sourceText": "Hello? Nasaan na kayo?",
+                "id": "Halo? Kamu ada di mana?",
+                "tagalog": "Hello? Nasaan na kayo?"
+              },
+              "sourcePage": 247
+            },
+            {
+              "speaker": "A 10",
+              "speakerText": {
+                "sourceLanguage": "mixed",
+                "sourceText": "A 10",
+                "id": "Bagian A 10"
+              },
+              "text": {
+                "sourceLanguage": "fil",
+                "sourceText": "Ano raw?",
+                "id": "Apa yang mereka katakan?",
+                "tagalog": "Ano raw?"
+              },
+              "sourcePage": 248
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "vocabulary",
+      "type": "VOCABULARY",
+      "title": {
+        "sourceLanguage": "mixed",
+        "sourceText": "Vocabulary and expressions",
+        "id": "Kosakata dan ungkapan"
+      },
+      "blocks": [
+        {
+          "type": "vocabulary",
+          "entries": [
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "Alas kwatro",
+                "id": "Jam empat",
+                "tagalog": "Alas kwatro"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "Four o'clock",
+                "id": "Jam empat"
+              },
+              "sourcePage": 239
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "na",
+                "id": "Sekarang",
+                "tagalog": "na"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "now",
+                "id": "Sekarang"
+              },
+              "sourcePage": 239
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "pero",
+                "id": "Tetapi",
+                "tagalog": "pero"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "but",
+                "id": "Tetapi"
+              },
+              "sourcePage": 240
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "wala'",
+                "id": "Tidak",
+                "tagalog": "wala'"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "are not",
+                "id": "Tidak"
+              },
+              "sourcePage": 240
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "pa",
+                "id": "Tetap",
+                "tagalog": "pa"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "still",
+                "id": "Tetap"
+              },
+              "sourcePage": 240
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "sila",
+                "id": "Mereka",
+                "tagalog": "sila"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "they",
+                "id": "Mereka"
+              },
+              "sourcePage": 240
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "dito.",
+                "id": "Di Sini.",
+                "tagalog": "dito."
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "here.",
+                "id": "Di Sini."
+              },
+              "sourcePage": 240
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "Oo",
+                "id": "Ya",
+                "tagalog": "Oo"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "Yes",
+                "id": "Ya"
+              },
+              "sourcePage": 241
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "nga'.",
+                "id": "Memang.",
+                "tagalog": "nga'."
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "indeed.",
+                "id": "Memang."
+              },
+              "sourcePage": 241
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "sabi",
+                "id": "Dikatakan",
+                "tagalog": "sabi"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "said",
+                "id": "Dikatakan"
+              },
+              "sourcePage": 241
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "nila,",
+                "id": "Oleh mereka,",
+                "tagalog": "nila,"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "by them,",
+                "id": "Oleh mereka,"
+              },
+              "sourcePage": 241
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "darating",
+                "id": "Akan tiba",
+                "tagalog": "darating"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "will arrive",
+                "id": "Akan tiba"
+              },
+              "sourcePage": 241
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "Sigurado",
+                "id": "Yakin",
+                "tagalog": "Sigurado"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "Certain",
+                "id": "Yakin"
+              },
+              "sourcePage": 242
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "ka?",
+                "id": "Anda?",
+                "tagalog": "ka?"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "you?",
+                "id": "Anda?"
+              },
+              "sourcePage": 242
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "tumawag",
+                "id": "Ditelepon",
+                "tagalog": "tumawag"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "called",
+                "id": "Ditelepon"
+              },
+              "sourcePage": 243
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "ako",
+                "id": "saya",
+                "tagalog": "ako"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "I",
+                "id": "saya"
+              },
+              "sourcePage": 243
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "kahapon.",
+                "id": "Kemarin.",
+                "tagalog": "kahapon."
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "yesterday.",
+                "id": "Kemarin."
+              },
+              "sourcePage": 243
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "Ganoon",
+                "id": "Seperti itu (di sana)",
+                "tagalog": "Ganoon"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "Like that (over there)",
+                "id": "Seperti itu (di sana)"
+              },
+              "sourcePage": 244
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "ba?",
+                "id": "[penanda tanya]?",
+                "tagalog": "ba?"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "[question]?",
+                "id": "[penanda tanya]?"
+              },
+              "sourcePage": 244
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "Teka.",
+                "id": "Tunggu.",
+                "tagalog": "Teka."
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "Wait.",
+                "id": "Tunggu."
+              },
+              "sourcePage": 245
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "Tatawag",
+                "id": "Akan menelepon",
+                "tagalog": "Tatawag"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "Will call",
+                "id": "Akan menelepon"
+              },
+              "sourcePage": 245
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "uli'.",
+                "id": "Lagi.",
+                "tagalog": "uli'."
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "again.",
+                "id": "Lagi."
+              },
+              "sourcePage": 245
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "Sige.",
+                "id": "Oke.",
+                "tagalog": "Sige."
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "OK.",
+                "id": "Oke."
+              },
+              "sourcePage": 246
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "Hello?",
+                "id": "Halo?",
+                "tagalog": "Hello?"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "Hello?",
+                "id": "Halo?"
+              },
+              "sourcePage": 247
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "Nasaan",
+                "id": "Di mana",
+                "tagalog": "Nasaan"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "Where are",
+                "id": "Di mana"
+              },
+              "sourcePage": 247
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "kayo?",
+                "id": "Kamu (jamak)?",
+                "tagalog": "kayo?"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "you (plural)?",
+                "id": "Kamu (jamak)?"
+              },
+              "sourcePage": 247
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "Ano",
+                "id": "Apa",
+                "tagalog": "Ano"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "What",
+                "id": "Apa"
+              },
+              "sourcePage": 248
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "raw?",
+                "id": "Kata mereka?",
+                "tagalog": "raw?"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "they say?",
+                "id": "Kata mereka?"
+              },
+              "sourcePage": 248
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "Akala'",
+                "id": "Berpikir (secara keliru)",
+                "tagalog": "Akala'"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "Thought (mistakenly)",
+                "id": "Berpikir (secara keliru)"
+              },
+              "sourcePage": 249
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "bukas",
+                "id": "Besok",
+                "tagalog": "bukas"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "tomorrow",
+                "id": "Besok"
+              },
+              "sourcePage": 249
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "ang",
+                "id": "penanda definit",
+                "tagalog": "ang"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "the",
+                "id": "penanda definit"
+              },
+              "sourcePage": 249
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "appointment",
+                "id": "Janji temu",
+                "tagalog": "appointment"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "appointment",
+                "id": "Janji temu"
+              },
+              "sourcePage": 249
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "natin!",
+                "id": "Kami (termasuk Anda)!",
+                "tagalog": "natin!"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "our (incl. you)!",
+                "id": "Kami (termasuk Anda)!"
+              },
+              "sourcePage": 249
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "Anong",
+                "id": "Apa-[penghubung]",
+                "tagalog": "Anong"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "What-[linker]",
+                "id": "Apa-[penghubung]"
+              },
+              "sourcePage": 251
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "oras",
+                "id": "Waktu",
+                "tagalog": "oras"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "time",
+                "id": "Waktu"
+              },
+              "sourcePage": 251
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "Ala una",
+                "id": "Jam satu",
+                "tagalog": "Ala una"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "One o'clock",
+                "id": "Jam satu"
+              },
+              "sourcePage": 252
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "ng",
+                "id": "Dari",
+                "tagalog": "ng"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "of",
+                "id": "Dari"
+              },
+              "sourcePage": 252
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "hapon.",
+                "id": "Sore.",
+                "tagalog": "hapon."
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "afternoon.",
+                "id": "Sore."
+              },
+              "sourcePage": 252
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "Alas dos",
+                "id": "Jam dua",
+                "tagalog": "Alas dos"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "Two o'clock",
+                "id": "Jam dua"
+              },
+              "sourcePage": 253
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "umaga.",
+                "id": "Pagi.",
+                "tagalog": "umaga."
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "morning.",
+                "id": "Pagi."
+              },
+              "sourcePage": 253
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "Alas tres",
+                "id": "Pukul tiga",
+                "tagalog": "Alas tres"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "At three o'clock",
+                "id": "Pukul tiga"
+              },
+              "sourcePage": 254
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "meeting",
+                "id": "Pertemuan",
+                "tagalog": "meeting"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "meeting",
+                "id": "Pertemuan"
+              },
+              "sourcePage": 254
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "namin.",
+                "id": "Kami (tidak termasuk Anda).",
+                "tagalog": "namin."
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "our (excl. you).",
+                "id": "Kami (tidak termasuk Anda)."
+              },
+              "sourcePage": 254
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "klase",
+                "id": "Kelas",
+                "tagalog": "klase"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "class",
+                "id": "Kelas"
+              },
+              "sourcePage": 255
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "Alas singko",
+                "id": "Jam lima",
+                "tagalog": "Alas singko"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "Five o'clock",
+                "id": "Jam lima"
+              },
+              "sourcePage": 256
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "Alas sais",
+                "id": "Pukul enam",
+                "tagalog": "Alas sais"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "At six o'clock",
+                "id": "Pukul enam"
+              },
+              "sourcePage": 257
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "siguro.",
+                "id": "Mungkin.",
+                "tagalog": "siguro."
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "maybe.",
+                "id": "Mungkin."
+              },
+              "sourcePage": 257
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "Alas syete",
+                "id": "Pukul tujuh",
+                "tagalog": "Alas syete"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "At seven o'clock",
+                "id": "Pukul tujuh"
+              },
+              "sourcePage": 258
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "yata'.",
+                "id": "Menurut saya.",
+                "tagalog": "yata'."
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "I think.",
+                "id": "Menurut saya."
+              },
+              "sourcePage": 258
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "Alas otso",
+                "id": "Jam delapan",
+                "tagalog": "Alas otso"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "Eight o'clock",
+                "id": "Jam delapan"
+              },
+              "sourcePage": 259
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "y medya.",
+                "id": "Setengah.",
+                "tagalog": "y medya."
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "and a half.",
+                "id": "Setengah."
+              },
+              "sourcePage": 259
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "Alas nwebe",
+                "id": "Jam sembilan",
+                "tagalog": "Alas nwebe"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "Nine o'clock",
+                "id": "Jam sembilan"
+              },
+              "sourcePage": 260
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "gabi.",
+                "id": "Sore/malam.",
+                "tagalog": "gabi."
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "evening/night.",
+                "id": "Sore/malam."
+              },
+              "sourcePage": 260
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "Alas dyes",
+                "id": "Jam sepuluh",
+                "tagalog": "Alas dyes"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "Ten o'clock",
+                "id": "Jam sepuluh"
+              },
+              "sourcePage": 261
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "pa lang.",
+                "id": "Hanya.",
+                "tagalog": "pa lang."
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "only.",
+                "id": "Hanya."
+              },
+              "sourcePage": 261
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "Maaga",
+                "id": "Lebih awal",
+                "tagalog": "Maaga"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "Early",
+                "id": "Lebih awal"
+              },
+              "sourcePage": 261
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "Alas onse",
+                "id": "Jam sebelas",
+                "tagalog": "Alas onse"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "Eleven o'clock",
+                "id": "Jam sebelas"
+              },
+              "sourcePage": 262
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "Alas dose",
+                "id": "Jam dua belas",
+                "tagalog": "Alas dose"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "Twelve o'clock",
+                "id": "Jam dua belas"
+              },
+              "sourcePage": 263
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "tanghali'.",
+                "id": "Siang.",
+                "tagalog": "tanghali'."
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "noon.",
+                "id": "Siang."
+              },
+              "sourcePage": 263
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "style": "body",
+          "sourcePage": 239,
+          "sourceLabel": "A 01",
+          "links": [],
+          "text": {
+            "sourceLanguage": "en",
+            "sourceText": "Alas kwatro – four o'clock or at four o'clock.",
+            "id": "A 01 · halaman PDF 239\n\nAlas kwatro – jam empat atau jam empat."
+          }
+        },
+        {
+          "type": "text",
+          "style": "body",
+          "sourcePage": 239,
+          "sourceLabel": "A 01",
+          "links": [],
+          "text": {
+            "sourceLanguage": "en",
+            "sourceText": "Alas kwatro na. – It's four o'clock.",
+            "id": "A 01 · halaman PDF 239\n\nAlas kwatro na. – Sekarang jam empat."
+          }
+        },
+        {
+          "type": "text",
+          "style": "body",
+          "sourcePage": 240,
+          "sourceLabel": "A 02",
+          "links": [],
+          "text": {
+            "sourceLanguage": "en",
+            "sourceText": "It is common to tell the time in Spanish and in English. Alas kwatro na. / Four o'clock na. – It's four o'clock.",
+            "id": "A 02 · halaman PDF 240\n\nMerupakan hal yang umum untuk mengetahui waktu dalam bahasa Spanyol dan Inggris. Alas kwatro na. / Four o'clock na. – Sekarang jam empat."
+          }
+        },
+        {
+          "type": "text",
+          "style": "body",
+          "sourcePage": 241,
+          "sourceLabel": "A 03",
+          "links": [],
+          "text": {
+            "sourceLanguage": "en",
+            "sourceText": "Sabi ko – I said.",
+            "id": "A 03 · halaman PDF 241\n\nSabi ko – kataku."
+          }
+        },
+        {
+          "type": "text",
+          "style": "body",
+          "sourcePage": 241,
+          "sourceLabel": "A 03",
+          "links": [],
+          "text": {
+            "sourceLanguage": "en",
+            "sourceText": "Sabi mo – you said.",
+            "id": "A 03 · halaman PDF 241\n\nSabi mo – katamu."
+          }
+        },
+        {
+          "type": "text",
+          "style": "body",
+          "sourcePage": 243,
+          "sourceLabel": "A 05",
+          "links": [],
+          "text": {
+            "sourceLanguage": "en",
+            "sourceText": "Tumawag ako. – I called. Tumawag na ako. – I have called; I had called (when something happened).",
+            "id": "A 05 · halaman PDF 243\n\nTumawag ako. – Saya menelepon. Tumawag na ako. – Saya telah menelepon; Saya telah menelepon (ketika terjadi sesuatu)."
+          }
+        },
+        {
+          "type": "text",
+          "style": "body",
+          "sourcePage": 245,
+          "sourceLabel": "A 07",
+          "links": [],
+          "text": {
+            "sourceLanguage": "en",
+            "sourceText": "Tatawag can be translated as will call, calls (e.g. tomorrow) or is calling (e.g. tomorrow).",
+            "id": "A 07 · halaman PDF 245\n\nTatawag dapat diterjemahkan sebagai akan menelepon, menelepon (misalnya besok) atau menelepon (misalnya besok)."
+          }
+        },
+        {
+          "type": "text",
+          "style": "body",
+          "sourcePage": 248,
+          "sourceLabel": "A 10",
+          "links": [],
+          "text": {
+            "sourceLanguage": "en",
+            "sourceText": "Daw or raw – he/she/they say, he/she/they said, I've heard, from what I hear.",
+            "id": "A 10 · halaman PDF 248\n\nDaw atau raw – dia/mereka berkata, dia/mereka berkata, saya pernah mendengar, dari apa yang saya dengar."
+          }
+        },
+        {
+          "type": "text",
+          "style": "body",
+          "sourcePage": 249,
+          "sourceLabel": "A 11",
+          "links": [
+            "https://learningtagalog.com/grammar/enclitic_words/using_enclitic_words/enclitic_words_in_clauses_or_ang_ng_sa_phrases.html"
+          ],
+          "text": {
+            "sourceLanguage": "en",
+            "sourceText": "Akala' ko – I thought (mistakenly).",
+            "id": "A 11 · halaman PDF 249\n\nAkala' ko – Saya pikir (salah)."
+          }
+        },
+        {
+          "type": "text",
+          "style": "body",
+          "sourcePage": 249,
+          "sourceLabel": "A 11",
+          "links": [
+            "https://learningtagalog.com/grammar/enclitic_words/using_enclitic_words/enclitic_words_in_clauses_or_ang_ng_sa_phrases.html"
+          ],
+          "text": {
+            "sourceLanguage": "en",
+            "sourceText": "Akala' mo – you thought (mistakenly).",
+            "id": "A 11 · halaman PDF 249\n\nAkala' mo – Anda berpikir (salah)."
+          }
+        },
+        {
+          "type": "text",
+          "style": "body",
+          "sourcePage": 249,
+          "sourceLabel": "A 11",
+          "links": [
+            "https://learningtagalog.com/grammar/enclitic_words/using_enclitic_words/enclitic_words_in_clauses_or_ang_ng_sa_phrases.html"
+          ],
+          "text": {
+            "sourceLanguage": "en",
+            "sourceText": "Optional reading: Enclitic words in clauses.",
+            "id": "A 11 · halaman PDF 249\n\nBacaan opsional: Kata-kata enklitik dalam klausa."
+          }
+        },
+        {
+          "type": "text",
+          "style": "body",
+          "sourcePage": 261,
+          "sourceLabel": "B 11",
+          "links": [],
+          "text": {
+            "sourceLanguage": "en",
+            "sourceText": "Pa lang – only, just.",
+            "id": "B 11 · halaman PDF 261\n\nPa lang – saja, adil."
+          }
+        },
+        {
+          "type": "text",
+          "style": "body",
+          "sourcePage": 263,
+          "sourceLabel": "B 13",
+          "links": [
+            "https://learningtagalog.com/grammar/other_describing_words/expressing_time_frequency_or_duration/parts_of_the_day.html",
+            "https://learningtagalog.com/grammar/other_describing_words/expressing_time_frequency_or_duration/clock_time.html"
+          ],
+          "text": {
+            "sourceLanguage": "en",
+            "sourceText": "Optional reading: Parts of the day and Clock time.",
+            "id": "B 13 · halaman PDF 263\n\nBacaan opsional: Bagian hari dan waktu Jam."
+          }
+        }
+      ]
+    },
+    {
+      "id": "grammar",
+      "type": "GRAMMAR",
+      "title": {
+        "sourceLanguage": "mixed",
+        "sourceText": "Grammar and pronunciation notes",
+        "id": "Catatan tata bahasa dan pelafalan"
+      },
+      "blocks": [
+        {
+          "type": "text",
+          "style": "body",
+          "sourcePage": 243,
+          "sourceLabel": "A 05",
+          "links": [],
+          "text": {
+            "sourceLanguage": "en",
+            "sourceText": "Here, the verb tumawag is in the completed form.",
+            "id": "A 05 · halaman PDF 243\n\nDi sini, kata kerja tumawag dalam bentuk lengkap."
+          }
+        },
+        {
+          "type": "text",
+          "style": "body",
+          "sourcePage": 245,
+          "sourceLabel": "A 07",
+          "links": [],
+          "text": {
+            "sourceLanguage": "en",
+            "sourceText": "Tatawag is the unstarted form of the verb tumawag.",
+            "id": "A 07 · halaman PDF 245\n\nTatawag adalah bentuk kata kerja tumawag yang belum dimulai."
+          }
+        },
+        {
+          "type": "text",
+          "style": "body",
+          "sourcePage": 249,
+          "sourceLabel": "A 11",
+          "links": [
+            "https://learningtagalog.com/grammar/enclitic_words/using_enclitic_words/enclitic_words_in_clauses_or_ang_ng_sa_phrases.html"
+          ],
+          "text": {
+            "sourceLanguage": "en",
+            "sourceText": "Akala' nila introduces a clause here (a sentence within a sentence): Bukas ang appointment natin.",
+            "id": "A 11 · halaman PDF 249\n\nAkala' nila memperkenalkan klausa di sini (kalimat di dalam kalimat): Bukas ang appointment natin."
+          }
+        },
+        {
+          "type": "text",
+          "style": "body",
+          "sourcePage": 249,
+          "sourceLabel": "A 11",
+          "links": [
+            "https://learningtagalog.com/grammar/enclitic_words/using_enclitic_words/enclitic_words_in_clauses_or_ang_ng_sa_phrases.html"
+          ],
+          "text": {
+            "sourceLanguage": "en",
+            "sourceText": "Enclitic words inside a clause follow the word order rules within the clause. Example: Akala' nila, [meron akong kotse]. – They thought I had a car. Since ako is enclitic, it comes second in the clause meron akong kotse.",
+            "id": "A 11 · halaman PDF 249\n\nKata-kata enklitik di dalam klausa mengikuti aturan urutan kata dalam klausa. Contoh: Akala' nila, [meron akong kotse]. – Mereka mengira saya punya mobil. Karena ako adalah enklitik, ia berada di urutan kedua dalam klausa meron akong kotse."
+          }
+        }
+      ]
+    },
+    {
+      "id": "examples",
+      "type": "EXAMPLES",
+      "title": {
+        "sourceLanguage": "mixed",
+        "sourceText": "Literal and natural translations",
+        "id": "Contoh dengan glosa harfiah dan alami"
+      },
+      "blocks": [
+        {
+          "type": "example",
+          "title": {
+            "sourceLanguage": "mixed",
+            "sourceText": "A 01",
+            "id": "A 01 · halaman PDF 239"
+          },
+          "sourcePage": 239,
+          "rows": [
+            {
+              "cells": [
+                {
+                  "sourceLanguage": "fil",
+                  "sourceText": "Alas kwatro na",
+                  "id": "Sudah pukul empat",
+                  "tagalog": "Alas kwatro na"
+                },
+                {
+                  "sourceLanguage": "en",
+                  "sourceText": "Four o'clock now",
+                  "id": "Glosa harfiah (Inggris)\nFour o'clock now"
+                },
+                {
+                  "sourceLanguage": "en",
+                  "sourceText": "It's four o'clock",
+                  "id": "Terjemahan alami sumber (Inggris)\nIt's four o'clock"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "example",
+          "title": {
+            "sourceLanguage": "mixed",
+            "sourceText": "A 02",
+            "id": "A 02 · halaman PDF 240"
+          },
+          "sourcePage": 240,
+          "rows": [
+            {
+              "cells": [
+                {
+                  "sourceLanguage": "fil",
+                  "sourceText": "Alas kwatro na pero wala' pa sila dito.",
+                  "id": "Sekarang sudah jam empat, tapi mereka masih belum datang.",
+                  "tagalog": "Alas kwatro na pero wala' pa sila dito."
+                },
+                {
+                  "sourceLanguage": "en",
+                  "sourceText": "Four o'clock now but are not still they here.",
+                  "id": "Glosa harfiah (Inggris)\nFour o'clock now but are not still they here."
+                },
+                {
+                  "sourceLanguage": "en",
+                  "sourceText": "It's four o'clock, but they're still not here.",
+                  "id": "Terjemahan alami sumber (Inggris)\nIt's four o'clock, but they're still not here."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "example",
+          "title": {
+            "sourceLanguage": "mixed",
+            "sourceText": "A 03",
+            "id": "A 03 · halaman PDF 241"
+          },
+          "sourcePage": 241,
+          "rows": [
+            {
+              "cells": [
+                {
+                  "sourceLanguage": "fil",
+                  "sourceText": "Oo nga'. Pero sabi nila, darating sila.",
+                  "id": "Ya (itu benar). Tapi mereka bilang akan datang.",
+                  "tagalog": "Oo nga'. Pero sabi nila, darating sila."
+                },
+                {
+                  "sourceLanguage": "en",
+                  "sourceText": "Yes indeed. But said by them, will arrive they.",
+                  "id": "Glosa harfiah (Inggris)\nYes indeed. But said by them, will arrive they."
+                },
+                {
+                  "sourceLanguage": "en",
+                  "sourceText": "Yes (that's true). But they said they would come.",
+                  "id": "Terjemahan alami sumber (Inggris)\nYes (that's true). But they said they would come."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "example",
+          "title": {
+            "sourceLanguage": "mixed",
+            "sourceText": "A 04",
+            "id": "A 04 · halaman PDF 242"
+          },
+          "sourcePage": 242,
+          "rows": [
+            {
+              "cells": [
+                {
+                  "sourceLanguage": "fil",
+                  "sourceText": "Sigurado ka?",
+                  "id": "Apa kamu yakin?",
+                  "tagalog": "Sigurado ka?"
+                },
+                {
+                  "sourceLanguage": "en",
+                  "sourceText": "Certain you?",
+                  "id": "Glosa harfiah (Inggris)\nCertain you?"
+                },
+                {
+                  "sourceLanguage": "en",
+                  "sourceText": "Are you sure?",
+                  "id": "Terjemahan alami sumber (Inggris)\nAre you sure?"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "example",
+          "title": {
+            "sourceLanguage": "mixed",
+            "sourceText": "A 05",
+            "id": "A 05 · halaman PDF 243"
+          },
+          "sourcePage": 243,
+          "rows": [
+            {
+              "cells": [
+                {
+                  "sourceLanguage": "fil",
+                  "sourceText": "Oo, tumawag ako kahapon.",
+                  "id": "Ya, saya menelepon kemarin.",
+                  "tagalog": "Oo, tumawag ako kahapon."
+                },
+                {
+                  "sourceLanguage": "en",
+                  "sourceText": "Yes, called I yesterday.",
+                  "id": "Glosa harfiah (Inggris)\nYes, called I yesterday."
+                },
+                {
+                  "sourceLanguage": "en",
+                  "sourceText": "Yes, I called yesterday.",
+                  "id": "Terjemahan alami sumber (Inggris)\nYes, I called yesterday."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "example",
+          "title": {
+            "sourceLanguage": "mixed",
+            "sourceText": "A 06",
+            "id": "A 06 · halaman PDF 244"
+          },
+          "sourcePage": 244,
+          "rows": [
+            {
+              "cells": [
+                {
+                  "sourceLanguage": "fil",
+                  "sourceText": "Ganoon ba?",
+                  "id": "Apakah begitu?",
+                  "tagalog": "Ganoon ba?"
+                },
+                {
+                  "sourceLanguage": "en",
+                  "sourceText": "Like that (over there) [question]?",
+                  "id": "Glosa harfiah (Inggris)\nLike that (over there) [question]?"
+                },
+                {
+                  "sourceLanguage": "en",
+                  "sourceText": "Is that so?",
+                  "id": "Terjemahan alami sumber (Inggris)\nIs that so?"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "example",
+          "title": {
+            "sourceLanguage": "mixed",
+            "sourceText": "A 07",
+            "id": "A 07 · halaman PDF 245"
+          },
+          "sourcePage": 245,
+          "rows": [
+            {
+              "cells": [
+                {
+                  "sourceLanguage": "fil",
+                  "sourceText": "Teka. Tatawag ako uli'.",
+                  "id": "Tunggu. Saya akan menelepon (mereka) lagi.",
+                  "tagalog": "Teka. Tatawag ako uli'."
+                },
+                {
+                  "sourceLanguage": "en",
+                  "sourceText": "Wait. Will call I again.",
+                  "id": "Glosa harfiah (Inggris)\nWait. Will call I again."
+                },
+                {
+                  "sourceLanguage": "en",
+                  "sourceText": "Wait. I'll call (them) again.",
+                  "id": "Terjemahan alami sumber (Inggris)\nWait. I'll call (them) again."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "example",
+          "title": {
+            "sourceLanguage": "mixed",
+            "sourceText": "A 08",
+            "id": "A 08 · halaman PDF 246"
+          },
+          "sourcePage": 246,
+          "rows": [
+            {
+              "cells": [
+                {
+                  "sourceLanguage": "fil",
+                  "sourceText": "Sige.",
+                  "id": "Oke.",
+                  "tagalog": "Sige."
+                },
+                {
+                  "sourceLanguage": "en",
+                  "sourceText": "OK.",
+                  "id": "Glosa harfiah (Inggris)\nOK."
+                },
+                {
+                  "sourceLanguage": "en",
+                  "sourceText": "OK.",
+                  "id": "Terjemahan alami sumber (Inggris)\nOK."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "example",
+          "title": {
+            "sourceLanguage": "mixed",
+            "sourceText": "A 09",
+            "id": "A 09 · halaman PDF 247"
+          },
+          "sourcePage": 247,
+          "rows": [
+            {
+              "cells": [
+                {
+                  "sourceLanguage": "fil",
+                  "sourceText": "Hello? Nasaan na kayo?",
+                  "id": "Halo? Kamu ada di mana?",
+                  "tagalog": "Hello? Nasaan na kayo?"
+                },
+                {
+                  "sourceLanguage": "en",
+                  "sourceText": "Hello? Where are now you (plural)?",
+                  "id": "Glosa harfiah (Inggris)\nHello? Where are now you (plural)?"
+                },
+                {
+                  "sourceLanguage": "en",
+                  "sourceText": "Hello? Where are you?",
+                  "id": "Terjemahan alami sumber (Inggris)\nHello? Where are you?"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "example",
+          "title": {
+            "sourceLanguage": "mixed",
+            "sourceText": "A 10",
+            "id": "A 10 · halaman PDF 248"
+          },
+          "sourcePage": 248,
+          "rows": [
+            {
+              "cells": [
+                {
+                  "sourceLanguage": "fil",
+                  "sourceText": "Ano raw?",
+                  "id": "Apa yang mereka katakan?",
+                  "tagalog": "Ano raw?"
+                },
+                {
+                  "sourceLanguage": "en",
+                  "sourceText": "What they say?",
+                  "id": "Glosa harfiah (Inggris)\nWhat they say?"
+                },
+                {
+                  "sourceLanguage": "en",
+                  "sourceText": "What did they say?",
+                  "id": "Terjemahan alami sumber (Inggris)\nWhat did they say?"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "example",
+          "title": {
+            "sourceLanguage": "mixed",
+            "sourceText": "A 11",
+            "id": "A 11 · halaman PDF 249"
+          },
+          "sourcePage": 249,
+          "rows": [
+            {
+              "cells": [
+                {
+                  "sourceLanguage": "fil",
+                  "sourceText": "Akala' nila bukas ang appointment natin!",
+                  "id": "Mereka mengira janji temu kita besok!",
+                  "tagalog": "Akala' nila bukas ang appointment natin!"
+                },
+                {
+                  "sourceLanguage": "en",
+                  "sourceText": "Thought (mistakenly) by them tomorrow the appointment our (incl. you)!",
+                  "id": "Glosa harfiah (Inggris)\nThought (mistakenly) by them tomorrow the appointment our (incl. you)!"
+                },
+                {
+                  "sourceLanguage": "en",
+                  "sourceText": "They thought our appointment was tomorrow!",
+                  "id": "Terjemahan alami sumber (Inggris)\nThey thought our appointment was tomorrow!"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "example",
+          "title": {
+            "sourceLanguage": "mixed",
+            "sourceText": "B 01",
+            "id": "B 01 · halaman PDF 251"
+          },
+          "sourcePage": 251,
+          "rows": [
+            {
+              "cells": [
+                {
+                  "sourceLanguage": "fil",
+                  "sourceText": "Anong oras na?",
+                  "id": "Jam berapa sekarang?",
+                  "tagalog": "Anong oras na?"
+                },
+                {
+                  "sourceLanguage": "en",
+                  "sourceText": "What-[linker] time now?",
+                  "id": "Glosa harfiah (Inggris)\nWhat-[linker] time now?"
+                },
+                {
+                  "sourceLanguage": "en",
+                  "sourceText": "What time is it?",
+                  "id": "Terjemahan alami sumber (Inggris)\nWhat time is it?"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "example",
+          "title": {
+            "sourceLanguage": "mixed",
+            "sourceText": "B 02",
+            "id": "B 02 · halaman PDF 252"
+          },
+          "sourcePage": 252,
+          "rows": [
+            {
+              "cells": [
+                {
+                  "sourceLanguage": "fil",
+                  "sourceText": "Ala una ng hapon.",
+                  "id": "Pukul satu siang.",
+                  "tagalog": "Ala una ng hapon."
+                },
+                {
+                  "sourceLanguage": "en",
+                  "sourceText": "One o'clock of afternoon.",
+                  "id": "Glosa harfiah (Inggris)\nOne o'clock of afternoon."
+                },
+                {
+                  "sourceLanguage": "en",
+                  "sourceText": "One o'clock in the afternoon.",
+                  "id": "Terjemahan alami sumber (Inggris)\nOne o'clock in the afternoon."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "example",
+          "title": {
+            "sourceLanguage": "mixed",
+            "sourceText": "B 03",
+            "id": "B 03 · halaman PDF 253"
+          },
+          "sourcePage": 253,
+          "rows": [
+            {
+              "cells": [
+                {
+                  "sourceLanguage": "fil",
+                  "sourceText": "Alas dos ng umaga.",
+                  "id": "Jam dua pagi.",
+                  "tagalog": "Alas dos ng umaga."
+                },
+                {
+                  "sourceLanguage": "en",
+                  "sourceText": "Two o'clock of morning.",
+                  "id": "Glosa harfiah (Inggris)\nTwo o'clock of morning."
+                },
+                {
+                  "sourceLanguage": "en",
+                  "sourceText": "Two o'clock in the morning.",
+                  "id": "Terjemahan alami sumber (Inggris)\nTwo o'clock in the morning."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "example",
+          "title": {
+            "sourceLanguage": "mixed",
+            "sourceText": "B 04",
+            "id": "B 04 · halaman PDF 254"
+          },
+          "sourcePage": 254,
+          "rows": [
+            {
+              "cells": [
+                {
+                  "sourceLanguage": "fil",
+                  "sourceText": "Alas tres ang meeting namin.",
+                  "id": "Pertemuan kami pukul tiga.",
+                  "tagalog": "Alas tres ang meeting namin."
+                },
+                {
+                  "sourceLanguage": "en",
+                  "sourceText": "At three o'clock the meeting our (excl. you).",
+                  "id": "Glosa harfiah (Inggris)\nAt three o'clock the meeting our (excl. you)."
+                },
+                {
+                  "sourceLanguage": "en",
+                  "sourceText": "Our meeting is at three o'clock.",
+                  "id": "Terjemahan alami sumber (Inggris)\nOur meeting is at three o'clock."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "example",
+          "title": {
+            "sourceLanguage": "mixed",
+            "sourceText": "B 05",
+            "id": "B 05 · halaman PDF 255"
+          },
+          "sourcePage": 255,
+          "rows": [
+            {
+              "cells": [
+                {
+                  "sourceLanguage": "fil",
+                  "sourceText": "Alas kwatro ang klase natin.",
+                  "id": "Kelas kita pukul empat.",
+                  "tagalog": "Alas kwatro ang klase natin."
+                },
+                {
+                  "sourceLanguage": "en",
+                  "sourceText": "At four o'clock the class our (incl. you).",
+                  "id": "Glosa harfiah (Inggris)\nAt four o'clock the class our (incl. you)."
+                },
+                {
+                  "sourceLanguage": "en",
+                  "sourceText": "Our class is at four o'clock.",
+                  "id": "Terjemahan alami sumber (Inggris)\nOur class is at four o'clock."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "example",
+          "title": {
+            "sourceLanguage": "mixed",
+            "sourceText": "B 06",
+            "id": "B 06 · halaman PDF 256"
+          },
+          "sourcePage": 256,
+          "rows": [
+            {
+              "cells": [
+                {
+                  "sourceLanguage": "fil",
+                  "sourceText": "Alas singko na!",
+                  "id": "Ini (sudah) jam lima!",
+                  "tagalog": "Alas singko na!"
+                },
+                {
+                  "sourceLanguage": "en",
+                  "sourceText": "Five o'clock now!",
+                  "id": "Glosa harfiah (Inggris)\nFive o'clock now!"
+                },
+                {
+                  "sourceLanguage": "en",
+                  "sourceText": "It's (already) five o'clock!",
+                  "id": "Terjemahan alami sumber (Inggris)\nIt's (already) five o'clock!"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "example",
+          "title": {
+            "sourceLanguage": "mixed",
+            "sourceText": "B 07",
+            "id": "B 07 · halaman PDF 257"
+          },
+          "sourcePage": 257,
+          "rows": [
+            {
+              "cells": [
+                {
+                  "sourceLanguage": "fil",
+                  "sourceText": "Alas sais siguro.",
+                  "id": "Mungkin jam enam.",
+                  "tagalog": "Alas sais siguro."
+                },
+                {
+                  "sourceLanguage": "en",
+                  "sourceText": "At six o'clock maybe.",
+                  "id": "Glosa harfiah (Inggris)\nAt six o'clock maybe."
+                },
+                {
+                  "sourceLanguage": "en",
+                  "sourceText": "At six o'clock, maybe.",
+                  "id": "Terjemahan alami sumber (Inggris)\nAt six o'clock, maybe."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "example",
+          "title": {
+            "sourceLanguage": "mixed",
+            "sourceText": "B 08",
+            "id": "B 08 · halaman PDF 258"
+          },
+          "sourcePage": 258,
+          "rows": [
+            {
+              "cells": [
+                {
+                  "sourceLanguage": "fil",
+                  "sourceText": "Alas syete yata'.",
+                  "id": "Menurutku, jam tujuh.",
+                  "tagalog": "Alas syete yata'."
+                },
+                {
+                  "sourceLanguage": "en",
+                  "sourceText": "At seven o'clock I think.",
+                  "id": "Glosa harfiah (Inggris)\nAt seven o'clock I think."
+                },
+                {
+                  "sourceLanguage": "en",
+                  "sourceText": "At seven o'clock, I think.",
+                  "id": "Terjemahan alami sumber (Inggris)\nAt seven o'clock, I think."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "example",
+          "title": {
+            "sourceLanguage": "mixed",
+            "sourceText": "B 09",
+            "id": "B 09 · halaman PDF 259"
+          },
+          "sourcePage": 259,
+          "rows": [
+            {
+              "cells": [
+                {
+                  "sourceLanguage": "fil",
+                  "sourceText": "Alas otso y medya.",
+                  "id": "Pukul delapan tiga puluh.",
+                  "tagalog": "Alas otso y medya."
+                },
+                {
+                  "sourceLanguage": "en",
+                  "sourceText": "Eight o'clock and a half.",
+                  "id": "Glosa harfiah (Inggris)\nEight o'clock and a half."
+                },
+                {
+                  "sourceLanguage": "en",
+                  "sourceText": "Eight thirty.",
+                  "id": "Terjemahan alami sumber (Inggris)\nEight thirty."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "example",
+          "title": {
+            "sourceLanguage": "mixed",
+            "sourceText": "B 10",
+            "id": "B 10 · halaman PDF 260"
+          },
+          "sourcePage": 260,
+          "rows": [
+            {
+              "cells": [
+                {
+                  "sourceLanguage": "fil",
+                  "sourceText": "Alas nwebe ng gabi.",
+                  "id": "Jam sembilan malam.",
+                  "tagalog": "Alas nwebe ng gabi."
+                },
+                {
+                  "sourceLanguage": "en",
+                  "sourceText": "Nine o'clock of evening/night.",
+                  "id": "Glosa harfiah (Inggris)\nNine o'clock of evening/night."
+                },
+                {
+                  "sourceLanguage": "en",
+                  "sourceText": "Nine in the evening.",
+                  "id": "Terjemahan alami sumber (Inggris)\nNine in the evening."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "example",
+          "title": {
+            "sourceLanguage": "mixed",
+            "sourceText": "B 11",
+            "id": "B 11 · halaman PDF 261"
+          },
+          "sourcePage": 261,
+          "rows": [
+            {
+              "cells": [
+                {
+                  "sourceLanguage": "fil",
+                  "sourceText": "Alas dyes pa lang. Maaga pa.",
+                  "id": "Baru pukul sepuluh. Masih awal.",
+                  "tagalog": "Alas dyes pa lang. Maaga pa."
+                },
+                {
+                  "sourceLanguage": "en",
+                  "sourceText": "Ten o'clock only. Early still.",
+                  "id": "Glosa harfiah (Inggris)\nTen o'clock only. Early still."
+                },
+                {
+                  "sourceLanguage": "en",
+                  "sourceText": "It's only ten o'clock. It's still early.",
+                  "id": "Terjemahan alami sumber (Inggris)\nIt's only ten o'clock. It's still early."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "example",
+          "title": {
+            "sourceLanguage": "mixed",
+            "sourceText": "B 12",
+            "id": "B 12 · halaman PDF 262"
+          },
+          "sourcePage": 262,
+          "rows": [
+            {
+              "cells": [
+                {
+                  "sourceLanguage": "fil",
+                  "sourceText": "Alas onse ng gabi.",
+                  "id": "Sebelas malam.",
+                  "tagalog": "Alas onse ng gabi."
+                },
+                {
+                  "sourceLanguage": "en",
+                  "sourceText": "Eleven o'clock of evening/night.",
+                  "id": "Glosa harfiah (Inggris)\nEleven o'clock of evening/night."
+                },
+                {
+                  "sourceLanguage": "en",
+                  "sourceText": "Eleven in the evening.",
+                  "id": "Terjemahan alami sumber (Inggris)\nEleven in the evening."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "example",
+          "title": {
+            "sourceLanguage": "mixed",
+            "sourceText": "B 13",
+            "id": "B 13 · halaman PDF 263"
+          },
+          "sourcePage": 263,
+          "rows": [
+            {
+              "cells": [
+                {
+                  "sourceLanguage": "fil",
+                  "sourceText": "Alas dose ng tanghali'.",
+                  "id": "Jam dua belas siang.",
+                  "tagalog": "Alas dose ng tanghali'."
+                },
+                {
+                  "sourceLanguage": "en",
+                  "sourceText": "Twelve o'clock of noon.",
+                  "id": "Glosa harfiah (Inggris)\nTwelve o'clock of noon."
+                },
+                {
+                  "sourceLanguage": "en",
+                  "sourceText": "Twelve noon.",
+                  "id": "Terjemahan alami sumber (Inggris)\nTwelve noon."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "exercises",
+      "type": "EXERCISES",
+      "title": {
+        "sourceLanguage": "mixed",
+        "sourceText": "Drills",
+        "id": "Latihan pola"
+      },
+      "blocks": [
+        {
+          "type": "exercise",
+          "role": "instruction",
+          "text": {
+            "sourceLanguage": "mixed",
+            "sourceText": "Drills",
+            "id": "Latihan pola (Drills)"
+          },
+          "sourcePage": 250
+        },
+        {
+          "type": "exercise",
+          "role": "content",
+          "title": {
+            "sourceLanguage": "mixed",
+            "sourceText": "A 11",
+            "id": "A 11 · halaman PDF 249"
+          },
+          "sourcePage": 249,
+          "text": {
+            "sourceLanguage": "fil",
+            "sourceText": "Akala' nila bukas ang appointment natin!",
+            "id": "Mereka mengira janji temu kita besok!",
+            "tagalog": "Akala' nila bukas ang appointment natin!"
+          }
+        },
+        {
+          "type": "exercise",
+          "role": "content",
+          "title": {
+            "sourceLanguage": "mixed",
+            "sourceText": "B 01",
+            "id": "B 01 · halaman PDF 251"
+          },
+          "sourcePage": 251,
+          "text": {
+            "sourceLanguage": "fil",
+            "sourceText": "Anong oras na?",
+            "id": "Jam berapa sekarang?",
+            "tagalog": "Anong oras na?"
+          }
+        },
+        {
+          "type": "exercise",
+          "role": "content",
+          "title": {
+            "sourceLanguage": "mixed",
+            "sourceText": "B 02",
+            "id": "B 02 · halaman PDF 252"
+          },
+          "sourcePage": 252,
+          "text": {
+            "sourceLanguage": "fil",
+            "sourceText": "Ala una ng hapon.",
+            "id": "Pukul satu siang.",
+            "tagalog": "Ala una ng hapon."
+          }
+        },
+        {
+          "type": "exercise",
+          "role": "content",
+          "title": {
+            "sourceLanguage": "mixed",
+            "sourceText": "B 03",
+            "id": "B 03 · halaman PDF 253"
+          },
+          "sourcePage": 253,
+          "text": {
+            "sourceLanguage": "fil",
+            "sourceText": "Alas dos ng umaga.",
+            "id": "Jam dua pagi.",
+            "tagalog": "Alas dos ng umaga."
+          }
+        },
+        {
+          "type": "exercise",
+          "role": "content",
+          "title": {
+            "sourceLanguage": "mixed",
+            "sourceText": "B 04",
+            "id": "B 04 · halaman PDF 254"
+          },
+          "sourcePage": 254,
+          "text": {
+            "sourceLanguage": "fil",
+            "sourceText": "Alas tres ang meeting namin.",
+            "id": "Pertemuan kami pukul tiga.",
+            "tagalog": "Alas tres ang meeting namin."
+          }
+        },
+        {
+          "type": "exercise",
+          "role": "content",
+          "title": {
+            "sourceLanguage": "mixed",
+            "sourceText": "B 05",
+            "id": "B 05 · halaman PDF 255"
+          },
+          "sourcePage": 255,
+          "text": {
+            "sourceLanguage": "fil",
+            "sourceText": "Alas kwatro ang klase natin.",
+            "id": "Kelas kita pukul empat.",
+            "tagalog": "Alas kwatro ang klase natin."
+          }
+        },
+        {
+          "type": "exercise",
+          "role": "content",
+          "title": {
+            "sourceLanguage": "mixed",
+            "sourceText": "B 06",
+            "id": "B 06 · halaman PDF 256"
+          },
+          "sourcePage": 256,
+          "text": {
+            "sourceLanguage": "fil",
+            "sourceText": "Alas singko na!",
+            "id": "Ini (sudah) jam lima!",
+            "tagalog": "Alas singko na!"
+          }
+        },
+        {
+          "type": "exercise",
+          "role": "content",
+          "title": {
+            "sourceLanguage": "mixed",
+            "sourceText": "B 07",
+            "id": "B 07 · halaman PDF 257"
+          },
+          "sourcePage": 257,
+          "text": {
+            "sourceLanguage": "fil",
+            "sourceText": "Alas sais siguro.",
+            "id": "Mungkin jam enam.",
+            "tagalog": "Alas sais siguro."
+          }
+        },
+        {
+          "type": "exercise",
+          "role": "content",
+          "title": {
+            "sourceLanguage": "mixed",
+            "sourceText": "B 08",
+            "id": "B 08 · halaman PDF 258"
+          },
+          "sourcePage": 258,
+          "text": {
+            "sourceLanguage": "fil",
+            "sourceText": "Alas syete yata'.",
+            "id": "Menurutku, jam tujuh.",
+            "tagalog": "Alas syete yata'."
+          }
+        },
+        {
+          "type": "exercise",
+          "role": "content",
+          "title": {
+            "sourceLanguage": "mixed",
+            "sourceText": "B 09",
+            "id": "B 09 · halaman PDF 259"
+          },
+          "sourcePage": 259,
+          "text": {
+            "sourceLanguage": "fil",
+            "sourceText": "Alas otso y medya.",
+            "id": "Pukul delapan tiga puluh.",
+            "tagalog": "Alas otso y medya."
+          }
+        },
+        {
+          "type": "exercise",
+          "role": "content",
+          "title": {
+            "sourceLanguage": "mixed",
+            "sourceText": "B 10",
+            "id": "B 10 · halaman PDF 260"
+          },
+          "sourcePage": 260,
+          "text": {
+            "sourceLanguage": "fil",
+            "sourceText": "Alas nwebe ng gabi.",
+            "id": "Jam sembilan malam.",
+            "tagalog": "Alas nwebe ng gabi."
+          }
+        },
+        {
+          "type": "exercise",
+          "role": "content",
+          "title": {
+            "sourceLanguage": "mixed",
+            "sourceText": "B 11",
+            "id": "B 11 · halaman PDF 261"
+          },
+          "sourcePage": 261,
+          "text": {
+            "sourceLanguage": "fil",
+            "sourceText": "Alas dyes pa lang. Maaga pa.",
+            "id": "Baru pukul sepuluh. Masih awal.",
+            "tagalog": "Alas dyes pa lang. Maaga pa."
+          }
+        },
+        {
+          "type": "exercise",
+          "role": "content",
+          "title": {
+            "sourceLanguage": "mixed",
+            "sourceText": "B 12",
+            "id": "B 12 · halaman PDF 262"
+          },
+          "sourcePage": 262,
+          "text": {
+            "sourceLanguage": "fil",
+            "sourceText": "Alas onse ng gabi.",
+            "id": "Sebelas malam.",
+            "tagalog": "Alas onse ng gabi."
+          }
+        },
+        {
+          "type": "exercise",
+          "role": "content",
+          "title": {
+            "sourceLanguage": "mixed",
+            "sourceText": "B 13",
+            "id": "B 13 · halaman PDF 263"
+          },
+          "sourcePage": 263,
+          "text": {
+            "sourceLanguage": "fil",
+            "sourceText": "Alas dose ng tanghali'.",
+            "id": "Jam dua belas siang.",
+            "tagalog": "Alas dose ng tanghali'."
+          }
+        }
+      ]
+    },
+    {
+      "id": "summary",
+      "type": "SUMMARY",
+      "title": {
+        "sourceLanguage": "mixed",
+        "sourceText": "Alas kwatro na",
+        "id": "Ringkasan bab"
+      },
+      "blocks": [
+        {
+          "type": "text",
+          "style": "heading",
+          "text": {
+            "sourceLanguage": "mixed",
+            "sourceText": "Story A",
+            "id": "Dialog utama"
+          }
+        },
+        {
+          "type": "list",
+          "style": "outline",
+          "items": [
+            {
+              "sourceLanguage": "fil",
+              "sourceText": "Alas kwatro na",
+              "id": "Sudah pukul empat",
+              "tagalog": "Alas kwatro na"
+            },
+            {
+              "sourceLanguage": "fil",
+              "sourceText": "Alas kwatro na pero wala' pa sila dito.",
+              "id": "Sekarang sudah jam empat, tapi mereka masih belum datang.",
+              "tagalog": "Alas kwatro na pero wala' pa sila dito."
+            },
+            {
+              "sourceLanguage": "fil",
+              "sourceText": "Oo nga'. Pero sabi nila, darating sila.",
+              "id": "Ya (itu benar). Tapi mereka bilang akan datang.",
+              "tagalog": "Oo nga'. Pero sabi nila, darating sila."
+            },
+            {
+              "sourceLanguage": "fil",
+              "sourceText": "Sigurado ka?",
+              "id": "Apa kamu yakin?",
+              "tagalog": "Sigurado ka?"
+            },
+            {
+              "sourceLanguage": "fil",
+              "sourceText": "Oo, tumawag ako kahapon.",
+              "id": "Ya, saya menelepon kemarin.",
+              "tagalog": "Oo, tumawag ako kahapon."
+            },
+            {
+              "sourceLanguage": "fil",
+              "sourceText": "Ganoon ba?",
+              "id": "Apakah begitu?",
+              "tagalog": "Ganoon ba?"
+            },
+            {
+              "sourceLanguage": "fil",
+              "sourceText": "Teka. Tatawag ako uli'.",
+              "id": "Tunggu. Saya akan menelepon (mereka) lagi.",
+              "tagalog": "Teka. Tatawag ako uli'."
+            },
+            {
+              "sourceLanguage": "fil",
+              "sourceText": "Sige.",
+              "id": "Oke.",
+              "tagalog": "Sige."
+            },
+            {
+              "sourceLanguage": "fil",
+              "sourceText": "Hello? Nasaan na kayo?",
+              "id": "Halo? Kamu ada di mana?",
+              "tagalog": "Hello? Nasaan na kayo?"
+            },
+            {
+              "sourceLanguage": "fil",
+              "sourceText": "Ano raw?",
+              "id": "Apa yang mereka katakan?",
+              "tagalog": "Ano raw?"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "style": "heading",
+          "text": {
+            "sourceLanguage": "mixed",
+            "sourceText": "Drills",
+            "id": "Latihan pola"
+          }
+        },
+        {
+          "type": "list",
+          "style": "outline",
+          "items": [
+            {
+              "sourceLanguage": "fil",
+              "sourceText": "Akala' nila bukas ang appointment natin!",
+              "id": "Mereka mengira janji temu kita besok!",
+              "tagalog": "Akala' nila bukas ang appointment natin!"
+            },
+            {
+              "sourceLanguage": "fil",
+              "sourceText": "Anong oras na?",
+              "id": "Jam berapa sekarang?",
+              "tagalog": "Anong oras na?"
+            },
+            {
+              "sourceLanguage": "fil",
+              "sourceText": "Ala una ng hapon.",
+              "id": "Pukul satu siang.",
+              "tagalog": "Ala una ng hapon."
+            },
+            {
+              "sourceLanguage": "fil",
+              "sourceText": "Alas dos ng umaga.",
+              "id": "Jam dua pagi.",
+              "tagalog": "Alas dos ng umaga."
+            },
+            {
+              "sourceLanguage": "fil",
+              "sourceText": "Alas tres ang meeting namin.",
+              "id": "Pertemuan kami pukul tiga.",
+              "tagalog": "Alas tres ang meeting namin."
+            },
+            {
+              "sourceLanguage": "fil",
+              "sourceText": "Alas kwatro ang klase natin.",
+              "id": "Kelas kita pukul empat.",
+              "tagalog": "Alas kwatro ang klase natin."
+            },
+            {
+              "sourceLanguage": "fil",
+              "sourceText": "Alas singko na!",
+              "id": "Ini (sudah) jam lima!",
+              "tagalog": "Alas singko na!"
+            },
+            {
+              "sourceLanguage": "fil",
+              "sourceText": "Alas sais siguro.",
+              "id": "Mungkin jam enam.",
+              "tagalog": "Alas sais siguro."
+            },
+            {
+              "sourceLanguage": "fil",
+              "sourceText": "Alas syete yata'.",
+              "id": "Menurutku, jam tujuh.",
+              "tagalog": "Alas syete yata'."
+            },
+            {
+              "sourceLanguage": "fil",
+              "sourceText": "Alas otso y medya.",
+              "id": "Pukul delapan tiga puluh.",
+              "tagalog": "Alas otso y medya."
+            },
+            {
+              "sourceLanguage": "fil",
+              "sourceText": "Alas nwebe ng gabi.",
+              "id": "Jam sembilan malam.",
+              "tagalog": "Alas nwebe ng gabi."
+            },
+            {
+              "sourceLanguage": "fil",
+              "sourceText": "Alas dyes pa lang. Maaga pa.",
+              "id": "Baru pukul sepuluh. Masih awal.",
+              "tagalog": "Alas dyes pa lang. Maaga pa."
+            },
+            {
+              "sourceLanguage": "fil",
+              "sourceText": "Alas onse ng gabi.",
+              "id": "Sebelas malam.",
+              "tagalog": "Alas onse ng gabi."
+            },
+            {
+              "sourceLanguage": "fil",
+              "sourceText": "Alas dose ng tanghali'.",
+              "id": "Jam dua belas siang.",
+              "tagalog": "Alas dose ng tanghali'."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "contentAudit": {
+    "sourcePages": 27,
+    "phrasePages": 24,
+    "storyPhrases": 10,
+    "drillPhrases": 14,
+    "noteBlocks": 18,
+    "vocabularyEntries": 59,
+    "sourceTextItemsBefore": 91,
+    "sourceTextItemsAfter": 91,
+    "recapVerified": true,
+    "imageCount": 1
+  }
+}

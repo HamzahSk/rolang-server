@@ -17,12 +17,12 @@
     {
       "sourceLanguage": "en",
       "sourceText": "• Be able to talk about daily activities",
-      "id": "Bisa berbicara tentang kegiatan sehari-hari"
+      "id": "• Berbicara tentang kegiatan sehari-hari"
     },
     {
       "sourceLanguage": "en",
       "sourceText": "• Be able to talk about past and future activities",
-      "id": "Bisa berbicara tentang aktivitas masa lalu dan masa depan"
+      "id": "• Berbicara tentang kegiatan masa lalu dan masa depan"
     }
   ],
   "source": {
@@ -38,231 +38,161 @@
   ],
   "sections": [
     {
-      "id": "lesson-07-overview",
-      "type": "OVERVIEW",
+      "type": "INTRODUCTION",
       "title": {
-        "sourceLanguage": "mixed",
-        "sourceText": "Overview",
-        "id": "Gambaran Umum"
+        "sourceLanguage": "en",
+        "sourceText": "An Overview of Lesson 7",
+        "id": "Pengantar Pelajaran 7"
       },
       "blocks": [
         {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "en",
-            "sourceText": "An Overview of Lesson 7",
-            "id": "Gambaran Umum Pelajaran 7"
-          }
+          "type": "list",
+          "style": "objectives",
+          "items": [
+            {
+              "sourceLanguage": "en",
+              "sourceText": "• Be able to talk about daily activities",
+              "id": "• Berbicara tentang kegiatan sehari-hari"
+            },
+            {
+              "sourceLanguage": "en",
+              "sourceText": "• Be able to talk about past and future activities",
+              "id": "• Berbicara tentang kegiatan masa lalu dan masa depan"
+            }
+          ]
         },
         {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "mixed",
-            "sourceText": "Objectives",
-            "id": "Objeksi"
-          }
-        },
-        {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "en",
-            "sourceText": "• Be able to talk about daily activities",
-            "id": "Bisa berbicara tentang kegiatan sehari-hari"
-          }
-        },
-        {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "en",
-            "sourceText": "• Be able to talk about past and future activities",
-            "id": "Bisa berbicara tentang aktivitas masa lalu dan masa depan"
-          }
-        },
-        {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "mixed",
-            "sourceText": "Vocabulary",
-            "id": "Kosakata"
-          }
-        },
-        {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "en",
-            "sourceText": "• Days of the Week",
-            "id": "Hari Minggu"
-          }
-        },
-        {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "fil",
-            "sourceText": "• Mag- Verbs",
-            "id": "Vebs Cultivate",
-            "tagalog": "• Mag- Verbs"
-          }
-        },
-        {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "fil",
-            "sourceText": "• -Um- and Ma- Verbs",
-            "id": "-um- dan Ma- Vebs",
-            "tagalog": "• -Um- and Ma- Verbs"
-          }
-        },
-        {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "mixed",
-            "sourceText": "• Prefix",
-            "id": "Prefiks"
-          }
-        },
-        {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "en",
-            "sourceText": "• Adverbs of Time",
-            "id": "Adverbs of Time"
-          }
-        },
-        {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "mixed",
-            "sourceText": "• Time",
-            "id": "Waktu:"
-          }
-        },
-        {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "mixed",
-            "sourceText": "• Adjectives",
-            "id": "Advances"
-          }
-        },
-        {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "mixed",
-            "sourceText": "• Markers",
-            "id": "Markers:"
-          }
-        },
-        {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "mixed",
-            "sourceText": "• Enclitics",
-            "id": "Enkliknya"
-          }
-        },
-        {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "mixed",
-            "sourceText": "• Idioms and Expressions",
-            "id": "Ekspresi dan Idiom"
-          }
-        },
-        {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "mixed",
-            "sourceText": "Dialogue: Ang Buhay May-asawa Married Life",
-            "id": "Dialog:Ang Buhay May- Asawa Married Life"
-          }
-        },
-        {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "mixed",
-            "sourceText": "Reading Comprehension",
-            "id": "Pemahaman Bacaan"
-          }
-        },
-        {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "mixed",
-            "sourceText": "Activities",
-            "id": "Aktivitas"
-          }
-        },
-        {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "mixed",
-            "sourceText": "Activity 1: My Schedule",
-            "id": "Aktivitas 1: Jadwalku"
-          }
-        },
-        {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "mixed",
-            "sourceText": "Activity 2: Interview",
-            "id": "Aktivitas 2: Wawancara"
-          }
-        },
-        {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "mixed",
-            "sourceText": "Activity 3: Mike’s Schedule",
-            "id": "Aktivitas 3: jadwal Mike"
-          }
-        },
-        {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "mixed",
-            "sourceText": "Grammar",
-            "id": "Tata Bahasa"
-          }
-        },
-        {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "en",
-            "sourceText": "Definition of Terms: Actor, Focus of the Verb, Direct Object, Transitive Verb, Intransitive Verb, and Inflect",
-            "id": "Definisi Terms: Aktor, Fokus Verb, Objek Langsung, Verb Transitif, Verb Intransitif, dan Inflect"
-          }
-        },
-        {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "mixed",
-            "sourceText": "Examining Form",
-            "id": "Mengkaji Bentuk"
-          }
+          "type": "list",
+          "style": "outline",
+          "items": [
+            {
+              "sourceLanguage": "mixed",
+              "sourceText": "Vocabulary",
+              "id": "Kosakata"
+            },
+            {
+              "sourceLanguage": "en",
+              "sourceText": "• Days of the Week",
+              "id": "Hari Minggu"
+            },
+            {
+              "sourceLanguage": "fil",
+              "sourceText": "• Mag- Verbs",
+              "id": "Vebs Cultivate",
+              "tagalog": "• Mag- Verbs"
+            },
+            {
+              "sourceLanguage": "fil",
+              "sourceText": "• -Um- and Ma- Verbs",
+              "id": "-um- dan Ma- Vebs",
+              "tagalog": "• -Um- and Ma- Verbs"
+            },
+            {
+              "sourceLanguage": "mixed",
+              "sourceText": "• Prefix",
+              "id": "Prefiks"
+            },
+            {
+              "sourceLanguage": "en",
+              "sourceText": "• Adverbs of Time",
+              "id": "Adverbs of Time"
+            },
+            {
+              "sourceLanguage": "mixed",
+              "sourceText": "• Time",
+              "id": "Waktu:"
+            },
+            {
+              "sourceLanguage": "mixed",
+              "sourceText": "• Adjectives",
+              "id": "Advances"
+            },
+            {
+              "sourceLanguage": "mixed",
+              "sourceText": "• Markers",
+              "id": "Markers:"
+            },
+            {
+              "sourceLanguage": "mixed",
+              "sourceText": "• Enclitics",
+              "id": "Enkliknya"
+            },
+            {
+              "sourceLanguage": "mixed",
+              "sourceText": "• Idioms and Expressions",
+              "id": "Ekspresi dan Idiom"
+            },
+            {
+              "sourceLanguage": "mixed",
+              "sourceText": "Dialogue: Ang Buhay May-asawa Married Life",
+              "id": "Dialog:Ang Buhay May- Asawa Married Life"
+            },
+            {
+              "sourceLanguage": "mixed",
+              "sourceText": "Reading Comprehension",
+              "id": "Pemahaman Bacaan"
+            },
+            {
+              "sourceLanguage": "mixed",
+              "sourceText": "Activities",
+              "id": "Aktivitas"
+            },
+            {
+              "sourceLanguage": "mixed",
+              "sourceText": "Activity 1: My Schedule",
+              "id": "Aktivitas 1: Jadwalku"
+            },
+            {
+              "sourceLanguage": "mixed",
+              "sourceText": "Activity 2: Interview",
+              "id": "Aktivitas 2: Wawancara"
+            },
+            {
+              "sourceLanguage": "mixed",
+              "sourceText": "Activity 3: Mike’s Schedule",
+              "id": "Aktivitas 3: jadwal Mike"
+            },
+            {
+              "sourceLanguage": "mixed",
+              "sourceText": "Grammar",
+              "id": "Tata Bahasa"
+            },
+            {
+              "sourceLanguage": "en",
+              "sourceText": "Definition of Terms: Actor, Focus of the Verb, Direct Object, Transitive Verb, Intransitive Verb, and Inflect",
+              "id": "Definisi Terms: Aktor, Fokus Verb, Objek Langsung, Verb Transitif, Verb Intransitif, dan Inflect"
+            },
+            {
+              "sourceLanguage": "mixed",
+              "sourceText": "Examining Form",
+              "id": "Mengkaji Bentuk"
+            },
+            {
+              "sourceLanguage": "mixed",
+              "sourceText": "Practice",
+              "id": "Latihan"
+            },
+            {
+              "sourceLanguage": "en",
+              "sourceText": "I. Speaking Practice",
+              "id": "I. Latihan Berbicara"
+            },
+            {
+              "sourceLanguage": "mixed",
+              "sourceText": "II. Reading Practice",
+              "id": "II. Latihan Membaca"
+            },
+            {
+              "sourceLanguage": "mixed",
+              "sourceText": "III. Writing Practice",
+              "id": "III. Latihan Menulis"
+            },
+            {
+              "sourceLanguage": "mixed",
+              "sourceText": "IV. Listening Practice",
+              "id": "IV. Latihan Menyimak"
+            }
+          ]
         },
         {
           "type": "table",
@@ -323,57 +253,13 @@
                 }
               ]
             }
-          ]
-        },
-        {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "mixed",
-            "sourceText": "Practice",
-            "id": "Latihan"
-          }
-        },
-        {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "en",
-            "sourceText": "I. Speaking Practice",
-            "id": "I. Latihan Berbicara"
-          }
-        },
-        {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "mixed",
-            "sourceText": "II. Reading Practice",
-            "id": "II. Latihan Membaca"
-          }
-        },
-        {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "mixed",
-            "sourceText": "III. Writing Practice",
-            "id": "III. Latihan Menulis"
-          }
-        },
-        {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "mixed",
-            "sourceText": "IV. Listening Practice",
-            "id": "IV. Latihan Menyimak"
-          }
+          ],
+          "role": "outline"
         }
-      ]
+      ],
+      "id": "lesson-07-01-an-overview-of-lesson-7"
     },
     {
-      "id": "lesson-07-vocabulary",
       "type": "VOCABULARY",
       "title": {
         "sourceLanguage": "mixed",
@@ -383,7 +269,7 @@
       "blocks": [
         {
           "type": "text",
-          "style": "body",
+          "style": "heading",
           "text": {
             "sourceLanguage": "mixed",
             "sourceText": "Vocabulary (07–1)",
@@ -404,1392 +290,1227 @@
           }
         },
         {
-          "type": "table",
-          "rows": [
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "en",
-                  "sourceText": "Days of the Week",
-                  "id": "Hari Minggu"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "Lunes",
-                  "id": "Senin",
-                  "tagalog": "Lunes"
-                },
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "Monday",
-                  "id": "Senin"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "Martes",
-                  "id": "Selasa",
-                  "tagalog": "Martes"
-                },
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "Tuesday",
-                  "id": "Selasa"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "Miyerkules/Miyerkoles",
-                  "id": "Rabu",
-                  "tagalog": "Miyerkules/Miyerkoles"
-                },
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "Wednesday",
-                  "id": "Rabu"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "Huwebes",
-                  "id": "Kamis",
-                  "tagalog": "Huwebes"
-                },
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "Thursday",
-                  "id": "Kamis"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "Biyernes",
-                  "id": "Jumat",
-                  "tagalog": "Biyernes"
-                },
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "Friday",
-                  "id": "Jumat"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "Sabado",
-                  "id": "Sabtu",
-                  "tagalog": "Sabado"
-                },
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "Saturday",
-                  "id": "Sabtu"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "Linggo",
-                  "id": "Minggu",
-                  "tagalog": "Linggo"
-                },
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "Sunday",
-                  "id": "Minggu"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "Mag- Verbs",
-                  "id": "Mag- Verbs"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "mag-ahit",
-                  "id": "untuk mencukur",
-                  "tagalog": "mag-ahit"
-                },
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "to shave",
-                  "id": "untuk mencukur"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "mag-almusal",
-                  "id": "untuk sarapan",
-                  "tagalog": "mag-almusal"
-                },
-                {
-                  "sourceLanguage": "en",
-                  "sourceText": "to have breakfast",
-                  "id": "untuk sarapan"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "magbasa ng diyaryo",
-                  "id": "untuk membaca koran",
-                  "tagalog": "magbasa ng diyaryo"
-                },
-                {
-                  "sourceLanguage": "en",
-                  "sourceText": "to read newspaper",
-                  "id": "untuk membaca koran"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "magbihis",
-                  "id": "untuk mengganti pakaian",
-                  "tagalog": "magbihis"
-                },
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "to change clothes",
-                  "id": "untuk mengganti pakaian"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "magbuhat",
-                  "id": "untuk mengangkat atau meningkatkan sesuatu",
-                  "tagalog": "magbuhat"
-                },
-                {
-                  "sourceLanguage": "en",
-                  "sourceText": "to lift or raise something",
-                  "id": "untuk mengangkat atau meningkatkan sesuatu"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "magdasal",
-                  "id": "untuk berdoa",
-                  "tagalog": "magdasal"
-                },
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "to pray",
-                  "id": "untuk berdoa"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "maghapunan",
-                  "id": "untuk makan malam",
-                  "tagalog": "maghapunan"
-                },
-                {
-                  "sourceLanguage": "en",
-                  "sourceText": "to have dinner",
-                  "id": "untuk makan malam"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "maghilamos",
-                  "id": "untuk mencuci wajah seseorang",
-                  "tagalog": "maghilamos"
-                },
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "to wash one’s face",
-                  "id": "untuk mencuci wajah seseorang"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "maghugas",
-                  "id": "Untuk mencuci sesuatu (tangan).",
-                  "tagalog": "maghugas"
-                },
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "to wash something (dishes, hands, etc.)",
-                  "id": "Untuk mencuci sesuatu (tangan)."
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "magkape",
-                  "id": "untuk minum kopi",
-                  "tagalog": "magkape"
-                },
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "to drink coffee",
-                  "id": "untuk minum kopi"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "magkita",
-                  "id": "untuk bertemu dengan seseorang (pl.)",
-                  "tagalog": "magkita"
-                },
-                {
-                  "sourceLanguage": "en",
-                  "sourceText": "to meet with someone (pl.)",
-                  "id": "untuk bertemu dengan seseorang (pl.)"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "maglaba",
-                  "id": "untuk mencuci pakaian",
-                  "tagalog": "maglaba"
-                },
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "to wash clothes",
-                  "id": "untuk mencuci pakaian"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "maglampaso",
-                  "id": "untuk mengepel lantai",
-                  "tagalog": "maglampaso"
-                },
-                {
-                  "sourceLanguage": "en",
-                  "sourceText": "to mop the floor",
-                  "id": "untuk mengepel lantai"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "maglaro",
-                  "id": "untuk bermain",
-                  "tagalog": "maglaro"
-                },
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "to play",
-                  "id": "untuk bermain"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "maglinis",
-                  "id": "untuk membersihkan",
-                  "tagalog": "maglinis"
-                },
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "to clean",
-                  "id": "untuk membersihkan"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "magluto",
-                  "id": "memasak",
-                  "tagalog": "magluto"
-                },
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "to cook",
-                  "id": "memasak"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "magmaneho papunta sa~",
-                  "id": "ke drive ke",
-                  "tagalog": "magmaneho papunta sa~"
-                },
-                {
-                  "sourceLanguage": "en",
-                  "sourceText": "to drive to",
-                  "id": "ke drive ke"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "magmiryenda/ magmeryenda",
-                  "id": "untuk memiliki makanan ringan",
-                  "tagalog": "magmiryenda/ magmeryenda"
-                },
-                {
-                  "sourceLanguage": "en",
-                  "sourceText": "to have a snack",
-                  "id": "untuk memiliki makanan ringan"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "magmumog",
-                  "id": "untuk membilas atau mencuci mulut seseorang dengan gargling",
-                  "tagalog": "magmumog"
-                },
-                {
-                  "sourceLanguage": "en",
-                  "sourceText": "to rinse or wash one’s mouth by gargling",
-                  "id": "untuk membilas atau mencuci mulut seseorang dengan gargling"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "magpabango",
-                  "id": "untuk menggunakan parfum / cologne",
-                  "tagalog": "magpabango"
-                },
-                {
-                  "sourceLanguage": "en",
-                  "sourceText": "to use perfume/ cologne",
-                  "id": "untuk menggunakan parfum / cologne"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "magpahinga",
-                  "id": "untuk beristirahat",
-                  "tagalog": "magpahinga"
-                },
-                {
-                  "sourceLanguage": "en",
-                  "sourceText": "to take a rest",
-                  "id": "untuk beristirahat"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "magpunta sa bahay ng kaibigan",
-                  "id": "untuk pergi ke rumah teman",
-                  "tagalog": "magpunta sa bahay ng kaibigan"
-                },
-                {
-                  "sourceLanguage": "en",
-                  "sourceText": "to go to a friend’s house",
-                  "id": "untuk pergi ke rumah teman"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "magsaing",
-                  "id": "Untuk memasak nasi",
-                  "tagalog": "magsaing"
-                },
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "to cook rice",
-                  "id": "Untuk memasak nasi"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "magsayaw",
-                  "id": "menari",
-                  "tagalog": "magsayaw"
-                },
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "to dance",
-                  "id": "menari"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "magsimba",
-                  "id": "untuk pergi ke gereja, untuk mendengar massa",
-                  "tagalog": "magsimba"
-                },
-                {
-                  "sourceLanguage": "en",
-                  "sourceText": "to go to church, to hear mass",
-                  "id": "untuk pergi ke gereja, untuk mendengar massa"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "magsipilyo/ magsepilyo",
-                  "id": "untuk sikat gigi",
-                  "tagalog": "magsipilyo/ magsepilyo"
-                },
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "to brush teeth",
-                  "id": "untuk sikat gigi"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "magsuklay",
-                  "id": "sisir rambut",
-                  "tagalog": "magsuklay"
-                },
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "comb hair",
-                  "id": "sisir rambut"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "magsulat",
-                  "id": "untuk menulis",
-                  "tagalog": "magsulat"
-                },
-                {
-                  "sourceLanguage": "en",
-                  "sourceText": "to write",
-                  "id": "untuk menulis"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "magsuot",
-                  "id": "untuk memakai sesuatu",
-                  "tagalog": "magsuot"
-                },
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "to wear something",
-                  "id": "untuk memakai sesuatu"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "magtanghalian",
-                  "id": "untuk makan siang",
-                  "tagalog": "magtanghalian"
-                },
-                {
-                  "sourceLanguage": "en",
-                  "sourceText": "to have lunch",
-                  "id": "untuk makan siang"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "magtrabaho",
-                  "id": "bekerja",
-                  "tagalog": "magtrabaho"
-                },
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "to work",
-                  "id": "bekerja"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "magturo",
-                  "id": "untuk mengajar",
-                  "tagalog": "magturo"
-                },
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "to teach",
-                  "id": "untuk mengajar"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "mag-usap",
-                  "id": "untuk berbicara dengan seseorang (aktor plural)",
-                  "tagalog": "mag-usap"
-                },
-                {
-                  "sourceLanguage": "en",
-                  "sourceText": "to talk with someone (plural actor)",
-                  "id": "untuk berbicara dengan seseorang (aktor plural)"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "en",
-                  "sourceText": "Adverbs of Time",
-                  "id": "Adverbs of Time"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "bukas",
-                  "id": "besok",
-                  "tagalog": "bukas"
-                },
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "tomorrow",
-                  "id": "besok"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "hanggang",
-                  "id": "sampai",
-                  "tagalog": "hanggang"
-                },
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "until",
-                  "id": "sampai"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "kahapon",
-                  "id": "kemarin",
-                  "tagalog": "kahapon"
-                },
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "yesterday",
-                  "id": "kemarin"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "pagkatapos/tapos",
-                  "id": "sesudah",
-                  "tagalog": "pagkatapos/tapos"
-                },
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "after",
-                  "id": "sesudah"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "tuwing",
-                  "id": "setiap",
-                  "tagalog": "tuwing"
-                },
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "every",
-                  "id": "setiap"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "Time",
-                  "id": "Waktu"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "ala una",
-                  "id": "jam satu",
-                  "tagalog": "ala una"
-                },
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "one o’clock",
-                  "id": "jam satu"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "alas dos",
-                  "id": "arah jam dua",
-                  "tagalog": "alas dos"
-                },
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "two o’clock",
-                  "id": "arah jam dua"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "alas tres",
-                  "id": "Arah jam tiga.",
-                  "tagalog": "alas tres"
-                },
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "three o’clock",
-                  "id": "Arah jam tiga."
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "alas kuwatro",
-                  "id": "04: 00",
-                  "tagalog": "alas kuwatro"
-                },
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "four o’clock",
-                  "id": "04: 00"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "alas singko",
-                  "id": "pukul lima",
-                  "tagalog": "alas singko"
-                },
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "five o’clock",
-                  "id": "pukul lima"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "alas sais",
-                  "id": "06: 00",
-                  "tagalog": "alas sais"
-                },
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "six o’clock",
-                  "id": "06: 00"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "alas siyete",
-                  "id": "Arah jam 7.",
-                  "tagalog": "alas siyete"
-                },
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "seven o’clock",
-                  "id": "Arah jam 7."
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "alas otso",
-                  "id": "08: 00",
-                  "tagalog": "alas otso"
-                },
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "eight o’clock",
-                  "id": "08: 00"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "alas nuwebe",
-                  "id": "arah jam 9.",
-                  "tagalog": "alas nuwebe"
-                },
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "nine o’clock",
-                  "id": "arah jam 9."
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "alas diyes",
-                  "id": "Jam sepuluh.",
-                  "tagalog": "alas diyes"
-                },
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "ten o’clock",
-                  "id": "Jam sepuluh."
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "alas onse",
-                  "id": "Arah jam 11.",
-                  "tagalog": "alas onse"
-                },
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "eleven o’clock",
-                  "id": "Arah jam 11."
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "alas dose",
-                  "id": "Arah jam 12.",
-                  "tagalog": "alas dose"
-                },
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "twelve o’clock",
-                  "id": "Arah jam 12."
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "Enclitics",
-                  "id": "Enkliknya"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "naman",
-                  "id": "di sisi lain",
-                  "tagalog": "naman"
-                },
-                {
-                  "sourceLanguage": "en",
-                  "sourceText": "on the other hand",
-                  "id": "di sisi lain"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "-Um- and Ma- Verbs",
-                  "id": "-Um- dan Ma- Verbs"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "en",
-                  "sourceText": "(The rules for the inflection of the following -um- and ma- verbs will be discussed in later lessons.)",
-                  "id": "(Aturan untuk infleksi berikut -um - dan kata kerja akan dibahas dalam pelajaran kemudian.)"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "dumating",
-                  "id": "untuk tiba; tiba",
-                  "tagalog": "dumating"
-                },
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "to arrive; arrived",
-                  "id": "untuk tiba; tiba"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "dumadating",
-                  "id": "sudah tiba",
-                  "tagalog": "dumadating"
-                },
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "is arriving",
-                  "id": "sudah tiba"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "dadating/darating",
-                  "id": "akan tiba",
-                  "tagalog": "dadating/darating"
-                },
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "will arrive",
-                  "id": "akan tiba"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "gumising",
-                  "id": "untuk bangun; bangun",
-                  "tagalog": "gumising"
-                },
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "to wake up; woke up",
-                  "id": "untuk bangun; bangun"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "gumigising",
-                  "id": "adalah bangun",
-                  "tagalog": "gumigising"
-                },
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "is waking up",
-                  "id": "adalah bangun"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "gigising",
-                  "id": "akan bangun",
-                  "tagalog": "gigising"
-                },
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "will wake up",
-                  "id": "akan bangun"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "naligo",
-                  "id": "mandi, mandi",
-                  "tagalog": "naligo"
-                },
-                {
-                  "sourceLanguage": "en",
-                  "sourceText": "took a shower, took a bath",
-                  "id": "mandi, mandi"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "naliligo",
-                  "id": "sedang mandi / mandi, mandi",
-                  "tagalog": "naliligo"
-                },
-                {
-                  "sourceLanguage": "en",
-                  "sourceText": "is taking/takes a shower, taking a bath",
-                  "id": "sedang mandi / mandi, mandi"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "maliligo",
-                  "id": "akan mandi, mandi",
-                  "tagalog": "maliligo"
-                },
-                {
-                  "sourceLanguage": "en",
-                  "sourceText": "will take a shower, will take a bath",
-                  "id": "akan mandi, mandi"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "pumasok",
-                  "id": "pergi bekerja / sekolah",
-                  "tagalog": "pumasok"
-                },
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "went to work/ school",
-                  "id": "pergi bekerja / sekolah"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "pumapasok",
-                  "id": "akan bekerja / sekolah",
-                  "tagalog": "pumapasok"
-                },
-                {
-                  "sourceLanguage": "en",
-                  "sourceText": "is going to work/ school",
-                  "id": "akan bekerja / sekolah"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "papasok",
-                  "id": "akan pergi bekerja / sekolah",
-                  "tagalog": "papasok"
-                },
-                {
-                  "sourceLanguage": "en",
-                  "sourceText": "will go to work/ school",
-                  "id": "akan pergi bekerja / sekolah"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "umuwi",
-                  "id": "untuk pergi / pulang ke rumah; pergi / pulang",
-                  "tagalog": "umuwi"
-                },
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "to go/come home; went/came home",
-                  "id": "untuk pergi / pulang ke rumah; pergi / pulang"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "umuuwi",
-                  "id": "akan pulang",
-                  "tagalog": "umuuwi"
-                },
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "is going/coming home",
-                  "id": "akan pulang"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "uuwi",
-                  "id": "akan pergi / pulang",
-                  "tagalog": "uuwi"
-                },
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "will go/come home",
-                  "id": "akan pergi / pulang"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "Adjectives",
-                  "id": "Kata sifat"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "mahirap",
-                  "id": "sulit",
-                  "tagalog": "mahirap"
-                },
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "difficult",
-                  "id": "sulit"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "masuwerte",
-                  "id": "beruntung",
-                  "tagalog": "masuwerte"
-                },
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "lucky",
-                  "id": "beruntung"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "Markers",
-                  "id": "Penanda"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "nang",
-                  "id": "penanda waktu",
-                  "tagalog": "nang"
-                },
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "time marker",
-                  "id": "penanda waktu"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "ng",
-                  "id": "tandai objek langsung tunggal",
-                  "tagalog": "ng"
-                },
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "marks singular direct object",
-                  "id": "tandai objek langsung tunggal"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "ng mga",
-                  "id": "tandai dua atau lebih objek langsung",
-                  "tagalog": "ng mga"
-                },
-                {
-                  "sourceLanguage": "en",
-                  "sourceText": "marks two or more direct objects",
-                  "id": "tandai dua atau lebih objek langsung"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "sa",
-                  "id": "penanda masa depan",
-                  "tagalog": "sa"
-                },
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "future marker",
-                  "id": "penanda masa depan"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "Prefix",
-                  "id": "Awalan"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "mag-",
-                  "id": "affix digunakan untuk membentuk kata kerja yang subjek atau fokus adalah pelaku aksi dalam sebuah kalimat, maka aktor- fokus. Mag- berarti untuk melakukan apa yang ditunjukkan oleh kata akar.",
-                  "tagalog": "mag-"
-                },
-                {
-                  "sourceLanguage": "en",
-                  "sourceText": "an affix used to form verbs whose subject or focus is the doer of the action in a sentence, hence actor-focus. Mag- means to do what is indicated by the root word.",
-                  "id": "affix digunakan untuk membentuk kata kerja yang subjek atau fokus adalah pelaku aksi dalam sebuah kalimat, maka aktor- fokus. Mag- berarti untuk melakukan apa yang ditunjukkan oleh kata akar."
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "Idioms and Expressions",
-                  "id": "Idiom and Expressions"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "Ano’ng ginagawa mo tuwing . . .",
-                  "id": "Apa yang Anda lakukan setiap...",
-                  "tagalog": "Ano’ng ginagawa mo tuwing . . ."
-                },
-                {
-                  "sourceLanguage": "en",
-                  "sourceText": "What do you do every . . .",
-                  "id": "Apa yang Anda lakukan setiap..."
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "(Lunes, ikalawang linggo, Setyembre, atbp.)",
-                  "id": "(Senin, minggu, bulan, dll)?",
-                  "tagalog": "(Lunes, ikalawang linggo, Setyembre, atbp.)"
-                },
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "(Monday, week, month, etc.)?",
-                  "id": "(Senin, minggu, bulan, dll)?"
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "Sa palagay ko . . .",
-                  "id": "Saya pikir..",
-                  "tagalog": "Sa palagay ko . . ."
-                },
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "I think . . .",
-                  "id": "Saya pikir.."
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "Sabihin mo nga sa akin kung ano . . .",
-                  "id": "Tolong katakan padaku apa..",
-                  "tagalog": "Sabihin mo nga sa akin kung ano . . ."
-                },
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "Please tell me what . . .",
-                  "id": "Tolong katakan padaku apa.."
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "Totoo ‘yan.",
-                  "id": "Itu benar.",
-                  "tagalog": "Totoo ‘yan."
-                },
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "That’s true.",
-                  "id": "Itu benar."
-                }
-              ]
+          "type": "vocabulary",
+          "entries": [
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "Lunes",
+                "id": "Senin",
+                "tagalog": "Lunes"
+              },
+              "meaning": {
+                "sourceLanguage": "mixed",
+                "sourceText": "Monday",
+                "id": "Senin"
+              }
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "Martes",
+                "id": "Selasa",
+                "tagalog": "Martes"
+              },
+              "meaning": {
+                "sourceLanguage": "mixed",
+                "sourceText": "Tuesday",
+                "id": "Selasa"
+              }
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "Miyerkules/Miyerkoles",
+                "id": "Rabu",
+                "tagalog": "Miyerkules/Miyerkoles"
+              },
+              "meaning": {
+                "sourceLanguage": "mixed",
+                "sourceText": "Wednesday",
+                "id": "Rabu"
+              }
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "Huwebes",
+                "id": "Kamis",
+                "tagalog": "Huwebes"
+              },
+              "meaning": {
+                "sourceLanguage": "mixed",
+                "sourceText": "Thursday",
+                "id": "Kamis"
+              }
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "Biyernes",
+                "id": "Jumat",
+                "tagalog": "Biyernes"
+              },
+              "meaning": {
+                "sourceLanguage": "mixed",
+                "sourceText": "Friday",
+                "id": "Jumat"
+              }
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "Sabado",
+                "id": "Sabtu",
+                "tagalog": "Sabado"
+              },
+              "meaning": {
+                "sourceLanguage": "mixed",
+                "sourceText": "Saturday",
+                "id": "Sabtu"
+              }
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "Linggo",
+                "id": "Minggu",
+                "tagalog": "Linggo"
+              },
+              "meaning": {
+                "sourceLanguage": "mixed",
+                "sourceText": "Sunday",
+                "id": "Minggu"
+              }
             }
-          ]
+          ],
+          "title": {
+            "sourceLanguage": "en",
+            "sourceText": "Days of the Week",
+            "id": "Hari Minggu"
+          }
+        },
+        {
+          "type": "vocabulary",
+          "entries": [
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "mag-ahit",
+                "id": "untuk mencukur",
+                "tagalog": "mag-ahit"
+              },
+              "meaning": {
+                "sourceLanguage": "mixed",
+                "sourceText": "to shave",
+                "id": "untuk mencukur"
+              }
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "mag-almusal",
+                "id": "untuk sarapan",
+                "tagalog": "mag-almusal"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "to have breakfast",
+                "id": "untuk sarapan"
+              }
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "magbasa ng diyaryo",
+                "id": "untuk membaca koran",
+                "tagalog": "magbasa ng diyaryo"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "to read newspaper",
+                "id": "untuk membaca koran"
+              }
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "magbihis",
+                "id": "untuk mengganti pakaian",
+                "tagalog": "magbihis"
+              },
+              "meaning": {
+                "sourceLanguage": "mixed",
+                "sourceText": "to change clothes",
+                "id": "untuk mengganti pakaian"
+              }
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "magbuhat",
+                "id": "untuk mengangkat atau meningkatkan sesuatu",
+                "tagalog": "magbuhat"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "to lift or raise something",
+                "id": "untuk mengangkat atau meningkatkan sesuatu"
+              }
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "magdasal",
+                "id": "untuk berdoa",
+                "tagalog": "magdasal"
+              },
+              "meaning": {
+                "sourceLanguage": "mixed",
+                "sourceText": "to pray",
+                "id": "untuk berdoa"
+              }
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "maghapunan",
+                "id": "untuk makan malam",
+                "tagalog": "maghapunan"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "to have dinner",
+                "id": "untuk makan malam"
+              }
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "maghilamos",
+                "id": "untuk mencuci wajah seseorang",
+                "tagalog": "maghilamos"
+              },
+              "meaning": {
+                "sourceLanguage": "mixed",
+                "sourceText": "to wash one’s face",
+                "id": "untuk mencuci wajah seseorang"
+              }
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "maghugas",
+                "id": "Untuk mencuci sesuatu (tangan).",
+                "tagalog": "maghugas"
+              },
+              "meaning": {
+                "sourceLanguage": "mixed",
+                "sourceText": "to wash something (dishes, hands, etc.)",
+                "id": "Untuk mencuci sesuatu (tangan)."
+              }
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "magkape",
+                "id": "untuk minum kopi",
+                "tagalog": "magkape"
+              },
+              "meaning": {
+                "sourceLanguage": "mixed",
+                "sourceText": "to drink coffee",
+                "id": "untuk minum kopi"
+              }
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "magkita",
+                "id": "untuk bertemu dengan seseorang (pl.)",
+                "tagalog": "magkita"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "to meet with someone (pl.)",
+                "id": "untuk bertemu dengan seseorang (pl.)"
+              }
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "maglaba",
+                "id": "untuk mencuci pakaian",
+                "tagalog": "maglaba"
+              },
+              "meaning": {
+                "sourceLanguage": "mixed",
+                "sourceText": "to wash clothes",
+                "id": "untuk mencuci pakaian"
+              }
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "maglampaso",
+                "id": "untuk mengepel lantai",
+                "tagalog": "maglampaso"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "to mop the floor",
+                "id": "untuk mengepel lantai"
+              }
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "maglaro",
+                "id": "untuk bermain",
+                "tagalog": "maglaro"
+              },
+              "meaning": {
+                "sourceLanguage": "mixed",
+                "sourceText": "to play",
+                "id": "untuk bermain"
+              }
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "maglinis",
+                "id": "untuk membersihkan",
+                "tagalog": "maglinis"
+              },
+              "meaning": {
+                "sourceLanguage": "mixed",
+                "sourceText": "to clean",
+                "id": "untuk membersihkan"
+              }
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "magluto",
+                "id": "memasak",
+                "tagalog": "magluto"
+              },
+              "meaning": {
+                "sourceLanguage": "mixed",
+                "sourceText": "to cook",
+                "id": "memasak"
+              }
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "magmaneho papunta sa~",
+                "id": "ke drive ke",
+                "tagalog": "magmaneho papunta sa~"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "to drive to",
+                "id": "ke drive ke"
+              }
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "magmiryenda/ magmeryenda",
+                "id": "untuk memiliki makanan ringan",
+                "tagalog": "magmiryenda/ magmeryenda"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "to have a snack",
+                "id": "untuk memiliki makanan ringan"
+              }
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "magmumog",
+                "id": "untuk membilas atau mencuci mulut seseorang dengan gargling",
+                "tagalog": "magmumog"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "to rinse or wash one’s mouth by gargling",
+                "id": "untuk membilas atau mencuci mulut seseorang dengan gargling"
+              }
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "magpabango",
+                "id": "untuk menggunakan parfum / cologne",
+                "tagalog": "magpabango"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "to use perfume/ cologne",
+                "id": "untuk menggunakan parfum / cologne"
+              }
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "magpahinga",
+                "id": "untuk beristirahat",
+                "tagalog": "magpahinga"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "to take a rest",
+                "id": "untuk beristirahat"
+              }
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "magpunta sa bahay ng kaibigan",
+                "id": "untuk pergi ke rumah teman",
+                "tagalog": "magpunta sa bahay ng kaibigan"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "to go to a friend’s house",
+                "id": "untuk pergi ke rumah teman"
+              }
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "magsaing",
+                "id": "Untuk memasak nasi",
+                "tagalog": "magsaing"
+              },
+              "meaning": {
+                "sourceLanguage": "mixed",
+                "sourceText": "to cook rice",
+                "id": "Untuk memasak nasi"
+              }
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "magsayaw",
+                "id": "menari",
+                "tagalog": "magsayaw"
+              },
+              "meaning": {
+                "sourceLanguage": "mixed",
+                "sourceText": "to dance",
+                "id": "menari"
+              }
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "magsimba",
+                "id": "untuk pergi ke gereja, untuk mendengar massa",
+                "tagalog": "magsimba"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "to go to church, to hear mass",
+                "id": "untuk pergi ke gereja, untuk mendengar massa"
+              }
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "magsipilyo/ magsepilyo",
+                "id": "untuk sikat gigi",
+                "tagalog": "magsipilyo/ magsepilyo"
+              },
+              "meaning": {
+                "sourceLanguage": "mixed",
+                "sourceText": "to brush teeth",
+                "id": "untuk sikat gigi"
+              }
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "magsuklay",
+                "id": "sisir rambut",
+                "tagalog": "magsuklay"
+              },
+              "meaning": {
+                "sourceLanguage": "mixed",
+                "sourceText": "comb hair",
+                "id": "sisir rambut"
+              }
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "magsulat",
+                "id": "untuk menulis",
+                "tagalog": "magsulat"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "to write",
+                "id": "untuk menulis"
+              }
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "magsuot",
+                "id": "untuk memakai sesuatu",
+                "tagalog": "magsuot"
+              },
+              "meaning": {
+                "sourceLanguage": "mixed",
+                "sourceText": "to wear something",
+                "id": "untuk memakai sesuatu"
+              }
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "magtanghalian",
+                "id": "untuk makan siang",
+                "tagalog": "magtanghalian"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "to have lunch",
+                "id": "untuk makan siang"
+              }
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "magtrabaho",
+                "id": "bekerja",
+                "tagalog": "magtrabaho"
+              },
+              "meaning": {
+                "sourceLanguage": "mixed",
+                "sourceText": "to work",
+                "id": "bekerja"
+              }
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "magturo",
+                "id": "untuk mengajar",
+                "tagalog": "magturo"
+              },
+              "meaning": {
+                "sourceLanguage": "mixed",
+                "sourceText": "to teach",
+                "id": "untuk mengajar"
+              }
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "mag-usap",
+                "id": "untuk berbicara dengan seseorang (aktor plural)",
+                "tagalog": "mag-usap"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "to talk with someone (plural actor)",
+                "id": "untuk berbicara dengan seseorang (aktor plural)"
+              }
+            }
+          ],
+          "title": {
+            "sourceLanguage": "mixed",
+            "sourceText": "Mag- Verbs",
+            "id": "Mag- Verbs"
+          }
+        },
+        {
+          "type": "vocabulary",
+          "entries": [
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "bukas",
+                "id": "besok",
+                "tagalog": "bukas"
+              },
+              "meaning": {
+                "sourceLanguage": "mixed",
+                "sourceText": "tomorrow",
+                "id": "besok"
+              }
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "hanggang",
+                "id": "sampai",
+                "tagalog": "hanggang"
+              },
+              "meaning": {
+                "sourceLanguage": "mixed",
+                "sourceText": "until",
+                "id": "sampai"
+              }
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "kahapon",
+                "id": "kemarin",
+                "tagalog": "kahapon"
+              },
+              "meaning": {
+                "sourceLanguage": "mixed",
+                "sourceText": "yesterday",
+                "id": "kemarin"
+              }
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "pagkatapos/tapos",
+                "id": "sesudah",
+                "tagalog": "pagkatapos/tapos"
+              },
+              "meaning": {
+                "sourceLanguage": "mixed",
+                "sourceText": "after",
+                "id": "sesudah"
+              }
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "tuwing",
+                "id": "setiap",
+                "tagalog": "tuwing"
+              },
+              "meaning": {
+                "sourceLanguage": "mixed",
+                "sourceText": "every",
+                "id": "setiap"
+              }
+            }
+          ],
+          "title": {
+            "sourceLanguage": "en",
+            "sourceText": "Adverbs of Time",
+            "id": "Kata keterangan of Time"
+          }
+        },
+        {
+          "type": "vocabulary",
+          "entries": [
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "ala una",
+                "id": "jam satu",
+                "tagalog": "ala una"
+              },
+              "meaning": {
+                "sourceLanguage": "mixed",
+                "sourceText": "one o’clock",
+                "id": "jam satu"
+              }
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "alas dos",
+                "id": "arah jam dua",
+                "tagalog": "alas dos"
+              },
+              "meaning": {
+                "sourceLanguage": "mixed",
+                "sourceText": "two o’clock",
+                "id": "arah jam dua"
+              }
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "alas tres",
+                "id": "Arah jam tiga.",
+                "tagalog": "alas tres"
+              },
+              "meaning": {
+                "sourceLanguage": "mixed",
+                "sourceText": "three o’clock",
+                "id": "Arah jam tiga."
+              }
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "alas kuwatro",
+                "id": "04: 00",
+                "tagalog": "alas kuwatro"
+              },
+              "meaning": {
+                "sourceLanguage": "mixed",
+                "sourceText": "four o’clock",
+                "id": "04: 00"
+              }
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "alas singko",
+                "id": "pukul lima",
+                "tagalog": "alas singko"
+              },
+              "meaning": {
+                "sourceLanguage": "mixed",
+                "sourceText": "five o’clock",
+                "id": "pukul lima"
+              }
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "alas sais",
+                "id": "06: 00",
+                "tagalog": "alas sais"
+              },
+              "meaning": {
+                "sourceLanguage": "mixed",
+                "sourceText": "six o’clock",
+                "id": "06: 00"
+              }
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "alas siyete",
+                "id": "Arah jam 7.",
+                "tagalog": "alas siyete"
+              },
+              "meaning": {
+                "sourceLanguage": "mixed",
+                "sourceText": "seven o’clock",
+                "id": "Arah jam 7."
+              }
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "alas otso",
+                "id": "08: 00",
+                "tagalog": "alas otso"
+              },
+              "meaning": {
+                "sourceLanguage": "mixed",
+                "sourceText": "eight o’clock",
+                "id": "08: 00"
+              }
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "alas nuwebe",
+                "id": "arah jam 9.",
+                "tagalog": "alas nuwebe"
+              },
+              "meaning": {
+                "sourceLanguage": "mixed",
+                "sourceText": "nine o’clock",
+                "id": "arah jam 9."
+              }
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "alas diyes",
+                "id": "Jam sepuluh.",
+                "tagalog": "alas diyes"
+              },
+              "meaning": {
+                "sourceLanguage": "mixed",
+                "sourceText": "ten o’clock",
+                "id": "Jam sepuluh."
+              }
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "alas onse",
+                "id": "Arah jam 11.",
+                "tagalog": "alas onse"
+              },
+              "meaning": {
+                "sourceLanguage": "mixed",
+                "sourceText": "eleven o’clock",
+                "id": "Arah jam 11."
+              }
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "alas dose",
+                "id": "Arah jam 12.",
+                "tagalog": "alas dose"
+              },
+              "meaning": {
+                "sourceLanguage": "mixed",
+                "sourceText": "twelve o’clock",
+                "id": "Arah jam 12."
+              }
+            }
+          ],
+          "title": {
+            "sourceLanguage": "mixed",
+            "sourceText": "Time",
+            "id": "Waktu"
+          }
+        },
+        {
+          "type": "vocabulary",
+          "entries": [
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "naman",
+                "id": "di sisi lain",
+                "tagalog": "naman"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "on the other hand",
+                "id": "di sisi lain"
+              }
+            }
+          ],
+          "title": {
+            "sourceLanguage": "mixed",
+            "sourceText": "Enclitics",
+            "id": "Enkliknya"
+          }
+        },
+        {
+          "type": "text",
+          "style": "heading",
+          "text": {
+            "sourceLanguage": "mixed",
+            "sourceText": "-Um- and Ma- Verbs",
+            "id": "-Um- dan Ma- Verbs"
+          }
+        },
+        {
+          "type": "vocabulary",
+          "entries": [
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "dumating",
+                "id": "untuk tiba; tiba",
+                "tagalog": "dumating"
+              },
+              "meaning": {
+                "sourceLanguage": "mixed",
+                "sourceText": "to arrive; arrived",
+                "id": "untuk tiba; tiba"
+              }
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "dumadating",
+                "id": "sudah tiba",
+                "tagalog": "dumadating"
+              },
+              "meaning": {
+                "sourceLanguage": "mixed",
+                "sourceText": "is arriving",
+                "id": "sudah tiba"
+              }
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "dadating/darating",
+                "id": "akan tiba",
+                "tagalog": "dadating/darating"
+              },
+              "meaning": {
+                "sourceLanguage": "mixed",
+                "sourceText": "will arrive",
+                "id": "akan tiba"
+              }
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "gumising",
+                "id": "untuk bangun; bangun",
+                "tagalog": "gumising"
+              },
+              "meaning": {
+                "sourceLanguage": "mixed",
+                "sourceText": "to wake up; woke up",
+                "id": "untuk bangun; bangun"
+              }
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "gumigising",
+                "id": "adalah bangun",
+                "tagalog": "gumigising"
+              },
+              "meaning": {
+                "sourceLanguage": "mixed",
+                "sourceText": "is waking up",
+                "id": "adalah bangun"
+              }
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "gigising",
+                "id": "akan bangun",
+                "tagalog": "gigising"
+              },
+              "meaning": {
+                "sourceLanguage": "mixed",
+                "sourceText": "will wake up",
+                "id": "akan bangun"
+              }
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "naligo",
+                "id": "mandi, mandi",
+                "tagalog": "naligo"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "took a shower, took a bath",
+                "id": "mandi, mandi"
+              }
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "naliligo",
+                "id": "sedang mandi / mandi, mandi",
+                "tagalog": "naliligo"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "is taking/takes a shower, taking a bath",
+                "id": "sedang mandi / mandi, mandi"
+              }
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "maliligo",
+                "id": "akan mandi, mandi",
+                "tagalog": "maliligo"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "will take a shower, will take a bath",
+                "id": "akan mandi, mandi"
+              }
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "pumasok",
+                "id": "pergi bekerja / sekolah",
+                "tagalog": "pumasok"
+              },
+              "meaning": {
+                "sourceLanguage": "mixed",
+                "sourceText": "went to work/ school",
+                "id": "pergi bekerja / sekolah"
+              }
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "pumapasok",
+                "id": "akan bekerja / sekolah",
+                "tagalog": "pumapasok"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "is going to work/ school",
+                "id": "akan bekerja / sekolah"
+              }
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "papasok",
+                "id": "akan pergi bekerja / sekolah",
+                "tagalog": "papasok"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "will go to work/ school",
+                "id": "akan pergi bekerja / sekolah"
+              }
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "umuwi",
+                "id": "untuk pergi / pulang ke rumah; pergi / pulang",
+                "tagalog": "umuwi"
+              },
+              "meaning": {
+                "sourceLanguage": "mixed",
+                "sourceText": "to go/come home; went/came home",
+                "id": "untuk pergi / pulang ke rumah; pergi / pulang"
+              }
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "umuuwi",
+                "id": "akan pulang",
+                "tagalog": "umuuwi"
+              },
+              "meaning": {
+                "sourceLanguage": "mixed",
+                "sourceText": "is going/coming home",
+                "id": "akan pulang"
+              }
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "uuwi",
+                "id": "akan pergi / pulang",
+                "tagalog": "uuwi"
+              },
+              "meaning": {
+                "sourceLanguage": "mixed",
+                "sourceText": "will go/come home",
+                "id": "akan pergi / pulang"
+              }
+            }
+          ],
+          "title": {
+            "sourceLanguage": "en",
+            "sourceText": "(The rules for the inflection of the following -um- and ma- verbs will be discussed in later lessons.)",
+            "id": "(Aturan untuk infleksi berikut -um - dan kata kerja akan dibahas dalam pelajaran kemudian.)"
+          }
+        },
+        {
+          "type": "vocabulary",
+          "entries": [
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "mahirap",
+                "id": "sulit",
+                "tagalog": "mahirap"
+              },
+              "meaning": {
+                "sourceLanguage": "mixed",
+                "sourceText": "difficult",
+                "id": "sulit"
+              }
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "masuwerte",
+                "id": "beruntung",
+                "tagalog": "masuwerte"
+              },
+              "meaning": {
+                "sourceLanguage": "mixed",
+                "sourceText": "lucky",
+                "id": "beruntung"
+              }
+            }
+          ],
+          "title": {
+            "sourceLanguage": "mixed",
+            "sourceText": "Adjectives",
+            "id": "Kata sifat"
+          }
+        },
+        {
+          "type": "vocabulary",
+          "entries": [
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "nang",
+                "id": "penanda waktu",
+                "tagalog": "nang"
+              },
+              "meaning": {
+                "sourceLanguage": "mixed",
+                "sourceText": "time marker",
+                "id": "penanda waktu"
+              }
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "ng",
+                "id": "tandai objek langsung tunggal",
+                "tagalog": "ng"
+              },
+              "meaning": {
+                "sourceLanguage": "mixed",
+                "sourceText": "marks singular direct object",
+                "id": "tandai objek langsung tunggal"
+              }
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "ng mga",
+                "id": "tandai dua atau lebih objek langsung",
+                "tagalog": "ng mga"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "marks two or more direct objects",
+                "id": "tandai dua atau lebih objek langsung"
+              }
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "sa",
+                "id": "penanda masa depan",
+                "tagalog": "sa"
+              },
+              "meaning": {
+                "sourceLanguage": "mixed",
+                "sourceText": "future marker",
+                "id": "penanda masa depan"
+              }
+            }
+          ],
+          "title": {
+            "sourceLanguage": "mixed",
+            "sourceText": "Markers",
+            "id": "Penanda"
+          }
+        },
+        {
+          "type": "vocabulary",
+          "entries": [
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "mag-",
+                "id": "affix digunakan untuk membentuk kata kerja yang subjek atau fokus adalah pelaku aksi dalam sebuah kalimat, maka aktor- fokus. Mag- berarti untuk melakukan apa yang ditunjukkan oleh kata akar.",
+                "tagalog": "mag-"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "an affix used to form verbs whose subject or focus is the doer of the action in a sentence, hence actor-focus. Mag- means to do what is indicated by the root word.",
+                "id": "affix digunakan untuk membentuk kata kerja yang subjek atau fokus adalah pelaku aksi dalam sebuah kalimat, maka aktor- fokus. Mag- berarti untuk melakukan apa yang ditunjukkan oleh kata akar."
+              }
+            }
+          ],
+          "title": {
+            "sourceLanguage": "mixed",
+            "sourceText": "Prefix",
+            "id": "Awalan"
+          }
+        },
+        {
+          "type": "vocabulary",
+          "entries": [
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "Ano’ng ginagawa mo tuwing . . .",
+                "id": "Apa yang Anda lakukan setiap...",
+                "tagalog": "Ano’ng ginagawa mo tuwing . . ."
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "What do you do every . . .",
+                "id": "Apa yang Anda lakukan setiap..."
+              }
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "(Lunes, ikalawang linggo, Setyembre, atbp.)",
+                "id": "(Senin, minggu, bulan, dll)?",
+                "tagalog": "(Lunes, ikalawang linggo, Setyembre, atbp.)"
+              },
+              "meaning": {
+                "sourceLanguage": "mixed",
+                "sourceText": "(Monday, week, month, etc.)?",
+                "id": "(Senin, minggu, bulan, dll)?"
+              }
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "Sa palagay ko . . .",
+                "id": "Saya pikir..",
+                "tagalog": "Sa palagay ko . . ."
+              },
+              "meaning": {
+                "sourceLanguage": "mixed",
+                "sourceText": "I think . . .",
+                "id": "Saya pikir.."
+              }
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "Sabihin mo nga sa akin kung ano . . .",
+                "id": "Tolong katakan padaku apa..",
+                "tagalog": "Sabihin mo nga sa akin kung ano . . ."
+              },
+              "meaning": {
+                "sourceLanguage": "mixed",
+                "sourceText": "Please tell me what . . .",
+                "id": "Tolong katakan padaku apa.."
+              }
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "Totoo ‘yan.",
+                "id": "Itu benar.",
+                "tagalog": "Totoo ‘yan."
+              },
+              "meaning": {
+                "sourceLanguage": "mixed",
+                "sourceText": "That’s true.",
+                "id": "Itu benar."
+              }
+            }
+          ],
+          "title": {
+            "sourceLanguage": "mixed",
+            "sourceText": "Idioms and Expressions",
+            "id": "Idiom and Expressions"
+          }
         },
         {
           "type": "image",
           "path": "assets/120.jpg"
         }
-      ]
+      ],
+      "id": "lesson-07-02-vocabulary"
     },
     {
-      "id": "lesson-07-dialogue-ang-buhay-may-asawa-married-life",
       "type": "DIALOGUE",
       "title": {
         "sourceLanguage": "mixed",
@@ -1797,15 +1518,6 @@
         "id": "Dialog:Ang Buhay May- Asawa Married Life"
       },
       "blocks": [
-        {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "mixed",
-            "sourceText": "Dialogue: Ang Buhay May-asawa Married Life",
-            "id": "Dialog:Ang Buhay May- Asawa Married Life"
-          }
-        },
         {
           "type": "text",
           "style": "body",
@@ -1825,262 +1537,248 @@
           }
         },
         {
-          "type": "table",
-          "rows": [
+          "type": "dialogue",
+          "turns": [
             {
-              "cells": [
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "Q:",
-                  "id": "Q:"
-                },
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "Magandang umaga, Stephen. Kumusta ka?",
-                  "id": "Selamat pagi, Stephen.",
-                  "tagalog": "Magandang umaga, Stephen. Kumusta ka?"
-                }
-              ]
+              "speaker": "Q",
+              "speakerText": {
+                "sourceLanguage": "mixed",
+                "sourceText": "Q:",
+                "id": "Q:"
+              },
+              "text": {
+                "sourceLanguage": "fil",
+                "sourceText": "Magandang umaga, Stephen. Kumusta ka?",
+                "id": "Selamat pagi, Stephen.",
+                "tagalog": "Magandang umaga, Stephen. Kumusta ka?"
+              }
             },
             {
-              "cells": [
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "A:",
-                  "id": "A:"
-                },
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "Mabuti naman ho.",
-                  "id": "Untungnya, dia benar.",
-                  "tagalog": "Mabuti naman ho."
-                }
-              ]
+              "speaker": "A",
+              "speakerText": {
+                "sourceLanguage": "mixed",
+                "sourceText": "A:",
+                "id": "A:"
+              },
+              "text": {
+                "sourceLanguage": "fil",
+                "sourceText": "Mabuti naman ho.",
+                "id": "Untungnya, dia benar.",
+                "tagalog": "Mabuti naman ho."
+              }
             },
             {
-              "cells": [
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "Q:",
-                  "id": "Q:"
-                },
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "Sabihin mo nga sa akin kung ano ang tipikal na araw mo?",
-                  "id": "Katakan padaku karena itu apa hari khas Anda?",
-                  "tagalog": "Sabihin mo nga sa akin kung ano ang tipikal na araw mo?"
-                }
-              ]
+              "speaker": "Q",
+              "speakerText": {
+                "sourceLanguage": "mixed",
+                "sourceText": "Q:",
+                "id": "Q:"
+              },
+              "text": {
+                "sourceLanguage": "fil",
+                "sourceText": "Sabihin mo nga sa akin kung ano ang tipikal na araw mo?",
+                "id": "Katakan padaku karena itu apa hari khas Anda?",
+                "tagalog": "Sabihin mo nga sa akin kung ano ang tipikal na araw mo?"
+              }
             },
             {
-              "cells": [
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "A:",
-                  "id": "A:"
-                },
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "O sige po. Gumigising ho ako nang alas sais ng umaga. Pagkatapos naliligo ako at nag-aalmusal. Tapos, nagmamaneho ako papunta sa opisina.",
-                  "id": "Oke, aku bangun jam 6 pagi lalu aku mandi dan melakukan musikku lalu aku pergi ke kantor.",
-                  "tagalog": "O sige po. Gumigising ho ako nang alas sais ng umaga. Pagkatapos naliligo ako at nag-aalmusal. Tapos, nagmamaneho ako papunta sa opisina."
-                }
-              ]
+              "speaker": "A",
+              "speakerText": {
+                "sourceLanguage": "mixed",
+                "sourceText": "A:",
+                "id": "A:"
+              },
+              "text": {
+                "sourceLanguage": "fil",
+                "sourceText": "O sige po. Gumigising ho ako nang alas sais ng umaga. Pagkatapos naliligo ako at nag-aalmusal. Tapos, nagmamaneho ako papunta sa opisina.",
+                "id": "Oke, aku bangun jam 6 pagi lalu aku mandi dan melakukan musikku lalu aku pergi ke kantor.",
+                "tagalog": "O sige po. Gumigising ho ako nang alas sais ng umaga. Pagkatapos naliligo ako at nag-aalmusal. Tapos, nagmamaneho ako papunta sa opisina."
+              }
             },
             {
-              "cells": [
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "Q:",
-                  "id": "Q:"
-                },
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "Ano’ng oras ka naman dumadating sa opisina mo?",
-                  "id": "Jam berapa kau tinggal di kantormu?",
-                  "tagalog": "Ano’ng oras ka naman dumadating sa opisina mo?"
-                }
-              ]
+              "speaker": "Q",
+              "speakerText": {
+                "sourceLanguage": "mixed",
+                "sourceText": "Q:",
+                "id": "Q:"
+              },
+              "text": {
+                "sourceLanguage": "fil",
+                "sourceText": "Ano’ng oras ka naman dumadating sa opisina mo?",
+                "id": "Jam berapa kau tinggal di kantormu?",
+                "tagalog": "Ano’ng oras ka naman dumadating sa opisina mo?"
+              }
             },
             {
-              "cells": [
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "A:",
-                  "id": "A:"
-                },
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "Dumadating ho ako nang alas otso.",
-                  "id": "Aku datang ke ho pada pukul delapan.",
-                  "tagalog": "Dumadating ho ako nang alas otso."
-                }
-              ]
+              "speaker": "A",
+              "speakerText": {
+                "sourceLanguage": "mixed",
+                "sourceText": "A:",
+                "id": "A:"
+              },
+              "text": {
+                "sourceLanguage": "fil",
+                "sourceText": "Dumadating ho ako nang alas otso.",
+                "id": "Aku datang ke ho pada pukul delapan.",
+                "tagalog": "Dumadating ho ako nang alas otso."
+              }
             },
             {
-              "cells": [
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "Q:",
-                  "id": "Q:"
-                },
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "Ano’ng oras ka naman umuuwi?",
-                  "id": "Jam berapa kau pulang?",
-                  "tagalog": "Ano’ng oras ka naman umuuwi?"
-                }
-              ]
+              "speaker": "Q",
+              "speakerText": {
+                "sourceLanguage": "mixed",
+                "sourceText": "Q:",
+                "id": "Q:"
+              },
+              "text": {
+                "sourceLanguage": "fil",
+                "sourceText": "Ano’ng oras ka naman umuuwi?",
+                "id": "Jam berapa kau pulang?",
+                "tagalog": "Ano’ng oras ka naman umuuwi?"
+              }
             },
             {
-              "cells": [
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "A:",
-                  "id": "A:"
-                },
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "Mga alas singko ho. Tapos naghahapunan kami nang alas sais. Pagkatapos, naglalaro kami ng mga anak namin at nagbabasa kami ng libro hanggang alas otso.",
-                  "id": "Kemudian, sekitar pukul lima, kami makan malam di 06: 00, dan kemudian kami bermain game dengan anak-anak kami dan membaca buku sampai pukul delapan.",
-                  "tagalog": "Mga alas singko ho. Tapos naghahapunan kami nang alas sais. Pagkatapos, naglalaro kami ng mga anak namin at nagbabasa kami ng libro hanggang alas otso."
-                }
-              ]
+              "speaker": "A",
+              "speakerText": {
+                "sourceLanguage": "mixed",
+                "sourceText": "A:",
+                "id": "A:"
+              },
+              "text": {
+                "sourceLanguage": "fil",
+                "sourceText": "Mga alas singko ho. Tapos naghahapunan kami nang alas sais. Pagkatapos, naglalaro kami ng mga anak namin at nagbabasa kami ng libro hanggang alas otso.",
+                "id": "Kemudian, sekitar pukul lima, kami makan malam di 06: 00, dan kemudian kami bermain game dengan anak-anak kami dan membaca buku sampai pukul delapan.",
+                "tagalog": "Mga alas singko ho. Tapos naghahapunan kami nang alas sais. Pagkatapos, naglalaro kami ng mga anak namin at nagbabasa kami ng libro hanggang alas otso."
+              }
             },
             {
-              "cells": [
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "Q:",
-                  "id": "Q:"
-                },
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "Nagsusulat ka rin ng libro, hindi ba? Kailan mo ito ginagawa?",
-                  "id": "Kau juga menulis buku, kan?",
-                  "tagalog": "Nagsusulat ka rin ng libro, hindi ba? Kailan mo ito ginagawa?"
-                }
-              ]
+              "speaker": "Q",
+              "speakerText": {
+                "sourceLanguage": "mixed",
+                "sourceText": "Q:",
+                "id": "Q:"
+              },
+              "text": {
+                "sourceLanguage": "fil",
+                "sourceText": "Nagsusulat ka rin ng libro, hindi ba? Kailan mo ito ginagawa?",
+                "id": "Kau juga menulis buku, kan?",
+                "tagalog": "Nagsusulat ka rin ng libro, hindi ba? Kailan mo ito ginagawa?"
+              }
             },
             {
-              "cells": [
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "A:",
-                  "id": "A:"
-                },
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "Kadalasan, nag-uusap ho ako at ang asawa ko hanggang alas diyes, pagkatapos, nagsusulat na ako hanggang alas dose.",
-                  "id": "Sering kali, saya dan istri saya akan berbicara satu sama lain sampai pukul sepuluh, setelah itu saya akan menulis sampai dua belas.",
-                  "tagalog": "Kadalasan, nag-uusap ho ako at ang asawa ko hanggang alas diyes, pagkatapos, nagsusulat na ako hanggang alas dose."
-                }
-              ]
+              "speaker": "A",
+              "speakerText": {
+                "sourceLanguage": "mixed",
+                "sourceText": "A:",
+                "id": "A:"
+              },
+              "text": {
+                "sourceLanguage": "fil",
+                "sourceText": "Kadalasan, nag-uusap ho ako at ang asawa ko hanggang alas diyes, pagkatapos, nagsusulat na ako hanggang alas dose.",
+                "id": "Sering kali, saya dan istri saya akan berbicara satu sama lain sampai pukul sepuluh, setelah itu saya akan menulis sampai dua belas.",
+                "tagalog": "Kadalasan, nag-uusap ho ako at ang asawa ko hanggang alas diyes, pagkatapos, nagsusulat na ako hanggang alas dose."
+              }
             },
             {
-              "cells": [
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "Q:",
-                  "id": "Q:"
-                },
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "Tapos gumigising ka nang alas singko ng umaga?",
-                  "id": "Lalu kau bangun jam 5 pagi?",
-                  "tagalog": "Tapos gumigising ka nang alas singko ng umaga?"
-                }
-              ]
+              "speaker": "Q",
+              "speakerText": {
+                "sourceLanguage": "mixed",
+                "sourceText": "Q:",
+                "id": "Q:"
+              },
+              "text": {
+                "sourceLanguage": "fil",
+                "sourceText": "Tapos gumigising ka nang alas singko ng umaga?",
+                "id": "Lalu kau bangun jam 5 pagi?",
+                "tagalog": "Tapos gumigising ka nang alas singko ng umaga?"
+              }
             },
             {
-              "cells": [
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "A:",
-                  "id": "A:"
-                },
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "Opo, kasi importante na may oras ako sa trabaho at pamilya ko.",
-                  "id": "Ya, itu penting bahwa saya punya waktu untuk bekerja dan keluarga.",
-                  "tagalog": "Opo, kasi importante na may oras ako sa trabaho at pamilya ko."
-                }
-              ]
+              "speaker": "A",
+              "speakerText": {
+                "sourceLanguage": "mixed",
+                "sourceText": "A:",
+                "id": "A:"
+              },
+              "text": {
+                "sourceLanguage": "fil",
+                "sourceText": "Opo, kasi importante na may oras ako sa trabaho at pamilya ko.",
+                "id": "Ya, itu penting bahwa saya punya waktu untuk bekerja dan keluarga.",
+                "tagalog": "Opo, kasi importante na may oras ako sa trabaho at pamilya ko."
+              }
             },
             {
-              "cells": [
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "Q:",
-                  "id": "Q:"
-                },
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "Totoo ‘yan!",
-                  "id": "Memang benar 'seperti itu!",
-                  "tagalog": "Totoo ‘yan!"
-                }
-              ]
+              "speaker": "Q",
+              "speakerText": {
+                "sourceLanguage": "mixed",
+                "sourceText": "Q:",
+                "id": "Q:"
+              },
+              "text": {
+                "sourceLanguage": "fil",
+                "sourceText": "Totoo ‘yan!",
+                "id": "Memang benar 'seperti itu!",
+                "tagalog": "Totoo ‘yan!"
+              }
             },
             {
-              "cells": [
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "A:",
-                  "id": "A:"
-                },
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "Pero sa palagay ko po, mahirap din ang trabaho ng asawa ko, kasi siya ang nag-aalaga ng mga anak namin, naglilinis ng bahay, at nagluluto. Pero masaya naman siya sa trabaho niya.",
-                  "id": "Tapi kurasa pekerjaan suamiku sulit karena dia menyayangi anak-anak kita, membersihkan rumah, dan memasak, tapi dia menikmati pekerjaannya.",
-                  "tagalog": "Pero sa palagay ko po, mahirap din ang trabaho ng asawa ko, kasi siya ang nag-aalaga ng mga anak namin, naglilinis ng bahay, at nagluluto. Pero masaya naman siya sa trabaho niya."
-                }
-              ]
+              "speaker": "A",
+              "speakerText": {
+                "sourceLanguage": "mixed",
+                "sourceText": "A:",
+                "id": "A:"
+              },
+              "text": {
+                "sourceLanguage": "fil",
+                "sourceText": "Pero sa palagay ko po, mahirap din ang trabaho ng asawa ko, kasi siya ang nag-aalaga ng mga anak namin, naglilinis ng bahay, at nagluluto. Pero masaya naman siya sa trabaho niya.",
+                "id": "Tapi kurasa pekerjaan suamiku sulit karena dia menyayangi anak-anak kita, membersihkan rumah, dan memasak, tapi dia menikmati pekerjaannya.",
+                "tagalog": "Pero sa palagay ko po, mahirap din ang trabaho ng asawa ko, kasi siya ang nag-aalaga ng mga anak namin, naglilinis ng bahay, at nagluluto. Pero masaya naman siya sa trabaho niya."
+              }
             },
             {
-              "cells": [
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "Q:",
-                  "id": "Q:"
-                },
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "O sige, talagang masuwerte ka sa pamilya mo.",
-                  "id": "Baiklah, Anda benar-benar akan menjadi baik untuk keluarga Anda.",
-                  "tagalog": "O sige, talagang masuwerte ka sa pamilya mo."
-                }
-              ]
+              "speaker": "Q",
+              "speakerText": {
+                "sourceLanguage": "mixed",
+                "sourceText": "Q:",
+                "id": "Q:"
+              },
+              "text": {
+                "sourceLanguage": "fil",
+                "sourceText": "O sige, talagang masuwerte ka sa pamilya mo.",
+                "id": "Baiklah, Anda benar-benar akan menjadi baik untuk keluarga Anda.",
+                "tagalog": "O sige, talagang masuwerte ka sa pamilya mo."
+              }
             },
             {
-              "cells": [
-                {
-                  "sourceLanguage": "mixed",
-                  "sourceText": "A:",
-                  "id": "A:"
-                },
-                {
-                  "sourceLanguage": "fil",
-                  "sourceText": "Sa palagay ko rin po.",
-                  "id": "Kurasa juga begitu.",
-                  "tagalog": "Sa palagay ko rin po."
-                }
-              ]
+              "speaker": "A",
+              "speakerText": {
+                "sourceLanguage": "mixed",
+                "sourceText": "A:",
+                "id": "A:"
+              },
+              "text": {
+                "sourceLanguage": "fil",
+                "sourceText": "Sa palagay ko rin po.",
+                "id": "Kurasa juga begitu.",
+                "tagalog": "Sa palagay ko rin po."
+              }
             }
           ]
-        },
+        }
+      ],
+      "id": "lesson-07-03-dialogue-ang-buhay-may-asawa-married-life"
+    },
+    {
+      "type": "EXERCISES",
+      "title": {
+        "sourceLanguage": "mixed",
+        "sourceText": "Dialogue Comprehension",
+        "id": "Pemahaman Dialog"
+      },
+      "blocks": [
         {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "mixed",
-            "sourceText": "Dialogue Comprehension",
-            "id": "Pemahaman Dialog"
-          }
-        },
-        {
-          "type": "text",
-          "style": "body",
+          "type": "exercise",
+          "role": "content",
           "text": {
             "sourceLanguage": "en",
             "sourceText": "The following questions test your understanding of the interview. Respond in Tagalog to the questions in the blanks provided.",
@@ -2088,8 +1786,8 @@
           }
         },
         {
-          "type": "text",
-          "style": "body",
+          "type": "exercise",
+          "role": "question",
           "text": {
             "sourceLanguage": "fil",
             "sourceText": "1. Ano’ng ginagawa ni Stephen sa umaga?",
@@ -2098,17 +1796,8 @@
           }
         },
         {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "mixed",
-            "sourceText": "____________________________________",
-            "id": "____________________________________"
-          }
-        },
-        {
-          "type": "text",
-          "style": "body",
+          "type": "exercise",
+          "role": "question",
           "text": {
             "sourceLanguage": "fil",
             "sourceText": "2. Ano ang ginagawa ni Stephen pagkatapos ng trabaho?",
@@ -2117,17 +1806,8 @@
           }
         },
         {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "mixed",
-            "sourceText": "____________________________________",
-            "id": "____________________________________"
-          }
-        },
-        {
-          "type": "text",
-          "style": "body",
+          "type": "exercise",
+          "role": "question",
           "text": {
             "sourceLanguage": "fil",
             "sourceText": "3. Ano ang ginagawa ni Stephen pagkatapos maghapunan?",
@@ -2136,17 +1816,8 @@
           }
         },
         {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "mixed",
-            "sourceText": "____________________________________",
-            "id": "____________________________________"
-          }
-        },
-        {
-          "type": "text",
-          "style": "body",
+          "type": "exercise",
+          "role": "question",
           "text": {
             "sourceLanguage": "fil",
             "sourceText": "4. Kailan nagsusulat ng libro si Stephen?",
@@ -2155,65 +1826,29 @@
           }
         },
         {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "mixed",
-            "sourceText": "____________________________________",
-            "id": "____________________________________"
-          }
-        },
-        {
-          "type": "text",
-          "style": "body",
+          "type": "exercise",
+          "role": "question",
           "text": {
             "sourceLanguage": "fil",
             "sourceText": "5. Ano ang trabaho ng asawa niya?",
             "id": "Apa pekerjaan suaminya?",
             "tagalog": "5. Ano ang trabaho ng asawa niya?"
           }
-        },
-        {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "mixed",
-            "sourceText": "____________________________________",
-            "id": "____________________________________"
-          }
         }
-      ]
+      ],
+      "id": "lesson-07-04-dialogue-comprehension"
     },
     {
-      "id": "lesson-07-activities",
-      "type": "ACTIVITY",
+      "type": "EXERCISES",
       "title": {
         "sourceLanguage": "mixed",
-        "sourceText": "Activities",
-        "id": "Aktivitas"
+        "sourceText": "Activity 1",
+        "id": "Aktivitas 1"
       },
       "blocks": [
         {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "mixed",
-            "sourceText": "Activities",
-            "id": "Aktivitas"
-          }
-        },
-        {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "mixed",
-            "sourceText": "Activity 1",
-            "id": "Aktivitas 1"
-          }
-        },
-        {
-          "type": "text",
-          "style": "body",
+          "type": "exercise",
+          "role": "instruction",
           "text": {
             "sourceLanguage": "en",
             "sourceText": "Refer to the tasks listed below and create a schedule showing which tasks you perform on which day or days. Use the example to model your sentences.",
@@ -2221,8 +1856,8 @@
           }
         },
         {
-          "type": "text",
-          "style": "body",
+          "type": "exercise",
+          "role": "content",
           "text": {
             "sourceLanguage": "mixed",
             "sourceText": "EXAMPLES:",
@@ -2230,8 +1865,8 @@
           }
         },
         {
-          "type": "text",
-          "style": "body",
+          "type": "exercise",
+          "role": "content",
           "text": {
             "sourceLanguage": "mixed",
             "sourceText": "Nagsisimba ako tuwing Linggo. I hear (attend) Mass every Sunday.",
@@ -2240,8 +1875,8 @@
           }
         },
         {
-          "type": "text",
-          "style": "body",
+          "type": "exercise",
+          "role": "content",
           "text": {
             "sourceLanguage": "mixed",
             "sourceText": "Nagtatanghalian ako sa labas tuwing Biyernes. I go out to eat lunch every Friday.",
@@ -2250,7 +1885,8 @@
           }
         },
         {
-          "type": "table",
+          "type": "exercise",
+          "role": "worksheet",
           "rows": [
             {
               "cells": [
@@ -2425,7 +2061,8 @@
           ]
         },
         {
-          "type": "table",
+          "type": "exercise",
+          "role": "worksheet",
           "rows": [
             {
               "cells": [
@@ -2513,19 +2150,21 @@
               ]
             }
           ]
-        },
+        }
+      ],
+      "id": "lesson-07-05-activity-1"
+    },
+    {
+      "type": "EXERCISES",
+      "title": {
+        "sourceLanguage": "mixed",
+        "sourceText": "Activity 2",
+        "id": "Aktivitas 2"
+      },
+      "blocks": [
         {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "mixed",
-            "sourceText": "Activity 2",
-            "id": "Aktivitas 2"
-          }
-        },
-        {
-          "type": "text",
-          "style": "body",
+          "type": "exercise",
+          "role": "content",
           "text": {
             "sourceLanguage": "en",
             "sourceText": "Now that you have created your own schedule, interview two of your classmates and inquire about their daily activities and tasks. Your classmates will have a chance to interview you as well. Use the example below to model your interview, and record the information you gather in the table provided.",
@@ -2533,8 +2172,8 @@
           }
         },
         {
-          "type": "text",
-          "style": "body",
+          "type": "exercise",
+          "role": "content",
           "text": {
             "sourceLanguage": "mixed",
             "sourceText": "EXAMPLE:",
@@ -2542,8 +2181,8 @@
           }
         },
         {
-          "type": "text",
-          "style": "body",
+          "type": "exercise",
+          "role": "question",
           "text": {
             "sourceLanguage": "fil",
             "sourceText": "STUDENT 1: Ano’ng ginagawa mo tuwing Lunes?",
@@ -2552,8 +2191,8 @@
           }
         },
         {
-          "type": "text",
-          "style": "body",
+          "type": "exercise",
+          "role": "content",
           "text": {
             "sourceLanguage": "fil",
             "sourceText": "STUDENT 2: Nag-aaral ako sa bahay tuwing Lunes.",
@@ -2562,8 +2201,8 @@
           }
         },
         {
-          "type": "text",
-          "style": "body",
+          "type": "exercise",
+          "role": "content",
           "text": {
             "sourceLanguage": "fil",
             "sourceText": "Pangalan (Name): James",
@@ -2572,8 +2211,8 @@
           }
         },
         {
-          "type": "text",
-          "style": "body",
+          "type": "exercise",
+          "role": "content",
           "text": {
             "sourceLanguage": "fil",
             "sourceText": "Lunes: Nag-aaral si James sa bahay tuwing Lunes.",
@@ -2582,7 +2221,8 @@
           }
         },
         {
-          "type": "table",
+          "type": "exercise",
+          "role": "worksheet",
           "rows": [
             {
               "cells": [
@@ -2676,8 +2316,8 @@
           ]
         },
         {
-          "type": "text",
-          "style": "body",
+          "type": "exercise",
+          "role": "content",
           "text": {
             "sourceLanguage": "mixed",
             "sourceText": "Reporting",
@@ -2685,8 +2325,8 @@
           }
         },
         {
-          "type": "text",
-          "style": "body",
+          "type": "exercise",
+          "role": "content",
           "text": {
             "sourceLanguage": "en",
             "sourceText": "Based on the information you have gathered from your classmates, write in complete sentences what both classmates do each day, using the conjunction at _______ naman.",
@@ -2694,8 +2334,8 @@
           }
         },
         {
-          "type": "text",
-          "style": "body",
+          "type": "exercise",
+          "role": "content",
           "text": {
             "sourceLanguage": "mixed",
             "sourceText": "EXAMPLE:",
@@ -2703,8 +2343,8 @@
           }
         },
         {
-          "type": "text",
-          "style": "body",
+          "type": "exercise",
+          "role": "content",
           "text": {
             "sourceLanguage": "mixed",
             "sourceText": "Tuwing Lunes, nag-aaral si Mike sa aklatan at nagtatrabaho naman si Melissa. Every Monday, Mike is studying at the library and Melissa on the other hand is working.",
@@ -2713,8 +2353,8 @@
           }
         },
         {
-          "type": "text",
-          "style": "body",
+          "type": "exercise",
+          "role": "content",
           "text": {
             "sourceLanguage": "fil",
             "sourceText": "Lunes: _________________________________",
@@ -2723,8 +2363,8 @@
           }
         },
         {
-          "type": "text",
-          "style": "body",
+          "type": "exercise",
+          "role": "content",
           "text": {
             "sourceLanguage": "fil",
             "sourceText": "Martes: _________________________________",
@@ -2733,8 +2373,8 @@
           }
         },
         {
-          "type": "text",
-          "style": "body",
+          "type": "exercise",
+          "role": "content",
           "text": {
             "sourceLanguage": "fil",
             "sourceText": "Miyerkules: _________________________________",
@@ -2743,8 +2383,8 @@
           }
         },
         {
-          "type": "text",
-          "style": "body",
+          "type": "exercise",
+          "role": "content",
           "text": {
             "sourceLanguage": "fil",
             "sourceText": "Huwebes: ___________________________________",
@@ -2753,8 +2393,8 @@
           }
         },
         {
-          "type": "text",
-          "style": "body",
+          "type": "exercise",
+          "role": "content",
           "text": {
             "sourceLanguage": "fil",
             "sourceText": "Biyernes: ___________________________________",
@@ -2763,8 +2403,8 @@
           }
         },
         {
-          "type": "text",
-          "style": "body",
+          "type": "exercise",
+          "role": "content",
           "text": {
             "sourceLanguage": "fil",
             "sourceText": "Sabado: ____________________________________",
@@ -2773,27 +2413,29 @@
           }
         },
         {
-          "type": "text",
-          "style": "body",
+          "type": "exercise",
+          "role": "content",
           "text": {
             "sourceLanguage": "fil",
             "sourceText": "Linggo: _________________________________",
             "id": "Minggu:......",
             "tagalog": "Linggo: _________________________________"
           }
-        },
+        }
+      ],
+      "id": "lesson-07-06-activity-2"
+    },
+    {
+      "type": "EXERCISES",
+      "title": {
+        "sourceLanguage": "mixed",
+        "sourceText": "Activity 3",
+        "id": "Aktivitas 3"
+      },
+      "blocks": [
         {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "mixed",
-            "sourceText": "Activity 3",
-            "id": "Aktivitas 3"
-          }
-        },
-        {
-          "type": "text",
-          "style": "body",
+          "type": "exercise",
+          "role": "content",
           "text": {
             "sourceLanguage": "en",
             "sourceText": "Below is Mike’s schedule from yesterday. In complete sentences, write out each of the activities and tasks he performed.",
@@ -2801,7 +2443,8 @@
           }
         },
         {
-          "type": "table",
+          "type": "exercise",
+          "role": "worksheet",
           "rows": [
             {
               "cells": [
@@ -2952,8 +2595,8 @@
           "path": "assets/123.jpg"
         },
         {
-          "type": "text",
-          "style": "body",
+          "type": "exercise",
+          "role": "question",
           "text": {
             "sourceLanguage": "fil",
             "sourceText": "1. Nagsipilyo at nagbihis si Mike kahapon nang alas otso ng umaga.",
@@ -2962,8 +2605,8 @@
           }
         },
         {
-          "type": "text",
-          "style": "body",
+          "type": "exercise",
+          "role": "question",
           "text": {
             "sourceLanguage": "mixed",
             "sourceText": "2. ____________________________________",
@@ -2971,8 +2614,8 @@
           }
         },
         {
-          "type": "text",
-          "style": "body",
+          "type": "exercise",
+          "role": "question",
           "text": {
             "sourceLanguage": "mixed",
             "sourceText": "3. ____________________________________",
@@ -2980,8 +2623,8 @@
           }
         },
         {
-          "type": "text",
-          "style": "body",
+          "type": "exercise",
+          "role": "question",
           "text": {
             "sourceLanguage": "mixed",
             "sourceText": "4. ____________________________________",
@@ -2989,43 +2632,25 @@
           }
         },
         {
-          "type": "text",
-          "style": "body",
+          "type": "exercise",
+          "role": "question",
           "text": {
             "sourceLanguage": "mixed",
             "sourceText": "5. ____________________________________",
             "id": "5. ____________________________________"
           }
         }
-      ]
+      ],
+      "id": "lesson-07-07-activity-3"
     },
     {
-      "id": "lesson-07-grammar",
-      "type": "GRAMMAR",
+      "type": "LEARNING_MATERIAL",
       "title": {
         "sourceLanguage": "mixed",
-        "sourceText": "Grammar",
-        "id": "Tata Bahasa"
+        "sourceText": "Definition of Terms",
+        "id": "Definisi Istilah"
       },
       "blocks": [
-        {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "mixed",
-            "sourceText": "Grammar",
-            "id": "Tata Bahasa"
-          }
-        },
-        {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "mixed",
-            "sourceText": "Definition of Terms",
-            "id": "Definisi Istilah"
-          }
-        },
         {
           "type": "table",
           "rows": [
@@ -3081,7 +2706,8 @@
                 {
                   "sourceLanguage": "en",
                   "sourceText": "A verb that requires an object.\n\nEXAMPLE: Magbabasa si Belle ng libro. Belle will read a book.",
-                  "id": "Kata kerja yang memerlukan objek. Magbababasa si Belle ng libro."
+                  "id": "Kata kerja yang memerlukan objek. Magbababasa si Belle ng libro.",
+                  "tagalog": "Magbabasa si Belle ng libro. ng libro"
                 }
               ]
             },
@@ -3095,7 +2721,8 @@
                 {
                   "sourceLanguage": "en",
                   "sourceText": "A verb that does not require an object.\n\nEXAMPLE: Maglalakad ako sa parke. I will walk at the park.",
-                  "id": "Kata kerja yang tidak memerlukan objek. Maglalakad ako sa parke."
+                  "id": "Kata kerja yang tidak memerlukan objek. Maglalakad ako sa parke.",
+                  "tagalog": "Maglalakad ako sa parke."
                 }
               ]
             },
@@ -3113,17 +2740,20 @@
                 }
               ]
             }
-          ]
-        },
-        {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "mixed",
-            "sourceText": "Examining Form",
-            "id": "Mengkaji Bentuk"
-          }
-        },
+          ],
+          "role": "reference"
+        }
+      ],
+      "id": "lesson-07-08-definition-of-terms"
+    },
+    {
+      "type": "LEARNING_MATERIAL",
+      "title": {
+        "sourceLanguage": "mixed",
+        "sourceText": "Examining Form",
+        "id": "Menganalisis Bentuk"
+      },
+      "blocks": [
         {
           "type": "text",
           "style": "body",
@@ -3229,16 +2859,18 @@
             "sourceText": "c. Compare sentences 1, 2, 3, and 6 with sentences 4, 5, and 7. What do you notice about the word order? Why do you think the sentence takes this word order?",
             "id": "c. Bandingkan kalimat 1, 2, 3, dan 6 dengan kalimat 4, 5, dan 7."
           }
-        },
-        {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "mixed",
-            "sourceText": "I. Mag- Verbs",
-            "id": "I. Mag- Verbs"
-          }
-        },
+        }
+      ],
+      "id": "lesson-07-09-examining-form"
+    },
+    {
+      "type": "LEARNING_MATERIAL",
+      "title": {
+        "sourceLanguage": "mixed",
+        "sourceText": "I. Mag- Verbs",
+        "id": "I. Mag- Verbs"
+      },
+      "blocks": [
         {
           "type": "text",
           "style": "body",
@@ -3284,7 +2916,18 @@
             "sourceText": "Another characteristic of Tagalog verbs is aspect. Whatever affix you use, all Tagalog verbs conjugate in the same way. Aspect is a characteristic of some other languages, like Tamil, Russian, or ancient Greek. It is tense in English verbs, which can be present, past, and future. Aspect tells us whether the action has been or will be completed. Tense, on the other, hand tells us whether the action happened in the past or present, or will happen in the future. Aspect makes the distinction between actions that are completed and those that are not. Completed actions are called perfective, but for our purposes we will simply call this aspect the completed aspect. Those not completed, or imperfective, may be in progress or still being done, continuing, or habitual. We will call this the incompleted aspect. For actions that will be completed in some future time, we will use the term contemplated aspect.",
             "id": "Karakter lain dari kata kerja Tagalog adalah aspek. Apapun affix yang Anda gunakan, semua kata kerja Tagalog konjugasi dengan cara yang sama. Aspek adalah karakteristik dari beberapa bahasa lain, seperti Tamil, Rusia, atau bahasa Yunani kuno. Tegang, di sisi lain, tangan memberitahu kita apakah tindakan terjadi di masa lalu atau sekarang, atau akan terjadi di masa depan. Mereka tidak selesai, atau tidak sempurna, mungkin dalam proses atau masih dilakukan, melanjutkan, atau kebiasaan. kita akan menyebutnya aspek yang belum selesai."
           }
-        },
+        }
+      ],
+      "id": "lesson-07-10-i-mag-verbs"
+    },
+    {
+      "type": "SUMMARY",
+      "title": {
+        "sourceLanguage": "en",
+        "sourceText": "Summary",
+        "id": "Ringkasan"
+      },
+      "blocks": [
         {
           "type": "text",
           "style": "body",
@@ -3293,7 +2936,18 @@
             "sourceText": "To summarize, the three aspects are:",
             "id": "Untuk meringkas, tiga aspek adalah:"
           }
-        },
+        }
+      ],
+      "id": "lesson-07-11-summary"
+    },
+    {
+      "type": "LEARNING_MATERIAL",
+      "title": {
+        "sourceLanguage": "mixed",
+        "sourceText": "I. Mag- Verbs",
+        "id": "I. Mag- Verbs"
+      },
+      "blocks": [
         {
           "type": "text",
           "style": "body",
@@ -3336,7 +2990,8 @@
           "text": {
             "sourceLanguage": "en",
             "sourceText": "mag- (verbal prefix) + aral (root word) → mag-aral (verb in the infinitive form)",
-            "id": "mag- (prefiks verbal) + aral (root word) asmimag- aral (kata kerja dalam bentuk infinitif)"
+            "id": "mag- (prefiks verbal) + aral (root word) asmimag- aral (kata kerja dalam bentuk infinitif)",
+            "tagalog": "mag- aral mag-aral"
           }
         },
         {
@@ -3345,7 +3000,8 @@
           "text": {
             "sourceLanguage": "en",
             "sourceText": "mag- (verbal prefix) + basa (root word) → magbasa (verb in the infinitive form)",
-            "id": "mag- (prefiks verbal) + basa (root word) zinmagbasa (kata kerja dalam bentuk infinitif)"
+            "id": "mag- (prefiks verbal) + basa (root word) zinmagbasa (kata kerja dalam bentuk infinitif)",
+            "tagalog": "mag- basa magbasa"
           }
         },
         {
@@ -3453,7 +3109,8 @@
                 {
                   "sourceLanguage": "en",
                   "sourceText": "From the infinitive, change m to n",
-                  "id": "Dari infinitive, perubahan m ke n"
+                  "id": "Dari infinitive, perubahan m ke n",
+                  "tagalog": "m n"
                 }
               ]
             },
@@ -3509,7 +3166,8 @@
                 }
               ]
             }
-          ]
+          ],
+          "role": "reference"
         },
         {
           "type": "text",
@@ -3535,7 +3193,8 @@
           "text": {
             "sourceLanguage": "en",
             "sourceText": "The contemplated aspect mag-aaral (will study) is formed by changing the n in the incompleted form to m.",
-            "id": "Aspek mag- aaral (akan belajar) dibentuk dengan mengubah n dalam bentuk yang belum selesai ke m."
+            "id": "Aspek mag- aaral (akan belajar) dibentuk dengan mengubah n dalam bentuk yang belum selesai ke m.",
+            "tagalog": "mag-aaral n m"
           }
         },
         {
@@ -3546,16 +3205,18 @@
             "sourceText": "Aside from tense, Tagalog verbs do not express person or number of the subject. What the verb expresses is focus, which refers to the verb’s relationship to the subject, as was mentioned earlier.",
             "id": "Selain tegang, kata kerja Tagalog tidak mengekspresikan orang atau nomor subjek. Apa kata kerja mengekspresikan adalah fokus, yang mengacu pada hubungan kata kerja dengan subjek, seperti yang disebutkan sebelumnya."
           }
-        },
-        {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "mixed",
-            "sourceText": "Grammar Presentation",
-            "id": "Penyajian Tata Bahasa"
-          }
-        },
+        }
+      ],
+      "id": "lesson-07-12-i-mag-verbs-2"
+    },
+    {
+      "type": "LEARNING_MATERIAL",
+      "title": {
+        "sourceLanguage": "mixed",
+        "sourceText": "Grammar Presentation",
+        "id": "Penyajian Tata Bahasa"
+      },
+      "blocks": [
         {
           "type": "text",
           "style": "body",
@@ -3701,37 +3362,53 @@
                 }
               ]
             }
+          ],
+          "role": "reference"
+        }
+      ],
+      "id": "lesson-07-13-grammar-presentation"
+    },
+    {
+      "type": "EXAMPLES",
+      "title": {
+        "sourceLanguage": "mixed",
+        "sourceText": "EXAMPLES:",
+        "id": "Contoh"
+      },
+      "blocks": [
+        {
+          "type": "example",
+          "items": [
+            {
+              "sourceLanguage": "fil",
+              "sourceText": "Nagsaing na ho ako. I already cooked rice, sir/ madam.",
+              "id": "Aku sedang membuat kait, aku hanya berkencan, par / Madam.",
+              "tagalog": "Nagsaing na ho ako. I already cooked rice, sir/ madam."
+            }
           ]
         },
         {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "mixed",
-            "sourceText": "EXAMPLES:",
-            "id": "EXAMPLES:"
-          }
-        },
-        {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "fil",
-            "sourceText": "Nagsaing na ho ako. I already cooked rice, sir/ madam.",
-            "id": "Aku sedang membuat kait, aku hanya berkencan, par / Madam.",
-            "tagalog": "Nagsaing na ho ako. I already cooked rice, sir/ madam."
-          }
-        },
-        {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "fil",
-            "sourceText": "Nagtanghalian kami sa Jerry’s Grill. We had lunch at Gerry’s Grill.",
-            "id": "Kami tampil di Jerryils Grill.",
-            "tagalog": "Nagtanghalian kami sa Jerry’s Grill. We had lunch at Gerry’s Grill."
-          }
-        },
+          "type": "example",
+          "items": [
+            {
+              "sourceLanguage": "fil",
+              "sourceText": "Nagtanghalian kami sa Jerry’s Grill. We had lunch at Gerry’s Grill.",
+              "id": "Kami tampil di Jerryils Grill.",
+              "tagalog": "Nagtanghalian kami sa Jerry’s Grill. We had lunch at Gerry’s Grill."
+            }
+          ]
+        }
+      ],
+      "id": "lesson-07-14-examples"
+    },
+    {
+      "type": "LEARNING_MATERIAL",
+      "title": {
+        "sourceLanguage": "mixed",
+        "sourceText": "Grammar Presentation",
+        "id": "Penyajian Tata Bahasa"
+      },
+      "blocks": [
         {
           "type": "text",
           "style": "body",
@@ -3943,37 +3620,53 @@
                 }
               ]
             }
+          ],
+          "role": "reference"
+        }
+      ],
+      "id": "lesson-07-15-grammar-presentation-2"
+    },
+    {
+      "type": "EXAMPLES",
+      "title": {
+        "sourceLanguage": "mixed",
+        "sourceText": "EXAMPLES:",
+        "id": "Contoh"
+      },
+      "blocks": [
+        {
+          "type": "example",
+          "items": [
+            {
+              "sourceLanguage": "fil",
+              "sourceText": "Nagluluto ng adobo si Bebel. Bebel is cooking adobo.",
+              "id": "Bebel cook dobo, bebel is cooking adopbo.",
+              "tagalog": "Nagluluto ng adobo si Bebel. Bebel is cooking adobo."
+            }
           ]
         },
         {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "mixed",
-            "sourceText": "EXAMPLES:",
-            "id": "EXAMPLES:"
-          }
-        },
-        {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "fil",
-            "sourceText": "Nagluluto ng adobo si Bebel. Bebel is cooking adobo.",
-            "id": "Bebel cook dobo, bebel is cooking adopbo.",
-            "tagalog": "Nagluluto ng adobo si Bebel. Bebel is cooking adobo."
-          }
-        },
-        {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "fil",
-            "sourceText": "Naglilinis ng klasrum ang mga estudyante. The students are cleaning the classroom.",
-            "id": "Siswa yang belajar membersihkan ruang kelas membersihkan krim.",
-            "tagalog": "Naglilinis ng klasrum ang mga estudyante. The students are cleaning the classroom."
-          }
-        },
+          "type": "example",
+          "items": [
+            {
+              "sourceLanguage": "fil",
+              "sourceText": "Naglilinis ng klasrum ang mga estudyante. The students are cleaning the classroom.",
+              "id": "Siswa yang belajar membersihkan ruang kelas membersihkan krim.",
+              "tagalog": "Naglilinis ng klasrum ang mga estudyante. The students are cleaning the classroom."
+            }
+          ]
+        }
+      ],
+      "id": "lesson-07-16-examples-2"
+    },
+    {
+      "type": "LEARNING_MATERIAL",
+      "title": {
+        "sourceLanguage": "mixed",
+        "sourceText": "Grammar Presentation",
+        "id": "Penyajian Tata Bahasa"
+      },
+      "blocks": [
         {
           "type": "text",
           "style": "body",
@@ -4167,37 +3860,53 @@
                 }
               ]
             }
+          ],
+          "role": "reference"
+        }
+      ],
+      "id": "lesson-07-17-grammar-presentation-3"
+    },
+    {
+      "type": "EXAMPLES",
+      "title": {
+        "sourceLanguage": "mixed",
+        "sourceText": "EXAMPLES:",
+        "id": "Contoh"
+      },
+      "blocks": [
+        {
+          "type": "example",
+          "items": [
+            {
+              "sourceLanguage": "fil",
+              "sourceText": "Maglalaba ako ng pantalon ko sa Biyernes. I will wash my pants on Friday.",
+              "id": "Aku akan mencuci celana saya pada hari Jumat, Aku akan mencuci celana saya pada hari Jumat.",
+              "tagalog": "Maglalaba ako ng pantalon ko sa Biyernes. I will wash my pants on Friday."
+            }
           ]
         },
         {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "mixed",
-            "sourceText": "EXAMPLES:",
-            "id": "EXAMPLES:"
-          }
-        },
-        {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "fil",
-            "sourceText": "Maglalaba ako ng pantalon ko sa Biyernes. I will wash my pants on Friday.",
-            "id": "Aku akan mencuci celana saya pada hari Jumat, Aku akan mencuci celana saya pada hari Jumat.",
-            "tagalog": "Maglalaba ako ng pantalon ko sa Biyernes. I will wash my pants on Friday."
-          }
-        },
-        {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "fil",
-            "sourceText": "Mag-aaral ako ng Tagalog bukas. I will study Tagalog tomorrow.",
-            "id": "Aku akan belajar bahasa Inggris besok.",
-            "tagalog": "Mag-aaral ako ng Tagalog bukas. I will study Tagalog tomorrow."
-          }
-        },
+          "type": "example",
+          "items": [
+            {
+              "sourceLanguage": "fil",
+              "sourceText": "Mag-aaral ako ng Tagalog bukas. I will study Tagalog tomorrow.",
+              "id": "Aku akan belajar bahasa Inggris besok.",
+              "tagalog": "Mag-aaral ako ng Tagalog bukas. I will study Tagalog tomorrow."
+            }
+          ]
+        }
+      ],
+      "id": "lesson-07-18-examples-3"
+    },
+    {
+      "type": "SUMMARY",
+      "title": {
+        "sourceLanguage": "en",
+        "sourceText": "Summary",
+        "id": "Ringkasan"
+      },
+      "blocks": [
         {
           "type": "text",
           "style": "body",
@@ -4206,7 +3915,18 @@
             "sourceText": "To summarize, the previous two charts show two high-frequency word orders when using mag-verbs:",
             "id": "Untuk meringkas, dua grafik sebelumnya menunjukkan dua perintah kata frekuensi tinggi ketika menggunakan mag- verbs:"
           }
-        },
+        }
+      ],
+      "id": "lesson-07-19-summary-2"
+    },
+    {
+      "type": "LEARNING_MATERIAL",
+      "title": {
+        "sourceLanguage": "mixed",
+        "sourceText": "Grammar Presentation",
+        "id": "Penyajian Tata Bahasa"
+      },
+      "blocks": [
         {
           "type": "text",
           "style": "body",
@@ -4323,37 +4043,53 @@
                 }
               ]
             }
+          ],
+          "role": "reference"
+        }
+      ],
+      "id": "lesson-07-20-grammar-presentation-4"
+    },
+    {
+      "type": "EXAMPLES",
+      "title": {
+        "sourceLanguage": "mixed",
+        "sourceText": "EXAMPLES:",
+        "id": "Contoh"
+      },
+      "blocks": [
+        {
+          "type": "example",
+          "items": [
+            {
+              "sourceLanguage": "fil",
+              "sourceText": "Sino ang nagmamaneho ng kotse? Who is driving the car?",
+              "id": "Siapa yang mengemudi mobil?",
+              "tagalog": "Sino ang nagmamaneho ng kotse? Who is driving the car?"
+            }
           ]
         },
         {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "mixed",
-            "sourceText": "EXAMPLES:",
-            "id": "EXAMPLES:"
-          }
-        },
-        {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "fil",
-            "sourceText": "Sino ang nagmamaneho ng kotse? Who is driving the car?",
-            "id": "Siapa yang mengemudi mobil?",
-            "tagalog": "Sino ang nagmamaneho ng kotse? Who is driving the car?"
-          }
-        },
-        {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "fil",
-            "sourceText": "Sino ang magpupunta sa bahay namin? Who will go to our house?",
-            "id": "Siapa yang akan datang ke rumah kita?",
-            "tagalog": "Sino ang magpupunta sa bahay namin? Who will go to our house?"
-          }
-        },
+          "type": "example",
+          "items": [
+            {
+              "sourceLanguage": "fil",
+              "sourceText": "Sino ang magpupunta sa bahay namin? Who will go to our house?",
+              "id": "Siapa yang akan datang ke rumah kita?",
+              "tagalog": "Sino ang magpupunta sa bahay namin? Who will go to our house?"
+            }
+          ]
+        }
+      ],
+      "id": "lesson-07-21-examples-4"
+    },
+    {
+      "type": "LEARNING_MATERIAL",
+      "title": {
+        "sourceLanguage": "mixed",
+        "sourceText": "Grammar Presentation",
+        "id": "Penyajian Tata Bahasa"
+      },
+      "blocks": [
         {
           "type": "text",
           "style": "body",
@@ -4504,36 +4240,53 @@
                 }
               ]
             }
+          ],
+          "role": "reference"
+        }
+      ],
+      "id": "lesson-07-22-grammar-presentation-5"
+    },
+    {
+      "type": "EXAMPLES",
+      "title": {
+        "sourceLanguage": "mixed",
+        "sourceText": "EXAMPLES:",
+        "id": "Contoh"
+      },
+      "blocks": [
+        {
+          "type": "example",
+          "items": [
+            {
+              "sourceLanguage": "en",
+              "sourceText": "Nagbasa ka ba ng libro noong Biyernes? Did you read a book on Friday?",
+              "id": "Nagbasa ka ba ng libro noong Biyernes?",
+              "tagalog": "Nagbasa ka ba ng libro noong Biyernes?"
+            }
           ]
         },
         {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "mixed",
-            "sourceText": "EXAMPLES:",
-            "id": "EXAMPLES:"
-          }
-        },
-        {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "en",
-            "sourceText": "Nagbasa ka ba ng libro noong Biyernes? Did you read a book on Friday?",
-            "id": "Nagbasa ka ba ng libro noong Biyernes?"
-          }
-        },
-        {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "fil",
-            "sourceText": "Magluluto din po ako ng adobo sa Sabado. I am also cooking adobo on Saturday, sir/madam.",
-            "id": "Aku akan memasak sebuah adobo pada hari Sabtu, dan aku seorang albo memasak adobo pada hari Sabtu, ar / Madam.",
-            "tagalog": "Magluluto din po ako ng adobo sa Sabado. I am also cooking adobo on Saturday, sir/madam."
-          }
-        },
+          "type": "example",
+          "items": [
+            {
+              "sourceLanguage": "fil",
+              "sourceText": "Magluluto din po ako ng adobo sa Sabado. I am also cooking adobo on Saturday, sir/madam.",
+              "id": "Aku akan memasak sebuah adobo pada hari Sabtu, dan aku seorang albo memasak adobo pada hari Sabtu, ar / Madam.",
+              "tagalog": "Magluluto din po ako ng adobo sa Sabado. I am also cooking adobo on Saturday, sir/madam."
+            }
+          ]
+        }
+      ],
+      "id": "lesson-07-23-examples-5"
+    },
+    {
+      "type": "LEARNING_MATERIAL",
+      "title": {
+        "sourceLanguage": "mixed",
+        "sourceText": "Grammar Presentation",
+        "id": "Penyajian Tata Bahasa"
+      },
+      "blocks": [
         {
           "type": "text",
           "style": "body",
@@ -4746,46 +4499,53 @@
                 }
               ]
             }
+          ],
+          "role": "reference"
+        }
+      ],
+      "id": "lesson-07-24-grammar-presentation-6"
+    },
+    {
+      "type": "EXAMPLES",
+      "title": {
+        "sourceLanguage": "mixed",
+        "sourceText": "EXAMPLES:",
+        "id": "Contoh"
+      },
+      "blocks": [
+        {
+          "type": "example",
+          "items": [
+            {
+              "sourceLanguage": "fil",
+              "sourceText": "Hindi siya nag-ahit. He did not shave.",
+              "id": "Dia tidak bercukur, dia tidak memanggil bayangan.",
+              "tagalog": "Hindi siya nag-ahit. He did not shave."
+            }
           ]
         },
         {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "mixed",
-            "sourceText": "EXAMPLES:",
-            "id": "EXAMPLES:"
-          }
-        },
-        {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "fil",
-            "sourceText": "Hindi siya nag-ahit. He did not shave.",
-            "id": "Dia tidak bercukur, dia tidak memanggil bayangan.",
-            "tagalog": "Hindi siya nag-ahit. He did not shave."
-          }
-        },
-        {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "mixed",
-            "sourceText": "Hindi nagsipilyo ng ngipin ang bata. The kid did not brush his/her teeth.",
-            "id": "Hindi nagsipilyo ng ngipin ang bata.",
-            "tagalog": "Hindi nagsipilyo ng ngipin ang bata."
-          }
-        },
-        {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "mixed",
-            "sourceText": "Grammar Notes",
-            "id": "Catatan Tata Bahasa"
-          }
-        },
+          "type": "example",
+          "items": [
+            {
+              "sourceLanguage": "mixed",
+              "sourceText": "Hindi nagsipilyo ng ngipin ang bata. The kid did not brush his/her teeth.",
+              "id": "Hindi nagsipilyo ng ngipin ang bata.",
+              "tagalog": "Hindi nagsipilyo ng ngipin ang bata."
+            }
+          ]
+        }
+      ],
+      "id": "lesson-07-25-examples-6"
+    },
+    {
+      "type": "LEARNING_MATERIAL",
+      "title": {
+        "sourceLanguage": "mixed",
+        "sourceText": "Grammar Notes",
+        "id": "Catatan Tata Bahasa"
+      },
+      "blocks": [
         {
           "type": "table",
           "rows": [
@@ -4814,7 +4574,8 @@
                 {
                   "sourceLanguage": "en",
                   "sourceText": "3. Remember the following markers for different parts of the sentence or to convey other grammatical information:\n\nSubject: ang form\n\nDirect Object: ng, ng mga\n\nLocation: sa\n\nTime: noong (past time marker)\n\ntuwing (habitual marker)\n\nsa (future time marker)\n\n\n\n\nThe examples below illustrate the use of the different markers:\n\nNagluluto ang babae. The woman is cooking.\n\nNagluluto ng adobo ang babae. The woman is cooking adobo.\n\nNagluluto ang babae ng adobo sa kusina. The woman is cooking adobo in the kitchen.\n\nNagluto ang babae noong Linggo. The woman cooked last Sunday.\n\nNagluluto ang babae tuwing Linggo. The woman is cooking every Sunday.\n\nMagluluto ang babae sa Linggo. The woman will cook on Sunday.",
-                  "id": "Ingat penanda berikut untuk bagian yang berbeda dari kalimat atau untuk menyampaikan informasi tata bahasa lainnya: Subjek: formulir ang Objek Langsung: ng, ng mga Lokasi: sa Waktu: noong (penanda waktu masa lalu) tuwing (penanda kebiasaan) sa (penanda waktu di masa depan) Contoh di bawah ini menggambarkan penggunaan penanda yang berbeda: Naghuluto ang babae. Naghuluto ng adobo ang bababae. wanita itu memasak adobo. Naghuluto ang babaae ng adobo sa kusina. Nagluto ang babae noong Linggo. & lt; br / & gt; Wanita itu memasak Minggu lalu. Naghuluto ang babae tuwing Linggo. wanita itu memasak setiap hari Minggu. Magluluto ang babaae sa Linggo. wanita itu akan memasak pada hari Minggu."
+                  "id": "Ingat penanda berikut untuk bagian yang berbeda dari kalimat atau untuk menyampaikan informasi tata bahasa lainnya: Subjek: formulir ang Objek Langsung: ng, ng mga Lokasi: sa Waktu: noong (penanda waktu masa lalu) tuwing (penanda kebiasaan) sa (penanda waktu di masa depan) Contoh di bawah ini menggambarkan penggunaan penanda yang berbeda: Naghuluto ang babae. Naghuluto ng adobo ang bababae. wanita itu memasak adobo. Naghuluto ang babaae ng adobo sa kusina. Nagluto ang babae noong Linggo. & lt; br / & gt; Wanita itu memasak Minggu lalu. Naghuluto ang babae tuwing Linggo. wanita itu memasak setiap hari Minggu. Magluluto ang babaae sa Linggo. wanita itu akan memasak pada hari Minggu.",
+                  "tagalog": "ang ng ng mga sa noong tuwing Nagluluto ang babae. Nagluluto ng adobo ang babae. Nagluluto ang babae ng adobo sa kusina. in Nagluto ang babae noong Linggo. last Nagluluto ang babae tuwing Linggo. every Magluluto ang babae sa Linggo. on"
                 }
               ]
             },
@@ -4859,7 +4620,8 @@
                 {
                   "sourceLanguage": "en",
                   "sourceText": "8. The verbs magkita (to see each other, meet) and mag-usap (converse, speak to each other) are intransitive verbs. Since they describe social activities, these verbs require plural subjects. The sentences below illustrate the plural subjects who are also the actors in the sentences.\n\nNag-usap kami noong Biyernes. We talked last Friday.\n\nMagkikita sina Bob at Paul sa Lunes. Bob and Paul are going to meet each other on Monday.\n\n*Nagkita si Bob ng estudyante. (incorrect)",
-                  "id": "8 kata magkita (untuk bertemu) dan mag- usap (berkomunikasi, berbicara satu sama lain) adalah kata kerja yang tidak berubah. karena mereka menggambarkan aktivitas sosial, kata kerja ini memerlukan subyek plural kalimat dibawah menggambarkan subyek yang juga merupakan aktor dalam kalimat. Nag- usap kami noong Biyernes. Magkikita sina Bob di Paul sa Lunes, Bob dan Paul akan bertemu pada hari Senin. * Nagkita si Bob ng estudyante. (tidak benar)"
+                  "id": "8 kata magkita (untuk bertemu) dan mag- usap (berkomunikasi, berbicara satu sama lain) adalah kata kerja yang tidak berubah. karena mereka menggambarkan aktivitas sosial, kata kerja ini memerlukan subyek plural kalimat dibawah menggambarkan subyek yang juga merupakan aktor dalam kalimat. Nag- usap kami noong Biyernes. Magkikita sina Bob di Paul sa Lunes, Bob dan Paul akan bertemu pada hari Senin. * Nagkita si Bob ng estudyante. (tidak benar)",
+                  "tagalog": "magkita mag-usap Nag-usap kami noong Biyernes. kami Magkikita sina Bob at Paul sa Lunes. sina Bob at Paul Nagkita si Bob ng estudyante."
                 }
               ]
             },
@@ -4872,17 +4634,20 @@
                 }
               ]
             }
-          ]
-        },
-        {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "mixed",
-            "sourceText": "II. Telling Time (Formal)",
-            "id": "II. telling Time (Formal)"
-          }
-        },
+          ],
+          "role": "reference"
+        }
+      ],
+      "id": "lesson-07-26-grammar-notes"
+    },
+    {
+      "type": "LEARNING_MATERIAL",
+      "title": {
+        "sourceLanguage": "mixed",
+        "sourceText": "II. Telling Time (Formal)",
+        "id": "II. telling Time (Formal)"
+      },
+      "blocks": [
         {
           "type": "text",
           "style": "body",
@@ -5052,65 +4817,75 @@
                 }
               ]
             }
+          ],
+          "role": "reference"
+        }
+      ],
+      "id": "lesson-07-27-ii-telling-time-formal"
+    },
+    {
+      "type": "EXAMPLES",
+      "title": {
+        "sourceLanguage": "mixed",
+        "sourceText": "EXAMPLES:",
+        "id": "Contoh"
+      },
+      "blocks": [
+        {
+          "type": "example",
+          "items": [
+            {
+              "sourceLanguage": "en",
+              "sourceText": "Ano’ng oras ka magpupunta sa bahay ko? What time are you coming to my place?",
+              "id": "Ano 'ng oras ka magpupunta sa bahay ko?",
+              "tagalog": "Ano’ng oras ka magpupunta sa bahay ko?"
+            }
           ]
         },
         {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "mixed",
-            "sourceText": "EXAMPLES:",
-            "id": "EXAMPLES:"
-          }
+          "type": "example",
+          "items": [
+            {
+              "sourceLanguage": "fil",
+              "sourceText": "Magpupunta ako sa bahay mo nang alas siyete ng gabi. I will come to your place (house) at seven p.m.",
+              "id": "Aku akan datang ke rumah Anda pada pukul tujuh malam, saya akan saya ke tempat (rumah) dan tujuh p.m",
+              "tagalog": "Magpupunta ako sa bahay mo nang alas siyete ng gabi. I will come to your place (house) at seven p.m."
+            }
+          ]
         },
         {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "en",
-            "sourceText": "Ano’ng oras ka magpupunta sa bahay ko? What time are you coming to my place?",
-            "id": "Ano 'ng oras ka magpupunta sa bahay ko?"
-          }
+          "type": "example",
+          "items": [
+            {
+              "sourceLanguage": "fil",
+              "sourceText": "Nag-aral ka ba ng Tagalog kahapon? Did you study Tagalog yesterday?",
+              "id": "Apa kau belajar bahasa Inggris kemarin?",
+              "tagalog": "Nag-aral ka ba ng Tagalog kahapon? Did you study Tagalog yesterday?"
+            }
+          ]
         },
         {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "fil",
-            "sourceText": "Magpupunta ako sa bahay mo nang alas siyete ng gabi. I will come to your place (house) at seven p.m.",
-            "id": "Aku akan datang ke rumah Anda pada pukul tujuh malam, saya akan saya ke tempat (rumah) dan tujuh p.m",
-            "tagalog": "Magpupunta ako sa bahay mo nang alas siyete ng gabi. I will come to your place (house) at seven p.m."
-          }
-        },
-        {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "fil",
-            "sourceText": "Nag-aral ka ba ng Tagalog kahapon? Did you study Tagalog yesterday?",
-            "id": "Apa kau belajar bahasa Inggris kemarin?",
-            "tagalog": "Nag-aral ka ba ng Tagalog kahapon? Did you study Tagalog yesterday?"
-          }
-        },
-        {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "fil",
-            "sourceText": "Oo. Nag-aral ako nang alas sais ng hapon hanggang alas onse ng gabi. Yes. I studied from six p.m. to eleven p.m.",
-            "id": "Ya, aku pergi ke sekolah pukul enam sore sampai pukul tujuh malam.",
-            "tagalog": "Oo. Nag-aral ako nang alas sais ng hapon hanggang alas onse ng gabi. Yes. I studied from six p.m. to eleven p.m."
-          }
-        },
-        {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "mixed",
-            "sourceText": "Grammar Notes",
-            "id": "Catatan Tata Bahasa"
-          }
-        },
+          "type": "example",
+          "items": [
+            {
+              "sourceLanguage": "fil",
+              "sourceText": "Oo. Nag-aral ako nang alas sais ng hapon hanggang alas onse ng gabi. Yes. I studied from six p.m. to eleven p.m.",
+              "id": "Ya, aku pergi ke sekolah pukul enam sore sampai pukul tujuh malam.",
+              "tagalog": "Oo. Nag-aral ako nang alas sais ng hapon hanggang alas onse ng gabi. Yes. I studied from six p.m. to eleven p.m."
+            }
+          ]
+        }
+      ],
+      "id": "lesson-07-28-examples-7"
+    },
+    {
+      "type": "LEARNING_MATERIAL",
+      "title": {
+        "sourceLanguage": "mixed",
+        "sourceText": "Grammar Notes",
+        "id": "Catatan Tata Bahasa"
+      },
+      "blocks": [
         {
           "type": "table",
           "rows": [
@@ -5119,7 +4894,8 @@
                 {
                   "sourceLanguage": "en",
                   "sourceText": "1. Nang is used to mark the time. The verb aspect determines whether the action has started or ended.\n\nNagpunta ako sa parke nang alas otso. I went to the park at 8:00 o’clock.\n\nNagpupunta ako sa parke nang alas otso. I go to the park at 8:00 o’clock.\n\nMagpupunta ako sa parke nang alas otso. I will go to the park at 8:00 o’clock.",
-                  "id": "1 Nang digunakan untuk menandai waktu aspek kata kerja menentukan apakah aksi telah dimulai atau berakhir Aku pergi ke taman pada pukul 8: 00. Aku pergi ke taman pada pukul 8: 00. Aku akan pergi ke taman jam 8: 00."
+                  "id": "1 Nang digunakan untuk menandai waktu aspek kata kerja menentukan apakah aksi telah dimulai atau berakhir Aku pergi ke taman pada pukul 8: 00. Aku pergi ke taman pada pukul 8: 00. Aku akan pergi ke taman jam 8: 00.",
+                  "tagalog": "Nang Nagpunta ako sa parke nang alas otso. nang alas otso Nagpupunta ako sa parke nang alas otso. Magpupunta ako sa parke nang alas otso."
                 }
               ]
             },
@@ -5148,7 +4924,8 @@
                 {
                   "sourceLanguage": "en",
                   "sourceText": "4. Spanish numbers are usually used when telling time in Tagalog. The Spanish is perceived as more conversational compared to its Tagalog counterpart, which is perceived as more formal.\n\nMagluluto ako nang alas kuwatro ng hapon. (conversational)\n\nMagluluto ako nang ikaapat ng hapon. (formal)",
-                  "id": "4 angka Spanyol biasanya digunakan ketika mengatakan waktu dalam Tagalog. Spanyol dianggap sebagai lebih banyak percakapan dibandingkan dengan lawan Tagalog nya, yang dianggap sebagai lebih formal. Magluto ako nang alas kuwatro ng hapon. (percakapan) Maluluto ako nang ikaapat ng hapon. (formal)"
+                  "id": "4 angka Spanyol biasanya digunakan ketika mengatakan waktu dalam Tagalog. Spanyol dianggap sebagai lebih banyak percakapan dibandingkan dengan lawan Tagalog nya, yang dianggap sebagai lebih formal. Magluto ako nang alas kuwatro ng hapon. (percakapan) Maluluto ako nang ikaapat ng hapon. (formal)",
+                  "tagalog": "Magluluto ako nang alas kuwatro ng hapon. Magluluto ako nang ikaapat ng hapon."
                 }
               ]
             },
@@ -5157,44 +4934,28 @@
                 {
                   "sourceLanguage": "en",
                   "sourceText": "5. Ng tanghali is used only for 12:00 noon and increments after the noon hour. One p.m. is ala una ng hapon.",
-                  "id": "5 Ng tanghali hanya digunakan untuk 12: 00 siang dan bertahap setelah tengah hari satu malam adalah ala una ng hapon."
+                  "id": "5 Ng tanghali hanya digunakan untuk 12: 00 siang dan bertahap setelah tengah hari satu malam adalah ala una ng hapon.",
+                  "tagalog": "Ng tanghali ala una ng hapon"
                 }
               ]
             }
-          ]
+          ],
+          "role": "reference"
         }
-      ]
+      ],
+      "id": "lesson-07-29-grammar-notes-2"
     },
     {
-      "id": "lesson-07-practice",
-      "type": "PRACTICE",
+      "type": "EXERCISES",
       "title": {
-        "sourceLanguage": "mixed",
-        "sourceText": "Practice",
-        "id": "Latihan"
+        "sourceLanguage": "en",
+        "sourceText": "I. Speaking Practice",
+        "id": "I. Latihan Berbicara"
       },
       "blocks": [
         {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "mixed",
-            "sourceText": "Practice",
-            "id": "Latihan"
-          }
-        },
-        {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "en",
-            "sourceText": "I. Speaking Practice",
-            "id": "I. Latihan Berbicara"
-          }
-        },
-        {
-          "type": "text",
-          "style": "body",
+          "type": "exercise",
+          "role": "content",
           "text": {
             "sourceLanguage": "en",
             "sourceText": "This is an information gap activity to be done by pairs.",
@@ -5202,8 +4963,8 @@
           }
         },
         {
-          "type": "text",
-          "style": "body",
+          "type": "exercise",
+          "role": "question",
           "text": {
             "sourceLanguage": "en",
             "sourceText": "WORKSHEET A: What will Freddy do this week? In your worksheet, some information is missing that can be found in Worksheet B. Ask your partner for the missing information. Then compare your activity sheets afterwards.",
@@ -5211,8 +4972,8 @@
           }
         },
         {
-          "type": "text",
-          "style": "body",
+          "type": "exercise",
+          "role": "content",
           "text": {
             "sourceLanguage": "mixed",
             "sourceText": "EXAMPLES:",
@@ -5220,8 +4981,8 @@
           }
         },
         {
-          "type": "text",
-          "style": "body",
+          "type": "exercise",
+          "role": "question",
           "text": {
             "sourceLanguage": "fil",
             "sourceText": "STUDENT 1: Ano ang gagawin ni Freddy sa Lunes nang alas nuwebe ng umaga?",
@@ -5230,8 +4991,8 @@
           }
         },
         {
-          "type": "text",
-          "style": "body",
+          "type": "exercise",
+          "role": "content",
           "text": {
             "sourceLanguage": "fil",
             "sourceText": "STUDENT 2: Magkakape si Freddy kasama si Jed.",
@@ -5240,8 +5001,8 @@
           }
         },
         {
-          "type": "text",
-          "style": "body",
+          "type": "exercise",
+          "role": "question",
           "text": {
             "sourceLanguage": "fil",
             "sourceText": "STUDENT 1: Kailan magtatanghalian si Freddy sa bahay ni Brian?",
@@ -5250,8 +5011,8 @@
           }
         },
         {
-          "type": "text",
-          "style": "body",
+          "type": "exercise",
+          "role": "content",
           "text": {
             "sourceLanguage": "fil",
             "sourceText": "STUDENT 2: Sa Lunes nang alas dose ng tanghali.",
@@ -5260,7 +5021,8 @@
           }
         },
         {
-          "type": "table",
+          "type": "exercise",
+          "role": "worksheet",
           "rows": [
             {
               "cells": [
@@ -5391,8 +5153,8 @@
           ]
         },
         {
-          "type": "text",
-          "style": "body",
+          "type": "exercise",
+          "role": "question",
           "text": {
             "sourceLanguage": "en",
             "sourceText": "WORKSHEET B: What will Freddy do this week? In your worksheet, some information is missing that can be found in Worksheet A. Ask your partner for the missing information. Then compare your activity sheets afterwards.",
@@ -5400,8 +5162,8 @@
           }
         },
         {
-          "type": "text",
-          "style": "body",
+          "type": "exercise",
+          "role": "content",
           "text": {
             "sourceLanguage": "mixed",
             "sourceText": "EXAMPLES:",
@@ -5409,8 +5171,8 @@
           }
         },
         {
-          "type": "text",
-          "style": "body",
+          "type": "exercise",
+          "role": "question",
           "text": {
             "sourceLanguage": "fil",
             "sourceText": "STUDENT 1: Ano ang gagawin ni Freddy sa Lunes nang alas nuwebe ng umaga?",
@@ -5419,8 +5181,8 @@
           }
         },
         {
-          "type": "text",
-          "style": "body",
+          "type": "exercise",
+          "role": "content",
           "text": {
             "sourceLanguage": "fil",
             "sourceText": "STUDENT 2: Magkakape si Freddy kasama si Jed.",
@@ -5429,8 +5191,8 @@
           }
         },
         {
-          "type": "text",
-          "style": "body",
+          "type": "exercise",
+          "role": "question",
           "text": {
             "sourceLanguage": "fil",
             "sourceText": "STUDENT 1: Kailan magtatanghalian si Freddy sa bahay ni Brian?",
@@ -5439,8 +5201,8 @@
           }
         },
         {
-          "type": "text",
-          "style": "body",
+          "type": "exercise",
+          "role": "content",
           "text": {
             "sourceLanguage": "fil",
             "sourceText": "STUDENT 2: Sa Lunes nang alas dose ng tanghali.",
@@ -5449,7 +5211,8 @@
           }
         },
         {
-          "type": "table",
+          "type": "exercise",
+          "role": "worksheet",
           "rows": [
             {
               "cells": [
@@ -5578,19 +5341,21 @@
               ]
             }
           ]
-        },
+        }
+      ],
+      "id": "lesson-07-30-i-speaking-practice"
+    },
+    {
+      "type": "EXERCISES",
+      "title": {
+        "sourceLanguage": "mixed",
+        "sourceText": "II. Reading Practice",
+        "id": "II. Latihan Membaca"
+      },
+      "blocks": [
         {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "mixed",
-            "sourceText": "II. Reading Practice",
-            "id": "II. Latihan Membaca"
-          }
-        },
-        {
-          "type": "text",
-          "style": "body",
+          "type": "exercise",
+          "role": "content",
           "text": {
             "sourceLanguage": "en",
             "sourceText": "Review Jimmy’s schedule for next week and answer the Reading Comprehension questions.",
@@ -5598,8 +5363,8 @@
           }
         },
         {
-          "type": "text",
-          "style": "body",
+          "type": "exercise",
+          "role": "content",
           "text": {
             "sourceLanguage": "fil",
             "sourceText": "Ang Kalendaryo Ko",
@@ -5612,7 +5377,8 @@
           "path": "assets/135.jpg"
         },
         {
-          "type": "table",
+          "type": "exercise",
+          "role": "worksheet",
           "rows": [
             {
               "cells": [
@@ -5697,19 +5463,21 @@
               ]
             }
           ]
-        },
+        }
+      ],
+      "id": "lesson-07-31-ii-reading-practice"
+    },
+    {
+      "type": "EXERCISES",
+      "title": {
+        "sourceLanguage": "mixed",
+        "sourceText": "Reading Comprehension",
+        "id": "Pemahaman Bacaan"
+      },
+      "blocks": [
         {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "mixed",
-            "sourceText": "Reading Comprehension",
-            "id": "Pemahaman Bacaan"
-          }
-        },
-        {
-          "type": "text",
-          "style": "body",
+          "type": "exercise",
+          "role": "question",
           "text": {
             "sourceLanguage": "fil",
             "sourceText": "1. Magpupunta ba ang nobya ni Jimmy sa bahay niya?",
@@ -5718,8 +5486,8 @@
           }
         },
         {
-          "type": "text",
-          "style": "body",
+          "type": "exercise",
+          "role": "question",
           "text": {
             "sourceLanguage": "fil",
             "sourceText": "2. Ano ang okasyon sa Lunes?",
@@ -5728,8 +5496,8 @@
           }
         },
         {
-          "type": "text",
-          "style": "body",
+          "type": "exercise",
+          "role": "question",
           "text": {
             "sourceLanguage": "fil",
             "sourceText": "3. Saan magpupunta sina Jimmy sa Martes?",
@@ -5738,8 +5506,8 @@
           }
         },
         {
-          "type": "text",
-          "style": "body",
+          "type": "exercise",
+          "role": "question",
           "text": {
             "sourceLanguage": "fil",
             "sourceText": "4. Mayroon bang pasok sa Miyerkules sina Jimmy?",
@@ -5748,8 +5516,8 @@
           }
         },
         {
-          "type": "text",
-          "style": "body",
+          "type": "exercise",
+          "role": "question",
           "text": {
             "sourceLanguage": "fil",
             "sourceText": "5. Kailan maglilinis ng bahay si Jimmy?",
@@ -5758,8 +5526,8 @@
           }
         },
         {
-          "type": "text",
-          "style": "body",
+          "type": "exercise",
+          "role": "question",
           "text": {
             "sourceLanguage": "fil",
             "sourceText": "6. Saan maghahapunan si Jimmy at ang mga kaibigan niya sa Huwebes?",
@@ -5768,8 +5536,8 @@
           }
         },
         {
-          "type": "text",
-          "style": "body",
+          "type": "exercise",
+          "role": "question",
           "text": {
             "sourceLanguage": "fil",
             "sourceText": "7. Ano’ng oras magkikita si Jimmy at ang mga kaibigan niya sa Huwebes?",
@@ -5778,8 +5546,8 @@
           }
         },
         {
-          "type": "text",
-          "style": "body",
+          "type": "exercise",
+          "role": "question",
           "text": {
             "sourceLanguage": "fil",
             "sourceText": "8. Saan magpupunta si Jimmy at ang mga kaibigan niya sa Biyernes?",
@@ -5788,8 +5556,8 @@
           }
         },
         {
-          "type": "text",
-          "style": "body",
+          "type": "exercise",
+          "role": "question",
           "text": {
             "sourceLanguage": "fil",
             "sourceText": "9. Sa palagay mo, kailan ang paboritong araw ni Jimmy?",
@@ -5798,27 +5566,29 @@
           }
         },
         {
-          "type": "text",
-          "style": "body",
+          "type": "exercise",
+          "role": "question",
           "text": {
             "sourceLanguage": "fil",
             "sourceText": "10. Sino ang kasama ni Jimmy sa Sabado at Linggo?",
             "id": "Siapa yang menemani Jimmy pada hari Sabtu dan Minggu?",
             "tagalog": "10. Sino ang kasama ni Jimmy sa Sabado at Linggo?"
           }
-        },
+        }
+      ],
+      "id": "lesson-07-32-reading-comprehension"
+    },
+    {
+      "type": "EXERCISES",
+      "title": {
+        "sourceLanguage": "mixed",
+        "sourceText": "III. Writing Practice",
+        "id": "III. Latihan Menulis"
+      },
+      "blocks": [
         {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "mixed",
-            "sourceText": "III. Writing Practice",
-            "id": "III. Latihan Menulis"
-          }
-        },
-        {
-          "type": "text",
-          "style": "body",
+          "type": "exercise",
+          "role": "question",
           "text": {
             "sourceLanguage": "en",
             "sourceText": "What are your plans for the following week? Write down your schedule in the space provided below. Write at least two to three activities for each day, and try not to use the same verb more than twice.",
@@ -5826,7 +5596,8 @@
           }
         },
         {
-          "type": "table",
+          "type": "exercise",
+          "role": "worksheet",
           "rows": [
             {
               "cells": [
@@ -5915,8 +5686,8 @@
           ]
         },
         {
-          "type": "text",
-          "style": "body",
+          "type": "exercise",
+          "role": "content",
           "text": {
             "sourceLanguage": "en",
             "sourceText": "To Download the audio files, please click here.",
@@ -5926,19 +5697,21 @@
         {
           "type": "image",
           "path": "assets/cd.jpg"
-        },
+        }
+      ],
+      "id": "lesson-07-33-iii-writing-practice"
+    },
+    {
+      "type": "EXERCISES",
+      "title": {
+        "sourceLanguage": "mixed",
+        "sourceText": "IV. Listening Practice",
+        "id": "IV. Latihan Menyimak"
+      },
+      "blocks": [
         {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "mixed",
-            "sourceText": "IV. Listening Practice",
-            "id": "IV. Latihan Menyimak"
-          }
-        },
-        {
-          "type": "text",
-          "style": "body",
+          "type": "exercise",
+          "role": "instruction",
           "text": {
             "sourceLanguage": "en",
             "sourceText": "Using the Bonus Material of the book, listen to audio file (07–2) and complete the information in the box below.",
@@ -5946,7 +5719,8 @@
           }
         },
         {
-          "type": "table",
+          "type": "exercise",
+          "role": "worksheet",
           "rows": [
             {
               "cells": [
@@ -5998,7 +5772,36 @@
             }
           ]
         }
-      ]
+      ],
+      "id": "lesson-07-34-iv-listening-practice"
     }
-  ]
+  ],
+  "structureVersion": 2,
+  "contentAudit": {
+    "sourceTextItemsBefore": 740,
+    "sourceTextItemsAfter": 734,
+    "uniqueSourceItemsPreserved": 547,
+    "duplicateHeadingsRemoved": 4,
+    "blankFragmentsRemoved": 5,
+    "sectionTypes": {
+      "DIALOGUE": 1,
+      "EXAMPLES": 7,
+      "EXERCISES": 9,
+      "INTRODUCTION": 1,
+      "LEARNING_MATERIAL": 13,
+      "SUMMARY": 2,
+      "VOCABULARY": 1
+    },
+    "blockTypes": {
+      "dialogue": 1,
+      "example": 16,
+      "exercise": 70,
+      "image": 5,
+      "list": 2,
+      "table": 12,
+      "text": 49,
+      "vocabulary": 10
+    },
+    "duplicateBlocksRemoved": 0
+  }
 }

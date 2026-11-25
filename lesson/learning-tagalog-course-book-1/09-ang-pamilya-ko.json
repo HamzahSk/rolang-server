@@ -1,0 +1,2551 @@
+{
+  "schemaVersion": 1,
+  "structureVersion": 2,
+  "id": "learning-tagalog-course-book-1-lesson-09",
+  "courseId": "learning-tagalog-course-book-1",
+  "unitId": "course-book-1-unit-03-family-time-and-home",
+  "order": 9,
+  "level": "BEGINNER",
+  "title": {
+    "id": "Keluarga saya",
+    "fil": "Ang pamilya ko"
+  },
+  "summary": {
+    "id": "Mia menunjukkan kepada temannya Mike album foto dengan foto keluarganya.",
+    "fil": "Ang pamilya ko"
+  },
+  "objectives": [
+    {
+      "sourceLanguage": "mixed",
+      "sourceText": "Chapter 9 · Story A",
+      "id": "Memahami dialog utama Bab 9 tentang keluarga saya."
+    },
+    {
+      "sourceLanguage": "mixed",
+      "sourceText": "Literal and natural translations",
+      "id": "Membandingkan susunan Tagalog dengan glosa harfiah dan terjemahan alami dari sumber."
+    },
+    {
+      "sourceLanguage": "mixed",
+      "sourceText": "Drills",
+      "id": "Melatih kembali pola dan ungkapan pada bagian Drills."
+    }
+  ],
+  "source": {
+    "book": "Learning Tagalog - Fluency Made Fast and Easy - Course Book 1",
+    "file": "Learning Tagalog - Fluency Made Fast and Easy - Course Book 1.pdf",
+    "pdfSha256": "52e9f464239c2ae98248a452edfbf1f58eb01bec69374a16d5205e70afa80f58",
+    "chapter": 9,
+    "pages": {
+      "start": 210,
+      "end": 237
+    },
+    "drillsDividerPage": 225,
+    "recapPage": 237
+  },
+  "sourceLinks": [
+    {
+      "page": 224,
+      "uri": "https://learningtagalog.com/grammar/verbs/aspects/overview.html"
+    }
+  ],
+  "assets": [
+    "assets/09-ang-pamilya-ko.jpg"
+  ],
+  "sections": [
+    {
+      "id": "introduction",
+      "type": "INTRODUCTION",
+      "title": {
+        "sourceLanguage": "mixed",
+        "sourceText": "My family",
+        "id": "Keluarga saya"
+      },
+      "blocks": [
+        {
+          "type": "image",
+          "path": "assets/09-ang-pamilya-ko.jpg",
+          "sourcePage": 210
+        },
+        {
+          "type": "text",
+          "style": "heading",
+          "text": {
+            "sourceLanguage": "en",
+            "sourceText": "My family",
+            "id": "Keluarga saya"
+          }
+        }
+      ]
+    },
+    {
+      "id": "learning-material",
+      "type": "LEARNING_MATERIAL",
+      "title": {
+        "sourceLanguage": "mixed",
+        "sourceText": "Chapter context",
+        "id": "Konteks bab"
+      },
+      "blocks": [
+        {
+          "type": "text",
+          "style": "body",
+          "sourcePage": 210,
+          "text": {
+            "sourceLanguage": "en",
+            "sourceText": "Mia shows her friend Mike a photo album with a picture of her family.",
+            "id": "Mia menunjukkan kepada temannya Mike album foto dengan foto keluarganya."
+          }
+        },
+        {
+          "type": "text",
+          "style": "body",
+          "sourcePage": 224,
+          "sourceLabel": "A 14",
+          "links": [
+            "https://learningtagalog.com/grammar/verbs/aspects/overview.html"
+          ],
+          "text": {
+            "sourceLanguage": "en",
+            "sourceText": "Nag-aaral is a verb in the uncompleted form. This form is used when the action has been started but not completed, or when the action is habitual or is a general fact. We'll have a closer look at the verbs in later lessons.",
+            "id": "A 14 · halaman PDF 224\n\nNag-aaral adalah kata kerja yang belum selesai. Bentuk ini digunakan ketika tindakan telah dimulai tetapi belum selesai, atau ketika tindakan tersebut merupakan kebiasaan atau merupakan fakta umum. Kita akan melihat lebih dekat kata kerjanya pada pelajaran berikutnya."
+          }
+        }
+      ]
+    },
+    {
+      "id": "dialogue",
+      "type": "DIALOGUE",
+      "title": {
+        "sourceLanguage": "mixed",
+        "sourceText": "Story A",
+        "id": "Dialog utama (Bagian A)"
+      },
+      "blocks": [
+        {
+          "type": "dialogue",
+          "turns": [
+            {
+              "speaker": "A 01",
+              "speakerText": {
+                "sourceLanguage": "mixed",
+                "sourceText": "A 01",
+                "id": "Bagian A 01"
+              },
+              "text": {
+                "sourceLanguage": "fil",
+                "sourceText": "Ang pamilya ko",
+                "id": "Keluarga saya",
+                "tagalog": "Ang pamilya ko"
+              },
+              "sourcePage": 211
+            },
+            {
+              "speaker": "A 02",
+              "speakerText": {
+                "sourceLanguage": "mixed",
+                "sourceText": "A 02",
+                "id": "Bagian A 02"
+              },
+              "text": {
+                "sourceLanguage": "fil",
+                "sourceText": "Ito ang picture ng pamilya ko.",
+                "id": "Ini adalah foto keluargaku.",
+                "tagalog": "Ito ang picture ng pamilya ko."
+              },
+              "sourcePage": 212
+            },
+            {
+              "speaker": "A 03",
+              "speakerText": {
+                "sourceLanguage": "mixed",
+                "sourceText": "A 03",
+                "id": "Bagian A 03"
+              },
+              "text": {
+                "sourceLanguage": "fil",
+                "sourceText": "Sino ito?",
+                "id": "Siapa ini?",
+                "tagalog": "Sino ito?"
+              },
+              "sourcePage": 213
+            },
+            {
+              "speaker": "A 04",
+              "speakerText": {
+                "sourceLanguage": "mixed",
+                "sourceText": "A 04",
+                "id": "Bagian A 04"
+              },
+              "text": {
+                "sourceLanguage": "fil",
+                "sourceText": "Ito si Kuya Ryan.",
+                "id": "Ini kakak laki-lakiku, Ryan.",
+                "tagalog": "Ito si Kuya Ryan."
+              },
+              "sourcePage": 214
+            },
+            {
+              "speaker": "A 05",
+              "speakerText": {
+                "sourceLanguage": "mixed",
+                "sourceText": "A 05",
+                "id": "Bagian A 05"
+              },
+              "text": {
+                "sourceLanguage": "fil",
+                "sourceText": "Ilang taon na siya?",
+                "id": "Berapa umurnya?",
+                "tagalog": "Ilang taon na siya?"
+              },
+              "sourcePage": 215
+            },
+            {
+              "speaker": "A 06",
+              "speakerText": {
+                "sourceLanguage": "mixed",
+                "sourceText": "A 06",
+                "id": "Bagian A 06"
+              },
+              "text": {
+                "sourceLanguage": "fil",
+                "sourceText": "Twenty-six na siya.",
+                "id": "Dia berumur dua puluh enam tahun.",
+                "tagalog": "Twenty-six na siya."
+              },
+              "sourcePage": 216
+            },
+            {
+              "speaker": "A 07",
+              "speakerText": {
+                "sourceLanguage": "mixed",
+                "sourceText": "A 07",
+                "id": "Bagian A 07"
+              },
+              "text": {
+                "sourceLanguage": "fil",
+                "sourceText": "May asawa na ba siya?",
+                "id": "Apakah dia sudah menikah?",
+                "tagalog": "May asawa na ba siya?"
+              },
+              "sourcePage": 217
+            },
+            {
+              "speaker": "A 08",
+              "speakerText": {
+                "sourceLanguage": "mixed",
+                "sourceText": "A 08",
+                "id": "Bagian A 08"
+              },
+              "text": {
+                "sourceLanguage": "fil",
+                "sourceText": "Meron. At may isang anak sila.",
+                "id": "Ya. Dan mereka memiliki satu anak.",
+                "tagalog": "Meron. At may isang anak sila."
+              },
+              "sourcePage": 218
+            },
+            {
+              "speaker": "A 09",
+              "speakerText": {
+                "sourceLanguage": "mixed",
+                "sourceText": "A 09",
+                "id": "Bagian A 09"
+              },
+              "text": {
+                "sourceLanguage": "fil",
+                "sourceText": "A. E ito? Siya ba ang tatay mo?",
+                "id": "Jadi begitu. Bagaimana dengan ini (satu)? Apakah dia ayahmu?",
+                "tagalog": "A. E ito? Siya ba ang tatay mo?"
+              },
+              "sourcePage": 219
+            },
+            {
+              "speaker": "A 10",
+              "speakerText": {
+                "sourceLanguage": "mixed",
+                "sourceText": "A 10",
+                "id": "Bagian A 10"
+              },
+              "text": {
+                "sourceLanguage": "fil",
+                "sourceText": "Oo. Dentista siya.",
+                "id": "Ya. Dia seorang dokter gigi.",
+                "tagalog": "Oo. Dentista siya."
+              },
+              "sourcePage": 220
+            },
+            {
+              "speaker": "A 11",
+              "speakerText": {
+                "sourceLanguage": "mixed",
+                "sourceText": "A 11",
+                "id": "Bagian A 11"
+              },
+              "text": {
+                "sourceLanguage": "fil",
+                "sourceText": "Ano ang pangalan ng mga magulang mo?",
+                "id": "Siapa nama orang tuamu?",
+                "tagalog": "Ano ang pangalan ng mga magulang mo?"
+              },
+              "sourcePage": 221
+            },
+            {
+              "speaker": "A 12",
+              "speakerText": {
+                "sourceLanguage": "mixed",
+                "sourceText": "A 12",
+                "id": "Bagian A 12"
+              },
+              "text": {
+                "sourceLanguage": "fil",
+                "sourceText": "Edwin at Arlene.",
+                "id": "Edwin dan Arlene.",
+                "tagalog": "Edwin at Arlene."
+              },
+              "sourcePage": 222
+            },
+            {
+              "speaker": "A 13",
+              "speakerText": {
+                "sourceLanguage": "mixed",
+                "sourceText": "A 13",
+                "id": "Bagian A 13"
+              },
+              "text": {
+                "sourceLanguage": "fil",
+                "sourceText": "At ito ang bunso', di ba?",
+                "id": "Dan ini yang termuda, kan?",
+                "tagalog": "At ito ang bunso', di ba?"
+              },
+              "sourcePage": 223
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "vocabulary",
+      "type": "VOCABULARY",
+      "title": {
+        "sourceLanguage": "mixed",
+        "sourceText": "Vocabulary and expressions",
+        "id": "Kosakata dan ungkapan"
+      },
+      "blocks": [
+        {
+          "type": "vocabulary",
+          "entries": [
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "Ang",
+                "id": "penanda definit",
+                "tagalog": "Ang"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "The",
+                "id": "penanda definit"
+              },
+              "sourcePage": 211
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "pamilya",
+                "id": "Keluarga",
+                "tagalog": "pamilya"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "family",
+                "id": "Keluarga"
+              },
+              "sourcePage": 211
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "ko",
+                "id": "milikku",
+                "tagalog": "ko"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "my",
+                "id": "milikku"
+              },
+              "sourcePage": 211
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "Ito",
+                "id": "Ini",
+                "tagalog": "Ito"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "This",
+                "id": "Ini"
+              },
+              "sourcePage": 212
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "picture",
+                "id": "Gambar",
+                "tagalog": "picture"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "picture",
+                "id": "Gambar"
+              },
+              "sourcePage": 212
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "ng",
+                "id": "Dari",
+                "tagalog": "ng"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "of",
+                "id": "Dari"
+              },
+              "sourcePage": 212
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "Sino",
+                "id": "Siapa",
+                "tagalog": "Sino"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "Who",
+                "id": "Siapa"
+              },
+              "sourcePage": 213
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "si",
+                "id": "[penanda ang]",
+                "tagalog": "si"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "[Ang marker]",
+                "id": "[penanda ang]"
+              },
+              "sourcePage": 214
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "Kuya Ryan.",
+                "id": "Kakak Ryan.",
+                "tagalog": "Kuya Ryan."
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "Older Brother Ryan.",
+                "id": "Kakak Ryan."
+              },
+              "sourcePage": 214
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "Ilang",
+                "id": "Berapa banyak-[penghubung]",
+                "tagalog": "Ilang"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "How many-[linker]",
+                "id": "Berapa banyak-[penghubung]"
+              },
+              "sourcePage": 215
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "taon",
+                "id": "Tahun",
+                "tagalog": "taon"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "year",
+                "id": "Tahun"
+              },
+              "sourcePage": 215
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "na",
+                "id": "Sekarang",
+                "tagalog": "na"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "now",
+                "id": "Sekarang"
+              },
+              "sourcePage": 215
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "siya?",
+                "id": "Dia?",
+                "tagalog": "siya?"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "he/she?",
+                "id": "Dia?"
+              },
+              "sourcePage": 215
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "Twenty-six",
+                "id": "Dua puluh enam",
+                "tagalog": "Twenty-six"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "Twenty-six",
+                "id": "Dua puluh enam"
+              },
+              "sourcePage": 216
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "May",
+                "id": "Memiliki",
+                "tagalog": "May"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "Has",
+                "id": "Memiliki"
+              },
+              "sourcePage": 217
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "asawa",
+                "id": "Pasangan",
+                "tagalog": "asawa"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "spouse",
+                "id": "Pasangan"
+              },
+              "sourcePage": 217
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "ba",
+                "id": "[penanda tanya]",
+                "tagalog": "ba"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "[question]",
+                "id": "[penanda tanya]"
+              },
+              "sourcePage": 217
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "Meron.",
+                "id": "Punya satu.",
+                "tagalog": "Meron."
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "Has one.",
+                "id": "Punya satu."
+              },
+              "sourcePage": 218
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "At",
+                "id": "Dan",
+                "tagalog": "At"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "And",
+                "id": "Dan"
+              },
+              "sourcePage": 218
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "isang",
+                "id": "Satu-[penghubung]",
+                "tagalog": "isang"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "one-[linker]",
+                "id": "Satu-[penghubung]"
+              },
+              "sourcePage": 218
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "anak",
+                "id": "Putra/putri",
+                "tagalog": "anak"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "son/daughter",
+                "id": "Putra/putri"
+              },
+              "sourcePage": 218
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "sila.",
+                "id": "Mereka.",
+                "tagalog": "sila."
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "they.",
+                "id": "Mereka."
+              },
+              "sourcePage": 218
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "A.",
+                "id": "Ah.",
+                "tagalog": "A."
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "Ah.",
+                "id": "Ah."
+              },
+              "sourcePage": 219
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "E",
+                "id": "Bagaimana dengan",
+                "tagalog": "E"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "How about",
+                "id": "Bagaimana dengan"
+              },
+              "sourcePage": 219
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "tatay",
+                "id": "Ayah",
+                "tagalog": "tatay"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "dad",
+                "id": "Ayah"
+              },
+              "sourcePage": 219
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "mo?",
+                "id": "Milikmu?",
+                "tagalog": "mo?"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "your?",
+                "id": "Milikmu?"
+              },
+              "sourcePage": 219
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "Oo.",
+                "id": "Ya.",
+                "tagalog": "Oo."
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "Yes.",
+                "id": "Ya."
+              },
+              "sourcePage": 220
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "Dentista",
+                "id": "Dokter gigi",
+                "tagalog": "Dentista"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "Dentist",
+                "id": "Dokter gigi"
+              },
+              "sourcePage": 220
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "Ano",
+                "id": "Apa",
+                "tagalog": "Ano"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "What",
+                "id": "Apa"
+              },
+              "sourcePage": 221
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "pangalan",
+                "id": "Nama",
+                "tagalog": "pangalan"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "name",
+                "id": "Nama"
+              },
+              "sourcePage": 221
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "mga",
+                "id": "[jamak]",
+                "tagalog": "mga"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "[plural]",
+                "id": "[jamak]"
+              },
+              "sourcePage": 221
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "magulang",
+                "id": "Induk",
+                "tagalog": "magulang"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "parent",
+                "id": "Induk"
+              },
+              "sourcePage": 221
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "Edwin",
+                "id": "Edwin",
+                "tagalog": "Edwin"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "Edwin",
+                "id": "Edwin"
+              },
+              "sourcePage": 222
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "Arlene.",
+                "id": "Arlene.",
+                "tagalog": "Arlene."
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "Arlene.",
+                "id": "Arlene."
+              },
+              "sourcePage": 222
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "bunso',",
+                "id": "Anak bungsu,",
+                "tagalog": "bunso',"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "youngest child,",
+                "id": "Anak bungsu,"
+              },
+              "sourcePage": 223
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "di ba?",
+                "id": "Kanan?",
+                "tagalog": "di ba?"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "right?",
+                "id": "Kanan?"
+              },
+              "sourcePage": 223
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "Julius.",
+                "id": "Julius.",
+                "tagalog": "Julius."
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "Julius.",
+                "id": "Julius."
+              },
+              "sourcePage": 224
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "Nag-aaral",
+                "id": "Sedang belajar",
+                "tagalog": "Nag-aaral"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "Is studying",
+                "id": "Sedang belajar"
+              },
+              "sourcePage": 224
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "pa",
+                "id": "Tetap",
+                "tagalog": "pa"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "still",
+                "id": "Tetap"
+              },
+              "sourcePage": 224
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "Ilan",
+                "id": "Berapa banyak",
+                "tagalog": "Ilan"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "How many",
+                "id": "Berapa banyak"
+              },
+              "sourcePage": 226
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "kapatid",
+                "id": "Saudara",
+                "tagalog": "kapatid"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "sibling",
+                "id": "Saudara"
+              },
+              "sourcePage": 226
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "Dalawa.",
+                "id": "Dua.",
+                "tagalog": "Dalawa."
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "Two.",
+                "id": "Dua."
+              },
+              "sourcePage": 227
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "Lalaki",
+                "id": "Pria",
+                "tagalog": "Lalaki"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "Male",
+                "id": "Pria"
+              },
+              "sourcePage": 228
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "o",
+                "id": "Atau",
+                "tagalog": "o"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "or",
+                "id": "Atau"
+              },
+              "sourcePage": 228
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "babae",
+                "id": "Perempuan",
+                "tagalog": "babae"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "female",
+                "id": "Perempuan"
+              },
+              "sourcePage": 228
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "Empleyado",
+                "id": "Karyawan",
+                "tagalog": "Empleyado"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "Employee",
+                "id": "Karyawan"
+              },
+              "sourcePage": 230
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "Hindi'",
+                "id": "Bukan",
+                "tagalog": "Hindi'"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "Not",
+                "id": "Bukan"
+              },
+              "sourcePage": 231
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "siyang",
+                "id": "Dia-[penghubung]",
+                "tagalog": "siyang"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "he/she-[linker]",
+                "id": "Dia-[penghubung]"
+              },
+              "sourcePage": 231
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "sariling",
+                "id": "Sendiri-[penghubung]",
+                "tagalog": "sariling"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "own-[linker]",
+                "id": "Sendiri-[penghubung]"
+              },
+              "sourcePage": 231
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "klinik.",
+                "id": "Klinik.",
+                "tagalog": "klinik."
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "clinic.",
+                "id": "Klinik."
+              },
+              "sourcePage": 231
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "nang",
+                "id": "Sekarang-[penghubung]",
+                "tagalog": "nang"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "now-[linker]",
+                "id": "Sekarang-[penghubung]"
+              },
+              "sourcePage": 232
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "doktor",
+                "id": "Dokter",
+                "tagalog": "doktor"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "doctor",
+                "id": "Dokter"
+              },
+              "sourcePage": 234
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "Nurse",
+                "id": "Perawat",
+                "tagalog": "Nurse"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "Nurse",
+                "id": "Perawat"
+              },
+              "sourcePage": 234
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "niya.",
+                "id": "Miliknya.",
+                "tagalog": "niya."
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "his/her.",
+                "id": "Miliknya."
+              },
+              "sourcePage": 235
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "ako",
+                "id": "saya",
+                "tagalog": "ako"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "I",
+                "id": "saya"
+              },
+              "sourcePage": 236
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "turista.",
+                "id": "Turis.",
+                "tagalog": "turista."
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "tourist.",
+                "id": "Turis."
+              },
+              "sourcePage": 236
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "Dito",
+                "id": "Di Sini",
+                "tagalog": "Dito"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "Here",
+                "id": "Di Sini"
+              },
+              "sourcePage": 236
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "nakatira.",
+                "id": "Hidup.",
+                "tagalog": "nakatira."
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "living.",
+                "id": "Hidup."
+              },
+              "sourcePage": 236
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "style": "body",
+          "sourcePage": 214,
+          "sourceLabel": "A 04",
+          "links": [],
+          "text": {
+            "sourceLanguage": "en",
+            "sourceText": "Kuya means older brother. It can also be used to refer to other older male people, usually those belonging to the same generation as the speaker.",
+            "id": "A 04 · halaman PDF 214\n\nKuya artinya kakak. Kata ini juga dapat digunakan untuk merujuk pada pria lain yang lebih tua, biasanya mereka yang berasal dari generasi yang sama dengan pembicara."
+          }
+        },
+        {
+          "type": "text",
+          "style": "body",
+          "sourcePage": 214,
+          "sourceLabel": "A 04",
+          "links": [],
+          "text": {
+            "sourceLanguage": "en",
+            "sourceText": "Ate is the female counterpart of kuya.",
+            "id": "A 04 · halaman PDF 214\n\nAte adalah versi wanita dari kuya."
+          }
+        },
+        {
+          "type": "text",
+          "style": "body",
+          "sourcePage": 217,
+          "sourceLabel": "A 07",
+          "links": [],
+          "text": {
+            "sourceLanguage": "en",
+            "sourceText": "May asawa na – has a spouse, is married.",
+            "id": "A 07 · halaman PDF 217\n\nMay asawa na – memiliki pasangan, sudah menikah."
+          }
+        },
+        {
+          "type": "text",
+          "style": "body",
+          "sourcePage": 218,
+          "sourceLabel": "A 08",
+          "links": [],
+          "text": {
+            "sourceLanguage": "en",
+            "sourceText": "Anak – child (son or daughter).",
+            "id": "A 08 · halaman PDF 218\n\nAnak – anak (putra atau putri)."
+          }
+        },
+        {
+          "type": "text",
+          "style": "body",
+          "sourcePage": 218,
+          "sourceLabel": "A 08",
+          "links": [],
+          "text": {
+            "sourceLanguage": "en",
+            "sourceText": "Bata' – child (boy or girl).",
+            "id": "A 08 · halaman PDF 218\n\nBata' – anak (laki-laki atau perempuan)."
+          }
+        },
+        {
+          "type": "text",
+          "style": "body",
+          "sourcePage": 219,
+          "sourceLabel": "A 09",
+          "links": [],
+          "text": {
+            "sourceLanguage": "en",
+            "sourceText": "Here, e means how about.",
+            "id": "A 09 · halaman PDF 219\n\nDi sini, e artinya bagaimana."
+          }
+        },
+        {
+          "type": "text",
+          "style": "body",
+          "sourcePage": 222,
+          "sourceLabel": "A 12",
+          "links": [],
+          "text": {
+            "sourceLanguage": "en",
+            "sourceText": "Edwin – (the name) Edwin.",
+            "id": "A 12 · halaman PDF 222\n\nEdwin – (nama) Edwin."
+          }
+        },
+        {
+          "type": "text",
+          "style": "body",
+          "sourcePage": 222,
+          "sourceLabel": "A 12",
+          "links": [],
+          "text": {
+            "sourceLanguage": "en",
+            "sourceText": "Si Edwin – (the person) Edwin.",
+            "id": "A 12 · halaman PDF 222\n\nSi Edwin – (orangnya) Edwin."
+          }
+        },
+        {
+          "type": "text",
+          "style": "body",
+          "sourcePage": 222,
+          "sourceLabel": "A 12",
+          "links": [],
+          "text": {
+            "sourceLanguage": "en",
+            "sourceText": "Sina Edwin at Arlene – (the persons) Edwin and Arlene.",
+            "id": "A 12 · halaman PDF 222\n\nSina Edwin at Arlene – (orang) Edwin dan Arlene."
+          }
+        },
+        {
+          "type": "text",
+          "style": "body",
+          "sourcePage": 223,
+          "sourceLabel": "A 13",
+          "links": [],
+          "text": {
+            "sourceLanguage": "en",
+            "sourceText": "Bunso' – the youngest among siblings.",
+            "id": "A 13 · halaman PDF 223\n\nBunso' – yang termuda di antara saudara kandung."
+          }
+        },
+        {
+          "type": "text",
+          "style": "body",
+          "sourcePage": 224,
+          "sourceLabel": "A 14",
+          "links": [
+            "https://learningtagalog.com/grammar/verbs/aspects/overview.html"
+          ],
+          "text": {
+            "sourceLanguage": "en",
+            "sourceText": "Optional reading: Aspects: Overview.",
+            "id": "A 14 · halaman PDF 224\n\nBacaan opsional: Aspek: Ikhtisar."
+          }
+        },
+        {
+          "type": "text",
+          "style": "body",
+          "sourcePage": 231,
+          "sourceLabel": "B 06",
+          "links": [],
+          "text": {
+            "sourceLanguage": "en",
+            "sourceText": "Na/-ng is inserted after siya, which is enclitic.",
+            "id": "B 06 · halaman PDF 231\n\nNa/-ng disisipkan setelah siya, yaitu enklitik."
+          }
+        },
+        {
+          "type": "text",
+          "style": "body",
+          "sourcePage": 236,
+          "sourceLabel": "B 11",
+          "links": [],
+          "text": {
+            "sourceLanguage": "en",
+            "sourceText": "Nakatira means living (in a place).",
+            "id": "B 11 · halaman PDF 236\n\nNakatira artinya hidup (di suatu tempat)."
+          }
+        },
+        {
+          "type": "text",
+          "style": "body",
+          "sourcePage": 236,
+          "sourceLabel": "B 11",
+          "links": [],
+          "text": {
+            "sourceLanguage": "en",
+            "sourceText": "Ako is enclitic.",
+            "id": "B 11 · halaman PDF 236\n\nAko adalah enklitik."
+          }
+        }
+      ]
+    },
+    {
+      "id": "grammar",
+      "type": "GRAMMAR",
+      "title": {
+        "sourceLanguage": "mixed",
+        "sourceText": "Grammar and pronunciation notes",
+        "id": "Catatan tata bahasa dan pelafalan"
+      },
+      "blocks": [
+        {
+          "type": "text",
+          "style": "body",
+          "sourcePage": 232,
+          "sourceLabel": "B 07",
+          "links": [],
+          "text": {
+            "sourceLanguage": "en",
+            "sourceText": "Merong sariling klinik becomes Meron nang sariling klinik, when na is added to the sentence. Na/-ng is inserted after na since na is enclitic.",
+            "id": "B 07 · halaman PDF 232\n\nMerong sariling klinik menjadi Meron nang sariling klinik ketika na ditambahkan ke kalimat. Na/-ng disisipkan setelah na karena na bersifat enklitik."
+          }
+        }
+      ]
+    },
+    {
+      "id": "examples",
+      "type": "EXAMPLES",
+      "title": {
+        "sourceLanguage": "mixed",
+        "sourceText": "Literal and natural translations",
+        "id": "Contoh dengan glosa harfiah dan alami"
+      },
+      "blocks": [
+        {
+          "type": "example",
+          "title": {
+            "sourceLanguage": "mixed",
+            "sourceText": "A 01",
+            "id": "A 01 · halaman PDF 211"
+          },
+          "sourcePage": 211,
+          "rows": [
+            {
+              "cells": [
+                {
+                  "sourceLanguage": "fil",
+                  "sourceText": "Ang pamilya ko",
+                  "id": "Keluarga saya",
+                  "tagalog": "Ang pamilya ko"
+                },
+                {
+                  "sourceLanguage": "en",
+                  "sourceText": "The family my",
+                  "id": "Glosa harfiah (Inggris)\nThe family my"
+                },
+                {
+                  "sourceLanguage": "en",
+                  "sourceText": "My family",
+                  "id": "Terjemahan alami sumber (Inggris)\nMy family"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "example",
+          "title": {
+            "sourceLanguage": "mixed",
+            "sourceText": "A 02",
+            "id": "A 02 · halaman PDF 212"
+          },
+          "sourcePage": 212,
+          "rows": [
+            {
+              "cells": [
+                {
+                  "sourceLanguage": "fil",
+                  "sourceText": "Ito ang picture ng pamilya ko.",
+                  "id": "Ini adalah foto keluargaku.",
+                  "tagalog": "Ito ang picture ng pamilya ko."
+                },
+                {
+                  "sourceLanguage": "en",
+                  "sourceText": "This the picture of family my.",
+                  "id": "Glosa harfiah (Inggris)\nThis the picture of family my."
+                },
+                {
+                  "sourceLanguage": "en",
+                  "sourceText": "This is the picture of my family.",
+                  "id": "Terjemahan alami sumber (Inggris)\nThis is the picture of my family."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "example",
+          "title": {
+            "sourceLanguage": "mixed",
+            "sourceText": "A 03",
+            "id": "A 03 · halaman PDF 213"
+          },
+          "sourcePage": 213,
+          "rows": [
+            {
+              "cells": [
+                {
+                  "sourceLanguage": "fil",
+                  "sourceText": "Sino ito?",
+                  "id": "Siapa ini?",
+                  "tagalog": "Sino ito?"
+                },
+                {
+                  "sourceLanguage": "en",
+                  "sourceText": "Who this?",
+                  "id": "Glosa harfiah (Inggris)\nWho this?"
+                },
+                {
+                  "sourceLanguage": "en",
+                  "sourceText": "Who is this?",
+                  "id": "Terjemahan alami sumber (Inggris)\nWho is this?"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "example",
+          "title": {
+            "sourceLanguage": "mixed",
+            "sourceText": "A 04",
+            "id": "A 04 · halaman PDF 214"
+          },
+          "sourcePage": 214,
+          "rows": [
+            {
+              "cells": [
+                {
+                  "sourceLanguage": "fil",
+                  "sourceText": "Ito si Kuya Ryan.",
+                  "id": "Ini kakak laki-lakiku, Ryan.",
+                  "tagalog": "Ito si Kuya Ryan."
+                },
+                {
+                  "sourceLanguage": "en",
+                  "sourceText": "This [Ang marker] Older Brother Ryan.",
+                  "id": "Glosa harfiah (Inggris)\nThis [Ang marker] Older Brother Ryan."
+                },
+                {
+                  "sourceLanguage": "en",
+                  "sourceText": "This is my older brother, Ryan.",
+                  "id": "Terjemahan alami sumber (Inggris)\nThis is my older brother, Ryan."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "example",
+          "title": {
+            "sourceLanguage": "mixed",
+            "sourceText": "A 05",
+            "id": "A 05 · halaman PDF 215"
+          },
+          "sourcePage": 215,
+          "rows": [
+            {
+              "cells": [
+                {
+                  "sourceLanguage": "fil",
+                  "sourceText": "Ilang taon na siya?",
+                  "id": "Berapa umurnya?",
+                  "tagalog": "Ilang taon na siya?"
+                },
+                {
+                  "sourceLanguage": "en",
+                  "sourceText": "How many-[linker] year now he/she?",
+                  "id": "Glosa harfiah (Inggris)\nHow many-[linker] year now he/she?"
+                },
+                {
+                  "sourceLanguage": "en",
+                  "sourceText": "How old is he?",
+                  "id": "Terjemahan alami sumber (Inggris)\nHow old is he?"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "example",
+          "title": {
+            "sourceLanguage": "mixed",
+            "sourceText": "A 06",
+            "id": "A 06 · halaman PDF 216"
+          },
+          "sourcePage": 216,
+          "rows": [
+            {
+              "cells": [
+                {
+                  "sourceLanguage": "fil",
+                  "sourceText": "Twenty-six na siya.",
+                  "id": "Dia berumur dua puluh enam tahun.",
+                  "tagalog": "Twenty-six na siya."
+                },
+                {
+                  "sourceLanguage": "en",
+                  "sourceText": "Twenty-six now he/she.",
+                  "id": "Glosa harfiah (Inggris)\nTwenty-six now he/she."
+                },
+                {
+                  "sourceLanguage": "en",
+                  "sourceText": "He's twenty-six.",
+                  "id": "Terjemahan alami sumber (Inggris)\nHe's twenty-six."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "example",
+          "title": {
+            "sourceLanguage": "mixed",
+            "sourceText": "A 07",
+            "id": "A 07 · halaman PDF 217"
+          },
+          "sourcePage": 217,
+          "rows": [
+            {
+              "cells": [
+                {
+                  "sourceLanguage": "fil",
+                  "sourceText": "May asawa na ba siya?",
+                  "id": "Apakah dia sudah menikah?",
+                  "tagalog": "May asawa na ba siya?"
+                },
+                {
+                  "sourceLanguage": "en",
+                  "sourceText": "Has spouse now [question] he/she?",
+                  "id": "Glosa harfiah (Inggris)\nHas spouse now [question] he/she?"
+                },
+                {
+                  "sourceLanguage": "en",
+                  "sourceText": "Is he married?",
+                  "id": "Terjemahan alami sumber (Inggris)\nIs he married?"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "example",
+          "title": {
+            "sourceLanguage": "mixed",
+            "sourceText": "A 08",
+            "id": "A 08 · halaman PDF 218"
+          },
+          "sourcePage": 218,
+          "rows": [
+            {
+              "cells": [
+                {
+                  "sourceLanguage": "fil",
+                  "sourceText": "Meron. At may isang anak sila.",
+                  "id": "Ya. Dan mereka memiliki satu anak.",
+                  "tagalog": "Meron. At may isang anak sila."
+                },
+                {
+                  "sourceLanguage": "en",
+                  "sourceText": "Has one. And have one-[linker] son/daughter they.",
+                  "id": "Glosa harfiah (Inggris)\nHas one. And have one-[linker] son/daughter they."
+                },
+                {
+                  "sourceLanguage": "en",
+                  "sourceText": "Yes. And they have one child.",
+                  "id": "Terjemahan alami sumber (Inggris)\nYes. And they have one child."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "example",
+          "title": {
+            "sourceLanguage": "mixed",
+            "sourceText": "A 09",
+            "id": "A 09 · halaman PDF 219"
+          },
+          "sourcePage": 219,
+          "rows": [
+            {
+              "cells": [
+                {
+                  "sourceLanguage": "fil",
+                  "sourceText": "A. E ito? Siya ba ang tatay mo?",
+                  "id": "Jadi begitu. Bagaimana dengan ini (satu)? Apakah dia ayahmu?",
+                  "tagalog": "A. E ito? Siya ba ang tatay mo?"
+                },
+                {
+                  "sourceLanguage": "en",
+                  "sourceText": "Ah. How about this? He/she [question] the dad your?",
+                  "id": "Glosa harfiah (Inggris)\nAh. How about this? He/she [question] the dad your?"
+                },
+                {
+                  "sourceLanguage": "en",
+                  "sourceText": "I see. How about this (one)? Is he your dad?",
+                  "id": "Terjemahan alami sumber (Inggris)\nI see. How about this (one)? Is he your dad?"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "example",
+          "title": {
+            "sourceLanguage": "mixed",
+            "sourceText": "A 10",
+            "id": "A 10 · halaman PDF 220"
+          },
+          "sourcePage": 220,
+          "rows": [
+            {
+              "cells": [
+                {
+                  "sourceLanguage": "fil",
+                  "sourceText": "Oo. Dentista siya.",
+                  "id": "Ya. Dia seorang dokter gigi.",
+                  "tagalog": "Oo. Dentista siya."
+                },
+                {
+                  "sourceLanguage": "en",
+                  "sourceText": "Yes. Dentist he/she.",
+                  "id": "Glosa harfiah (Inggris)\nYes. Dentist he/she."
+                },
+                {
+                  "sourceLanguage": "en",
+                  "sourceText": "Yes. He's a dentist.",
+                  "id": "Terjemahan alami sumber (Inggris)\nYes. He's a dentist."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "example",
+          "title": {
+            "sourceLanguage": "mixed",
+            "sourceText": "A 11",
+            "id": "A 11 · halaman PDF 221"
+          },
+          "sourcePage": 221,
+          "rows": [
+            {
+              "cells": [
+                {
+                  "sourceLanguage": "fil",
+                  "sourceText": "Ano ang pangalan ng mga magulang mo?",
+                  "id": "Siapa nama orang tuamu?",
+                  "tagalog": "Ano ang pangalan ng mga magulang mo?"
+                },
+                {
+                  "sourceLanguage": "en",
+                  "sourceText": "What the name of [plural] parent your?",
+                  "id": "Glosa harfiah (Inggris)\nWhat the name of [plural] parent your?"
+                },
+                {
+                  "sourceLanguage": "en",
+                  "sourceText": "What are your parents' names?",
+                  "id": "Terjemahan alami sumber (Inggris)\nWhat are your parents' names?"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "example",
+          "title": {
+            "sourceLanguage": "mixed",
+            "sourceText": "A 12",
+            "id": "A 12 · halaman PDF 222"
+          },
+          "sourcePage": 222,
+          "rows": [
+            {
+              "cells": [
+                {
+                  "sourceLanguage": "fil",
+                  "sourceText": "Edwin at Arlene.",
+                  "id": "Edwin dan Arlene.",
+                  "tagalog": "Edwin at Arlene."
+                },
+                {
+                  "sourceLanguage": "en",
+                  "sourceText": "Edwin and Arlene.",
+                  "id": "Glosa harfiah (Inggris)\nEdwin and Arlene."
+                },
+                {
+                  "sourceLanguage": "en",
+                  "sourceText": "Edwin and Arlene.",
+                  "id": "Terjemahan alami sumber (Inggris)\nEdwin and Arlene."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "example",
+          "title": {
+            "sourceLanguage": "mixed",
+            "sourceText": "A 13",
+            "id": "A 13 · halaman PDF 223"
+          },
+          "sourcePage": 223,
+          "rows": [
+            {
+              "cells": [
+                {
+                  "sourceLanguage": "fil",
+                  "sourceText": "At ito ang bunso', di ba?",
+                  "id": "Dan ini yang termuda, kan?",
+                  "tagalog": "At ito ang bunso', di ba?"
+                },
+                {
+                  "sourceLanguage": "en",
+                  "sourceText": "And this the youngest child, right?",
+                  "id": "Glosa harfiah (Inggris)\nAnd this the youngest child, right?"
+                },
+                {
+                  "sourceLanguage": "en",
+                  "sourceText": "And this is the youngest, right?",
+                  "id": "Terjemahan alami sumber (Inggris)\nAnd this is the youngest, right?"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "example",
+          "title": {
+            "sourceLanguage": "mixed",
+            "sourceText": "A 14",
+            "id": "A 14 · halaman PDF 224"
+          },
+          "sourcePage": 224,
+          "rows": [
+            {
+              "cells": [
+                {
+                  "sourceLanguage": "fil",
+                  "sourceText": "Oo, si Julius. Nag-aaral pa siya.",
+                  "id": "Ya, (itu) Julius. Dia masih belajar.",
+                  "tagalog": "Oo, si Julius. Nag-aaral pa siya."
+                },
+                {
+                  "sourceLanguage": "en",
+                  "sourceText": "Yes, [Ang marker] Julius. Is studying still he/she.",
+                  "id": "Glosa harfiah (Inggris)\nYes, [Ang marker] Julius. Is studying still he/she."
+                },
+                {
+                  "sourceLanguage": "en",
+                  "sourceText": "Yes, (that's) Julius. He's still studying.",
+                  "id": "Terjemahan alami sumber (Inggris)\nYes, (that's) Julius. He's still studying."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "example",
+          "title": {
+            "sourceLanguage": "mixed",
+            "sourceText": "B 01",
+            "id": "B 01 · halaman PDF 226"
+          },
+          "sourcePage": 226,
+          "rows": [
+            {
+              "cells": [
+                {
+                  "sourceLanguage": "fil",
+                  "sourceText": "Ilan ang kapatid mo?",
+                  "id": "Berapa saudaramu? (Berapa banyak saudara kandungmu?)",
+                  "tagalog": "Ilan ang kapatid mo?"
+                },
+                {
+                  "sourceLanguage": "en",
+                  "sourceText": "How many the sibling your?",
+                  "id": "Glosa harfiah (Inggris)\nHow many the sibling your?"
+                },
+                {
+                  "sourceLanguage": "en",
+                  "sourceText": "How many siblings do you have? (How many are your siblings?)",
+                  "id": "Terjemahan alami sumber (Inggris)\nHow many siblings do you have? (How many are your siblings?)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "example",
+          "title": {
+            "sourceLanguage": "mixed",
+            "sourceText": "B 02",
+            "id": "B 02 · halaman PDF 227"
+          },
+          "sourcePage": 227,
+          "rows": [
+            {
+              "cells": [
+                {
+                  "sourceLanguage": "fil",
+                  "sourceText": "Dalawa.",
+                  "id": "Dua.",
+                  "tagalog": "Dalawa."
+                },
+                {
+                  "sourceLanguage": "en",
+                  "sourceText": "Two.",
+                  "id": "Glosa harfiah (Inggris)\nTwo."
+                },
+                {
+                  "sourceLanguage": "en",
+                  "sourceText": "Two.",
+                  "id": "Terjemahan alami sumber (Inggris)\nTwo."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "example",
+          "title": {
+            "sourceLanguage": "mixed",
+            "sourceText": "B 03",
+            "id": "B 03 · halaman PDF 228"
+          },
+          "sourcePage": 228,
+          "rows": [
+            {
+              "cells": [
+                {
+                  "sourceLanguage": "fil",
+                  "sourceText": "Lalaki o babae ba ang mga kapatid mo?",
+                  "id": "Apakah mereka saudara laki-laki atau perempuan? (Apakah saudara Anda laki-laki atau perempuan?)",
+                  "tagalog": "Lalaki o babae ba ang mga kapatid mo?"
+                },
+                {
+                  "sourceLanguage": "en",
+                  "sourceText": "Male or female [question] the [plural] sibling your?",
+                  "id": "Glosa harfiah (Inggris)\nMale or female [question] the [plural] sibling your?"
+                },
+                {
+                  "sourceLanguage": "en",
+                  "sourceText": "Are they brothers or sisters? (Are your siblings male or female?)",
+                  "id": "Terjemahan alami sumber (Inggris)\nAre they brothers or sisters? (Are your siblings male or female?)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "example",
+          "title": {
+            "sourceLanguage": "mixed",
+            "sourceText": "B 04",
+            "id": "B 04 · halaman PDF 229"
+          },
+          "sourcePage": 229,
+          "rows": [
+            {
+              "cells": [
+                {
+                  "sourceLanguage": "fil",
+                  "sourceText": "Isang lalaki at isang babae.",
+                  "id": "Satu saudara laki-laki dan satu saudara perempuan. (Satu saudara laki-laki dan satu saudara perempuan.)",
+                  "tagalog": "Isang lalaki at isang babae."
+                },
+                {
+                  "sourceLanguage": "en",
+                  "sourceText": "One-[linker] male and one-[linker] female.",
+                  "id": "Glosa harfiah (Inggris)\nOne-[linker] male and one-[linker] female."
+                },
+                {
+                  "sourceLanguage": "en",
+                  "sourceText": "One brother and one sister. (One male sibling and one female sibling.)",
+                  "id": "Terjemahan alami sumber (Inggris)\nOne brother and one sister. (One male sibling and one female sibling.)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "example",
+          "title": {
+            "sourceLanguage": "mixed",
+            "sourceText": "B 05",
+            "id": "B 05 · halaman PDF 230"
+          },
+          "sourcePage": 230,
+          "rows": [
+            {
+              "cells": [
+                {
+                  "sourceLanguage": "fil",
+                  "sourceText": "Empleyado ba ang tatay mo?",
+                  "id": "Apakah ayahmu seorang karyawan?",
+                  "tagalog": "Empleyado ba ang tatay mo?"
+                },
+                {
+                  "sourceLanguage": "en",
+                  "sourceText": "Employee [question] the dad your?",
+                  "id": "Glosa harfiah (Inggris)\nEmployee [question] the dad your?"
+                },
+                {
+                  "sourceLanguage": "en",
+                  "sourceText": "Is your dad an employee?",
+                  "id": "Terjemahan alami sumber (Inggris)\nIs your dad an employee?"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "example",
+          "title": {
+            "sourceLanguage": "mixed",
+            "sourceText": "B 06",
+            "id": "B 06 · halaman PDF 231"
+          },
+          "sourcePage": 231,
+          "rows": [
+            {
+              "cells": [
+                {
+                  "sourceLanguage": "fil",
+                  "sourceText": "Hindi' siya empleyado. Meron siyang sariling klinik.",
+                  "id": "Dia bukan seorang karyawan. Dia memiliki klinik sendiri.",
+                  "tagalog": "Hindi' siya empleyado. Meron siyang sariling klinik."
+                },
+                {
+                  "sourceLanguage": "en",
+                  "sourceText": "Not he/she employee. Has he/she-[linker] own-[linker] clinic.",
+                  "id": "Glosa harfiah (Inggris)\nNot he/she employee. Has he/she-[linker] own-[linker] clinic."
+                },
+                {
+                  "sourceLanguage": "en",
+                  "sourceText": "He's not an employee. He has his own clinic.",
+                  "id": "Terjemahan alami sumber (Inggris)\nHe's not an employee. He has his own clinic."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "example",
+          "title": {
+            "sourceLanguage": "mixed",
+            "sourceText": "B 07",
+            "id": "B 07 · halaman PDF 232"
+          },
+          "sourcePage": 232,
+          "rows": [
+            {
+              "cells": [
+                {
+                  "sourceLanguage": "fil",
+                  "sourceText": "Meron nang sariling klinik si Edwin.",
+                  "id": "Edwin memiliki klinik sendiri sekarang.",
+                  "tagalog": "Meron nang sariling klinik si Edwin."
+                },
+                {
+                  "sourceLanguage": "en",
+                  "sourceText": "Has now-[linker] own-[linker] clinic [Ang marker] Edwin.",
+                  "id": "Glosa harfiah (Inggris)\nHas now-[linker] own-[linker] clinic [Ang marker] Edwin."
+                },
+                {
+                  "sourceLanguage": "en",
+                  "sourceText": "Edwin has his own clinic now.",
+                  "id": "Terjemahan alami sumber (Inggris)\nEdwin has his own clinic now."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "example",
+          "title": {
+            "sourceLanguage": "mixed",
+            "sourceText": "B 08",
+            "id": "B 08 · halaman PDF 233"
+          },
+          "sourcePage": 233,
+          "rows": [
+            {
+              "cells": [
+                {
+                  "sourceLanguage": "fil",
+                  "sourceText": "May sariling klinik si Edwin.",
+                  "id": "Edwin memiliki klinik sendiri.",
+                  "tagalog": "May sariling klinik si Edwin."
+                },
+                {
+                  "sourceLanguage": "en",
+                  "sourceText": "Has own-[linker] clinic [Ang marker] Edwin.",
+                  "id": "Glosa harfiah (Inggris)\nHas own-[linker] clinic [Ang marker] Edwin."
+                },
+                {
+                  "sourceLanguage": "en",
+                  "sourceText": "Edwin has his own clinic.",
+                  "id": "Terjemahan alami sumber (Inggris)\nEdwin has his own clinic."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "example",
+          "title": {
+            "sourceLanguage": "mixed",
+            "sourceText": "B 09",
+            "id": "B 09 · halaman PDF 234"
+          },
+          "sourcePage": 234,
+          "rows": [
+            {
+              "cells": [
+                {
+                  "sourceLanguage": "fil",
+                  "sourceText": "Hindi' doktor si Arlene. Nurse siya.",
+                  "id": "Arlene bukan seorang dokter. Dia seorang perawat.",
+                  "tagalog": "Hindi' doktor si Arlene. Nurse siya."
+                },
+                {
+                  "sourceLanguage": "en",
+                  "sourceText": "Not doctor [Ang marker] Arlene. Nurse he/she.",
+                  "id": "Glosa harfiah (Inggris)\nNot doctor [Ang marker] Arlene. Nurse he/she."
+                },
+                {
+                  "sourceLanguage": "en",
+                  "sourceText": "Arlene is not a doctor. She's a nurse.",
+                  "id": "Terjemahan alami sumber (Inggris)\nArlene is not a doctor. She's a nurse."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "example",
+          "title": {
+            "sourceLanguage": "mixed",
+            "sourceText": "B 10",
+            "id": "B 10 · halaman PDF 235"
+          },
+          "sourcePage": 235,
+          "rows": [
+            {
+              "cells": [
+                {
+                  "sourceLanguage": "fil",
+                  "sourceText": "Nurse si Arlene. Dentista ang asawa niya.",
+                  "id": "Arlene adalah seorang perawat. Suaminya adalah seorang dokter gigi.",
+                  "tagalog": "Nurse si Arlene. Dentista ang asawa niya."
+                },
+                {
+                  "sourceLanguage": "en",
+                  "sourceText": "Nurse [Ang marker] Arlene. Dentist the spouse his/her.",
+                  "id": "Glosa harfiah (Inggris)\nNurse [Ang marker] Arlene. Dentist the spouse his/her."
+                },
+                {
+                  "sourceLanguage": "en",
+                  "sourceText": "Arlene is a nurse. Her husband is a dentist.",
+                  "id": "Terjemahan alami sumber (Inggris)\nArlene is a nurse. Her husband is a dentist."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "example",
+          "title": {
+            "sourceLanguage": "mixed",
+            "sourceText": "B 11",
+            "id": "B 11 · halaman PDF 236"
+          },
+          "sourcePage": 236,
+          "rows": [
+            {
+              "cells": [
+                {
+                  "sourceLanguage": "fil",
+                  "sourceText": "Hindi' ako turista. Dito ako nakatira.",
+                  "id": "Saya bukan turis. Saya tinggal di sini.",
+                  "tagalog": "Hindi' ako turista. Dito ako nakatira."
+                },
+                {
+                  "sourceLanguage": "en",
+                  "sourceText": "Not I tourist. Here I living.",
+                  "id": "Glosa harfiah (Inggris)\nNot I tourist. Here I living."
+                },
+                {
+                  "sourceLanguage": "en",
+                  "sourceText": "I'm not a tourist. I live here.",
+                  "id": "Terjemahan alami sumber (Inggris)\nI'm not a tourist. I live here."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "exercises",
+      "type": "EXERCISES",
+      "title": {
+        "sourceLanguage": "mixed",
+        "sourceText": "Drills",
+        "id": "Latihan pola"
+      },
+      "blocks": [
+        {
+          "type": "exercise",
+          "role": "instruction",
+          "text": {
+            "sourceLanguage": "mixed",
+            "sourceText": "Drills",
+            "id": "Latihan pola (Drills)"
+          },
+          "sourcePage": 225
+        },
+        {
+          "type": "exercise",
+          "role": "content",
+          "title": {
+            "sourceLanguage": "mixed",
+            "sourceText": "A 14",
+            "id": "A 14 · halaman PDF 224"
+          },
+          "sourcePage": 224,
+          "text": {
+            "sourceLanguage": "fil",
+            "sourceText": "Oo, si Julius. Nag-aaral pa siya.",
+            "id": "Ya, (itu) Julius. Dia masih belajar.",
+            "tagalog": "Oo, si Julius. Nag-aaral pa siya."
+          }
+        },
+        {
+          "type": "exercise",
+          "role": "content",
+          "title": {
+            "sourceLanguage": "mixed",
+            "sourceText": "B 01",
+            "id": "B 01 · halaman PDF 226"
+          },
+          "sourcePage": 226,
+          "text": {
+            "sourceLanguage": "fil",
+            "sourceText": "Ilan ang kapatid mo?",
+            "id": "Berapa saudaramu? (Berapa banyak saudara kandungmu?)",
+            "tagalog": "Ilan ang kapatid mo?"
+          }
+        },
+        {
+          "type": "exercise",
+          "role": "content",
+          "title": {
+            "sourceLanguage": "mixed",
+            "sourceText": "B 02",
+            "id": "B 02 · halaman PDF 227"
+          },
+          "sourcePage": 227,
+          "text": {
+            "sourceLanguage": "fil",
+            "sourceText": "Dalawa.",
+            "id": "Dua.",
+            "tagalog": "Dalawa."
+          }
+        },
+        {
+          "type": "exercise",
+          "role": "content",
+          "title": {
+            "sourceLanguage": "mixed",
+            "sourceText": "B 03",
+            "id": "B 03 · halaman PDF 228"
+          },
+          "sourcePage": 228,
+          "text": {
+            "sourceLanguage": "fil",
+            "sourceText": "Lalaki o babae ba ang mga kapatid mo?",
+            "id": "Apakah mereka saudara laki-laki atau perempuan? (Apakah saudara Anda laki-laki atau perempuan?)",
+            "tagalog": "Lalaki o babae ba ang mga kapatid mo?"
+          }
+        },
+        {
+          "type": "exercise",
+          "role": "content",
+          "title": {
+            "sourceLanguage": "mixed",
+            "sourceText": "B 04",
+            "id": "B 04 · halaman PDF 229"
+          },
+          "sourcePage": 229,
+          "text": {
+            "sourceLanguage": "fil",
+            "sourceText": "Isang lalaki at isang babae.",
+            "id": "Satu saudara laki-laki dan satu saudara perempuan. (Satu saudara laki-laki dan satu saudara perempuan.)",
+            "tagalog": "Isang lalaki at isang babae."
+          }
+        },
+        {
+          "type": "exercise",
+          "role": "content",
+          "title": {
+            "sourceLanguage": "mixed",
+            "sourceText": "B 05",
+            "id": "B 05 · halaman PDF 230"
+          },
+          "sourcePage": 230,
+          "text": {
+            "sourceLanguage": "fil",
+            "sourceText": "Empleyado ba ang tatay mo?",
+            "id": "Apakah ayahmu seorang karyawan?",
+            "tagalog": "Empleyado ba ang tatay mo?"
+          }
+        },
+        {
+          "type": "exercise",
+          "role": "content",
+          "title": {
+            "sourceLanguage": "mixed",
+            "sourceText": "B 06",
+            "id": "B 06 · halaman PDF 231"
+          },
+          "sourcePage": 231,
+          "text": {
+            "sourceLanguage": "fil",
+            "sourceText": "Hindi' siya empleyado. Meron siyang sariling klinik.",
+            "id": "Dia bukan seorang karyawan. Dia memiliki klinik sendiri.",
+            "tagalog": "Hindi' siya empleyado. Meron siyang sariling klinik."
+          }
+        },
+        {
+          "type": "exercise",
+          "role": "content",
+          "title": {
+            "sourceLanguage": "mixed",
+            "sourceText": "B 07",
+            "id": "B 07 · halaman PDF 232"
+          },
+          "sourcePage": 232,
+          "text": {
+            "sourceLanguage": "fil",
+            "sourceText": "Meron nang sariling klinik si Edwin.",
+            "id": "Edwin memiliki klinik sendiri sekarang.",
+            "tagalog": "Meron nang sariling klinik si Edwin."
+          }
+        },
+        {
+          "type": "exercise",
+          "role": "content",
+          "title": {
+            "sourceLanguage": "mixed",
+            "sourceText": "B 08",
+            "id": "B 08 · halaman PDF 233"
+          },
+          "sourcePage": 233,
+          "text": {
+            "sourceLanguage": "fil",
+            "sourceText": "May sariling klinik si Edwin.",
+            "id": "Edwin memiliki klinik sendiri.",
+            "tagalog": "May sariling klinik si Edwin."
+          }
+        },
+        {
+          "type": "exercise",
+          "role": "content",
+          "title": {
+            "sourceLanguage": "mixed",
+            "sourceText": "B 09",
+            "id": "B 09 · halaman PDF 234"
+          },
+          "sourcePage": 234,
+          "text": {
+            "sourceLanguage": "fil",
+            "sourceText": "Hindi' doktor si Arlene. Nurse siya.",
+            "id": "Arlene bukan seorang dokter. Dia seorang perawat.",
+            "tagalog": "Hindi' doktor si Arlene. Nurse siya."
+          }
+        },
+        {
+          "type": "exercise",
+          "role": "content",
+          "title": {
+            "sourceLanguage": "mixed",
+            "sourceText": "B 10",
+            "id": "B 10 · halaman PDF 235"
+          },
+          "sourcePage": 235,
+          "text": {
+            "sourceLanguage": "fil",
+            "sourceText": "Nurse si Arlene. Dentista ang asawa niya.",
+            "id": "Arlene adalah seorang perawat. Suaminya adalah seorang dokter gigi.",
+            "tagalog": "Nurse si Arlene. Dentista ang asawa niya."
+          }
+        },
+        {
+          "type": "exercise",
+          "role": "content",
+          "title": {
+            "sourceLanguage": "mixed",
+            "sourceText": "B 11",
+            "id": "B 11 · halaman PDF 236"
+          },
+          "sourcePage": 236,
+          "text": {
+            "sourceLanguage": "fil",
+            "sourceText": "Hindi' ako turista. Dito ako nakatira.",
+            "id": "Saya bukan turis. Saya tinggal di sini.",
+            "tagalog": "Hindi' ako turista. Dito ako nakatira."
+          }
+        }
+      ]
+    },
+    {
+      "id": "summary",
+      "type": "SUMMARY",
+      "title": {
+        "sourceLanguage": "mixed",
+        "sourceText": "Ang pamilya ko",
+        "id": "Ringkasan bab"
+      },
+      "blocks": [
+        {
+          "type": "text",
+          "style": "heading",
+          "text": {
+            "sourceLanguage": "mixed",
+            "sourceText": "Story A",
+            "id": "Dialog utama"
+          }
+        },
+        {
+          "type": "list",
+          "style": "outline",
+          "items": [
+            {
+              "sourceLanguage": "fil",
+              "sourceText": "Ang pamilya ko",
+              "id": "Keluarga saya",
+              "tagalog": "Ang pamilya ko"
+            },
+            {
+              "sourceLanguage": "fil",
+              "sourceText": "Ito ang picture ng pamilya ko.",
+              "id": "Ini adalah foto keluargaku.",
+              "tagalog": "Ito ang picture ng pamilya ko."
+            },
+            {
+              "sourceLanguage": "fil",
+              "sourceText": "Sino ito?",
+              "id": "Siapa ini?",
+              "tagalog": "Sino ito?"
+            },
+            {
+              "sourceLanguage": "fil",
+              "sourceText": "Ito si Kuya Ryan.",
+              "id": "Ini kakak laki-lakiku, Ryan.",
+              "tagalog": "Ito si Kuya Ryan."
+            },
+            {
+              "sourceLanguage": "fil",
+              "sourceText": "Ilang taon na siya?",
+              "id": "Berapa umurnya?",
+              "tagalog": "Ilang taon na siya?"
+            },
+            {
+              "sourceLanguage": "fil",
+              "sourceText": "Twenty-six na siya.",
+              "id": "Dia berumur dua puluh enam tahun.",
+              "tagalog": "Twenty-six na siya."
+            },
+            {
+              "sourceLanguage": "fil",
+              "sourceText": "May asawa na ba siya?",
+              "id": "Apakah dia sudah menikah?",
+              "tagalog": "May asawa na ba siya?"
+            },
+            {
+              "sourceLanguage": "fil",
+              "sourceText": "Meron. At may isang anak sila.",
+              "id": "Ya. Dan mereka memiliki satu anak.",
+              "tagalog": "Meron. At may isang anak sila."
+            },
+            {
+              "sourceLanguage": "fil",
+              "sourceText": "A. E ito? Siya ba ang tatay mo?",
+              "id": "Jadi begitu. Bagaimana dengan ini (satu)? Apakah dia ayahmu?",
+              "tagalog": "A. E ito? Siya ba ang tatay mo?"
+            },
+            {
+              "sourceLanguage": "fil",
+              "sourceText": "Oo. Dentista siya.",
+              "id": "Ya. Dia seorang dokter gigi.",
+              "tagalog": "Oo. Dentista siya."
+            },
+            {
+              "sourceLanguage": "fil",
+              "sourceText": "Ano ang pangalan ng mga magulang mo?",
+              "id": "Siapa nama orang tuamu?",
+              "tagalog": "Ano ang pangalan ng mga magulang mo?"
+            },
+            {
+              "sourceLanguage": "fil",
+              "sourceText": "Edwin at Arlene.",
+              "id": "Edwin dan Arlene.",
+              "tagalog": "Edwin at Arlene."
+            },
+            {
+              "sourceLanguage": "fil",
+              "sourceText": "At ito ang bunso', di ba?",
+              "id": "Dan ini yang termuda, kan?",
+              "tagalog": "At ito ang bunso', di ba?"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "style": "heading",
+          "text": {
+            "sourceLanguage": "mixed",
+            "sourceText": "Drills",
+            "id": "Latihan pola"
+          }
+        },
+        {
+          "type": "list",
+          "style": "outline",
+          "items": [
+            {
+              "sourceLanguage": "fil",
+              "sourceText": "Oo, si Julius. Nag-aaral pa siya.",
+              "id": "Ya, (itu) Julius. Dia masih belajar.",
+              "tagalog": "Oo, si Julius. Nag-aaral pa siya."
+            },
+            {
+              "sourceLanguage": "fil",
+              "sourceText": "Ilan ang kapatid mo?",
+              "id": "Berapa saudaramu? (Berapa banyak saudara kandungmu?)",
+              "tagalog": "Ilan ang kapatid mo?"
+            },
+            {
+              "sourceLanguage": "fil",
+              "sourceText": "Dalawa.",
+              "id": "Dua.",
+              "tagalog": "Dalawa."
+            },
+            {
+              "sourceLanguage": "fil",
+              "sourceText": "Lalaki o babae ba ang mga kapatid mo?",
+              "id": "Apakah mereka saudara laki-laki atau perempuan? (Apakah saudara Anda laki-laki atau perempuan?)",
+              "tagalog": "Lalaki o babae ba ang mga kapatid mo?"
+            },
+            {
+              "sourceLanguage": "fil",
+              "sourceText": "Isang lalaki at isang babae.",
+              "id": "Satu saudara laki-laki dan satu saudara perempuan. (Satu saudara laki-laki dan satu saudara perempuan.)",
+              "tagalog": "Isang lalaki at isang babae."
+            },
+            {
+              "sourceLanguage": "fil",
+              "sourceText": "Empleyado ba ang tatay mo?",
+              "id": "Apakah ayahmu seorang karyawan?",
+              "tagalog": "Empleyado ba ang tatay mo?"
+            },
+            {
+              "sourceLanguage": "fil",
+              "sourceText": "Hindi' siya empleyado. Meron siyang sariling klinik.",
+              "id": "Dia bukan seorang karyawan. Dia memiliki klinik sendiri.",
+              "tagalog": "Hindi' siya empleyado. Meron siyang sariling klinik."
+            },
+            {
+              "sourceLanguage": "fil",
+              "sourceText": "Meron nang sariling klinik si Edwin.",
+              "id": "Edwin memiliki klinik sendiri sekarang.",
+              "tagalog": "Meron nang sariling klinik si Edwin."
+            },
+            {
+              "sourceLanguage": "fil",
+              "sourceText": "May sariling klinik si Edwin.",
+              "id": "Edwin memiliki klinik sendiri.",
+              "tagalog": "May sariling klinik si Edwin."
+            },
+            {
+              "sourceLanguage": "fil",
+              "sourceText": "Hindi' doktor si Arlene. Nurse siya.",
+              "id": "Arlene bukan seorang dokter. Dia seorang perawat.",
+              "tagalog": "Hindi' doktor si Arlene. Nurse siya."
+            },
+            {
+              "sourceLanguage": "fil",
+              "sourceText": "Nurse si Arlene. Dentista ang asawa niya.",
+              "id": "Arlene adalah seorang perawat. Suaminya adalah seorang dokter gigi.",
+              "tagalog": "Nurse si Arlene. Dentista ang asawa niya."
+            },
+            {
+              "sourceLanguage": "fil",
+              "sourceText": "Hindi' ako turista. Dito ako nakatira.",
+              "id": "Saya bukan turis. Saya tinggal di sini.",
+              "tagalog": "Hindi' ako turista. Dito ako nakatira."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "contentAudit": {
+    "sourcePages": 28,
+    "phrasePages": 25,
+    "storyPhrases": 13,
+    "drillPhrases": 12,
+    "noteBlocks": 16,
+    "vocabularyEntries": 58,
+    "sourceTextItemsBefore": 92,
+    "sourceTextItemsAfter": 92,
+    "recapVerified": true,
+    "imageCount": 1
+  }
+}

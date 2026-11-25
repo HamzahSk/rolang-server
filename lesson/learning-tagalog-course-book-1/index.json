@@ -1,0 +1,827 @@
+{
+  "schemaVersion": 1,
+  "id": "learning-tagalog-course-book-1",
+  "level": "BEGINNER",
+  "languagePair": {
+    "reference": "id",
+    "target": "fil"
+  },
+  "title": {
+    "id": "Belajar Tagalog — Lancar dengan Cepat dan Mudah — Buku Kursus 1",
+    "fil": "Learning Tagalog — Course Book 1"
+  },
+  "description": {
+    "id": "Dua puluh bab berurutan dari Course Book 1, lengkap dengan dialog, glosa, catatan, latihan, ringkasan, dan ilustrasi sumber.",
+    "fil": "Dalawampung sunod-sunod na aralin mula sa Course Book 1."
+  },
+  "source": {
+    "title": "Learning Tagalog - Fluency Made Fast and Easy - Course Book 1",
+    "file": "Learning Tagalog - Fluency Made Fast and Easy - Course Book 1.pdf",
+    "pdfSha256": "52e9f464239c2ae98248a452edfbf1f58eb01bec69374a16d5205e70afa80f58",
+    "pageCount": 522,
+    "website": "https://learningtagalog.com/"
+  },
+  "cover": "assets/01-ang-bakasyon.jpg",
+  "assetIndex": {
+    "path": "assets/index.json",
+    "sha256": "0f0f9f9138b470235f09d1f92fe80cb2f4d5564aa8fcc95d9b0ded4de9478234"
+  },
+  "sourceAudit": {
+    "path": "source-audit.json",
+    "sha256": "e4ca874b894dd9524b04dcaff17893c5a035f004151b77e91bd98e66567123c3"
+  },
+  "requiredSectionTypes": [
+    "INTRODUCTION",
+    "LEARNING_MATERIAL",
+    "DIALOGUE",
+    "VOCABULARY",
+    "GRAMMAR",
+    "EXAMPLES",
+    "EXERCISES",
+    "SUMMARY"
+  ],
+  "units": [
+    {
+      "id": "course-book-1-unit-01-conversation-foundations",
+      "title": {
+        "id": "Dasar percakapan",
+        "fil": "Batayang usapan"
+      },
+      "path": "units/01-conversation-foundations.json",
+      "lessons": [
+        "learning-tagalog-course-book-1-lesson-01",
+        "learning-tagalog-course-book-1-lesson-02",
+        "learning-tagalog-course-book-1-lesson-03",
+        "learning-tagalog-course-book-1-lesson-04"
+      ],
+      "assets": [],
+      "sha256": "186c0e06a04b3f0ec079a582e84d2f7b2becd89cdb66d9784766cd1559f6f865"
+    },
+    {
+      "id": "course-book-1-unit-02-objects-and-shopping",
+      "title": {
+        "id": "Benda, kepemilikan, dan belanja",
+        "fil": "Mga bagay, pagmamay-ari, at pamimili"
+      },
+      "path": "units/02-objects-and-shopping.json",
+      "lessons": [
+        "learning-tagalog-course-book-1-lesson-05",
+        "learning-tagalog-course-book-1-lesson-06",
+        "learning-tagalog-course-book-1-lesson-07",
+        "learning-tagalog-course-book-1-lesson-08"
+      ],
+      "assets": [],
+      "sha256": "1944db056bfb4c44872c3984150b821b1ed72513ee30809a292bb18e9eac9853"
+    },
+    {
+      "id": "course-book-1-unit-03-family-time-and-home",
+      "title": {
+        "id": "Keluarga, waktu, dan rumah",
+        "fil": "Pamilya, oras, at tahanan"
+      },
+      "path": "units/03-family-time-and-home.json",
+      "lessons": [
+        "learning-tagalog-course-book-1-lesson-09",
+        "learning-tagalog-course-book-1-lesson-10",
+        "learning-tagalog-course-book-1-lesson-11",
+        "learning-tagalog-course-book-1-lesson-12"
+      ],
+      "assets": [],
+      "sha256": "d5c12601ed71050461293ea02c36814e9f27a9915cef9611a292e269eaedb782"
+    },
+    {
+      "id": "course-book-1-unit-04-communication-and-services",
+      "title": {
+        "id": "Komunikasi dan layanan",
+        "fil": "Komunikasyon at mga serbisyo"
+      },
+      "path": "units/04-communication-and-services.json",
+      "lessons": [
+        "learning-tagalog-course-book-1-lesson-13",
+        "learning-tagalog-course-book-1-lesson-14",
+        "learning-tagalog-course-book-1-lesson-15",
+        "learning-tagalog-course-book-1-lesson-16"
+      ],
+      "assets": [],
+      "sha256": "0ef64bdca252e318ca007df75360ae00895e5a8f3da594912ee8e1ac21119342"
+    },
+    {
+      "id": "course-book-1-unit-05-travel-and-daily-needs",
+      "title": {
+        "id": "Perjalanan dan kebutuhan sehari-hari",
+        "fil": "Paglalakbay at pang-araw-araw na pangangailangan"
+      },
+      "path": "units/05-travel-and-daily-needs.json",
+      "lessons": [
+        "learning-tagalog-course-book-1-lesson-17",
+        "learning-tagalog-course-book-1-lesson-18",
+        "learning-tagalog-course-book-1-lesson-19",
+        "learning-tagalog-course-book-1-lesson-20"
+      ],
+      "assets": [],
+      "sha256": "277d484c81503af49e7ddd37834ce28042d011d633d496318e1eea0e6243a350"
+    }
+  ],
+  "lessons": [
+    {
+      "id": "learning-tagalog-course-book-1-lesson-01",
+      "unitId": "course-book-1-unit-01-conversation-foundations",
+      "order": 1,
+      "path": "01-ang-bakasyon.json",
+      "title": {
+        "id": "Liburan",
+        "fil": "Ang bakasyon"
+      },
+      "summary": {
+        "id": "Dengarkan audionya dan ulangi setiap frasa dengan lantang beberapa kali. Dalam ceritanya, Mark dan Linda bercerita tentang liburan mereka.",
+        "fil": "Ang bakasyon"
+      },
+      "objectives": [
+        {
+          "sourceLanguage": "mixed",
+          "sourceText": "Chapter 1 · Story A",
+          "id": "Memahami dialog utama Bab 1 tentang liburan."
+        },
+        {
+          "sourceLanguage": "mixed",
+          "sourceText": "Literal and natural translations",
+          "id": "Membandingkan susunan Tagalog dengan glosa harfiah dan terjemahan alami dari sumber."
+        },
+        {
+          "sourceLanguage": "mixed",
+          "sourceText": "Drills",
+          "id": "Melatih kembali pola dan ungkapan pada bagian Drills."
+        }
+      ],
+      "assets": [
+        "assets/01-ang-bakasyon.jpg"
+      ],
+      "sha256": "913b8907e5a051a38af416a08d36c78ad9b4b3554899dacfbc4e7dd71b41057e"
+    },
+    {
+      "id": "learning-tagalog-course-book-1-lesson-02",
+      "unitId": "course-book-1-unit-01-conversation-foundations",
+      "order": 2,
+      "path": "02-ang-almusal.json",
+      "title": {
+        "id": "Sarapan",
+        "fil": "Ang almusal"
+      },
+      "summary": {
+        "id": "Sarapan disajikan. Jangan khawatir jika Anda lupa kata-katanya pada awalnya. Anda akan menemukannya lagi.",
+        "fil": "Ang almusal"
+      },
+      "objectives": [
+        {
+          "sourceLanguage": "mixed",
+          "sourceText": "Chapter 2 · Story A",
+          "id": "Memahami dialog utama Bab 2 tentang sarapan."
+        },
+        {
+          "sourceLanguage": "mixed",
+          "sourceText": "Literal and natural translations",
+          "id": "Membandingkan susunan Tagalog dengan glosa harfiah dan terjemahan alami dari sumber."
+        },
+        {
+          "sourceLanguage": "mixed",
+          "sourceText": "Drills",
+          "id": "Melatih kembali pola dan ungkapan pada bagian Drills."
+        }
+      ],
+      "assets": [
+        "assets/02-ang-almusal.jpg"
+      ],
+      "sha256": "89db18b488cd32e15f6c4ab90c675f8191fc31ac7ad0223d6e7e67508fb928f7"
+    },
+    {
+      "id": "learning-tagalog-course-book-1-lesson-03",
+      "unitId": "course-book-1-unit-01-conversation-foundations",
+      "order": 3,
+      "path": "03-kumusta.json",
+      "title": {
+        "id": "Apa kabar?",
+        "fil": "Kumusta?"
+      },
+      "summary": {
+        "id": "Dua siswa bertemu di jalan setelah kelas.",
+        "fil": "Kumusta?"
+      },
+      "objectives": [
+        {
+          "sourceLanguage": "mixed",
+          "sourceText": "Chapter 3 · Story A",
+          "id": "Memahami dialog utama Bab 3 tentang apa kabar."
+        },
+        {
+          "sourceLanguage": "mixed",
+          "sourceText": "Literal and natural translations",
+          "id": "Membandingkan susunan Tagalog dengan glosa harfiah dan terjemahan alami dari sumber."
+        },
+        {
+          "sourceLanguage": "mixed",
+          "sourceText": "Drills",
+          "id": "Melatih kembali pola dan ungkapan pada bagian Drills."
+        }
+      ],
+      "assets": [
+        "assets/03-kumusta.jpg"
+      ],
+      "sha256": "b09e41a969a84f0f6ced1321f330be8733232e23f1fe194d154da7d008f5f17d"
+    },
+    {
+      "id": "learning-tagalog-course-book-1-lesson-04",
+      "unitId": "course-book-1-unit-01-conversation-foundations",
+      "order": 4,
+      "path": "04-sa-jeep.json",
+      "title": {
+        "id": "Di dalam jeepney",
+        "fil": "Sa jeep"
+      },
+      "summary": {
+        "id": "Seorang wanita pergi ke pasar dengan jeepney. Dia baru di kota dan menanyakan arah kepada pengemudi.",
+        "fil": "Sa jeep"
+      },
+      "objectives": [
+        {
+          "sourceLanguage": "mixed",
+          "sourceText": "Chapter 4 · Story A",
+          "id": "Memahami dialog utama Bab 4 tentang di dalam jeepney."
+        },
+        {
+          "sourceLanguage": "mixed",
+          "sourceText": "Literal and natural translations",
+          "id": "Membandingkan susunan Tagalog dengan glosa harfiah dan terjemahan alami dari sumber."
+        },
+        {
+          "sourceLanguage": "mixed",
+          "sourceText": "Drills",
+          "id": "Melatih kembali pola dan ungkapan pada bagian Drills."
+        }
+      ],
+      "assets": [
+        "assets/04-sa-jeep.jpg"
+      ],
+      "sha256": "72f3dd38d958bd0548ec59d7e42d929ad3b1332febee6df9fe8f64b87c03e9e3"
+    },
+    {
+      "id": "learning-tagalog-course-book-1-lesson-05",
+      "unitId": "course-book-1-unit-02-objects-and-shopping",
+      "order": 5,
+      "path": "05-ang-mga-alaga.json",
+      "title": {
+        "id": "Hewan-hewan peliharaan",
+        "fil": "Ang mga alaga'"
+      },
+      "summary": {
+        "id": "Cindy memperkenalkan anjingnya, Tabby dan Tingting, kepada tetangga barunya.",
+        "fil": "Ang mga alaga'"
+      },
+      "objectives": [
+        {
+          "sourceLanguage": "mixed",
+          "sourceText": "Chapter 5 · Story A",
+          "id": "Memahami dialog utama Bab 5 tentang hewan-hewan peliharaan."
+        },
+        {
+          "sourceLanguage": "mixed",
+          "sourceText": "Literal and natural translations",
+          "id": "Membandingkan susunan Tagalog dengan glosa harfiah dan terjemahan alami dari sumber."
+        },
+        {
+          "sourceLanguage": "mixed",
+          "sourceText": "Drills",
+          "id": "Melatih kembali pola dan ungkapan pada bagian Drills."
+        }
+      ],
+      "assets": [
+        "assets/05-ang-mga-alaga.jpg"
+      ],
+      "sha256": "ac1ba56b38c8454fcaa94e532972092face1d8c8e36841f4c6a619d574ab31df"
+    },
+    {
+      "id": "learning-tagalog-course-book-1-lesson-06",
+      "unitId": "course-book-1-unit-02-objects-and-shopping",
+      "order": 6,
+      "path": "06-ang-sapatos.json",
+      "title": {
+        "id": "Sepatu",
+        "fil": "Ang sapatos"
+      },
+      "summary": {
+        "id": "Julius sedang mencari sepatunya. Dia bertanya pada adiknya Mia di mana mereka berada.",
+        "fil": "Ang sapatos"
+      },
+      "objectives": [
+        {
+          "sourceLanguage": "mixed",
+          "sourceText": "Chapter 6 · Story A",
+          "id": "Memahami dialog utama Bab 6 tentang sepatu."
+        },
+        {
+          "sourceLanguage": "mixed",
+          "sourceText": "Literal and natural translations",
+          "id": "Membandingkan susunan Tagalog dengan glosa harfiah dan terjemahan alami dari sumber."
+        },
+        {
+          "sourceLanguage": "mixed",
+          "sourceText": "Drills",
+          "id": "Melatih kembali pola dan ungkapan pada bagian Drills."
+        }
+      ],
+      "assets": [
+        "assets/06-ang-sapatos.jpg"
+      ],
+      "sha256": "652f2b4dac1b6562c5def62aa566f67b4f8342cb9184435667f03f66adc5c955"
+    },
+    {
+      "id": "learning-tagalog-course-book-1-lesson-07",
+      "unitId": "course-book-1-unit-02-objects-and-shopping",
+      "order": 7,
+      "path": "07-may-sulat.json",
+      "title": {
+        "id": "Ada surat",
+        "fil": "May sulat"
+      },
+      "summary": {
+        "id": "Tukang pos membawa surat untuk Tuan Cruz tetapi hanya putrinya yang ada di rumah.",
+        "fil": "May sulat"
+      },
+      "objectives": [
+        {
+          "sourceLanguage": "mixed",
+          "sourceText": "Chapter 7 · Story A",
+          "id": "Memahami dialog utama Bab 7 tentang ada surat."
+        },
+        {
+          "sourceLanguage": "mixed",
+          "sourceText": "Literal and natural translations",
+          "id": "Membandingkan susunan Tagalog dengan glosa harfiah dan terjemahan alami dari sumber."
+        },
+        {
+          "sourceLanguage": "mixed",
+          "sourceText": "Drills",
+          "id": "Melatih kembali pola dan ungkapan pada bagian Drills."
+        }
+      ],
+      "assets": [
+        "assets/07-may-sulat.jpg"
+      ],
+      "sha256": "8b73f5d25bcbc34fda20c8295e5a5e58f63d85c001e8388dad7b26cfefb713c3"
+    },
+    {
+      "id": "learning-tagalog-course-book-1-lesson-08",
+      "unitId": "course-book-1-unit-02-objects-and-shopping",
+      "order": 8,
+      "path": "08-sa-fruit-stand.json",
+      "title": {
+        "id": "Di kios buah",
+        "fil": "Sa fruit stand"
+      },
+      "summary": {
+        "id": "Tuan Lopez membeli buah-buahan dari seorang gadis di kios buah.",
+        "fil": "Sa fruit stand"
+      },
+      "objectives": [
+        {
+          "sourceLanguage": "mixed",
+          "sourceText": "Chapter 8 · Story A",
+          "id": "Memahami dialog utama Bab 8 tentang di kios buah."
+        },
+        {
+          "sourceLanguage": "mixed",
+          "sourceText": "Literal and natural translations",
+          "id": "Membandingkan susunan Tagalog dengan glosa harfiah dan terjemahan alami dari sumber."
+        },
+        {
+          "sourceLanguage": "mixed",
+          "sourceText": "Drills",
+          "id": "Melatih kembali pola dan ungkapan pada bagian Drills."
+        }
+      ],
+      "assets": [
+        "assets/08-sa-fruit-stand.jpg"
+      ],
+      "sha256": "46bb35060b9d801f62d48d0ff8944968f2c3087715a90862ac37891ce7b78451"
+    },
+    {
+      "id": "learning-tagalog-course-book-1-lesson-09",
+      "unitId": "course-book-1-unit-03-family-time-and-home",
+      "order": 9,
+      "path": "09-ang-pamilya-ko.json",
+      "title": {
+        "id": "Keluarga saya",
+        "fil": "Ang pamilya ko"
+      },
+      "summary": {
+        "id": "Mia menunjukkan kepada temannya Mike album foto dengan foto keluarganya.",
+        "fil": "Ang pamilya ko"
+      },
+      "objectives": [
+        {
+          "sourceLanguage": "mixed",
+          "sourceText": "Chapter 9 · Story A",
+          "id": "Memahami dialog utama Bab 9 tentang keluarga saya."
+        },
+        {
+          "sourceLanguage": "mixed",
+          "sourceText": "Literal and natural translations",
+          "id": "Membandingkan susunan Tagalog dengan glosa harfiah dan terjemahan alami dari sumber."
+        },
+        {
+          "sourceLanguage": "mixed",
+          "sourceText": "Drills",
+          "id": "Melatih kembali pola dan ungkapan pada bagian Drills."
+        }
+      ],
+      "assets": [
+        "assets/09-ang-pamilya-ko.jpg"
+      ],
+      "sha256": "f5fb27d2c4fe9256e905ed567ac7dbf67412cd6e7969eae350c416c7e90d8872"
+    },
+    {
+      "id": "learning-tagalog-course-book-1-lesson-10",
+      "unitId": "course-book-1-unit-03-family-time-and-home",
+      "order": 10,
+      "path": "10-alas-kwatro-na.json",
+      "title": {
+        "id": "Sudah pukul empat",
+        "fil": "Alas kwatro na"
+      },
+      "summary": {
+        "id": "Dua orang teman sedang menunggu teman lainnya datang.",
+        "fil": "Alas kwatro na"
+      },
+      "objectives": [
+        {
+          "sourceLanguage": "mixed",
+          "sourceText": "Chapter 10 · Story A",
+          "id": "Memahami dialog utama Bab 10 tentang sudah pukul empat."
+        },
+        {
+          "sourceLanguage": "mixed",
+          "sourceText": "Literal and natural translations",
+          "id": "Membandingkan susunan Tagalog dengan glosa harfiah dan terjemahan alami dari sumber."
+        },
+        {
+          "sourceLanguage": "mixed",
+          "sourceText": "Drills",
+          "id": "Melatih kembali pola dan ungkapan pada bagian Drills."
+        }
+      ],
+      "assets": [
+        "assets/10-alas-kwatro-na.jpg"
+      ],
+      "sha256": "2a84714de240bbbada2b10681f0a42c6c09a8cf500fe512789b4cbcd7ac1f8d0"
+    },
+    {
+      "id": "learning-tagalog-course-book-1-lesson-11",
+      "unitId": "course-book-1-unit-03-family-time-and-home",
+      "order": 11,
+      "path": "11-sa-sala.json",
+      "title": {
+        "id": "Di ruang tamu",
+        "fil": "Sa sala"
+      },
+      "summary": {
+        "id": "Julius bertanya pada adiknya Mia apa yang dia tonton di TV.",
+        "fil": "Sa sala"
+      },
+      "objectives": [
+        {
+          "sourceLanguage": "mixed",
+          "sourceText": "Chapter 11 · Story A",
+          "id": "Memahami dialog utama Bab 11 tentang di ruang tamu."
+        },
+        {
+          "sourceLanguage": "mixed",
+          "sourceText": "Literal and natural translations",
+          "id": "Membandingkan susunan Tagalog dengan glosa harfiah dan terjemahan alami dari sumber."
+        },
+        {
+          "sourceLanguage": "mixed",
+          "sourceText": "Drills",
+          "id": "Melatih kembali pola dan ungkapan pada bagian Drills."
+        }
+      ],
+      "assets": [
+        "assets/11-sa-sala.jpg"
+      ],
+      "sha256": "ed8b3f4c43a81a6645a613a9d735f9d62a084f409c74079ab90ec951a94ad9fc"
+    },
+    {
+      "id": "learning-tagalog-course-book-1-lesson-12",
+      "unitId": "course-book-1-unit-03-family-time-and-home",
+      "order": 12,
+      "path": "12-ang-bisita.json",
+      "title": {
+        "id": "Tamu",
+        "fil": "Ang bisita"
+      },
+      "summary": {
+        "id": "Mike mengunjungi Mia.",
+        "fil": "Ang bisita"
+      },
+      "objectives": [
+        {
+          "sourceLanguage": "mixed",
+          "sourceText": "Chapter 12 · Story A",
+          "id": "Memahami dialog utama Bab 12 tentang tamu."
+        },
+        {
+          "sourceLanguage": "mixed",
+          "sourceText": "Literal and natural translations",
+          "id": "Membandingkan susunan Tagalog dengan glosa harfiah dan terjemahan alami dari sumber."
+        },
+        {
+          "sourceLanguage": "mixed",
+          "sourceText": "Drills",
+          "id": "Melatih kembali pola dan ungkapan pada bagian Drills."
+        }
+      ],
+      "assets": [
+        "assets/12-ang-bisita.jpg"
+      ],
+      "sha256": "234c848b224356a90dfb7bbb1bb708b0121d111fec00ca284706dff662ad6d26"
+    },
+    {
+      "id": "learning-tagalog-course-book-1-lesson-13",
+      "unitId": "course-book-1-unit-04-communication-and-services",
+      "order": 13,
+      "path": "13-may-tawag-sa-telepono.json",
+      "title": {
+        "id": "Ada panggilan telepon",
+        "fil": "May tawag sa telepono"
+      },
+      "summary": {
+        "id": "Dr Molina menelepon Dr Gomez untuk mengatakan dia tidak akan bermain tenis pada hari Minggu.",
+        "fil": "May tawag sa telepono"
+      },
+      "objectives": [
+        {
+          "sourceLanguage": "mixed",
+          "sourceText": "Chapter 13 · Story A",
+          "id": "Memahami dialog utama Bab 13 tentang ada panggilan telepon."
+        },
+        {
+          "sourceLanguage": "mixed",
+          "sourceText": "Literal and natural translations",
+          "id": "Membandingkan susunan Tagalog dengan glosa harfiah dan terjemahan alami dari sumber."
+        },
+        {
+          "sourceLanguage": "mixed",
+          "sourceText": "Drills",
+          "id": "Melatih kembali pola dan ungkapan pada bagian Drills."
+        }
+      ],
+      "assets": [
+        "assets/13-may-tawag-sa-telepono.jpg"
+      ],
+      "sha256": "364a37e3dca5a6e030fe4db5183fb18a273e36604a36e7f46d31d1aa365e7afb"
+    },
+    {
+      "id": "learning-tagalog-course-book-1-lesson-14",
+      "unitId": "course-book-1-unit-04-communication-and-services",
+      "order": 14,
+      "path": "14-tanghalian-sa-restaurant.json",
+      "title": {
+        "id": "Makan siang di restoran",
+        "fil": "Tanghalian sa restaurant"
+      },
+      "summary": {
+        "id": "Seorang pria dan istrinya sedang makan siang di restoran, sementara anak-anak mereka tinggal bersama Nenek.",
+        "fil": "Tanghalian sa restaurant"
+      },
+      "objectives": [
+        {
+          "sourceLanguage": "mixed",
+          "sourceText": "Chapter 14 · Story A",
+          "id": "Memahami dialog utama Bab 14 tentang makan siang di restoran."
+        },
+        {
+          "sourceLanguage": "mixed",
+          "sourceText": "Literal and natural translations",
+          "id": "Membandingkan susunan Tagalog dengan glosa harfiah dan terjemahan alami dari sumber."
+        },
+        {
+          "sourceLanguage": "mixed",
+          "sourceText": "Drills",
+          "id": "Melatih kembali pola dan ungkapan pada bagian Drills."
+        }
+      ],
+      "assets": [
+        "assets/14-tanghalian-sa-restaurant.jpg"
+      ],
+      "sha256": "6a027073954cc697967f0377286e0247a3f20ab54785b8e44a90ed29fb19742c"
+    },
+    {
+      "id": "learning-tagalog-course-book-1-lesson-15",
+      "unitId": "course-book-1-unit-04-communication-and-services",
+      "order": 15,
+      "path": "15-sa-parlor.json",
+      "title": {
+        "id": "Di salon",
+        "fil": "Sa parlor"
+      },
+      "summary": {
+        "id": "Di salon kecantikan.",
+        "fil": "Sa parlor"
+      },
+      "objectives": [
+        {
+          "sourceLanguage": "mixed",
+          "sourceText": "Chapter 15 · Story A",
+          "id": "Memahami dialog utama Bab 15 tentang di salon."
+        },
+        {
+          "sourceLanguage": "mixed",
+          "sourceText": "Literal and natural translations",
+          "id": "Membandingkan susunan Tagalog dengan glosa harfiah dan terjemahan alami dari sumber."
+        },
+        {
+          "sourceLanguage": "mixed",
+          "sourceText": "Drills",
+          "id": "Melatih kembali pola dan ungkapan pada bagian Drills."
+        }
+      ],
+      "assets": [
+        "assets/15-sa-parlor.jpg"
+      ],
+      "sha256": "322a2eaddf2fb28cfc7b7f5ce588270f0c50b17136a1a43946154493e517b6db"
+    },
+    {
+      "id": "learning-tagalog-course-book-1-lesson-16",
+      "unitId": "course-book-1-unit-04-communication-and-services",
+      "order": 16,
+      "path": "16-nandito-na-sina-tita-amy.json",
+      "title": {
+        "id": "Tita Amy dan yang lain sudah tiba",
+        "fil": "Nandito na sina Tita Amy"
+      },
+      "summary": {
+        "id": "Tita Amy dan Tito Juan telah tiba di Filipina.",
+        "fil": "Nandito na sina Tita Amy"
+      },
+      "objectives": [
+        {
+          "sourceLanguage": "mixed",
+          "sourceText": "Chapter 16 · Story A",
+          "id": "Memahami dialog utama Bab 16 tentang tita amy dan yang lain sudah tiba."
+        },
+        {
+          "sourceLanguage": "mixed",
+          "sourceText": "Literal and natural translations",
+          "id": "Membandingkan susunan Tagalog dengan glosa harfiah dan terjemahan alami dari sumber."
+        },
+        {
+          "sourceLanguage": "mixed",
+          "sourceText": "Drills",
+          "id": "Melatih kembali pola dan ungkapan pada bagian Drills."
+        }
+      ],
+      "assets": [
+        "assets/16-nandito-na-sina-tita-amy.jpg"
+      ],
+      "sha256": "13f7962eb1478ba8daf7f3dfa717acb6aad8a2de346c9bd3912fcd90be325e73"
+    },
+    {
+      "id": "learning-tagalog-course-book-1-lesson-17",
+      "unitId": "course-book-1-unit-05-travel-and-daily-needs",
+      "order": 17,
+      "path": "17-sa-hotel.json",
+      "title": {
+        "id": "Di hotel",
+        "fil": "Sa hotel"
+      },
+      "summary": {
+        "id": "Tuan de Leon check in di lobi hotel dan menanyakan di mana ATM terdekat.",
+        "fil": "Sa hotel"
+      },
+      "objectives": [
+        {
+          "sourceLanguage": "mixed",
+          "sourceText": "Chapter 17 · Story A",
+          "id": "Memahami dialog utama Bab 17 tentang di hotel."
+        },
+        {
+          "sourceLanguage": "mixed",
+          "sourceText": "Literal and natural translations",
+          "id": "Membandingkan susunan Tagalog dengan glosa harfiah dan terjemahan alami dari sumber."
+        },
+        {
+          "sourceLanguage": "mixed",
+          "sourceText": "Drills",
+          "id": "Melatih kembali pola dan ungkapan pada bagian Drills."
+        }
+      ],
+      "assets": [
+        "assets/17-sa-hotel.jpg"
+      ],
+      "sha256": "f1c32d2e8efe2241f2e5e38c9236b04be29ab5aa783f32d5cd02eac9ac08ef95"
+    },
+    {
+      "id": "learning-tagalog-course-book-1-lesson-18",
+      "unitId": "course-book-1-unit-05-travel-and-daily-needs",
+      "order": 18,
+      "path": "18-ang-init.json",
+      "title": {
+        "id": "Panas sekali!",
+        "fil": "Ang init!"
+      },
+      "summary": {
+        "id": "Ini hari yang sangat panas dan AC di kantor tidak berfungsi, bukan?",
+        "fil": "Ang init!"
+      },
+      "objectives": [
+        {
+          "sourceLanguage": "mixed",
+          "sourceText": "Chapter 18 · Story A",
+          "id": "Memahami dialog utama Bab 18 tentang panas sekali."
+        },
+        {
+          "sourceLanguage": "mixed",
+          "sourceText": "Literal and natural translations",
+          "id": "Membandingkan susunan Tagalog dengan glosa harfiah dan terjemahan alami dari sumber."
+        },
+        {
+          "sourceLanguage": "mixed",
+          "sourceText": "Drills",
+          "id": "Melatih kembali pola dan ungkapan pada bagian Drills."
+        }
+      ],
+      "assets": [
+        "assets/18-ang-init.jpg"
+      ],
+      "sha256": "f928a4c77bd334a444e607ec50c6cac784200e67c45e891f541f9c671727788f"
+    },
+    {
+      "id": "learning-tagalog-course-book-1-lesson-19",
+      "unitId": "course-book-1-unit-05-travel-and-daily-needs",
+      "order": 19,
+      "path": "19-may-sakit-ang-asawa-ko.json",
+      "title": {
+        "id": "Suami saya sakit",
+        "fil": "May sakit ang asawa ko"
+      },
+      "summary": {
+        "id": "Maria bercerita kepada rekannya tentang sakit perut suaminya pada malam sebelumnya.",
+        "fil": "May sakit ang asawa ko"
+      },
+      "objectives": [
+        {
+          "sourceLanguage": "mixed",
+          "sourceText": "Chapter 19 · Story A",
+          "id": "Memahami dialog utama Bab 19 tentang suami saya sakit."
+        },
+        {
+          "sourceLanguage": "mixed",
+          "sourceText": "Literal and natural translations",
+          "id": "Membandingkan susunan Tagalog dengan glosa harfiah dan terjemahan alami dari sumber."
+        },
+        {
+          "sourceLanguage": "mixed",
+          "sourceText": "Drills",
+          "id": "Melatih kembali pola dan ungkapan pada bagian Drills."
+        }
+      ],
+      "assets": [
+        "assets/19-may-sakit-ang-asawa-ko.jpg"
+      ],
+      "sha256": "c63699eac8e5089d0bdc01d6b7d15654fe396eba5b0e1491859c02d1f9f838d1"
+    },
+    {
+      "id": "learning-tagalog-course-book-1-lesson-20",
+      "unitId": "course-book-1-unit-05-travel-and-daily-needs",
+      "order": 20,
+      "path": "20-sa-mall.json",
+      "title": {
+        "id": "Di mal",
+        "fil": "Sa mall"
+      },
+      "summary": {
+        "id": "Julius dan Mia sedang berbelanja di mal.",
+        "fil": "Sa mall"
+      },
+      "objectives": [
+        {
+          "sourceLanguage": "mixed",
+          "sourceText": "Chapter 20 · Story A",
+          "id": "Memahami dialog utama Bab 20 tentang di mal."
+        },
+        {
+          "sourceLanguage": "mixed",
+          "sourceText": "Literal and natural translations",
+          "id": "Membandingkan susunan Tagalog dengan glosa harfiah dan terjemahan alami dari sumber."
+        },
+        {
+          "sourceLanguage": "mixed",
+          "sourceText": "Drills",
+          "id": "Melatih kembali pola dan ungkapan pada bagian Drills."
+        }
+      ],
+      "assets": [
+        "assets/20-sa-mall.jpg"
+      ],
+      "sha256": "807390c78fa281730a47705b656f3efe4905f8e5629fe2c9d29fa7731ba047ae"
+    }
+  ]
+}
