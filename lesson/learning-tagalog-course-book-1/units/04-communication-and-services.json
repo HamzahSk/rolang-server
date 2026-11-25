@@ -1,0 +1,53 @@
+{
+  "schemaVersion": 1,
+  "id": "course-book-1-unit-04-communication-and-services",
+  "courseId": "learning-tagalog-course-book-1",
+  "title": {
+    "id": "Komunikasi dan layanan",
+    "fil": "Komunikasyon at mga serbisyo"
+  },
+  "assets": [],
+  "sections": [
+    {
+      "id": "unit-overview",
+      "type": "OVERVIEW",
+      "title": {
+        "sourceLanguage": "mixed",
+        "sourceText": "Unit overview",
+        "id": "Gambaran unit"
+      },
+      "blocks": [
+        {
+          "type": "list",
+          "style": "outline",
+          "items": [
+            {
+              "sourceLanguage": "fil",
+              "sourceText": "May tawag sa telepono",
+              "id": "Ada panggilan telepon",
+              "tagalog": "May tawag sa telepono"
+            },
+            {
+              "sourceLanguage": "fil",
+              "sourceText": "Tanghalian sa restaurant",
+              "id": "Makan siang di restoran",
+              "tagalog": "Tanghalian sa restaurant"
+            },
+            {
+              "sourceLanguage": "fil",
+              "sourceText": "Sa parlor",
+              "id": "Di salon",
+              "tagalog": "Sa parlor"
+            },
+            {
+              "sourceLanguage": "fil",
+              "sourceText": "Nandito na sina Tita Amy",
+              "id": "Tita Amy dan yang lain sudah tiba",
+              "tagalog": "Nandito na sina Tita Amy"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

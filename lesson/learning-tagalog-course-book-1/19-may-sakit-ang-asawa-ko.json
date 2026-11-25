@@ -1,0 +1,2399 @@
+{
+  "schemaVersion": 1,
+  "structureVersion": 2,
+  "id": "learning-tagalog-course-book-1-lesson-19",
+  "courseId": "learning-tagalog-course-book-1",
+  "unitId": "course-book-1-unit-05-travel-and-daily-needs",
+  "order": 19,
+  "level": "BEGINNER",
+  "title": {
+    "id": "Suami saya sakit",
+    "fil": "May sakit ang asawa ko"
+  },
+  "summary": {
+    "id": "Maria bercerita kepada rekannya tentang sakit perut suaminya pada malam sebelumnya.",
+    "fil": "May sakit ang asawa ko"
+  },
+  "objectives": [
+    {
+      "sourceLanguage": "mixed",
+      "sourceText": "Chapter 19 · Story A",
+      "id": "Memahami dialog utama Bab 19 tentang suami saya sakit."
+    },
+    {
+      "sourceLanguage": "mixed",
+      "sourceText": "Literal and natural translations",
+      "id": "Membandingkan susunan Tagalog dengan glosa harfiah dan terjemahan alami dari sumber."
+    },
+    {
+      "sourceLanguage": "mixed",
+      "sourceText": "Drills",
+      "id": "Melatih kembali pola dan ungkapan pada bagian Drills."
+    }
+  ],
+  "source": {
+    "book": "Learning Tagalog - Fluency Made Fast and Easy - Course Book 1",
+    "file": "Learning Tagalog - Fluency Made Fast and Easy - Course Book 1.pdf",
+    "pdfSha256": "52e9f464239c2ae98248a452edfbf1f58eb01bec69374a16d5205e70afa80f58",
+    "chapter": 19,
+    "pages": {
+      "start": 472,
+      "end": 497
+    },
+    "drillsDividerPage": 485,
+    "recapPage": 497
+  },
+  "sourceLinks": [
+    {
+      "page": 484,
+      "uri": "https://learningtagalog.com/grammar/nouns/verbs_adjectives_etc_used_as_nouns.html"
+    }
+  ],
+  "assets": [
+    "assets/19-may-sakit-ang-asawa-ko.jpg"
+  ],
+  "sections": [
+    {
+      "id": "introduction",
+      "type": "INTRODUCTION",
+      "title": {
+        "sourceLanguage": "mixed",
+        "sourceText": "My husband is ill",
+        "id": "Suami saya sakit"
+      },
+      "blocks": [
+        {
+          "type": "image",
+          "path": "assets/19-may-sakit-ang-asawa-ko.jpg",
+          "sourcePage": 472
+        },
+        {
+          "type": "text",
+          "style": "heading",
+          "text": {
+            "sourceLanguage": "en",
+            "sourceText": "My husband is ill",
+            "id": "Suami saya sakit"
+          }
+        }
+      ]
+    },
+    {
+      "id": "learning-material",
+      "type": "LEARNING_MATERIAL",
+      "title": {
+        "sourceLanguage": "mixed",
+        "sourceText": "Chapter context",
+        "id": "Konteks bab"
+      },
+      "blocks": [
+        {
+          "type": "text",
+          "style": "body",
+          "sourcePage": 472,
+          "text": {
+            "sourceLanguage": "en",
+            "sourceText": "Maria talks to her colleague about her husband's stomach ache the previous night.",
+            "id": "Maria bercerita kepada rekannya tentang sakit perut suaminya pada malam sebelumnya."
+          }
+        }
+      ]
+    },
+    {
+      "id": "dialogue",
+      "type": "DIALOGUE",
+      "title": {
+        "sourceLanguage": "mixed",
+        "sourceText": "Story A",
+        "id": "Dialog utama (Bagian A)"
+      },
+      "blocks": [
+        {
+          "type": "dialogue",
+          "turns": [
+            {
+              "speaker": "A 01",
+              "speakerText": {
+                "sourceLanguage": "mixed",
+                "sourceText": "A 01",
+                "id": "Bagian A 01"
+              },
+              "text": {
+                "sourceLanguage": "fil",
+                "sourceText": "May sakit ang asawa ko",
+                "id": "Suami saya sakit",
+                "tagalog": "May sakit ang asawa ko"
+              },
+              "sourcePage": 473
+            },
+            {
+              "speaker": "A 02",
+              "speakerText": {
+                "sourceLanguage": "mixed",
+                "sourceText": "A 02",
+                "id": "Bagian A 02"
+              },
+              "text": {
+                "sourceLanguage": "fil",
+                "sourceText": "Anong balita'?",
+                "id": "Bagaimana kabarnya? (Apa beritanya?)",
+                "tagalog": "Anong balita'?"
+              },
+              "sourcePage": 474
+            },
+            {
+              "speaker": "A 03",
+              "speakerText": {
+                "sourceLanguage": "mixed",
+                "sourceText": "A 03",
+                "id": "Bagian A 03"
+              },
+              "text": {
+                "sourceLanguage": "fil",
+                "sourceText": "May sakit ang asawa ko. Mula' pa kagabi.",
+                "id": "Suamiku sakit. Sejak tadi malam.",
+                "tagalog": "May sakit ang asawa ko. Mula' pa kagabi."
+              },
+              "sourcePage": 475
+            },
+            {
+              "speaker": "A 04",
+              "speakerText": {
+                "sourceLanguage": "mixed",
+                "sourceText": "A 04",
+                "id": "Bagian A 04"
+              },
+              "text": {
+                "sourceLanguage": "fil",
+                "sourceText": "Talaga?",
+                "id": "Benarkah?",
+                "tagalog": "Talaga?"
+              },
+              "sourcePage": 476
+            },
+            {
+              "speaker": "A 05",
+              "speakerText": {
+                "sourceLanguage": "mixed",
+                "sourceText": "A 05",
+                "id": "Bagian A 05"
+              },
+              "text": {
+                "sourceLanguage": "fil",
+                "sourceText": "Oo. Nagising siya noong hatinggabi.",
+                "id": "Ya. Dia terbangun di tengah malam (tengah malam).",
+                "tagalog": "Oo. Nagising siya noong hatinggabi."
+              },
+              "sourcePage": 477
+            },
+            {
+              "speaker": "A 06",
+              "speakerText": {
+                "sourceLanguage": "mixed",
+                "sourceText": "A 06",
+                "id": "Bagian A 06"
+              },
+              "text": {
+                "sourceLanguage": "fil",
+                "sourceText": "Sabi niya, masama' ang pakiramdam niya.",
+                "id": "Dia bilang dia sedang tidak enak badan.",
+                "tagalog": "Sabi niya, masama' ang pakiramdam niya."
+              },
+              "sourcePage": 478
+            },
+            {
+              "speaker": "A 07",
+              "speakerText": {
+                "sourceLanguage": "mixed",
+                "sourceText": "A 07",
+                "id": "Bagian A 07"
+              },
+              "text": {
+                "sourceLanguage": "fil",
+                "sourceText": "Sabi ko, ano ang problema?",
+                "id": "Saya berkata, \"Ada apa?\"",
+                "tagalog": "Sabi ko, ano ang problema?"
+              },
+              "sourcePage": 479
+            },
+            {
+              "speaker": "A 08",
+              "speakerText": {
+                "sourceLanguage": "mixed",
+                "sourceText": "A 08",
+                "id": "Bagian A 08"
+              },
+              "text": {
+                "sourceLanguage": "fil",
+                "sourceText": "Masakit daw ang tyan niya.",
+                "id": "Katanya perutnya sakit.",
+                "tagalog": "Masakit daw ang tyan niya."
+              },
+              "sourcePage": 480
+            },
+            {
+              "speaker": "A 09",
+              "speakerText": {
+                "sourceLanguage": "mixed",
+                "sourceText": "A 09",
+                "id": "Bagian A 09"
+              },
+              "text": {
+                "sourceLanguage": "fil",
+                "sourceText": "Tapos?",
+                "id": "Kemudian?",
+                "tagalog": "Tapos?"
+              },
+              "sourcePage": 481
+            },
+            {
+              "speaker": "A 10",
+              "speakerText": {
+                "sourceLanguage": "mixed",
+                "sourceText": "A 10",
+                "id": "Bagian A 10"
+              },
+              "text": {
+                "sourceLanguage": "fil",
+                "sourceText": "Sabi ko sa kanya, bakit hindi' ka uminom ng gamot?",
+                "id": "Saya mengatakan kepadanya, \"Mengapa kamu tidak minum obat?\"",
+                "tagalog": "Sabi ko sa kanya, bakit hindi' ka uminom ng gamot?"
+              },
+              "sourcePage": 482
+            },
+            {
+              "speaker": "A 11",
+              "speakerText": {
+                "sourceLanguage": "mixed",
+                "sourceText": "A 11",
+                "id": "Bagian A 11"
+              },
+              "text": {
+                "sourceLanguage": "fil",
+                "sourceText": "Sabi niya, nakainom na raw siya.",
+                "id": "Katanya dia sudah minum beberapa (obat).",
+                "tagalog": "Sabi niya, nakainom na raw siya."
+              },
+              "sourcePage": 483
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "vocabulary",
+      "type": "VOCABULARY",
+      "title": {
+        "sourceLanguage": "mixed",
+        "sourceText": "Vocabulary and expressions",
+        "id": "Kosakata dan ungkapan"
+      },
+      "blocks": [
+        {
+          "type": "vocabulary",
+          "entries": [
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "May",
+                "id": "Memiliki",
+                "tagalog": "May"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "Has",
+                "id": "Memiliki"
+              },
+              "sourcePage": 473
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "sakit",
+                "id": "Penyakit",
+                "tagalog": "sakit"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "illness",
+                "id": "Penyakit"
+              },
+              "sourcePage": 473
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "ang",
+                "id": "penanda definit",
+                "tagalog": "ang"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "the",
+                "id": "penanda definit"
+              },
+              "sourcePage": 473
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "asawa",
+                "id": "Pasangan",
+                "tagalog": "asawa"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "spouse",
+                "id": "Pasangan"
+              },
+              "sourcePage": 473
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "ko",
+                "id": "milikku",
+                "tagalog": "ko"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "my",
+                "id": "milikku"
+              },
+              "sourcePage": 473
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "Anong",
+                "id": "Apa-[penanda ang]",
+                "tagalog": "Anong"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "What-[Ang marker]",
+                "id": "Apa-[penanda ang]"
+              },
+              "sourcePage": 474
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "balita'?",
+                "id": "Berita?",
+                "tagalog": "balita'?"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "news?",
+                "id": "Berita?"
+              },
+              "sourcePage": 474
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "Mula' pa",
+                "id": "Sejak",
+                "tagalog": "Mula' pa"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "Since",
+                "id": "Sejak"
+              },
+              "sourcePage": 475
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "kagabi.",
+                "id": "Tadi malam.",
+                "tagalog": "kagabi."
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "last night.",
+                "id": "Tadi malam."
+              },
+              "sourcePage": 475
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "Talaga?",
+                "id": "Benar-benar?",
+                "tagalog": "Talaga?"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "Really?",
+                "id": "Benar-benar?"
+              },
+              "sourcePage": 476
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "Oo.",
+                "id": "Ya.",
+                "tagalog": "Oo."
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "Yes.",
+                "id": "Ya."
+              },
+              "sourcePage": 477
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "Nagising",
+                "id": "Bangun",
+                "tagalog": "Nagising"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "Woke up",
+                "id": "Bangun"
+              },
+              "sourcePage": 477
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "siya",
+                "id": "Dia",
+                "tagalog": "siya"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "he/she",
+                "id": "Dia"
+              },
+              "sourcePage": 477
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "noong",
+                "id": "Terakhir",
+                "tagalog": "noong"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "last",
+                "id": "Terakhir"
+              },
+              "sourcePage": 477
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "hatinggabi.",
+                "id": "Tengah malam.",
+                "tagalog": "hatinggabi."
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "midnight.",
+                "id": "Tengah malam."
+              },
+              "sourcePage": 477
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "Sabi",
+                "id": "Dikatakan",
+                "tagalog": "Sabi"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "Said",
+                "id": "Dikatakan"
+              },
+              "sourcePage": 478
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "niya,",
+                "id": "Oleh dia,",
+                "tagalog": "niya,"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "by him/her,",
+                "id": "Oleh dia,"
+              },
+              "sourcePage": 478
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "masama'",
+                "id": "Buruk",
+                "tagalog": "masama'"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "bad",
+                "id": "Buruk"
+              },
+              "sourcePage": 478
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "pakiramdam",
+                "id": "Merasa",
+                "tagalog": "pakiramdam"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "feeling",
+                "id": "Merasa"
+              },
+              "sourcePage": 478
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "ano",
+                "id": "Apa",
+                "tagalog": "ano"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "what",
+                "id": "Apa"
+              },
+              "sourcePage": 479
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "problema?",
+                "id": "Masalah?",
+                "tagalog": "problema?"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "problem?",
+                "id": "Masalah?"
+              },
+              "sourcePage": 479
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "Masakit",
+                "id": "Menyakitkan",
+                "tagalog": "Masakit"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "Painful",
+                "id": "Menyakitkan"
+              },
+              "sourcePage": 480
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "daw",
+                "id": "Katanya",
+                "tagalog": "daw"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "he/she said",
+                "id": "Katanya"
+              },
+              "sourcePage": 480
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "tyan",
+                "id": "Perut",
+                "tagalog": "tyan"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "belly",
+                "id": "Perut"
+              },
+              "sourcePage": 480
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "Tapos?",
+                "id": "Kemudian?",
+                "tagalog": "Tapos?"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "Then?",
+                "id": "Kemudian?"
+              },
+              "sourcePage": 481
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "sa",
+                "id": "Ke",
+                "tagalog": "sa"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "to",
+                "id": "Ke"
+              },
+              "sourcePage": 482
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "kanya,",
+                "id": "Dia,",
+                "tagalog": "kanya,"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "him/her,",
+                "id": "Dia,"
+              },
+              "sourcePage": 482
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "bakit",
+                "id": "Mengapa",
+                "tagalog": "bakit"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "why",
+                "id": "Mengapa"
+              },
+              "sourcePage": 482
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "hindi'",
+                "id": "Bukan",
+                "tagalog": "hindi'"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "not",
+                "id": "Bukan"
+              },
+              "sourcePage": 482
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "ka",
+                "id": "kamu",
+                "tagalog": "ka"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "you",
+                "id": "kamu"
+              },
+              "sourcePage": 482
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "uminom",
+                "id": "Minum",
+                "tagalog": "uminom"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "drink",
+                "id": "Minum"
+              },
+              "sourcePage": 482
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "ng",
+                "id": "[penanda ng]",
+                "tagalog": "ng"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "[Ng marker]",
+                "id": "[penanda ng]"
+              },
+              "sourcePage": 482
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "gamot?",
+                "id": "Obat-obatan?",
+                "tagalog": "gamot?"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "medicine?",
+                "id": "Obat-obatan?"
+              },
+              "sourcePage": 482
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "nakainom",
+                "id": "Sudah bisa minum",
+                "tagalog": "nakainom"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "had been able to drink",
+                "id": "Sudah bisa minum"
+              },
+              "sourcePage": 483
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "na",
+                "id": "Sudah",
+                "tagalog": "na"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "already",
+                "id": "Sudah"
+              },
+              "sourcePage": 483
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "raw",
+                "id": "Katanya",
+                "tagalog": "raw"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "he/she said",
+                "id": "Katanya"
+              },
+              "sourcePage": 483
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "'yun pala,",
+                "id": "Ternyata,",
+                "tagalog": "'yun pala,"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "It turns out,",
+                "id": "Ternyata,"
+              },
+              "sourcePage": 484
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "buong",
+                "id": "Keseluruhan-[penghubung]",
+                "tagalog": "buong"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "whole-[linker]",
+                "id": "Keseluruhan-[penghubung]"
+              },
+              "sourcePage": 484
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "bote",
+                "id": "Botol",
+                "tagalog": "bote"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "bottle",
+                "id": "Botol"
+              },
+              "sourcePage": 484
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "ininom",
+                "id": "Sedang mabuk",
+                "tagalog": "ininom"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "was drunk",
+                "id": "Sedang mabuk"
+              },
+              "sourcePage": 484
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "magaling",
+                "id": "Baik lagi",
+                "tagalog": "magaling"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "well again",
+                "id": "Baik lagi"
+              },
+              "sourcePage": 486
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "sipon",
+                "id": "Dingin",
+                "tagalog": "sipon"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "cold",
+                "id": "Dingin"
+              },
+              "sourcePage": 487
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "ako.",
+                "id": "SAYA.",
+                "tagalog": "ako."
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "I.",
+                "id": "SAYA."
+              },
+              "sourcePage": 487
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "trangkaso",
+                "id": "Flu",
+                "tagalog": "trangkaso"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "flu",
+                "id": "Flu"
+              },
+              "sourcePage": 488
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "pamangkin",
+                "id": "Keponakan/keponakan",
+                "tagalog": "pamangkin"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "nephew/niece",
+                "id": "Keponakan/keponakan"
+              },
+              "sourcePage": 488
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "ba?",
+                "id": "[penanda tanya]?",
+                "tagalog": "ba?"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "[question]?",
+                "id": "[penanda tanya]?"
+              },
+              "sourcePage": 489
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "ubo",
+                "id": "Batuk",
+                "tagalog": "ubo"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "cough",
+                "id": "Batuk"
+              },
+              "sourcePage": 490
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "at",
+                "id": "Dan",
+                "tagalog": "at"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "and",
+                "id": "Dan"
+              },
+              "sourcePage": 490
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "lagnat",
+                "id": "Demam",
+                "tagalog": "lagnat"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "fever",
+                "id": "Demam"
+              },
+              "sourcePage": 490
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "pa",
+                "id": "Tetap",
+                "tagalog": "pa"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "still",
+                "id": "Tetap"
+              },
+              "sourcePage": 490
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "Wala',",
+                "id": "Tidak punya,",
+                "tagalog": "Wala',"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "Have none,",
+                "id": "Tidak punya,"
+              },
+              "sourcePage": 492
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "pero",
+                "id": "Tetapi",
+                "tagalog": "pero"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "but",
+                "id": "Tetapi"
+              },
+              "sourcePage": 492
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "nahihilo",
+                "id": "Saya merasa pusing",
+                "tagalog": "nahihilo"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "am feeling dizzy",
+                "id": "Saya merasa pusing"
+              },
+              "sourcePage": 492
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "ulo",
+                "id": "Kepala",
+                "tagalog": "ulo"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "head",
+                "id": "Kepala"
+              },
+              "sourcePage": 494
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "Pumunta",
+                "id": "Telah pergi",
+                "tagalog": "Pumunta"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "Went",
+                "id": "Telah pergi"
+              },
+              "sourcePage": 495
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "doktor?",
+                "id": "Dokter?",
+                "tagalog": "doktor?"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "doctor?",
+                "id": "Dokter?"
+              },
+              "sourcePage": 495
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "style": "body",
+          "sourcePage": 474,
+          "sourceLabel": "A 02",
+          "links": [],
+          "text": {
+            "sourceLanguage": "en",
+            "sourceText": "Here, ang is shortened to -ng. Ano ang balita'? – Anong balita'?",
+            "id": "A 02 · halaman PDF 474\n\nDi sini, ang disingkat menjadi -ng. Ano ang balita'? – Anong balita'?"
+          }
+        },
+        {
+          "type": "text",
+          "style": "body",
+          "sourcePage": 475,
+          "sourceLabel": "A 03",
+          "links": [],
+          "text": {
+            "sourceLanguage": "en",
+            "sourceText": "Mula' pa – since (as long ago as); used with a past time expression to imply that something has been the case since some time ago. The speaker feels it has been quite a long time.",
+            "id": "A 03 · halaman PDF 475\n\nMula' pa – sejak (selama); digunakan dengan ekspresi waktu lampau untuk menyiratkan bahwa sesuatu telah terjadi sejak beberapa waktu yang lalu. Pembicara merasa sudah cukup lama."
+          }
+        },
+        {
+          "type": "text",
+          "style": "body",
+          "sourcePage": 483,
+          "sourceLabel": "A 11",
+          "links": [],
+          "text": {
+            "sourceLanguage": "en",
+            "sourceText": "Nakainom na – has/had been able to drink.",
+            "id": "A 11 · halaman PDF 483\n\nNakainom na – sudah/sudah bisa minum."
+          }
+        },
+        {
+          "type": "text",
+          "style": "body",
+          "sourcePage": 484,
+          "sourceLabel": "A 12",
+          "links": [
+            "https://learningtagalog.com/grammar/nouns/verbs_adjectives_etc_used_as_nouns.html"
+          ],
+          "text": {
+            "sourceLanguage": "en",
+            "sourceText": "'Yun is short for iyon.",
+            "id": "A 12 · halaman PDF 484\n\n'Yun adalah kependekan dari iyon."
+          }
+        },
+        {
+          "type": "text",
+          "style": "body",
+          "sourcePage": 484,
+          "sourceLabel": "A 12",
+          "links": [
+            "https://learningtagalog.com/grammar/nouns/verbs_adjectives_etc_used_as_nouns.html"
+          ],
+          "text": {
+            "sourceLanguage": "en",
+            "sourceText": "Ang ininom niya – the thing that was drunk by him/her.",
+            "id": "A 12 · halaman PDF 484\n\nAng ininom niya – benda yang diminumnya."
+          }
+        },
+        {
+          "type": "text",
+          "style": "body",
+          "sourcePage": 486,
+          "sourceLabel": "B 01",
+          "links": [],
+          "text": {
+            "sourceLanguage": "en",
+            "sourceText": "Here, magaling na means no longer ill or well again (has recovered from illness).",
+            "id": "B 01 · halaman PDF 486\n\nDisini magaling na artinya sudah tidak sakit lagi atau sehat kembali (sudah sembuh dari sakit)."
+          }
+        },
+        {
+          "type": "text",
+          "style": "body",
+          "sourcePage": 489,
+          "sourceLabel": "B 04",
+          "links": [],
+          "text": {
+            "sourceLanguage": "en",
+            "sourceText": "Notice the order of the enclitic words: ka na ba.",
+            "id": "B 04 · halaman PDF 489\n\nPerhatikan urutan kata enklitiknya: ka na ba."
+          }
+        },
+        {
+          "type": "text",
+          "style": "body",
+          "sourcePage": 495,
+          "sourceLabel": "B 10",
+          "links": [],
+          "text": {
+            "sourceLanguage": "en",
+            "sourceText": "Pumunta na – has/had gone.",
+            "id": "B 10 · halaman PDF 495\n\nPumunta na – telah/telah hilang."
+          }
+        },
+        {
+          "type": "text",
+          "style": "body",
+          "sourcePage": 495,
+          "sourceLabel": "B 10",
+          "links": [],
+          "text": {
+            "sourceLanguage": "en",
+            "sourceText": "Ka has a higher priority than na.",
+            "id": "B 10 · halaman PDF 495\n\nKa memiliki prioritas lebih tinggi dibandingkan na."
+          }
+        },
+        {
+          "type": "text",
+          "style": "body",
+          "sourcePage": 496,
+          "sourceLabel": "B 11",
+          "links": [],
+          "text": {
+            "sourceLanguage": "en",
+            "sourceText": "Here, pa means yet.",
+            "id": "B 11 · halaman PDF 496\n\nDi sini, pa artinya belum."
+          }
+        }
+      ]
+    },
+    {
+      "id": "grammar",
+      "type": "GRAMMAR",
+      "title": {
+        "sourceLanguage": "mixed",
+        "sourceText": "Grammar and pronunciation notes",
+        "id": "Catatan tata bahasa dan pelafalan"
+      },
+      "blocks": [
+        {
+          "type": "text",
+          "style": "body",
+          "sourcePage": 482,
+          "sourceLabel": "A 10",
+          "links": [],
+          "text": {
+            "sourceLanguage": "en",
+            "sourceText": "Bakit hindi' ka + basic form – why don't you (...).",
+            "id": "A 10 · halaman PDF 482\n\nBakit hindi' ka + bentuk dasar – kenapa tidak (...)."
+          }
+        },
+        {
+          "type": "text",
+          "style": "body",
+          "sourcePage": 483,
+          "sourceLabel": "A 11",
+          "links": [],
+          "text": {
+            "sourceLanguage": "en",
+            "sourceText": "Nakainom (was able to drink) is the completed form of makainom. Here, the affix maka- means to be able to.",
+            "id": "A 11 · halaman PDF 483\n\nNakainom (bisa minum) adalah bentuk lengkap dari makainom. Di sini imbuhan maka- artinya mampu."
+          }
+        },
+        {
+          "type": "text",
+          "style": "body",
+          "sourcePage": 484,
+          "sourceLabel": "A 12",
+          "links": [
+            "https://learningtagalog.com/grammar/nouns/verbs_adjectives_etc_used_as_nouns.html"
+          ],
+          "text": {
+            "sourceLanguage": "en",
+            "sourceText": "Ininom is a verb used as a noun here. It is the completed form of inumin (root is inom, affix is -in, POD is the object). More on this later!",
+            "id": "A 12 · halaman PDF 484\n\nIninom adalah kata kerja yang digunakan sebagai kata benda di sini. Ini adalah bentuk lengkap dari inumin (root adalah inom, imbuhan adalah -in, POD adalah objeknya). Lebih lanjut tentang ini nanti!"
+          }
+        },
+        {
+          "type": "text",
+          "style": "body",
+          "sourcePage": 484,
+          "sourceLabel": "A 12",
+          "links": [
+            "https://learningtagalog.com/grammar/nouns/verbs_adjectives_etc_used_as_nouns.html"
+          ],
+          "text": {
+            "sourceLanguage": "en",
+            "sourceText": "Optional reading: Verbs, adjectives etc. used as nouns.",
+            "id": "A 12 · halaman PDF 484\n\nBacaan opsional: Kata kerja, kata sifat, dll. Digunakan sebagai kata benda."
+          }
+        }
+      ]
+    },
+    {
+      "id": "examples",
+      "type": "EXAMPLES",
+      "title": {
+        "sourceLanguage": "mixed",
+        "sourceText": "Literal and natural translations",
+        "id": "Contoh dengan glosa harfiah dan alami"
+      },
+      "blocks": [
+        {
+          "type": "example",
+          "title": {
+            "sourceLanguage": "mixed",
+            "sourceText": "A 01",
+            "id": "A 01 · halaman PDF 473"
+          },
+          "sourcePage": 473,
+          "rows": [
+            {
+              "cells": [
+                {
+                  "sourceLanguage": "fil",
+                  "sourceText": "May sakit ang asawa ko",
+                  "id": "Suami saya sakit",
+                  "tagalog": "May sakit ang asawa ko"
+                },
+                {
+                  "sourceLanguage": "en",
+                  "sourceText": "Has illness the spouse my",
+                  "id": "Glosa harfiah (Inggris)\nHas illness the spouse my"
+                },
+                {
+                  "sourceLanguage": "en",
+                  "sourceText": "My husband is ill",
+                  "id": "Terjemahan alami sumber (Inggris)\nMy husband is ill"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "example",
+          "title": {
+            "sourceLanguage": "mixed",
+            "sourceText": "A 02",
+            "id": "A 02 · halaman PDF 474"
+          },
+          "sourcePage": 474,
+          "rows": [
+            {
+              "cells": [
+                {
+                  "sourceLanguage": "fil",
+                  "sourceText": "Anong balita'?",
+                  "id": "Bagaimana kabarnya? (Apa beritanya?)",
+                  "tagalog": "Anong balita'?"
+                },
+                {
+                  "sourceLanguage": "en",
+                  "sourceText": "What-[Ang marker] news?",
+                  "id": "Glosa harfiah (Inggris)\nWhat-[Ang marker] news?"
+                },
+                {
+                  "sourceLanguage": "en",
+                  "sourceText": "How's it going? (What's the news?)",
+                  "id": "Terjemahan alami sumber (Inggris)\nHow's it going? (What's the news?)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "example",
+          "title": {
+            "sourceLanguage": "mixed",
+            "sourceText": "A 03",
+            "id": "A 03 · halaman PDF 475"
+          },
+          "sourcePage": 475,
+          "rows": [
+            {
+              "cells": [
+                {
+                  "sourceLanguage": "fil",
+                  "sourceText": "May sakit ang asawa ko. Mula' pa kagabi.",
+                  "id": "Suamiku sakit. Sejak tadi malam.",
+                  "tagalog": "May sakit ang asawa ko. Mula' pa kagabi."
+                },
+                {
+                  "sourceLanguage": "en",
+                  "sourceText": "Has illness the spouse my. Since last night.",
+                  "id": "Glosa harfiah (Inggris)\nHas illness the spouse my. Since last night."
+                },
+                {
+                  "sourceLanguage": "en",
+                  "sourceText": "My husband is ill. Since last night.",
+                  "id": "Terjemahan alami sumber (Inggris)\nMy husband is ill. Since last night."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "example",
+          "title": {
+            "sourceLanguage": "mixed",
+            "sourceText": "A 04",
+            "id": "A 04 · halaman PDF 476"
+          },
+          "sourcePage": 476,
+          "rows": [
+            {
+              "cells": [
+                {
+                  "sourceLanguage": "fil",
+                  "sourceText": "Talaga?",
+                  "id": "Benarkah?",
+                  "tagalog": "Talaga?"
+                },
+                {
+                  "sourceLanguage": "en",
+                  "sourceText": "Really?",
+                  "id": "Glosa harfiah (Inggris)\nReally?"
+                },
+                {
+                  "sourceLanguage": "en",
+                  "sourceText": "Really?",
+                  "id": "Terjemahan alami sumber (Inggris)\nReally?"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "example",
+          "title": {
+            "sourceLanguage": "mixed",
+            "sourceText": "A 05",
+            "id": "A 05 · halaman PDF 477"
+          },
+          "sourcePage": 477,
+          "rows": [
+            {
+              "cells": [
+                {
+                  "sourceLanguage": "fil",
+                  "sourceText": "Oo. Nagising siya noong hatinggabi.",
+                  "id": "Ya. Dia terbangun di tengah malam (tengah malam).",
+                  "tagalog": "Oo. Nagising siya noong hatinggabi."
+                },
+                {
+                  "sourceLanguage": "en",
+                  "sourceText": "Yes. Woke up he/she last midnight.",
+                  "id": "Glosa harfiah (Inggris)\nYes. Woke up he/she last midnight."
+                },
+                {
+                  "sourceLanguage": "en",
+                  "sourceText": "Yes. He woke up in the middle of the night (at midnight).",
+                  "id": "Terjemahan alami sumber (Inggris)\nYes. He woke up in the middle of the night (at midnight)."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "example",
+          "title": {
+            "sourceLanguage": "mixed",
+            "sourceText": "A 06",
+            "id": "A 06 · halaman PDF 478"
+          },
+          "sourcePage": 478,
+          "rows": [
+            {
+              "cells": [
+                {
+                  "sourceLanguage": "fil",
+                  "sourceText": "Sabi niya, masama' ang pakiramdam niya.",
+                  "id": "Dia bilang dia sedang tidak enak badan.",
+                  "tagalog": "Sabi niya, masama' ang pakiramdam niya."
+                },
+                {
+                  "sourceLanguage": "en",
+                  "sourceText": "Said by him/her, bad the feeling his/her.",
+                  "id": "Glosa harfiah (Inggris)\nSaid by him/her, bad the feeling his/her."
+                },
+                {
+                  "sourceLanguage": "en",
+                  "sourceText": "He said he wasn't feeling well.",
+                  "id": "Terjemahan alami sumber (Inggris)\nHe said he wasn't feeling well."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "example",
+          "title": {
+            "sourceLanguage": "mixed",
+            "sourceText": "A 07",
+            "id": "A 07 · halaman PDF 479"
+          },
+          "sourcePage": 479,
+          "rows": [
+            {
+              "cells": [
+                {
+                  "sourceLanguage": "fil",
+                  "sourceText": "Sabi ko, ano ang problema?",
+                  "id": "Saya berkata, \"Ada apa?\"",
+                  "tagalog": "Sabi ko, ano ang problema?"
+                },
+                {
+                  "sourceLanguage": "en",
+                  "sourceText": "Said by me, what the problem?",
+                  "id": "Glosa harfiah (Inggris)\nSaid by me, what the problem?"
+                },
+                {
+                  "sourceLanguage": "en",
+                  "sourceText": "I said, \"What's wrong?\"",
+                  "id": "Terjemahan alami sumber (Inggris)\nI said, \"What's wrong?\""
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "example",
+          "title": {
+            "sourceLanguage": "mixed",
+            "sourceText": "A 08",
+            "id": "A 08 · halaman PDF 480"
+          },
+          "sourcePage": 480,
+          "rows": [
+            {
+              "cells": [
+                {
+                  "sourceLanguage": "fil",
+                  "sourceText": "Masakit daw ang tyan niya.",
+                  "id": "Katanya perutnya sakit.",
+                  "tagalog": "Masakit daw ang tyan niya."
+                },
+                {
+                  "sourceLanguage": "en",
+                  "sourceText": "Painful he/she said the belly his/her.",
+                  "id": "Glosa harfiah (Inggris)\nPainful he/she said the belly his/her."
+                },
+                {
+                  "sourceLanguage": "en",
+                  "sourceText": "He said his tummy hurt.",
+                  "id": "Terjemahan alami sumber (Inggris)\nHe said his tummy hurt."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "example",
+          "title": {
+            "sourceLanguage": "mixed",
+            "sourceText": "A 09",
+            "id": "A 09 · halaman PDF 481"
+          },
+          "sourcePage": 481,
+          "rows": [
+            {
+              "cells": [
+                {
+                  "sourceLanguage": "fil",
+                  "sourceText": "Tapos?",
+                  "id": "Kemudian?",
+                  "tagalog": "Tapos?"
+                },
+                {
+                  "sourceLanguage": "en",
+                  "sourceText": "Then?",
+                  "id": "Glosa harfiah (Inggris)\nThen?"
+                },
+                {
+                  "sourceLanguage": "en",
+                  "sourceText": "And then?",
+                  "id": "Terjemahan alami sumber (Inggris)\nAnd then?"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "example",
+          "title": {
+            "sourceLanguage": "mixed",
+            "sourceText": "A 10",
+            "id": "A 10 · halaman PDF 482"
+          },
+          "sourcePage": 482,
+          "rows": [
+            {
+              "cells": [
+                {
+                  "sourceLanguage": "fil",
+                  "sourceText": "Sabi ko sa kanya, bakit hindi' ka uminom ng gamot?",
+                  "id": "Saya mengatakan kepadanya, \"Mengapa kamu tidak minum obat?\"",
+                  "tagalog": "Sabi ko sa kanya, bakit hindi' ka uminom ng gamot?"
+                },
+                {
+                  "sourceLanguage": "en",
+                  "sourceText": "Said by me to him/her, why not you drink [Ng marker] medicine?",
+                  "id": "Glosa harfiah (Inggris)\nSaid by me to him/her, why not you drink [Ng marker] medicine?"
+                },
+                {
+                  "sourceLanguage": "en",
+                  "sourceText": "I told him, \"Why don't you take some medicine?\"",
+                  "id": "Terjemahan alami sumber (Inggris)\nI told him, \"Why don't you take some medicine?\""
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "example",
+          "title": {
+            "sourceLanguage": "mixed",
+            "sourceText": "A 11",
+            "id": "A 11 · halaman PDF 483"
+          },
+          "sourcePage": 483,
+          "rows": [
+            {
+              "cells": [
+                {
+                  "sourceLanguage": "fil",
+                  "sourceText": "Sabi niya, nakainom na raw siya.",
+                  "id": "Katanya dia sudah minum beberapa (obat).",
+                  "tagalog": "Sabi niya, nakainom na raw siya."
+                },
+                {
+                  "sourceLanguage": "en",
+                  "sourceText": "Said by him/her, had been able to drink already he/she said he/she.",
+                  "id": "Glosa harfiah (Inggris)\nSaid by him/her, had been able to drink already he/she said he/she."
+                },
+                {
+                  "sourceLanguage": "en",
+                  "sourceText": "He said he already took some (medicine).",
+                  "id": "Terjemahan alami sumber (Inggris)\nHe said he already took some (medicine)."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "example",
+          "title": {
+            "sourceLanguage": "mixed",
+            "sourceText": "A 12",
+            "id": "A 12 · halaman PDF 484"
+          },
+          "sourcePage": 484,
+          "rows": [
+            {
+              "cells": [
+                {
+                  "sourceLanguage": "fil",
+                  "sourceText": "'yun pala, buong bote ang ininom niya!",
+                  "id": "Ternyata dia meminum seluruh botolnya!",
+                  "tagalog": "'yun pala, buong bote ang ininom niya!"
+                },
+                {
+                  "sourceLanguage": "en",
+                  "sourceText": "It turns out, whole-[linker] bottle the was drunk by him/her!",
+                  "id": "Glosa harfiah (Inggris)\nIt turns out, whole-[linker] bottle the was drunk by him/her!"
+                },
+                {
+                  "sourceLanguage": "en",
+                  "sourceText": "It turns out he drank the whole bottle!",
+                  "id": "Terjemahan alami sumber (Inggris)\nIt turns out he drank the whole bottle!"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "example",
+          "title": {
+            "sourceLanguage": "mixed",
+            "sourceText": "B 01",
+            "id": "B 01 · halaman PDF 486"
+          },
+          "sourcePage": 486,
+          "rows": [
+            {
+              "cells": [
+                {
+                  "sourceLanguage": "fil",
+                  "sourceText": "Sabi niya, magaling na siya.",
+                  "id": "Dia berkata bahwa dia sudah sehat kembali.",
+                  "tagalog": "Sabi niya, magaling na siya."
+                },
+                {
+                  "sourceLanguage": "en",
+                  "sourceText": "Said by him/her, well again now he/she.",
+                  "id": "Glosa harfiah (Inggris)\nSaid by him/her, well again now he/she."
+                },
+                {
+                  "sourceLanguage": "en",
+                  "sourceText": "He/she said he/she's well again.",
+                  "id": "Terjemahan alami sumber (Inggris)\nHe/she said he/she's well again."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "example",
+          "title": {
+            "sourceLanguage": "mixed",
+            "sourceText": "B 02",
+            "id": "B 02 · halaman PDF 487"
+          },
+          "sourcePage": 487,
+          "rows": [
+            {
+              "cells": [
+                {
+                  "sourceLanguage": "fil",
+                  "sourceText": "May sipon ako.",
+                  "id": "Saya pilek.",
+                  "tagalog": "May sipon ako."
+                },
+                {
+                  "sourceLanguage": "en",
+                  "sourceText": "Have cold I.",
+                  "id": "Glosa harfiah (Inggris)\nHave cold I."
+                },
+                {
+                  "sourceLanguage": "en",
+                  "sourceText": "I have a cold.",
+                  "id": "Terjemahan alami sumber (Inggris)\nI have a cold."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "example",
+          "title": {
+            "sourceLanguage": "mixed",
+            "sourceText": "B 03",
+            "id": "B 03 · halaman PDF 488"
+          },
+          "sourcePage": 488,
+          "rows": [
+            {
+              "cells": [
+                {
+                  "sourceLanguage": "fil",
+                  "sourceText": "May trangkaso ang pamangkin ko.",
+                  "id": "Keponakan saya sedang flu.",
+                  "tagalog": "May trangkaso ang pamangkin ko."
+                },
+                {
+                  "sourceLanguage": "en",
+                  "sourceText": "Has flu the nephew/niece my.",
+                  "id": "Glosa harfiah (Inggris)\nHas flu the nephew/niece my."
+                },
+                {
+                  "sourceLanguage": "en",
+                  "sourceText": "My nephew/niece has the flu.",
+                  "id": "Terjemahan alami sumber (Inggris)\nMy nephew/niece has the flu."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "example",
+          "title": {
+            "sourceLanguage": "mixed",
+            "sourceText": "B 04",
+            "id": "B 04 · halaman PDF 489"
+          },
+          "sourcePage": 489,
+          "rows": [
+            {
+              "cells": [
+                {
+                  "sourceLanguage": "fil",
+                  "sourceText": "Magaling ka na ba?",
+                  "id": "Apakah kamu merasa sehat kembali? (Apakah kamu sudah pulih?)",
+                  "tagalog": "Magaling ka na ba?"
+                },
+                {
+                  "sourceLanguage": "en",
+                  "sourceText": "Well again you now [question]?",
+                  "id": "Glosa harfiah (Inggris)\nWell again you now [question]?"
+                },
+                {
+                  "sourceLanguage": "en",
+                  "sourceText": "Are you feeling well again? (Have you recovered?)",
+                  "id": "Terjemahan alami sumber (Inggris)\nAre you feeling well again? (Have you recovered?)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "example",
+          "title": {
+            "sourceLanguage": "mixed",
+            "sourceText": "B 05",
+            "id": "B 05 · halaman PDF 490"
+          },
+          "sourcePage": 490,
+          "rows": [
+            {
+              "cells": [
+                {
+                  "sourceLanguage": "fil",
+                  "sourceText": "Hindi', may ubo at lagnat pa ako.",
+                  "id": "Tidak, saya masih batuk dan demam.",
+                  "tagalog": "Hindi', may ubo at lagnat pa ako."
+                },
+                {
+                  "sourceLanguage": "en",
+                  "sourceText": "No, have cough and fever still I.",
+                  "id": "Glosa harfiah (Inggris)\nNo, have cough and fever still I."
+                },
+                {
+                  "sourceLanguage": "en",
+                  "sourceText": "No, I still have a cough and a fever.",
+                  "id": "Terjemahan alami sumber (Inggris)\nNo, I still have a cough and a fever."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "example",
+          "title": {
+            "sourceLanguage": "mixed",
+            "sourceText": "B 06",
+            "id": "B 06 · halaman PDF 491"
+          },
+          "sourcePage": 491,
+          "rows": [
+            {
+              "cells": [
+                {
+                  "sourceLanguage": "fil",
+                  "sourceText": "May lagnat ka ba?",
+                  "id": "Apakah kamu demam?",
+                  "tagalog": "May lagnat ka ba?"
+                },
+                {
+                  "sourceLanguage": "en",
+                  "sourceText": "Have fever you [question]?",
+                  "id": "Glosa harfiah (Inggris)\nHave fever you [question]?"
+                },
+                {
+                  "sourceLanguage": "en",
+                  "sourceText": "Do you have a fever?",
+                  "id": "Terjemahan alami sumber (Inggris)\nDo you have a fever?"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "example",
+          "title": {
+            "sourceLanguage": "mixed",
+            "sourceText": "B 07",
+            "id": "B 07 · halaman PDF 492"
+          },
+          "sourcePage": 492,
+          "rows": [
+            {
+              "cells": [
+                {
+                  "sourceLanguage": "fil",
+                  "sourceText": "Wala', pero nahihilo ako.",
+                  "id": "Tidak, tapi aku merasa pusing.",
+                  "tagalog": "Wala', pero nahihilo ako."
+                },
+                {
+                  "sourceLanguage": "en",
+                  "sourceText": "Have none, but am feeling dizzy I.",
+                  "id": "Glosa harfiah (Inggris)\nHave none, but am feeling dizzy I."
+                },
+                {
+                  "sourceLanguage": "en",
+                  "sourceText": "No, but I'm feeling dizzy.",
+                  "id": "Terjemahan alami sumber (Inggris)\nNo, but I'm feeling dizzy."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "example",
+          "title": {
+            "sourceLanguage": "mixed",
+            "sourceText": "B 08",
+            "id": "B 08 · halaman PDF 493"
+          },
+          "sourcePage": 493,
+          "rows": [
+            {
+              "cells": [
+                {
+                  "sourceLanguage": "fil",
+                  "sourceText": "Masama' ang pakiramdam ko.",
+                  "id": "Aku sedang tidak enak badan.",
+                  "tagalog": "Masama' ang pakiramdam ko."
+                },
+                {
+                  "sourceLanguage": "en",
+                  "sourceText": "Bad the feeling my.",
+                  "id": "Glosa harfiah (Inggris)\nBad the feeling my."
+                },
+                {
+                  "sourceLanguage": "en",
+                  "sourceText": "I'm not feeling well.",
+                  "id": "Terjemahan alami sumber (Inggris)\nI'm not feeling well."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "example",
+          "title": {
+            "sourceLanguage": "mixed",
+            "sourceText": "B 09",
+            "id": "B 09 · halaman PDF 494"
+          },
+          "sourcePage": 494,
+          "rows": [
+            {
+              "cells": [
+                {
+                  "sourceLanguage": "fil",
+                  "sourceText": "Masakit ang ulo ko.",
+                  "id": "Saya sakit kepala.",
+                  "tagalog": "Masakit ang ulo ko."
+                },
+                {
+                  "sourceLanguage": "en",
+                  "sourceText": "Painful the head my.",
+                  "id": "Glosa harfiah (Inggris)\nPainful the head my."
+                },
+                {
+                  "sourceLanguage": "en",
+                  "sourceText": "I have a headache.",
+                  "id": "Terjemahan alami sumber (Inggris)\nI have a headache."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "example",
+          "title": {
+            "sourceLanguage": "mixed",
+            "sourceText": "B 10",
+            "id": "B 10 · halaman PDF 495"
+          },
+          "sourcePage": 495,
+          "rows": [
+            {
+              "cells": [
+                {
+                  "sourceLanguage": "fil",
+                  "sourceText": "Pumunta ka na ba sa doktor?",
+                  "id": "Apakah Anda sudah pergi ke dokter?",
+                  "tagalog": "Pumunta ka na ba sa doktor?"
+                },
+                {
+                  "sourceLanguage": "en",
+                  "sourceText": "Went you already [question] to doctor?",
+                  "id": "Glosa harfiah (Inggris)\nWent you already [question] to doctor?"
+                },
+                {
+                  "sourceLanguage": "en",
+                  "sourceText": "Have you gone to a doctor?",
+                  "id": "Terjemahan alami sumber (Inggris)\nHave you gone to a doctor?"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "example",
+          "title": {
+            "sourceLanguage": "mixed",
+            "sourceText": "B 11",
+            "id": "B 11 · halaman PDF 496"
+          },
+          "sourcePage": 496,
+          "rows": [
+            {
+              "cells": [
+                {
+                  "sourceLanguage": "fil",
+                  "sourceText": "Hindi' pa.",
+                  "id": "Belum.",
+                  "tagalog": "Hindi' pa."
+                },
+                {
+                  "sourceLanguage": "en",
+                  "sourceText": "Not yet.",
+                  "id": "Glosa harfiah (Inggris)\nNot yet."
+                },
+                {
+                  "sourceLanguage": "en",
+                  "sourceText": "Not yet.",
+                  "id": "Terjemahan alami sumber (Inggris)\nNot yet."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "exercises",
+      "type": "EXERCISES",
+      "title": {
+        "sourceLanguage": "mixed",
+        "sourceText": "Drills",
+        "id": "Latihan pola"
+      },
+      "blocks": [
+        {
+          "type": "exercise",
+          "role": "instruction",
+          "text": {
+            "sourceLanguage": "mixed",
+            "sourceText": "Drills",
+            "id": "Latihan pola (Drills)"
+          },
+          "sourcePage": 485
+        },
+        {
+          "type": "exercise",
+          "role": "content",
+          "title": {
+            "sourceLanguage": "mixed",
+            "sourceText": "A 12",
+            "id": "A 12 · halaman PDF 484"
+          },
+          "sourcePage": 484,
+          "text": {
+            "sourceLanguage": "fil",
+            "sourceText": "'yun pala, buong bote ang ininom niya!",
+            "id": "Ternyata dia meminum seluruh botolnya!",
+            "tagalog": "'yun pala, buong bote ang ininom niya!"
+          }
+        },
+        {
+          "type": "exercise",
+          "role": "content",
+          "title": {
+            "sourceLanguage": "mixed",
+            "sourceText": "B 01",
+            "id": "B 01 · halaman PDF 486"
+          },
+          "sourcePage": 486,
+          "text": {
+            "sourceLanguage": "fil",
+            "sourceText": "Sabi niya, magaling na siya.",
+            "id": "Dia berkata bahwa dia sudah sehat kembali.",
+            "tagalog": "Sabi niya, magaling na siya."
+          }
+        },
+        {
+          "type": "exercise",
+          "role": "content",
+          "title": {
+            "sourceLanguage": "mixed",
+            "sourceText": "B 02",
+            "id": "B 02 · halaman PDF 487"
+          },
+          "sourcePage": 487,
+          "text": {
+            "sourceLanguage": "fil",
+            "sourceText": "May sipon ako.",
+            "id": "Saya pilek.",
+            "tagalog": "May sipon ako."
+          }
+        },
+        {
+          "type": "exercise",
+          "role": "content",
+          "title": {
+            "sourceLanguage": "mixed",
+            "sourceText": "B 03",
+            "id": "B 03 · halaman PDF 488"
+          },
+          "sourcePage": 488,
+          "text": {
+            "sourceLanguage": "fil",
+            "sourceText": "May trangkaso ang pamangkin ko.",
+            "id": "Keponakan saya sedang flu.",
+            "tagalog": "May trangkaso ang pamangkin ko."
+          }
+        },
+        {
+          "type": "exercise",
+          "role": "content",
+          "title": {
+            "sourceLanguage": "mixed",
+            "sourceText": "B 04",
+            "id": "B 04 · halaman PDF 489"
+          },
+          "sourcePage": 489,
+          "text": {
+            "sourceLanguage": "fil",
+            "sourceText": "Magaling ka na ba?",
+            "id": "Apakah kamu merasa sehat kembali? (Apakah kamu sudah pulih?)",
+            "tagalog": "Magaling ka na ba?"
+          }
+        },
+        {
+          "type": "exercise",
+          "role": "content",
+          "title": {
+            "sourceLanguage": "mixed",
+            "sourceText": "B 05",
+            "id": "B 05 · halaman PDF 490"
+          },
+          "sourcePage": 490,
+          "text": {
+            "sourceLanguage": "fil",
+            "sourceText": "Hindi', may ubo at lagnat pa ako.",
+            "id": "Tidak, saya masih batuk dan demam.",
+            "tagalog": "Hindi', may ubo at lagnat pa ako."
+          }
+        },
+        {
+          "type": "exercise",
+          "role": "content",
+          "title": {
+            "sourceLanguage": "mixed",
+            "sourceText": "B 06",
+            "id": "B 06 · halaman PDF 491"
+          },
+          "sourcePage": 491,
+          "text": {
+            "sourceLanguage": "fil",
+            "sourceText": "May lagnat ka ba?",
+            "id": "Apakah kamu demam?",
+            "tagalog": "May lagnat ka ba?"
+          }
+        },
+        {
+          "type": "exercise",
+          "role": "content",
+          "title": {
+            "sourceLanguage": "mixed",
+            "sourceText": "B 07",
+            "id": "B 07 · halaman PDF 492"
+          },
+          "sourcePage": 492,
+          "text": {
+            "sourceLanguage": "fil",
+            "sourceText": "Wala', pero nahihilo ako.",
+            "id": "Tidak, tapi aku merasa pusing.",
+            "tagalog": "Wala', pero nahihilo ako."
+          }
+        },
+        {
+          "type": "exercise",
+          "role": "content",
+          "title": {
+            "sourceLanguage": "mixed",
+            "sourceText": "B 08",
+            "id": "B 08 · halaman PDF 493"
+          },
+          "sourcePage": 493,
+          "text": {
+            "sourceLanguage": "fil",
+            "sourceText": "Masama' ang pakiramdam ko.",
+            "id": "Aku sedang tidak enak badan.",
+            "tagalog": "Masama' ang pakiramdam ko."
+          }
+        },
+        {
+          "type": "exercise",
+          "role": "content",
+          "title": {
+            "sourceLanguage": "mixed",
+            "sourceText": "B 09",
+            "id": "B 09 · halaman PDF 494"
+          },
+          "sourcePage": 494,
+          "text": {
+            "sourceLanguage": "fil",
+            "sourceText": "Masakit ang ulo ko.",
+            "id": "Saya sakit kepala.",
+            "tagalog": "Masakit ang ulo ko."
+          }
+        },
+        {
+          "type": "exercise",
+          "role": "content",
+          "title": {
+            "sourceLanguage": "mixed",
+            "sourceText": "B 10",
+            "id": "B 10 · halaman PDF 495"
+          },
+          "sourcePage": 495,
+          "text": {
+            "sourceLanguage": "fil",
+            "sourceText": "Pumunta ka na ba sa doktor?",
+            "id": "Apakah Anda sudah pergi ke dokter?",
+            "tagalog": "Pumunta ka na ba sa doktor?"
+          }
+        },
+        {
+          "type": "exercise",
+          "role": "content",
+          "title": {
+            "sourceLanguage": "mixed",
+            "sourceText": "B 11",
+            "id": "B 11 · halaman PDF 496"
+          },
+          "sourcePage": 496,
+          "text": {
+            "sourceLanguage": "fil",
+            "sourceText": "Hindi' pa.",
+            "id": "Belum.",
+            "tagalog": "Hindi' pa."
+          }
+        }
+      ]
+    },
+    {
+      "id": "summary",
+      "type": "SUMMARY",
+      "title": {
+        "sourceLanguage": "mixed",
+        "sourceText": "May sakit ang asawa ko",
+        "id": "Ringkasan bab"
+      },
+      "blocks": [
+        {
+          "type": "text",
+          "style": "heading",
+          "text": {
+            "sourceLanguage": "mixed",
+            "sourceText": "Story A",
+            "id": "Dialog utama"
+          }
+        },
+        {
+          "type": "list",
+          "style": "outline",
+          "items": [
+            {
+              "sourceLanguage": "fil",
+              "sourceText": "May sakit ang asawa ko",
+              "id": "Suami saya sakit",
+              "tagalog": "May sakit ang asawa ko"
+            },
+            {
+              "sourceLanguage": "fil",
+              "sourceText": "Anong balita'?",
+              "id": "Bagaimana kabarnya? (Apa beritanya?)",
+              "tagalog": "Anong balita'?"
+            },
+            {
+              "sourceLanguage": "fil",
+              "sourceText": "May sakit ang asawa ko. Mula' pa kagabi.",
+              "id": "Suamiku sakit. Sejak tadi malam.",
+              "tagalog": "May sakit ang asawa ko. Mula' pa kagabi."
+            },
+            {
+              "sourceLanguage": "fil",
+              "sourceText": "Talaga?",
+              "id": "Benarkah?",
+              "tagalog": "Talaga?"
+            },
+            {
+              "sourceLanguage": "fil",
+              "sourceText": "Oo. Nagising siya noong hatinggabi.",
+              "id": "Ya. Dia terbangun di tengah malam (tengah malam).",
+              "tagalog": "Oo. Nagising siya noong hatinggabi."
+            },
+            {
+              "sourceLanguage": "fil",
+              "sourceText": "Sabi niya, masama' ang pakiramdam niya.",
+              "id": "Dia bilang dia sedang tidak enak badan.",
+              "tagalog": "Sabi niya, masama' ang pakiramdam niya."
+            },
+            {
+              "sourceLanguage": "fil",
+              "sourceText": "Sabi ko, ano ang problema?",
+              "id": "Saya berkata, \"Ada apa?\"",
+              "tagalog": "Sabi ko, ano ang problema?"
+            },
+            {
+              "sourceLanguage": "fil",
+              "sourceText": "Masakit daw ang tyan niya.",
+              "id": "Katanya perutnya sakit.",
+              "tagalog": "Masakit daw ang tyan niya."
+            },
+            {
+              "sourceLanguage": "fil",
+              "sourceText": "Tapos?",
+              "id": "Kemudian?",
+              "tagalog": "Tapos?"
+            },
+            {
+              "sourceLanguage": "fil",
+              "sourceText": "Sabi ko sa kanya, bakit hindi' ka uminom ng gamot?",
+              "id": "Saya mengatakan kepadanya, \"Mengapa kamu tidak minum obat?\"",
+              "tagalog": "Sabi ko sa kanya, bakit hindi' ka uminom ng gamot?"
+            },
+            {
+              "sourceLanguage": "fil",
+              "sourceText": "Sabi niya, nakainom na raw siya.",
+              "id": "Katanya dia sudah minum beberapa (obat).",
+              "tagalog": "Sabi niya, nakainom na raw siya."
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "style": "heading",
+          "text": {
+            "sourceLanguage": "mixed",
+            "sourceText": "Drills",
+            "id": "Latihan pola"
+          }
+        },
+        {
+          "type": "list",
+          "style": "outline",
+          "items": [
+            {
+              "sourceLanguage": "fil",
+              "sourceText": "'yun pala, buong bote ang ininom niya!",
+              "id": "Ternyata dia meminum seluruh botolnya!",
+              "tagalog": "'yun pala, buong bote ang ininom niya!"
+            },
+            {
+              "sourceLanguage": "fil",
+              "sourceText": "Sabi niya, magaling na siya.",
+              "id": "Dia berkata bahwa dia sudah sehat kembali.",
+              "tagalog": "Sabi niya, magaling na siya."
+            },
+            {
+              "sourceLanguage": "fil",
+              "sourceText": "May sipon ako.",
+              "id": "Saya pilek.",
+              "tagalog": "May sipon ako."
+            },
+            {
+              "sourceLanguage": "fil",
+              "sourceText": "May trangkaso ang pamangkin ko.",
+              "id": "Keponakan saya sedang flu.",
+              "tagalog": "May trangkaso ang pamangkin ko."
+            },
+            {
+              "sourceLanguage": "fil",
+              "sourceText": "Magaling ka na ba?",
+              "id": "Apakah kamu merasa sehat kembali? (Apakah kamu sudah pulih?)",
+              "tagalog": "Magaling ka na ba?"
+            },
+            {
+              "sourceLanguage": "fil",
+              "sourceText": "Hindi', may ubo at lagnat pa ako.",
+              "id": "Tidak, saya masih batuk dan demam.",
+              "tagalog": "Hindi', may ubo at lagnat pa ako."
+            },
+            {
+              "sourceLanguage": "fil",
+              "sourceText": "May lagnat ka ba?",
+              "id": "Apakah kamu demam?",
+              "tagalog": "May lagnat ka ba?"
+            },
+            {
+              "sourceLanguage": "fil",
+              "sourceText": "Wala', pero nahihilo ako.",
+              "id": "Tidak, tapi aku merasa pusing.",
+              "tagalog": "Wala', pero nahihilo ako."
+            },
+            {
+              "sourceLanguage": "fil",
+              "sourceText": "Masama' ang pakiramdam ko.",
+              "id": "Aku sedang tidak enak badan.",
+              "tagalog": "Masama' ang pakiramdam ko."
+            },
+            {
+              "sourceLanguage": "fil",
+              "sourceText": "Masakit ang ulo ko.",
+              "id": "Saya sakit kepala.",
+              "tagalog": "Masakit ang ulo ko."
+            },
+            {
+              "sourceLanguage": "fil",
+              "sourceText": "Pumunta ka na ba sa doktor?",
+              "id": "Apakah Anda sudah pergi ke dokter?",
+              "tagalog": "Pumunta ka na ba sa doktor?"
+            },
+            {
+              "sourceLanguage": "fil",
+              "sourceText": "Hindi' pa.",
+              "id": "Belum.",
+              "tagalog": "Hindi' pa."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "contentAudit": {
+    "sourcePages": 26,
+    "phrasePages": 23,
+    "storyPhrases": 11,
+    "drillPhrases": 12,
+    "noteBlocks": 14,
+    "vocabularyEntries": 56,
+    "sourceTextItemsBefore": 84,
+    "sourceTextItemsAfter": 84,
+    "recapVerified": true,
+    "imageCount": 1
+  }
+}

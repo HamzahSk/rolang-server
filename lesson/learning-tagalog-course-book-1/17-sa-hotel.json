@@ -1,0 +1,2589 @@
+{
+  "schemaVersion": 1,
+  "structureVersion": 2,
+  "id": "learning-tagalog-course-book-1-lesson-17",
+  "courseId": "learning-tagalog-course-book-1",
+  "unitId": "course-book-1-unit-05-travel-and-daily-needs",
+  "order": 17,
+  "level": "BEGINNER",
+  "title": {
+    "id": "Di hotel",
+    "fil": "Sa hotel"
+  },
+  "summary": {
+    "id": "Tuan de Leon check in di lobi hotel dan menanyakan di mana ATM terdekat.",
+    "fil": "Sa hotel"
+  },
+  "objectives": [
+    {
+      "sourceLanguage": "mixed",
+      "sourceText": "Chapter 17 · Story A",
+      "id": "Memahami dialog utama Bab 17 tentang di hotel."
+    },
+    {
+      "sourceLanguage": "mixed",
+      "sourceText": "Literal and natural translations",
+      "id": "Membandingkan susunan Tagalog dengan glosa harfiah dan terjemahan alami dari sumber."
+    },
+    {
+      "sourceLanguage": "mixed",
+      "sourceText": "Drills",
+      "id": "Melatih kembali pola dan ungkapan pada bagian Drills."
+    }
+  ],
+  "source": {
+    "book": "Learning Tagalog - Fluency Made Fast and Easy - Course Book 1",
+    "file": "Learning Tagalog - Fluency Made Fast and Easy - Course Book 1.pdf",
+    "pdfSha256": "52e9f464239c2ae98248a452edfbf1f58eb01bec69374a16d5205e70afa80f58",
+    "chapter": 17,
+    "pages": {
+      "start": 420,
+      "end": 446
+    },
+    "drillsDividerPage": 435,
+    "recapPage": 446
+  },
+  "sourceLinks": [],
+  "assets": [
+    "assets/17-sa-hotel.jpg"
+  ],
+  "sections": [
+    {
+      "id": "introduction",
+      "type": "INTRODUCTION",
+      "title": {
+        "sourceLanguage": "mixed",
+        "sourceText": "At the hotel",
+        "id": "Di hotel"
+      },
+      "blocks": [
+        {
+          "type": "image",
+          "path": "assets/17-sa-hotel.jpg",
+          "sourcePage": 420
+        },
+        {
+          "type": "text",
+          "style": "heading",
+          "text": {
+            "sourceLanguage": "en",
+            "sourceText": "At the hotel",
+            "id": "Di hotel"
+          }
+        }
+      ]
+    },
+    {
+      "id": "learning-material",
+      "type": "LEARNING_MATERIAL",
+      "title": {
+        "sourceLanguage": "mixed",
+        "sourceText": "Chapter context",
+        "id": "Konteks bab"
+      },
+      "blocks": [
+        {
+          "type": "text",
+          "style": "body",
+          "sourcePage": 420,
+          "text": {
+            "sourceLanguage": "en",
+            "sourceText": "Mr. de Leon checks in at the hotel lobby and asks where the nearest ATM is.",
+            "id": "Tuan de Leon check in di lobi hotel dan menanyakan di mana ATM terdekat."
+          }
+        }
+      ]
+    },
+    {
+      "id": "dialogue",
+      "type": "DIALOGUE",
+      "title": {
+        "sourceLanguage": "mixed",
+        "sourceText": "Story A",
+        "id": "Dialog utama (Bagian A)"
+      },
+      "blocks": [
+        {
+          "type": "dialogue",
+          "turns": [
+            {
+              "speaker": "A 01",
+              "speakerText": {
+                "sourceLanguage": "mixed",
+                "sourceText": "A 01",
+                "id": "Bagian A 01"
+              },
+              "text": {
+                "sourceLanguage": "fil",
+                "sourceText": "Sa hotel",
+                "id": "Di hotel",
+                "tagalog": "Sa hotel"
+              },
+              "sourcePage": 421
+            },
+            {
+              "speaker": "A 02",
+              "speakerText": {
+                "sourceLanguage": "mixed",
+                "sourceText": "A 02",
+                "id": "Bagian A 02"
+              },
+              "text": {
+                "sourceLanguage": "fil",
+                "sourceText": "Ano pong pangalan nila?",
+                "id": "Bolehkah saya mengetahui nama Anda, Pak? (Siapa nama Anda, Tuan?)",
+                "tagalog": "Ano pong pangalan nila?"
+              },
+              "sourcePage": 422
+            },
+            {
+              "speaker": "A 03",
+              "speakerText": {
+                "sourceLanguage": "mixed",
+                "sourceText": "A 03",
+                "id": "Bagian A 03"
+              },
+              "text": {
+                "sourceLanguage": "fil",
+                "sourceText": "Tomas de Leon.",
+                "id": "Tomas de Leon.",
+                "tagalog": "Tomas de Leon."
+              },
+              "sourcePage": 423
+            },
+            {
+              "speaker": "A 04",
+              "speakerText": {
+                "sourceLanguage": "mixed",
+                "sourceText": "A 04",
+                "id": "Bagian A 04"
+              },
+              "text": {
+                "sourceLanguage": "fil",
+                "sourceText": "Hanggang kailan po' sila rito?",
+                "id": "Berapa lama (sampai kapan) Anda akan tinggal di sini, Pak?",
+                "tagalog": "Hanggang kailan po' sila rito?"
+              },
+              "sourcePage": 424
+            },
+            {
+              "speaker": "A 05",
+              "speakerText": {
+                "sourceLanguage": "mixed",
+                "sourceText": "A 05",
+                "id": "Bagian A 05"
+              },
+              "text": {
+                "sourceLanguage": "fil",
+                "sourceText": "Hanggang bukas ng umaga.",
+                "id": "Sampai besok pagi.",
+                "tagalog": "Hanggang bukas ng umaga."
+              },
+              "sourcePage": 425
+            },
+            {
+              "speaker": "A 06",
+              "speakerText": {
+                "sourceLanguage": "mixed",
+                "sourceText": "A 06",
+                "id": "Bagian A 06"
+              },
+              "text": {
+                "sourceLanguage": "fil",
+                "sourceText": "Aircon room po'?",
+                "id": "Apakah Anda ingin ruangan ber-AC, Pak?",
+                "tagalog": "Aircon room po'?"
+              },
+              "sourcePage": 426
+            },
+            {
+              "speaker": "A 07",
+              "speakerText": {
+                "sourceLanguage": "mixed",
+                "sourceText": "A 07",
+                "id": "Bagian A 07"
+              },
+              "text": {
+                "sourceLanguage": "fil",
+                "sourceText": "Oo.",
+                "id": "Ya.",
+                "tagalog": "Oo."
+              },
+              "sourcePage": 427
+            },
+            {
+              "speaker": "A 08",
+              "speakerText": {
+                "sourceLanguage": "mixed",
+                "sourceText": "A 08",
+                "id": "Bagian A 08"
+              },
+              "text": {
+                "sourceLanguage": "fil",
+                "sourceText": "Sige po', eto po' ang susi'. Room number 7 po'.",
+                "id": "Baik, Pak. Ini kunci Anda. Kamar Anda nomor 7.",
+                "tagalog": "Sige po', eto po' ang susi'. Room number 7 po'."
+              },
+              "sourcePage": 428
+            },
+            {
+              "speaker": "A 09",
+              "speakerText": {
+                "sourceLanguage": "mixed",
+                "sourceText": "A 09",
+                "id": "Bagian A 09"
+              },
+              "text": {
+                "sourceLanguage": "fil",
+                "sourceText": "Nasa second floor. Nandoon po' ang elevator.",
+                "id": "Itu di lantai dua. Liftnya ada di sana. (sopan)",
+                "tagalog": "Nasa second floor. Nandoon po' ang elevator."
+              },
+              "sourcePage": 429
+            },
+            {
+              "speaker": "A 10",
+              "speakerText": {
+                "sourceLanguage": "mixed",
+                "sourceText": "A 10",
+                "id": "Bagian A 10"
+              },
+              "text": {
+                "sourceLanguage": "fil",
+                "sourceText": "Salamat. Nasaan pala ang pinakamalapit na ATM dito?",
+                "id": "Terima kasih. Ngomong-ngomong, di mana ATM terdekatnya?",
+                "tagalog": "Salamat. Nasaan pala ang pinakamalapit na ATM dito?"
+              },
+              "sourcePage": 430
+            },
+            {
+              "speaker": "A 11",
+              "speakerText": {
+                "sourceLanguage": "mixed",
+                "sourceText": "A 11",
+                "id": "Bagian A 11"
+              },
+              "text": {
+                "sourceLanguage": "fil",
+                "sourceText": "Paglabas po' ninyo, kumanan po' kayo.",
+                "id": "Saat Anda keluar, belok kanan. (sopan)",
+                "tagalog": "Paglabas po' ninyo, kumanan po' kayo."
+              },
+              "sourcePage": 431
+            },
+            {
+              "speaker": "A 12",
+              "speakerText": {
+                "sourceLanguage": "mixed",
+                "sourceText": "A 12",
+                "id": "Bagian A 12"
+              },
+              "text": {
+                "sourceLanguage": "fil",
+                "sourceText": "Dumeretso po' kayo hanggang sa crossing.",
+                "id": "Jalan lurus saja sampai perempatan. (sopan)",
+                "tagalog": "Dumeretso po' kayo hanggang sa crossing."
+              },
+              "sourcePage": 432
+            },
+            {
+              "speaker": "A 13",
+              "speakerText": {
+                "sourceLanguage": "mixed",
+                "sourceText": "A 13",
+                "id": "Bagian A 13"
+              },
+              "text": {
+                "sourceLanguage": "fil",
+                "sourceText": "Tapos, kumaliwa' po' kayo. May bangko po' roon.",
+                "id": "Lalu, belok kiri. Ada bank di sana. (sopan)",
+                "tagalog": "Tapos, kumaliwa' po' kayo. May bangko po' roon."
+              },
+              "sourcePage": 433
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "vocabulary",
+      "type": "VOCABULARY",
+      "title": {
+        "sourceLanguage": "mixed",
+        "sourceText": "Vocabulary and expressions",
+        "id": "Kosakata dan ungkapan"
+      },
+      "blocks": [
+        {
+          "type": "vocabulary",
+          "entries": [
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "Sa",
+                "id": "Pada",
+                "tagalog": "Sa"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "At",
+                "id": "Pada"
+              },
+              "sourcePage": 421
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "hotel",
+                "id": "Hotel",
+                "tagalog": "hotel"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "hotel",
+                "id": "Hotel"
+              },
+              "sourcePage": 421
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "Ano",
+                "id": "Apa",
+                "tagalog": "Ano"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "What",
+                "id": "Apa"
+              },
+              "sourcePage": 422
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "pong",
+                "id": "[sopan]-[penanda ang]",
+                "tagalog": "pong"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "[polite]-[Ang marker]",
+                "id": "[sopan]-[penanda ang]"
+              },
+              "sourcePage": 422
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "pangalan",
+                "id": "Nama",
+                "tagalog": "pangalan"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "name",
+                "id": "Nama"
+              },
+              "sourcePage": 422
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "nila?",
+                "id": "Anda (sangat sopan)?",
+                "tagalog": "nila?"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "your (very polite)?",
+                "id": "Anda (sangat sopan)?"
+              },
+              "sourcePage": 422
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "Tomas de Leon.",
+                "id": "Thomas de Leon.",
+                "tagalog": "Tomas de Leon."
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "Tomas de Leon.",
+                "id": "Thomas de Leon."
+              },
+              "sourcePage": 423
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "Hanggang",
+                "id": "Sampai",
+                "tagalog": "Hanggang"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "Until",
+                "id": "Sampai"
+              },
+              "sourcePage": 424
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "kailan",
+                "id": "Kapan",
+                "tagalog": "kailan"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "when",
+                "id": "Kapan"
+              },
+              "sourcePage": 424
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "po'",
+                "id": "[sopan]",
+                "tagalog": "po'"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "[polite]",
+                "id": "[sopan]"
+              },
+              "sourcePage": 424
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "sila",
+                "id": "Kamu (sangat sopan)",
+                "tagalog": "sila"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "you (very polite)",
+                "id": "Kamu (sangat sopan)"
+              },
+              "sourcePage": 424
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "rito?",
+                "id": "Di Sini?",
+                "tagalog": "rito?"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "here?",
+                "id": "Di Sini?"
+              },
+              "sourcePage": 424
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "bukas",
+                "id": "Besok",
+                "tagalog": "bukas"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "tomorrow",
+                "id": "Besok"
+              },
+              "sourcePage": 425
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "ng",
+                "id": "Dari",
+                "tagalog": "ng"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "of",
+                "id": "Dari"
+              },
+              "sourcePage": 425
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "umaga.",
+                "id": "Pagi.",
+                "tagalog": "umaga."
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "morning.",
+                "id": "Pagi."
+              },
+              "sourcePage": 425
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "Aircon",
+                "id": "Ber-AC",
+                "tagalog": "Aircon"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "Air-conditioned",
+                "id": "Ber-AC"
+              },
+              "sourcePage": 426
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "room",
+                "id": "Ruang",
+                "tagalog": "room"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "room",
+                "id": "Ruang"
+              },
+              "sourcePage": 426
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "Oo.",
+                "id": "Ya.",
+                "tagalog": "Oo."
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "Yes.",
+                "id": "Ya."
+              },
+              "sourcePage": 427
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "Sige",
+                "id": "Oke",
+                "tagalog": "Sige"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "OK",
+                "id": "Oke"
+              },
+              "sourcePage": 428
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "eto",
+                "id": "Di sini adalah",
+                "tagalog": "eto"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "here is",
+                "id": "Di sini adalah"
+              },
+              "sourcePage": 428
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "ang",
+                "id": "penanda definit",
+                "tagalog": "ang"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "the",
+                "id": "penanda definit"
+              },
+              "sourcePage": 428
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "susi'.",
+                "id": "Kunci.",
+                "tagalog": "susi'."
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "key.",
+                "id": "Kunci."
+              },
+              "sourcePage": 428
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "number",
+                "id": "Nomor",
+                "tagalog": "number"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "number",
+                "id": "Nomor"
+              },
+              "sourcePage": 428
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "7",
+                "id": "7",
+                "tagalog": "7"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "7",
+                "id": "7"
+              },
+              "sourcePage": 428
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "Nasa",
+                "id": "Aktif",
+                "tagalog": "Nasa"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "Is on",
+                "id": "Aktif"
+              },
+              "sourcePage": 429
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "second",
+                "id": "Kedua",
+                "tagalog": "second"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "second",
+                "id": "Kedua"
+              },
+              "sourcePage": 429
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "floor.",
+                "id": "Lantai.",
+                "tagalog": "floor."
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "floor.",
+                "id": "Lantai."
+              },
+              "sourcePage": 429
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "Nandoon",
+                "id": "Ada di sana",
+                "tagalog": "Nandoon"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "Is over there",
+                "id": "Ada di sana"
+              },
+              "sourcePage": 429
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "elevator.",
+                "id": "Lift.",
+                "tagalog": "elevator."
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "elevator.",
+                "id": "Lift."
+              },
+              "sourcePage": 429
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "Salamat.",
+                "id": "Terima kasih.",
+                "tagalog": "Salamat."
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "Thanks.",
+                "id": "Terima kasih."
+              },
+              "sourcePage": 430
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "Nasaan",
+                "id": "Di mana",
+                "tagalog": "Nasaan"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "Where is",
+                "id": "Di mana"
+              },
+              "sourcePage": 430
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "pala",
+                "id": "Omong-omong",
+                "tagalog": "pala"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "by the way",
+                "id": "Omong-omong"
+              },
+              "sourcePage": 430
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "pinakamalapit",
+                "id": "Terdekat",
+                "tagalog": "pinakamalapit"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "nearest",
+                "id": "Terdekat"
+              },
+              "sourcePage": 430
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "na",
+                "id": "[penghubung]",
+                "tagalog": "na"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "[linker]",
+                "id": "[penghubung]"
+              },
+              "sourcePage": 430
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "ATM",
+                "id": "ATM",
+                "tagalog": "ATM"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "ATM",
+                "id": "ATM"
+              },
+              "sourcePage": 430
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "dito?",
+                "id": "Di Sini?",
+                "tagalog": "dito?"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "here?",
+                "id": "Di Sini?"
+              },
+              "sourcePage": 430
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "Paglabas",
+                "id": "Saat keluar",
+                "tagalog": "Paglabas"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "When going out",
+                "id": "Saat keluar"
+              },
+              "sourcePage": 431
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "ninyo,",
+                "id": "Kamu (sopan),",
+                "tagalog": "ninyo,"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "your (polite),",
+                "id": "Kamu (sopan),"
+              },
+              "sourcePage": 431
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "kumanan",
+                "id": "Belok kanan",
+                "tagalog": "kumanan"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "turn right",
+                "id": "Belok kanan"
+              },
+              "sourcePage": 431
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "kayo.",
+                "id": "Kamu (sopan).",
+                "tagalog": "kayo."
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "you (polite).",
+                "id": "Kamu (sopan)."
+              },
+              "sourcePage": 431
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "Dumeretso",
+                "id": "Lurus saja",
+                "tagalog": "Dumeretso"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "Go straight",
+                "id": "Lurus saja"
+              },
+              "sourcePage": 432
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "hanggang sa",
+                "id": "Sampai",
+                "tagalog": "hanggang sa"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "until",
+                "id": "Sampai"
+              },
+              "sourcePage": 432
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "crossing.",
+                "id": "Persimpangan.",
+                "tagalog": "crossing."
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "intersection.",
+                "id": "Persimpangan."
+              },
+              "sourcePage": 432
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "Tapos,",
+                "id": "Kemudian,",
+                "tagalog": "Tapos,"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "Then,",
+                "id": "Kemudian,"
+              },
+              "sourcePage": 433
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "kumaliwa'",
+                "id": "Belok kiri",
+                "tagalog": "kumaliwa'"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "turn left",
+                "id": "Belok kiri"
+              },
+              "sourcePage": 433
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "May",
+                "id": "Ada",
+                "tagalog": "May"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "There is",
+                "id": "Ada"
+              },
+              "sourcePage": 433
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "bangko",
+                "id": "Bank",
+                "tagalog": "bangko"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "bank",
+                "id": "Bank"
+              },
+              "sourcePage": 433
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "roon.",
+                "id": "Di sana.",
+                "tagalog": "roon."
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "over there.",
+                "id": "Di sana."
+              },
+              "sourcePage": 433
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "anong",
+                "id": "Apa-[penghubung]",
+                "tagalog": "anong"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "what-[linker]",
+                "id": "Apa-[penghubung]"
+              },
+              "sourcePage": 436
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "oras",
+                "id": "Waktu",
+                "tagalog": "oras"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "time",
+                "id": "Waktu"
+              },
+              "sourcePage": 436
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "lobby?",
+                "id": "Lobi?",
+                "tagalog": "lobby?"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "lobby?",
+                "id": "Lobi?"
+              },
+              "sourcePage": 436
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "alas onse",
+                "id": "Jam sebelas",
+                "tagalog": "alas onse"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "eleven o'clock",
+                "id": "Jam sebelas"
+              },
+              "sourcePage": 437
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "Twenty-four hours",
+                "id": "Dua puluh empat jam",
+                "tagalog": "Twenty-four hours"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "Twenty-four hours",
+                "id": "Dua puluh empat jam"
+              },
+              "sourcePage": 438
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "kaming",
+                "id": "Kami (tidak termasuk Anda)-[penghubung]",
+                "tagalog": "kaming"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "we (excl. you)-[linker]",
+                "id": "Kami (tidak termasuk Anda)-[penghubung]"
+              },
+              "sourcePage": 438
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "Bawal",
+                "id": "Dilarang",
+                "tagalog": "Bawal"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "Prohibited",
+                "id": "Dilarang"
+              },
+              "sourcePage": 439
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "pumasok.",
+                "id": "Untuk masuk.",
+                "tagalog": "pumasok."
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "to enter.",
+                "id": "Untuk masuk."
+              },
+              "sourcePage": 439
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "lumusot.",
+                "id": "Untuk melewati (menyalip).",
+                "tagalog": "lumusot."
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "to pass (overtake).",
+                "id": "Untuk melewati (menyalip)."
+              },
+              "sourcePage": 440
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "umihi'",
+                "id": "Untuk buang air kecil",
+                "tagalog": "umihi'"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "to urinate",
+                "id": "Untuk buang air kecil"
+              },
+              "sourcePage": 441
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "tumigil",
+                "id": "Untuk berhenti",
+                "tagalog": "tumigil"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "to stop",
+                "id": "Untuk berhenti"
+              },
+              "sourcePage": 442
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "magtapon",
+                "id": "Untuk membuang",
+                "tagalog": "magtapon"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "to throw away",
+                "id": "Untuk membuang"
+              },
+              "sourcePage": 443
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "basura.",
+                "id": "Sampah.",
+                "tagalog": "basura."
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "garbage.",
+                "id": "Sampah."
+              },
+              "sourcePage": 443
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "Mag-ingat.",
+                "id": "Hati-hati di jalan.",
+                "tagalog": "Mag-ingat."
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "Take care.",
+                "id": "Hati-hati di jalan."
+              },
+              "sourcePage": 444
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "Madulas",
+                "id": "Licin",
+                "tagalog": "Madulas"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "Slippery",
+                "id": "Licin"
+              },
+              "sourcePage": 444
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "kalsada.",
+                "id": "Jalan.",
+                "tagalog": "kalsada."
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "road.",
+                "id": "Jalan."
+              },
+              "sourcePage": 444
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "kaliwa',",
+                "id": "Kiri,",
+                "tagalog": "kaliwa',"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "left,",
+                "id": "Kiri,"
+              },
+              "sourcePage": 445
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "kanan",
+                "id": "Kanan",
+                "tagalog": "kanan"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "right",
+                "id": "Kanan"
+              },
+              "sourcePage": 445
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "style": "body",
+          "sourcePage": 422,
+          "sourceLabel": "A 02",
+          "links": [],
+          "text": {
+            "sourceLanguage": "en",
+            "sourceText": "Ang may sometimes be shortened to -ng (po' ang becomes pong).",
+            "id": "A 02 · halaman PDF 422\n\nAng terkadang disingkat menjadi -ng (po' ang menjadi pong)."
+          }
+        },
+        {
+          "type": "text",
+          "style": "body",
+          "sourcePage": 425,
+          "sourceLabel": "A 05",
+          "links": [],
+          "text": {
+            "sourceLanguage": "en",
+            "sourceText": "Bukas ng umaga – tomorrow morning. Bukas ng ala una – tomorrow at one o'clock.",
+            "id": "A 05 · halaman PDF 425\n\nBukas ng umaga – besok pagi. Bukas ng ala una – besok jam satu."
+          }
+        },
+        {
+          "type": "text",
+          "style": "body",
+          "sourcePage": 426,
+          "sourceLabel": "A 06",
+          "links": [],
+          "text": {
+            "sourceLanguage": "en",
+            "sourceText": "Aircon is the commonly-used abbreviation for air conditioner or air-conditioned.",
+            "id": "A 06 · halaman PDF 426\n\nAircon adalah singkatan yang umum digunakan untuk air conditioning atau ber-AC."
+          }
+        },
+        {
+          "type": "text",
+          "style": "body",
+          "sourcePage": 430,
+          "sourceLabel": "A 10",
+          "links": [],
+          "text": {
+            "sourceLanguage": "en",
+            "sourceText": "Pinaka- – most (...)/-est. Malapit – near. Pinakamalapit – nearest.",
+            "id": "A 10 · halaman PDF 430\n\nPinaka- menyatakan tingkat paling/superlatif. Malapit berarti dekat. Pinakamalapit berarti paling dekat."
+          }
+        },
+        {
+          "type": "text",
+          "style": "body",
+          "sourcePage": 430,
+          "sourceLabel": "A 10",
+          "links": [],
+          "text": {
+            "sourceLanguage": "en",
+            "sourceText": "Pinakamaganda – most beautiful, prettiest.",
+            "id": "A 10 · halaman PDF 430\n\nPinakamaganda – terindah, tercantik."
+          }
+        },
+        {
+          "type": "text",
+          "style": "body",
+          "sourcePage": 432,
+          "sourceLabel": "A 12",
+          "links": [],
+          "text": {
+            "sourceLanguage": "en",
+            "sourceText": "Dumeretso kayo. – Go straight.",
+            "id": "A 12 · halaman PDF 432\n\nDumeretso kayo. – Lurus saja."
+          }
+        },
+        {
+          "type": "text",
+          "style": "body",
+          "sourcePage": 432,
+          "sourceLabel": "A 12",
+          "links": [],
+          "text": {
+            "sourceLanguage": "en",
+            "sourceText": "Hanggang or hanggang sa – until, up to, to.",
+            "id": "A 12 · halaman PDF 432\n\nHanggang atau hanggang sa – sampai, hingga, hingga."
+          }
+        },
+        {
+          "type": "text",
+          "style": "body",
+          "sourcePage": 432,
+          "sourceLabel": "A 12",
+          "links": [],
+          "text": {
+            "sourceLanguage": "en",
+            "sourceText": "Crossing usually refers to the busiest intersection in town.",
+            "id": "A 12 · halaman PDF 432\n\nCrossing biasanya mengacu pada persimpangan tersibuk di kota."
+          }
+        },
+        {
+          "type": "text",
+          "style": "body",
+          "sourcePage": 438,
+          "sourceLabel": "B 03",
+          "links": [],
+          "text": {
+            "sourceLanguage": "en",
+            "sourceText": "Twenty-four hours na bukas – open 24 hours. Na/-ng is inserted after po' and kami, which are both enclitic.",
+            "id": "B 03 · halaman PDF 438\n\nTwenty-four hours na bukas – buka 24 jam. Na/-ng disisipkan setelah po' dan kami, yang keduanya enklitik."
+          }
+        },
+        {
+          "type": "text",
+          "style": "body",
+          "sourcePage": 440,
+          "sourceLabel": "B 05",
+          "links": [],
+          "text": {
+            "sourceLanguage": "en",
+            "sourceText": "Lumusot – to pass (overtake), to go through a narrow place (such as a narrow opening).",
+            "id": "B 05 · halaman PDF 440\n\nLumusot – menyalip, melewati tempat sempit (seperti bukaan sempit)."
+          }
+        }
+      ]
+    },
+    {
+      "id": "grammar",
+      "type": "GRAMMAR",
+      "title": {
+        "sourceLanguage": "mixed",
+        "sourceText": "Grammar and pronunciation notes",
+        "id": "Catatan tata bahasa dan pelafalan"
+      },
+      "blocks": [
+        {
+          "type": "text",
+          "style": "body",
+          "sourcePage": 422,
+          "sourceLabel": "A 02",
+          "links": [],
+          "text": {
+            "sourceLanguage": "en",
+            "sourceText": "Nila (their) is often used instead of mo (your, singular) when speaking to customers and high-ranking officials.",
+            "id": "A 02 · halaman PDF 422\n\nNila (mereka) sering digunakan sebagai pengganti mo (Anda, tunggal) ketika berbicara dengan pelanggan dan pejabat tinggi."
+          }
+        },
+        {
+          "type": "text",
+          "style": "body",
+          "sourcePage": 431,
+          "sourceLabel": "A 11",
+          "links": [],
+          "text": {
+            "sourceLanguage": "en",
+            "sourceText": "Here, pag- + root means when (...). This may be followed by a Ng marker or a Ng pronoun. Paglabas ninyo – when you (plural) go out.",
+            "id": "A 11 · halaman PDF 431\n\nDi sini, pag- + root berarti ketika (...). Ini mungkin diikuti dengan penanda Ng atau kata ganti Ng. Paglabas ninyo – saat Anda (jamak) keluar."
+          }
+        },
+        {
+          "type": "text",
+          "style": "body",
+          "sourcePage": 431,
+          "sourceLabel": "A 11",
+          "links": [],
+          "text": {
+            "sourceLanguage": "en",
+            "sourceText": "Basic form + ka/kayo is one of the ways to give directions or a command. Kumanan ka/kayo. – Turn right.",
+            "id": "A 11 · halaman PDF 431\n\nBentuk dasar + ka/kayo merupakan salah satu cara untuk memberikan arahan atau perintah. Kumanan ka/kayo. – Belok kanan."
+          }
+        },
+        {
+          "type": "text",
+          "style": "body",
+          "sourcePage": 439,
+          "sourceLabel": "B 04",
+          "links": [],
+          "text": {
+            "sourceLanguage": "en",
+            "sourceText": "Bawal + basic form – (...) is prohibited; It's prohibited to (...). Bawal pumasok. – It's prohibited to enter; Entering is prohibited; No entry.",
+            "id": "B 04 · halaman PDF 439\n\nBawal + bentuk dasar – (...) dilarang; Dilarang (...). Bawal pumasok. – Dilarang masuk; Dilarang masuk; Dilarang masuk."
+          }
+        },
+        {
+          "type": "text",
+          "style": "body",
+          "sourcePage": 444,
+          "sourceLabel": "B 09",
+          "links": [],
+          "text": {
+            "sourceLanguage": "en",
+            "sourceText": "The basic form, by itself, can also be used for giving commands or directions to the public.",
+            "id": "B 09 · halaman PDF 444\n\nBentuk dasarnya sendiri juga dapat digunakan untuk memberikan perintah atau arahan kepada masyarakat."
+          }
+        }
+      ]
+    },
+    {
+      "id": "examples",
+      "type": "EXAMPLES",
+      "title": {
+        "sourceLanguage": "mixed",
+        "sourceText": "Literal and natural translations",
+        "id": "Contoh dengan glosa harfiah dan alami"
+      },
+      "blocks": [
+        {
+          "type": "example",
+          "title": {
+            "sourceLanguage": "mixed",
+            "sourceText": "A 01",
+            "id": "A 01 · halaman PDF 421"
+          },
+          "sourcePage": 421,
+          "rows": [
+            {
+              "cells": [
+                {
+                  "sourceLanguage": "fil",
+                  "sourceText": "Sa hotel",
+                  "id": "Di hotel",
+                  "tagalog": "Sa hotel"
+                },
+                {
+                  "sourceLanguage": "en",
+                  "sourceText": "At hotel",
+                  "id": "Glosa harfiah (Inggris)\nAt hotel"
+                },
+                {
+                  "sourceLanguage": "en",
+                  "sourceText": "At the hotel",
+                  "id": "Terjemahan alami sumber (Inggris)\nAt the hotel"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "example",
+          "title": {
+            "sourceLanguage": "mixed",
+            "sourceText": "A 02",
+            "id": "A 02 · halaman PDF 422"
+          },
+          "sourcePage": 422,
+          "rows": [
+            {
+              "cells": [
+                {
+                  "sourceLanguage": "fil",
+                  "sourceText": "Ano pong pangalan nila?",
+                  "id": "Bolehkah saya mengetahui nama Anda, Pak? (Siapa nama Anda, Tuan?)",
+                  "tagalog": "Ano pong pangalan nila?"
+                },
+                {
+                  "sourceLanguage": "en",
+                  "sourceText": "What [polite]-[Ang marker] name your (very polite)?",
+                  "id": "Glosa harfiah (Inggris)\nWhat [polite]-[Ang marker] name your (very polite)?"
+                },
+                {
+                  "sourceLanguage": "en",
+                  "sourceText": "May I have your name, sir? (What is your name, sir?)",
+                  "id": "Terjemahan alami sumber (Inggris)\nMay I have your name, sir? (What is your name, sir?)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "example",
+          "title": {
+            "sourceLanguage": "mixed",
+            "sourceText": "A 03",
+            "id": "A 03 · halaman PDF 423"
+          },
+          "sourcePage": 423,
+          "rows": [
+            {
+              "cells": [
+                {
+                  "sourceLanguage": "fil",
+                  "sourceText": "Tomas de Leon.",
+                  "id": "Tomas de Leon.",
+                  "tagalog": "Tomas de Leon."
+                },
+                {
+                  "sourceLanguage": "en",
+                  "sourceText": "Tomas de Leon.",
+                  "id": "Glosa harfiah (Inggris)\nTomas de Leon."
+                },
+                {
+                  "sourceLanguage": "en",
+                  "sourceText": "Tomas de Leon.",
+                  "id": "Terjemahan alami sumber (Inggris)\nTomas de Leon."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "example",
+          "title": {
+            "sourceLanguage": "mixed",
+            "sourceText": "A 04",
+            "id": "A 04 · halaman PDF 424"
+          },
+          "sourcePage": 424,
+          "rows": [
+            {
+              "cells": [
+                {
+                  "sourceLanguage": "fil",
+                  "sourceText": "Hanggang kailan po' sila rito?",
+                  "id": "Berapa lama (sampai kapan) Anda akan tinggal di sini, Pak?",
+                  "tagalog": "Hanggang kailan po' sila rito?"
+                },
+                {
+                  "sourceLanguage": "en",
+                  "sourceText": "Until when [polite] you (very polite) here?",
+                  "id": "Glosa harfiah (Inggris)\nUntil when [polite] you (very polite) here?"
+                },
+                {
+                  "sourceLanguage": "en",
+                  "sourceText": "How long (till when) will you be staying here, sir?",
+                  "id": "Terjemahan alami sumber (Inggris)\nHow long (till when) will you be staying here, sir?"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "example",
+          "title": {
+            "sourceLanguage": "mixed",
+            "sourceText": "A 05",
+            "id": "A 05 · halaman PDF 425"
+          },
+          "sourcePage": 425,
+          "rows": [
+            {
+              "cells": [
+                {
+                  "sourceLanguage": "fil",
+                  "sourceText": "Hanggang bukas ng umaga.",
+                  "id": "Sampai besok pagi.",
+                  "tagalog": "Hanggang bukas ng umaga."
+                },
+                {
+                  "sourceLanguage": "en",
+                  "sourceText": "Until tomorrow of morning.",
+                  "id": "Glosa harfiah (Inggris)\nUntil tomorrow of morning."
+                },
+                {
+                  "sourceLanguage": "en",
+                  "sourceText": "Until tomorrow morning.",
+                  "id": "Terjemahan alami sumber (Inggris)\nUntil tomorrow morning."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "example",
+          "title": {
+            "sourceLanguage": "mixed",
+            "sourceText": "A 06",
+            "id": "A 06 · halaman PDF 426"
+          },
+          "sourcePage": 426,
+          "rows": [
+            {
+              "cells": [
+                {
+                  "sourceLanguage": "fil",
+                  "sourceText": "Aircon room po'?",
+                  "id": "Apakah Anda ingin ruangan ber-AC, Pak?",
+                  "tagalog": "Aircon room po'?"
+                },
+                {
+                  "sourceLanguage": "en",
+                  "sourceText": "Air-conditioned room [polite]?",
+                  "id": "Glosa harfiah (Inggris)\nAir-conditioned room [polite]?"
+                },
+                {
+                  "sourceLanguage": "en",
+                  "sourceText": "Would you like an air-conditioned room, sir?",
+                  "id": "Terjemahan alami sumber (Inggris)\nWould you like an air-conditioned room, sir?"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "example",
+          "title": {
+            "sourceLanguage": "mixed",
+            "sourceText": "A 07",
+            "id": "A 07 · halaman PDF 427"
+          },
+          "sourcePage": 427,
+          "rows": [
+            {
+              "cells": [
+                {
+                  "sourceLanguage": "fil",
+                  "sourceText": "Oo.",
+                  "id": "Ya.",
+                  "tagalog": "Oo."
+                },
+                {
+                  "sourceLanguage": "en",
+                  "sourceText": "Yes.",
+                  "id": "Glosa harfiah (Inggris)\nYes."
+                },
+                {
+                  "sourceLanguage": "en",
+                  "sourceText": "Yes.",
+                  "id": "Terjemahan alami sumber (Inggris)\nYes."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "example",
+          "title": {
+            "sourceLanguage": "mixed",
+            "sourceText": "A 08",
+            "id": "A 08 · halaman PDF 428"
+          },
+          "sourcePage": 428,
+          "rows": [
+            {
+              "cells": [
+                {
+                  "sourceLanguage": "fil",
+                  "sourceText": "Sige po', eto po' ang susi'. Room number 7 po'.",
+                  "id": "Baik, Pak. Ini kunci Anda. Kamar Anda nomor 7.",
+                  "tagalog": "Sige po', eto po' ang susi'. Room number 7 po'."
+                },
+                {
+                  "sourceLanguage": "en",
+                  "sourceText": "OK [polite], here is [polite] the key. Room number 7 [polite].",
+                  "id": "Glosa harfiah (Inggris)\nOK [polite], here is [polite] the key. Room number 7 [polite]."
+                },
+                {
+                  "sourceLanguage": "en",
+                  "sourceText": "OK, sir. Here is your key. It's room number 7, sir.",
+                  "id": "Terjemahan alami sumber (Inggris)\nOK, sir. Here is your key. It's room number 7, sir."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "example",
+          "title": {
+            "sourceLanguage": "mixed",
+            "sourceText": "A 09",
+            "id": "A 09 · halaman PDF 429"
+          },
+          "sourcePage": 429,
+          "rows": [
+            {
+              "cells": [
+                {
+                  "sourceLanguage": "fil",
+                  "sourceText": "Nasa second floor. Nandoon po' ang elevator.",
+                  "id": "Itu di lantai dua. Liftnya ada di sana. (sopan)",
+                  "tagalog": "Nasa second floor. Nandoon po' ang elevator."
+                },
+                {
+                  "sourceLanguage": "en",
+                  "sourceText": "Is on second floor. Is over there [polite] the elevator.",
+                  "id": "Glosa harfiah (Inggris)\nIs on second floor. Is over there [polite] the elevator."
+                },
+                {
+                  "sourceLanguage": "en",
+                  "sourceText": "It's on the second floor. The elevator is over there. (polite)",
+                  "id": "Terjemahan alami sumber (Inggris)\nIt's on the second floor. The elevator is over there. (polite)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "example",
+          "title": {
+            "sourceLanguage": "mixed",
+            "sourceText": "A 10",
+            "id": "A 10 · halaman PDF 430"
+          },
+          "sourcePage": 430,
+          "rows": [
+            {
+              "cells": [
+                {
+                  "sourceLanguage": "fil",
+                  "sourceText": "Salamat. Nasaan pala ang pinakamalapit na ATM dito?",
+                  "id": "Terima kasih. Ngomong-ngomong, di mana ATM terdekatnya?",
+                  "tagalog": "Salamat. Nasaan pala ang pinakamalapit na ATM dito?"
+                },
+                {
+                  "sourceLanguage": "en",
+                  "sourceText": "Thanks. Where is by the way the nearest [linker] ATM here?",
+                  "id": "Glosa harfiah (Inggris)\nThanks. Where is by the way the nearest [linker] ATM here?"
+                },
+                {
+                  "sourceLanguage": "en",
+                  "sourceText": "Thanks. By the way, where is the nearest ATM?",
+                  "id": "Terjemahan alami sumber (Inggris)\nThanks. By the way, where is the nearest ATM?"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "example",
+          "title": {
+            "sourceLanguage": "mixed",
+            "sourceText": "A 11",
+            "id": "A 11 · halaman PDF 431"
+          },
+          "sourcePage": 431,
+          "rows": [
+            {
+              "cells": [
+                {
+                  "sourceLanguage": "fil",
+                  "sourceText": "Paglabas po' ninyo, kumanan po' kayo.",
+                  "id": "Saat Anda keluar, belok kanan. (sopan)",
+                  "tagalog": "Paglabas po' ninyo, kumanan po' kayo."
+                },
+                {
+                  "sourceLanguage": "en",
+                  "sourceText": "When going out [polite] your (polite), turn right [polite] you (polite).",
+                  "id": "Glosa harfiah (Inggris)\nWhen going out [polite] your (polite), turn right [polite] you (polite)."
+                },
+                {
+                  "sourceLanguage": "en",
+                  "sourceText": "When you go out, turn right. (polite)",
+                  "id": "Terjemahan alami sumber (Inggris)\nWhen you go out, turn right. (polite)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "example",
+          "title": {
+            "sourceLanguage": "mixed",
+            "sourceText": "A 12",
+            "id": "A 12 · halaman PDF 432"
+          },
+          "sourcePage": 432,
+          "rows": [
+            {
+              "cells": [
+                {
+                  "sourceLanguage": "fil",
+                  "sourceText": "Dumeretso po' kayo hanggang sa crossing.",
+                  "id": "Jalan lurus saja sampai perempatan. (sopan)",
+                  "tagalog": "Dumeretso po' kayo hanggang sa crossing."
+                },
+                {
+                  "sourceLanguage": "en",
+                  "sourceText": "Go straight [polite] you (polite) until intersection.",
+                  "id": "Glosa harfiah (Inggris)\nGo straight [polite] you (polite) until intersection."
+                },
+                {
+                  "sourceLanguage": "en",
+                  "sourceText": "Go straight on until the intersection. (polite)",
+                  "id": "Terjemahan alami sumber (Inggris)\nGo straight on until the intersection. (polite)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "example",
+          "title": {
+            "sourceLanguage": "mixed",
+            "sourceText": "A 13",
+            "id": "A 13 · halaman PDF 433"
+          },
+          "sourcePage": 433,
+          "rows": [
+            {
+              "cells": [
+                {
+                  "sourceLanguage": "fil",
+                  "sourceText": "Tapos, kumaliwa' po' kayo. May bangko po' roon.",
+                  "id": "Lalu, belok kiri. Ada bank di sana. (sopan)",
+                  "tagalog": "Tapos, kumaliwa' po' kayo. May bangko po' roon."
+                },
+                {
+                  "sourceLanguage": "en",
+                  "sourceText": "Then, turn left [polite] you (polite). There is bank [polite] over there.",
+                  "id": "Glosa harfiah (Inggris)\nThen, turn left [polite] you (polite). There is bank [polite] over there."
+                },
+                {
+                  "sourceLanguage": "en",
+                  "sourceText": "Then, turn left. There's a bank over there. (polite)",
+                  "id": "Terjemahan alami sumber (Inggris)\nThen, turn left. There's a bank over there. (polite)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "example",
+          "title": {
+            "sourceLanguage": "mixed",
+            "sourceText": "A 14",
+            "id": "A 14 · halaman PDF 434"
+          },
+          "sourcePage": 434,
+          "rows": [
+            {
+              "cells": [
+                {
+                  "sourceLanguage": "fil",
+                  "sourceText": "Salamat.",
+                  "id": "Terima kasih.",
+                  "tagalog": "Salamat."
+                },
+                {
+                  "sourceLanguage": "en",
+                  "sourceText": "Thanks.",
+                  "id": "Glosa harfiah (Inggris)\nThanks."
+                },
+                {
+                  "sourceLanguage": "en",
+                  "sourceText": "Thanks.",
+                  "id": "Terjemahan alami sumber (Inggris)\nThanks."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "example",
+          "title": {
+            "sourceLanguage": "mixed",
+            "sourceText": "B 01",
+            "id": "B 01 · halaman PDF 436"
+          },
+          "sourcePage": 436,
+          "rows": [
+            {
+              "cells": [
+                {
+                  "sourceLanguage": "fil",
+                  "sourceText": "Hanggang anong oras bukas ang lobby?",
+                  "id": "Sampai jam berapa lobi buka?",
+                  "tagalog": "Hanggang anong oras bukas ang lobby?"
+                },
+                {
+                  "sourceLanguage": "en",
+                  "sourceText": "Until what-[linker] time open the lobby?",
+                  "id": "Glosa harfiah (Inggris)\nUntil what-[linker] time open the lobby?"
+                },
+                {
+                  "sourceLanguage": "en",
+                  "sourceText": "Till what time is the lobby open?",
+                  "id": "Terjemahan alami sumber (Inggris)\nTill what time is the lobby open?"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "example",
+          "title": {
+            "sourceLanguage": "mixed",
+            "sourceText": "B 02",
+            "id": "B 02 · halaman PDF 437"
+          },
+          "sourcePage": 437,
+          "rows": [
+            {
+              "cells": [
+                {
+                  "sourceLanguage": "fil",
+                  "sourceText": "Hanggang alas onse po'.",
+                  "id": "Sampai jam sebelas. (sopan)",
+                  "tagalog": "Hanggang alas onse po'."
+                },
+                {
+                  "sourceLanguage": "en",
+                  "sourceText": "Until eleven o'clock [polite].",
+                  "id": "Glosa harfiah (Inggris)\nUntil eleven o'clock [polite]."
+                },
+                {
+                  "sourceLanguage": "en",
+                  "sourceText": "Until eleven o'clock. (polite)",
+                  "id": "Terjemahan alami sumber (Inggris)\nUntil eleven o'clock. (polite)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "example",
+          "title": {
+            "sourceLanguage": "mixed",
+            "sourceText": "B 03",
+            "id": "B 03 · halaman PDF 438"
+          },
+          "sourcePage": 438,
+          "rows": [
+            {
+              "cells": [
+                {
+                  "sourceLanguage": "fil",
+                  "sourceText": "Twenty-four hours po' kaming bukas.",
+                  "id": "Kami buka 24 jam. (sopan)",
+                  "tagalog": "Twenty-four hours po' kaming bukas."
+                },
+                {
+                  "sourceLanguage": "en",
+                  "sourceText": "Twenty-four hours [polite] we (excl. you)-[linker] open.",
+                  "id": "Glosa harfiah (Inggris)\nTwenty-four hours [polite] we (excl. you)-[linker] open."
+                },
+                {
+                  "sourceLanguage": "en",
+                  "sourceText": "We're open 24 hours. (polite)",
+                  "id": "Terjemahan alami sumber (Inggris)\nWe're open 24 hours. (polite)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "example",
+          "title": {
+            "sourceLanguage": "mixed",
+            "sourceText": "B 04",
+            "id": "B 04 · halaman PDF 439"
+          },
+          "sourcePage": 439,
+          "rows": [
+            {
+              "cells": [
+                {
+                  "sourceLanguage": "fil",
+                  "sourceText": "Bawal pumasok.",
+                  "id": "Dilarang masuk.",
+                  "tagalog": "Bawal pumasok."
+                },
+                {
+                  "sourceLanguage": "en",
+                  "sourceText": "Prohibited to enter.",
+                  "id": "Glosa harfiah (Inggris)\nProhibited to enter."
+                },
+                {
+                  "sourceLanguage": "en",
+                  "sourceText": "No entry.",
+                  "id": "Terjemahan alami sumber (Inggris)\nNo entry."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "example",
+          "title": {
+            "sourceLanguage": "mixed",
+            "sourceText": "B 05",
+            "id": "B 05 · halaman PDF 440"
+          },
+          "sourcePage": 440,
+          "rows": [
+            {
+              "cells": [
+                {
+                  "sourceLanguage": "fil",
+                  "sourceText": "Bawal lumusot.",
+                  "id": "Dilarang melintas. (Dilarang menyalip.)",
+                  "tagalog": "Bawal lumusot."
+                },
+                {
+                  "sourceLanguage": "en",
+                  "sourceText": "Prohibited to pass (overtake).",
+                  "id": "Glosa harfiah (Inggris)\nProhibited to pass (overtake)."
+                },
+                {
+                  "sourceLanguage": "en",
+                  "sourceText": "Do not pass. (No overtaking.)",
+                  "id": "Terjemahan alami sumber (Inggris)\nDo not pass. (No overtaking.)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "example",
+          "title": {
+            "sourceLanguage": "mixed",
+            "sourceText": "B 06",
+            "id": "B 06 · halaman PDF 441"
+          },
+          "sourcePage": 441,
+          "rows": [
+            {
+              "cells": [
+                {
+                  "sourceLanguage": "fil",
+                  "sourceText": "Bawal umihi' dito.",
+                  "id": "Tidak boleh buang air kecil di sini.",
+                  "tagalog": "Bawal umihi' dito."
+                },
+                {
+                  "sourceLanguage": "en",
+                  "sourceText": "Prohibited to urinate here.",
+                  "id": "Glosa harfiah (Inggris)\nProhibited to urinate here."
+                },
+                {
+                  "sourceLanguage": "en",
+                  "sourceText": "No urinating here.",
+                  "id": "Terjemahan alami sumber (Inggris)\nNo urinating here."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "example",
+          "title": {
+            "sourceLanguage": "mixed",
+            "sourceText": "B 07",
+            "id": "B 07 · halaman PDF 442"
+          },
+          "sourcePage": 442,
+          "rows": [
+            {
+              "cells": [
+                {
+                  "sourceLanguage": "fil",
+                  "sourceText": "Bawal tumigil dito.",
+                  "id": "Tidak boleh berhenti di sini.",
+                  "tagalog": "Bawal tumigil dito."
+                },
+                {
+                  "sourceLanguage": "en",
+                  "sourceText": "Prohibited to stop here.",
+                  "id": "Glosa harfiah (Inggris)\nProhibited to stop here."
+                },
+                {
+                  "sourceLanguage": "en",
+                  "sourceText": "No stopping here.",
+                  "id": "Terjemahan alami sumber (Inggris)\nNo stopping here."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "example",
+          "title": {
+            "sourceLanguage": "mixed",
+            "sourceText": "B 08",
+            "id": "B 08 · halaman PDF 443"
+          },
+          "sourcePage": 443,
+          "rows": [
+            {
+              "cells": [
+                {
+                  "sourceLanguage": "fil",
+                  "sourceText": "Bawal magtapon ng basura.",
+                  "id": "Dilarang membuang sampah.",
+                  "tagalog": "Bawal magtapon ng basura."
+                },
+                {
+                  "sourceLanguage": "en",
+                  "sourceText": "Prohibited to throw away [Ng marker] garbage.",
+                  "id": "Glosa harfiah (Inggris)\nProhibited to throw away [Ng marker] garbage."
+                },
+                {
+                  "sourceLanguage": "en",
+                  "sourceText": "No dumping of trash.",
+                  "id": "Terjemahan alami sumber (Inggris)\nNo dumping of trash."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "example",
+          "title": {
+            "sourceLanguage": "mixed",
+            "sourceText": "B 09",
+            "id": "B 09 · halaman PDF 444"
+          },
+          "sourcePage": 444,
+          "rows": [
+            {
+              "cells": [
+                {
+                  "sourceLanguage": "fil",
+                  "sourceText": "Mag-ingat. Madulas ang kalsada.",
+                  "id": "Peringatan. Jalan licin.",
+                  "tagalog": "Mag-ingat. Madulas ang kalsada."
+                },
+                {
+                  "sourceLanguage": "en",
+                  "sourceText": "Take care. Slippery the road.",
+                  "id": "Glosa harfiah (Inggris)\nTake care. Slippery the road."
+                },
+                {
+                  "sourceLanguage": "en",
+                  "sourceText": "Caution. Slippery road.",
+                  "id": "Terjemahan alami sumber (Inggris)\nCaution. Slippery road."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "example",
+          "title": {
+            "sourceLanguage": "mixed",
+            "sourceText": "B 10",
+            "id": "B 10 · halaman PDF 445"
+          },
+          "sourcePage": 445,
+          "rows": [
+            {
+              "cells": [
+                {
+                  "sourceLanguage": "fil",
+                  "sourceText": "kaliwa', kanan",
+                  "id": "Kiri, kanan",
+                  "tagalog": "kaliwa', kanan"
+                },
+                {
+                  "sourceLanguage": "en",
+                  "sourceText": "left, right",
+                  "id": "Glosa harfiah (Inggris)\nleft, right"
+                },
+                {
+                  "sourceLanguage": "en",
+                  "sourceText": "left, right",
+                  "id": "Terjemahan alami sumber (Inggris)\nleft, right"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "exercises",
+      "type": "EXERCISES",
+      "title": {
+        "sourceLanguage": "mixed",
+        "sourceText": "Drills",
+        "id": "Latihan pola"
+      },
+      "blocks": [
+        {
+          "type": "exercise",
+          "role": "instruction",
+          "text": {
+            "sourceLanguage": "mixed",
+            "sourceText": "Drills",
+            "id": "Latihan pola (Drills)"
+          },
+          "sourcePage": 435
+        },
+        {
+          "type": "exercise",
+          "role": "content",
+          "title": {
+            "sourceLanguage": "mixed",
+            "sourceText": "A 14",
+            "id": "A 14 · halaman PDF 434"
+          },
+          "sourcePage": 434,
+          "text": {
+            "sourceLanguage": "fil",
+            "sourceText": "Salamat.",
+            "id": "Terima kasih.",
+            "tagalog": "Salamat."
+          }
+        },
+        {
+          "type": "exercise",
+          "role": "content",
+          "title": {
+            "sourceLanguage": "mixed",
+            "sourceText": "B 01",
+            "id": "B 01 · halaman PDF 436"
+          },
+          "sourcePage": 436,
+          "text": {
+            "sourceLanguage": "fil",
+            "sourceText": "Hanggang anong oras bukas ang lobby?",
+            "id": "Sampai jam berapa lobi buka?",
+            "tagalog": "Hanggang anong oras bukas ang lobby?"
+          }
+        },
+        {
+          "type": "exercise",
+          "role": "content",
+          "title": {
+            "sourceLanguage": "mixed",
+            "sourceText": "B 02",
+            "id": "B 02 · halaman PDF 437"
+          },
+          "sourcePage": 437,
+          "text": {
+            "sourceLanguage": "fil",
+            "sourceText": "Hanggang alas onse po'.",
+            "id": "Sampai jam sebelas. (sopan)",
+            "tagalog": "Hanggang alas onse po'."
+          }
+        },
+        {
+          "type": "exercise",
+          "role": "content",
+          "title": {
+            "sourceLanguage": "mixed",
+            "sourceText": "B 03",
+            "id": "B 03 · halaman PDF 438"
+          },
+          "sourcePage": 438,
+          "text": {
+            "sourceLanguage": "fil",
+            "sourceText": "Twenty-four hours po' kaming bukas.",
+            "id": "Kami buka 24 jam. (sopan)",
+            "tagalog": "Twenty-four hours po' kaming bukas."
+          }
+        },
+        {
+          "type": "exercise",
+          "role": "content",
+          "title": {
+            "sourceLanguage": "mixed",
+            "sourceText": "B 04",
+            "id": "B 04 · halaman PDF 439"
+          },
+          "sourcePage": 439,
+          "text": {
+            "sourceLanguage": "fil",
+            "sourceText": "Bawal pumasok.",
+            "id": "Dilarang masuk.",
+            "tagalog": "Bawal pumasok."
+          }
+        },
+        {
+          "type": "exercise",
+          "role": "content",
+          "title": {
+            "sourceLanguage": "mixed",
+            "sourceText": "B 05",
+            "id": "B 05 · halaman PDF 440"
+          },
+          "sourcePage": 440,
+          "text": {
+            "sourceLanguage": "fil",
+            "sourceText": "Bawal lumusot.",
+            "id": "Dilarang melintas. (Dilarang menyalip.)",
+            "tagalog": "Bawal lumusot."
+          }
+        },
+        {
+          "type": "exercise",
+          "role": "content",
+          "title": {
+            "sourceLanguage": "mixed",
+            "sourceText": "B 06",
+            "id": "B 06 · halaman PDF 441"
+          },
+          "sourcePage": 441,
+          "text": {
+            "sourceLanguage": "fil",
+            "sourceText": "Bawal umihi' dito.",
+            "id": "Tidak boleh buang air kecil di sini.",
+            "tagalog": "Bawal umihi' dito."
+          }
+        },
+        {
+          "type": "exercise",
+          "role": "content",
+          "title": {
+            "sourceLanguage": "mixed",
+            "sourceText": "B 07",
+            "id": "B 07 · halaman PDF 442"
+          },
+          "sourcePage": 442,
+          "text": {
+            "sourceLanguage": "fil",
+            "sourceText": "Bawal tumigil dito.",
+            "id": "Tidak boleh berhenti di sini.",
+            "tagalog": "Bawal tumigil dito."
+          }
+        },
+        {
+          "type": "exercise",
+          "role": "content",
+          "title": {
+            "sourceLanguage": "mixed",
+            "sourceText": "B 08",
+            "id": "B 08 · halaman PDF 443"
+          },
+          "sourcePage": 443,
+          "text": {
+            "sourceLanguage": "fil",
+            "sourceText": "Bawal magtapon ng basura.",
+            "id": "Dilarang membuang sampah.",
+            "tagalog": "Bawal magtapon ng basura."
+          }
+        },
+        {
+          "type": "exercise",
+          "role": "content",
+          "title": {
+            "sourceLanguage": "mixed",
+            "sourceText": "B 09",
+            "id": "B 09 · halaman PDF 444"
+          },
+          "sourcePage": 444,
+          "text": {
+            "sourceLanguage": "fil",
+            "sourceText": "Mag-ingat. Madulas ang kalsada.",
+            "id": "Peringatan. Jalan licin.",
+            "tagalog": "Mag-ingat. Madulas ang kalsada."
+          }
+        },
+        {
+          "type": "exercise",
+          "role": "content",
+          "title": {
+            "sourceLanguage": "mixed",
+            "sourceText": "B 10",
+            "id": "B 10 · halaman PDF 445"
+          },
+          "sourcePage": 445,
+          "text": {
+            "sourceLanguage": "fil",
+            "sourceText": "kaliwa', kanan",
+            "id": "Kiri, kanan",
+            "tagalog": "kaliwa', kanan"
+          }
+        }
+      ]
+    },
+    {
+      "id": "summary",
+      "type": "SUMMARY",
+      "title": {
+        "sourceLanguage": "mixed",
+        "sourceText": "Sa hotel",
+        "id": "Ringkasan bab"
+      },
+      "blocks": [
+        {
+          "type": "text",
+          "style": "heading",
+          "text": {
+            "sourceLanguage": "mixed",
+            "sourceText": "Story A",
+            "id": "Dialog utama"
+          }
+        },
+        {
+          "type": "list",
+          "style": "outline",
+          "items": [
+            {
+              "sourceLanguage": "fil",
+              "sourceText": "Sa hotel",
+              "id": "Di hotel",
+              "tagalog": "Sa hotel"
+            },
+            {
+              "sourceLanguage": "fil",
+              "sourceText": "Ano pong pangalan nila?",
+              "id": "Bolehkah saya mengetahui nama Anda, Pak? (Siapa nama Anda, Tuan?)",
+              "tagalog": "Ano pong pangalan nila?"
+            },
+            {
+              "sourceLanguage": "fil",
+              "sourceText": "Tomas de Leon.",
+              "id": "Tomas de Leon.",
+              "tagalog": "Tomas de Leon."
+            },
+            {
+              "sourceLanguage": "fil",
+              "sourceText": "Hanggang kailan po' sila rito?",
+              "id": "Berapa lama (sampai kapan) Anda akan tinggal di sini, Pak?",
+              "tagalog": "Hanggang kailan po' sila rito?"
+            },
+            {
+              "sourceLanguage": "fil",
+              "sourceText": "Hanggang bukas ng umaga.",
+              "id": "Sampai besok pagi.",
+              "tagalog": "Hanggang bukas ng umaga."
+            },
+            {
+              "sourceLanguage": "fil",
+              "sourceText": "Aircon room po'?",
+              "id": "Apakah Anda ingin ruangan ber-AC, Pak?",
+              "tagalog": "Aircon room po'?"
+            },
+            {
+              "sourceLanguage": "fil",
+              "sourceText": "Oo.",
+              "id": "Ya.",
+              "tagalog": "Oo."
+            },
+            {
+              "sourceLanguage": "fil",
+              "sourceText": "Sige po', eto po' ang susi'. Room number 7 po'.",
+              "id": "Baik, Pak. Ini kunci Anda. Kamar Anda nomor 7.",
+              "tagalog": "Sige po', eto po' ang susi'. Room number 7 po'."
+            },
+            {
+              "sourceLanguage": "fil",
+              "sourceText": "Nasa second floor. Nandoon po' ang elevator.",
+              "id": "Itu di lantai dua. Liftnya ada di sana. (sopan)",
+              "tagalog": "Nasa second floor. Nandoon po' ang elevator."
+            },
+            {
+              "sourceLanguage": "fil",
+              "sourceText": "Salamat. Nasaan pala ang pinakamalapit na ATM dito?",
+              "id": "Terima kasih. Ngomong-ngomong, di mana ATM terdekatnya?",
+              "tagalog": "Salamat. Nasaan pala ang pinakamalapit na ATM dito?"
+            },
+            {
+              "sourceLanguage": "fil",
+              "sourceText": "Paglabas po' ninyo, kumanan po' kayo.",
+              "id": "Saat Anda keluar, belok kanan. (sopan)",
+              "tagalog": "Paglabas po' ninyo, kumanan po' kayo."
+            },
+            {
+              "sourceLanguage": "fil",
+              "sourceText": "Dumeretso po' kayo hanggang sa crossing.",
+              "id": "Jalan lurus saja sampai perempatan. (sopan)",
+              "tagalog": "Dumeretso po' kayo hanggang sa crossing."
+            },
+            {
+              "sourceLanguage": "fil",
+              "sourceText": "Tapos, kumaliwa' po' kayo. May bangko po' roon.",
+              "id": "Lalu, belok kiri. Ada bank di sana. (sopan)",
+              "tagalog": "Tapos, kumaliwa' po' kayo. May bangko po' roon."
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "style": "heading",
+          "text": {
+            "sourceLanguage": "mixed",
+            "sourceText": "Drills",
+            "id": "Latihan pola"
+          }
+        },
+        {
+          "type": "list",
+          "style": "outline",
+          "items": [
+            {
+              "sourceLanguage": "fil",
+              "sourceText": "Salamat.",
+              "id": "Terima kasih.",
+              "tagalog": "Salamat."
+            },
+            {
+              "sourceLanguage": "fil",
+              "sourceText": "Hanggang anong oras bukas ang lobby?",
+              "id": "Sampai jam berapa lobi buka?",
+              "tagalog": "Hanggang anong oras bukas ang lobby?"
+            },
+            {
+              "sourceLanguage": "fil",
+              "sourceText": "Hanggang alas onse po'.",
+              "id": "Sampai jam sebelas. (sopan)",
+              "tagalog": "Hanggang alas onse po'."
+            },
+            {
+              "sourceLanguage": "fil",
+              "sourceText": "Twenty-four hours po' kaming bukas.",
+              "id": "Kami buka 24 jam. (sopan)",
+              "tagalog": "Twenty-four hours po' kaming bukas."
+            },
+            {
+              "sourceLanguage": "fil",
+              "sourceText": "Bawal pumasok.",
+              "id": "Dilarang masuk.",
+              "tagalog": "Bawal pumasok."
+            },
+            {
+              "sourceLanguage": "fil",
+              "sourceText": "Bawal lumusot.",
+              "id": "Dilarang melintas. (Dilarang menyalip.)",
+              "tagalog": "Bawal lumusot."
+            },
+            {
+              "sourceLanguage": "fil",
+              "sourceText": "Bawal umihi' dito.",
+              "id": "Tidak boleh buang air kecil di sini.",
+              "tagalog": "Bawal umihi' dito."
+            },
+            {
+              "sourceLanguage": "fil",
+              "sourceText": "Bawal tumigil dito.",
+              "id": "Tidak boleh berhenti di sini.",
+              "tagalog": "Bawal tumigil dito."
+            },
+            {
+              "sourceLanguage": "fil",
+              "sourceText": "Bawal magtapon ng basura.",
+              "id": "Dilarang membuang sampah.",
+              "tagalog": "Bawal magtapon ng basura."
+            },
+            {
+              "sourceLanguage": "fil",
+              "sourceText": "Mag-ingat. Madulas ang kalsada.",
+              "id": "Peringatan. Jalan licin.",
+              "tagalog": "Mag-ingat. Madulas ang kalsada."
+            },
+            {
+              "sourceLanguage": "fil",
+              "sourceText": "kaliwa', kanan",
+              "id": "Kiri, kanan",
+              "tagalog": "kaliwa', kanan"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "contentAudit": {
+    "sourcePages": 27,
+    "phrasePages": 24,
+    "storyPhrases": 13,
+    "drillPhrases": 11,
+    "noteBlocks": 15,
+    "vocabularyEntries": 66,
+    "sourceTextItemsBefore": 88,
+    "sourceTextItemsAfter": 88,
+    "recapVerified": true,
+    "imageCount": 1
+  }
+}

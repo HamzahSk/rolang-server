@@ -1,0 +1,53 @@
+{
+  "schemaVersion": 1,
+  "id": "course-book-1-unit-03-family-time-and-home",
+  "courseId": "learning-tagalog-course-book-1",
+  "title": {
+    "id": "Keluarga, waktu, dan rumah",
+    "fil": "Pamilya, oras, at tahanan"
+  },
+  "assets": [],
+  "sections": [
+    {
+      "id": "unit-overview",
+      "type": "OVERVIEW",
+      "title": {
+        "sourceLanguage": "mixed",
+        "sourceText": "Unit overview",
+        "id": "Gambaran unit"
+      },
+      "blocks": [
+        {
+          "type": "list",
+          "style": "outline",
+          "items": [
+            {
+              "sourceLanguage": "fil",
+              "sourceText": "Ang pamilya ko",
+              "id": "Keluarga saya",
+              "tagalog": "Ang pamilya ko"
+            },
+            {
+              "sourceLanguage": "fil",
+              "sourceText": "Alas kwatro na",
+              "id": "Sudah pukul empat",
+              "tagalog": "Alas kwatro na"
+            },
+            {
+              "sourceLanguage": "fil",
+              "sourceText": "Sa sala",
+              "id": "Di ruang tamu",
+              "tagalog": "Sa sala"
+            },
+            {
+              "sourceLanguage": "fil",
+              "sourceText": "Ang bisita",
+              "id": "Tamu",
+              "tagalog": "Ang bisita"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

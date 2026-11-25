@@ -1,0 +1,53 @@
+{
+  "schemaVersion": 1,
+  "id": "course-book-1-unit-05-travel-and-daily-needs",
+  "courseId": "learning-tagalog-course-book-1",
+  "title": {
+    "id": "Perjalanan dan kebutuhan sehari-hari",
+    "fil": "Paglalakbay at pang-araw-araw na pangangailangan"
+  },
+  "assets": [],
+  "sections": [
+    {
+      "id": "unit-overview",
+      "type": "OVERVIEW",
+      "title": {
+        "sourceLanguage": "mixed",
+        "sourceText": "Unit overview",
+        "id": "Gambaran unit"
+      },
+      "blocks": [
+        {
+          "type": "list",
+          "style": "outline",
+          "items": [
+            {
+              "sourceLanguage": "fil",
+              "sourceText": "Sa hotel",
+              "id": "Di hotel",
+              "tagalog": "Sa hotel"
+            },
+            {
+              "sourceLanguage": "fil",
+              "sourceText": "Ang init!",
+              "id": "Panas sekali!",
+              "tagalog": "Ang init!"
+            },
+            {
+              "sourceLanguage": "fil",
+              "sourceText": "May sakit ang asawa ko",
+              "id": "Suami saya sakit",
+              "tagalog": "May sakit ang asawa ko"
+            },
+            {
+              "sourceLanguage": "fil",
+              "sourceText": "Sa mall",
+              "id": "Di mal",
+              "tagalog": "Sa mall"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

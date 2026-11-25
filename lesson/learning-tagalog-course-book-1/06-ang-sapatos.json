@@ -1,0 +1,2098 @@
+{
+  "schemaVersion": 1,
+  "structureVersion": 2,
+  "id": "learning-tagalog-course-book-1-lesson-06",
+  "courseId": "learning-tagalog-course-book-1",
+  "unitId": "course-book-1-unit-02-objects-and-shopping",
+  "order": 6,
+  "level": "BEGINNER",
+  "title": {
+    "id": "Sepatu",
+    "fil": "Ang sapatos"
+  },
+  "summary": {
+    "id": "Julius sedang mencari sepatunya. Dia bertanya pada adiknya Mia di mana mereka berada.",
+    "fil": "Ang sapatos"
+  },
+  "objectives": [
+    {
+      "sourceLanguage": "mixed",
+      "sourceText": "Chapter 6 · Story A",
+      "id": "Memahami dialog utama Bab 6 tentang sepatu."
+    },
+    {
+      "sourceLanguage": "mixed",
+      "sourceText": "Literal and natural translations",
+      "id": "Membandingkan susunan Tagalog dengan glosa harfiah dan terjemahan alami dari sumber."
+    },
+    {
+      "sourceLanguage": "mixed",
+      "sourceText": "Drills",
+      "id": "Melatih kembali pola dan ungkapan pada bagian Drills."
+    }
+  ],
+  "source": {
+    "book": "Learning Tagalog - Fluency Made Fast and Easy - Course Book 1",
+    "file": "Learning Tagalog - Fluency Made Fast and Easy - Course Book 1.pdf",
+    "pdfSha256": "52e9f464239c2ae98248a452edfbf1f58eb01bec69374a16d5205e70afa80f58",
+    "chapter": 6,
+    "pages": {
+      "start": 134,
+      "end": 155
+    },
+    "drillsDividerPage": 146,
+    "recapPage": 155
+  },
+  "sourceLinks": [
+    {
+      "page": 152,
+      "uri": "https://learningtagalog.com/grammar/other_describing_words/expressing_location/nandito_nandiyan_nandoon.html"
+    }
+  ],
+  "assets": [
+    "assets/06-ang-sapatos.jpg"
+  ],
+  "sections": [
+    {
+      "id": "introduction",
+      "type": "INTRODUCTION",
+      "title": {
+        "sourceLanguage": "mixed",
+        "sourceText": "The shoes",
+        "id": "Sepatu"
+      },
+      "blocks": [
+        {
+          "type": "image",
+          "path": "assets/06-ang-sapatos.jpg",
+          "sourcePage": 134
+        },
+        {
+          "type": "text",
+          "style": "heading",
+          "text": {
+            "sourceLanguage": "en",
+            "sourceText": "The shoes",
+            "id": "Sepatu"
+          }
+        }
+      ]
+    },
+    {
+      "id": "learning-material",
+      "type": "LEARNING_MATERIAL",
+      "title": {
+        "sourceLanguage": "mixed",
+        "sourceText": "Chapter context",
+        "id": "Konteks bab"
+      },
+      "blocks": [
+        {
+          "type": "text",
+          "style": "body",
+          "sourcePage": 134,
+          "text": {
+            "sourceLanguage": "en",
+            "sourceText": "Julius is looking for his shoes. He asks his sister Mia where they are.",
+            "id": "Julius sedang mencari sepatunya. Dia bertanya pada adiknya Mia di mana mereka berada."
+          }
+        },
+        {
+          "type": "text",
+          "style": "body",
+          "sourcePage": 139,
+          "sourceLabel": "A 05",
+          "links": [],
+          "text": {
+            "sourceLanguage": "en",
+            "sourceText": "Verbs will be covered in detail after Lesson 20.",
+            "id": "A 05 · halaman PDF 139\n\nKata kerja akan dibahas secara rinci setelah Pelajaran 20."
+          }
+        }
+      ]
+    },
+    {
+      "id": "dialogue",
+      "type": "DIALOGUE",
+      "title": {
+        "sourceLanguage": "mixed",
+        "sourceText": "Story A",
+        "id": "Dialog utama (Bagian A)"
+      },
+      "blocks": [
+        {
+          "type": "dialogue",
+          "turns": [
+            {
+              "speaker": "A 01",
+              "speakerText": {
+                "sourceLanguage": "mixed",
+                "sourceText": "A 01",
+                "id": "Bagian A 01"
+              },
+              "text": {
+                "sourceLanguage": "fil",
+                "sourceText": "Ang sapatos",
+                "id": "Sepatu",
+                "tagalog": "Ang sapatos"
+              },
+              "sourcePage": 135
+            },
+            {
+              "speaker": "A 02",
+              "speakerText": {
+                "sourceLanguage": "mixed",
+                "sourceText": "A 02",
+                "id": "Bagian A 02"
+              },
+              "text": {
+                "sourceLanguage": "fil",
+                "sourceText": "Nasaan ang sapatos ko?",
+                "id": "Di mana sepatuku?",
+                "tagalog": "Nasaan ang sapatos ko?"
+              },
+              "sourcePage": 136
+            },
+            {
+              "speaker": "A 03",
+              "speakerText": {
+                "sourceLanguage": "mixed",
+                "sourceText": "A 03",
+                "id": "Bagian A 03"
+              },
+              "text": {
+                "sourceLanguage": "fil",
+                "sourceText": "Ewan ko. Bakit? Lalabas ka ba?",
+                "id": "Aku tidak tahu. Mengapa? Apakah kamu akan keluar?",
+                "tagalog": "Ewan ko. Bakit? Lalabas ka ba?"
+              },
+              "sourcePage": 137
+            },
+            {
+              "speaker": "A 04",
+              "speakerText": {
+                "sourceLanguage": "mixed",
+                "sourceText": "A 04",
+                "id": "Bagian A 04"
+              },
+              "text": {
+                "sourceLanguage": "fil",
+                "sourceText": "Oo, may basketball ako. Late na nga' ako e.",
+                "id": "Ya, saya ada latihan basket. Sebenarnya saya sudah terlambat.",
+                "tagalog": "Oo, may basketball ako. Late na nga' ako e."
+              },
+              "sourcePage": 138
+            },
+            {
+              "speaker": "A 05",
+              "speakerText": {
+                "sourceLanguage": "mixed",
+                "sourceText": "A 05",
+                "id": "Bagian A 05"
+              },
+              "text": {
+                "sourceLanguage": "fil",
+                "sourceText": "Kumain ka na?",
+                "id": "Apa kamu sudah makan?",
+                "tagalog": "Kumain ka na?"
+              },
+              "sourcePage": 139
+            },
+            {
+              "speaker": "A 06",
+              "speakerText": {
+                "sourceLanguage": "mixed",
+                "sourceText": "A 06",
+                "id": "Bagian A 06"
+              },
+              "text": {
+                "sourceLanguage": "fil",
+                "sourceText": "Oo, tapos na.",
+                "id": "Ya, saya sudah selesai.",
+                "tagalog": "Oo, tapos na."
+              },
+              "sourcePage": 140
+            },
+            {
+              "speaker": "A 07",
+              "speakerText": {
+                "sourceLanguage": "mixed",
+                "sourceText": "A 07",
+                "id": "Bagian A 07"
+              },
+              "text": {
+                "sourceLanguage": "fil",
+                "sourceText": "Siguro nasa sala ang sapatos mo.",
+                "id": "Mungkin sepatu Anda ada di ruang tamu.",
+                "tagalog": "Siguro nasa sala ang sapatos mo."
+              },
+              "sourcePage": 141
+            },
+            {
+              "speaker": "A 08",
+              "speakerText": {
+                "sourceLanguage": "mixed",
+                "sourceText": "A 08",
+                "id": "Bagian A 08"
+              },
+              "text": {
+                "sourceLanguage": "fil",
+                "sourceText": "Ay, tama' ka. Alam ko na. Nasa ilalim ng sofa.",
+                "id": "Oh, kamu benar. Saya tahu sekarang. Mereka ada di bawah sofa.",
+                "tagalog": "Ay, tama' ka. Alam ko na. Nasa ilalim ng sofa."
+              },
+              "sourcePage": 142
+            },
+            {
+              "speaker": "A 09",
+              "speakerText": {
+                "sourceLanguage": "mixed",
+                "sourceText": "A 09",
+                "id": "Bagian A 09"
+              },
+              "text": {
+                "sourceLanguage": "fil",
+                "sourceText": "Ikaw talaga...",
+                "id": "Kamu sungguh sangat...",
+                "tagalog": "Ikaw talaga..."
+              },
+              "sourcePage": 143
+            },
+            {
+              "speaker": "A 10",
+              "speakerText": {
+                "sourceLanguage": "mixed",
+                "sourceText": "A 10",
+                "id": "Bagian A 10"
+              },
+              "text": {
+                "sourceLanguage": "fil",
+                "sourceText": "Aalis na ako.",
+                "id": "Aku berangkat. (Saya akan pergi sekarang.)",
+                "tagalog": "Aalis na ako."
+              },
+              "sourcePage": 144
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "vocabulary",
+      "type": "VOCABULARY",
+      "title": {
+        "sourceLanguage": "mixed",
+        "sourceText": "Vocabulary and expressions",
+        "id": "Kosakata dan ungkapan"
+      },
+      "blocks": [
+        {
+          "type": "vocabulary",
+          "entries": [
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "Ang",
+                "id": "penanda definit",
+                "tagalog": "Ang"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "The",
+                "id": "penanda definit"
+              },
+              "sourcePage": 135
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "sapatos",
+                "id": "Sepatu",
+                "tagalog": "sapatos"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "shoes",
+                "id": "Sepatu"
+              },
+              "sourcePage": 135
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "Nasaan",
+                "id": "Di mana",
+                "tagalog": "Nasaan"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "Where are",
+                "id": "Di mana"
+              },
+              "sourcePage": 136
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "ko?",
+                "id": "Ku?",
+                "tagalog": "ko?"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "my?",
+                "id": "Ku?"
+              },
+              "sourcePage": 136
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "Ewan",
+                "id": "Tidak diketahui",
+                "tagalog": "Ewan"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "Not known",
+                "id": "Tidak diketahui"
+              },
+              "sourcePage": 137
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "Bakit?",
+                "id": "Mengapa?",
+                "tagalog": "Bakit?"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "Why?",
+                "id": "Mengapa?"
+              },
+              "sourcePage": 137
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "Lalabas",
+                "id": "Akan keluar",
+                "tagalog": "Lalabas"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "Will go out",
+                "id": "Akan keluar"
+              },
+              "sourcePage": 137
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "ka",
+                "id": "kamu",
+                "tagalog": "ka"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "you",
+                "id": "kamu"
+              },
+              "sourcePage": 137
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "ba?",
+                "id": "[penanda tanya]?",
+                "tagalog": "ba?"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "[question]?",
+                "id": "[penanda tanya]?"
+              },
+              "sourcePage": 137
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "Oo,",
+                "id": "Ya,",
+                "tagalog": "Oo,"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "Yes,",
+                "id": "Ya,"
+              },
+              "sourcePage": 138
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "may",
+                "id": "Memiliki",
+                "tagalog": "may"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "have",
+                "id": "Memiliki"
+              },
+              "sourcePage": 138
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "basketball",
+                "id": "Bola basket",
+                "tagalog": "basketball"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "basketball",
+                "id": "Bola basket"
+              },
+              "sourcePage": 138
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "ako.",
+                "id": "SAYA.",
+                "tagalog": "ako."
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "I.",
+                "id": "SAYA."
+              },
+              "sourcePage": 138
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "Late",
+                "id": "Terlambat",
+                "tagalog": "Late"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "Late",
+                "id": "Terlambat"
+              },
+              "sourcePage": 138
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "na",
+                "id": "Sudah",
+                "tagalog": "na"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "already",
+                "id": "Sudah"
+              },
+              "sourcePage": 138
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "nga'",
+                "id": "Nyatanya",
+                "tagalog": "nga'"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "in fact",
+                "id": "Nyatanya"
+              },
+              "sourcePage": 138
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "e.",
+                "id": "Kamu lihat.",
+                "tagalog": "e."
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "you see.",
+                "id": "Kamu lihat."
+              },
+              "sourcePage": 138
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "Kumain",
+                "id": "Makan",
+                "tagalog": "Kumain"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "Ate",
+                "id": "Makan"
+              },
+              "sourcePage": 139
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "tapos",
+                "id": "Selesai",
+                "tagalog": "tapos"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "done",
+                "id": "Selesai"
+              },
+              "sourcePage": 140
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "Siguro",
+                "id": "Mungkin",
+                "tagalog": "Siguro"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "Maybe",
+                "id": "Mungkin"
+              },
+              "sourcePage": 141
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "nasa",
+                "id": "Berada dalam",
+                "tagalog": "nasa"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "are in",
+                "id": "Berada dalam"
+              },
+              "sourcePage": 141
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "sala",
+                "id": "Ruang tamu",
+                "tagalog": "sala"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "living room",
+                "id": "Ruang tamu"
+              },
+              "sourcePage": 141
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "mo.",
+                "id": "Milikmu.",
+                "tagalog": "mo."
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "your.",
+                "id": "Milikmu."
+              },
+              "sourcePage": 141
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "Ay,",
+                "id": "Oh,",
+                "tagalog": "Ay,"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "Oh,",
+                "id": "Oh,"
+              },
+              "sourcePage": 142
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "tama'",
+                "id": "Kanan",
+                "tagalog": "tama'"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "right",
+                "id": "Kanan"
+              },
+              "sourcePage": 142
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "Alam",
+                "id": "Diketahui",
+                "tagalog": "Alam"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "Known",
+                "id": "Diketahui"
+              },
+              "sourcePage": 142
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "ilalim",
+                "id": "Tempatkan di bawahnya",
+                "tagalog": "ilalim"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "place beneath",
+                "id": "Tempatkan di bawahnya"
+              },
+              "sourcePage": 142
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "ng",
+                "id": "Dari",
+                "tagalog": "ng"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "of",
+                "id": "Dari"
+              },
+              "sourcePage": 142
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "sofa.",
+                "id": "Sofa.",
+                "tagalog": "sofa."
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "sofa.",
+                "id": "Sofa."
+              },
+              "sourcePage": 142
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "Ikaw",
+                "id": "kamu",
+                "tagalog": "Ikaw"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "You",
+                "id": "kamu"
+              },
+              "sourcePage": 143
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "talaga...",
+                "id": "Sungguh...",
+                "tagalog": "talaga..."
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "really...",
+                "id": "Sungguh..."
+              },
+              "sourcePage": 143
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "Aalis",
+                "id": "Akan pergi",
+                "tagalog": "Aalis"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "Will leave",
+                "id": "Akan pergi"
+              },
+              "sourcePage": 144
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "Sige.",
+                "id": "Oke.",
+                "tagalog": "Sige."
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "OK.",
+                "id": "Oke."
+              },
+              "sourcePage": 145
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "payong",
+                "id": "Payung",
+                "tagalog": "payong"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "umbrella",
+                "id": "Payung"
+              },
+              "sourcePage": 147
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "taas.",
+                "id": "Tempatkan di atas.",
+                "tagalog": "taas."
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "place above.",
+                "id": "Tempatkan di atas."
+              },
+              "sourcePage": 148
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "baba'.",
+                "id": "Tempatkan di bawah.",
+                "tagalog": "baba'."
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "place below.",
+                "id": "Tempatkan di bawah."
+              },
+              "sourcePage": 149
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "Nandito",
+                "id": "Apakah disini",
+                "tagalog": "Nandito"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "Is here",
+                "id": "Apakah disini"
+              },
+              "sourcePage": 150
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "sa",
+                "id": "Pada",
+                "tagalog": "sa"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "at",
+                "id": "Pada"
+              },
+              "sourcePage": 150
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "likod",
+                "id": "Kembali",
+                "tagalog": "likod"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "back",
+                "id": "Kembali"
+              },
+              "sourcePage": 150
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "pinto'.",
+                "id": "Pintu.",
+                "tagalog": "pinto'."
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "door.",
+                "id": "Pintu."
+              },
+              "sourcePage": 150
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "Nandiyan",
+                "id": "Apakah ada (di dekatmu)",
+                "tagalog": "Nandiyan"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "Is there (near you)",
+                "id": "Apakah ada (di dekatmu)"
+              },
+              "sourcePage": 151
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "tabi",
+                "id": "Samping",
+                "tagalog": "tabi"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "side",
+                "id": "Samping"
+              },
+              "sourcePage": 151
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "silya.",
+                "id": "Kursi.",
+                "tagalog": "silya."
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "chair.",
+                "id": "Kursi."
+              },
+              "sourcePage": 151
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "Nandoon",
+                "id": "Ada di sana",
+                "tagalog": "Nandoon"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "Is over there",
+                "id": "Ada di sana"
+              },
+              "sourcePage": 152
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "lamesa.",
+                "id": "Meja.",
+                "tagalog": "lamesa."
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "table.",
+                "id": "Meja."
+              },
+              "sourcePage": 152
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "labas",
+                "id": "Di luar",
+                "tagalog": "labas"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "outside",
+                "id": "Di luar"
+              },
+              "sourcePage": 153
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "yata'.",
+                "id": "Mungkin.",
+                "tagalog": "yata'."
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "maybe.",
+                "id": "Mungkin."
+              },
+              "sourcePage": 153
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "loob",
+                "id": "Di dalam",
+                "tagalog": "loob"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "inside",
+                "id": "Di dalam"
+              },
+              "sourcePage": 154
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "kotse.",
+                "id": "Mobil.",
+                "tagalog": "kotse."
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "car.",
+                "id": "Mobil."
+              },
+              "sourcePage": 154
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "style": "body",
+          "sourcePage": 135,
+          "sourceLabel": "A 01",
+          "links": [],
+          "text": {
+            "sourceLanguage": "en",
+            "sourceText": "Sapatos means shoe or shoes.",
+            "id": "A 01 · halaman PDF 135\n\nSapatos artinya sepatu atau sepatu."
+          }
+        },
+        {
+          "type": "text",
+          "style": "body",
+          "sourcePage": 136,
+          "sourceLabel": "A 02",
+          "links": [],
+          "text": {
+            "sourceLanguage": "en",
+            "sourceText": "Nasaan (...)? – Where is/are/was/were (...)?",
+            "id": "A 02 · halaman PDF 136\n\nNasaan (...)? berarti ‘Di mana (...) berada?’"
+          }
+        },
+        {
+          "type": "text",
+          "style": "body",
+          "sourcePage": 136,
+          "sourceLabel": "A 02",
+          "links": [],
+          "text": {
+            "sourceLanguage": "en",
+            "sourceText": "Nasaan is used to ask where someone or something is. Saan is used to ask where something happens.",
+            "id": "A 02 · halaman PDF 136\n\nNasaan digunakan untuk menanyakan keberadaan seseorang atau sesuatu. Saan digunakan untuk menanyakan di mana sesuatu terjadi."
+          }
+        },
+        {
+          "type": "text",
+          "style": "body",
+          "sourcePage": 137,
+          "sourceLabel": "A 03",
+          "links": [],
+          "text": {
+            "sourceLanguage": "en",
+            "sourceText": "Here, ko means by me, instead of my.",
+            "id": "A 03 · halaman PDF 137\n\nDi sini, ko berarti oleh saya, bukan milik saya."
+          }
+        },
+        {
+          "type": "text",
+          "style": "body",
+          "sourcePage": 138,
+          "sourceLabel": "A 04",
+          "links": [],
+          "text": {
+            "sourceLanguage": "en",
+            "sourceText": "Na, nga' and ako are enclitic words.",
+            "id": "A 04 · halaman PDF 138\n\nNa, nga' dan ako merupakan kata enklitik."
+          }
+        },
+        {
+          "type": "text",
+          "style": "body",
+          "sourcePage": 143,
+          "sourceLabel": "A 09",
+          "links": [],
+          "text": {
+            "sourceLanguage": "en",
+            "sourceText": "Ikaw talaga – You're really so... or This is so typical of you.",
+            "id": "A 09 · halaman PDF 143\n\nIkaw talaga – Kamu benar-benar... atau Ini tipikal kamu."
+          }
+        },
+        {
+          "type": "text",
+          "style": "body",
+          "sourcePage": 148,
+          "sourceLabel": "B 02",
+          "links": [],
+          "text": {
+            "sourceLanguage": "en",
+            "sourceText": "Nasa taas or nasa itaas means upstairs, higher up or at the top.",
+            "id": "B 02 · halaman PDF 148\n\nNasa taas atau nasa itaas berarti di lantai atas, lebih tinggi, atau di bagian atas."
+          }
+        },
+        {
+          "type": "text",
+          "style": "body",
+          "sourcePage": 149,
+          "sourceLabel": "B 03",
+          "links": [],
+          "text": {
+            "sourceLanguage": "en",
+            "sourceText": "Nasa baba' or nasa ibaba' means downstairs, lower down or at the bottom.",
+            "id": "B 03 · halaman PDF 149\n\nNasa baba' atau nasa ibaba' berarti di lantai bawah, lebih rendah, atau di bagian bawah."
+          }
+        },
+        {
+          "type": "text",
+          "style": "body",
+          "sourcePage": 151,
+          "sourceLabel": "B 05",
+          "links": [],
+          "text": {
+            "sourceLanguage": "en",
+            "sourceText": "Nandiyan means is/are/was/were there (near you).",
+            "id": "B 05 · halaman PDF 151\n\nNandiyan artinya sedang/sedang/dulu/berada di sana (di dekat Anda)."
+          }
+        },
+        {
+          "type": "text",
+          "style": "body",
+          "sourcePage": 152,
+          "sourceLabel": "B 06",
+          "links": [
+            "https://learningtagalog.com/grammar/other_describing_words/expressing_location/nandito_nandiyan_nandoon.html"
+          ],
+          "text": {
+            "sourceLanguage": "en",
+            "sourceText": "Nandoon means is/are/was/were over there (far from you and me).",
+            "id": "B 06 · halaman PDF 152\n\nNandoon artinya adalah/adalah/dulu/berada di sana (jauh dari Anda dan saya)."
+          }
+        },
+        {
+          "type": "text",
+          "style": "body",
+          "sourcePage": 152,
+          "sourceLabel": "B 06",
+          "links": [
+            "https://learningtagalog.com/grammar/other_describing_words/expressing_location/nandito_nandiyan_nandoon.html"
+          ],
+          "text": {
+            "sourceLanguage": "en",
+            "sourceText": "Optional reading: Nandito, nandiyan, nandoon.",
+            "id": "B 06 · halaman PDF 152\n\nBacaan opsional: Nandito, nandiyan, nandoon."
+          }
+        }
+      ]
+    },
+    {
+      "id": "grammar",
+      "type": "GRAMMAR",
+      "title": {
+        "sourceLanguage": "mixed",
+        "sourceText": "Grammar and pronunciation notes",
+        "id": "Catatan tata bahasa dan pelafalan"
+      },
+      "blocks": [
+        {
+          "type": "text",
+          "style": "body",
+          "sourcePage": 141,
+          "sourceLabel": "A 07",
+          "links": [],
+          "text": {
+            "sourceLanguage": "en",
+            "sourceText": "Nasa indicates where someone or something is.",
+            "id": "A 07 · halaman PDF 141\n\nNasa menunjukkan di mana seseorang atau sesuatu berada."
+          }
+        },
+        {
+          "type": "text",
+          "style": "body",
+          "sourcePage": 142,
+          "sourceLabel": "A 08",
+          "links": [],
+          "text": {
+            "sourceLanguage": "en",
+            "sourceText": "Ng is a Ng marker.",
+            "id": "A 08 · halaman PDF 142\n\nNg adalah penanda Ng."
+          }
+        },
+        {
+          "type": "text",
+          "style": "body",
+          "sourcePage": 147,
+          "sourceLabel": "B 01",
+          "links": [],
+          "text": {
+            "sourceLanguage": "en",
+            "sourceText": "Mo is a Ng pronoun. Ng pronouns generally have the same roles in a sentence as phrases introduced by a Ng marker.",
+            "id": "B 01 · halaman PDF 147\n\nMo adalah kata ganti Ng. Kata ganti Ng umumnya memiliki peran yang sama dalam sebuah kalimat seperti frasa yang diperkenalkan oleh penanda Ng."
+          }
+        }
+      ]
+    },
+    {
+      "id": "examples",
+      "type": "EXAMPLES",
+      "title": {
+        "sourceLanguage": "mixed",
+        "sourceText": "Literal and natural translations",
+        "id": "Contoh dengan glosa harfiah dan alami"
+      },
+      "blocks": [
+        {
+          "type": "example",
+          "title": {
+            "sourceLanguage": "mixed",
+            "sourceText": "A 01",
+            "id": "A 01 · halaman PDF 135"
+          },
+          "sourcePage": 135,
+          "rows": [
+            {
+              "cells": [
+                {
+                  "sourceLanguage": "fil",
+                  "sourceText": "Ang sapatos",
+                  "id": "Sepatu",
+                  "tagalog": "Ang sapatos"
+                },
+                {
+                  "sourceLanguage": "en",
+                  "sourceText": "The shoes",
+                  "id": "Glosa harfiah (Inggris)\nThe shoes"
+                },
+                {
+                  "sourceLanguage": "en",
+                  "sourceText": "The shoes",
+                  "id": "Terjemahan alami sumber (Inggris)\nThe shoes"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "example",
+          "title": {
+            "sourceLanguage": "mixed",
+            "sourceText": "A 02",
+            "id": "A 02 · halaman PDF 136"
+          },
+          "sourcePage": 136,
+          "rows": [
+            {
+              "cells": [
+                {
+                  "sourceLanguage": "fil",
+                  "sourceText": "Nasaan ang sapatos ko?",
+                  "id": "Di mana sepatuku?",
+                  "tagalog": "Nasaan ang sapatos ko?"
+                },
+                {
+                  "sourceLanguage": "en",
+                  "sourceText": "Where are the shoes my?",
+                  "id": "Glosa harfiah (Inggris)\nWhere are the shoes my?"
+                },
+                {
+                  "sourceLanguage": "en",
+                  "sourceText": "Where are my shoes?",
+                  "id": "Terjemahan alami sumber (Inggris)\nWhere are my shoes?"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "example",
+          "title": {
+            "sourceLanguage": "mixed",
+            "sourceText": "A 03",
+            "id": "A 03 · halaman PDF 137"
+          },
+          "sourcePage": 137,
+          "rows": [
+            {
+              "cells": [
+                {
+                  "sourceLanguage": "fil",
+                  "sourceText": "Ewan ko. Bakit? Lalabas ka ba?",
+                  "id": "Aku tidak tahu. Mengapa? Apakah kamu akan keluar?",
+                  "tagalog": "Ewan ko. Bakit? Lalabas ka ba?"
+                },
+                {
+                  "sourceLanguage": "en",
+                  "sourceText": "Not known by me. Why? Will go out you [question]?",
+                  "id": "Glosa harfiah (Inggris)\nNot known by me. Why? Will go out you [question]?"
+                },
+                {
+                  "sourceLanguage": "en",
+                  "sourceText": "I don't know. Why? Are you going out?",
+                  "id": "Terjemahan alami sumber (Inggris)\nI don't know. Why? Are you going out?"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "example",
+          "title": {
+            "sourceLanguage": "mixed",
+            "sourceText": "A 04",
+            "id": "A 04 · halaman PDF 138"
+          },
+          "sourcePage": 138,
+          "rows": [
+            {
+              "cells": [
+                {
+                  "sourceLanguage": "fil",
+                  "sourceText": "Oo, may basketball ako. Late na nga' ako e.",
+                  "id": "Ya, saya ada latihan basket. Sebenarnya saya sudah terlambat.",
+                  "tagalog": "Oo, may basketball ako. Late na nga' ako e."
+                },
+                {
+                  "sourceLanguage": "en",
+                  "sourceText": "Yes, have basketball I. Late already in fact I you see.",
+                  "id": "Glosa harfiah (Inggris)\nYes, have basketball I. Late already in fact I you see."
+                },
+                {
+                  "sourceLanguage": "en",
+                  "sourceText": "Yes, I have basketball. And actually, I'm already late.",
+                  "id": "Terjemahan alami sumber (Inggris)\nYes, I have basketball. And actually, I'm already late."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "example",
+          "title": {
+            "sourceLanguage": "mixed",
+            "sourceText": "A 05",
+            "id": "A 05 · halaman PDF 139"
+          },
+          "sourcePage": 139,
+          "rows": [
+            {
+              "cells": [
+                {
+                  "sourceLanguage": "fil",
+                  "sourceText": "Kumain ka na?",
+                  "id": "Apa kamu sudah makan?",
+                  "tagalog": "Kumain ka na?"
+                },
+                {
+                  "sourceLanguage": "en",
+                  "sourceText": "Ate you already?",
+                  "id": "Glosa harfiah (Inggris)\nAte you already?"
+                },
+                {
+                  "sourceLanguage": "en",
+                  "sourceText": "Have you eaten?",
+                  "id": "Terjemahan alami sumber (Inggris)\nHave you eaten?"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "example",
+          "title": {
+            "sourceLanguage": "mixed",
+            "sourceText": "A 06",
+            "id": "A 06 · halaman PDF 140"
+          },
+          "sourcePage": 140,
+          "rows": [
+            {
+              "cells": [
+                {
+                  "sourceLanguage": "fil",
+                  "sourceText": "Oo, tapos na.",
+                  "id": "Ya, saya sudah selesai.",
+                  "tagalog": "Oo, tapos na."
+                },
+                {
+                  "sourceLanguage": "en",
+                  "sourceText": "Yes, done now.",
+                  "id": "Glosa harfiah (Inggris)\nYes, done now."
+                },
+                {
+                  "sourceLanguage": "en",
+                  "sourceText": "Yes, I'm done.",
+                  "id": "Terjemahan alami sumber (Inggris)\nYes, I'm done."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "example",
+          "title": {
+            "sourceLanguage": "mixed",
+            "sourceText": "A 07",
+            "id": "A 07 · halaman PDF 141"
+          },
+          "sourcePage": 141,
+          "rows": [
+            {
+              "cells": [
+                {
+                  "sourceLanguage": "fil",
+                  "sourceText": "Siguro nasa sala ang sapatos mo.",
+                  "id": "Mungkin sepatu Anda ada di ruang tamu.",
+                  "tagalog": "Siguro nasa sala ang sapatos mo."
+                },
+                {
+                  "sourceLanguage": "en",
+                  "sourceText": "Maybe are in living room the shoes your.",
+                  "id": "Glosa harfiah (Inggris)\nMaybe are in living room the shoes your."
+                },
+                {
+                  "sourceLanguage": "en",
+                  "sourceText": "Maybe your shoes are in the living room.",
+                  "id": "Terjemahan alami sumber (Inggris)\nMaybe your shoes are in the living room."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "example",
+          "title": {
+            "sourceLanguage": "mixed",
+            "sourceText": "A 08",
+            "id": "A 08 · halaman PDF 142"
+          },
+          "sourcePage": 142,
+          "rows": [
+            {
+              "cells": [
+                {
+                  "sourceLanguage": "fil",
+                  "sourceText": "Ay, tama' ka. Alam ko na. Nasa ilalim ng sofa.",
+                  "id": "Oh, kamu benar. Saya tahu sekarang. Mereka ada di bawah sofa.",
+                  "tagalog": "Ay, tama' ka. Alam ko na. Nasa ilalim ng sofa."
+                },
+                {
+                  "sourceLanguage": "en",
+                  "sourceText": "Oh, right you. Known by me now. Are in place beneath of sofa.",
+                  "id": "Glosa harfiah (Inggris)\nOh, right you. Known by me now. Are in place beneath of sofa."
+                },
+                {
+                  "sourceLanguage": "en",
+                  "sourceText": "Oh, you're right. I know now. They're under the sofa.",
+                  "id": "Terjemahan alami sumber (Inggris)\nOh, you're right. I know now. They're under the sofa."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "example",
+          "title": {
+            "sourceLanguage": "mixed",
+            "sourceText": "A 09",
+            "id": "A 09 · halaman PDF 143"
+          },
+          "sourcePage": 143,
+          "rows": [
+            {
+              "cells": [
+                {
+                  "sourceLanguage": "fil",
+                  "sourceText": "Ikaw talaga...",
+                  "id": "Kamu sungguh sangat...",
+                  "tagalog": "Ikaw talaga..."
+                },
+                {
+                  "sourceLanguage": "en",
+                  "sourceText": "You really...",
+                  "id": "Glosa harfiah (Inggris)\nYou really..."
+                },
+                {
+                  "sourceLanguage": "en",
+                  "sourceText": "You're really so...",
+                  "id": "Terjemahan alami sumber (Inggris)\nYou're really so..."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "example",
+          "title": {
+            "sourceLanguage": "mixed",
+            "sourceText": "A 10",
+            "id": "A 10 · halaman PDF 144"
+          },
+          "sourcePage": 144,
+          "rows": [
+            {
+              "cells": [
+                {
+                  "sourceLanguage": "fil",
+                  "sourceText": "Aalis na ako.",
+                  "id": "Aku berangkat. (Saya akan pergi sekarang.)",
+                  "tagalog": "Aalis na ako."
+                },
+                {
+                  "sourceLanguage": "en",
+                  "sourceText": "Will leave now I.",
+                  "id": "Glosa harfiah (Inggris)\nWill leave now I."
+                },
+                {
+                  "sourceLanguage": "en",
+                  "sourceText": "I'm off. (I'll leave now.)",
+                  "id": "Terjemahan alami sumber (Inggris)\nI'm off. (I'll leave now.)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "example",
+          "title": {
+            "sourceLanguage": "mixed",
+            "sourceText": "A 11",
+            "id": "A 11 · halaman PDF 145"
+          },
+          "sourcePage": 145,
+          "rows": [
+            {
+              "cells": [
+                {
+                  "sourceLanguage": "fil",
+                  "sourceText": "Sige.",
+                  "id": "Oke.",
+                  "tagalog": "Sige."
+                },
+                {
+                  "sourceLanguage": "en",
+                  "sourceText": "OK.",
+                  "id": "Glosa harfiah (Inggris)\nOK."
+                },
+                {
+                  "sourceLanguage": "en",
+                  "sourceText": "OK.",
+                  "id": "Terjemahan alami sumber (Inggris)\nOK."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "example",
+          "title": {
+            "sourceLanguage": "mixed",
+            "sourceText": "B 01",
+            "id": "B 01 · halaman PDF 147"
+          },
+          "sourcePage": 147,
+          "rows": [
+            {
+              "cells": [
+                {
+                  "sourceLanguage": "fil",
+                  "sourceText": "Nasaan ang payong mo?",
+                  "id": "Di mana payungmu?",
+                  "tagalog": "Nasaan ang payong mo?"
+                },
+                {
+                  "sourceLanguage": "en",
+                  "sourceText": "Where is the umbrella your?",
+                  "id": "Glosa harfiah (Inggris)\nWhere is the umbrella your?"
+                },
+                {
+                  "sourceLanguage": "en",
+                  "sourceText": "Where's your umbrella?",
+                  "id": "Terjemahan alami sumber (Inggris)\nWhere's your umbrella?"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "example",
+          "title": {
+            "sourceLanguage": "mixed",
+            "sourceText": "B 02",
+            "id": "B 02 · halaman PDF 148"
+          },
+          "sourcePage": 148,
+          "rows": [
+            {
+              "cells": [
+                {
+                  "sourceLanguage": "fil",
+                  "sourceText": "Nasa taas.",
+                  "id": "Di atas.",
+                  "tagalog": "Nasa taas."
+                },
+                {
+                  "sourceLanguage": "en",
+                  "sourceText": "Is in place above.",
+                  "id": "Glosa harfiah (Inggris)\nIs in place above."
+                },
+                {
+                  "sourceLanguage": "en",
+                  "sourceText": "Upstairs.",
+                  "id": "Terjemahan alami sumber (Inggris)\nUpstairs."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "example",
+          "title": {
+            "sourceLanguage": "mixed",
+            "sourceText": "B 03",
+            "id": "B 03 · halaman PDF 149"
+          },
+          "sourcePage": 149,
+          "rows": [
+            {
+              "cells": [
+                {
+                  "sourceLanguage": "fil",
+                  "sourceText": "Nasa baba'.",
+                  "id": "Di bawah.",
+                  "tagalog": "Nasa baba'."
+                },
+                {
+                  "sourceLanguage": "en",
+                  "sourceText": "Is in place below.",
+                  "id": "Glosa harfiah (Inggris)\nIs in place below."
+                },
+                {
+                  "sourceLanguage": "en",
+                  "sourceText": "Downstairs.",
+                  "id": "Terjemahan alami sumber (Inggris)\nDownstairs."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "example",
+          "title": {
+            "sourceLanguage": "mixed",
+            "sourceText": "B 04",
+            "id": "B 04 · halaman PDF 150"
+          },
+          "sourcePage": 150,
+          "rows": [
+            {
+              "cells": [
+                {
+                  "sourceLanguage": "fil",
+                  "sourceText": "Nandito sa likod ng pinto'.",
+                  "id": "Itu di sini, di balik pintu.",
+                  "tagalog": "Nandito sa likod ng pinto'."
+                },
+                {
+                  "sourceLanguage": "en",
+                  "sourceText": "Is here at back of door.",
+                  "id": "Glosa harfiah (Inggris)\nIs here at back of door."
+                },
+                {
+                  "sourceLanguage": "en",
+                  "sourceText": "It's here, behind the door.",
+                  "id": "Terjemahan alami sumber (Inggris)\nIt's here, behind the door."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "example",
+          "title": {
+            "sourceLanguage": "mixed",
+            "sourceText": "B 05",
+            "id": "B 05 · halaman PDF 151"
+          },
+          "sourcePage": 151,
+          "rows": [
+            {
+              "cells": [
+                {
+                  "sourceLanguage": "fil",
+                  "sourceText": "Nandiyan sa tabi ng silya.",
+                  "id": "Itu di sana, di sebelah kursi.",
+                  "tagalog": "Nandiyan sa tabi ng silya."
+                },
+                {
+                  "sourceLanguage": "en",
+                  "sourceText": "Is there (near you) on side of chair.",
+                  "id": "Glosa harfiah (Inggris)\nIs there (near you) on side of chair."
+                },
+                {
+                  "sourceLanguage": "en",
+                  "sourceText": "It's there, next to the chair.",
+                  "id": "Terjemahan alami sumber (Inggris)\nIt's there, next to the chair."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "example",
+          "title": {
+            "sourceLanguage": "mixed",
+            "sourceText": "B 06",
+            "id": "B 06 · halaman PDF 152"
+          },
+          "sourcePage": 152,
+          "rows": [
+            {
+              "cells": [
+                {
+                  "sourceLanguage": "fil",
+                  "sourceText": "Nandoon sa lamesa.",
+                  "id": "Itu ada di sana, di atas meja.",
+                  "tagalog": "Nandoon sa lamesa."
+                },
+                {
+                  "sourceLanguage": "en",
+                  "sourceText": "Is over there on table.",
+                  "id": "Glosa harfiah (Inggris)\nIs over there on table."
+                },
+                {
+                  "sourceLanguage": "en",
+                  "sourceText": "It's over there, on the table.",
+                  "id": "Terjemahan alami sumber (Inggris)\nIt's over there, on the table."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "example",
+          "title": {
+            "sourceLanguage": "mixed",
+            "sourceText": "B 07",
+            "id": "B 07 · halaman PDF 153"
+          },
+          "sourcePage": 153,
+          "rows": [
+            {
+              "cells": [
+                {
+                  "sourceLanguage": "fil",
+                  "sourceText": "Nasa labas yata'.",
+                  "id": "Itu di luar, menurutku.",
+                  "tagalog": "Nasa labas yata'."
+                },
+                {
+                  "sourceLanguage": "en",
+                  "sourceText": "Is in outside maybe.",
+                  "id": "Glosa harfiah (Inggris)\nIs in outside maybe."
+                },
+                {
+                  "sourceLanguage": "en",
+                  "sourceText": "It's outside, I think.",
+                  "id": "Terjemahan alami sumber (Inggris)\nIt's outside, I think."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "example",
+          "title": {
+            "sourceLanguage": "mixed",
+            "sourceText": "B 08",
+            "id": "B 08 · halaman PDF 154"
+          },
+          "sourcePage": 154,
+          "rows": [
+            {
+              "cells": [
+                {
+                  "sourceLanguage": "fil",
+                  "sourceText": "Nasa loob ng kotse.",
+                  "id": "Itu ada di dalam mobil.",
+                  "tagalog": "Nasa loob ng kotse."
+                },
+                {
+                  "sourceLanguage": "en",
+                  "sourceText": "Is in inside of car.",
+                  "id": "Glosa harfiah (Inggris)\nIs in inside of car."
+                },
+                {
+                  "sourceLanguage": "en",
+                  "sourceText": "It's in the car.",
+                  "id": "Terjemahan alami sumber (Inggris)\nIt's in the car."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "exercises",
+      "type": "EXERCISES",
+      "title": {
+        "sourceLanguage": "mixed",
+        "sourceText": "Drills",
+        "id": "Latihan pola"
+      },
+      "blocks": [
+        {
+          "type": "exercise",
+          "role": "instruction",
+          "text": {
+            "sourceLanguage": "mixed",
+            "sourceText": "Drills",
+            "id": "Latihan pola (Drills)"
+          },
+          "sourcePage": 146
+        },
+        {
+          "type": "exercise",
+          "role": "content",
+          "title": {
+            "sourceLanguage": "mixed",
+            "sourceText": "A 11",
+            "id": "A 11 · halaman PDF 145"
+          },
+          "sourcePage": 145,
+          "text": {
+            "sourceLanguage": "fil",
+            "sourceText": "Sige.",
+            "id": "Oke.",
+            "tagalog": "Sige."
+          }
+        },
+        {
+          "type": "exercise",
+          "role": "content",
+          "title": {
+            "sourceLanguage": "mixed",
+            "sourceText": "B 01",
+            "id": "B 01 · halaman PDF 147"
+          },
+          "sourcePage": 147,
+          "text": {
+            "sourceLanguage": "fil",
+            "sourceText": "Nasaan ang payong mo?",
+            "id": "Di mana payungmu?",
+            "tagalog": "Nasaan ang payong mo?"
+          }
+        },
+        {
+          "type": "exercise",
+          "role": "content",
+          "title": {
+            "sourceLanguage": "mixed",
+            "sourceText": "B 02",
+            "id": "B 02 · halaman PDF 148"
+          },
+          "sourcePage": 148,
+          "text": {
+            "sourceLanguage": "fil",
+            "sourceText": "Nasa taas.",
+            "id": "Di atas.",
+            "tagalog": "Nasa taas."
+          }
+        },
+        {
+          "type": "exercise",
+          "role": "content",
+          "title": {
+            "sourceLanguage": "mixed",
+            "sourceText": "B 03",
+            "id": "B 03 · halaman PDF 149"
+          },
+          "sourcePage": 149,
+          "text": {
+            "sourceLanguage": "fil",
+            "sourceText": "Nasa baba'.",
+            "id": "Di bawah.",
+            "tagalog": "Nasa baba'."
+          }
+        },
+        {
+          "type": "exercise",
+          "role": "content",
+          "title": {
+            "sourceLanguage": "mixed",
+            "sourceText": "B 04",
+            "id": "B 04 · halaman PDF 150"
+          },
+          "sourcePage": 150,
+          "text": {
+            "sourceLanguage": "fil",
+            "sourceText": "Nandito sa likod ng pinto'.",
+            "id": "Itu di sini, di balik pintu.",
+            "tagalog": "Nandito sa likod ng pinto'."
+          }
+        },
+        {
+          "type": "exercise",
+          "role": "content",
+          "title": {
+            "sourceLanguage": "mixed",
+            "sourceText": "B 05",
+            "id": "B 05 · halaman PDF 151"
+          },
+          "sourcePage": 151,
+          "text": {
+            "sourceLanguage": "fil",
+            "sourceText": "Nandiyan sa tabi ng silya.",
+            "id": "Itu di sana, di sebelah kursi.",
+            "tagalog": "Nandiyan sa tabi ng silya."
+          }
+        },
+        {
+          "type": "exercise",
+          "role": "content",
+          "title": {
+            "sourceLanguage": "mixed",
+            "sourceText": "B 06",
+            "id": "B 06 · halaman PDF 152"
+          },
+          "sourcePage": 152,
+          "text": {
+            "sourceLanguage": "fil",
+            "sourceText": "Nandoon sa lamesa.",
+            "id": "Itu ada di sana, di atas meja.",
+            "tagalog": "Nandoon sa lamesa."
+          }
+        },
+        {
+          "type": "exercise",
+          "role": "content",
+          "title": {
+            "sourceLanguage": "mixed",
+            "sourceText": "B 07",
+            "id": "B 07 · halaman PDF 153"
+          },
+          "sourcePage": 153,
+          "text": {
+            "sourceLanguage": "fil",
+            "sourceText": "Nasa labas yata'.",
+            "id": "Itu di luar, menurutku.",
+            "tagalog": "Nasa labas yata'."
+          }
+        },
+        {
+          "type": "exercise",
+          "role": "content",
+          "title": {
+            "sourceLanguage": "mixed",
+            "sourceText": "B 08",
+            "id": "B 08 · halaman PDF 154"
+          },
+          "sourcePage": 154,
+          "text": {
+            "sourceLanguage": "fil",
+            "sourceText": "Nasa loob ng kotse.",
+            "id": "Itu ada di dalam mobil.",
+            "tagalog": "Nasa loob ng kotse."
+          }
+        }
+      ]
+    },
+    {
+      "id": "summary",
+      "type": "SUMMARY",
+      "title": {
+        "sourceLanguage": "mixed",
+        "sourceText": "Ang sapatos",
+        "id": "Ringkasan bab"
+      },
+      "blocks": [
+        {
+          "type": "text",
+          "style": "heading",
+          "text": {
+            "sourceLanguage": "mixed",
+            "sourceText": "Story A",
+            "id": "Dialog utama"
+          }
+        },
+        {
+          "type": "list",
+          "style": "outline",
+          "items": [
+            {
+              "sourceLanguage": "fil",
+              "sourceText": "Ang sapatos",
+              "id": "Sepatu",
+              "tagalog": "Ang sapatos"
+            },
+            {
+              "sourceLanguage": "fil",
+              "sourceText": "Nasaan ang sapatos ko?",
+              "id": "Di mana sepatuku?",
+              "tagalog": "Nasaan ang sapatos ko?"
+            },
+            {
+              "sourceLanguage": "fil",
+              "sourceText": "Ewan ko. Bakit? Lalabas ka ba?",
+              "id": "Aku tidak tahu. Mengapa? Apakah kamu akan keluar?",
+              "tagalog": "Ewan ko. Bakit? Lalabas ka ba?"
+            },
+            {
+              "sourceLanguage": "fil",
+              "sourceText": "Oo, may basketball ako. Late na nga' ako e.",
+              "id": "Ya, saya ada latihan basket. Sebenarnya saya sudah terlambat.",
+              "tagalog": "Oo, may basketball ako. Late na nga' ako e."
+            },
+            {
+              "sourceLanguage": "fil",
+              "sourceText": "Kumain ka na?",
+              "id": "Apa kamu sudah makan?",
+              "tagalog": "Kumain ka na?"
+            },
+            {
+              "sourceLanguage": "fil",
+              "sourceText": "Oo, tapos na.",
+              "id": "Ya, saya sudah selesai.",
+              "tagalog": "Oo, tapos na."
+            },
+            {
+              "sourceLanguage": "fil",
+              "sourceText": "Siguro nasa sala ang sapatos mo.",
+              "id": "Mungkin sepatu Anda ada di ruang tamu.",
+              "tagalog": "Siguro nasa sala ang sapatos mo."
+            },
+            {
+              "sourceLanguage": "fil",
+              "sourceText": "Ay, tama' ka. Alam ko na. Nasa ilalim ng sofa.",
+              "id": "Oh, kamu benar. Saya tahu sekarang. Mereka ada di bawah sofa.",
+              "tagalog": "Ay, tama' ka. Alam ko na. Nasa ilalim ng sofa."
+            },
+            {
+              "sourceLanguage": "fil",
+              "sourceText": "Ikaw talaga...",
+              "id": "Kamu sungguh sangat...",
+              "tagalog": "Ikaw talaga..."
+            },
+            {
+              "sourceLanguage": "fil",
+              "sourceText": "Aalis na ako.",
+              "id": "Aku berangkat. (Saya akan pergi sekarang.)",
+              "tagalog": "Aalis na ako."
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "style": "heading",
+          "text": {
+            "sourceLanguage": "mixed",
+            "sourceText": "Drills",
+            "id": "Latihan pola"
+          }
+        },
+        {
+          "type": "list",
+          "style": "outline",
+          "items": [
+            {
+              "sourceLanguage": "fil",
+              "sourceText": "Sige.",
+              "id": "Oke.",
+              "tagalog": "Sige."
+            },
+            {
+              "sourceLanguage": "fil",
+              "sourceText": "Nasaan ang payong mo?",
+              "id": "Di mana payungmu?",
+              "tagalog": "Nasaan ang payong mo?"
+            },
+            {
+              "sourceLanguage": "fil",
+              "sourceText": "Nasa taas.",
+              "id": "Di atas.",
+              "tagalog": "Nasa taas."
+            },
+            {
+              "sourceLanguage": "fil",
+              "sourceText": "Nasa baba'.",
+              "id": "Di bawah.",
+              "tagalog": "Nasa baba'."
+            },
+            {
+              "sourceLanguage": "fil",
+              "sourceText": "Nandito sa likod ng pinto'.",
+              "id": "Itu di sini, di balik pintu.",
+              "tagalog": "Nandito sa likod ng pinto'."
+            },
+            {
+              "sourceLanguage": "fil",
+              "sourceText": "Nandiyan sa tabi ng silya.",
+              "id": "Itu di sana, di sebelah kursi.",
+              "tagalog": "Nandiyan sa tabi ng silya."
+            },
+            {
+              "sourceLanguage": "fil",
+              "sourceText": "Nandoon sa lamesa.",
+              "id": "Itu ada di sana, di atas meja.",
+              "tagalog": "Nandoon sa lamesa."
+            },
+            {
+              "sourceLanguage": "fil",
+              "sourceText": "Nasa labas yata'.",
+              "id": "Itu di luar, menurutku.",
+              "tagalog": "Nasa labas yata'."
+            },
+            {
+              "sourceLanguage": "fil",
+              "sourceText": "Nasa loob ng kotse.",
+              "id": "Itu ada di dalam mobil.",
+              "tagalog": "Nasa loob ng kotse."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "contentAudit": {
+    "sourcePages": 22,
+    "phrasePages": 19,
+    "storyPhrases": 10,
+    "drillPhrases": 9,
+    "noteBlocks": 15,
+    "vocabularyEntries": 49,
+    "sourceTextItemsBefore": 73,
+    "sourceTextItemsAfter": 73,
+    "recapVerified": true,
+    "imageCount": 1
+  }
+}

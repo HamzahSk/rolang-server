@@ -7,7 +7,6 @@ import argparse
 import hashlib
 import json
 import re
-from collections import Counter
 from pathlib import Path
 from typing import Any
 
@@ -96,6 +95,8 @@ def validate_sections(document: dict[str, Any], course_dir: Path, known_assets: 
             block_where = f"{where}.blocks[{block_index}]"
             if block_index > 0 and block == blocks[block_index - 1]:
                 fail(f"Adjacent duplicate block: {block_where}")
+            if "title" in block:
+                lesson_text(block["title"], f"{block_where}.title")
             if block.get("type") == "text":
                 lesson_text(block.get("text"), block_where)
             elif block.get("type") == "table":
@@ -115,8 +116,6 @@ def validate_sections(document: dict[str, Any], course_dir: Path, known_assets: 
             elif block.get("type") == "vocabulary":
                 if section_type != "VOCABULARY":
                     fail(f"Vocabulary block outside vocabulary section: {block_where}")
-                if "title" in block:
-                    lesson_text(block["title"], f"{block_where}.title")
                 entries = block.get("entries")
                 if not isinstance(entries, list) or not entries:
                     fail(f"Empty vocabulary group: {block_where}")
@@ -176,84 +175,152 @@ def validate(root: Path) -> tuple[int, int, int]:
     lesson_index_path = verify_hash(root, root, manifest.get("lessons", {}))
     lesson_index = load(lesson_index_path)
     courses = lesson_index.get("courses")
-    if not isinstance(courses, list) or len(courses) != 1:
-        fail("Exactly one course is required")
-    course_path = verify_hash(root, lesson_index_path.parent, courses[0])
-    course = load(course_path)
-    course_dir = course_path.parent
-    if course.get("languagePair") != {"reference": "id", "target": "fil"}:
-        fail("Course must be Indonesian -> Filipino")
-    asset_index_path = verify_hash(root, course_dir, course.get("assetIndex", {}))
-    audit_path = verify_hash(root, course_dir, course.get("sourceAudit", {}))
-    asset_index = load(asset_index_path)
-    inventory = asset_index.get("assets")
-    if not isinstance(inventory, list) or asset_index.get("count") != len(inventory):
-        fail("Invalid asset inventory")
-    known_assets: set[str] = set()
-    for reference in inventory:
-        path = verify_hash(root, course_dir, reference)
-        relative = path.relative_to(course_dir).as_posix()
-        if relative in known_assets:
-            fail(f"Duplicate asset: {relative}")
-        known_assets.add(relative)
-        if reference.get("bytes") != path.stat().st_size or reference.get("mediaType") != "image/jpeg":
-            fail(f"Invalid asset metadata: {relative}")
+    if not isinstance(courses, list) or not courses:
+        fail("At least one course is required")
+    course_ids = [reference.get("id") for reference in courses]
+    if len(set(course_ids)) != len(courses):
+        fail("Course ids must be unique")
+    if [reference.get("order", index + 1) for index, reference in enumerate(courses)] != list(range(1, len(courses) + 1)):
+        fail("Course order must be contiguous")
 
-    units = course.get("units")
-    lessons = course.get("lessons")
-    if not isinstance(units, list) or len(units) != 8:
-        fail("Expected exactly 8 units")
-    if not isinstance(lessons, list) or len(lessons) != 24:
-        fail("Expected exactly 24 lessons")
-    lesson_ids = [reference.get("id") for reference in lessons]
-    if len(set(lesson_ids)) != 24 or [reference.get("order") for reference in lessons] != list(range(1, 25)):
-        fail("Lesson ids/orders must be unique and contiguous")
+    total_lessons = 0
+    total_assets = 0
+    global_lesson_ids: set[str] = set()
+    for course_reference in courses:
+        course_path = verify_hash(root, lesson_index_path.parent, course_reference)
+        course = load(course_path)
+        course_dir = course_path.parent
+        course_id = course.get("id")
+        if course_id != course_reference.get("id"):
+            fail(f"Course metadata mismatch: {course_path}")
+        if course.get("languagePair") != {"reference": "id", "target": "fil"}:
+            fail(f"Course must be Indonesian -> Filipino: {course_path}")
 
-    referenced_assets: set[str] = set()
-    for reference in units:
-        unit_path = verify_hash(root, course_dir, reference)
-        unit = load(unit_path)
-        if unit.get("id") != reference.get("id") or unit.get("courseId") != course.get("id"):
-            fail(f"Unit metadata mismatch: {unit_path}")
-        referenced_assets |= validate_sections(unit, course_dir, known_assets, unit_path.as_posix())
-    section_types: Counter[str] = Counter()
-    for reference in lessons:
-        lesson_path = verify_hash(root, course_dir, reference)
-        lesson = load(lesson_path)
-        if lesson.get("id") != reference.get("id") or lesson.get("order") != reference.get("order"):
-            fail(f"Lesson metadata mismatch: {lesson_path}")
-        if lesson.get("structureVersion") != 2:
-            fail(f"Lesson is not semantically structured: {lesson_path}")
-        content_audit = lesson.get("contentAudit")
-        if not isinstance(content_audit, dict) or content_audit.get("sourceTextItemsAfter", 0) <= 0:
-            fail(f"Lesson has no structure audit: {lesson_path}")
-        objectives = lesson.get("objectives")
-        if not isinstance(objectives, list) or not objectives:
-            fail(f"Lesson has no extracted objectives: {lesson_path}")
-        for index, objective in enumerate(objectives):
-            lesson_text(objective, f"{lesson_path}.objectives[{index}]")
-        referenced_assets |= validate_sections(lesson, course_dir, known_assets, lesson_path.as_posix())
-        section_types.update(section["type"] for section in lesson["sections"])
-    for required in ("INTRODUCTION", "VOCABULARY", "LEARNING_MATERIAL", "EXAMPLES", "EXERCISES"):
-        if section_types[required] < 24:
-            fail(f"Every lesson must include {required}")
+        asset_index_path = verify_hash(root, course_dir, course.get("assetIndex", {}))
+        audit_path = verify_hash(root, course_dir, course.get("sourceAudit", {}))
+        asset_index = load(asset_index_path)
+        inventory = asset_index.get("assets")
+        if not isinstance(inventory, list) or asset_index.get("count") != len(inventory):
+            fail(f"Invalid asset inventory: {asset_index_path}")
+        known_assets: set[str] = set()
+        for reference in inventory:
+            path = verify_hash(root, course_dir, reference)
+            relative = path.relative_to(course_dir).as_posix()
+            if relative in known_assets:
+                fail(f"Duplicate asset: {relative}")
+            known_assets.add(relative)
+            if reference.get("bytes") != path.stat().st_size or reference.get("mediaType") != "image/jpeg":
+                fail(f"Invalid asset metadata: {relative}")
+        cover = course.get("cover")
+        if cover and (cover not in known_assets or not (course_dir / safe_relative(cover)).is_file()):
+            fail(f"Invalid course cover: {cover}")
 
-    audit = load(audit_path)
-    if audit.get("lessonCount") != 24 or audit.get("unitCount") != 8 or audit.get("assetCount") != len(known_assets):
-        fail("Source audit totals do not match indexes")
-    documents = audit.get("documents")
-    if not isinstance(documents, list) or audit.get("documentCount") != 36 or len(documents) != 36:
-        fail("Expected audit entries for 4 front-matter, 8 unit, and 24 lesson XHTML files")
-    if any(not HEX_HASH.fullmatch(document.get("sha256", "")) for document in documents):
-        fail("Invalid XHTML source hash in audit")
-    if any(document.get("sourceWordCoverage", 0) < 0.97 for document in documents):
-        fail("An XHTML source has less than 97% extracted word coverage")
+        units = course.get("units")
+        lessons = course.get("lessons")
+        if not isinstance(units, list) or not units:
+            fail(f"Course has no units: {course_path}")
+        if not isinstance(lessons, list) or not lessons:
+            fail(f"Course has no lessons: {course_path}")
+        if course_reference.get("lessonCount", len(lessons)) != len(lessons):
+            fail(f"Course lesson count mismatch: {course_path}")
+        if course_reference.get("unitCount", len(units)) != len(units):
+            fail(f"Course unit count mismatch: {course_path}")
+        lesson_ids = [reference.get("id") for reference in lessons]
+        if len(set(lesson_ids)) != len(lessons) or [reference.get("order") for reference in lessons] != list(range(1, len(lessons) + 1)):
+            fail(f"Lesson ids/orders must be unique and contiguous: {course_path}")
+        if global_lesson_ids.intersection(lesson_ids):
+            fail("Lesson ids must be unique across courses")
+        global_lesson_ids.update(lesson_ids)
+
+        unit_ids = [reference.get("id") for reference in units]
+        if len(set(unit_ids)) != len(units):
+            fail(f"Duplicate unit id: {course_path}")
+        unit_lesson_ids: list[str] = []
+        referenced_assets: set[str] = set()
+        for reference in units:
+            members = reference.get("lessons")
+            if not isinstance(members, list) or not members:
+                fail(f"Unit has no lesson membership: {reference.get('id')}")
+            unit_lesson_ids.extend(members)
+            unit_path = verify_hash(root, course_dir, reference)
+            unit = load(unit_path)
+            if unit.get("id") != reference.get("id") or unit.get("courseId") != course_id:
+                fail(f"Unit metadata mismatch: {unit_path}")
+            referenced_assets |= validate_sections(unit, course_dir, known_assets, unit_path.as_posix())
+        if len(unit_lesson_ids) != len(set(unit_lesson_ids)) or set(unit_lesson_ids) != set(lesson_ids):
+            fail(f"Unit membership must cover each course lesson exactly once: {course_path}")
+
+        required_types = course.get("requiredSectionTypes", [
+            "INTRODUCTION", "VOCABULARY", "LEARNING_MATERIAL", "EXAMPLES", "EXERCISES",
+        ])
+        if not isinstance(required_types, list) or not required_types:
+            fail(f"Invalid required section types: {course_path}")
+        for reference in lessons:
+            if reference.get("unitId") not in unit_ids:
+                fail(f"Lesson references an unknown unit: {reference.get('id')}")
+            lesson_path = verify_hash(root, course_dir, reference)
+            lesson = load(lesson_path)
+            if (lesson.get("id") != reference.get("id") or lesson.get("order") != reference.get("order")
+                    or lesson.get("courseId") != course_id or lesson.get("unitId") != reference.get("unitId")):
+                fail(f"Lesson metadata mismatch: {lesson_path}")
+            if lesson.get("structureVersion") != 2:
+                fail(f"Lesson is not semantically structured: {lesson_path}")
+            content_audit = lesson.get("contentAudit")
+            if not isinstance(content_audit, dict) or content_audit.get("sourceTextItemsAfter", 0) <= 0:
+                fail(f"Lesson has no structure audit: {lesson_path}")
+            objectives = lesson.get("objectives")
+            if not isinstance(objectives, list) or not objectives:
+                fail(f"Lesson has no extracted objectives: {lesson_path}")
+            for index, objective in enumerate(objectives):
+                lesson_text(objective, f"{lesson_path}.objectives[{index}]")
+            referenced_assets |= validate_sections(lesson, course_dir, known_assets, lesson_path.as_posix())
+            present_types = {section["type"] for section in lesson["sections"]}
+            missing_types = set(required_types) - present_types
+            if missing_types:
+                fail(f"Lesson is missing sections {sorted(missing_types)}: {lesson_path}")
+
+        audit = load(audit_path)
+        if (audit.get("lessonCount") != len(lessons) or audit.get("unitCount") != len(units)
+                or audit.get("assetCount") != len(known_assets)):
+            fail(f"Source audit totals do not match indexes: {audit_path}")
+        source = audit.get("source")
+        if not isinstance(source, dict):
+            fail(f"Source audit has no source metadata: {audit_path}")
+        if source.get("epubSha256"):
+            documents = audit.get("documents")
+            if not isinstance(documents, list) or audit.get("documentCount") != len(documents):
+                fail(f"Invalid EPUB document audit: {audit_path}")
+            if any(not HEX_HASH.fullmatch(document.get("sha256", "")) for document in documents):
+                fail(f"Invalid XHTML source hash in audit: {audit_path}")
+            if any(document.get("sourceWordCoverage", 0) < 0.97 for document in documents):
+                fail(f"An XHTML source has less than 97% extracted word coverage: {audit_path}")
+        elif source.get("type") == "PDF":
+            pages = audit.get("pages")
+            page_count = source.get("pageCount")
+            if not isinstance(pages, list) or page_count != len(pages):
+                fail(f"PDF page audit count mismatch: {audit_path}")
+            if [page.get("page") for page in pages] != list(range(1, page_count + 1)):
+                fail(f"PDF page audit is not contiguous: {audit_path}")
+            if audit.get("missingPages") != [] or audit.get("duplicatePhraseLabels") != []:
+                fail(f"PDF audit reports missing or duplicate content: {audit_path}")
+            phrase_pages = sum(page.get("role") == "phrase" for page in pages)
+            if audit.get("phrasePageCount") != phrase_pages:
+                fail(f"PDF phrase page count mismatch: {audit_path}")
+            if any(not HEX_HASH.fullmatch(page.get("textSha256", "")) for page in pages):
+                fail(f"Invalid PDF page text hash: {audit_path}")
+            if sum(page.get("role") == "chapter-recap" for page in pages) != len(lessons):
+                fail(f"PDF recap coverage mismatch: {audit_path}")
+        else:
+            fail(f"Unsupported source audit type: {audit_path}")
+
+        total_lessons += len(lessons)
+        total_assets += len(known_assets)
     if manifest.get("stories") != {"path": "storie/", "status": "reserved"}:
         fail("Stories must remain reserved")
     if not (root / "storie").is_dir():
         fail("Missing storie/ reservation directory")
     json_count = len(list(root.rglob("*.json")))
-    return len(lessons), len(known_assets), json_count
+    return total_lessons, total_assets, json_count
 
 
 def main() -> None:

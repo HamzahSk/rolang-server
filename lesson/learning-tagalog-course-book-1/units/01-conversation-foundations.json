@@ -1,0 +1,53 @@
+{
+  "schemaVersion": 1,
+  "id": "course-book-1-unit-01-conversation-foundations",
+  "courseId": "learning-tagalog-course-book-1",
+  "title": {
+    "id": "Dasar percakapan",
+    "fil": "Batayang usapan"
+  },
+  "assets": [],
+  "sections": [
+    {
+      "id": "unit-overview",
+      "type": "OVERVIEW",
+      "title": {
+        "sourceLanguage": "mixed",
+        "sourceText": "Unit overview",
+        "id": "Gambaran unit"
+      },
+      "blocks": [
+        {
+          "type": "list",
+          "style": "outline",
+          "items": [
+            {
+              "sourceLanguage": "fil",
+              "sourceText": "Ang bakasyon",
+              "id": "Liburan",
+              "tagalog": "Ang bakasyon"
+            },
+            {
+              "sourceLanguage": "fil",
+              "sourceText": "Ang almusal",
+              "id": "Sarapan",
+              "tagalog": "Ang almusal"
+            },
+            {
+              "sourceLanguage": "fil",
+              "sourceText": "Kumusta?",
+              "id": "Apa kabar?",
+              "tagalog": "Kumusta?"
+            },
+            {
+              "sourceLanguage": "fil",
+              "sourceText": "Sa jeep",
+              "id": "Di dalam jeepney",
+              "tagalog": "Sa jeep"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

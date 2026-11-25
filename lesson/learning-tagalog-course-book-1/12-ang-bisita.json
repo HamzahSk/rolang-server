@@ -1,0 +1,2636 @@
+{
+  "schemaVersion": 1,
+  "structureVersion": 2,
+  "id": "learning-tagalog-course-book-1-lesson-12",
+  "courseId": "learning-tagalog-course-book-1",
+  "unitId": "course-book-1-unit-03-family-time-and-home",
+  "order": 12,
+  "level": "BEGINNER",
+  "title": {
+    "id": "Tamu",
+    "fil": "Ang bisita"
+  },
+  "summary": {
+    "id": "Mike mengunjungi Mia.",
+    "fil": "Ang bisita"
+  },
+  "objectives": [
+    {
+      "sourceLanguage": "mixed",
+      "sourceText": "Chapter 12 · Story A",
+      "id": "Memahami dialog utama Bab 12 tentang tamu."
+    },
+    {
+      "sourceLanguage": "mixed",
+      "sourceText": "Literal and natural translations",
+      "id": "Membandingkan susunan Tagalog dengan glosa harfiah dan terjemahan alami dari sumber."
+    },
+    {
+      "sourceLanguage": "mixed",
+      "sourceText": "Drills",
+      "id": "Melatih kembali pola dan ungkapan pada bagian Drills."
+    }
+  ],
+  "source": {
+    "book": "Learning Tagalog - Fluency Made Fast and Easy - Course Book 1",
+    "file": "Learning Tagalog - Fluency Made Fast and Easy - Course Book 1.pdf",
+    "pdfSha256": "52e9f464239c2ae98248a452edfbf1f58eb01bec69374a16d5205e70afa80f58",
+    "chapter": 12,
+    "pages": {
+      "start": 292,
+      "end": 317
+    },
+    "drillsDividerPage": 305,
+    "recapPage": 317
+  },
+  "sourceLinks": [],
+  "assets": [
+    "assets/12-ang-bisita.jpg"
+  ],
+  "sections": [
+    {
+      "id": "introduction",
+      "type": "INTRODUCTION",
+      "title": {
+        "sourceLanguage": "mixed",
+        "sourceText": "The guest",
+        "id": "Tamu"
+      },
+      "blocks": [
+        {
+          "type": "image",
+          "path": "assets/12-ang-bisita.jpg",
+          "sourcePage": 292
+        },
+        {
+          "type": "text",
+          "style": "heading",
+          "text": {
+            "sourceLanguage": "en",
+            "sourceText": "The guest",
+            "id": "Tamu"
+          }
+        }
+      ]
+    },
+    {
+      "id": "learning-material",
+      "type": "LEARNING_MATERIAL",
+      "title": {
+        "sourceLanguage": "mixed",
+        "sourceText": "Chapter context",
+        "id": "Konteks bab"
+      },
+      "blocks": [
+        {
+          "type": "text",
+          "style": "body",
+          "sourcePage": 292,
+          "text": {
+            "sourceLanguage": "en",
+            "sourceText": "Mike is visiting Mia.",
+            "id": "Mike mengunjungi Mia."
+          }
+        }
+      ]
+    },
+    {
+      "id": "dialogue",
+      "type": "DIALOGUE",
+      "title": {
+        "sourceLanguage": "mixed",
+        "sourceText": "Story A",
+        "id": "Dialog utama (Bagian A)"
+      },
+      "blocks": [
+        {
+          "type": "dialogue",
+          "turns": [
+            {
+              "speaker": "A 01",
+              "speakerText": {
+                "sourceLanguage": "mixed",
+                "sourceText": "A 01",
+                "id": "Bagian A 01"
+              },
+              "text": {
+                "sourceLanguage": "fil",
+                "sourceText": "Ang bisita",
+                "id": "Tamu",
+                "tagalog": "Ang bisita"
+              },
+              "sourcePage": 293
+            },
+            {
+              "speaker": "A 02",
+              "speakerText": {
+                "sourceLanguage": "mixed",
+                "sourceText": "A 02",
+                "id": "Bagian A 02"
+              },
+              "text": {
+                "sourceLanguage": "fil",
+                "sourceText": "Tao po'!",
+                "id": "Halo! Ada orang di rumah?",
+                "tagalog": "Tao po'!"
+              },
+              "sourcePage": 294
+            },
+            {
+              "speaker": "A 03",
+              "speakerText": {
+                "sourceLanguage": "mixed",
+                "sourceText": "A 03",
+                "id": "Bagian A 03"
+              },
+              "text": {
+                "sourceLanguage": "fil",
+                "sourceText": "Sino po' sila?",
+                "id": "Siapa disana? (Siapa kamu?) (sopan)",
+                "tagalog": "Sino po' sila?"
+              },
+              "sourcePage": 295
+            },
+            {
+              "speaker": "A 04",
+              "speakerText": {
+                "sourceLanguage": "mixed",
+                "sourceText": "A 04",
+                "id": "Bagian A 04"
+              },
+              "text": {
+                "sourceLanguage": "fil",
+                "sourceText": "Si Michael Ramirez po' ito.",
+                "id": "Itu Michael Ramirez. (sopan)",
+                "tagalog": "Si Michael Ramirez po' ito."
+              },
+              "sourcePage": 296
+            },
+            {
+              "speaker": "A 05",
+              "speakerText": {
+                "sourceLanguage": "mixed",
+                "sourceText": "A 05",
+                "id": "Bagian A 05"
+              },
+              "text": {
+                "sourceLanguage": "fil",
+                "sourceText": "A, ikaw lang pala, Mike. Tuloy ka!",
+                "id": "Oh, ternyata kamu, Mike. Silakan masuk!",
+                "tagalog": "A, ikaw lang pala, Mike. Tuloy ka!"
+              },
+              "sourcePage": 297
+            },
+            {
+              "speaker": "A 06",
+              "speakerText": {
+                "sourceLanguage": "mixed",
+                "sourceText": "A 06",
+                "id": "Bagian A 06"
+              },
+              "text": {
+                "sourceLanguage": "fil",
+                "sourceText": "Hello Mia. Ang laki ng bahay niyo, a!",
+                "id": "Halo Mia. Kalian (teman-teman) punya rumah yang besar!",
+                "tagalog": "Hello Mia. Ang laki ng bahay niyo, a!"
+              },
+              "sourcePage": 298
+            },
+            {
+              "speaker": "A 07",
+              "speakerText": {
+                "sourceLanguage": "mixed",
+                "sourceText": "A 07",
+                "id": "Bagian A 07"
+              },
+              "text": {
+                "sourceLanguage": "fil",
+                "sourceText": "Hindi' naman. Saan ka galing?",
+                "id": "Tidak juga. Kamu baru dari mana?",
+                "tagalog": "Hindi' naman. Saan ka galing?"
+              },
+              "sourcePage": 299
+            },
+            {
+              "speaker": "A 08",
+              "speakerText": {
+                "sourceLanguage": "mixed",
+                "sourceText": "A 08",
+                "id": "Bagian A 08"
+              },
+              "text": {
+                "sourceLanguage": "fil",
+                "sourceText": "Diyan lang. Meron pala akong dala para sa iyo.",
+                "id": "Dari dekat sini saja. Ngomong-ngomong, aku membawa sesuatu untukmu.",
+                "tagalog": "Diyan lang. Meron pala akong dala para sa iyo."
+              },
+              "sourcePage": 300
+            },
+            {
+              "speaker": "A 09",
+              "speakerText": {
+                "sourceLanguage": "mixed",
+                "sourceText": "A 09",
+                "id": "Bagian A 09"
+              },
+              "text": {
+                "sourceLanguage": "fil",
+                "sourceText": "Ang ganda ng bulaklak na ito! Salamat.",
+                "id": "Indah sekali bunga ini! Terima kasih.",
+                "tagalog": "Ang ganda ng bulaklak na ito! Salamat."
+              },
+              "sourcePage": 301
+            },
+            {
+              "speaker": "A 10",
+              "speakerText": {
+                "sourceLanguage": "mixed",
+                "sourceText": "A 10",
+                "id": "Bagian A 10"
+              },
+              "text": {
+                "sourceLanguage": "fil",
+                "sourceText": "Walang anuman.",
+                "id": "Terima kasih kembali.",
+                "tagalog": "Walang anuman."
+              },
+              "sourcePage": 302
+            },
+            {
+              "speaker": "A 11",
+              "speakerText": {
+                "sourceLanguage": "mixed",
+                "sourceText": "A 11",
+                "id": "Bagian A 11"
+              },
+              "text": {
+                "sourceLanguage": "fil",
+                "sourceText": "Gusto mo bang uminom ng Coke?",
+                "id": "Apakah Anda ingin minum Coke?",
+                "tagalog": "Gusto mo bang uminom ng Coke?"
+              },
+              "sourcePage": 303
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "vocabulary",
+      "type": "VOCABULARY",
+      "title": {
+        "sourceLanguage": "mixed",
+        "sourceText": "Vocabulary and expressions",
+        "id": "Kosakata dan ungkapan"
+      },
+      "blocks": [
+        {
+          "type": "vocabulary",
+          "entries": [
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "Ang",
+                "id": "penanda definit",
+                "tagalog": "Ang"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "The",
+                "id": "penanda definit"
+              },
+              "sourcePage": 293
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "bisita",
+                "id": "Tamu",
+                "tagalog": "bisita"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "guest",
+                "id": "Tamu"
+              },
+              "sourcePage": 293
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "Tao",
+                "id": "Orang",
+                "tagalog": "Tao"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "Person",
+                "id": "Orang"
+              },
+              "sourcePage": 294
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "po'!",
+                "id": "[sopan]!",
+                "tagalog": "po'!"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "[polite]!",
+                "id": "[sopan]!"
+              },
+              "sourcePage": 294
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "Sino",
+                "id": "Siapa",
+                "tagalog": "Sino"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "Who",
+                "id": "Siapa"
+              },
+              "sourcePage": 295
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "sila?",
+                "id": "Kamu (sangat sopan)?",
+                "tagalog": "sila?"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "you (very polite)?",
+                "id": "Kamu (sangat sopan)?"
+              },
+              "sourcePage": 295
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "Si",
+                "id": "[penanda ang]",
+                "tagalog": "Si"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "[Ang marker]",
+                "id": "[penanda ang]"
+              },
+              "sourcePage": 296
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "Michael",
+                "id": "Michael",
+                "tagalog": "Michael"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "Michael",
+                "id": "Michael"
+              },
+              "sourcePage": 296
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "Ramirez",
+                "id": "Ramirez",
+                "tagalog": "Ramirez"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "Ramirez",
+                "id": "Ramirez"
+              },
+              "sourcePage": 296
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "ito.",
+                "id": "Ini.",
+                "tagalog": "ito."
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "this.",
+                "id": "Ini."
+              },
+              "sourcePage": 296
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "A,",
+                "id": "Ah,",
+                "tagalog": "A,"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "Ah,",
+                "id": "Ah,"
+              },
+              "sourcePage": 297
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "ikaw",
+                "id": "kamu",
+                "tagalog": "ikaw"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "you",
+                "id": "kamu"
+              },
+              "sourcePage": 297
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "lang",
+                "id": "Hanya",
+                "tagalog": "lang"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "just",
+                "id": "Hanya"
+              },
+              "sourcePage": 297
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "pala,",
+                "id": "[keterkejutan],",
+                "tagalog": "pala,"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "[surprise],",
+                "id": "[keterkejutan],"
+              },
+              "sourcePage": 297
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "Mike.",
+                "id": "Mike.",
+                "tagalog": "Mike."
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "Mike.",
+                "id": "Mike."
+              },
+              "sourcePage": 297
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "Tuloy ka!",
+                "id": "Datang!",
+                "tagalog": "Tuloy ka!"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "Come in!",
+                "id": "Datang!"
+              },
+              "sourcePage": 297
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "Hello",
+                "id": "Halo",
+                "tagalog": "Hello"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "Hello",
+                "id": "Halo"
+              },
+              "sourcePage": 298
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "Mia.",
+                "id": "Mia.",
+                "tagalog": "Mia."
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "Mia.",
+                "id": "Mia."
+              },
+              "sourcePage": 298
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "Ang laki",
+                "id": "Seberapa besar",
+                "tagalog": "Ang laki"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "How large",
+                "id": "Seberapa besar"
+              },
+              "sourcePage": 298
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "ng",
+                "id": "Dari",
+                "tagalog": "ng"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "of",
+                "id": "Dari"
+              },
+              "sourcePage": 298
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "bahay",
+                "id": "Rumah",
+                "tagalog": "bahay"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "house",
+                "id": "Rumah"
+              },
+              "sourcePage": 298
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "niyo,",
+                "id": "Milikmu (jamak),",
+                "tagalog": "niyo,"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "your (plural),",
+                "id": "Milikmu (jamak),"
+              },
+              "sourcePage": 298
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "Hindi'",
+                "id": "Tidak",
+                "tagalog": "Hindi'"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "No",
+                "id": "Tidak"
+              },
+              "sourcePage": 299
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "naman.",
+                "id": "[penghalus].",
+                "tagalog": "naman."
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "[softener].",
+                "id": "[penghalus]."
+              },
+              "sourcePage": 299
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "Saan",
+                "id": "Di mana",
+                "tagalog": "Saan"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "Where",
+                "id": "Di mana"
+              },
+              "sourcePage": 299
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "ka",
+                "id": "kamu",
+                "tagalog": "ka"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "you",
+                "id": "kamu"
+              },
+              "sourcePage": 299
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "galing?",
+                "id": "Berasal?",
+                "tagalog": "galing?"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "coming from?",
+                "id": "Berasal?"
+              },
+              "sourcePage": 299
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "Diyan",
+                "id": "Di sana (di dekatmu)",
+                "tagalog": "Diyan"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "There (near you)",
+                "id": "Di sana (di dekatmu)"
+              },
+              "sourcePage": 300
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "Meron",
+                "id": "Memiliki",
+                "tagalog": "Meron"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "Have",
+                "id": "Memiliki"
+              },
+              "sourcePage": 300
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "akong",
+                "id": "I-[penghubung]",
+                "tagalog": "akong"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "I-[linker]",
+                "id": "I-[penghubung]"
+              },
+              "sourcePage": 300
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "dala",
+                "id": "Sesuatu yang dibawa",
+                "tagalog": "dala"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "something brought",
+                "id": "Sesuatu yang dibawa"
+              },
+              "sourcePage": 300
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "para sa",
+                "id": "Untuk",
+                "tagalog": "para sa"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "for",
+                "id": "Untuk"
+              },
+              "sourcePage": 300
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "iyo.",
+                "id": "Anda.",
+                "tagalog": "iyo."
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "you.",
+                "id": "Anda."
+              },
+              "sourcePage": 300
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "Ang ganda",
+                "id": "Betapa indahnya",
+                "tagalog": "Ang ganda"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "How beautiful",
+                "id": "Betapa indahnya"
+              },
+              "sourcePage": 301
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "bulaklak",
+                "id": "Bunga",
+                "tagalog": "bulaklak"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "flower",
+                "id": "Bunga"
+              },
+              "sourcePage": 301
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "na",
+                "id": "[penghubung]",
+                "tagalog": "na"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "[linker]",
+                "id": "[penghubung]"
+              },
+              "sourcePage": 301
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "Salamat.",
+                "id": "Terima kasih.",
+                "tagalog": "Salamat."
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "Thanks.",
+                "id": "Terima kasih."
+              },
+              "sourcePage": 301
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "Walang",
+                "id": "Tidak ada-[penghubung]",
+                "tagalog": "Walang"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "There is no-[linker]",
+                "id": "Tidak ada-[penghubung]"
+              },
+              "sourcePage": 302
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "anuman.",
+                "id": "Apa pun.",
+                "tagalog": "anuman."
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "anything.",
+                "id": "Apa pun."
+              },
+              "sourcePage": 302
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "Gusto",
+                "id": "Diinginkan",
+                "tagalog": "Gusto"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "Wanted",
+                "id": "Diinginkan"
+              },
+              "sourcePage": 303
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "mo",
+                "id": "Olehmu",
+                "tagalog": "mo"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "by you",
+                "id": "Olehmu"
+              },
+              "sourcePage": 303
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "bang",
+                "id": "[penanda tanya]-[penghubung]",
+                "tagalog": "bang"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "[question]-[linker]",
+                "id": "[penanda tanya]-[penghubung]"
+              },
+              "sourcePage": 303
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "uminom",
+                "id": "Untuk minum",
+                "tagalog": "uminom"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "to drink",
+                "id": "Untuk minum"
+              },
+              "sourcePage": 303
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "Coke?",
+                "id": "Kokas?",
+                "tagalog": "Coke?"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "Coke?",
+                "id": "Kokas?"
+              },
+              "sourcePage": 303
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "O sige.",
+                "id": "Oke.",
+                "tagalog": "O sige."
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "OK.",
+                "id": "Oke."
+              },
+              "sourcePage": 304
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "nila!",
+                "id": "Milik mereka!",
+                "tagalog": "nila!"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "their!",
+                "id": "Milik mereka!"
+              },
+              "sourcePage": 307
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "Kanino",
+                "id": "Yang",
+                "tagalog": "Kanino"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "Whose",
+                "id": "Yang"
+              },
+              "sourcePage": 308
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "Kay Alfred",
+                "id": "Milik Alfred",
+                "tagalog": "Kay Alfred"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "Alfred's",
+                "id": "Milik Alfred"
+              },
+              "sourcePage": 309
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "iyan.",
+                "id": "Itu (di dekatmu).",
+                "tagalog": "iyan."
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "that (near you).",
+                "id": "Itu (di dekatmu)."
+              },
+              "sourcePage": 309
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "Para",
+                "id": "Untuk",
+                "tagalog": "Para"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "For",
+                "id": "Untuk"
+              },
+              "sourcePage": 310
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "Para kay",
+                "id": "Untuk",
+                "tagalog": "Para kay"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "For",
+                "id": "Untuk"
+              },
+              "sourcePage": 311
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "Reybert",
+                "id": "Reybert",
+                "tagalog": "Reybert"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "Reybert",
+                "id": "Reybert"
+              },
+              "sourcePage": 311
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "Para saan",
+                "id": "Untuk apa",
+                "tagalog": "Para saan"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "For what",
+                "id": "Untuk apa"
+              },
+              "sourcePage": 312
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "mga",
+                "id": "[jamak]",
+                "tagalog": "mga"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "[plural]",
+                "id": "[jamak]"
+              },
+              "sourcePage": 312
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "kasal",
+                "id": "Pernikahan",
+                "tagalog": "kasal"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "wedding",
+                "id": "Pernikahan"
+              },
+              "sourcePage": 313
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "mamaya'.",
+                "id": "Nanti hari ini.",
+                "tagalog": "mamaya'."
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "later today.",
+                "id": "Nanti hari ini."
+              },
+              "sourcePage": 313
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "Galing kay",
+                "id": "Dari",
+                "tagalog": "Galing kay"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "From",
+                "id": "Dari"
+              },
+              "sourcePage": 314
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "Ano",
+                "id": "Apa",
+                "tagalog": "Ano"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "What",
+                "id": "Apa"
+              },
+              "sourcePage": 315
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "doon",
+                "id": "Di sana",
+                "tagalog": "doon"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "over there",
+                "id": "Di sana"
+              },
+              "sourcePage": 315
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "sa",
+                "id": "Pada",
+                "tagalog": "sa"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "at",
+                "id": "Pada"
+              },
+              "sourcePage": 315
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "Joe's Store?",
+                "id": "Toko Joe?",
+                "tagalog": "Joe's Store?"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "Joe's Store?",
+                "id": "Toko Joe?"
+              },
+              "sourcePage": 315
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "May",
+                "id": "Ada",
+                "tagalog": "May"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "There are",
+                "id": "Ada"
+              },
+              "sourcePage": 316
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "libro",
+                "id": "Buku",
+                "tagalog": "libro"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "book",
+                "id": "Buku"
+              },
+              "sourcePage": 316
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "at",
+                "id": "Dan",
+                "tagalog": "at"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "and",
+                "id": "Dan"
+              },
+              "sourcePage": 316
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "iba't ibang",
+                "id": "Berbagai-[penghubung]",
+                "tagalog": "iba't ibang"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "various-[linker]",
+                "id": "Berbagai-[penghubung]"
+              },
+              "sourcePage": 316
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "school",
+                "id": "Sekolah",
+                "tagalog": "school"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "school",
+                "id": "Sekolah"
+              },
+              "sourcePage": 316
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "supplies.",
+                "id": "Persediaan.",
+                "tagalog": "supplies."
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "supplies.",
+                "id": "Persediaan."
+              },
+              "sourcePage": 316
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "style": "body",
+          "sourcePage": 295,
+          "sourceLabel": "A 03",
+          "links": [],
+          "text": {
+            "sourceLanguage": "en",
+            "sourceText": "Sila (they) is often used to address customers and high-ranking officials. It can also be used when asking an adult stranger who he or she is.",
+            "id": "A 03 · halaman PDF 295\n\nSila (mereka) sering digunakan untuk menyapa pelanggan dan pejabat tinggi. Kata ini juga dapat digunakan ketika menanyakan orang asing dewasa siapa dia."
+          }
+        },
+        {
+          "type": "text",
+          "style": "body",
+          "sourcePage": 299,
+          "sourceLabel": "A 07",
+          "links": [],
+          "text": {
+            "sourceLanguage": "en",
+            "sourceText": "Here, naman is used to soften what is said, or to make it less direct or less definite.",
+            "id": "A 07 · halaman PDF 299\n\nDi sini, naman digunakan untuk memperhalus apa yang dikatakan, atau untuk membuatnya kurang langsung atau kurang pasti."
+          }
+        },
+        {
+          "type": "text",
+          "style": "body",
+          "sourcePage": 300,
+          "sourceLabel": "A 08",
+          "links": [],
+          "text": {
+            "sourceLanguage": "en",
+            "sourceText": "Diyan lang is a way to say nowhere in particular.",
+            "id": "A 08 · halaman PDF 300\n\nDiyan lang adalah cara untuk tidak mengatakan apa pun secara khusus."
+          }
+        },
+        {
+          "type": "text",
+          "style": "body",
+          "sourcePage": 300,
+          "sourceLabel": "A 08",
+          "links": [],
+          "text": {
+            "sourceLanguage": "en",
+            "sourceText": "Merong dala – has brought something (lit. has \"something brought\" or has a \"brought thing\").",
+            "id": "A 08 · halaman PDF 300\n\nMerong dala – telah membawa sesuatu (lit. has \"sesuatu yang dibawa\" atau memiliki \"membawa sesuatu\")."
+          }
+        },
+        {
+          "type": "text",
+          "style": "body",
+          "sourcePage": 300,
+          "sourceLabel": "A 08",
+          "links": [],
+          "text": {
+            "sourceLanguage": "en",
+            "sourceText": "Pala here means by the way.",
+            "id": "A 08 · halaman PDF 300\n\nPala disini maksudnya ngomong-ngomong."
+          }
+        },
+        {
+          "type": "text",
+          "style": "body",
+          "sourcePage": 308,
+          "sourceLabel": "B 03",
+          "links": [],
+          "text": {
+            "sourceLanguage": "en",
+            "sourceText": "Here, kanino means whose.",
+            "id": "B 03 · halaman PDF 308\n\nDisini kanino artinya milik siapa."
+          }
+        },
+        {
+          "type": "text",
+          "style": "body",
+          "sourcePage": 310,
+          "sourceLabel": "B 05",
+          "links": [],
+          "text": {
+            "sourceLanguage": "en",
+            "sourceText": "Para kanino? – For whom?",
+            "id": "B 05 · halaman PDF 310\n\nPara kanino? – Untuk siapa?"
+          }
+        },
+        {
+          "type": "text",
+          "style": "body",
+          "sourcePage": 311,
+          "sourceLabel": "B 06",
+          "links": [],
+          "text": {
+            "sourceLanguage": "en",
+            "sourceText": "Para kay – for (for personal names).",
+            "id": "B 06 · halaman PDF 311\n\nPara kay – untuk (untuk nama pribadi)."
+          }
+        },
+        {
+          "type": "text",
+          "style": "body",
+          "sourcePage": 312,
+          "sourceLabel": "B 07",
+          "links": [],
+          "text": {
+            "sourceLanguage": "en",
+            "sourceText": "Para saan – what for or for what purpose.",
+            "id": "B 07 · halaman PDF 312\n\nPara saan – untuk apa atau untuk tujuan apa."
+          }
+        },
+        {
+          "type": "text",
+          "style": "body",
+          "sourcePage": 314,
+          "sourceLabel": "B 09",
+          "links": [],
+          "text": {
+            "sourceLanguage": "en",
+            "sourceText": "Galing (sa/kay) – from, coming from.",
+            "id": "B 09 · halaman PDF 314\n\nGaling (sa/kay) – dari, berasal dari."
+          }
+        },
+        {
+          "type": "text",
+          "style": "body",
+          "sourcePage": 315,
+          "sourceLabel": "B 10",
+          "links": [],
+          "text": {
+            "sourceLanguage": "en",
+            "sourceText": "Ang meron (doon) – the thing(s) that are (there), the thing(s) they have (there), or the thing(s) happening (there).",
+            "id": "B 10 · halaman PDF 315\n\nAng meron (doon) – hal-hal yang ada (di sana), hal-hal yang mereka miliki (di sana), atau hal-hal yang terjadi (di sana)."
+          }
+        },
+        {
+          "type": "text",
+          "style": "body",
+          "sourcePage": 316,
+          "sourceLabel": "B 11",
+          "links": [],
+          "text": {
+            "sourceLanguage": "en",
+            "sourceText": "Iba't iba – various.",
+            "id": "B 11 · halaman PDF 316\n\nIba't iba – beragam."
+          }
+        }
+      ]
+    },
+    {
+      "id": "grammar",
+      "type": "GRAMMAR",
+      "title": {
+        "sourceLanguage": "mixed",
+        "sourceText": "Grammar and pronunciation notes",
+        "id": "Catatan tata bahasa dan pelafalan"
+      },
+      "blocks": [
+        {
+          "type": "text",
+          "style": "body",
+          "sourcePage": 297,
+          "sourceLabel": "A 05",
+          "links": [],
+          "text": {
+            "sourceLanguage": "en",
+            "sourceText": "Here, pala is used to express mild surprise at new or unexpected information.",
+            "id": "A 05 · halaman PDF 297\n\nDi sini, pala digunakan untuk menyatakan kejutan ringan terhadap informasi baru atau tidak terduga."
+          }
+        },
+        {
+          "type": "text",
+          "style": "body",
+          "sourcePage": 297,
+          "sourceLabel": "A 05",
+          "links": [],
+          "text": {
+            "sourceLanguage": "en",
+            "sourceText": "Tuloy (ka/kayo). – Come in. Some verb roots, such as tuloy, can be used as a command, either alone or in combination with ka/kayo.",
+            "id": "A 05 · halaman PDF 297\n\nTuloy (ka/kayo). – Masuk. Beberapa akar kata kerja, seperti tuloy, dapat digunakan sebagai perintah, baik sendiri atau dikombinasikan dengan ka/kayo."
+          }
+        },
+        {
+          "type": "text",
+          "style": "body",
+          "sourcePage": 298,
+          "sourceLabel": "A 06",
+          "links": [],
+          "text": {
+            "sourceLanguage": "en",
+            "sourceText": "A at the end of a sentence can be used to express that you are surprised or impressed by something.",
+            "id": "A 06 · halaman PDF 298\n\nA di akhir kalimat dapat digunakan untuk menyatakan bahwa Anda terkejut atau terkesan terhadap sesuatu."
+          }
+        },
+        {
+          "type": "text",
+          "style": "body",
+          "sourcePage": 300,
+          "sourceLabel": "A 08",
+          "links": [],
+          "text": {
+            "sourceLanguage": "en",
+            "sourceText": "Iyo is a Sa pronoun.",
+            "id": "A 08 · halaman PDF 300\n\nIyo adalah kata ganti Sa."
+          }
+        },
+        {
+          "type": "text",
+          "style": "body",
+          "sourcePage": 302,
+          "sourceLabel": "A 10",
+          "links": [],
+          "text": {
+            "sourceLanguage": "en",
+            "sourceText": "Walang anuman or, more informally, wala' 'yon means you're welcome.",
+            "id": "A 10 · halaman PDF 302\n\nWalang anuman atau, lebih informalnya, wala' 'yon berarti sama-sama."
+          }
+        },
+        {
+          "type": "text",
+          "style": "body",
+          "sourcePage": 303,
+          "sourceLabel": "A 11",
+          "links": [],
+          "text": {
+            "sourceLanguage": "en",
+            "sourceText": "Uminom is a verb in the basic form.",
+            "id": "A 11 · halaman PDF 303\n\nUminom adalah kata kerja dalam bentuk dasar."
+          }
+        },
+        {
+          "type": "text",
+          "style": "body",
+          "sourcePage": 303,
+          "sourceLabel": "A 11",
+          "links": [],
+          "text": {
+            "sourceLanguage": "en",
+            "sourceText": "Gusto mo -ng + basic form. – You want to (...).",
+            "id": "A 11 · halaman PDF 303\n\nGusto mo -ng + bentuk dasar. – Anda ingin (...)."
+          }
+        },
+        {
+          "type": "text",
+          "style": "body",
+          "sourcePage": 303,
+          "sourceLabel": "A 11",
+          "links": [],
+          "text": {
+            "sourceLanguage": "en",
+            "sourceText": "Gusto ko -ng + basic form. – I want to (...).",
+            "id": "A 11 · halaman PDF 303\n\nGusto ko -ng + bentuk dasar. – Saya ingin (...)."
+          }
+        },
+        {
+          "type": "text",
+          "style": "body",
+          "sourcePage": 303,
+          "sourceLabel": "A 11",
+          "links": [],
+          "text": {
+            "sourceLanguage": "en",
+            "sourceText": "Coke, the object of the action, is preceded by a Ng marker.",
+            "id": "A 11 · halaman PDF 303\n\nCoke, objek tindakan, diawali dengan penanda Ng."
+          }
+        },
+        {
+          "type": "text",
+          "style": "body",
+          "sourcePage": 309,
+          "sourceLabel": "B 04",
+          "links": [],
+          "text": {
+            "sourceLanguage": "en",
+            "sourceText": "Kay Alfred – Alfred's. Here kay indicates possession. Another example: Sa bata' ang bag – The bag belongs to the child.",
+            "id": "B 04 · halaman PDF 309\n\nKay Alfred – milik Alfred. Di sini kay menunjukkan kepemilikan. Contoh lain: Sa bata' ang bag – Tas milik anak."
+          }
+        }
+      ]
+    },
+    {
+      "id": "examples",
+      "type": "EXAMPLES",
+      "title": {
+        "sourceLanguage": "mixed",
+        "sourceText": "Literal and natural translations",
+        "id": "Contoh dengan glosa harfiah dan alami"
+      },
+      "blocks": [
+        {
+          "type": "example",
+          "title": {
+            "sourceLanguage": "mixed",
+            "sourceText": "A 01",
+            "id": "A 01 · halaman PDF 293"
+          },
+          "sourcePage": 293,
+          "rows": [
+            {
+              "cells": [
+                {
+                  "sourceLanguage": "fil",
+                  "sourceText": "Ang bisita",
+                  "id": "Tamu",
+                  "tagalog": "Ang bisita"
+                },
+                {
+                  "sourceLanguage": "en",
+                  "sourceText": "The guest",
+                  "id": "Glosa harfiah (Inggris)\nThe guest"
+                },
+                {
+                  "sourceLanguage": "en",
+                  "sourceText": "The guest",
+                  "id": "Terjemahan alami sumber (Inggris)\nThe guest"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "example",
+          "title": {
+            "sourceLanguage": "mixed",
+            "sourceText": "A 02",
+            "id": "A 02 · halaman PDF 294"
+          },
+          "sourcePage": 294,
+          "rows": [
+            {
+              "cells": [
+                {
+                  "sourceLanguage": "fil",
+                  "sourceText": "Tao po'!",
+                  "id": "Halo! Ada orang di rumah?",
+                  "tagalog": "Tao po'!"
+                },
+                {
+                  "sourceLanguage": "en",
+                  "sourceText": "Person [polite]!",
+                  "id": "Glosa harfiah (Inggris)\nPerson [polite]!"
+                },
+                {
+                  "sourceLanguage": "en",
+                  "sourceText": "Hello! Anyone home?",
+                  "id": "Terjemahan alami sumber (Inggris)\nHello! Anyone home?"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "example",
+          "title": {
+            "sourceLanguage": "mixed",
+            "sourceText": "A 03",
+            "id": "A 03 · halaman PDF 295"
+          },
+          "sourcePage": 295,
+          "rows": [
+            {
+              "cells": [
+                {
+                  "sourceLanguage": "fil",
+                  "sourceText": "Sino po' sila?",
+                  "id": "Siapa disana? (Siapa kamu?) (sopan)",
+                  "tagalog": "Sino po' sila?"
+                },
+                {
+                  "sourceLanguage": "en",
+                  "sourceText": "Who [polite] you (very polite)?",
+                  "id": "Glosa harfiah (Inggris)\nWho [polite] you (very polite)?"
+                },
+                {
+                  "sourceLanguage": "en",
+                  "sourceText": "Who's there? (Who are you?) (polite)",
+                  "id": "Terjemahan alami sumber (Inggris)\nWho's there? (Who are you?) (polite)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "example",
+          "title": {
+            "sourceLanguage": "mixed",
+            "sourceText": "A 04",
+            "id": "A 04 · halaman PDF 296"
+          },
+          "sourcePage": 296,
+          "rows": [
+            {
+              "cells": [
+                {
+                  "sourceLanguage": "fil",
+                  "sourceText": "Si Michael Ramirez po' ito.",
+                  "id": "Itu Michael Ramirez. (sopan)",
+                  "tagalog": "Si Michael Ramirez po' ito."
+                },
+                {
+                  "sourceLanguage": "en",
+                  "sourceText": "[Ang marker] Michael Ramirez [polite] this.",
+                  "id": "Glosa harfiah (Inggris)\n[Ang marker] Michael Ramirez [polite] this."
+                },
+                {
+                  "sourceLanguage": "en",
+                  "sourceText": "It's Michael Ramirez. (polite)",
+                  "id": "Terjemahan alami sumber (Inggris)\nIt's Michael Ramirez. (polite)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "example",
+          "title": {
+            "sourceLanguage": "mixed",
+            "sourceText": "A 05",
+            "id": "A 05 · halaman PDF 297"
+          },
+          "sourcePage": 297,
+          "rows": [
+            {
+              "cells": [
+                {
+                  "sourceLanguage": "fil",
+                  "sourceText": "A, ikaw lang pala, Mike. Tuloy ka!",
+                  "id": "Oh, ternyata kamu, Mike. Silakan masuk!",
+                  "tagalog": "A, ikaw lang pala, Mike. Tuloy ka!"
+                },
+                {
+                  "sourceLanguage": "en",
+                  "sourceText": "Ah, you just [surprise], Mike. Come in!",
+                  "id": "Glosa harfiah (Inggris)\nAh, you just [surprise], Mike. Come in!"
+                },
+                {
+                  "sourceLanguage": "en",
+                  "sourceText": "Oh, it's you, Mike. Come in!",
+                  "id": "Terjemahan alami sumber (Inggris)\nOh, it's you, Mike. Come in!"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "example",
+          "title": {
+            "sourceLanguage": "mixed",
+            "sourceText": "A 06",
+            "id": "A 06 · halaman PDF 298"
+          },
+          "sourcePage": 298,
+          "rows": [
+            {
+              "cells": [
+                {
+                  "sourceLanguage": "fil",
+                  "sourceText": "Hello Mia. Ang laki ng bahay niyo, a!",
+                  "id": "Halo Mia. Kalian (teman-teman) punya rumah yang besar!",
+                  "tagalog": "Hello Mia. Ang laki ng bahay niyo, a!"
+                },
+                {
+                  "sourceLanguage": "en",
+                  "sourceText": "Hello Mia. How large of house your (plural), [admiration]!",
+                  "id": "Glosa harfiah (Inggris)\nHello Mia. How large of house your (plural), [admiration]!"
+                },
+                {
+                  "sourceLanguage": "en",
+                  "sourceText": "Hello Mia. You (guys) have such a big house!",
+                  "id": "Terjemahan alami sumber (Inggris)\nHello Mia. You (guys) have such a big house!"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "example",
+          "title": {
+            "sourceLanguage": "mixed",
+            "sourceText": "A 07",
+            "id": "A 07 · halaman PDF 299"
+          },
+          "sourcePage": 299,
+          "rows": [
+            {
+              "cells": [
+                {
+                  "sourceLanguage": "fil",
+                  "sourceText": "Hindi' naman. Saan ka galing?",
+                  "id": "Tidak juga. Kamu baru dari mana?",
+                  "tagalog": "Hindi' naman. Saan ka galing?"
+                },
+                {
+                  "sourceLanguage": "en",
+                  "sourceText": "No [softener]. Where you coming from?",
+                  "id": "Glosa harfiah (Inggris)\nNo [softener]. Where you coming from?"
+                },
+                {
+                  "sourceLanguage": "en",
+                  "sourceText": "Not really. Where did you just come from?",
+                  "id": "Terjemahan alami sumber (Inggris)\nNot really. Where did you just come from?"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "example",
+          "title": {
+            "sourceLanguage": "mixed",
+            "sourceText": "A 08",
+            "id": "A 08 · halaman PDF 300"
+          },
+          "sourcePage": 300,
+          "rows": [
+            {
+              "cells": [
+                {
+                  "sourceLanguage": "fil",
+                  "sourceText": "Diyan lang. Meron pala akong dala para sa iyo.",
+                  "id": "Dari dekat sini saja. Ngomong-ngomong, aku membawa sesuatu untukmu.",
+                  "tagalog": "Diyan lang. Meron pala akong dala para sa iyo."
+                },
+                {
+                  "sourceLanguage": "en",
+                  "sourceText": "There (near you) just. Have by the way I-[linker] something brought for you.",
+                  "id": "Glosa harfiah (Inggris)\nThere (near you) just. Have by the way I-[linker] something brought for you."
+                },
+                {
+                  "sourceLanguage": "en",
+                  "sourceText": "Just there (nowhere in particular). By the way, I have/brought something for you.",
+                  "id": "Terjemahan alami sumber (Inggris)\nJust there (nowhere in particular). By the way, I have/brought something for you."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "example",
+          "title": {
+            "sourceLanguage": "mixed",
+            "sourceText": "A 09",
+            "id": "A 09 · halaman PDF 301"
+          },
+          "sourcePage": 301,
+          "rows": [
+            {
+              "cells": [
+                {
+                  "sourceLanguage": "fil",
+                  "sourceText": "Ang ganda ng bulaklak na ito! Salamat.",
+                  "id": "Indah sekali bunga ini! Terima kasih.",
+                  "tagalog": "Ang ganda ng bulaklak na ito! Salamat."
+                },
+                {
+                  "sourceLanguage": "en",
+                  "sourceText": "How beautiful of flower [linker] this! Thanks.",
+                  "id": "Glosa harfiah (Inggris)\nHow beautiful of flower [linker] this! Thanks."
+                },
+                {
+                  "sourceLanguage": "en",
+                  "sourceText": "What a beautiful flower! Thanks.",
+                  "id": "Terjemahan alami sumber (Inggris)\nWhat a beautiful flower! Thanks."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "example",
+          "title": {
+            "sourceLanguage": "mixed",
+            "sourceText": "A 10",
+            "id": "A 10 · halaman PDF 302"
+          },
+          "sourcePage": 302,
+          "rows": [
+            {
+              "cells": [
+                {
+                  "sourceLanguage": "fil",
+                  "sourceText": "Walang anuman.",
+                  "id": "Terima kasih kembali.",
+                  "tagalog": "Walang anuman."
+                },
+                {
+                  "sourceLanguage": "en",
+                  "sourceText": "There is no-[linker] anything.",
+                  "id": "Glosa harfiah (Inggris)\nThere is no-[linker] anything."
+                },
+                {
+                  "sourceLanguage": "en",
+                  "sourceText": "You're welcome.",
+                  "id": "Terjemahan alami sumber (Inggris)\nYou're welcome."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "example",
+          "title": {
+            "sourceLanguage": "mixed",
+            "sourceText": "A 11",
+            "id": "A 11 · halaman PDF 303"
+          },
+          "sourcePage": 303,
+          "rows": [
+            {
+              "cells": [
+                {
+                  "sourceLanguage": "fil",
+                  "sourceText": "Gusto mo bang uminom ng Coke?",
+                  "id": "Apakah Anda ingin minum Coke?",
+                  "tagalog": "Gusto mo bang uminom ng Coke?"
+                },
+                {
+                  "sourceLanguage": "en",
+                  "sourceText": "Wanted by you [question]-[linker] to drink [Ng marker] Coke?",
+                  "id": "Glosa harfiah (Inggris)\nWanted by you [question]-[linker] to drink [Ng marker] Coke?"
+                },
+                {
+                  "sourceLanguage": "en",
+                  "sourceText": "Do you want to drink Coke?",
+                  "id": "Terjemahan alami sumber (Inggris)\nDo you want to drink Coke?"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "example",
+          "title": {
+            "sourceLanguage": "mixed",
+            "sourceText": "A 12",
+            "id": "A 12 · halaman PDF 304"
+          },
+          "sourcePage": 304,
+          "rows": [
+            {
+              "cells": [
+                {
+                  "sourceLanguage": "fil",
+                  "sourceText": "O sige.",
+                  "id": "Oke.",
+                  "tagalog": "O sige."
+                },
+                {
+                  "sourceLanguage": "en",
+                  "sourceText": "OK.",
+                  "id": "Glosa harfiah (Inggris)\nOK."
+                },
+                {
+                  "sourceLanguage": "en",
+                  "sourceText": "OK.",
+                  "id": "Terjemahan alami sumber (Inggris)\nOK."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "example",
+          "title": {
+            "sourceLanguage": "mixed",
+            "sourceText": "B 01",
+            "id": "B 01 · halaman PDF 306"
+          },
+          "sourcePage": 306,
+          "rows": [
+            {
+              "cells": [
+                {
+                  "sourceLanguage": "fil",
+                  "sourceText": "Saan galing si Mike?",
+                  "id": "Dari mana asal Mike?",
+                  "tagalog": "Saan galing si Mike?"
+                },
+                {
+                  "sourceLanguage": "en",
+                  "sourceText": "Where coming from [Ang marker] Mike?",
+                  "id": "Glosa harfiah (Inggris)\nWhere coming from [Ang marker] Mike?"
+                },
+                {
+                  "sourceLanguage": "en",
+                  "sourceText": "Where is Mike coming from?",
+                  "id": "Terjemahan alami sumber (Inggris)\nWhere is Mike coming from?"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "example",
+          "title": {
+            "sourceLanguage": "mixed",
+            "sourceText": "B 02",
+            "id": "B 02 · halaman PDF 307"
+          },
+          "sourcePage": 307,
+          "rows": [
+            {
+              "cells": [
+                {
+                  "sourceLanguage": "fil",
+                  "sourceText": "Ang ganda ng bahay nila!",
+                  "id": "Rumah mereka sangat indah!",
+                  "tagalog": "Ang ganda ng bahay nila!"
+                },
+                {
+                  "sourceLanguage": "en",
+                  "sourceText": "How beautiful of house their!",
+                  "id": "Glosa harfiah (Inggris)\nHow beautiful of house their!"
+                },
+                {
+                  "sourceLanguage": "en",
+                  "sourceText": "Their house is so beautiful!",
+                  "id": "Terjemahan alami sumber (Inggris)\nTheir house is so beautiful!"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "example",
+          "title": {
+            "sourceLanguage": "mixed",
+            "sourceText": "B 03",
+            "id": "B 03 · halaman PDF 308"
+          },
+          "sourcePage": 308,
+          "rows": [
+            {
+              "cells": [
+                {
+                  "sourceLanguage": "fil",
+                  "sourceText": "Kanino ito?",
+                  "id": "Milik siapa ini?",
+                  "tagalog": "Kanino ito?"
+                },
+                {
+                  "sourceLanguage": "en",
+                  "sourceText": "Whose this?",
+                  "id": "Glosa harfiah (Inggris)\nWhose this?"
+                },
+                {
+                  "sourceLanguage": "en",
+                  "sourceText": "Whose is this?",
+                  "id": "Terjemahan alami sumber (Inggris)\nWhose is this?"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "example",
+          "title": {
+            "sourceLanguage": "mixed",
+            "sourceText": "B 04",
+            "id": "B 04 · halaman PDF 309"
+          },
+          "sourcePage": 309,
+          "rows": [
+            {
+              "cells": [
+                {
+                  "sourceLanguage": "fil",
+                  "sourceText": "Kay Alfred iyan.",
+                  "id": "Itu milik Alfred.",
+                  "tagalog": "Kay Alfred iyan."
+                },
+                {
+                  "sourceLanguage": "en",
+                  "sourceText": "Alfred's that (near you).",
+                  "id": "Glosa harfiah (Inggris)\nAlfred's that (near you)."
+                },
+                {
+                  "sourceLanguage": "en",
+                  "sourceText": "That's Alfred's.",
+                  "id": "Terjemahan alami sumber (Inggris)\nThat's Alfred's."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "example",
+          "title": {
+            "sourceLanguage": "mixed",
+            "sourceText": "B 05",
+            "id": "B 05 · halaman PDF 310"
+          },
+          "sourcePage": 310,
+          "rows": [
+            {
+              "cells": [
+                {
+                  "sourceLanguage": "fil",
+                  "sourceText": "Para kanino ito?",
+                  "id": "Untuk siapa ini?",
+                  "tagalog": "Para kanino ito?"
+                },
+                {
+                  "sourceLanguage": "en",
+                  "sourceText": "For whom this?",
+                  "id": "Glosa harfiah (Inggris)\nFor whom this?"
+                },
+                {
+                  "sourceLanguage": "en",
+                  "sourceText": "Who is this for?",
+                  "id": "Terjemahan alami sumber (Inggris)\nWho is this for?"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "example",
+          "title": {
+            "sourceLanguage": "mixed",
+            "sourceText": "B 06",
+            "id": "B 06 · halaman PDF 311"
+          },
+          "sourcePage": 311,
+          "rows": [
+            {
+              "cells": [
+                {
+                  "sourceLanguage": "fil",
+                  "sourceText": "Para kay Reybert iyan.",
+                  "id": "Itu untuk Reybert.",
+                  "tagalog": "Para kay Reybert iyan."
+                },
+                {
+                  "sourceLanguage": "en",
+                  "sourceText": "For Reybert that (near you).",
+                  "id": "Glosa harfiah (Inggris)\nFor Reybert that (near you)."
+                },
+                {
+                  "sourceLanguage": "en",
+                  "sourceText": "That's for Reybert.",
+                  "id": "Terjemahan alami sumber (Inggris)\nThat's for Reybert."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "example",
+          "title": {
+            "sourceLanguage": "mixed",
+            "sourceText": "B 07",
+            "id": "B 07 · halaman PDF 312"
+          },
+          "sourcePage": 312,
+          "rows": [
+            {
+              "cells": [
+                {
+                  "sourceLanguage": "fil",
+                  "sourceText": "Para saan ang mga bulaklak na ito?",
+                  "id": "Untuk apa bunga-bunga ini?",
+                  "tagalog": "Para saan ang mga bulaklak na ito?"
+                },
+                {
+                  "sourceLanguage": "en",
+                  "sourceText": "For what the [plural] flower [linker] this?",
+                  "id": "Glosa harfiah (Inggris)\nFor what the [plural] flower [linker] this?"
+                },
+                {
+                  "sourceLanguage": "en",
+                  "sourceText": "What are these flowers for?",
+                  "id": "Terjemahan alami sumber (Inggris)\nWhat are these flowers for?"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "example",
+          "title": {
+            "sourceLanguage": "mixed",
+            "sourceText": "B 08",
+            "id": "B 08 · halaman PDF 313"
+          },
+          "sourcePage": 313,
+          "rows": [
+            {
+              "cells": [
+                {
+                  "sourceLanguage": "fil",
+                  "sourceText": "Para sa kasal mamaya'.",
+                  "id": "Untuk pernikahan hari ini.",
+                  "tagalog": "Para sa kasal mamaya'."
+                },
+                {
+                  "sourceLanguage": "en",
+                  "sourceText": "For wedding later today.",
+                  "id": "Glosa harfiah (Inggris)\nFor wedding later today."
+                },
+                {
+                  "sourceLanguage": "en",
+                  "sourceText": "For the wedding later today.",
+                  "id": "Terjemahan alami sumber (Inggris)\nFor the wedding later today."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "example",
+          "title": {
+            "sourceLanguage": "mixed",
+            "sourceText": "B 09",
+            "id": "B 09 · halaman PDF 314"
+          },
+          "sourcePage": 314,
+          "rows": [
+            {
+              "cells": [
+                {
+                  "sourceLanguage": "fil",
+                  "sourceText": "Galing kay Mike ang mga bulaklak na iyan.",
+                  "id": "Bunga itu berasal dari Mike.",
+                  "tagalog": "Galing kay Mike ang mga bulaklak na iyan."
+                },
+                {
+                  "sourceLanguage": "en",
+                  "sourceText": "From Mike the [plural] flower [linker] that (near you).",
+                  "id": "Glosa harfiah (Inggris)\nFrom Mike the [plural] flower [linker] that (near you)."
+                },
+                {
+                  "sourceLanguage": "en",
+                  "sourceText": "Those flowers came from Mike.",
+                  "id": "Terjemahan alami sumber (Inggris)\nThose flowers came from Mike."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "example",
+          "title": {
+            "sourceLanguage": "mixed",
+            "sourceText": "B 10",
+            "id": "B 10 · halaman PDF 315"
+          },
+          "sourcePage": 315,
+          "rows": [
+            {
+              "cells": [
+                {
+                  "sourceLanguage": "fil",
+                  "sourceText": "Ano ang meron doon sa Joe's Store?",
+                  "id": "Apa yang mereka punya di Toko Joe?",
+                  "tagalog": "Ano ang meron doon sa Joe's Store?"
+                },
+                {
+                  "sourceLanguage": "en",
+                  "sourceText": "What the there are over there at Joe's Store?",
+                  "id": "Glosa harfiah (Inggris)\nWhat the there are over there at Joe's Store?"
+                },
+                {
+                  "sourceLanguage": "en",
+                  "sourceText": "What do they have at Joe's Store?",
+                  "id": "Terjemahan alami sumber (Inggris)\nWhat do they have at Joe's Store?"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "example",
+          "title": {
+            "sourceLanguage": "mixed",
+            "sourceText": "B 11",
+            "id": "B 11 · halaman PDF 316"
+          },
+          "sourcePage": 316,
+          "rows": [
+            {
+              "cells": [
+                {
+                  "sourceLanguage": "fil",
+                  "sourceText": "May mga libro at iba't ibang school supplies.",
+                  "id": "Ada buku-buku dan berbagai perlengkapan sekolah.",
+                  "tagalog": "May mga libro at iba't ibang school supplies."
+                },
+                {
+                  "sourceLanguage": "en",
+                  "sourceText": "There are [plural] book and various-[linker] school supplies.",
+                  "id": "Glosa harfiah (Inggris)\nThere are [plural] book and various-[linker] school supplies."
+                },
+                {
+                  "sourceLanguage": "en",
+                  "sourceText": "There are books and various school supplies.",
+                  "id": "Terjemahan alami sumber (Inggris)\nThere are books and various school supplies."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "exercises",
+      "type": "EXERCISES",
+      "title": {
+        "sourceLanguage": "mixed",
+        "sourceText": "Drills",
+        "id": "Latihan pola"
+      },
+      "blocks": [
+        {
+          "type": "exercise",
+          "role": "instruction",
+          "text": {
+            "sourceLanguage": "mixed",
+            "sourceText": "Drills",
+            "id": "Latihan pola (Drills)"
+          },
+          "sourcePage": 305
+        },
+        {
+          "type": "exercise",
+          "role": "content",
+          "title": {
+            "sourceLanguage": "mixed",
+            "sourceText": "A 12",
+            "id": "A 12 · halaman PDF 304"
+          },
+          "sourcePage": 304,
+          "text": {
+            "sourceLanguage": "fil",
+            "sourceText": "O sige.",
+            "id": "Oke.",
+            "tagalog": "O sige."
+          }
+        },
+        {
+          "type": "exercise",
+          "role": "content",
+          "title": {
+            "sourceLanguage": "mixed",
+            "sourceText": "B 01",
+            "id": "B 01 · halaman PDF 306"
+          },
+          "sourcePage": 306,
+          "text": {
+            "sourceLanguage": "fil",
+            "sourceText": "Saan galing si Mike?",
+            "id": "Dari mana asal Mike?",
+            "tagalog": "Saan galing si Mike?"
+          }
+        },
+        {
+          "type": "exercise",
+          "role": "content",
+          "title": {
+            "sourceLanguage": "mixed",
+            "sourceText": "B 02",
+            "id": "B 02 · halaman PDF 307"
+          },
+          "sourcePage": 307,
+          "text": {
+            "sourceLanguage": "fil",
+            "sourceText": "Ang ganda ng bahay nila!",
+            "id": "Rumah mereka sangat indah!",
+            "tagalog": "Ang ganda ng bahay nila!"
+          }
+        },
+        {
+          "type": "exercise",
+          "role": "content",
+          "title": {
+            "sourceLanguage": "mixed",
+            "sourceText": "B 03",
+            "id": "B 03 · halaman PDF 308"
+          },
+          "sourcePage": 308,
+          "text": {
+            "sourceLanguage": "fil",
+            "sourceText": "Kanino ito?",
+            "id": "Milik siapa ini?",
+            "tagalog": "Kanino ito?"
+          }
+        },
+        {
+          "type": "exercise",
+          "role": "content",
+          "title": {
+            "sourceLanguage": "mixed",
+            "sourceText": "B 04",
+            "id": "B 04 · halaman PDF 309"
+          },
+          "sourcePage": 309,
+          "text": {
+            "sourceLanguage": "fil",
+            "sourceText": "Kay Alfred iyan.",
+            "id": "Itu milik Alfred.",
+            "tagalog": "Kay Alfred iyan."
+          }
+        },
+        {
+          "type": "exercise",
+          "role": "content",
+          "title": {
+            "sourceLanguage": "mixed",
+            "sourceText": "B 05",
+            "id": "B 05 · halaman PDF 310"
+          },
+          "sourcePage": 310,
+          "text": {
+            "sourceLanguage": "fil",
+            "sourceText": "Para kanino ito?",
+            "id": "Untuk siapa ini?",
+            "tagalog": "Para kanino ito?"
+          }
+        },
+        {
+          "type": "exercise",
+          "role": "content",
+          "title": {
+            "sourceLanguage": "mixed",
+            "sourceText": "B 06",
+            "id": "B 06 · halaman PDF 311"
+          },
+          "sourcePage": 311,
+          "text": {
+            "sourceLanguage": "fil",
+            "sourceText": "Para kay Reybert iyan.",
+            "id": "Itu untuk Reybert.",
+            "tagalog": "Para kay Reybert iyan."
+          }
+        },
+        {
+          "type": "exercise",
+          "role": "content",
+          "title": {
+            "sourceLanguage": "mixed",
+            "sourceText": "B 07",
+            "id": "B 07 · halaman PDF 312"
+          },
+          "sourcePage": 312,
+          "text": {
+            "sourceLanguage": "fil",
+            "sourceText": "Para saan ang mga bulaklak na ito?",
+            "id": "Untuk apa bunga-bunga ini?",
+            "tagalog": "Para saan ang mga bulaklak na ito?"
+          }
+        },
+        {
+          "type": "exercise",
+          "role": "content",
+          "title": {
+            "sourceLanguage": "mixed",
+            "sourceText": "B 08",
+            "id": "B 08 · halaman PDF 313"
+          },
+          "sourcePage": 313,
+          "text": {
+            "sourceLanguage": "fil",
+            "sourceText": "Para sa kasal mamaya'.",
+            "id": "Untuk pernikahan hari ini.",
+            "tagalog": "Para sa kasal mamaya'."
+          }
+        },
+        {
+          "type": "exercise",
+          "role": "content",
+          "title": {
+            "sourceLanguage": "mixed",
+            "sourceText": "B 09",
+            "id": "B 09 · halaman PDF 314"
+          },
+          "sourcePage": 314,
+          "text": {
+            "sourceLanguage": "fil",
+            "sourceText": "Galing kay Mike ang mga bulaklak na iyan.",
+            "id": "Bunga itu berasal dari Mike.",
+            "tagalog": "Galing kay Mike ang mga bulaklak na iyan."
+          }
+        },
+        {
+          "type": "exercise",
+          "role": "content",
+          "title": {
+            "sourceLanguage": "mixed",
+            "sourceText": "B 10",
+            "id": "B 10 · halaman PDF 315"
+          },
+          "sourcePage": 315,
+          "text": {
+            "sourceLanguage": "fil",
+            "sourceText": "Ano ang meron doon sa Joe's Store?",
+            "id": "Apa yang mereka punya di Toko Joe?",
+            "tagalog": "Ano ang meron doon sa Joe's Store?"
+          }
+        },
+        {
+          "type": "exercise",
+          "role": "content",
+          "title": {
+            "sourceLanguage": "mixed",
+            "sourceText": "B 11",
+            "id": "B 11 · halaman PDF 316"
+          },
+          "sourcePage": 316,
+          "text": {
+            "sourceLanguage": "fil",
+            "sourceText": "May mga libro at iba't ibang school supplies.",
+            "id": "Ada buku-buku dan berbagai perlengkapan sekolah.",
+            "tagalog": "May mga libro at iba't ibang school supplies."
+          }
+        }
+      ]
+    },
+    {
+      "id": "summary",
+      "type": "SUMMARY",
+      "title": {
+        "sourceLanguage": "mixed",
+        "sourceText": "Ang bisita",
+        "id": "Ringkasan bab"
+      },
+      "blocks": [
+        {
+          "type": "text",
+          "style": "heading",
+          "text": {
+            "sourceLanguage": "mixed",
+            "sourceText": "Story A",
+            "id": "Dialog utama"
+          }
+        },
+        {
+          "type": "list",
+          "style": "outline",
+          "items": [
+            {
+              "sourceLanguage": "fil",
+              "sourceText": "Ang bisita",
+              "id": "Tamu",
+              "tagalog": "Ang bisita"
+            },
+            {
+              "sourceLanguage": "fil",
+              "sourceText": "Tao po'!",
+              "id": "Halo! Ada orang di rumah?",
+              "tagalog": "Tao po'!"
+            },
+            {
+              "sourceLanguage": "fil",
+              "sourceText": "Sino po' sila?",
+              "id": "Siapa disana? (Siapa kamu?) (sopan)",
+              "tagalog": "Sino po' sila?"
+            },
+            {
+              "sourceLanguage": "fil",
+              "sourceText": "Si Michael Ramirez po' ito.",
+              "id": "Itu Michael Ramirez. (sopan)",
+              "tagalog": "Si Michael Ramirez po' ito."
+            },
+            {
+              "sourceLanguage": "fil",
+              "sourceText": "A, ikaw lang pala, Mike. Tuloy ka!",
+              "id": "Oh, ternyata kamu, Mike. Silakan masuk!",
+              "tagalog": "A, ikaw lang pala, Mike. Tuloy ka!"
+            },
+            {
+              "sourceLanguage": "fil",
+              "sourceText": "Hello Mia. Ang laki ng bahay niyo, a!",
+              "id": "Halo Mia. Kalian (teman-teman) punya rumah yang besar!",
+              "tagalog": "Hello Mia. Ang laki ng bahay niyo, a!"
+            },
+            {
+              "sourceLanguage": "fil",
+              "sourceText": "Hindi' naman. Saan ka galing?",
+              "id": "Tidak juga. Kamu baru dari mana?",
+              "tagalog": "Hindi' naman. Saan ka galing?"
+            },
+            {
+              "sourceLanguage": "fil",
+              "sourceText": "Diyan lang. Meron pala akong dala para sa iyo.",
+              "id": "Dari dekat sini saja. Ngomong-ngomong, aku membawa sesuatu untukmu.",
+              "tagalog": "Diyan lang. Meron pala akong dala para sa iyo."
+            },
+            {
+              "sourceLanguage": "fil",
+              "sourceText": "Ang ganda ng bulaklak na ito! Salamat.",
+              "id": "Indah sekali bunga ini! Terima kasih.",
+              "tagalog": "Ang ganda ng bulaklak na ito! Salamat."
+            },
+            {
+              "sourceLanguage": "fil",
+              "sourceText": "Walang anuman.",
+              "id": "Terima kasih kembali.",
+              "tagalog": "Walang anuman."
+            },
+            {
+              "sourceLanguage": "fil",
+              "sourceText": "Gusto mo bang uminom ng Coke?",
+              "id": "Apakah Anda ingin minum Coke?",
+              "tagalog": "Gusto mo bang uminom ng Coke?"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "style": "heading",
+          "text": {
+            "sourceLanguage": "mixed",
+            "sourceText": "Drills",
+            "id": "Latihan pola"
+          }
+        },
+        {
+          "type": "list",
+          "style": "outline",
+          "items": [
+            {
+              "sourceLanguage": "fil",
+              "sourceText": "O sige.",
+              "id": "Oke.",
+              "tagalog": "O sige."
+            },
+            {
+              "sourceLanguage": "fil",
+              "sourceText": "Saan galing si Mike?",
+              "id": "Dari mana asal Mike?",
+              "tagalog": "Saan galing si Mike?"
+            },
+            {
+              "sourceLanguage": "fil",
+              "sourceText": "Ang ganda ng bahay nila!",
+              "id": "Rumah mereka sangat indah!",
+              "tagalog": "Ang ganda ng bahay nila!"
+            },
+            {
+              "sourceLanguage": "fil",
+              "sourceText": "Kanino ito?",
+              "id": "Milik siapa ini?",
+              "tagalog": "Kanino ito?"
+            },
+            {
+              "sourceLanguage": "fil",
+              "sourceText": "Kay Alfred iyan.",
+              "id": "Itu milik Alfred.",
+              "tagalog": "Kay Alfred iyan."
+            },
+            {
+              "sourceLanguage": "fil",
+              "sourceText": "Para kanino ito?",
+              "id": "Untuk siapa ini?",
+              "tagalog": "Para kanino ito?"
+            },
+            {
+              "sourceLanguage": "fil",
+              "sourceText": "Para kay Reybert iyan.",
+              "id": "Itu untuk Reybert.",
+              "tagalog": "Para kay Reybert iyan."
+            },
+            {
+              "sourceLanguage": "fil",
+              "sourceText": "Para saan ang mga bulaklak na ito?",
+              "id": "Untuk apa bunga-bunga ini?",
+              "tagalog": "Para saan ang mga bulaklak na ito?"
+            },
+            {
+              "sourceLanguage": "fil",
+              "sourceText": "Para sa kasal mamaya'.",
+              "id": "Untuk pernikahan hari ini.",
+              "tagalog": "Para sa kasal mamaya'."
+            },
+            {
+              "sourceLanguage": "fil",
+              "sourceText": "Galing kay Mike ang mga bulaklak na iyan.",
+              "id": "Bunga itu berasal dari Mike.",
+              "tagalog": "Galing kay Mike ang mga bulaklak na iyan."
+            },
+            {
+              "sourceLanguage": "fil",
+              "sourceText": "Ano ang meron doon sa Joe's Store?",
+              "id": "Apa yang mereka punya di Toko Joe?",
+              "tagalog": "Ano ang meron doon sa Joe's Store?"
+            },
+            {
+              "sourceLanguage": "fil",
+              "sourceText": "May mga libro at iba't ibang school supplies.",
+              "id": "Ada buku-buku dan berbagai perlengkapan sekolah.",
+              "tagalog": "May mga libro at iba't ibang school supplies."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "contentAudit": {
+    "sourcePages": 26,
+    "phrasePages": 23,
+    "storyPhrases": 11,
+    "drillPhrases": 12,
+    "noteBlocks": 22,
+    "vocabularyEntries": 67,
+    "sourceTextItemsBefore": 92,
+    "sourceTextItemsAfter": 92,
+    "recapVerified": true,
+    "imageCount": 1
+  }
+}

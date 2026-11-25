@@ -1,0 +1,2171 @@
+{
+  "schemaVersion": 1,
+  "structureVersion": 2,
+  "id": "learning-tagalog-course-book-1-lesson-07",
+  "courseId": "learning-tagalog-course-book-1",
+  "unitId": "course-book-1-unit-02-objects-and-shopping",
+  "order": 7,
+  "level": "BEGINNER",
+  "title": {
+    "id": "Ada surat",
+    "fil": "May sulat"
+  },
+  "summary": {
+    "id": "Tukang pos membawa surat untuk Tuan Cruz tetapi hanya putrinya yang ada di rumah.",
+    "fil": "May sulat"
+  },
+  "objectives": [
+    {
+      "sourceLanguage": "mixed",
+      "sourceText": "Chapter 7 · Story A",
+      "id": "Memahami dialog utama Bab 7 tentang ada surat."
+    },
+    {
+      "sourceLanguage": "mixed",
+      "sourceText": "Literal and natural translations",
+      "id": "Membandingkan susunan Tagalog dengan glosa harfiah dan terjemahan alami dari sumber."
+    },
+    {
+      "sourceLanguage": "mixed",
+      "sourceText": "Drills",
+      "id": "Melatih kembali pola dan ungkapan pada bagian Drills."
+    }
+  ],
+  "source": {
+    "book": "Learning Tagalog - Fluency Made Fast and Easy - Course Book 1",
+    "file": "Learning Tagalog - Fluency Made Fast and Easy - Course Book 1.pdf",
+    "pdfSha256": "52e9f464239c2ae98248a452edfbf1f58eb01bec69374a16d5205e70afa80f58",
+    "chapter": 7,
+    "pages": {
+      "start": 156,
+      "end": 180
+    },
+    "drillsDividerPage": 166,
+    "recapPage": 180
+  },
+  "sourceLinks": [
+    {
+      "page": 161,
+      "uri": "https://learningtagalog.com/grammar/enclitic_words/overview.html"
+    },
+    {
+      "page": 161,
+      "uri": "https://learningtagalog.com/grammar/enclitic_words/using_enclitic_words/order_of_enclitic_words.html"
+    },
+    {
+      "page": 171,
+      "uri": "https://learningtagalog.com/grammar/other_describing_words/expressing_location/wala_sa_wala_rito.html"
+    },
+    {
+      "page": 174,
+      "uri": "https://learningtagalog.com/grammar/enclitic_words/using_enclitic_words/enclitic_words_and_na_ng.html"
+    }
+  ],
+  "assets": [
+    "assets/07-may-sulat.jpg"
+  ],
+  "sections": [
+    {
+      "id": "introduction",
+      "type": "INTRODUCTION",
+      "title": {
+        "sourceLanguage": "mixed",
+        "sourceText": "There's a letter",
+        "id": "Ada surat"
+      },
+      "blocks": [
+        {
+          "type": "image",
+          "path": "assets/07-may-sulat.jpg",
+          "sourcePage": 156
+        },
+        {
+          "type": "text",
+          "style": "heading",
+          "text": {
+            "sourceLanguage": "en",
+            "sourceText": "There's a letter",
+            "id": "Ada surat"
+          }
+        }
+      ]
+    },
+    {
+      "id": "learning-material",
+      "type": "LEARNING_MATERIAL",
+      "title": {
+        "sourceLanguage": "mixed",
+        "sourceText": "Chapter context",
+        "id": "Konteks bab"
+      },
+      "blocks": [
+        {
+          "type": "text",
+          "style": "body",
+          "sourcePage": 156,
+          "text": {
+            "sourceLanguage": "en",
+            "sourceText": "The postman brings a letter for Mr. Cruz but only his daughter is home.",
+            "id": "Tukang pos membawa surat untuk Tuan Cruz tetapi hanya putrinya yang ada di rumah."
+          }
+        }
+      ]
+    },
+    {
+      "id": "dialogue",
+      "type": "DIALOGUE",
+      "title": {
+        "sourceLanguage": "mixed",
+        "sourceText": "Story A",
+        "id": "Dialog utama (Bagian A)"
+      },
+      "blocks": [
+        {
+          "type": "dialogue",
+          "turns": [
+            {
+              "speaker": "A 01",
+              "speakerText": {
+                "sourceLanguage": "mixed",
+                "sourceText": "A 01",
+                "id": "Bagian A 01"
+              },
+              "text": {
+                "sourceLanguage": "fil",
+                "sourceText": "May sulat",
+                "id": "Ada surat",
+                "tagalog": "May sulat"
+              },
+              "sourcePage": 157
+            },
+            {
+              "speaker": "A 02",
+              "speakerText": {
+                "sourceLanguage": "mixed",
+                "sourceText": "A 02",
+                "id": "Bagian A 02"
+              },
+              "text": {
+                "sourceLanguage": "fil",
+                "sourceText": "Tao po'!",
+                "id": "Ada orang di rumah?",
+                "tagalog": "Tao po'!"
+              },
+              "sourcePage": 158
+            },
+            {
+              "speaker": "A 03",
+              "speakerText": {
+                "sourceLanguage": "mixed",
+                "sourceText": "A 03",
+                "id": "Bagian A 03"
+              },
+              "text": {
+                "sourceLanguage": "fil",
+                "sourceText": "Ano po' iyon?",
+                "id": "Ya? (Ada apa?) (sopan)",
+                "tagalog": "Ano po' iyon?"
+              },
+              "sourcePage": 159
+            },
+            {
+              "speaker": "A 04",
+              "speakerText": {
+                "sourceLanguage": "mixed",
+                "sourceText": "A 04",
+                "id": "Bagian A 04"
+              },
+              "text": {
+                "sourceLanguage": "fil",
+                "sourceText": "May sulat para sa tatay mo.",
+                "id": "Ada surat untuk ayahmu.",
+                "tagalog": "May sulat para sa tatay mo."
+              },
+              "sourcePage": 160
+            },
+            {
+              "speaker": "A 05",
+              "speakerText": {
+                "sourceLanguage": "mixed",
+                "sourceText": "A 05",
+                "id": "Bagian A 05"
+              },
+              "text": {
+                "sourceLanguage": "fil",
+                "sourceText": "Umalis po' siya e.",
+                "id": "Sayangnya, dia sedang keluar. (Dia sudah pergi.) (sopan)",
+                "tagalog": "Umalis po' siya e."
+              },
+              "sourcePage": 161
+            },
+            {
+              "speaker": "A 06",
+              "speakerText": {
+                "sourceLanguage": "mixed",
+                "sourceText": "A 06",
+                "id": "Bagian A 06"
+              },
+              "text": {
+                "sourceLanguage": "fil",
+                "sourceText": "Nandito ba ang nanay mo?",
+                "id": "Apakah ibumu ada di rumah?",
+                "tagalog": "Nandito ba ang nanay mo?"
+              },
+              "sourcePage": 162
+            },
+            {
+              "speaker": "A 07",
+              "speakerText": {
+                "sourceLanguage": "mixed",
+                "sourceText": "A 07",
+                "id": "Bagian A 07"
+              },
+              "text": {
+                "sourceLanguage": "fil",
+                "sourceText": "Wala' rin po' siya.",
+                "id": "Dia juga tidak ada di sini. (sopan)",
+                "tagalog": "Wala' rin po' siya."
+              },
+              "sourcePage": 163
+            },
+            {
+              "speaker": "A 08",
+              "speakerText": {
+                "sourceLanguage": "mixed",
+                "sourceText": "A 08",
+                "id": "Bagian A 08"
+              },
+              "text": {
+                "sourceLanguage": "fil",
+                "sourceText": "Ganoon ba? Di' bale. Eto ang sulat para sa tatay mo.",
+                "id": "Apakah begitu? Sudahlah kalau begitu. Ini surat untuk ayahmu.",
+                "tagalog": "Ganoon ba? Di' bale. Eto ang sulat para sa tatay mo."
+              },
+              "sourcePage": 164
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "vocabulary",
+      "type": "VOCABULARY",
+      "title": {
+        "sourceLanguage": "mixed",
+        "sourceText": "Vocabulary and expressions",
+        "id": "Kosakata dan ungkapan"
+      },
+      "blocks": [
+        {
+          "type": "vocabulary",
+          "entries": [
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "May",
+                "id": "Ada",
+                "tagalog": "May"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "There is",
+                "id": "Ada"
+              },
+              "sourcePage": 157
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "sulat",
+                "id": "Surat",
+                "tagalog": "sulat"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "letter",
+                "id": "Surat"
+              },
+              "sourcePage": 157
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "Tao",
+                "id": "Orang",
+                "tagalog": "Tao"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "Person",
+                "id": "Orang"
+              },
+              "sourcePage": 158
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "po'!",
+                "id": "[sopan]!",
+                "tagalog": "po'!"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "[polite]!",
+                "id": "[sopan]!"
+              },
+              "sourcePage": 158
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "Ano",
+                "id": "Apa",
+                "tagalog": "Ano"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "What",
+                "id": "Apa"
+              },
+              "sourcePage": 159
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "iyon?",
+                "id": "Dia?",
+                "tagalog": "iyon?"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "it?",
+                "id": "Dia?"
+              },
+              "sourcePage": 159
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "para sa",
+                "id": "Untuk",
+                "tagalog": "para sa"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "for",
+                "id": "Untuk"
+              },
+              "sourcePage": 160
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "tatay",
+                "id": "Ayah",
+                "tagalog": "tatay"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "dad",
+                "id": "Ayah"
+              },
+              "sourcePage": 160
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "mo.",
+                "id": "Milikmu.",
+                "tagalog": "mo."
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "your.",
+                "id": "Milikmu."
+              },
+              "sourcePage": 160
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "Umalis",
+                "id": "Kiri",
+                "tagalog": "Umalis"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "Left",
+                "id": "Kiri"
+              },
+              "sourcePage": 161
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "siya",
+                "id": "Dia",
+                "tagalog": "siya"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "he/she",
+                "id": "Dia"
+              },
+              "sourcePage": 161
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "e.",
+                "id": "Saya takut.",
+                "tagalog": "e."
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "I'm afraid.",
+                "id": "Saya takut."
+              },
+              "sourcePage": 161
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "Nandito",
+                "id": "Apakah disini",
+                "tagalog": "Nandito"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "Is here",
+                "id": "Apakah disini"
+              },
+              "sourcePage": 162
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "ba",
+                "id": "[penanda tanya]",
+                "tagalog": "ba"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "[question]",
+                "id": "[penanda tanya]"
+              },
+              "sourcePage": 162
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "ang",
+                "id": "penanda definit",
+                "tagalog": "ang"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "the",
+                "id": "penanda definit"
+              },
+              "sourcePage": 162
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "nanay",
+                "id": "Mama",
+                "tagalog": "nanay"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "mom",
+                "id": "Mama"
+              },
+              "sourcePage": 162
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "Wala'",
+                "id": "Tidak ada di sini",
+                "tagalog": "Wala'"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "Is not here",
+                "id": "Tidak ada di sini"
+              },
+              "sourcePage": 163
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "rin",
+                "id": "Salah satu",
+                "tagalog": "rin"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "either",
+                "id": "Salah satu"
+              },
+              "sourcePage": 163
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "Ganoon",
+                "id": "Seperti itu (di sana)",
+                "tagalog": "Ganoon"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "Like that (over there)",
+                "id": "Seperti itu (di sana)"
+              },
+              "sourcePage": 164
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "Di' bale.",
+                "id": "Sudahlah.",
+                "tagalog": "Di' bale."
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "Never mind.",
+                "id": "Sudahlah."
+              },
+              "sourcePage": 164
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "Eto",
+                "id": "Di sini adalah",
+                "tagalog": "Eto"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "Here is",
+                "id": "Di sini adalah"
+              },
+              "sourcePage": 164
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "Sige",
+                "id": "Oke",
+                "tagalog": "Sige"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "OK",
+                "id": "Oke"
+              },
+              "sourcePage": 165
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "Salamat",
+                "id": "Terima kasih",
+                "tagalog": "Salamat"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "Thank you",
+                "id": "Terima kasih"
+              },
+              "sourcePage": 165
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "Nandiyan",
+                "id": "Apakah ada (di dekatmu)",
+                "tagalog": "Nandiyan"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "Is there (near you)",
+                "id": "Apakah ada (di dekatmu)"
+              },
+              "sourcePage": 169
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "na",
+                "id": "Sekarang",
+                "tagalog": "na"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "now",
+                "id": "Sekarang"
+              },
+              "sourcePage": 169
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "si",
+                "id": "[penanda ang]",
+                "tagalog": "si"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "[Ang marker]",
+                "id": "[penanda ang]"
+              },
+              "sourcePage": 169
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "Nandoon",
+                "id": "Ada di sana",
+                "tagalog": "Nandoon"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "Is over there",
+                "id": "Ada di sana"
+              },
+              "sourcePage": 170
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "susi'.",
+                "id": "Kunci.",
+                "tagalog": "susi'."
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "key.",
+                "id": "Kunci."
+              },
+              "sourcePage": 170
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "sila",
+                "id": "Mereka",
+                "tagalog": "sila"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "they",
+                "id": "Mereka"
+              },
+              "sourcePage": 171
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "sa",
+                "id": "Pada",
+                "tagalog": "sa"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "at",
+                "id": "Pada"
+              },
+              "sourcePage": 171
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "bahay.",
+                "id": "Rumah.",
+                "tagalog": "bahay."
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "home.",
+                "id": "Rumah."
+              },
+              "sourcePage": 171
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "Walang",
+                "id": "Tidak ada-[penghubung]",
+                "tagalog": "Walang"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "There is no-[linker]",
+                "id": "Tidak ada-[penghubung]"
+              },
+              "sourcePage": 173
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "pong",
+                "id": "[sopan]-[penghubung]",
+                "tagalog": "pong"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "[polite]-[linker]",
+                "id": "[sopan]-[penghubung]"
+              },
+              "sourcePage": 174
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "Nasa",
+                "id": "Ada di",
+                "tagalog": "Nasa"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "Is in",
+                "id": "Ada di"
+              },
+              "sourcePage": 175
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "ospital",
+                "id": "RSUD",
+                "tagalog": "ospital"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "hospital",
+                "id": "RSUD"
+              },
+              "sourcePage": 175
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "sakit",
+                "id": "Penyakit",
+                "tagalog": "sakit"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "illness",
+                "id": "Penyakit"
+              },
+              "sourcePage": 176
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "niya?",
+                "id": "Miliknya?",
+                "tagalog": "niya?"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "his/her?",
+                "id": "Miliknya?"
+              },
+              "sourcePage": 176
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "Nurse",
+                "id": "Perawat",
+                "tagalog": "Nurse"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "Nurse",
+                "id": "Perawat"
+              },
+              "sourcePage": 177
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "pangalan",
+                "id": "Nama",
+                "tagalog": "pangalan"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "name",
+                "id": "Nama"
+              },
+              "sourcePage": 178
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "Hindi'",
+                "id": "Bukan",
+                "tagalog": "Hindi'"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "Not",
+                "id": "Bukan"
+              },
+              "sourcePage": 179
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "ko",
+                "id": "Oleh saya",
+                "tagalog": "ko"
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "by me",
+                "id": "Oleh saya"
+              },
+              "sourcePage": 179
+            },
+            {
+              "term": {
+                "sourceLanguage": "fil",
+                "sourceText": "alam.",
+                "id": "Diketahui.",
+                "tagalog": "alam."
+              },
+              "meaning": {
+                "sourceLanguage": "en",
+                "sourceText": "known.",
+                "id": "Diketahui."
+              },
+              "sourcePage": 179
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "style": "body",
+          "sourcePage": 158,
+          "sourceLabel": "A 02",
+          "links": [],
+          "text": {
+            "sourceLanguage": "en",
+            "sourceText": "Po' (or ho') is used for talking politely to older people, superiors, adult strangers and adult customers. It is sometimes translated as sir or ma'am.",
+            "id": "A 02 · halaman PDF 158\n\nPo' (atau ho') digunakan untuk berbicara sopan kepada orang yang lebih tua, atasan, orang asing dewasa, dan pelanggan dewasa. Kadang-kadang diterjemahkan sebagai tuan atau nyonya."
+          }
+        },
+        {
+          "type": "text",
+          "style": "body",
+          "sourcePage": 159,
+          "sourceLabel": "A 03",
+          "links": [],
+          "text": {
+            "sourceLanguage": "en",
+            "sourceText": "Iyon can also be understood as it.",
+            "id": "A 03 · halaman PDF 159\n\nIyon juga dapat dipahami seperti itu."
+          }
+        },
+        {
+          "type": "text",
+          "style": "body",
+          "sourcePage": 161,
+          "sourceLabel": "A 05",
+          "links": [
+            "https://learningtagalog.com/grammar/enclitic_words/overview.html",
+            "https://learningtagalog.com/grammar/enclitic_words/using_enclitic_words/order_of_enclitic_words.html"
+          ],
+          "text": {
+            "sourceLanguage": "en",
+            "sourceText": "Recommended reading: Enclitic words: Overview and Order of enclitic words.",
+            "id": "A 05 · halaman PDF 161\n\nBacaan yang disarankan: Kata-kata enklitik: Ikhtisar dan Urutan kata-kata enklitik."
+          }
+        },
+        {
+          "type": "text",
+          "style": "body",
+          "sourcePage": 163,
+          "sourceLabel": "A 07",
+          "links": [],
+          "text": {
+            "sourceLanguage": "en",
+            "sourceText": "Rin, po' and siya are enclitic words.",
+            "id": "A 07 · halaman PDF 163\n\nRin, po' dan siya merupakan kata enklitik."
+          }
+        },
+        {
+          "type": "text",
+          "style": "body",
+          "sourcePage": 171,
+          "sourceLabel": "B 05",
+          "links": [
+            "https://learningtagalog.com/grammar/other_describing_words/expressing_location/wala_sa_wala_rito.html"
+          ],
+          "text": {
+            "sourceLanguage": "en",
+            "sourceText": "Wala' sa is the opposite of nasa. Sila is enclitic.",
+            "id": "B 05 · halaman PDF 171\n\nWala' sa adalah kebalikan dari nasa. Sila adalah enklitik."
+          }
+        },
+        {
+          "type": "text",
+          "style": "body",
+          "sourcePage": 171,
+          "sourceLabel": "B 05",
+          "links": [
+            "https://learningtagalog.com/grammar/other_describing_words/expressing_location/wala_sa_wala_rito.html"
+          ],
+          "text": {
+            "sourceLanguage": "en",
+            "sourceText": "Optional reading: Wala sa, wala rito.",
+            "id": "B 05 · halaman PDF 171\n\nBacaan opsional: Wala sa, wala rito."
+          }
+        },
+        {
+          "type": "text",
+          "style": "body",
+          "sourcePage": 174,
+          "sourceLabel": "B 08",
+          "links": [
+            "https://learningtagalog.com/grammar/enclitic_words/using_enclitic_words/enclitic_words_and_na_ng.html"
+          ],
+          "text": {
+            "sourceLanguage": "en",
+            "sourceText": "Walang tao becomes wala' pong tao in polite speech. Na/-ng is inserted after po'.",
+            "id": "B 08 · halaman PDF 174\n\nWalang tao menjadi wala' pong tao dalam tuturan sopan. Na/-ng dimasukkan setelah po'."
+          }
+        },
+        {
+          "type": "text",
+          "style": "body",
+          "sourcePage": 174,
+          "sourceLabel": "B 08",
+          "links": [
+            "https://learningtagalog.com/grammar/enclitic_words/using_enclitic_words/enclitic_words_and_na_ng.html"
+          ],
+          "text": {
+            "sourceLanguage": "en",
+            "sourceText": "Optional reading: Enclitic words and na/-ng.",
+            "id": "B 08 · halaman PDF 174\n\nBacaan opsional: Kata-kata enklitik dan na/-ng."
+          }
+        },
+        {
+          "type": "text",
+          "style": "body",
+          "sourcePage": 179,
+          "sourceLabel": "B 13",
+          "links": [],
+          "text": {
+            "sourceLanguage": "en",
+            "sourceText": "Hindi' alam – not known. Ko is enclitic.",
+            "id": "B 13 · halaman PDF 179\n\nHindi' alam – tidak diketahui. Ko adalah enklitik."
+          }
+        }
+      ]
+    },
+    {
+      "id": "grammar",
+      "type": "GRAMMAR",
+      "title": {
+        "sourceLanguage": "mixed",
+        "sourceText": "Grammar and pronunciation notes",
+        "id": "Catatan tata bahasa dan pelafalan"
+      },
+      "blocks": [
+        {
+          "type": "text",
+          "style": "body",
+          "sourcePage": 158,
+          "sourceLabel": "A 02",
+          "links": [],
+          "text": {
+            "sourceLanguage": "en",
+            "sourceText": "The expression Tao po' is used to announce one's presence at the door or gate of a house, in the absence of a doorbell.",
+            "id": "A 02 · halaman PDF 158\n\nEkspresi Tao po' digunakan untuk mengumumkan kehadiran seseorang di depan pintu atau gerbang sebuah rumah, tanpa adanya bel pintu."
+          }
+        },
+        {
+          "type": "text",
+          "style": "body",
+          "sourcePage": 161,
+          "sourceLabel": "A 05",
+          "links": [
+            "https://learningtagalog.com/grammar/enclitic_words/overview.html",
+            "https://learningtagalog.com/grammar/enclitic_words/using_enclitic_words/order_of_enclitic_words.html"
+          ],
+          "text": {
+            "sourceLanguage": "en",
+            "sourceText": "Po' is an enclitic word. Enclitic words are words that generally follow either the first word of the sentence or another enclitic word.",
+            "id": "A 05 · halaman PDF 161\n\nPo' adalah kata enklitik. Kata enklitik adalah kata-kata yang umumnya mengikuti kata pertama kalimat atau kata enklitik lainnya."
+          }
+        },
+        {
+          "type": "text",
+          "style": "body",
+          "sourcePage": 163,
+          "sourceLabel": "A 07",
+          "links": [],
+          "text": {
+            "sourceLanguage": "en",
+            "sourceText": "Wala' can also mean is/are/was/were not here/there. With this meaning, wala' doesn't take a linker.",
+            "id": "A 07 · halaman PDF 163\n\nWala' juga bisa berarti ada/sedang/tidak ada di sini/sana. Dengan arti ini, wala' tidak menggunakan linker."
+          }
+        },
+        {
+          "type": "text",
+          "style": "body",
+          "sourcePage": 164,
+          "sourceLabel": "A 08",
+          "links": [],
+          "text": {
+            "sourceLanguage": "en",
+            "sourceText": "Eto is used when introducing something, handing something to someone or pointing to something (near the speaker). Nandito, on the other hand, is used more generally to indicate where something is.",
+            "id": "A 08 · halaman PDF 164\n\nEto digunakan saat memperkenalkan sesuatu, menyerahkan sesuatu kepada seseorang atau menunjuk sesuatu (dekat pembicara). Nandito, sebaliknya, digunakan secara lebih umum untuk menunjukkan di mana sesuatu berada."
+          }
+        },
+        {
+          "type": "text",
+          "style": "body",
+          "sourcePage": 169,
+          "sourceLabel": "B 03",
+          "links": [],
+          "text": {
+            "sourceLanguage": "en",
+            "sourceText": "Here, Tatay is a nickname (\"Dad\") and therefore, takes si as a marker, not ang.",
+            "id": "B 03 · halaman PDF 169\n\nDi sini, Tatay adalah nama panggilan (\"Ayah\") dan oleh karena itu, menggunakan si sebagai penanda, bukan ang."
+          }
+        }
+      ]
+    },
+    {
+      "id": "examples",
+      "type": "EXAMPLES",
+      "title": {
+        "sourceLanguage": "mixed",
+        "sourceText": "Literal and natural translations",
+        "id": "Contoh dengan glosa harfiah dan alami"
+      },
+      "blocks": [
+        {
+          "type": "example",
+          "title": {
+            "sourceLanguage": "mixed",
+            "sourceText": "A 01",
+            "id": "A 01 · halaman PDF 157"
+          },
+          "sourcePage": 157,
+          "rows": [
+            {
+              "cells": [
+                {
+                  "sourceLanguage": "fil",
+                  "sourceText": "May sulat",
+                  "id": "Ada surat",
+                  "tagalog": "May sulat"
+                },
+                {
+                  "sourceLanguage": "en",
+                  "sourceText": "There is letter",
+                  "id": "Glosa harfiah (Inggris)\nThere is letter"
+                },
+                {
+                  "sourceLanguage": "en",
+                  "sourceText": "There's a letter",
+                  "id": "Terjemahan alami sumber (Inggris)\nThere's a letter"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "example",
+          "title": {
+            "sourceLanguage": "mixed",
+            "sourceText": "A 02",
+            "id": "A 02 · halaman PDF 158"
+          },
+          "sourcePage": 158,
+          "rows": [
+            {
+              "cells": [
+                {
+                  "sourceLanguage": "fil",
+                  "sourceText": "Tao po'!",
+                  "id": "Ada orang di rumah?",
+                  "tagalog": "Tao po'!"
+                },
+                {
+                  "sourceLanguage": "en",
+                  "sourceText": "Person [polite]!",
+                  "id": "Glosa harfiah (Inggris)\nPerson [polite]!"
+                },
+                {
+                  "sourceLanguage": "en",
+                  "sourceText": "Anyone home?",
+                  "id": "Terjemahan alami sumber (Inggris)\nAnyone home?"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "example",
+          "title": {
+            "sourceLanguage": "mixed",
+            "sourceText": "A 03",
+            "id": "A 03 · halaman PDF 159"
+          },
+          "sourcePage": 159,
+          "rows": [
+            {
+              "cells": [
+                {
+                  "sourceLanguage": "fil",
+                  "sourceText": "Ano po' iyon?",
+                  "id": "Ya? (Ada apa?) (sopan)",
+                  "tagalog": "Ano po' iyon?"
+                },
+                {
+                  "sourceLanguage": "en",
+                  "sourceText": "What [polite] it?",
+                  "id": "Glosa harfiah (Inggris)\nWhat [polite] it?"
+                },
+                {
+                  "sourceLanguage": "en",
+                  "sourceText": "Yes? (What is it?) (polite)",
+                  "id": "Terjemahan alami sumber (Inggris)\nYes? (What is it?) (polite)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "example",
+          "title": {
+            "sourceLanguage": "mixed",
+            "sourceText": "A 04",
+            "id": "A 04 · halaman PDF 160"
+          },
+          "sourcePage": 160,
+          "rows": [
+            {
+              "cells": [
+                {
+                  "sourceLanguage": "fil",
+                  "sourceText": "May sulat para sa tatay mo.",
+                  "id": "Ada surat untuk ayahmu.",
+                  "tagalog": "May sulat para sa tatay mo."
+                },
+                {
+                  "sourceLanguage": "en",
+                  "sourceText": "There is letter for dad your.",
+                  "id": "Glosa harfiah (Inggris)\nThere is letter for dad your."
+                },
+                {
+                  "sourceLanguage": "en",
+                  "sourceText": "There's a letter for your dad.",
+                  "id": "Terjemahan alami sumber (Inggris)\nThere's a letter for your dad."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "example",
+          "title": {
+            "sourceLanguage": "mixed",
+            "sourceText": "A 05",
+            "id": "A 05 · halaman PDF 161"
+          },
+          "sourcePage": 161,
+          "rows": [
+            {
+              "cells": [
+                {
+                  "sourceLanguage": "fil",
+                  "sourceText": "Umalis po' siya e.",
+                  "id": "Sayangnya, dia sedang keluar. (Dia sudah pergi.) (sopan)",
+                  "tagalog": "Umalis po' siya e."
+                },
+                {
+                  "sourceLanguage": "en",
+                  "sourceText": "Left [polite] he/she I'm afraid.",
+                  "id": "Glosa harfiah (Inggris)\nLeft [polite] he/she I'm afraid."
+                },
+                {
+                  "sourceLanguage": "en",
+                  "sourceText": "I'm afraid he's out. (I'm afraid he left.) (polite)",
+                  "id": "Terjemahan alami sumber (Inggris)\nI'm afraid he's out. (I'm afraid he left.) (polite)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "example",
+          "title": {
+            "sourceLanguage": "mixed",
+            "sourceText": "A 06",
+            "id": "A 06 · halaman PDF 162"
+          },
+          "sourcePage": 162,
+          "rows": [
+            {
+              "cells": [
+                {
+                  "sourceLanguage": "fil",
+                  "sourceText": "Nandito ba ang nanay mo?",
+                  "id": "Apakah ibumu ada di rumah?",
+                  "tagalog": "Nandito ba ang nanay mo?"
+                },
+                {
+                  "sourceLanguage": "en",
+                  "sourceText": "Is here [question] the mom your?",
+                  "id": "Glosa harfiah (Inggris)\nIs here [question] the mom your?"
+                },
+                {
+                  "sourceLanguage": "en",
+                  "sourceText": "Is your mom here (home)?",
+                  "id": "Terjemahan alami sumber (Inggris)\nIs your mom here (home)?"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "example",
+          "title": {
+            "sourceLanguage": "mixed",
+            "sourceText": "A 07",
+            "id": "A 07 · halaman PDF 163"
+          },
+          "sourcePage": 163,
+          "rows": [
+            {
+              "cells": [
+                {
+                  "sourceLanguage": "fil",
+                  "sourceText": "Wala' rin po' siya.",
+                  "id": "Dia juga tidak ada di sini. (sopan)",
+                  "tagalog": "Wala' rin po' siya."
+                },
+                {
+                  "sourceLanguage": "en",
+                  "sourceText": "Is not here either [polite] he/she.",
+                  "id": "Glosa harfiah (Inggris)\nIs not here either [polite] he/she."
+                },
+                {
+                  "sourceLanguage": "en",
+                  "sourceText": "She's not here either. (polite)",
+                  "id": "Terjemahan alami sumber (Inggris)\nShe's not here either. (polite)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "example",
+          "title": {
+            "sourceLanguage": "mixed",
+            "sourceText": "A 08",
+            "id": "A 08 · halaman PDF 164"
+          },
+          "sourcePage": 164,
+          "rows": [
+            {
+              "cells": [
+                {
+                  "sourceLanguage": "fil",
+                  "sourceText": "Ganoon ba? Di' bale. Eto ang sulat para sa tatay mo.",
+                  "id": "Apakah begitu? Sudahlah kalau begitu. Ini surat untuk ayahmu.",
+                  "tagalog": "Ganoon ba? Di' bale. Eto ang sulat para sa tatay mo."
+                },
+                {
+                  "sourceLanguage": "en",
+                  "sourceText": "Like that (over there) [question]? Never mind. Here is the letter for dad your.",
+                  "id": "Glosa harfiah (Inggris)\nLike that (over there) [question]? Never mind. Here is the letter for dad your."
+                },
+                {
+                  "sourceLanguage": "en",
+                  "sourceText": "Is that so? Never mind then. Here's the letter for your dad.",
+                  "id": "Terjemahan alami sumber (Inggris)\nIs that so? Never mind then. Here's the letter for your dad."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "example",
+          "title": {
+            "sourceLanguage": "mixed",
+            "sourceText": "A 09",
+            "id": "A 09 · halaman PDF 165"
+          },
+          "sourcePage": 165,
+          "rows": [
+            {
+              "cells": [
+                {
+                  "sourceLanguage": "fil",
+                  "sourceText": "Sige po'. Salamat po'.",
+                  "id": "Oke. Terima kasih. (sopan)",
+                  "tagalog": "Sige po'. Salamat po'."
+                },
+                {
+                  "sourceLanguage": "en",
+                  "sourceText": "OK [polite]. Thank you [polite].",
+                  "id": "Glosa harfiah (Inggris)\nOK [polite]. Thank you [polite]."
+                },
+                {
+                  "sourceLanguage": "en",
+                  "sourceText": "OK. Thank you. (polite)",
+                  "id": "Terjemahan alami sumber (Inggris)\nOK. Thank you. (polite)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "example",
+          "title": {
+            "sourceLanguage": "mixed",
+            "sourceText": "B 01",
+            "id": "B 01 · halaman PDF 167"
+          },
+          "sourcePage": 167,
+          "rows": [
+            {
+              "cells": [
+                {
+                  "sourceLanguage": "fil",
+                  "sourceText": "Nandito ang sulat.",
+                  "id": "Suratnya ada di sini.",
+                  "tagalog": "Nandito ang sulat."
+                },
+                {
+                  "sourceLanguage": "en",
+                  "sourceText": "Is here the letter.",
+                  "id": "Glosa harfiah (Inggris)\nIs here the letter."
+                },
+                {
+                  "sourceLanguage": "en",
+                  "sourceText": "The letter is here.",
+                  "id": "Terjemahan alami sumber (Inggris)\nThe letter is here."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "example",
+          "title": {
+            "sourceLanguage": "mixed",
+            "sourceText": "B 02",
+            "id": "B 02 · halaman PDF 168"
+          },
+          "sourcePage": 168,
+          "rows": [
+            {
+              "cells": [
+                {
+                  "sourceLanguage": "fil",
+                  "sourceText": "Nandito po' ang sulat.",
+                  "id": "Suratnya ada di sini. (sopan)",
+                  "tagalog": "Nandito po' ang sulat."
+                },
+                {
+                  "sourceLanguage": "en",
+                  "sourceText": "Is here [polite] the letter.",
+                  "id": "Glosa harfiah (Inggris)\nIs here [polite] the letter."
+                },
+                {
+                  "sourceLanguage": "en",
+                  "sourceText": "The letter is here. (polite)",
+                  "id": "Terjemahan alami sumber (Inggris)\nThe letter is here. (polite)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "example",
+          "title": {
+            "sourceLanguage": "mixed",
+            "sourceText": "B 03",
+            "id": "B 03 · halaman PDF 169"
+          },
+          "sourcePage": 169,
+          "rows": [
+            {
+              "cells": [
+                {
+                  "sourceLanguage": "fil",
+                  "sourceText": "Nandiyan na si Tatay.",
+                  "id": "Ayah ada di sana sekarang. (Ayah telah tiba.)",
+                  "tagalog": "Nandiyan na si Tatay."
+                },
+                {
+                  "sourceLanguage": "en",
+                  "sourceText": "Is there (near you) now [Ang marker] Dad.",
+                  "id": "Glosa harfiah (Inggris)\nIs there (near you) now [Ang marker] Dad."
+                },
+                {
+                  "sourceLanguage": "en",
+                  "sourceText": "Dad is there now. (Dad has arrived.)",
+                  "id": "Terjemahan alami sumber (Inggris)\nDad is there now. (Dad has arrived.)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "example",
+          "title": {
+            "sourceLanguage": "mixed",
+            "sourceText": "B 04",
+            "id": "B 04 · halaman PDF 170"
+          },
+          "sourcePage": 170,
+          "rows": [
+            {
+              "cells": [
+                {
+                  "sourceLanguage": "fil",
+                  "sourceText": "Nandoon ang susi'.",
+                  "id": "Kuncinya ada di sana.",
+                  "tagalog": "Nandoon ang susi'."
+                },
+                {
+                  "sourceLanguage": "en",
+                  "sourceText": "Is over there the key.",
+                  "id": "Glosa harfiah (Inggris)\nIs over there the key."
+                },
+                {
+                  "sourceLanguage": "en",
+                  "sourceText": "The key is over there.",
+                  "id": "Terjemahan alami sumber (Inggris)\nThe key is over there."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "example",
+          "title": {
+            "sourceLanguage": "mixed",
+            "sourceText": "B 05",
+            "id": "B 05 · halaman PDF 171"
+          },
+          "sourcePage": 171,
+          "rows": [
+            {
+              "cells": [
+                {
+                  "sourceLanguage": "fil",
+                  "sourceText": "Wala' sila sa bahay.",
+                  "id": "Mereka tidak ada di rumah.",
+                  "tagalog": "Wala' sila sa bahay."
+                },
+                {
+                  "sourceLanguage": "en",
+                  "sourceText": "Are not they at home.",
+                  "id": "Glosa harfiah (Inggris)\nAre not they at home."
+                },
+                {
+                  "sourceLanguage": "en",
+                  "sourceText": "They aren't home.",
+                  "id": "Terjemahan alami sumber (Inggris)\nThey aren't home."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "example",
+          "title": {
+            "sourceLanguage": "mixed",
+            "sourceText": "B 06",
+            "id": "B 06 · halaman PDF 172"
+          },
+          "sourcePage": 172,
+          "rows": [
+            {
+              "cells": [
+                {
+                  "sourceLanguage": "fil",
+                  "sourceText": "Wala' po' sila sa bahay.",
+                  "id": "Mereka tidak ada di rumah. (sopan)",
+                  "tagalog": "Wala' po' sila sa bahay."
+                },
+                {
+                  "sourceLanguage": "en",
+                  "sourceText": "Are not [polite] they at home.",
+                  "id": "Glosa harfiah (Inggris)\nAre not [polite] they at home."
+                },
+                {
+                  "sourceLanguage": "en",
+                  "sourceText": "They aren't home. (polite)",
+                  "id": "Terjemahan alami sumber (Inggris)\nThey aren't home. (polite)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "example",
+          "title": {
+            "sourceLanguage": "mixed",
+            "sourceText": "B 07",
+            "id": "B 07 · halaman PDF 173"
+          },
+          "sourcePage": 173,
+          "rows": [
+            {
+              "cells": [
+                {
+                  "sourceLanguage": "fil",
+                  "sourceText": "Walang tao sa bahay.",
+                  "id": "Tidak ada orang di rumah.",
+                  "tagalog": "Walang tao sa bahay."
+                },
+                {
+                  "sourceLanguage": "en",
+                  "sourceText": "There is no-[linker] person at home.",
+                  "id": "Glosa harfiah (Inggris)\nThere is no-[linker] person at home."
+                },
+                {
+                  "sourceLanguage": "en",
+                  "sourceText": "There's no one home.",
+                  "id": "Terjemahan alami sumber (Inggris)\nThere's no one home."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "example",
+          "title": {
+            "sourceLanguage": "mixed",
+            "sourceText": "B 08",
+            "id": "B 08 · halaman PDF 174"
+          },
+          "sourcePage": 174,
+          "rows": [
+            {
+              "cells": [
+                {
+                  "sourceLanguage": "fil",
+                  "sourceText": "Wala' pong tao sa bahay.",
+                  "id": "Tidak ada orang di rumah. (sopan)",
+                  "tagalog": "Wala' pong tao sa bahay."
+                },
+                {
+                  "sourceLanguage": "en",
+                  "sourceText": "There is no [polite]-[linker] person at home.",
+                  "id": "Glosa harfiah (Inggris)\nThere is no [polite]-[linker] person at home."
+                },
+                {
+                  "sourceLanguage": "en",
+                  "sourceText": "There's no one home. (polite)",
+                  "id": "Terjemahan alami sumber (Inggris)\nThere's no one home. (polite)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "example",
+          "title": {
+            "sourceLanguage": "mixed",
+            "sourceText": "B 09",
+            "id": "B 09 · halaman PDF 175"
+          },
+          "sourcePage": 175,
+          "rows": [
+            {
+              "cells": [
+                {
+                  "sourceLanguage": "fil",
+                  "sourceText": "Wala' siya sa bahay. Nasa ospital siya.",
+                  "id": "Dia tidak ada di rumah. Dia ada di rumah sakit.",
+                  "tagalog": "Wala' siya sa bahay. Nasa ospital siya."
+                },
+                {
+                  "sourceLanguage": "en",
+                  "sourceText": "Is not he/she at home. Is in hospital he/she.",
+                  "id": "Glosa harfiah (Inggris)\nIs not he/she at home. Is in hospital he/she."
+                },
+                {
+                  "sourceLanguage": "en",
+                  "sourceText": "He/she's not home. He/she's in the hospital.",
+                  "id": "Terjemahan alami sumber (Inggris)\nHe/she's not home. He/she's in the hospital."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "example",
+          "title": {
+            "sourceLanguage": "mixed",
+            "sourceText": "B 10",
+            "id": "B 10 · halaman PDF 176"
+          },
+          "sourcePage": 176,
+          "rows": [
+            {
+              "cells": [
+                {
+                  "sourceLanguage": "fil",
+                  "sourceText": "Ano ang sakit niya?",
+                  "id": "(Penyakit) apa yang dia derita? (Apa penyakitnya?)",
+                  "tagalog": "Ano ang sakit niya?"
+                },
+                {
+                  "sourceLanguage": "en",
+                  "sourceText": "What the illness his/her?",
+                  "id": "Glosa harfiah (Inggris)\nWhat the illness his/her?"
+                },
+                {
+                  "sourceLanguage": "en",
+                  "sourceText": "What (illness) does he/she have? (What is his/her illness?)",
+                  "id": "Terjemahan alami sumber (Inggris)\nWhat (illness) does he/she have? (What is his/her illness?)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "example",
+          "title": {
+            "sourceLanguage": "mixed",
+            "sourceText": "B 11",
+            "id": "B 11 · halaman PDF 177"
+          },
+          "sourcePage": 177,
+          "rows": [
+            {
+              "cells": [
+                {
+                  "sourceLanguage": "fil",
+                  "sourceText": "Wala'. Nurse siya.",
+                  "id": "Tidak ada apa-apa. Dia seorang perawat.",
+                  "tagalog": "Wala'. Nurse siya."
+                },
+                {
+                  "sourceLanguage": "en",
+                  "sourceText": "Has none. Nurse he/she.",
+                  "id": "Glosa harfiah (Inggris)\nHas none. Nurse he/she."
+                },
+                {
+                  "sourceLanguage": "en",
+                  "sourceText": "Nothing. He/she's a nurse.",
+                  "id": "Terjemahan alami sumber (Inggris)\nNothing. He/she's a nurse."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "example",
+          "title": {
+            "sourceLanguage": "mixed",
+            "sourceText": "B 12",
+            "id": "B 12 · halaman PDF 178"
+          },
+          "sourcePage": 178,
+          "rows": [
+            {
+              "cells": [
+                {
+                  "sourceLanguage": "fil",
+                  "sourceText": "Ano ang pangalan niya?",
+                  "id": "Siapa namanya?",
+                  "tagalog": "Ano ang pangalan niya?"
+                },
+                {
+                  "sourceLanguage": "en",
+                  "sourceText": "What the name his/her?",
+                  "id": "Glosa harfiah (Inggris)\nWhat the name his/her?"
+                },
+                {
+                  "sourceLanguage": "en",
+                  "sourceText": "What's his/her name?",
+                  "id": "Terjemahan alami sumber (Inggris)\nWhat's his/her name?"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "example",
+          "title": {
+            "sourceLanguage": "mixed",
+            "sourceText": "B 13",
+            "id": "B 13 · halaman PDF 179"
+          },
+          "sourcePage": 179,
+          "rows": [
+            {
+              "cells": [
+                {
+                  "sourceLanguage": "fil",
+                  "sourceText": "Hindi' ko alam.",
+                  "id": "Aku tidak tahu.",
+                  "tagalog": "Hindi' ko alam."
+                },
+                {
+                  "sourceLanguage": "en",
+                  "sourceText": "Not by me known.",
+                  "id": "Glosa harfiah (Inggris)\nNot by me known."
+                },
+                {
+                  "sourceLanguage": "en",
+                  "sourceText": "I don't know.",
+                  "id": "Terjemahan alami sumber (Inggris)\nI don't know."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "exercises",
+      "type": "EXERCISES",
+      "title": {
+        "sourceLanguage": "mixed",
+        "sourceText": "Drills",
+        "id": "Latihan pola"
+      },
+      "blocks": [
+        {
+          "type": "exercise",
+          "role": "instruction",
+          "text": {
+            "sourceLanguage": "mixed",
+            "sourceText": "Drills",
+            "id": "Latihan pola (Drills)"
+          },
+          "sourcePage": 166
+        },
+        {
+          "type": "exercise",
+          "role": "content",
+          "title": {
+            "sourceLanguage": "mixed",
+            "sourceText": "A 09",
+            "id": "A 09 · halaman PDF 165"
+          },
+          "sourcePage": 165,
+          "text": {
+            "sourceLanguage": "fil",
+            "sourceText": "Sige po'. Salamat po'.",
+            "id": "Oke. Terima kasih. (sopan)",
+            "tagalog": "Sige po'. Salamat po'."
+          }
+        },
+        {
+          "type": "exercise",
+          "role": "content",
+          "title": {
+            "sourceLanguage": "mixed",
+            "sourceText": "B 01",
+            "id": "B 01 · halaman PDF 167"
+          },
+          "sourcePage": 167,
+          "text": {
+            "sourceLanguage": "fil",
+            "sourceText": "Nandito ang sulat.",
+            "id": "Suratnya ada di sini.",
+            "tagalog": "Nandito ang sulat."
+          }
+        },
+        {
+          "type": "exercise",
+          "role": "content",
+          "title": {
+            "sourceLanguage": "mixed",
+            "sourceText": "B 02",
+            "id": "B 02 · halaman PDF 168"
+          },
+          "sourcePage": 168,
+          "text": {
+            "sourceLanguage": "fil",
+            "sourceText": "Nandito po' ang sulat.",
+            "id": "Suratnya ada di sini. (sopan)",
+            "tagalog": "Nandito po' ang sulat."
+          }
+        },
+        {
+          "type": "exercise",
+          "role": "content",
+          "title": {
+            "sourceLanguage": "mixed",
+            "sourceText": "B 03",
+            "id": "B 03 · halaman PDF 169"
+          },
+          "sourcePage": 169,
+          "text": {
+            "sourceLanguage": "fil",
+            "sourceText": "Nandiyan na si Tatay.",
+            "id": "Ayah ada di sana sekarang. (Ayah telah tiba.)",
+            "tagalog": "Nandiyan na si Tatay."
+          }
+        },
+        {
+          "type": "exercise",
+          "role": "content",
+          "title": {
+            "sourceLanguage": "mixed",
+            "sourceText": "B 04",
+            "id": "B 04 · halaman PDF 170"
+          },
+          "sourcePage": 170,
+          "text": {
+            "sourceLanguage": "fil",
+            "sourceText": "Nandoon ang susi'.",
+            "id": "Kuncinya ada di sana.",
+            "tagalog": "Nandoon ang susi'."
+          }
+        },
+        {
+          "type": "exercise",
+          "role": "content",
+          "title": {
+            "sourceLanguage": "mixed",
+            "sourceText": "B 05",
+            "id": "B 05 · halaman PDF 171"
+          },
+          "sourcePage": 171,
+          "text": {
+            "sourceLanguage": "fil",
+            "sourceText": "Wala' sila sa bahay.",
+            "id": "Mereka tidak ada di rumah.",
+            "tagalog": "Wala' sila sa bahay."
+          }
+        },
+        {
+          "type": "exercise",
+          "role": "content",
+          "title": {
+            "sourceLanguage": "mixed",
+            "sourceText": "B 06",
+            "id": "B 06 · halaman PDF 172"
+          },
+          "sourcePage": 172,
+          "text": {
+            "sourceLanguage": "fil",
+            "sourceText": "Wala' po' sila sa bahay.",
+            "id": "Mereka tidak ada di rumah. (sopan)",
+            "tagalog": "Wala' po' sila sa bahay."
+          }
+        },
+        {
+          "type": "exercise",
+          "role": "content",
+          "title": {
+            "sourceLanguage": "mixed",
+            "sourceText": "B 07",
+            "id": "B 07 · halaman PDF 173"
+          },
+          "sourcePage": 173,
+          "text": {
+            "sourceLanguage": "fil",
+            "sourceText": "Walang tao sa bahay.",
+            "id": "Tidak ada orang di rumah.",
+            "tagalog": "Walang tao sa bahay."
+          }
+        },
+        {
+          "type": "exercise",
+          "role": "content",
+          "title": {
+            "sourceLanguage": "mixed",
+            "sourceText": "B 08",
+            "id": "B 08 · halaman PDF 174"
+          },
+          "sourcePage": 174,
+          "text": {
+            "sourceLanguage": "fil",
+            "sourceText": "Wala' pong tao sa bahay.",
+            "id": "Tidak ada orang di rumah. (sopan)",
+            "tagalog": "Wala' pong tao sa bahay."
+          }
+        },
+        {
+          "type": "exercise",
+          "role": "content",
+          "title": {
+            "sourceLanguage": "mixed",
+            "sourceText": "B 09",
+            "id": "B 09 · halaman PDF 175"
+          },
+          "sourcePage": 175,
+          "text": {
+            "sourceLanguage": "fil",
+            "sourceText": "Wala' siya sa bahay. Nasa ospital siya.",
+            "id": "Dia tidak ada di rumah. Dia ada di rumah sakit.",
+            "tagalog": "Wala' siya sa bahay. Nasa ospital siya."
+          }
+        },
+        {
+          "type": "exercise",
+          "role": "content",
+          "title": {
+            "sourceLanguage": "mixed",
+            "sourceText": "B 10",
+            "id": "B 10 · halaman PDF 176"
+          },
+          "sourcePage": 176,
+          "text": {
+            "sourceLanguage": "fil",
+            "sourceText": "Ano ang sakit niya?",
+            "id": "(Penyakit) apa yang dia derita? (Apa penyakitnya?)",
+            "tagalog": "Ano ang sakit niya?"
+          }
+        },
+        {
+          "type": "exercise",
+          "role": "content",
+          "title": {
+            "sourceLanguage": "mixed",
+            "sourceText": "B 11",
+            "id": "B 11 · halaman PDF 177"
+          },
+          "sourcePage": 177,
+          "text": {
+            "sourceLanguage": "fil",
+            "sourceText": "Wala'. Nurse siya.",
+            "id": "Tidak ada apa-apa. Dia seorang perawat.",
+            "tagalog": "Wala'. Nurse siya."
+          }
+        },
+        {
+          "type": "exercise",
+          "role": "content",
+          "title": {
+            "sourceLanguage": "mixed",
+            "sourceText": "B 12",
+            "id": "B 12 · halaman PDF 178"
+          },
+          "sourcePage": 178,
+          "text": {
+            "sourceLanguage": "fil",
+            "sourceText": "Ano ang pangalan niya?",
+            "id": "Siapa namanya?",
+            "tagalog": "Ano ang pangalan niya?"
+          }
+        },
+        {
+          "type": "exercise",
+          "role": "content",
+          "title": {
+            "sourceLanguage": "mixed",
+            "sourceText": "B 13",
+            "id": "B 13 · halaman PDF 179"
+          },
+          "sourcePage": 179,
+          "text": {
+            "sourceLanguage": "fil",
+            "sourceText": "Hindi' ko alam.",
+            "id": "Aku tidak tahu.",
+            "tagalog": "Hindi' ko alam."
+          }
+        }
+      ]
+    },
+    {
+      "id": "summary",
+      "type": "SUMMARY",
+      "title": {
+        "sourceLanguage": "mixed",
+        "sourceText": "May sulat",
+        "id": "Ringkasan bab"
+      },
+      "blocks": [
+        {
+          "type": "text",
+          "style": "heading",
+          "text": {
+            "sourceLanguage": "mixed",
+            "sourceText": "Story A",
+            "id": "Dialog utama"
+          }
+        },
+        {
+          "type": "list",
+          "style": "outline",
+          "items": [
+            {
+              "sourceLanguage": "fil",
+              "sourceText": "May sulat",
+              "id": "Ada surat",
+              "tagalog": "May sulat"
+            },
+            {
+              "sourceLanguage": "fil",
+              "sourceText": "Tao po'!",
+              "id": "Ada orang di rumah?",
+              "tagalog": "Tao po'!"
+            },
+            {
+              "sourceLanguage": "fil",
+              "sourceText": "Ano po' iyon?",
+              "id": "Ya? (Ada apa?) (sopan)",
+              "tagalog": "Ano po' iyon?"
+            },
+            {
+              "sourceLanguage": "fil",
+              "sourceText": "May sulat para sa tatay mo.",
+              "id": "Ada surat untuk ayahmu.",
+              "tagalog": "May sulat para sa tatay mo."
+            },
+            {
+              "sourceLanguage": "fil",
+              "sourceText": "Umalis po' siya e.",
+              "id": "Sayangnya, dia sedang keluar. (Dia sudah pergi.) (sopan)",
+              "tagalog": "Umalis po' siya e."
+            },
+            {
+              "sourceLanguage": "fil",
+              "sourceText": "Nandito ba ang nanay mo?",
+              "id": "Apakah ibumu ada di rumah?",
+              "tagalog": "Nandito ba ang nanay mo?"
+            },
+            {
+              "sourceLanguage": "fil",
+              "sourceText": "Wala' rin po' siya.",
+              "id": "Dia juga tidak ada di sini. (sopan)",
+              "tagalog": "Wala' rin po' siya."
+            },
+            {
+              "sourceLanguage": "fil",
+              "sourceText": "Ganoon ba? Di' bale. Eto ang sulat para sa tatay mo.",
+              "id": "Apakah begitu? Sudahlah kalau begitu. Ini surat untuk ayahmu.",
+              "tagalog": "Ganoon ba? Di' bale. Eto ang sulat para sa tatay mo."
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "style": "heading",
+          "text": {
+            "sourceLanguage": "mixed",
+            "sourceText": "Drills",
+            "id": "Latihan pola"
+          }
+        },
+        {
+          "type": "list",
+          "style": "outline",
+          "items": [
+            {
+              "sourceLanguage": "fil",
+              "sourceText": "Sige po'. Salamat po'.",
+              "id": "Oke. Terima kasih. (sopan)",
+              "tagalog": "Sige po'. Salamat po'."
+            },
+            {
+              "sourceLanguage": "fil",
+              "sourceText": "Nandito ang sulat.",
+              "id": "Suratnya ada di sini.",
+              "tagalog": "Nandito ang sulat."
+            },
+            {
+              "sourceLanguage": "fil",
+              "sourceText": "Nandito po' ang sulat.",
+              "id": "Suratnya ada di sini. (sopan)",
+              "tagalog": "Nandito po' ang sulat."
+            },
+            {
+              "sourceLanguage": "fil",
+              "sourceText": "Nandiyan na si Tatay.",
+              "id": "Ayah ada di sana sekarang. (Ayah telah tiba.)",
+              "tagalog": "Nandiyan na si Tatay."
+            },
+            {
+              "sourceLanguage": "fil",
+              "sourceText": "Nandoon ang susi'.",
+              "id": "Kuncinya ada di sana.",
+              "tagalog": "Nandoon ang susi'."
+            },
+            {
+              "sourceLanguage": "fil",
+              "sourceText": "Wala' sila sa bahay.",
+              "id": "Mereka tidak ada di rumah.",
+              "tagalog": "Wala' sila sa bahay."
+            },
+            {
+              "sourceLanguage": "fil",
+              "sourceText": "Wala' po' sila sa bahay.",
+              "id": "Mereka tidak ada di rumah. (sopan)",
+              "tagalog": "Wala' po' sila sa bahay."
+            },
+            {
+              "sourceLanguage": "fil",
+              "sourceText": "Walang tao sa bahay.",
+              "id": "Tidak ada orang di rumah.",
+              "tagalog": "Walang tao sa bahay."
+            },
+            {
+              "sourceLanguage": "fil",
+              "sourceText": "Wala' pong tao sa bahay.",
+              "id": "Tidak ada orang di rumah. (sopan)",
+              "tagalog": "Wala' pong tao sa bahay."
+            },
+            {
+              "sourceLanguage": "fil",
+              "sourceText": "Wala' siya sa bahay. Nasa ospital siya.",
+              "id": "Dia tidak ada di rumah. Dia ada di rumah sakit.",
+              "tagalog": "Wala' siya sa bahay. Nasa ospital siya."
+            },
+            {
+              "sourceLanguage": "fil",
+              "sourceText": "Ano ang sakit niya?",
+              "id": "(Penyakit) apa yang dia derita? (Apa penyakitnya?)",
+              "tagalog": "Ano ang sakit niya?"
+            },
+            {
+              "sourceLanguage": "fil",
+              "sourceText": "Wala'. Nurse siya.",
+              "id": "Tidak ada apa-apa. Dia seorang perawat.",
+              "tagalog": "Wala'. Nurse siya."
+            },
+            {
+              "sourceLanguage": "fil",
+              "sourceText": "Ano ang pangalan niya?",
+              "id": "Siapa namanya?",
+              "tagalog": "Ano ang pangalan niya?"
+            },
+            {
+              "sourceLanguage": "fil",
+              "sourceText": "Hindi' ko alam.",
+              "id": "Aku tidak tahu.",
+              "tagalog": "Hindi' ko alam."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "contentAudit": {
+    "sourcePages": 25,
+    "phrasePages": 22,
+    "storyPhrases": 8,
+    "drillPhrases": 14,
+    "noteBlocks": 14,
+    "vocabularyEntries": 42,
+    "sourceTextItemsBefore": 81,
+    "sourceTextItemsAfter": 81,
+    "recapVerified": true,
+    "imageCount": 1
+  }
+}
