@@ -3936,33 +3936,6 @@
           "style": "body",
           "text": {
             "sourceLanguage": "en",
-            "sourceText": "I gave her the book.",
-            "id": "Aku memberinya buku."
-          }
-        },
-        {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "en",
-            "sourceText": "I gave her the book.",
-            "id": "Aku memberinya buku."
-          }
-        },
-        {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "en",
-            "sourceText": "I gave her the book.",
-            "id": "Aku memberinya buku."
-          }
-        },
-        {
-          "type": "text",
-          "style": "body",
-          "text": {
-            "sourceLanguage": "en",
             "sourceText": "The book was given to her by me.",
             "id": "Buku itu diberikan kepadanya oleh saya."
           }
@@ -5550,7 +5523,7 @@
   "structureVersion": 2,
   "contentAudit": {
     "sourceTextItemsBefore": 710,
-    "sourceTextItemsAfter": 660,
+    "sourceTextItemsAfter": 657,
     "uniqueSourceItemsPreserved": 552,
     "duplicateHeadingsRemoved": 3,
     "blankFragmentsRemoved": 46,
@@ -5568,8 +5541,9 @@
       "image": 5,
       "list": 2,
       "table": 55,
-      "text": 112,
+      "text": 109,
       "vocabulary": 7
-    }
+    },
+    "duplicateBlocksRemoved": 3
   }
 }

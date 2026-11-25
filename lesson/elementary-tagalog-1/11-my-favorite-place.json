@@ -4201,10 +4201,6 @@
         {
           "type": "image",
           "path": "assets/199b.jpg"
-        },
-        {
-          "type": "image",
-          "path": "assets/199b.jpg"
         }
       ],
       "id": "lesson-11-33-i-speaking-practice"
@@ -4527,11 +4523,12 @@
     "blockTypes": {
       "example": 23,
       "exercise": 44,
-      "image": 17,
+      "image": 16,
       "list": 2,
       "table": 17,
       "text": 53,
       "vocabulary": 6
-    }
+    },
+    "duplicateBlocksRemoved": 1
   }
 }

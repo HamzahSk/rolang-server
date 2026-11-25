@@ -675,8 +675,33 @@ def assign_section_ids(document: dict[str, Any]) -> None:
         section["id"] = f"lesson-{document['order']:02d}-{index:02d}-{slug}{suffix}"
 
 
+def remove_adjacent_duplicate_blocks(document: dict[str, Any]) -> int:
+    removed = 0
+    for section in document["sections"]:
+        blocks: list[dict[str, Any]] = []
+        for block in section["blocks"]:
+            if blocks and block == blocks[-1]:
+                removed += 1
+            else:
+                blocks.append(block)
+        section["blocks"] = blocks
+    return removed
+
+
+def refresh_content_audit(document: dict[str, Any], duplicate_blocks_removed: int = 0) -> None:
+    after = text_inventory(document["sections"])
+    section_counts = Counter(section["type"] for section in document["sections"])
+    block_counts = Counter(block["type"] for section in document["sections"] for block in section["blocks"])
+    audit = document.setdefault("contentAudit", {})
+    audit["sourceTextItemsAfter"] = sum(after.values())
+    audit["duplicateBlocksRemoved"] = audit.get("duplicateBlocksRemoved", 0) + duplicate_blocks_removed
+    audit["sectionTypes"] = dict(sorted(section_counts.items()))
+    audit["blockTypes"] = dict(sorted(block_counts.items()))
+
+
 def structure_lesson(document: dict[str, Any], metadata: dict[str, dict[str, Any]]) -> dict[str, Any]:
     if document.get("structureVersion") == 2:
+        refresh_content_audit(document, remove_adjacent_duplicate_blocks(document))
         return document
     before = text_inventory(document["sections"])
     enrich_text(document, metadata)
@@ -701,6 +726,7 @@ def structure_lesson(document: dict[str, Any], metadata: dict[str, dict[str, Any
             output.append(clone(section))
     document["sections"] = [section for section in output if section["blocks"]]
     assign_section_ids(document)
+    duplicate_blocks_removed = remove_adjacent_duplicate_blocks(document)
     after = text_inventory(document["sections"])
     document_titles = {normalized(value) for value in document.get("title", {}).values() if isinstance(value, str)}
     missing = sorted(
@@ -723,6 +749,7 @@ def structure_lesson(document: dict[str, Any], metadata: dict[str, dict[str, Any
         "uniqueSourceItemsPreserved": len(set(before) & set(after)),
         "duplicateHeadingsRemoved": removed["duplicateHeadings"],
         "blankFragmentsRemoved": removed["blankFragments"],
+        "duplicateBlocksRemoved": duplicate_blocks_removed,
         "sectionTypes": dict(sorted(section_counts.items())),
         "blockTypes": dict(sorted(block_counts.items())),
     }

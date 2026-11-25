@@ -94,6 +94,8 @@ def validate_sections(document: dict[str, Any], course_dir: Path, known_assets: 
             fail(f"Empty section: {where}")
         for block_index, block in enumerate(blocks):
             block_where = f"{where}.blocks[{block_index}]"
+            if block_index > 0 and block == blocks[block_index - 1]:
+                fail(f"Adjacent duplicate block: {block_where}")
             if block.get("type") == "text":
                 lesson_text(block.get("text"), block_where)
             elif block.get("type") == "table":
