@@ -1,0 +1,441 @@
+{
+  "schemaVersion": 1,
+  "id": "rolang-story-11-ang-huling-basong-tubig",
+  "family": "community-environment",
+  "category": "Komunitas dan lingkungan",
+  "level": "INTERMEDIATE",
+  "order": 11,
+  "kind": "STORY",
+  "image": "food",
+  "title": {
+    "id": "Segelas Air Terakhir",
+    "fil": "Ang Huling Basong Tubig"
+  },
+  "summary": {
+    "id": "Kekurangan air mendorong pemilik kedai dan warga berbagi sumber daya dengan lebih adil.",
+    "fil": "Dahil sa kakulangan ng tubig, natutong magbahagi nang patas ang may-ari ng kainan at mga residente."
+  },
+  "objectives": [
+    {
+      "id": "Memahami urutan, masalah, dan penyelesaian cerita.",
+      "fil": "Unawain ang pagkakasunod-sunod, suliranin, at wakas ng kuwento."
+    },
+    {
+      "id": "Menggunakan kosakata utama dalam konteks baru.",
+      "fil": "Gamitin ang pangunahing bokabularyo sa bagong konteksto."
+    },
+    {
+      "id": "Menjawab pertanyaan pemahaman dan tata bahasa.",
+      "fil": "Sagutin ang mga tanong sa pag-unawa at gramatika."
+    }
+  ],
+  "sentences": [
+    {
+      "id": "Setelah pipa utama pecah, pasokan air di lingkungan Sela dibatasi selama dua hari.",
+      "fil": "Matapos masira ang pangunahing tubo, nilimitahan nang dalawang araw ang suplay ng tubig sa barangay ni Sela."
+    },
+    {
+      "id": "Kedai kecil miliknya masih memiliki satu tangki, tetapi air itu harus cukup untuk memasak, membersihkan, dan minum.",
+      "fil": "May isang tangke pa ang kaniyang maliit na kainan, pero kailangan itong magkasya sa pagluluto, paglilinis, at pag-inom."
+    },
+    {
+      "id": "Pada siang hari, seorang kurir meminta segelas air setelah mengayuh sepeda di bawah panas.",
+      "fil": "Pagsapit ng tanghali, humingi ng isang basong tubig ang isang mensahero matapos magbisikleta sa matinding init."
+    },
+    {
+      "id": "Sela melihat penanda tangki yang hampir kosong dan ragu sejenak sebelum memberinya air minum.",
+      "fil": "Tiningnan ni Sela ang panukat ng halos ubos na tangke at sandaling nag-atubili bago siya nagbigay ng maiinom."
+    },
+    {
+      "id": "Kurir itu ternyata membawa pemberitahuan bahwa truk air akan datang, tetapi jalan sempit harus dikosongkan.",
+      "fil": "May dala pala ang mensahero na abisong darating ang trak ng tubig, pero kailangang alisin ang mga nakaharang sa makitid na daan."
+    },
+    {
+      "id": "Sela mengabari tetangga, dan mereka bersama-sama memindahkan motor, meja, serta kotak dagangan.",
+      "fil": "Binalitaan ni Sela ang mga kapitbahay at sama-sama nilang inilipat ang motorsiklo, mesa, at mga kahon ng paninda."
+    },
+    {
+      "id": "Ketika truk tiba, mereka membuat antrean dan mencatat jumlah wadah agar setiap rumah mendapat bagian.",
+      "fil": "Pagdating ng trak, pumila sila at itinala ang dami ng lalagyan upang magkaroon ng bahagi ang bawat bahay."
+    },
+    {
+      "id": "Sela menutup kedai lebih awal, namun malam itu semua keluarga mempunyai air karena satu gelas dibagikan pada saat yang tepat.",
+      "fil": "Maagang nagsara si Sela, ngunit may tubig ang lahat ng pamilya nang gabing iyon dahil naibahagi ang isang baso sa tamang oras."
+    }
+  ],
+  "sentenceCount": 8,
+  "speakers": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  "notes": [
+    {
+      "title": {
+        "id": "Pala",
+        "fil": "Pala"
+      },
+      "text": {
+        "id": "Pala menandai informasi yang baru disadari pembicara.",
+        "fil": "Ginagamit ang pala sa impormasyong ngayon lamang natuklasan."
+      }
+    },
+    {
+      "title": {
+        "id": "Upang",
+        "fil": "Upang"
+      },
+      "text": {
+        "id": "Upang menghubungkan tindakan dengan tujuannya.",
+        "fil": "Pinagdurugtong ng upang ang kilos at layunin nito."
+      }
+    }
+  ],
+  "focus": {
+    "id": [
+      "pasokan",
+      "tangki",
+      "kurir",
+      "penanda ukuran"
+    ],
+    "fil": [
+      "suplay",
+      "tangke",
+      "mensahero",
+      "panukat"
+    ]
+  },
+  "pronunciation": {
+    "id": "Putar audio per paragraf dan tirukan ritme Tagalog alami.",
+    "fil": "Pakinggan ang bawat talata at gayahin ang natural na ritmo ng Tagalog."
+  },
+  "chapters": [
+    {
+      "id": "simula",
+      "title": {
+        "id": "Awal",
+        "fil": "Simula"
+      },
+      "sentenceCount": 4
+    },
+    {
+      "id": "wakas",
+      "title": {
+        "id": "Penyelesaian",
+        "fil": "Wakas"
+      },
+      "sentenceCount": 4
+    }
+  ],
+  "exercises": [
+    {
+      "id": "rolang-story-11-ang-huling-basong-tubig-comprehension",
+      "type": "COMPREHENSION",
+      "prompt": {
+        "id": "Mengapa jalan sempit harus dikosongkan?",
+        "fil": "Bakit kailangang alisin ang mga nakaharang sa makitid na daan?"
+      },
+      "answer": {
+        "id": "Agar truk air dapat lewat.",
+        "fil": "Upang makadaan ang trak ng tubig."
+      },
+      "explanation": {
+        "id": "Jawabannya dinyatakan dalam cerita.",
+        "fil": "Tuwirang binanggit sa kuwento ang sagot."
+      },
+      "speech": {
+        "fil": "Bakit kailangang alisin ang mga nakaharang sa makitid na daan?"
+      }
+    },
+    {
+      "id": "rolang-story-11-ang-huling-basong-tubig-choice",
+      "type": "MULTIPLE_CHOICE",
+      "prompt": {
+        "id": "Apa arti ‘suplay’?",
+        "fil": "Ano ang kahulugan ng ‘suplay’ sa Indonesian?"
+      },
+      "choices": {
+        "id": [
+          "pasokan",
+          "tangki",
+          "kurir"
+        ],
+        "fil": [
+          "suplay",
+          "tangke",
+          "mensahero"
+        ]
+      },
+      "answer": {
+        "id": "pasokan",
+        "fil": "suplay"
+      },
+      "explanation": {
+        "id": "‘suplay’ berarti ‘pasokan’.",
+        "fil": "Ang katumbas ng ‘suplay’ ay ‘pasokan’."
+      },
+      "speech": {
+        "fil": "suplay"
+      }
+    },
+    {
+      "id": "rolang-story-11-ang-huling-basong-tubig-vocabulary",
+      "type": "VOCABULARY_TRANSLATION",
+      "prompt": {
+        "id": "Ketik arti ‘tangke’.",
+        "fil": "Isulat ang kahulugan ng ‘tangke’ sa Indonesian."
+      },
+      "answer": {
+        "id": "tangki",
+        "fil": "tangke"
+      },
+      "explanation": {
+        "id": "Jawabannya adalah ‘tangki’.",
+        "fil": "Ang salitang tinutukoy ay ‘tangke’."
+      },
+      "speech": {
+        "fil": "tangke"
+      }
+    },
+    {
+      "id": "rolang-story-11-ang-huling-basong-tubig-blank",
+      "type": "FILL_BLANK",
+      "prompt": {
+        "id": "Air kedai disimpan dalam sebuah ____.",
+        "fil": "Nasa isang ____ ang tubig ng kainan."
+      },
+      "answer": {
+        "id": "tangki",
+        "fil": "tangke"
+      },
+      "explanation": {
+        "id": "Kata ini melengkapi peristiwa dalam cerita.",
+        "fil": "Kinukumpleto ng salita ang pangyayari sa kuwento."
+      },
+      "speech": {
+        "fil": "Nasa isang tangke ang tubig ng kainan."
+      }
+    },
+    {
+      "id": "rolang-story-11-ang-huling-basong-tubig-grammar",
+      "type": "GRAMMAR",
+      "prompt": {
+        "id": "Partikel mana menandai penemuan baru?",
+        "fil": "Aling kataga ang nagsasaad ng bagong natuklasan?"
+      },
+      "choices": {
+        "id": [
+          "ternyata",
+          "hanya",
+          "juga"
+        ],
+        "fil": [
+          "pala",
+          "lang",
+          "din"
+        ]
+      },
+      "answer": {
+        "id": "ternyata",
+        "fil": "pala"
+      },
+      "explanation": {
+        "id": "Pilihan ini memakai bentuk yang sesuai dengan fungsi yang ditanyakan.",
+        "fil": "Ginagamit ng sagot ang anyong angkop sa hinihinging tungkulin."
+      },
+      "speech": {
+        "fil": "pala"
+      }
+    },
+    {
+      "id": "rolang-story-11-ang-huling-basong-tubig-construction",
+      "type": "SENTENCE_CONSTRUCTION",
+      "prompt": {
+        "id": "Susun kalimat lengkap.",
+        "fil": "Buuin ang kumpletong pangungusap."
+      },
+      "tokens": {
+        "id": [
+          "Warga",
+          "berbagi",
+          "air",
+          "dengan",
+          "adil."
+        ],
+        "fil": [
+          "Patas",
+          "na",
+          "nagbahagi",
+          "ng",
+          "tubig",
+          "ang",
+          "mga",
+          "tao."
+        ]
+      },
+      "answer": {
+        "id": "Warga berbagi air dengan adil.",
+        "fil": "Patas na nagbahagi ng tubig ang mga tao."
+      },
+      "explanation": {
+        "id": "Urutan ini membentuk kalimat lengkap.",
+        "fil": "Ang ayos na ito ay bumubuo ng kumpletong pangungusap."
+      },
+      "speech": {
+        "fil": "Patas na nagbahagi ng tubig ang mga tao."
+      }
+    }
+  ],
+  "vocabulary": [
+    {
+      "language": "fil",
+      "word": "suplay",
+      "translations": {
+        "id": "pasokan",
+        "fil": "suplay"
+      },
+      "meanings": {
+        "id": "Makna kontekstual dalam cerita: pasokan.",
+        "fil": "Kahulugan sa kuwento: suplay."
+      },
+      "pos": "pangngalan",
+      "pronunciation": "suplay",
+      "notes": {
+        "id": "Pelajari kata ini melalui kalimat dalam cerita.",
+        "fil": "Pag-aralan ang salita sa pamamagitan ng pangungusap sa kuwento."
+      }
+    },
+    {
+      "language": "fil",
+      "word": "tangke",
+      "translations": {
+        "id": "tangki",
+        "fil": "tangke"
+      },
+      "meanings": {
+        "id": "Makna kontekstual dalam cerita: tangki.",
+        "fil": "Kahulugan sa kuwento: tangke."
+      },
+      "pos": "pangngalan",
+      "pronunciation": "tangke",
+      "notes": {
+        "id": "Pelajari kata ini melalui kalimat dalam cerita.",
+        "fil": "Pag-aralan ang salita sa pamamagitan ng pangungusap sa kuwento."
+      }
+    },
+    {
+      "language": "fil",
+      "word": "mensahero",
+      "translations": {
+        "id": "kurir",
+        "fil": "mensahero"
+      },
+      "meanings": {
+        "id": "Makna kontekstual dalam cerita: kurir.",
+        "fil": "Kahulugan sa kuwento: mensahero."
+      },
+      "pos": "pangngalan",
+      "pronunciation": "mensahero",
+      "notes": {
+        "id": "Pelajari kata ini melalui kalimat dalam cerita.",
+        "fil": "Pag-aralan ang salita sa pamamagitan ng pangungusap sa kuwento."
+      }
+    },
+    {
+      "language": "fil",
+      "word": "panukat",
+      "translations": {
+        "id": "penanda ukuran",
+        "fil": "panukat"
+      },
+      "meanings": {
+        "id": "Makna kontekstual dalam cerita: penanda ukuran.",
+        "fil": "Kahulugan sa kuwento: panukat."
+      },
+      "pos": "pangngalan",
+      "pronunciation": "panukat",
+      "notes": {
+        "id": "Pelajari kata ini melalui kalimat dalam cerita.",
+        "fil": "Pag-aralan ang salita sa pamamagitan ng pangungusap sa kuwento."
+      }
+    },
+    {
+      "language": "fil",
+      "word": "nag-atubili",
+      "translations": {
+        "id": "ragu-ragu",
+        "fil": "nag-atubili"
+      },
+      "meanings": {
+        "id": "Makna kontekstual dalam cerita: ragu-ragu.",
+        "fil": "Kahulugan sa kuwento: nag-atubili."
+      },
+      "pos": "pandiwa",
+      "pronunciation": "nag-atubili",
+      "notes": {
+        "id": "Pelajari kata ini melalui kalimat dalam cerita.",
+        "fil": "Pag-aralan ang salita sa pamamagitan ng pangungusap sa kuwento."
+      }
+    },
+    {
+      "language": "fil",
+      "word": "nakaharang",
+      "translations": {
+        "id": "menghalangi",
+        "fil": "nakaharang"
+      },
+      "meanings": {
+        "id": "Makna kontekstual dalam cerita: menghalangi.",
+        "fil": "Kahulugan sa kuwento: nakaharang."
+      },
+      "pos": "pang-uri",
+      "pronunciation": "nakaharang",
+      "notes": {
+        "id": "Pelajari kata ini melalui kalimat dalam cerita.",
+        "fil": "Pag-aralan ang salita sa pamamagitan ng pangungusap sa kuwento."
+      }
+    },
+    {
+      "language": "fil",
+      "word": "lalagyan",
+      "translations": {
+        "id": "wadah",
+        "fil": "lalagyan"
+      },
+      "meanings": {
+        "id": "Makna kontekstual dalam cerita: wadah.",
+        "fil": "Kahulugan sa kuwento: lalagyan."
+      },
+      "pos": "pangngalan",
+      "pronunciation": "lalagyan",
+      "notes": {
+        "id": "Pelajari kata ini melalui kalimat dalam cerita.",
+        "fil": "Pag-aralan ang salita sa pamamagitan ng pangungusap sa kuwento."
+      }
+    },
+    {
+      "language": "fil",
+      "word": "naibahagi",
+      "translations": {
+        "id": "telah dibagikan",
+        "fil": "naibahagi"
+      },
+      "meanings": {
+        "id": "Makna kontekstual dalam cerita: telah dibagikan.",
+        "fil": "Kahulugan sa kuwento: naibahagi."
+      },
+      "pos": "pandiwa",
+      "pronunciation": "naibahagi",
+      "notes": {
+        "id": "Pelajari kata ini melalui kalimat dalam cerita.",
+        "fil": "Pag-aralan ang salita sa pamamagitan ng pangungusap sa kuwento."
+      }
+    }
+  ],
+  "assets": []
+}

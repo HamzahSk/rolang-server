@@ -1,0 +1,437 @@
+{
+  "schemaVersion": 1,
+  "id": "rolang-story-01-ang-payong-sa-huling-upuan",
+  "family": "daily-life",
+  "category": "Kehidupan sehari-hari",
+  "level": "BEGINNER",
+  "order": 1,
+  "kind": "STORY",
+  "image": "travel",
+  "title": {
+    "id": "Payung di Kursi Belakang",
+    "fil": "Ang Payong sa Huling Upuan"
+  },
+  "summary": {
+    "id": "Lira menemukan payung di jeepney dan berusaha mengembalikannya sebelum hujan turun.",
+    "fil": "Nakakita si Lira ng payong sa jeep at sinikap niyang maibalik ito bago umulan."
+  },
+  "objectives": [
+    {
+      "id": "Memahami urutan, masalah, dan penyelesaian cerita.",
+      "fil": "Unawain ang pagkakasunod-sunod, suliranin, at wakas ng kuwento."
+    },
+    {
+      "id": "Menggunakan kosakata utama dalam konteks baru.",
+      "fil": "Gamitin ang pangunahing bokabularyo sa bagong konteksto."
+    },
+    {
+      "id": "Menjawab pertanyaan pemahaman dan tata bahasa.",
+      "fil": "Sagutin ang mga tanong sa pag-unawa at gramatika."
+    }
+  ],
+  "sentences": [
+    {
+      "id": "Sepulang kerja, Lira naik jeepney yang hampir kosong.",
+      "fil": "Pagkatapos ng trabaho, sumakay si Lira sa jeep na halos walang laman."
+    },
+    {
+      "id": "Di kursi belakang, ia melihat payung biru dengan pita kuning pada gagangnya.",
+      "fil": "Sa huling upuan, nakita niya ang asul na payong na may dilaw na laso sa hawakan."
+    },
+    {
+      "id": "Sopir tidak tahu siapa pemiliknya, tetapi ia ingat seorang perempuan tua turun di dekat perpustakaan.",
+      "fil": "Hindi alam ng drayber kung sino ang may-ari, pero naalala niyang may matandang babaeng bumaba malapit sa aklatan."
+    },
+    {
+      "id": "Lira turun di sana dan bertanya kepada penjaga, ‘Apakah ada yang mencari payung?’",
+      "fil": "Bumaba roon si Lira at nagtanong sa guwardiya, ‘May naghahanap po ba ng payong?’"
+    },
+    {
+      "id": "Penjaga menunjuk ke arah toko roti, tempat seorang perempuan tua sedang menunggu cucunya.",
+      "fil": "Itinuro ng guwardiya ang panaderya, kung saan naghihintay ang isang matandang babae sa kaniyang apo."
+    },
+    {
+      "id": "Perempuan itu mengenali pita kuning yang dibuat cucunya dan tersenyum lega.",
+      "fil": "Nakilala ng babae ang dilaw na lasong ginawa ng kaniyang apo at napangiti siya sa ginhawa."
+    },
+    {
+      "id": "Saat hujan mulai turun, ia membuka payung itu dan mengajak Lira berjalan bersama sampai halte.",
+      "fil": "Nang magsimulang umulan, binuksan niya ang payong at niyayang maglakad si Lira kasama niya hanggang hintuan."
+    },
+    {
+      "id": "Lira pulang sedikit terlambat, tetapi ia senang karena benda yang hilang telah kembali kepada pemiliknya.",
+      "fil": "Medyo gabing nakauwi si Lira, pero masaya siya dahil nakabalik sa may-ari ang nawawalang gamit."
+    }
+  ],
+  "sentenceCount": 8,
+  "speakers": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  "notes": [
+    {
+      "title": {
+        "id": "Po untuk kesopanan",
+        "fil": "Po para sa paggalang"
+      },
+      "text": {
+        "id": "Gunakan po ketika berbicara sopan kepada orang yang lebih tua.",
+        "fil": "Gamitin ang po kapag magalang na nakikipag-usap sa nakatatanda."
+      }
+    },
+    {
+      "title": {
+        "id": "Penanda ang",
+        "fil": "Panandang ang"
+      },
+      "text": {
+        "id": "Ang menandai topik tertentu, seperti ang payong.",
+        "fil": "Tinutukoy ng ang ang paksa, gaya ng ang payong."
+      }
+    }
+  ],
+  "focus": {
+    "id": [
+      "payung",
+      "gagang",
+      "pemilik",
+      "perpustakaan"
+    ],
+    "fil": [
+      "payong",
+      "hawakan",
+      "may-ari",
+      "aklatan"
+    ]
+  },
+  "pronunciation": {
+    "id": "Putar audio per paragraf dan tirukan ritme Tagalog alami.",
+    "fil": "Pakinggan ang bawat talata at gayahin ang natural na ritmo ng Tagalog."
+  },
+  "chapters": [
+    {
+      "id": "simula",
+      "title": {
+        "id": "Awal",
+        "fil": "Simula"
+      },
+      "sentenceCount": 4
+    },
+    {
+      "id": "wakas",
+      "title": {
+        "id": "Penyelesaian",
+        "fil": "Wakas"
+      },
+      "sentenceCount": 4
+    }
+  ],
+  "exercises": [
+    {
+      "id": "rolang-story-01-ang-payong-sa-huling-upuan-comprehension",
+      "type": "COMPREHENSION",
+      "prompt": {
+        "id": "Di mana perempuan tua itu menunggu?",
+        "fil": "Saan naghihintay ang matandang babae?"
+      },
+      "answer": {
+        "id": "Di toko roti.",
+        "fil": "Sa panaderya."
+      },
+      "explanation": {
+        "id": "Jawabannya dinyatakan dalam cerita.",
+        "fil": "Tuwirang binanggit sa kuwento ang sagot."
+      },
+      "speech": {
+        "fil": "Saan naghihintay ang matandang babae?"
+      }
+    },
+    {
+      "id": "rolang-story-01-ang-payong-sa-huling-upuan-choice",
+      "type": "MULTIPLE_CHOICE",
+      "prompt": {
+        "id": "Apa arti ‘payong’?",
+        "fil": "Ano ang kahulugan ng ‘payong’ sa Indonesian?"
+      },
+      "choices": {
+        "id": [
+          "payung",
+          "gagang",
+          "pemilik"
+        ],
+        "fil": [
+          "payong",
+          "hawakan",
+          "may-ari"
+        ]
+      },
+      "answer": {
+        "id": "payung",
+        "fil": "payong"
+      },
+      "explanation": {
+        "id": "‘payong’ berarti ‘payung’.",
+        "fil": "Ang katumbas ng ‘payong’ ay ‘payung’."
+      },
+      "speech": {
+        "fil": "payong"
+      }
+    },
+    {
+      "id": "rolang-story-01-ang-payong-sa-huling-upuan-vocabulary",
+      "type": "VOCABULARY_TRANSLATION",
+      "prompt": {
+        "id": "Ketik arti ‘hawakan’.",
+        "fil": "Isulat ang kahulugan ng ‘hawakan’ sa Indonesian."
+      },
+      "answer": {
+        "id": "gagang",
+        "fil": "hawakan"
+      },
+      "explanation": {
+        "id": "Jawabannya adalah ‘gagang’.",
+        "fil": "Ang salitang tinutukoy ay ‘hawakan’."
+      },
+      "speech": {
+        "fil": "hawakan"
+      }
+    },
+    {
+      "id": "rolang-story-01-ang-payong-sa-huling-upuan-blank",
+      "type": "FILL_BLANK",
+      "prompt": {
+        "id": "Lira melihat sebuah ____ biru di kursi belakang.",
+        "fil": "Nakakita si Lira ng asul na ____ sa huling upuan."
+      },
+      "answer": {
+        "id": "payung",
+        "fil": "payong"
+      },
+      "explanation": {
+        "id": "Kata ini melengkapi peristiwa dalam cerita.",
+        "fil": "Kinukumpleto ng salita ang pangyayari sa kuwento."
+      },
+      "speech": {
+        "fil": "Nakakita si Lira ng asul na payong sa huling upuan."
+      }
+    },
+    {
+      "id": "rolang-story-01-ang-payong-sa-huling-upuan-grammar",
+      "type": "GRAMMAR",
+      "prompt": {
+        "id": "Kalimat mana yang meminta informasi dengan sopan?",
+        "fil": "Aling pangungusap ang magalang na humihingi ng impormasyon?"
+      },
+      "choices": {
+        "id": [
+          "Apakah ada yang mencari payung?",
+          "Berikan payung itu!",
+          "Saya tidak peduli."
+        ],
+        "fil": [
+          "May naghahanap po ba ng payong?",
+          "Ibigay mo ang payong!",
+          "Wala akong pakialam."
+        ]
+      },
+      "answer": {
+        "id": "Apakah ada yang mencari payung?",
+        "fil": "May naghahanap po ba ng payong?"
+      },
+      "explanation": {
+        "id": "Pilihan ini memakai bentuk yang sesuai dengan fungsi yang ditanyakan.",
+        "fil": "Ginagamit ng sagot ang anyong angkop sa hinihinging tungkulin."
+      },
+      "speech": {
+        "fil": "May naghahanap po ba ng payong?"
+      }
+    },
+    {
+      "id": "rolang-story-01-ang-payong-sa-huling-upuan-construction",
+      "type": "SENTENCE_CONSTRUCTION",
+      "prompt": {
+        "id": "Susun kalimat lengkap.",
+        "fil": "Buuin ang kumpletong pangungusap."
+      },
+      "tokens": {
+        "id": [
+          "Lira",
+          "mengembalikan",
+          "payung",
+          "itu."
+        ],
+        "fil": [
+          "Ibinalik",
+          "ni",
+          "Lira",
+          "ang",
+          "payong."
+        ]
+      },
+      "answer": {
+        "id": "Lira mengembalikan payung itu.",
+        "fil": "Ibinalik ni Lira ang payong."
+      },
+      "explanation": {
+        "id": "Urutan ini membentuk kalimat lengkap.",
+        "fil": "Ang ayos na ito ay bumubuo ng kumpletong pangungusap."
+      },
+      "speech": {
+        "fil": "Ibinalik ni Lira ang payong."
+      }
+    }
+  ],
+  "vocabulary": [
+    {
+      "language": "fil",
+      "word": "payong",
+      "translations": {
+        "id": "payung",
+        "fil": "payong"
+      },
+      "meanings": {
+        "id": "Makna kontekstual dalam cerita: payung.",
+        "fil": "Kahulugan sa kuwento: payong."
+      },
+      "pos": "pangngalan",
+      "pronunciation": "payong",
+      "notes": {
+        "id": "Pelajari kata ini melalui kalimat dalam cerita.",
+        "fil": "Pag-aralan ang salita sa pamamagitan ng pangungusap sa kuwento."
+      }
+    },
+    {
+      "language": "fil",
+      "word": "hawakan",
+      "translations": {
+        "id": "gagang",
+        "fil": "hawakan"
+      },
+      "meanings": {
+        "id": "Makna kontekstual dalam cerita: gagang.",
+        "fil": "Kahulugan sa kuwento: hawakan."
+      },
+      "pos": "pangngalan",
+      "pronunciation": "hawakan",
+      "notes": {
+        "id": "Pelajari kata ini melalui kalimat dalam cerita.",
+        "fil": "Pag-aralan ang salita sa pamamagitan ng pangungusap sa kuwento."
+      }
+    },
+    {
+      "language": "fil",
+      "word": "may-ari",
+      "translations": {
+        "id": "pemilik",
+        "fil": "may-ari"
+      },
+      "meanings": {
+        "id": "Makna kontekstual dalam cerita: pemilik.",
+        "fil": "Kahulugan sa kuwento: may-ari."
+      },
+      "pos": "pangngalan",
+      "pronunciation": "may-ari",
+      "notes": {
+        "id": "Pelajari kata ini melalui kalimat dalam cerita.",
+        "fil": "Pag-aralan ang salita sa pamamagitan ng pangungusap sa kuwento."
+      }
+    },
+    {
+      "language": "fil",
+      "word": "aklatan",
+      "translations": {
+        "id": "perpustakaan",
+        "fil": "aklatan"
+      },
+      "meanings": {
+        "id": "Makna kontekstual dalam cerita: perpustakaan.",
+        "fil": "Kahulugan sa kuwento: aklatan."
+      },
+      "pos": "pangngalan",
+      "pronunciation": "aklatan",
+      "notes": {
+        "id": "Pelajari kata ini melalui kalimat dalam cerita.",
+        "fil": "Pag-aralan ang salita sa pamamagitan ng pangungusap sa kuwento."
+      }
+    },
+    {
+      "language": "fil",
+      "word": "guwardiya",
+      "translations": {
+        "id": "penjaga",
+        "fil": "guwardiya"
+      },
+      "meanings": {
+        "id": "Makna kontekstual dalam cerita: penjaga.",
+        "fil": "Kahulugan sa kuwento: guwardiya."
+      },
+      "pos": "pangngalan",
+      "pronunciation": "guwardiya",
+      "notes": {
+        "id": "Pelajari kata ini melalui kalimat dalam cerita.",
+        "fil": "Pag-aralan ang salita sa pamamagitan ng pangungusap sa kuwento."
+      }
+    },
+    {
+      "language": "fil",
+      "word": "panaderya",
+      "translations": {
+        "id": "toko roti",
+        "fil": "panaderya"
+      },
+      "meanings": {
+        "id": "Makna kontekstual dalam cerita: toko roti.",
+        "fil": "Kahulugan sa kuwento: panaderya."
+      },
+      "pos": "pangngalan",
+      "pronunciation": "panaderya",
+      "notes": {
+        "id": "Pelajari kata ini melalui kalimat dalam cerita.",
+        "fil": "Pag-aralan ang salita sa pamamagitan ng pangungusap sa kuwento."
+      }
+    },
+    {
+      "language": "fil",
+      "word": "ginhawa",
+      "translations": {
+        "id": "rasa lega",
+        "fil": "ginhawa"
+      },
+      "meanings": {
+        "id": "Makna kontekstual dalam cerita: rasa lega.",
+        "fil": "Kahulugan sa kuwento: ginhawa."
+      },
+      "pos": "pangngalan",
+      "pronunciation": "ginhawa",
+      "notes": {
+        "id": "Pelajari kata ini melalui kalimat dalam cerita.",
+        "fil": "Pag-aralan ang salita sa pamamagitan ng pangungusap sa kuwento."
+      }
+    },
+    {
+      "language": "fil",
+      "word": "hintuan",
+      "translations": {
+        "id": "halte",
+        "fil": "hintuan"
+      },
+      "meanings": {
+        "id": "Makna kontekstual dalam cerita: halte.",
+        "fil": "Kahulugan sa kuwento: hintuan."
+      },
+      "pos": "pangngalan",
+      "pronunciation": "hintuan",
+      "notes": {
+        "id": "Pelajari kata ini melalui kalimat dalam cerita.",
+        "fil": "Pag-aralan ang salita sa pamamagitan ng pangungusap sa kuwento."
+      }
+    }
+  ],
+  "assets": []
+}

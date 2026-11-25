@@ -1,0 +1,441 @@
+{
+  "schemaVersion": 1,
+  "id": "rolang-story-08-ang-bangkang-bumalik",
+  "family": "travel-directions",
+  "category": "Perjalanan dan arah",
+  "level": "INTERMEDIATE",
+  "order": 8,
+  "kind": "STORY",
+  "image": "travel",
+  "title": {
+    "id": "Perahu yang Kembali",
+    "fil": "Ang Bangkang Bumalik"
+  },
+  "summary": {
+    "id": "Sebuah kapal penumpang kembali ke pelabuhan ketika cuaca berubah mendadak.",
+    "fil": "Bumalik sa daungan ang isang bangkang pampasahero nang biglang magbago ang panahon."
+  },
+  "objectives": [
+    {
+      "id": "Memahami urutan, masalah, dan penyelesaian cerita.",
+      "fil": "Unawain ang pagkakasunod-sunod, suliranin, at wakas ng kuwento."
+    },
+    {
+      "id": "Menggunakan kosakata utama dalam konteks baru.",
+      "fil": "Gamitin ang pangunahing bokabularyo sa bagong konteksto."
+    },
+    {
+      "id": "Menjawab pertanyaan pemahaman dan tata bahasa.",
+      "fil": "Sagutin ang mga tanong sa pag-unawa at gramatika."
+    }
+  ],
+  "sentences": [
+    {
+      "id": "Dari pelabuhan, kapal kecil menuju pulau berangkat di bawah langit cerah, membawa pekerja, pedagang, dan beberapa wisatawan.",
+      "fil": "Mula sa daungan, umalis ang maliit na bangka papunta sa isla sa ilalim ng maaliwalas na langit, sakay ang mga manggagawa, tindero, at ilang turista."
+    },
+    {
+      "id": "Setengah perjalanan kemudian, angin menjadi kuat dan awan gelap menutup pegunungan.",
+      "fil": "Sa kalagitnaan ng biyahe, lumakas ang hangin at tinakpan ng madilim na ulap ang kabundukan."
+    },
+    {
+      "id": "Kapten mengumumkan bahwa mereka harus kembali, meskipun beberapa penumpang mengeluh tentang jadwal yang tertunda.",
+      "fil": "Ipinahayag ng kapitan na kailangan nilang bumalik kahit nagreklamo ang ilang pasahero tungkol sa maaantalang iskedyul."
+    },
+    {
+      "id": "Di dekat jendela, seorang anak mulai menangis karena takut pada ombak yang menghantam lambung kapal.",
+      "fil": "Malapit sa bintana, umiyak ang isang bata dahil natakot sa mga along humahampas sa tagiliran ng bangka."
+    },
+    {
+      "id": "Mara, seorang perawat, duduk di sampingnya dan mengajaknya menghitung jeda di antara gelombang.",
+      "fil": "Umupo sa tabi niya si Mara, isang nars, at niyaya siyang bilangin ang pagitan ng bawat alon."
+    },
+    {
+      "id": "Perhatian anak itu beralih; ia berhenti menangis dan bahkan memberi tahu ibunya ketika ombak berikutnya datang.",
+      "fil": "Nailipat ang pansin ng bata; tumigil siya sa pag-iyak at sinabihan pa ang kaniyang ina kapag paparating ang susunod na alon."
+    },
+    {
+      "id": "Kapal tiba kembali dengan selamat tepat sebelum hujan sangat lebat menutupi laut.",
+      "fil": "Ligtas na nakabalik ang bangka bago tuluyang tabingan ng napakalakas na ulan ang dagat."
+    },
+    {
+      "id": "Para penumpang yang tadi mengeluh berterima kasih kepada kapten, dan perjalanan dilanjutkan keesokan pagi.",
+      "fil": "Nagpasalamat sa kapitan ang mga pasaherong nagreklamo kanina, at ipinagpatuloy ang biyahe kinaumagahan."
+    }
+  ],
+  "sentenceCount": 8,
+  "speakers": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  "notes": [
+    {
+      "title": {
+        "id": "Kahit",
+        "fil": "Kahit"
+      },
+      "text": {
+        "id": "Kahit memperkenalkan keadaan yang tidak mengubah keputusan utama.",
+        "fil": "Ipinakikilala ng kahit ang kalagayang hindi nakapagpapabago sa pangunahing pasya."
+      }
+    },
+    {
+      "title": {
+        "id": "Bago",
+        "fil": "Bago"
+      },
+      "text": {
+        "id": "Bago dapat diikuti tindakan yang terjadi sesudah tindakan utama.",
+        "fil": "Sinusundan ang bago ng kilos na nangyayari matapos ang pangunahing kilos."
+      }
+    }
+  ],
+  "focus": {
+    "id": [
+      "pelabuhan",
+      "cerah",
+      "akan tertunda",
+      "penumpang"
+    ],
+    "fil": [
+      "daungan",
+      "maaliwalas",
+      "maaantala",
+      "pasahero"
+    ]
+  },
+  "pronunciation": {
+    "id": "Putar audio per paragraf dan tirukan ritme Tagalog alami.",
+    "fil": "Pakinggan ang bawat talata at gayahin ang natural na ritmo ng Tagalog."
+  },
+  "chapters": [
+    {
+      "id": "simula",
+      "title": {
+        "id": "Awal",
+        "fil": "Simula"
+      },
+      "sentenceCount": 4
+    },
+    {
+      "id": "wakas",
+      "title": {
+        "id": "Penyelesaian",
+        "fil": "Wakas"
+      },
+      "sentenceCount": 4
+    }
+  ],
+  "exercises": [
+    {
+      "id": "rolang-story-08-ang-bangkang-bumalik-comprehension",
+      "type": "COMPREHENSION",
+      "prompt": {
+        "id": "Bagaimana Mara menenangkan anak itu?",
+        "fil": "Paano pinakalma ni Mara ang bata?"
+      },
+      "answer": {
+        "id": "Dengan mengajaknya menghitung jeda antarombak.",
+        "fil": "Niyaya niya itong bilangin ang pagitan ng mga alon."
+      },
+      "explanation": {
+        "id": "Jawabannya dinyatakan dalam cerita.",
+        "fil": "Tuwirang binanggit sa kuwento ang sagot."
+      },
+      "speech": {
+        "fil": "Paano pinakalma ni Mara ang bata?"
+      }
+    },
+    {
+      "id": "rolang-story-08-ang-bangkang-bumalik-choice",
+      "type": "MULTIPLE_CHOICE",
+      "prompt": {
+        "id": "Apa arti ‘daungan’?",
+        "fil": "Ano ang kahulugan ng ‘daungan’ sa Indonesian?"
+      },
+      "choices": {
+        "id": [
+          "pelabuhan",
+          "cerah",
+          "akan tertunda"
+        ],
+        "fil": [
+          "daungan",
+          "maaliwalas",
+          "maaantala"
+        ]
+      },
+      "answer": {
+        "id": "pelabuhan",
+        "fil": "daungan"
+      },
+      "explanation": {
+        "id": "‘daungan’ berarti ‘pelabuhan’.",
+        "fil": "Ang katumbas ng ‘daungan’ ay ‘pelabuhan’."
+      },
+      "speech": {
+        "fil": "daungan"
+      }
+    },
+    {
+      "id": "rolang-story-08-ang-bangkang-bumalik-vocabulary",
+      "type": "VOCABULARY_TRANSLATION",
+      "prompt": {
+        "id": "Ketik arti ‘maaliwalas’.",
+        "fil": "Isulat ang kahulugan ng ‘maaliwalas’ sa Indonesian."
+      },
+      "answer": {
+        "id": "cerah",
+        "fil": "maaliwalas"
+      },
+      "explanation": {
+        "id": "Jawabannya adalah ‘cerah’.",
+        "fil": "Ang salitang tinutukoy ay ‘maaliwalas’."
+      },
+      "speech": {
+        "fil": "maaliwalas"
+      }
+    },
+    {
+      "id": "rolang-story-08-ang-bangkang-bumalik-blank",
+      "type": "FILL_BLANK",
+      "prompt": {
+        "id": "Kapten memutuskan kembali ke ____.",
+        "fil": "Nagpasya ang kapitan na bumalik sa ____."
+      },
+      "answer": {
+        "id": "pelabuhan",
+        "fil": "daungan"
+      },
+      "explanation": {
+        "id": "Kata ini melengkapi peristiwa dalam cerita.",
+        "fil": "Kinukumpleto ng salita ang pangyayari sa kuwento."
+      },
+      "speech": {
+        "fil": "Nagpasya ang kapitan na bumalik sa daungan."
+      }
+    },
+    {
+      "id": "rolang-story-08-ang-bangkang-bumalik-grammar",
+      "type": "GRAMMAR",
+      "prompt": {
+        "id": "Kata mana memperkenalkan pertentangan yang tidak mengubah keputusan?",
+        "fil": "Aling salita ang nagpapakilala ng salungat na kalagayan?"
+      },
+      "choices": {
+        "id": [
+          "meskipun",
+          "setelah",
+          "di mana"
+        ],
+        "fil": [
+          "kahit",
+          "pagkatapos",
+          "kung saan"
+        ]
+      },
+      "answer": {
+        "id": "meskipun",
+        "fil": "kahit"
+      },
+      "explanation": {
+        "id": "Pilihan ini memakai bentuk yang sesuai dengan fungsi yang ditanyakan.",
+        "fil": "Ginagamit ng sagot ang anyong angkop sa hinihinging tungkulin."
+      },
+      "speech": {
+        "fil": "kahit"
+      }
+    },
+    {
+      "id": "rolang-story-08-ang-bangkang-bumalik-construction",
+      "type": "SENTENCE_CONSTRUCTION",
+      "prompt": {
+        "id": "Susun kalimat lengkap.",
+        "fil": "Buuin ang kumpletong pangungusap."
+      },
+      "tokens": {
+        "id": [
+          "Kapal",
+          "kembali",
+          "ke",
+          "pelabuhan",
+          "dengan",
+          "selamat."
+        ],
+        "fil": [
+          "Ligtas",
+          "na",
+          "bumalik",
+          "sa",
+          "daungan",
+          "ang",
+          "bangka."
+        ]
+      },
+      "answer": {
+        "id": "Kapal kembali ke pelabuhan dengan selamat.",
+        "fil": "Ligtas na bumalik sa daungan ang bangka."
+      },
+      "explanation": {
+        "id": "Urutan ini membentuk kalimat lengkap.",
+        "fil": "Ang ayos na ito ay bumubuo ng kumpletong pangungusap."
+      },
+      "speech": {
+        "fil": "Ligtas na bumalik sa daungan ang bangka."
+      }
+    }
+  ],
+  "vocabulary": [
+    {
+      "language": "fil",
+      "word": "daungan",
+      "translations": {
+        "id": "pelabuhan",
+        "fil": "daungan"
+      },
+      "meanings": {
+        "id": "Makna kontekstual dalam cerita: pelabuhan.",
+        "fil": "Kahulugan sa kuwento: daungan."
+      },
+      "pos": "pangngalan",
+      "pronunciation": "daungan",
+      "notes": {
+        "id": "Pelajari kata ini melalui kalimat dalam cerita.",
+        "fil": "Pag-aralan ang salita sa pamamagitan ng pangungusap sa kuwento."
+      }
+    },
+    {
+      "language": "fil",
+      "word": "maaliwalas",
+      "translations": {
+        "id": "cerah",
+        "fil": "maaliwalas"
+      },
+      "meanings": {
+        "id": "Makna kontekstual dalam cerita: cerah.",
+        "fil": "Kahulugan sa kuwento: maaliwalas."
+      },
+      "pos": "pang-uri",
+      "pronunciation": "maaliwalas",
+      "notes": {
+        "id": "Pelajari kata ini melalui kalimat dalam cerita.",
+        "fil": "Pag-aralan ang salita sa pamamagitan ng pangungusap sa kuwento."
+      }
+    },
+    {
+      "language": "fil",
+      "word": "maaantala",
+      "translations": {
+        "id": "akan tertunda",
+        "fil": "maaantala"
+      },
+      "meanings": {
+        "id": "Makna kontekstual dalam cerita: akan tertunda.",
+        "fil": "Kahulugan sa kuwento: maaantala."
+      },
+      "pos": "pandiwa",
+      "pronunciation": "maaantala",
+      "notes": {
+        "id": "Pelajari kata ini melalui kalimat dalam cerita.",
+        "fil": "Pag-aralan ang salita sa pamamagitan ng pangungusap sa kuwento."
+      }
+    },
+    {
+      "language": "fil",
+      "word": "pasahero",
+      "translations": {
+        "id": "penumpang",
+        "fil": "pasahero"
+      },
+      "meanings": {
+        "id": "Makna kontekstual dalam cerita: penumpang.",
+        "fil": "Kahulugan sa kuwento: pasahero."
+      },
+      "pos": "pangngalan",
+      "pronunciation": "pasahero",
+      "notes": {
+        "id": "Pelajari kata ini melalui kalimat dalam cerita.",
+        "fil": "Pag-aralan ang salita sa pamamagitan ng pangungusap sa kuwento."
+      }
+    },
+    {
+      "language": "fil",
+      "word": "alon",
+      "translations": {
+        "id": "gelombang",
+        "fil": "alon"
+      },
+      "meanings": {
+        "id": "Makna kontekstual dalam cerita: gelombang.",
+        "fil": "Kahulugan sa kuwento: alon."
+      },
+      "pos": "pangngalan",
+      "pronunciation": "alon",
+      "notes": {
+        "id": "Pelajari kata ini melalui kalimat dalam cerita.",
+        "fil": "Pag-aralan ang salita sa pamamagitan ng pangungusap sa kuwento."
+      }
+    },
+    {
+      "language": "fil",
+      "word": "tagiliran",
+      "translations": {
+        "id": "lambung atau sisi",
+        "fil": "tagiliran"
+      },
+      "meanings": {
+        "id": "Makna kontekstual dalam cerita: lambung atau sisi.",
+        "fil": "Kahulugan sa kuwento: tagiliran."
+      },
+      "pos": "pangngalan",
+      "pronunciation": "tagiliran",
+      "notes": {
+        "id": "Pelajari kata ini melalui kalimat dalam cerita.",
+        "fil": "Pag-aralan ang salita sa pamamagitan ng pangungusap sa kuwento."
+      }
+    },
+    {
+      "language": "fil",
+      "word": "pagitan",
+      "translations": {
+        "id": "jeda atau antara",
+        "fil": "pagitan"
+      },
+      "meanings": {
+        "id": "Makna kontekstual dalam cerita: jeda atau antara.",
+        "fil": "Kahulugan sa kuwento: pagitan."
+      },
+      "pos": "pangngalan",
+      "pronunciation": "pagitan",
+      "notes": {
+        "id": "Pelajari kata ini melalui kalimat dalam cerita.",
+        "fil": "Pag-aralan ang salita sa pamamagitan ng pangungusap sa kuwento."
+      }
+    },
+    {
+      "language": "fil",
+      "word": "ipinagpatuloy",
+      "translations": {
+        "id": "dilanjutkan",
+        "fil": "ipinagpatuloy"
+      },
+      "meanings": {
+        "id": "Makna kontekstual dalam cerita: dilanjutkan.",
+        "fil": "Kahulugan sa kuwento: ipinagpatuloy."
+      },
+      "pos": "pandiwa",
+      "pronunciation": "ipinagpatuloy",
+      "notes": {
+        "id": "Pelajari kata ini melalui kalimat dalam cerita.",
+        "fil": "Pag-aralan ang salita sa pamamagitan ng pangungusap sa kuwento."
+      }
+    }
+  ],
+  "assets": []
+}

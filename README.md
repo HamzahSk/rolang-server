@@ -9,9 +9,10 @@ The published content base is:
 https://raw.githubusercontent.com/HamzahSk/rolang-server/data/
 ```
 
-`manifest.json` discovers two courses with 13 unit documents and 44 lessons:
-*Elementary Tagalog 1* and *Learning Tagalog — Course Book 1*. `storie/` is
-reserved and does not publish Stories yet. Every JSON document and JPEG
+`manifest.json` discovers two courses with 13 unit documents and 44 lessons,
+plus 13 original bilingual Stories. The Stories cover Beginner and Intermediate
+reading across daily life, food and care, travel, community, school and work,
+relationships, technology, and a gentle mystery. Every JSON document and JPEG
 reference is checked by `tools/validate_content.py`; indexes contain SHA-256
 hashes used by Android before cached content is replaced.
 
@@ -43,6 +44,19 @@ python3 tools/validate_content.py .
 ```
 
 Generated content must be committed and published only from the `data` branch.
+
+## Regenerate Stories
+
+The source audit records structural metadata from the reference EPUB but never
+publishes its prose. Story text, translations, vocabulary, notes, and exercises
+are original RoLang content.
+
+```sh
+python3 tools/analyze_story_epub.py \
+  "/path/to/English Short Stories for Intermediate Learners 100 English Short Stories.epub"
+python3 tools/generate_original_stories.py
+python3 tools/validate_content.py .
+```
 
 ## Regenerate Course Book 1 from the PDF
 

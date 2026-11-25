@@ -63,6 +63,14 @@ def lesson_text(value: Any, location: str) -> None:
         fail(f"Filipino source must retain TTS text: {location}")
 
 
+def localized_text(value: Any, location: str) -> None:
+    if not isinstance(value, dict):
+        fail(f"Localized text must be an object: {location}")
+    for language in ("id", "fil"):
+        if not isinstance(value.get(language), str) or not value[language].strip():
+            fail(f"Missing {language} text: {location}")
+
+
 def lesson_rows(value: Any, location: str) -> None:
     if not isinstance(value, list) or not value:
         fail(f"Empty rows: {location}")
@@ -164,7 +172,7 @@ def validate_sections(document: dict[str, Any], course_dir: Path, known_assets: 
     return used
 
 
-def validate(root: Path) -> tuple[int, int, int]:
+def validate(root: Path) -> tuple[int, int, int, int]:
     root = root.resolve()
     manifest = load(root / "manifest.json")
     if manifest.get("schemaVersion") != 1:
@@ -315,20 +323,115 @@ def validate(root: Path) -> tuple[int, int, int]:
 
         total_lessons += len(lessons)
         total_assets += len(known_assets)
-    if manifest.get("stories") != {"path": "storie/", "status": "reserved"}:
-        fail("Stories must remain reserved")
-    if not (root / "storie").is_dir():
-        fail("Missing storie/ reservation directory")
+    story_index_path = verify_hash(root, root, manifest.get("stories", {}))
+    story_index = load(story_index_path)
+    if story_index.get("schemaVersion") != 1 or story_index.get("languagePair") != {"reference": "id", "target": "fil"}:
+        fail("Invalid story index metadata")
+    story_references = story_index.get("stories")
+    if not isinstance(story_references, list) or not story_references:
+        fail("Story index must contain stories")
+    if story_index.get("storyCount") != len(story_references):
+        fail("Story count does not match index")
+    if [reference.get("order") for reference in story_references] != list(range(1, len(story_references) + 1)):
+        fail("Story order must be contiguous")
+    if len({reference.get("id") for reference in story_references}) != len(story_references):
+        fail("Story ids must be unique")
+    audit_path = verify_hash(root, story_index_path.parent, story_index.get("sourceAudit", {}))
+    story_audit = load(audit_path)
+    if story_audit.get("source", {}).get("actualNumberedStoryCount", 0) < 100:
+        fail("Story source audit must cover the complete EPUB")
+    if story_audit.get("assets", {}).get("extractedOrReused") != 0:
+        fail("The source cover must not be reused as a story illustration")
+    exercise_types = {"MULTIPLE_CHOICE", "VOCABULARY_TRANSLATION", "FILL_BLANK", "GRAMMAR", "SENTENCE_CONSTRUCTION", "COMPREHENSION"}
+    total_stories = 0
+    for reference in story_references:
+        story_path = verify_hash(root, story_index_path.parent, reference)
+        story = load(story_path)
+        where = story_path.as_posix()
+        if story.get("schemaVersion") != 1 or story.get("id") != reference.get("id"):
+            fail(f"Story metadata mismatch: {where}")
+        for field in ("family", "category", "level"):
+            if story.get(field) != reference.get(field):
+                fail(f"Story {field} mismatch: {where}")
+        if story.get("level") not in {"BEGINNER", "INTERMEDIATE", "ADVANCED"} or story.get("kind") != "STORY":
+            fail(f"Invalid story level or kind: {where}")
+        localized_text(story.get("title"), f"{where}.title")
+        localized_text(story.get("summary"), f"{where}.summary")
+        sentences = story.get("sentences")
+        if not isinstance(sentences, list) or len(sentences) < 6 or len(sentences) > 300:
+            fail(f"Story must contain complete paragraph content: {where}")
+        if story.get("sentenceCount") != len(sentences) or reference.get("sentenceCount") != len(sentences):
+            fail(f"Story paragraph count mismatch: {where}")
+        for index, sentence in enumerate(sentences):
+            localized_text(sentence, f"{where}.sentences[{index}]")
+        chapters = story.get("chapters")
+        if not isinstance(chapters, list) or sum(chapter.get("sentenceCount", 0) for chapter in chapters) != len(sentences):
+            fail(f"Story chapters do not cover every paragraph: {where}")
+        for index, chapter in enumerate(chapters):
+            localized_text(chapter.get("title"), f"{where}.chapters[{index}].title")
+        notes = story.get("notes")
+        if not isinstance(notes, list) or len(notes) < 2:
+            fail(f"Story needs learning notes: {where}")
+        for index, note in enumerate(notes):
+            localized_text(note.get("title"), f"{where}.notes[{index}].title")
+            localized_text(note.get("text"), f"{where}.notes[{index}].text")
+        vocabulary = story.get("vocabulary")
+        if not isinstance(vocabulary, list) or len(vocabulary) < 6:
+            fail(f"Story needs a substantial vocabulary list: {where}")
+        vocabulary_keys = []
+        for index, entry in enumerate(vocabulary):
+            entry_where = f"{where}.vocabulary[{index}]"
+            if entry.get("language") != "fil" or not isinstance(entry.get("word"), str) or not entry["word"].strip():
+                fail(f"Invalid story vocabulary entry: {entry_where}")
+            vocabulary_keys.append(entry["word"].casefold())
+            for field in ("translations", "meanings", "notes"):
+                localized_text(entry.get(field), f"{entry_where}.{field}")
+            if not isinstance(entry.get("pos"), str) or not entry["pos"].strip():
+                fail(f"Vocabulary part of speech is missing: {entry_where}")
+        if len(vocabulary_keys) != len(set(vocabulary_keys)):
+            fail(f"Duplicate vocabulary entries: {where}")
+        tagalog_text = " ".join(sentence["fil"].casefold() for sentence in sentences)
+        if any(key not in tagalog_text for key in vocabulary_keys):
+            fail(f"Every vocabulary item must occur in the Tagalog story: {where}")
+        focus = story.get("focus")
+        if not isinstance(focus, dict) or not all(isinstance(focus.get(language), list) and focus[language] for language in ("id", "fil")):
+            fail(f"Invalid story focus list: {where}")
+        if any(value.casefold() not in set(vocabulary_keys) for value in focus["fil"]):
+            fail(f"A focus expression is missing from vocabulary: {where}")
+        exercises = story.get("exercises")
+        if not isinstance(exercises, list) or len(exercises) < 5:
+            fail(f"Story needs interactive exercises: {where}")
+        for index, exercise in enumerate(exercises):
+            exercise_where = f"{where}.exercises[{index}]"
+            if exercise.get("type") not in exercise_types or not exercise.get("id"):
+                fail(f"Invalid exercise: {exercise_where}")
+            for field in ("prompt", "answer", "explanation"):
+                localized_text(exercise.get(field), f"{exercise_where}.{field}")
+            if exercise["type"] in {"MULTIPLE_CHOICE", "GRAMMAR"}:
+                choices = exercise.get("choices")
+                if not isinstance(choices, dict):
+                    fail(f"Exercise choices are missing: {exercise_where}")
+                for language in ("id", "fil"):
+                    if not isinstance(choices.get(language), list) or len(set(choices[language])) < 2 or exercise["answer"][language] not in choices[language]:
+                        fail(f"Invalid {language} choices: {exercise_where}")
+            if exercise["type"] == "SENTENCE_CONSTRUCTION":
+                tokens = exercise.get("tokens")
+                if not isinstance(tokens, dict) or any(not tokens.get(language) for language in ("id", "fil")):
+                    fail(f"Construction tokens are missing: {exercise_where}")
+        assets = story.get("assets")
+        if assets != [] or reference.get("assets") != []:
+            fail(f"Unexpected story assets: {where}")
+        total_stories += 1
     json_count = len(list(root.rglob("*.json")))
-    return total_lessons, total_assets, json_count
+    return total_lessons, total_assets, total_stories, json_count
 
 
 def main() -> None:
     parser = argparse.ArgumentParser()
     parser.add_argument("root", nargs="?", type=Path, default=Path(__file__).resolve().parents[1])
     args = parser.parse_args()
-    lessons, assets, json_files = validate(args.root)
-    print(f"Validated {lessons} lessons, {assets} images, and {json_files} JSON files.")
+    lessons, assets, stories, json_files = validate(args.root)
+    print(f"Validated {lessons} lessons, {stories} stories, {assets} lesson images, and {json_files} JSON files.")
 
 
 if __name__ == "__main__":
