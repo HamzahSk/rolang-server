@@ -1,0 +1,370 @@
+{
+  "schemaVersion": 1,
+  "id": "book1-story-08-how-the-sun-and-the-moon-were-made",
+  "collectionId": "4000-essential-english-words-book-1",
+  "sourceOrder": 8,
+  "family": "4000-essential-english-words-book-1",
+  "category": "Mitos Inuit",
+  "level": "BEGINNER",
+  "order": 8,
+  "kind": "STORY",
+  "image": "assets/08-how-the-sun-and-the-moon-were-made.jpg",
+  "title": {
+    "id": "How the Sun and the Moon Were Made",
+    "fil": "How the Sun and the Moon Were Made"
+  },
+  "originalTitle": "How the Sun and the Moon Were Made",
+  "summary": {
+    "id": "Dalam sebuah kisah Inuit, seorang gadis mengungkap kejahatan saudaranya lalu mengejarnya hingga mereka menjadi bulan dan matahari.",
+    "fil": "Sa isang kuwentong Inuit, natukoy ng isang dalaga ang masamang ginawa ng kaniyang kapatid at hinabol ito hanggang maging buwan at araw silang dalawa."
+  },
+  "objectives": [
+    {
+      "id": "Menelusuri sebab dan akibat dalam “How the Sun and the Moon Were Made”.",
+      "fil": "Sundan ang sanhi at bunga sa “How the Sun and the Moon Were Made”."
+    },
+    {
+      "id": "Menjelaskan tema pengungkapan kesalahan dan akibatnya melalui keputusan para tokoh.",
+      "fil": "Ipaliwanag ang temang pagbubunyag ng kasalanan at bunga nito sa pamamagitan ng mga pasiya ng mga tauhan."
+    }
+  ],
+  "sentences": [
+    {
+      "id": "Sebuah kisah Inuit bercerita tentang gadis baik dan adik laki-lakinya yang kejam.",
+      "fil": "Isang kuwentong Inuit ang nagsasalaysay tungkol sa mabait na dalaga at sa masamang nakababatang kapatid niyang lalaki."
+    },
+    {
+      "id": "Mereka pergi ke sebuah pesta, tetapi ketika lampu dipadamkan seseorang menarik rambut dan merobek pakaian gadis itu.",
+      "fil": "Pumunta sila sa isang piging, ngunit nang patayin ang ilaw ay may humila sa buhok at pumunit sa damit ng dalaga."
+    },
+    {
+      "id": "Untuk mengenali pelakunya, ia menata rambutnya lagi dengan perhiasan dan menaruh kotoran hitam di dalamnya.",
+      "fil": "Upang makilala ang may sala, inayos niyang muli ang buhok na may mga hiyas at nilagyan iyon ng maitim na uling."
+    },
+    {
+      "id": "Serangan itu terulang, lalu ia menemukan satu-satunya orang yang tangannya menjadi hitam: saudaranya sendiri.",
+      "fil": "Naulit ang pangyayari at natukoy niya ang kaisa-isang may maitim na kamay—ang sarili niyang kapatid."
+    },
+    {
+      "id": "Anak laki-laki itu melarikan diri ke hutan, dan gadis tersebut mengejarnya sambil keduanya membawa api sebagai penerang.",
+      "fil": "Tumakas sa gubat ang lalaki at hinabol siya ng dalaga habang kapwa sila may dalang apoy bilang tanglaw."
+    },
+    {
+      "id": "Saat berlari, tubuh mereka membesar dan mereka naik ke angkasa.",
+      "fil": "Habang tumatakbo, lumaki ang kanilang mga katawan at umakyat sila sa kalangitan."
+    },
+    {
+      "id": "Gadis itu menjadi bulan, saudaranya menjadi matahari, dan sejak itu mereka saling mengejar di langit.",
+      "fil": "Naging buwan ang dalaga at naging araw ang kapatid niya; mula noon ay naghahabulan sila sa langit."
+    }
+  ],
+  "sentenceCount": 7,
+  "speakers": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  "notes": [
+    {
+      "title": {
+        "id": "Ungkapan berguna",
+        "fil": "Mga kapaki-pakinabang na pahayag"
+      },
+      "text": {
+        "id": "“nang patayin ang ilaw” — ketika lampu dipadamkan; “mula noon ay naghahabulan sila” — sejak itu mereka saling mengejar",
+        "fil": "“nang patayin ang ilaw” — ang katumbas sa Indonesian ay “ketika lampu dipadamkan”; “mula noon ay naghahabulan sila” — ang katumbas sa Indonesian ay “sejak itu mereka saling mengejar”"
+      }
+    },
+    {
+      "title": {
+        "id": "Catatan tata bahasa",
+        "fil": "Tala sa gramatika"
+      },
+      "text": {
+        "id": "Nang + bentuk verba menandai waktu ketika peristiwa lain terjadi. Kapwa menegaskan bahwa dua tokoh melakukan atau memiliki hal yang sama.",
+        "fil": "Ginagamit ang nang + pandiwa upang tukuyin ang oras ng ibang pangyayari. Binibigyang-diin ng kapwa na pareho ang ginagawa o taglay ng dalawang tauhan."
+      }
+    }
+  ],
+  "focus": {
+    "id": [
+      "kisah Inuit",
+      "pesta",
+      "perhiasan",
+      "arang hitam",
+      "mengidentifikasi",
+      "mengejar",
+      "penerang",
+      "angkasa"
+    ],
+    "fil": [
+      "kuwentong Inuit",
+      "piging",
+      "hiyas",
+      "uling",
+      "natukoy",
+      "hinabol",
+      "tanglaw",
+      "kalangitan"
+    ]
+  },
+  "questions": [
+    {
+      "id": "book1-story-08-how-the-sun-and-the-moon-were-made-q1",
+      "type": "MULTIPLE_CHOICE",
+      "prompt": {
+        "id": "Bagaimana gadis itu menandai pelaku?",
+        "fil": "Paano minarkahan ng dalaga ang may sala?"
+      },
+      "choices": {
+        "id": [
+          "Dengan cat merah",
+          "Dengan kotoran hitam di rambutnya",
+          "Dengan air"
+        ],
+        "fil": [
+          "Sa pulang pintura",
+          "Sa maitim na uling sa kaniyang buhok",
+          "Sa tubig"
+        ]
+      },
+      "speech": {
+        "fil": "Paano minarkahan ng dalaga ang may sala?"
+      }
+    },
+    {
+      "id": "book1-story-08-how-the-sun-and-the-moon-were-made-q2",
+      "type": "MULTIPLE_CHOICE",
+      "prompt": {
+        "id": "Siapa yang ternyata menyerang gadis itu?",
+        "fil": "Sino pala ang nanakit sa dalaga?"
+      },
+      "choices": {
+        "id": [
+          "Saudaranya",
+          "Orang asing",
+          "Temannya"
+        ],
+        "fil": [
+          "Kaniyang kapatid",
+          "Isang estranghero",
+          "Kaniyang kaibigan"
+        ]
+      },
+      "speech": {
+        "fil": "Sino pala ang nanakit sa dalaga?"
+      }
+    },
+    {
+      "id": "book1-story-08-how-the-sun-and-the-moon-were-made-q3",
+      "type": "MULTIPLE_CHOICE",
+      "prompt": {
+        "id": "Menjadi apakah kedua saudara itu?",
+        "fil": "Ano ang kinahinatnan ng magkapatid?"
+      },
+      "choices": {
+        "id": [
+          "Bintang dan awan",
+          "Gunung dan sungai",
+          "Bulan dan matahari"
+        ],
+        "fil": [
+          "Bituin at ulap",
+          "Bundok at ilog",
+          "Buwan at araw"
+        ]
+      },
+      "speech": {
+        "fil": "Ano ang kinahinatnan ng magkapatid?"
+      }
+    }
+  ],
+  "answers": [
+    {
+      "questionId": "book1-story-08-how-the-sun-and-the-moon-were-made-q1",
+      "answer": {
+        "id": "Dengan kotoran hitam di rambutnya",
+        "fil": "Sa maitim na uling sa kaniyang buhok"
+      },
+      "explanation": {
+        "id": "Kotoran hitam berpindah ke tangan orang yang kembali menarik rambutnya.",
+        "fil": "Lumipat ang maitim na uling sa kamay ng muling humila sa kaniyang buhok."
+      }
+    },
+    {
+      "questionId": "book1-story-08-how-the-sun-and-the-moon-were-made-q2",
+      "answer": {
+        "id": "Saudaranya",
+        "fil": "Kaniyang kapatid"
+      },
+      "explanation": {
+        "id": "Ia mengenali saudaranya sebagai satu-satunya orang bertangan hitam.",
+        "fil": "Nakilala niya ang kapatid bilang kaisa-isang may maitim na kamay."
+      }
+    },
+    {
+      "questionId": "book1-story-08-how-the-sun-and-the-moon-were-made-q3",
+      "answer": {
+        "id": "Bulan dan matahari",
+        "fil": "Buwan at araw"
+      },
+      "explanation": {
+        "id": "Gadis itu menjadi bulan, sedangkan saudaranya menjadi matahari.",
+        "fil": "Naging buwan ang dalaga, samantalang naging araw ang kaniyang kapatid."
+      }
+    }
+  ],
+  "vocabulary": [
+    {
+      "language": "fil",
+      "word": "kuwentong Inuit",
+      "translations": {
+        "id": "kisah Inuit",
+        "fil": "kuwentong Inuit"
+      },
+      "meanings": {
+        "id": "kisah Inuit",
+        "fil": "Ang katumbas nito sa Indonesian ay “kisah Inuit”."
+      },
+      "pos": "parirala",
+      "pronunciation": "kuwentong Inuit",
+      "notes": {
+        "id": "Kata ini muncul pada paragraf 1 dalam konteks cerita.",
+        "fil": "Makikita ang salitang ito sa talata 1 ng muling pagsasalaysay."
+      }
+    },
+    {
+      "language": "fil",
+      "word": "piging",
+      "translations": {
+        "id": "pesta",
+        "fil": "piging"
+      },
+      "meanings": {
+        "id": "pesta",
+        "fil": "Ang katumbas nito sa Indonesian ay “pesta”."
+      },
+      "pos": "pangngalan",
+      "pronunciation": "piging",
+      "notes": {
+        "id": "Kata ini muncul pada paragraf 2 dalam konteks cerita.",
+        "fil": "Makikita ang salitang ito sa talata 2 ng muling pagsasalaysay."
+      }
+    },
+    {
+      "language": "fil",
+      "word": "hiyas",
+      "translations": {
+        "id": "perhiasan",
+        "fil": "hiyas"
+      },
+      "meanings": {
+        "id": "perhiasan",
+        "fil": "Ang katumbas nito sa Indonesian ay “perhiasan”."
+      },
+      "pos": "pangngalan",
+      "pronunciation": "hiyas",
+      "notes": {
+        "id": "Kata ini muncul pada paragraf 3 dalam konteks cerita.",
+        "fil": "Makikita ang salitang ito sa talata 3 ng muling pagsasalaysay."
+      }
+    },
+    {
+      "language": "fil",
+      "word": "uling",
+      "translations": {
+        "id": "arang hitam",
+        "fil": "uling"
+      },
+      "meanings": {
+        "id": "arang hitam",
+        "fil": "Ang katumbas nito sa Indonesian ay “arang hitam”."
+      },
+      "pos": "pangngalan",
+      "pronunciation": "uling",
+      "notes": {
+        "id": "Kata ini muncul pada paragraf 3 dalam konteks cerita.",
+        "fil": "Makikita ang salitang ito sa talata 3 ng muling pagsasalaysay."
+      }
+    },
+    {
+      "language": "fil",
+      "word": "natukoy",
+      "translations": {
+        "id": "mengidentifikasi",
+        "fil": "natukoy"
+      },
+      "meanings": {
+        "id": "mengidentifikasi",
+        "fil": "Ang katumbas nito sa Indonesian ay “mengidentifikasi”."
+      },
+      "pos": "pandiwa",
+      "pronunciation": "natukoy",
+      "notes": {
+        "id": "Kata ini muncul pada paragraf 4 dalam konteks cerita.",
+        "fil": "Makikita ang salitang ito sa talata 4 ng muling pagsasalaysay."
+      }
+    },
+    {
+      "language": "fil",
+      "word": "hinabol",
+      "translations": {
+        "id": "mengejar",
+        "fil": "hinabol"
+      },
+      "meanings": {
+        "id": "mengejar",
+        "fil": "Ang katumbas nito sa Indonesian ay “mengejar”."
+      },
+      "pos": "pandiwa",
+      "pronunciation": "hinabol",
+      "notes": {
+        "id": "Kata ini muncul pada paragraf 5 dalam konteks cerita.",
+        "fil": "Makikita ang salitang ito sa talata 5 ng muling pagsasalaysay."
+      }
+    },
+    {
+      "language": "fil",
+      "word": "tanglaw",
+      "translations": {
+        "id": "penerang",
+        "fil": "tanglaw"
+      },
+      "meanings": {
+        "id": "penerang",
+        "fil": "Ang katumbas nito sa Indonesian ay “penerang”."
+      },
+      "pos": "pangngalan",
+      "pronunciation": "tanglaw",
+      "notes": {
+        "id": "Kata ini muncul pada paragraf 5 dalam konteks cerita.",
+        "fil": "Makikita ang salitang ito sa talata 5 ng muling pagsasalaysay."
+      }
+    },
+    {
+      "language": "fil",
+      "word": "kalangitan",
+      "translations": {
+        "id": "angkasa",
+        "fil": "kalangitan"
+      },
+      "meanings": {
+        "id": "angkasa",
+        "fil": "Ang katumbas nito sa Indonesian ay “angkasa”."
+      },
+      "pos": "pangngalan",
+      "pronunciation": "kalangitan",
+      "notes": {
+        "id": "Kata ini muncul pada paragraf 6 dalam konteks cerita.",
+        "fil": "Makikita ang salitang ito sa talata 6 ng muling pagsasalaysay."
+      }
+    }
+  ],
+  "assets": [
+    "assets/08-how-the-sun-and-the-moon-were-made.jpg"
+  ]
+}

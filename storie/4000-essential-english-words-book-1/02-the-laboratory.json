@@ -1,0 +1,370 @@
+{
+  "schemaVersion": 1,
+  "id": "book1-story-02-the-laboratory",
+  "collectionId": "4000-essential-english-words-book-1",
+  "sourceOrder": 2,
+  "family": "4000-essential-english-words-book-1",
+  "category": "Misteri keluarga",
+  "level": "BEGINNER",
+  "order": 2,
+  "kind": "STORY",
+  "image": "assets/02-the-laboratory.jpg",
+  "title": {
+    "id": "The Laboratory",
+    "fil": "The Laboratory"
+  },
+  "originalTitle": "The Laboratory",
+  "summary": {
+    "id": "Mia dan Liz menyelidiki suara menakutkan dari laboratorium ayah Mia dan menemukan kejutan ulang tahun.",
+    "fil": "Inusisa nina Mia at Liz ang nakatatakot na tunog sa laboratoryo at natuklasan ang sorpresang regalo ng ama ni Mia."
+  },
+  "objectives": [
+    {
+      "id": "Menelusuri sebab dan akibat dalam “The Laboratory”.",
+      "fil": "Sundan ang sanhi at bunga sa “The Laboratory”."
+    },
+    {
+      "id": "Menjelaskan tema ketakutan akibat dugaan yang salah melalui keputusan para tokoh.",
+      "fil": "Ipaliwanag ang temang takot na bunga ng maling akala sa pamamagitan ng mga pasiya ng mga tauhan."
+    }
+  ],
+  "sentences": [
+    {
+      "id": "Ayah Mia memiliki laboratorium rahasia di rumah dan selalu menguncinya.",
+      "fil": "May lihim na laboratoryo sa bahay ang ama ni Mia at palagi niya itong ikinakandado."
+    },
+    {
+      "id": "Suatu malam, Mia mendengar tawa keras yang menakutkan dari dalam.",
+      "fil": "Isang gabi, nakarinig si Mia ng malakas at nakatatakot na halakhak mula sa loob."
+    },
+    {
+      "id": "Keesokan harinya, sahabatnya Liz datang dan mendorong Mia untuk mencari asal suara itu.",
+      "fil": "Kinabukasan, dumalaw ang kaibigan niyang si Liz at hinikayat siyang alamin ang pinagmulan ng tunog."
+    },
+    {
+      "id": "Saat ayah Mia pergi makan malam dan pintunya tertinggal terbuka, kedua gadis itu masuk dengan hati-hati.",
+      "fil": "Nang umalis ang ama ni Mia para maghapunan at maiwang bukas ang pinto, maingat na pumasok ang dalawang babae."
+    },
+    {
+      "id": "Di ruangan gelap, bau bahan kimia dan tawa yang terdengar lagi membuat mereka semakin takut sehingga Mia berteriak.",
+      "fil": "Sa madilim na silid, lalo silang natakot sa amoy ng mga kemikal at sa muling halakhak kaya sumigaw si Mia."
+    },
+    {
+      "id": "Ayahnya datang dan menunjukkan bahwa suara itu hanya berasal dari boneka cantik yang dibuatnya untuk ulang tahun Mia.",
+      "fil": "Dumating ang ama at ipinakitang mula lamang sa isang magandang manika ang tunog; ginawa niya ito para sa kaarawan ni Mia."
+    },
+    {
+      "id": "Ketakutan mereka hilang ketika mengetahui bahwa rahasia laboratorium itu adalah hadiah, bukan monster.",
+      "fil": "Nawala ang kanilang takot nang malaman nilang regalo, hindi halimaw, ang lihim sa laboratoryo."
+    }
+  ],
+  "sentenceCount": 7,
+  "speakers": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  "notes": [
+    {
+      "title": {
+        "id": "Ungkapan berguna",
+        "fil": "Mga kapaki-pakinabang na pahayag"
+      },
+      "text": {
+        "id": "“mula lamang sa isang magandang manika” — hanya berasal dari sebuah boneka cantik; “Nawala ang kanilang takot” — ketakutan mereka hilang",
+        "fil": "“mula lamang sa isang magandang manika” — ang katumbas sa Indonesian ay “hanya berasal dari sebuah boneka cantik”; “Nawala ang kanilang takot” — ang katumbas sa Indonesian ay “ketakutan mereka hilang”"
+      }
+    },
+    {
+      "title": {
+        "id": "Catatan tata bahasa",
+        "fil": "Tala sa gramatika"
+      },
+      "text": {
+        "id": "Nang memperkenalkan peristiwa yang menjadi latar bagi tindakan berikutnya. Para sa menandai penerima atau tujuan.",
+        "fil": "Ipinakikilala ng nang ang pangyayaring pinagmulan ng kasunod na kilos. Tinutukoy ng para sa ang tatanggap o layunin."
+      }
+    }
+  ],
+  "focus": {
+    "id": [
+      "laboratorium",
+      "mengunci",
+      "tawa keras",
+      "mendorong",
+      "asal",
+      "bahan kimia",
+      "boneka",
+      "monster"
+    ],
+    "fil": [
+      "laboratoryo",
+      "ikinakandado",
+      "halakhak",
+      "hinikayat",
+      "pinagmulan",
+      "kemikal",
+      "manika",
+      "halimaw"
+    ]
+  },
+  "questions": [
+    {
+      "id": "book1-story-02-the-laboratory-q1",
+      "type": "MULTIPLE_CHOICE",
+      "prompt": {
+        "id": "Apa yang awalnya membuat Mia takut?",
+        "fil": "Ano ang unang ikinatakot ni Mia?"
+      },
+      "choices": {
+        "id": [
+          "Cahaya terang",
+          "Tawa keras dari laboratorium",
+          "Pintu yang rusak"
+        ],
+        "fil": [
+          "Maliwanag na ilaw",
+          "Malakas na halakhak mula sa laboratoryo",
+          "Sirang pinto"
+        ]
+      },
+      "speech": {
+        "fil": "Ano ang unang ikinatakot ni Mia?"
+      }
+    },
+    {
+      "id": "book1-story-02-the-laboratory-q2",
+      "type": "MULTIPLE_CHOICE",
+      "prompt": {
+        "id": "Mengapa Mia dan Liz dapat masuk?",
+        "fil": "Bakit nakapasok sina Mia at Liz?"
+      },
+      "choices": {
+        "id": [
+          "Pintunya tidak terkunci",
+          "Mereka memecahkan jendela",
+          "Ayah Mia mengundang mereka"
+        ],
+        "fil": [
+          "Hindi nakakandado ang pinto",
+          "Binasag nila ang bintana",
+          "Inanyayahan sila ng ama ni Mia"
+        ]
+      },
+      "speech": {
+        "fil": "Bakit nakapasok sina Mia at Liz?"
+      }
+    },
+    {
+      "id": "book1-story-02-the-laboratory-q3",
+      "type": "MULTIPLE_CHOICE",
+      "prompt": {
+        "id": "Apa rahasia sebenarnya di laboratorium?",
+        "fil": "Ano talaga ang lihim sa laboratoryo?"
+      },
+      "choices": {
+        "id": [
+          "Eksperimen berbahaya",
+          "Monster",
+          "Boneka ulang tahun untuk Mia"
+        ],
+        "fil": [
+          "Mapanganib na eksperimento",
+          "Halimaw",
+          "Manika para sa kaarawan ni Mia"
+        ]
+      },
+      "speech": {
+        "fil": "Ano talaga ang lihim sa laboratoryo?"
+      }
+    }
+  ],
+  "answers": [
+    {
+      "questionId": "book1-story-02-the-laboratory-q1",
+      "answer": {
+        "id": "Tawa keras dari laboratorium",
+        "fil": "Malakas na halakhak mula sa laboratoryo"
+      },
+      "explanation": {
+        "id": "Mia mendengar tawa yang ia kira berasal dari sesuatu yang jahat.",
+        "fil": "Nakarinig si Mia ng halakhak na inakala niyang mula sa masamang nilalang."
+      }
+    },
+    {
+      "questionId": "book1-story-02-the-laboratory-q2",
+      "answer": {
+        "id": "Pintunya tidak terkunci",
+        "fil": "Hindi nakakandado ang pinto"
+      },
+      "explanation": {
+        "id": "Ayah Mia pergi makan tanpa mengunci kembali pintu laboratorium.",
+        "fil": "Umalis ang ama ni Mia nang hindi muling ikinandado ang pinto."
+      }
+    },
+    {
+      "questionId": "book1-story-02-the-laboratory-q3",
+      "answer": {
+        "id": "Boneka ulang tahun untuk Mia",
+        "fil": "Manika para sa kaarawan ni Mia"
+      },
+      "explanation": {
+        "id": "Ayah Mia sedang membuat boneka yang dapat tertawa sebagai hadiah.",
+        "fil": "Gumagawa ang ama ni Mia ng manikang tumatawa bilang regalo."
+      }
+    }
+  ],
+  "vocabulary": [
+    {
+      "language": "fil",
+      "word": "laboratoryo",
+      "translations": {
+        "id": "laboratorium",
+        "fil": "laboratoryo"
+      },
+      "meanings": {
+        "id": "laboratorium",
+        "fil": "Ang katumbas nito sa Indonesian ay “laboratorium”."
+      },
+      "pos": "pangngalan",
+      "pronunciation": "laboratoryo",
+      "notes": {
+        "id": "Kata ini muncul pada paragraf 1 dalam konteks cerita.",
+        "fil": "Makikita ang salitang ito sa talata 1 ng muling pagsasalaysay."
+      }
+    },
+    {
+      "language": "fil",
+      "word": "ikinakandado",
+      "translations": {
+        "id": "mengunci",
+        "fil": "ikinakandado"
+      },
+      "meanings": {
+        "id": "mengunci",
+        "fil": "Ang katumbas nito sa Indonesian ay “mengunci”."
+      },
+      "pos": "pandiwa",
+      "pronunciation": "ikinakandado",
+      "notes": {
+        "id": "Kata ini muncul pada paragraf 1 dalam konteks cerita.",
+        "fil": "Makikita ang salitang ito sa talata 1 ng muling pagsasalaysay."
+      }
+    },
+    {
+      "language": "fil",
+      "word": "halakhak",
+      "translations": {
+        "id": "tawa keras",
+        "fil": "halakhak"
+      },
+      "meanings": {
+        "id": "tawa keras",
+        "fil": "Ang katumbas nito sa Indonesian ay “tawa keras”."
+      },
+      "pos": "pangngalan",
+      "pronunciation": "halakhak",
+      "notes": {
+        "id": "Kata ini muncul pada paragraf 2 dalam konteks cerita.",
+        "fil": "Makikita ang salitang ito sa talata 2 ng muling pagsasalaysay."
+      }
+    },
+    {
+      "language": "fil",
+      "word": "hinikayat",
+      "translations": {
+        "id": "mendorong",
+        "fil": "hinikayat"
+      },
+      "meanings": {
+        "id": "mendorong",
+        "fil": "Ang katumbas nito sa Indonesian ay “mendorong”."
+      },
+      "pos": "pandiwa",
+      "pronunciation": "hinikayat",
+      "notes": {
+        "id": "Kata ini muncul pada paragraf 3 dalam konteks cerita.",
+        "fil": "Makikita ang salitang ito sa talata 3 ng muling pagsasalaysay."
+      }
+    },
+    {
+      "language": "fil",
+      "word": "pinagmulan",
+      "translations": {
+        "id": "asal",
+        "fil": "pinagmulan"
+      },
+      "meanings": {
+        "id": "asal",
+        "fil": "Ang katumbas nito sa Indonesian ay “asal”."
+      },
+      "pos": "pangngalan",
+      "pronunciation": "pinagmulan",
+      "notes": {
+        "id": "Kata ini muncul pada paragraf 3 dalam konteks cerita.",
+        "fil": "Makikita ang salitang ito sa talata 3 ng muling pagsasalaysay."
+      }
+    },
+    {
+      "language": "fil",
+      "word": "kemikal",
+      "translations": {
+        "id": "bahan kimia",
+        "fil": "kemikal"
+      },
+      "meanings": {
+        "id": "bahan kimia",
+        "fil": "Ang katumbas nito sa Indonesian ay “bahan kimia”."
+      },
+      "pos": "pangngalan",
+      "pronunciation": "kemikal",
+      "notes": {
+        "id": "Kata ini muncul pada paragraf 5 dalam konteks cerita.",
+        "fil": "Makikita ang salitang ito sa talata 5 ng muling pagsasalaysay."
+      }
+    },
+    {
+      "language": "fil",
+      "word": "manika",
+      "translations": {
+        "id": "boneka",
+        "fil": "manika"
+      },
+      "meanings": {
+        "id": "boneka",
+        "fil": "Ang katumbas nito sa Indonesian ay “boneka”."
+      },
+      "pos": "pangngalan",
+      "pronunciation": "manika",
+      "notes": {
+        "id": "Kata ini muncul pada paragraf 6 dalam konteks cerita.",
+        "fil": "Makikita ang salitang ito sa talata 6 ng muling pagsasalaysay."
+      }
+    },
+    {
+      "language": "fil",
+      "word": "halimaw",
+      "translations": {
+        "id": "monster",
+        "fil": "halimaw"
+      },
+      "meanings": {
+        "id": "monster",
+        "fil": "Ang katumbas nito sa Indonesian ay “monster”."
+      },
+      "pos": "pangngalan",
+      "pronunciation": "halimaw",
+      "notes": {
+        "id": "Kata ini muncul pada paragraf 7 dalam konteks cerita.",
+        "fil": "Makikita ang salitang ito sa talata 7 ng muling pagsasalaysay."
+      }
+    }
+  ],
+  "assets": [
+    "assets/02-the-laboratory.jpg"
+  ]
+}

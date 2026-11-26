@@ -1,0 +1,370 @@
+{
+  "schemaVersion": 1,
+  "id": "book1-story-05-the-jackal-and-the-sun-child",
+  "collectionId": "4000-essential-english-words-book-1",
+  "sourceOrder": 5,
+  "family": "4000-essential-english-words-book-1",
+  "category": "Legenda hewan",
+  "level": "BEGINNER",
+  "order": 5,
+  "kind": "STORY",
+  "image": "assets/05-the-jackal-and-the-sun-child.jpg",
+  "title": {
+    "id": "The Jackal and the Sun Child",
+    "fil": "The Jackal and the Sun Child"
+  },
+  "originalTitle": "The Jackal and the Sun Child",
+  "summary": {
+    "id": "Seekor jakal membawa anak matahari demi sebuah kalung, tetapi panasnya meninggalkan tanda hitam permanen di punggungnya.",
+    "fil": "Pinasan ng isang tsakal ang batang mula sa araw kapalit ng kuwintas, ngunit nag-iwan ang init ng permanenteng itim na bakas sa kaniyang likod."
+  },
+  "objectives": [
+    {
+      "id": "Menelusuri sebab dan akibat dalam “The Jackal and the Sun Child”.",
+      "fil": "Sundan ang sanhi at bunga sa “The Jackal and the Sun Child”."
+    },
+    {
+      "id": "Menjelaskan tema imbalan dan konsekuensi melalui keputusan para tokoh.",
+      "fil": "Ipaliwanag ang temang gantimpala at bunga sa pamamagitan ng mga pasiya ng mga tauhan."
+    }
+  ],
+  "sentences": [
+    {
+      "id": "Di gurun, seekor jakal bertemu anak bercahaya yang berasal dari matahari.",
+      "fil": "Sa disyerto, nakatagpo ang isang tsakal ng makinang na batang mula sa araw."
+    },
+    {
+      "id": "Anak itu meminta digendong pulang dan menawarkan kalung sebagai imbalan.",
+      "fil": "Hiniling ng bata na pasan siya pauwi at nag-alok ng kuwintas bilang kapalit."
+    },
+    {
+      "id": "Jakal menyetujui tawaran itu, tetapi panas dari tubuh anak tersebut segera membakar punggungnya.",
+      "fil": "Pumayag ang tsakal, ngunit agad na nasusunog sa init ng bata ang kaniyang likod."
+    },
+    {
+      "id": "Ia meminta anak itu turun, tetapi anak matahari tetap berpegangan.",
+      "fil": "Nakiusap siyang bumaba ang bata, ngunit patuloy itong kumapit."
+    },
+    {
+      "id": "Jakal berlari secepat mungkin lalu melompat ke padang bunga ketika anak itu sedang melihat langit.",
+      "fil": "Tumakbo nang napakabilis ang tsakal at saka tumalon sa parang ng mga bulaklak habang nakatingin sa langit ang bata."
+    },
+    {
+      "id": "Anak itu terguling dari punggungnya, sehingga jakal dapat melarikan diri.",
+      "fil": "Gumulong ang bata mula sa kaniyang likod kaya nakatakas ang tsakal."
+    },
+    {
+      "id": "Namun, panas itu meninggalkan jejak hitam, dan sejak saat itu punggung jakal berwarna gelap.",
+      "fil": "Ngunit nag-iwan ng itim na bakas ang init, at mula noon ay maitim na ang likod ng tsakal."
+    }
+  ],
+  "sentenceCount": 7,
+  "speakers": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  "notes": [
+    {
+      "title": {
+        "id": "Ungkapan berguna",
+        "fil": "Mga kapaki-pakinabang na pahayag"
+      },
+      "text": {
+        "id": "“bilang kapalit” — sebagai imbalan; “mula noon” — sejak saat itu",
+        "fil": "“bilang kapalit” — ang katumbas sa Indonesian ay “sebagai imbalan”; “mula noon” — ang katumbas sa Indonesian ay “sejak saat itu”"
+      }
+    },
+    {
+      "title": {
+        "id": "Catatan tata bahasa",
+        "fil": "Tala sa gramatika"
+      },
+      "text": {
+        "id": "Habang menunjukkan dua tindakan yang berlangsung bersamaan. Mula noon menandai perubahan yang terus berlaku sesudah suatu peristiwa.",
+        "fil": "Ipinakikita ng habang ang dalawang kilos na sabay na nangyayari. Tinutukoy ng mula noon ang pagbabagong nagpatuloy matapos ang isang pangyayari."
+      }
+    }
+  ],
+  "focus": {
+    "id": [
+      "gurun",
+      "jakal",
+      "menggendong",
+      "kalung",
+      "terbakar",
+      "padang",
+      "terguling",
+      "jejak"
+    ],
+    "fil": [
+      "disyerto",
+      "tsakal",
+      "pasan",
+      "kuwintas",
+      "nasusunog",
+      "parang",
+      "gumulong",
+      "bakas"
+    ]
+  },
+  "questions": [
+    {
+      "id": "book1-story-05-the-jackal-and-the-sun-child-q1",
+      "type": "MULTIPLE_CHOICE",
+      "prompt": {
+        "id": "Apa yang ditawarkan anak matahari kepada jakal?",
+        "fil": "Ano ang inalok ng batang mula sa araw sa tsakal?"
+      },
+      "choices": {
+        "id": [
+          "Kalung",
+          "Makanan",
+          "Rumah"
+        ],
+        "fil": [
+          "Kuwintas",
+          "Pagkain",
+          "Bahay"
+        ]
+      },
+      "speech": {
+        "fil": "Ano ang inalok ng batang mula sa araw sa tsakal?"
+      }
+    },
+    {
+      "id": "book1-story-05-the-jackal-and-the-sun-child-q2",
+      "type": "MULTIPLE_CHOICE",
+      "prompt": {
+        "id": "Mengapa jakal berusaha menurunkan anak itu?",
+        "fil": "Bakit pinababa ng tsakal ang bata?"
+      },
+      "choices": {
+        "id": [
+          "Anak itu terlalu berisik",
+          "Panasnya menyakiti punggung jakal",
+          "Jakal tersesat"
+        ],
+        "fil": [
+          "Masyadong maingay ang bata",
+          "Masakit sa likod ng tsakal ang init",
+          "Naliligaw ang tsakal"
+        ]
+      },
+      "speech": {
+        "fil": "Bakit pinababa ng tsakal ang bata?"
+      }
+    },
+    {
+      "id": "book1-story-05-the-jackal-and-the-sun-child-q3",
+      "type": "MULTIPLE_CHOICE",
+      "prompt": {
+        "id": "Apa yang menjelaskan punggung hitam jakal dalam legenda ini?",
+        "fil": "Ano ang paliwanag ng alamat sa maitim na likod ng tsakal?"
+      },
+      "choices": {
+        "id": [
+          "Lumpur gurun",
+          "Bunga berwarna hitam",
+          "Bekas panas anak matahari"
+        ],
+        "fil": [
+          "Putik sa disyerto",
+          "Maiitim na bulaklak",
+          "Bakas ng init ng batang mula sa araw"
+        ]
+      },
+      "speech": {
+        "fil": "Ano ang paliwanag ng alamat sa maitim na likod ng tsakal?"
+      }
+    }
+  ],
+  "answers": [
+    {
+      "questionId": "book1-story-05-the-jackal-and-the-sun-child-q1",
+      "answer": {
+        "id": "Kalung",
+        "fil": "Kuwintas"
+      },
+      "explanation": {
+        "id": "Kalung menjadi imbalan agar jakal mau membawanya pulang.",
+        "fil": "Ang kuwintas ang kapalit upang pasanin siya ng tsakal pauwi."
+      }
+    },
+    {
+      "questionId": "book1-story-05-the-jackal-and-the-sun-child-q2",
+      "answer": {
+        "id": "Panasnya menyakiti punggung jakal",
+        "fil": "Masakit sa likod ng tsakal ang init"
+      },
+      "explanation": {
+        "id": "Tubuh anak matahari sangat panas dan membakar punggung jakal.",
+        "fil": "Napakainit ng katawan ng bata at nasusunog ang likod ng tsakal."
+      }
+    },
+    {
+      "questionId": "book1-story-05-the-jackal-and-the-sun-child-q3",
+      "answer": {
+        "id": "Bekas panas anak matahari",
+        "fil": "Bakas ng init ng batang mula sa araw"
+      },
+      "explanation": {
+        "id": "Panas anak matahari meninggalkan tanda yang tidak hilang.",
+        "fil": "Nag-iwan ng bakas na hindi nawala ang init ng batang mula sa araw."
+      }
+    }
+  ],
+  "vocabulary": [
+    {
+      "language": "fil",
+      "word": "disyerto",
+      "translations": {
+        "id": "gurun",
+        "fil": "disyerto"
+      },
+      "meanings": {
+        "id": "gurun",
+        "fil": "Ang katumbas nito sa Indonesian ay “gurun”."
+      },
+      "pos": "pangngalan",
+      "pronunciation": "disyerto",
+      "notes": {
+        "id": "Kata ini muncul pada paragraf 1 dalam konteks cerita.",
+        "fil": "Makikita ang salitang ito sa talata 1 ng muling pagsasalaysay."
+      }
+    },
+    {
+      "language": "fil",
+      "word": "tsakal",
+      "translations": {
+        "id": "jakal",
+        "fil": "tsakal"
+      },
+      "meanings": {
+        "id": "jakal",
+        "fil": "Ang katumbas nito sa Indonesian ay “jakal”."
+      },
+      "pos": "pangngalan",
+      "pronunciation": "tsakal",
+      "notes": {
+        "id": "Kata ini muncul pada paragraf 1 dalam konteks cerita.",
+        "fil": "Makikita ang salitang ito sa talata 1 ng muling pagsasalaysay."
+      }
+    },
+    {
+      "language": "fil",
+      "word": "pasan",
+      "translations": {
+        "id": "menggendong",
+        "fil": "pasan"
+      },
+      "meanings": {
+        "id": "menggendong",
+        "fil": "Ang katumbas nito sa Indonesian ay “menggendong”."
+      },
+      "pos": "pandiwa",
+      "pronunciation": "pasan",
+      "notes": {
+        "id": "Kata ini muncul pada paragraf 2 dalam konteks cerita.",
+        "fil": "Makikita ang salitang ito sa talata 2 ng muling pagsasalaysay."
+      }
+    },
+    {
+      "language": "fil",
+      "word": "kuwintas",
+      "translations": {
+        "id": "kalung",
+        "fil": "kuwintas"
+      },
+      "meanings": {
+        "id": "kalung",
+        "fil": "Ang katumbas nito sa Indonesian ay “kalung”."
+      },
+      "pos": "pangngalan",
+      "pronunciation": "kuwintas",
+      "notes": {
+        "id": "Kata ini muncul pada paragraf 2 dalam konteks cerita.",
+        "fil": "Makikita ang salitang ito sa talata 2 ng muling pagsasalaysay."
+      }
+    },
+    {
+      "language": "fil",
+      "word": "nasusunog",
+      "translations": {
+        "id": "terbakar",
+        "fil": "nasusunog"
+      },
+      "meanings": {
+        "id": "terbakar",
+        "fil": "Ang katumbas nito sa Indonesian ay “terbakar”."
+      },
+      "pos": "pandiwa",
+      "pronunciation": "nasusunog",
+      "notes": {
+        "id": "Kata ini muncul pada paragraf 3 dalam konteks cerita.",
+        "fil": "Makikita ang salitang ito sa talata 3 ng muling pagsasalaysay."
+      }
+    },
+    {
+      "language": "fil",
+      "word": "parang",
+      "translations": {
+        "id": "padang",
+        "fil": "parang"
+      },
+      "meanings": {
+        "id": "padang",
+        "fil": "Ang katumbas nito sa Indonesian ay “padang”."
+      },
+      "pos": "pangngalan",
+      "pronunciation": "parang",
+      "notes": {
+        "id": "Kata ini muncul pada paragraf 5 dalam konteks cerita.",
+        "fil": "Makikita ang salitang ito sa talata 5 ng muling pagsasalaysay."
+      }
+    },
+    {
+      "language": "fil",
+      "word": "gumulong",
+      "translations": {
+        "id": "terguling",
+        "fil": "gumulong"
+      },
+      "meanings": {
+        "id": "terguling",
+        "fil": "Ang katumbas nito sa Indonesian ay “terguling”."
+      },
+      "pos": "pandiwa",
+      "pronunciation": "gumulong",
+      "notes": {
+        "id": "Kata ini muncul pada paragraf 6 dalam konteks cerita.",
+        "fil": "Makikita ang salitang ito sa talata 6 ng muling pagsasalaysay."
+      }
+    },
+    {
+      "language": "fil",
+      "word": "bakas",
+      "translations": {
+        "id": "jejak",
+        "fil": "bakas"
+      },
+      "meanings": {
+        "id": "jejak",
+        "fil": "Ang katumbas nito sa Indonesian ay “jejak”."
+      },
+      "pos": "pangngalan",
+      "pronunciation": "bakas",
+      "notes": {
+        "id": "Kata ini muncul pada paragraf 7 dalam konteks cerita.",
+        "fil": "Makikita ang salitang ito sa talata 7 ng muling pagsasalaysay."
+      }
+    }
+  ],
+  "assets": [
+    "assets/05-the-jackal-and-the-sun-child.jpg"
+  ]
+}

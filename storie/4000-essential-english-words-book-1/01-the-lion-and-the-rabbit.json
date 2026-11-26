@@ -1,0 +1,370 @@
+{
+  "schemaVersion": 1,
+  "id": "book1-story-01-the-lion-and-the-rabbit",
+  "collectionId": "4000-essential-english-words-book-1",
+  "sourceOrder": 1,
+  "family": "4000-essential-english-words-book-1",
+  "category": "Fabel dan kecerdikan",
+  "level": "BEGINNER",
+  "order": 1,
+  "kind": "STORY",
+  "image": "assets/01-the-lion-and-the-rabbit.jpg",
+  "title": {
+    "id": "The Lion and the Rabbit",
+    "fil": "The Lion and the Rabbit"
+  },
+  "originalTitle": "The Lion and the Rabbit",
+  "summary": {
+    "id": "Seekor kelinci memakai kecerdikannya untuk membebaskan hewan-hewan hutan dari singa yang kejam.",
+    "fil": "Ginamit ng isang kuneho ang kaniyang talino upang mailigtas ang mga hayop sa malupit na leon."
+  },
+  "objectives": [
+    {
+      "id": "Menelusuri sebab dan akibat dalam “The Lion and the Rabbit”.",
+      "fil": "Sundan ang sanhi at bunga sa “The Lion and the Rabbit”."
+    },
+    {
+      "id": "Menjelaskan tema kecerdikan melawan kekuatan melalui keputusan para tokoh.",
+      "fil": "Ipaliwanag ang temang talino laban sa dahas sa pamamagitan ng mga pasiya ng mga tauhan."
+    }
+  ],
+  "sentences": [
+    {
+      "id": "Di sebuah hutan, seekor singa kejam membunuh banyak hewan setiap hari.",
+      "fil": "Sa isang gubat, araw-araw na pumapatay ng maraming hayop ang malupit na leon."
+    },
+    {
+      "id": "Untuk menyelamatkan yang lain, para hewan sepakat mengirim satu hewan kepadanya setiap hari.",
+      "fil": "Upang mailigtas ang iba, nakipagkasundo ang mga hayop na magpadala sa kaniya ng isang hayop bawat araw."
+    },
+    {
+      "id": "Ketika tiba giliran kelinci, ia sengaja datang terlambat dan berkata bahwa singa lain yang mengaku sebagai raja telah menghadangnya.",
+      "fil": "Nang ang kuneho na ang nakatakdang pumunta, sinadya nitong dumating nang huli at sinabi na hinarang siya ng isa pang leon na nag-aangking hari."
+    },
+    {
+      "id": "Singa yang marah meminta ditunjukkan saingannya, lalu kelinci membawanya ke sebuah sumur yang dalam.",
+      "fil": "Galit na ipinahanap ng leon ang kaniyang karibal, kaya dinala siya ng kuneho sa isang malalim na balon."
+    },
+    {
+      "id": "Singa melihat pantulannya sendiri di air dan mengira itulah musuhnya.",
+      "fil": "Nakita ng leon ang sarili niyang repleksiyon sa tubig at inakalang iyon ang kalaban."
+    },
+    {
+      "id": "Ia langsung melompat untuk menyerang, tetapi tidak pernah berhasil keluar dari sumur.",
+      "fil": "Agad siyang tumalon upang umatake, ngunit hindi na siya nakaahon sa balon."
+    },
+    {
+      "id": "Berkat tipu daya cerdas kelinci, para hewan terbebas dari ketakutan.",
+      "fil": "Dahil sa matalinong panlilinlang ng kuneho, nakalaya sa takot ang mga hayop."
+    }
+  ],
+  "sentenceCount": 7,
+  "speakers": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  "notes": [
+    {
+      "title": {
+        "id": "Ungkapan berguna",
+        "fil": "Mga kapaki-pakinabang na pahayag"
+      },
+      "text": {
+        "id": "“Upang mailigtas ang iba” — untuk menyelamatkan yang lain; “inakalang iyon ang kalaban” — mengira itulah musuhnya",
+        "fil": "“Upang mailigtas ang iba” — ang katumbas sa Indonesian ay “untuk menyelamatkan yang lain”; “inakalang iyon ang kalaban” — ang katumbas sa Indonesian ay “mengira itulah musuhnya”"
+      }
+    },
+    {
+      "title": {
+        "id": "Catatan tata bahasa",
+        "fil": "Tala sa gramatika"
+      },
+      "text": {
+        "id": "Upang + verba menyatakan tujuan. Nang dapat dipakai untuk menandai waktu terjadinya suatu tindakan.",
+        "fil": "Ginagamit ang upang + pandiwa upang ipahayag ang layunin. Ginagamit ang nang upang tukuyin ang oras ng isang pangyayari."
+      }
+    }
+  ],
+  "focus": {
+    "id": [
+      "hutan",
+      "kejam",
+      "membuat kesepakatan",
+      "menghadang",
+      "sumur",
+      "pantulan",
+      "berhasil keluar",
+      "tipu daya"
+    ],
+    "fil": [
+      "gubat",
+      "malupit",
+      "nakipagkasundo",
+      "hinarang",
+      "balon",
+      "repleksiyon",
+      "nakaahon",
+      "panlilinlang"
+    ]
+  },
+  "questions": [
+    {
+      "id": "book1-story-01-the-lion-and-the-rabbit-q1",
+      "type": "MULTIPLE_CHOICE",
+      "prompt": {
+        "id": "Mengapa para hewan membuat kesepakatan dengan singa?",
+        "fil": "Bakit nakipagkasundo ang mga hayop sa leon?"
+      },
+      "choices": {
+        "id": [
+          "Agar tidak semuanya dibunuh",
+          "Agar singa pindah hutan",
+          "Agar kelinci menjadi raja"
+        ],
+        "fil": [
+          "Upang hindi sila mapatay na lahat",
+          "Upang lumipat ng gubat ang leon",
+          "Upang maging hari ang kuneho"
+        ]
+      },
+      "speech": {
+        "fil": "Bakit nakipagkasundo ang mga hayop sa leon?"
+      }
+    },
+    {
+      "id": "book1-story-01-the-lion-and-the-rabbit-q2",
+      "type": "MULTIPLE_CHOICE",
+      "prompt": {
+        "id": "Ke mana kelinci membawa singa?",
+        "fil": "Saan dinala ng kuneho ang leon?"
+      },
+      "choices": {
+        "id": [
+          "Ke sungai",
+          "Ke sumur yang dalam",
+          "Ke gua"
+        ],
+        "fil": [
+          "Sa ilog",
+          "Sa malalim na balon",
+          "Sa kuweba"
+        ]
+      },
+      "speech": {
+        "fil": "Saan dinala ng kuneho ang leon?"
+      }
+    },
+    {
+      "id": "book1-story-01-the-lion-and-the-rabbit-q3",
+      "type": "MULTIPLE_CHOICE",
+      "prompt": {
+        "id": "Mengapa singa melompat ke dalam sumur?",
+        "fil": "Bakit tumalon ang leon sa balon?"
+      },
+      "choices": {
+        "id": [
+          "Ia ingin minum",
+          "Ia mengejar kelinci",
+          "Ia mengira pantulannya adalah singa lain"
+        ],
+        "fil": [
+          "Gusto niyang uminom",
+          "Hinahabol niya ang kuneho",
+          "Akala niya ay ibang leon ang kaniyang repleksiyon"
+        ]
+      },
+      "speech": {
+        "fil": "Bakit tumalon ang leon sa balon?"
+      }
+    }
+  ],
+  "answers": [
+    {
+      "questionId": "book1-story-01-the-lion-and-the-rabbit-q1",
+      "answer": {
+        "id": "Agar tidak semuanya dibunuh",
+        "fil": "Upang hindi sila mapatay na lahat"
+      },
+      "explanation": {
+        "id": "Kesepakatan itu dimaksudkan untuk melindungi hewan-hewan yang lain.",
+        "fil": "Layunin ng kasunduan na maprotektahan ang ibang mga hayop."
+      }
+    },
+    {
+      "questionId": "book1-story-01-the-lion-and-the-rabbit-q2",
+      "answer": {
+        "id": "Ke sumur yang dalam",
+        "fil": "Sa malalim na balon"
+      },
+      "explanation": {
+        "id": "Kelinci memakai sumur untuk memperlihatkan pantulan singa.",
+        "fil": "Ginamit ng kuneho ang balon upang makita ng leon ang sariling repleksiyon."
+      }
+    },
+    {
+      "questionId": "book1-story-01-the-lion-and-the-rabbit-q3",
+      "answer": {
+        "id": "Ia mengira pantulannya adalah singa lain",
+        "fil": "Akala niya ay ibang leon ang kaniyang repleksiyon"
+      },
+      "explanation": {
+        "id": "Singa tidak menyadari bahwa wajah di air adalah pantulannya sendiri.",
+        "fil": "Hindi naunawaan ng leon na sarili niyang mukha ang nasa tubig."
+      }
+    }
+  ],
+  "vocabulary": [
+    {
+      "language": "fil",
+      "word": "gubat",
+      "translations": {
+        "id": "hutan",
+        "fil": "gubat"
+      },
+      "meanings": {
+        "id": "hutan",
+        "fil": "Ang katumbas nito sa Indonesian ay “hutan”."
+      },
+      "pos": "pangngalan",
+      "pronunciation": "gubat",
+      "notes": {
+        "id": "Kata ini muncul pada paragraf 1 dalam konteks cerita.",
+        "fil": "Makikita ang salitang ito sa talata 1 ng muling pagsasalaysay."
+      }
+    },
+    {
+      "language": "fil",
+      "word": "malupit",
+      "translations": {
+        "id": "kejam",
+        "fil": "malupit"
+      },
+      "meanings": {
+        "id": "kejam",
+        "fil": "Ang katumbas nito sa Indonesian ay “kejam”."
+      },
+      "pos": "pang-uri",
+      "pronunciation": "malupit",
+      "notes": {
+        "id": "Kata ini muncul pada paragraf 1 dalam konteks cerita.",
+        "fil": "Makikita ang salitang ito sa talata 1 ng muling pagsasalaysay."
+      }
+    },
+    {
+      "language": "fil",
+      "word": "nakipagkasundo",
+      "translations": {
+        "id": "membuat kesepakatan",
+        "fil": "nakipagkasundo"
+      },
+      "meanings": {
+        "id": "membuat kesepakatan",
+        "fil": "Ang katumbas nito sa Indonesian ay “membuat kesepakatan”."
+      },
+      "pos": "pandiwa",
+      "pronunciation": "nakipagkasundo",
+      "notes": {
+        "id": "Kata ini muncul pada paragraf 2 dalam konteks cerita.",
+        "fil": "Makikita ang salitang ito sa talata 2 ng muling pagsasalaysay."
+      }
+    },
+    {
+      "language": "fil",
+      "word": "hinarang",
+      "translations": {
+        "id": "menghadang",
+        "fil": "hinarang"
+      },
+      "meanings": {
+        "id": "menghadang",
+        "fil": "Ang katumbas nito sa Indonesian ay “menghadang”."
+      },
+      "pos": "pandiwa",
+      "pronunciation": "hinarang",
+      "notes": {
+        "id": "Kata ini muncul pada paragraf 3 dalam konteks cerita.",
+        "fil": "Makikita ang salitang ito sa talata 3 ng muling pagsasalaysay."
+      }
+    },
+    {
+      "language": "fil",
+      "word": "balon",
+      "translations": {
+        "id": "sumur",
+        "fil": "balon"
+      },
+      "meanings": {
+        "id": "sumur",
+        "fil": "Ang katumbas nito sa Indonesian ay “sumur”."
+      },
+      "pos": "pangngalan",
+      "pronunciation": "balon",
+      "notes": {
+        "id": "Kata ini muncul pada paragraf 4 dalam konteks cerita.",
+        "fil": "Makikita ang salitang ito sa talata 4 ng muling pagsasalaysay."
+      }
+    },
+    {
+      "language": "fil",
+      "word": "repleksiyon",
+      "translations": {
+        "id": "pantulan",
+        "fil": "repleksiyon"
+      },
+      "meanings": {
+        "id": "pantulan",
+        "fil": "Ang katumbas nito sa Indonesian ay “pantulan”."
+      },
+      "pos": "pangngalan",
+      "pronunciation": "repleksiyon",
+      "notes": {
+        "id": "Kata ini muncul pada paragraf 5 dalam konteks cerita.",
+        "fil": "Makikita ang salitang ito sa talata 5 ng muling pagsasalaysay."
+      }
+    },
+    {
+      "language": "fil",
+      "word": "nakaahon",
+      "translations": {
+        "id": "berhasil keluar",
+        "fil": "nakaahon"
+      },
+      "meanings": {
+        "id": "berhasil keluar",
+        "fil": "Ang katumbas nito sa Indonesian ay “berhasil keluar”."
+      },
+      "pos": "pandiwa",
+      "pronunciation": "nakaahon",
+      "notes": {
+        "id": "Kata ini muncul pada paragraf 6 dalam konteks cerita.",
+        "fil": "Makikita ang salitang ito sa talata 6 ng muling pagsasalaysay."
+      }
+    },
+    {
+      "language": "fil",
+      "word": "panlilinlang",
+      "translations": {
+        "id": "tipu daya",
+        "fil": "panlilinlang"
+      },
+      "meanings": {
+        "id": "tipu daya",
+        "fil": "Ang katumbas nito sa Indonesian ay “tipu daya”."
+      },
+      "pos": "pangngalan",
+      "pronunciation": "panlilinlang",
+      "notes": {
+        "id": "Kata ini muncul pada paragraf 7 dalam konteks cerita.",
+        "fil": "Makikita ang salitang ito sa talata 7 ng muling pagsasalaysay."
+      }
+    }
+  ],
+  "assets": [
+    "assets/01-the-lion-and-the-rabbit.jpg"
+  ]
+}
