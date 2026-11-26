@@ -16,7 +16,7 @@ each book also has its own index and source audit beneath
 `storie/4000-essential-english-words-book-{1,2}/`. Stories retain their source
 book in `collectionId`, while broad thematic categories are shared across both
 books. Each story is a concise Tagalog retelling with an equivalent Indonesian
-version, story-specific vocabulary, expressions, grammar, comprehension
+version, global vocabulary references, expressions, grammar, comprehension
 questions, and a separate answer key. Every matching EPUB illustration is
 published with its story. Every JSON and image reference is checked by
 `tools/validate_content.py`; indexes contain SHA-256 hashes used by Android
@@ -53,6 +53,45 @@ Generated content must be committed and published only from the `data` branch.
 Both story builders merge their book into the aggregate index, reject duplicate
 IDs and paths, and refuse to drop an existing story file when the other book is
 updated.
+
+## Global vocabulary
+
+`manifest.json` registers `vocabulary/index.json` by SHA-256. The index includes
+an ID/word/Indonesian-meaning search directory and a file registry, so clients
+can search and locate words without fetching every shard. Each
+`vocabulary-NNN.json` contains up to 100 canonical entries. Entry IDs and shard
+assignments are permanent; new words fill the last shard, then append files.
+Never delete earlier files or replace the index with only the newest shard.
+
+Entries use `language: "fil"`, Indonesian `meanings`, `partOfSpeech` plus all
+`partsOfSpeech`, `pronunciation` plus all `pronunciations`, bilingual `examples`
+with `storyId`, and `storyRefs`. `sources` retains the complete original records,
+including localized meanings and contextual notes, for a lossless audit.
+Normalization only folds case, Unicode NFC, whitespace and curly apostrophes;
+accents, hyphens, inflections and separate words remain distinct.
+
+Stories contain `vocabularyIds` instead of embedded definitions. The index also
+registers references for bundled Android units. The Android corpus lexicon is
+retained solely as a compatible first-install offline fallback; published global
+entries take precedence, and all new vocabulary is maintained here.
+
+To import embedded vocabulary from newly generated stories (book builders call
+this automatically), optionally including a legacy Android corpus:
+
+```sh
+python3 tools/global_vocabulary.py . --corpus ../app/src/main/assets/corpus.json
+python3 tools/global_vocabulary.py . --validate-only
+python3 tools/validate_content.py .
+python3 -m unittest discover -s tools -p 'test_*.py'
+```
+
+To add a word, add it to an existing canonical entry if the normalized word is
+already present, preserving its ID. Otherwise append it to the last non-full
+shard or a new sequential shard, with a new unused ID. Run the publisher above
+to rebuild the directory, hashes, story references and manifest. It refuses
+duplicate IDs/words and invalid existing hashes; when editing a shard directly,
+update that shard's hash in the index before publishing. Validate before pushing
+only to `origin/data`. Publish the complete commit so manifest and shards agree.
 
 ## Regenerate Stories
 

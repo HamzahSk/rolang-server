@@ -425,6 +425,9 @@ def publish_collection(
         "sha256": sha256_file(root_index_path),
     }
     write_json(manifest_path, manifest)
+    if (root / "vocabulary/index.json").exists():
+        from global_vocabulary import migrate
+        migrate(root)
 
 
 def category_for(story_id: str, fallback: str) -> str:

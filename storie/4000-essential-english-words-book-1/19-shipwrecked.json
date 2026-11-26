@@ -218,153 +218,47 @@
       }
     }
   ],
-  "vocabulary": [
-    {
-      "language": "fil",
-      "word": "abogado",
-      "translations": {
-        "id": "pengacara",
-        "fil": "abogado"
-      },
-      "meanings": {
-        "id": "pengacara",
-        "fil": "Ang katumbas nito sa Indonesian ay “pengacara”."
-      },
-      "pos": "pangngalan",
-      "pronunciation": "abogado",
-      "notes": {
-        "id": "Kata ini muncul pada paragraf 1 dalam konteks cerita.",
-        "fil": "Makikita ang salitang ito sa talata 1 ng muling pagsasalaysay."
-      }
-    },
-    {
-      "language": "fil",
-      "word": "makasarili",
-      "translations": {
-        "id": "egois",
-        "fil": "makasarili"
-      },
-      "meanings": {
-        "id": "egois",
-        "fil": "Ang katumbas nito sa Indonesian ay “egois”."
-      },
-      "pos": "pang-uri",
-      "pronunciation": "makasarili",
-      "notes": {
-        "id": "Kata ini muncul pada paragraf 1 dalam konteks cerita.",
-        "fil": "Makikita ang salitang ito sa talata 1 ng muling pagsasalaysay."
-      }
-    },
-    {
-      "language": "fil",
-      "word": "naglayag",
-      "translations": {
-        "id": "berlayar",
-        "fil": "naglayag"
-      },
-      "meanings": {
-        "id": "berlayar",
-        "fil": "Ang katumbas nito sa Indonesian ay “berlayar”."
-      },
-      "pos": "pandiwa",
-      "pronunciation": "naglayag",
-      "notes": {
-        "id": "Kata ini muncul pada paragraf 2 dalam konteks cerita.",
-        "fil": "Makikita ang salitang ito sa talata 2 ng muling pagsasalaysay."
-      }
-    },
-    {
-      "language": "fil",
-      "word": "tinangay",
-      "translations": {
-        "id": "tersapu",
-        "fil": "tinangay"
-      },
-      "meanings": {
-        "id": "tersapu",
-        "fil": "Ang katumbas nito sa Indonesian ay “tersapu”."
-      },
-      "pos": "pandiwa",
-      "pronunciation": "tinangay",
-      "notes": {
-        "id": "Kata ini muncul pada paragraf 3 dalam konteks cerita.",
-        "fil": "Makikita ang salitang ito sa talata 3 ng muling pagsasalaysay."
-      }
-    },
-    {
-      "language": "fil",
-      "word": "pulo",
-      "translations": {
-        "id": "pulau",
-        "fil": "pulo"
-      },
-      "meanings": {
-        "id": "pulau",
-        "fil": "Ang katumbas nito sa Indonesian ay “pulau”."
-      },
-      "pos": "pangngalan",
-      "pronunciation": "pulo",
-      "notes": {
-        "id": "Kata ini muncul pada paragraf 4 dalam konteks cerita.",
-        "fil": "Makikita ang salitang ito sa talata 4 ng muling pagsasalaysay."
-      }
-    },
-    {
-      "language": "fil",
-      "word": "sisidlan",
-      "translations": {
-        "id": "wadah",
-        "fil": "sisidlan"
-      },
-      "meanings": {
-        "id": "wadah",
-        "fil": "Ang katumbas nito sa Indonesian ay “wadah”."
-      },
-      "pos": "pangngalan",
-      "pronunciation": "sisidlan",
-      "notes": {
-        "id": "Kata ini muncul pada paragraf 4 dalam konteks cerita.",
-        "fil": "Makikita ang salitang ito sa talata 4 ng muling pagsasalaysay."
-      }
-    },
-    {
-      "language": "fil",
-      "word": "payak",
-      "translations": {
-        "id": "sederhana",
-        "fil": "payak"
-      },
-      "meanings": {
-        "id": "sederhana",
-        "fil": "Ang katumbas nito sa Indonesian ay “sederhana”."
-      },
-      "pos": "pang-uri",
-      "pronunciation": "payak",
-      "notes": {
-        "id": "Kata ini muncul pada paragraf 5 dalam konteks cerita.",
-        "fil": "Makikita ang salitang ito sa talata 5 ng muling pagsasalaysay."
-      }
-    },
-    {
-      "language": "fil",
-      "word": "tumanggi",
-      "translations": {
-        "id": "menolak",
-        "fil": "tumanggi"
-      },
-      "meanings": {
-        "id": "menolak",
-        "fil": "Ang katumbas nito sa Indonesian ay “menolak”."
-      },
-      "pos": "pandiwa",
-      "pronunciation": "tumanggi",
-      "notes": {
-        "id": "Kata ini muncul pada paragraf 7 dalam konteks cerita.",
-        "fil": "Makikita ang salitang ito sa talata 7 ng muling pagsasalaysay."
-      }
-    }
-  ],
   "assets": [
     "assets/19-shipwrecked.jpg"
+  ],
+  "vocabularyIds": [
+    "abogado",
+    "makasarili",
+    "naglayag",
+    "tinangay",
+    "pulo",
+    "sisidlan",
+    "payak",
+    "tumanggi",
+    "alon",
+    "nanghuli",
+    "barko",
+    "unti-unti",
+    "kagamitan",
+    "ang",
+    "at",
+    "bahay",
+    "dahil",
+    "dumating",
+    "gumawa",
+    "hanggang",
+    "isang",
+    "isda",
+    "kaya",
+    "malapit",
+    "mga",
+    "mula",
+    "muli",
+    "na",
+    "nakita",
+    "ng",
+    "niya",
+    "niyang",
+    "puno",
+    "rin",
+    "roon",
+    "sa",
+    "si",
+    "siya"
   ]
 }

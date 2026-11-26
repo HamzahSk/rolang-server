@@ -175,6 +175,8 @@ def validate_sections(document: dict[str, Any], course_dir: Path, known_assets: 
 
 def validate(root: Path) -> tuple[int, int, int, int]:
     root = root.resolve()
+    from global_vocabulary import validate as validate_vocabulary
+    global_entries = validate_vocabulary(root)
     manifest = load(root / "manifest.json")
     if manifest.get("schemaVersion") != 1:
         fail("Unsupported manifest schema")
@@ -467,7 +469,7 @@ def validate(root: Path) -> tuple[int, int, int, int]:
             for index, note in enumerate(notes):
                 localized_text(note.get("title"), f"{where}.notes[{index}].title")
                 localized_text(note.get("text"), f"{where}.notes[{index}].text")
-            vocabulary = story.get("vocabulary")
+            vocabulary = [global_entries[identifier] for identifier in story.get("vocabularyIds", [])]
             if not isinstance(vocabulary, list) or len(vocabulary) < 6:
                 fail(f"Story needs a substantial vocabulary list: {where}")
             vocabulary_keys = []
@@ -476,9 +478,7 @@ def validate(root: Path) -> tuple[int, int, int, int]:
                 if entry.get("language") != "fil" or not isinstance(entry.get("word"), str) or not entry["word"].strip():
                     fail(f"Invalid story vocabulary entry: {entry_where}")
                 vocabulary_keys.append(entry["word"].casefold())
-                for field in ("translations", "meanings", "notes"):
-                    localized_text(entry.get(field), f"{entry_where}.{field}")
-                if not isinstance(entry.get("pos"), str) or not entry["pos"].strip():
+                if not isinstance(entry.get("partOfSpeech"), str) or not entry["partOfSpeech"].strip():
                     fail(f"Vocabulary part of speech is missing: {entry_where}")
             if len(vocabulary_keys) != len(set(vocabulary_keys)):
                 fail(f"Duplicate vocabulary entries: {where}")
