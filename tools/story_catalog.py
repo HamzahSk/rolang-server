@@ -154,11 +154,22 @@ def publish_collection(
         for path in sorted(collection_dir.glob("*.json"))
         if path.name not in {"index.json", "source-audit.json"}
     ]
+    _validate_references(on_disk)
     generated_ids = {item["id"] for item in references}
     disk_ids = {item["id"] for item in on_disk}
     if not disk_ids.issubset(generated_ids):
         missing = sorted(disk_ids - generated_ids)
         raise ValueError(f"Refusing to drop existing story files: {missing}")
+    generated_paths = {item["id"]: item["path"] for item in references}
+    conflicting_names = [
+        item["id"]
+        for item in on_disk
+        if generated_paths.get(item["id"]) != item["path"]
+    ]
+    if conflicting_names:
+        raise ValueError(
+            f"Existing story IDs have conflicting filenames: {sorted(conflicting_names)}"
+        )
 
     root_index_path = story_root / "index.json"
     existing: dict[str, Any] = {}

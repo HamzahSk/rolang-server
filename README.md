@@ -57,9 +57,8 @@ updated.
 ## Regenerate Stories
 
 The Book 1 and Book 2 builders inspect their complete EPUB spines, classify the
-30 numbered
-unit documents as narratives, excludes the cover, copyright page, and two
-reference documents, verifies every preserved title, and extracts the
+30 numbered unit documents as narratives, exclude cover and reference pages,
+verify every preserved title, and extract the
 illustration linked from each narrative. It stores source hashes, characters,
 settings, themes, and plot events in each book's `source-audit.json`, but does not
 publish or translate the complete copyrighted English story text.

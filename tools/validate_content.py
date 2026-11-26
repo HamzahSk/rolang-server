@@ -349,6 +349,7 @@ def validate(root: Path) -> tuple[int, int, int, int]:
         fail("Story ids must be unique across books")
     if len(aggregate_paths) != len(set(aggregate_paths)):
         fail("Story filenames must be unique across books")
+    aggregate_by_id = {item["id"]: item for item in aggregate_references}
 
     root_audit_path = verify_hash(root, story_root, story_index.get("sourceAudit", {}))
     root_audit = load(root_audit_path)
@@ -356,6 +357,7 @@ def validate(root: Path) -> tuple[int, int, int, int]:
         fail("Aggregate story audit totals do not match the published index")
 
     validated_references: list[dict[str, Any]] = []
+    validated_by_id: dict[str, dict[str, Any]] = {}
     total_stories = 0
     for collection_reference in collections:
         collection_index_path = verify_hash(root, story_root, collection_reference)
@@ -522,16 +524,50 @@ def validate(root: Path) -> tuple[int, int, int, int]:
             audit_asset = asset_path.relative_to(story_root).as_posix()
             if not asset_path.is_file() or audit_asset not in known_story_assets or audit_item.get("illustration") != audit_asset:
                 fail(f"Missing or unrelated story illustration: {where}")
+            if reference["id"] in validated_by_id:
+                fail(f"Duplicate story id across collection indexes: {reference['id']}")
+            validated_by_id[reference["id"]] = reference
         total_stories += len(references)
         validated_references.extend(references)
 
-    if {item.get("id") for item in validated_references} != set(aggregate_ids):
+    if set(validated_by_id) != set(aggregate_ids):
         fail("Aggregate story inventory differs from the book indexes")
     if {item.get("path") for item in validated_references} != set(aggregate_paths):
         fail("Aggregate story paths differ from the book indexes")
     if len(validated_references) != len(aggregate_references):
         fail("Aggregate story inventory contains duplicates")
+    if any(validated_by_id[story_id] != aggregate_by_id[story_id] for story_id in aggregate_by_id):
+        fail("Aggregate story references differ from the book indexes")
+
+    indexed_paths = set(aggregate_paths)
+    discovered_paths: set[str] = set()
+    discovered_ids: set[str] = set()
+    for collection_id in collection_ids:
+        collection_dir = story_root / safe_relative(collection_id)
+        for story_path in collection_dir.glob("*.json"):
+            if story_path.name in {"index.json", "source-audit.json"}:
+                continue
+            relative = story_path.relative_to(story_root).as_posix()
+            if relative in discovered_paths:
+                fail(f"Duplicate story filename on disk: {relative}")
+            discovered_paths.add(relative)
+            story = load(story_path)
+            story_id = story.get("id")
+            if not isinstance(story_id, str) or story_id in discovered_ids:
+                fail(f"Duplicate or missing story id on disk: {story_id!r}")
+            discovered_ids.add(story_id)
+    if discovered_paths != indexed_paths:
+        fail("Story files on disk differ from the complete aggregate index")
+    if discovered_ids != set(aggregate_ids):
+        fail("Story file IDs differ from the complete aggregate index")
     category_counts = Counter(item.get("category") for item in aggregate_references)
+    indexed_category_counts = {
+        item.get("name"): item.get("storyCount") for item in story_index.get("categories", [])
+    }
+    if len(indexed_category_counts) != len(story_index.get("categories", [])):
+        fail("Story category names must be unique")
+    if indexed_category_counts != dict(category_counts):
+        fail("Story category inventory differs from the indexed category counts")
     for category in story_index.get("categories", []):
         if category.get("storyCount") != category_counts.get(category.get("name"), 0):
             fail("Story category count does not match the inventory")
