@@ -1,0 +1,325 @@
+{
+  "schemaVersion": 1,
+  "id": "book2-story-20-albert-einstein",
+  "collectionId": "4000-essential-english-words-book-2",
+  "sourceOrder": 20,
+  "family": "4000-essential-english-words-book-2",
+  "category": "Talambuhay at pagpupunyagi",
+  "level": "BEGINNER",
+  "order": 20,
+  "kind": "STORY",
+  "image": "assets/20-albert-einstein.jpg",
+  "title": {
+    "id": "Albert Einstein",
+    "fil": "Albert Einstein"
+  },
+  "originalTitle": "Albert Einstein",
+  "summary": {
+    "id": "Albert Einstein mengalami kemiskinan dan penolakan sebelum penjelasannya tentang bintang dan atom diakui; ia terus meneliti.",
+    "fil": "Naranasan ni Albert Einstein ang kahirapan at pagtanggi bago makilala ang kaniyang mga paliwanag tungkol sa mga bituin at atomo; nagpatuloy siya sa pagsasaliksik."
+  },
+  "objectives": [
+    {
+      "id": "Menelusuri sebab dan akibat dalam “Albert Einstein”.",
+      "fil": "Sundan ang sanhi at bunga sa “Albert Einstein”."
+    },
+    {
+      "id": "Menjelaskan tema pagtitiyaga sa gitna ng hirap melalui keputusan para tokoh.",
+      "fil": "Ipaliwanag ang temang ketekunan menghadapi kesulitan sa pamamagitan ng mga pasiya ng mga tauhan."
+    }
+  ],
+  "sentences": [
+    {
+      "id": "Albert Einstein lahir di Jerman dan sudah tertarik pada matematika serta statistik saat masih sekolah dasar.",
+      "fil": "Isinilang si Albert Einstein sa Germany at interesado na siya sa matematika at estadistika noong nasa elementarya pa."
+    },
+    {
+      "id": "Ketika ayahnya kehilangan pekerjaan, keluarganya hidup dalam kemiskinan dan pindah dari Jerman ke Italia.",
+      "fil": "Nang mawalan ng trabaho ang kaniyang ama, nabuhay sa kahirapan ang pamilya at lumipat sila mula Germany patungong Italy."
+    },
+    {
+      "id": "Ia menyelesaikan sekolah menengah dan kuliah di Swiss sebelum menulis tentang sains.",
+      "fil": "Nagtapos siya ng mataas na paaralan at nag-aral sa kolehiyo sa Switzerland bago magsulat tungkol sa agham."
+    },
+    {
+      "id": "Awalnya, ilmuwan lain tidak menyetujui gagasannya dan mengira ia gagal.",
+      "fil": "Noong una, hindi sinang-ayunan ng ibang siyentipiko ang kaniyang mga ideya at inakala nilang bigo siya."
+    },
+    {
+      "id": "Pengakuan datang bertahap karena ia menjelaskan perkiraan ukuran bintang dan gerakan atom.",
+      "fil": "Unti-unti siyang kinilala dahil naipaliwanag niya ang tinatayang laki ng mga bituin at galaw ng mga atomo."
+    },
+    {
+      "id": "Ia juga membuat mesin untuk mendinginkan makanan dan terus bekerja hingga usia lanjut.",
+      "fil": "Gumawa rin siya ng makinang nagpapalamig ng pagkain at patuloy na nagtrabaho hanggang sa huling bahagi ng buhay."
+    }
+  ],
+  "sentenceCount": 6,
+  "speakers": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  "notes": [
+    {
+      "title": {
+        "id": "Ungkapan berguna",
+        "fil": "Mga kapaki-pakinabang na pahayag"
+      },
+      "text": {
+        "id": "“nabuhay sa kahirapan” — hidup dalam kemiskinan; “unti-unti siyang kinilala” — pengakuan datang bertahap",
+        "fil": "“nabuhay sa kahirapan” — ang katumbas sa Indonesian ay “hidup dalam kemiskinan”; “unti-unti siyang kinilala” — ang katumbas sa Indonesian ay “pengakuan datang bertahap”"
+      }
+    },
+    {
+      "title": {
+        "id": "Catatan tata bahasa",
+        "fil": "Tala sa gramatika"
+      },
+      "text": {
+        "id": "Sebelum + kata kerja menunjukkan urutan. Karena menghubungkan alasan dan akibat.",
+        "fil": "Ang bago + pandiwa ay nagpapakita ng pagkakasunod-sunod. Ang dahil ay nag-uugnay ng dahilan at bunga."
+      }
+    }
+  ],
+  "focus": {
+    "id": [
+      "statistik",
+      "kemiskinan",
+      "ilmuwan",
+      "gagal",
+      "bertahap",
+      "mendinginkan"
+    ],
+    "fil": [
+      "estadistika",
+      "kahirapan",
+      "siyentipiko",
+      "bigo",
+      "unti-unti",
+      "nagpapalamig"
+    ]
+  },
+  "questions": [
+    {
+      "id": "book2-story-20-albert-einstein-q1",
+      "type": "MULTIPLE_CHOICE",
+      "prompt": {
+        "id": "Ke mana keluarga Einstein pindah dari Jerman?",
+        "fil": "Saan lumipat ang pamilya ni Einstein mula Germany?"
+      },
+      "choices": {
+        "id": [
+          "Ke Italia",
+          "Ke Yunani",
+          "Ke Mesir"
+        ],
+        "fil": [
+          "Sa Italy",
+          "Sa Greece",
+          "Sa Egypt"
+        ]
+      },
+      "speech": {
+        "fil": "Saan lumipat ang pamilya ni Einstein mula Germany?"
+      }
+    },
+    {
+      "id": "book2-story-20-albert-einstein-q2",
+      "type": "MULTIPLE_CHOICE",
+      "prompt": {
+        "id": "Mengapa karya Einstein tidak segera diakui?",
+        "fil": "Bakit hindi agad kinilala ang gawa ni Einstein?"
+      },
+      "choices": {
+        "id": [
+          "Ia tidak menulis tentang sains",
+          "Ilmuwan lain tidak menyetujui gagasannya",
+          "Ia tidak bersekolah"
+        ],
+        "fil": [
+          "Hindi siya nagsulat tungkol sa agham",
+          "Hindi sinang-ayunan ng ibang siyentipiko ang kaniyang ideya",
+          "Hindi siya nakapag-aral"
+        ]
+      },
+      "speech": {
+        "fil": "Bakit hindi agad kinilala ang gawa ni Einstein?"
+      }
+    },
+    {
+      "id": "book2-story-20-albert-einstein-q3",
+      "type": "MULTIPLE_CHOICE",
+      "prompt": {
+        "id": "Dua hal apa yang ia jelaskan dalam penelitiannya?",
+        "fil": "Anong dalawang paksa ang ipinaliwanag niya sa kaniyang pananaliksik?"
+      },
+      "choices": {
+        "id": [
+          "Ukuran bintang dan gerakan atom",
+          "Putaran roda dan kain",
+          "Suara burung dan angin"
+        ],
+        "fil": [
+          "Laki ng bituin at galaw ng atomo",
+          "Pag-ikot ng gulong at tela",
+          "Tunog ng ibon at hangin"
+        ]
+      },
+      "speech": {
+        "fil": "Anong dalawang paksa ang ipinaliwanag niya sa kaniyang pananaliksik?"
+      }
+    }
+  ],
+  "answers": [
+    {
+      "questionId": "book2-story-20-albert-einstein-q1",
+      "answer": {
+        "id": "Ke Italia",
+        "fil": "Sa Italy"
+      },
+      "explanation": {
+        "id": "Mereka pindah ke Italia setelah ayahnya kehilangan pekerjaan.",
+        "fil": "Lumipat sila sa Italy matapos mawalan ng trabaho ang ama niya."
+      }
+    },
+    {
+      "questionId": "book2-story-20-albert-einstein-q2",
+      "answer": {
+        "id": "Ilmuwan lain tidak menyetujui gagasannya",
+        "fil": "Hindi sinang-ayunan ng ibang siyentipiko ang kaniyang ideya"
+      },
+      "explanation": {
+        "id": "Ilmuwan lain awalnya menganggapnya gagal dan gagasannya keliru.",
+        "fil": "Una siyang itinuring ng ibang siyentipiko na bigo at mali ang mga ideya."
+      }
+    },
+    {
+      "questionId": "book2-story-20-albert-einstein-q3",
+      "answer": {
+        "id": "Ukuran bintang dan gerakan atom",
+        "fil": "Laki ng bituin at galaw ng atomo"
+      },
+      "explanation": {
+        "id": "Ia menjelaskan perkiraan ukuran bintang dan gerakan atom yang sangat kecil.",
+        "fil": "Ipinaliwanag niya ang tinatayang laki ng bituin at ang galaw ng napakaliit na atomo."
+      }
+    }
+  ],
+  "vocabulary": [
+    {
+      "language": "fil",
+      "word": "estadistika",
+      "translations": {
+        "id": "statistik",
+        "fil": "estadistika"
+      },
+      "meanings": {
+        "id": "statistik",
+        "fil": "Ang katumbas nito sa Indonesian ay “statistik”."
+      },
+      "pos": "pangngalan",
+      "pronunciation": "estadistika",
+      "notes": {
+        "id": "Kata ini muncul pada paragraf 1 dalam konteks cerita.",
+        "fil": "Makikita ang salitang ito sa talata 1 ng muling pagsasalaysay."
+      }
+    },
+    {
+      "language": "fil",
+      "word": "kahirapan",
+      "translations": {
+        "id": "kemiskinan",
+        "fil": "kahirapan"
+      },
+      "meanings": {
+        "id": "kemiskinan",
+        "fil": "Ang katumbas nito sa Indonesian ay “kemiskinan”."
+      },
+      "pos": "pangngalan",
+      "pronunciation": "kahirapan",
+      "notes": {
+        "id": "Kata ini muncul pada paragraf 2 dalam konteks cerita.",
+        "fil": "Makikita ang salitang ito sa talata 2 ng muling pagsasalaysay."
+      }
+    },
+    {
+      "language": "fil",
+      "word": "siyentipiko",
+      "translations": {
+        "id": "ilmuwan",
+        "fil": "siyentipiko"
+      },
+      "meanings": {
+        "id": "ilmuwan",
+        "fil": "Ang katumbas nito sa Indonesian ay “ilmuwan”."
+      },
+      "pos": "pangngalan",
+      "pronunciation": "siyentipiko",
+      "notes": {
+        "id": "Kata ini muncul pada paragraf 4 dalam konteks cerita.",
+        "fil": "Makikita ang salitang ito sa talata 4 ng muling pagsasalaysay."
+      }
+    },
+    {
+      "language": "fil",
+      "word": "bigo",
+      "translations": {
+        "id": "gagal",
+        "fil": "bigo"
+      },
+      "meanings": {
+        "id": "gagal",
+        "fil": "Ang katumbas nito sa Indonesian ay “gagal”."
+      },
+      "pos": "pang-uri",
+      "pronunciation": "bigo",
+      "notes": {
+        "id": "Kata ini muncul pada paragraf 4 dalam konteks cerita.",
+        "fil": "Makikita ang salitang ito sa talata 4 ng muling pagsasalaysay."
+      }
+    },
+    {
+      "language": "fil",
+      "word": "unti-unti",
+      "translations": {
+        "id": "bertahap",
+        "fil": "unti-unti"
+      },
+      "meanings": {
+        "id": "bertahap",
+        "fil": "Ang katumbas nito sa Indonesian ay “bertahap”."
+      },
+      "pos": "pang-abay",
+      "pronunciation": "unti-unti",
+      "notes": {
+        "id": "Kata ini muncul pada paragraf 5 dalam konteks cerita.",
+        "fil": "Makikita ang salitang ito sa talata 5 ng muling pagsasalaysay."
+      }
+    },
+    {
+      "language": "fil",
+      "word": "nagpapalamig",
+      "translations": {
+        "id": "mendinginkan",
+        "fil": "nagpapalamig"
+      },
+      "meanings": {
+        "id": "mendinginkan",
+        "fil": "Ang katumbas nito sa Indonesian ay “mendinginkan”."
+      },
+      "pos": "pandiwa",
+      "pronunciation": "nagpapalamig",
+      "notes": {
+        "id": "Kata ini muncul pada paragraf 6 dalam konteks cerita.",
+        "fil": "Makikita ang salitang ito sa talata 6 ng muling pagsasalaysay."
+      }
+    }
+  ],
+  "assets": [
+    "assets/20-albert-einstein.jpg"
+  ]
+}

@@ -1,0 +1,325 @@
+{
+  "schemaVersion": 1,
+  "id": "book2-story-11-dinosaur-drawings",
+  "collectionId": "4000-essential-english-words-book-2",
+  "sourceOrder": 11,
+  "family": "4000-essential-english-words-book-2",
+  "category": "Katatawanan at imahinasyon",
+  "level": "BEGINNER",
+  "order": 11,
+  "kind": "STORY",
+  "image": "assets/11-dinosaur-drawings.jpg",
+  "title": {
+    "id": "Dinosaur drawings",
+    "fil": "Dinosaur drawings"
+  },
+  "originalTitle": "Dinosaur drawings",
+  "summary": {
+    "id": "Carl membayangkan dinosaurus yang akan membuatnya terkenal saat mengerjakan ujian, tetapi lupa menyelesaikan ujiannya sendiri.",
+    "fil": "Nangarap si Carl ng isang dinosaur na magpapasikat sa kaniya habang gumagawa ng pagsusulit, ngunit nakalimutan niyang tapusin ang mismong pagsusulit."
+  },
+  "objectives": [
+    {
+      "id": "Menelusuri sebab dan akibat dalam “Dinosaur drawings”.",
+      "fil": "Sundan ang sanhi at bunga sa “Dinosaur drawings”."
+    },
+    {
+      "id": "Menjelaskan tema imahinasyon at pananagutan melalui keputusan para tokoh.",
+      "fil": "Ipaliwanag ang temang imajinasi dan tanggung jawab sa pamamagitan ng mga pasiya ng mga tauhan."
+    }
+  ],
+  "sentences": [
+    {
+      "id": "Saat bangun, Carl ingat bahwa ia belum mengerjakan pekerjaan rumah astronomi dan kimianya.",
+      "fil": "Pagkagising ni Carl, naalala niyang hindi niya nagawa ang takdang-aralin sa astronomiya at kimika."
+    },
+    {
+      "id": "Hujan turun dan ia basah kuyup saat tiba di sekolah, lalu gurunya menegur karena ia meletakkan payung di tempat yang salah.",
+      "fil": "Umuulan at basang-basa siya sa pagpasok, saka pinagalitan ng guro dahil inilagay niya ang payong sa maling lugar."
+    },
+    {
+      "id": "Karena tidak mengetahui jawaban ujian geografi, ia mulai menggambar dinosaurus besar di kertas.",
+      "fil": "Dahil hindi niya alam ang mga sagot sa pagsusulit sa heograpiya, nagsimula siyang gumuhit ng malaking dinosaur sa papel."
+    },
+    {
+      "id": "Dalam pikirannya, dinosaurus itu hidup dan teman-teman sekelas mengaguminya sebagai jenius.",
+      "fil": "Sa isip niya, naging buhay ang dinosaur at hinangaan siya ng klase bilang henyo."
+    },
+    {
+      "id": "Ia membayangkan akan memamerkannya di sekolah dan meminta bayaran dari orang-orang yang ingin melihatnya.",
+      "fil": "Inisip niyang ipapakita niya ito sa paaralan at maniningil ng bayad sa mga gustong makakita."
+    },
+    {
+      "id": "Ketika guru menyuruh mengumpulkan kertas, Carl menyadari bahwa ia ternyata belum menyelesaikan ujian yang sebenarnya.",
+      "fil": "Nang sabihin ng guro na ipasa na ang papel, nakita ni Carl na hindi pala niya natapos ang tunay na pagsusulit."
+    }
+  ],
+  "sentenceCount": 6,
+  "speakers": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  "notes": [
+    {
+      "title": {
+        "id": "Ungkapan berguna",
+        "fil": "Mga kapaki-pakinabang na pahayag"
+      },
+      "text": {
+        "id": "“sa isip niya” — dalam pikirannya; “hindi pala niya natapos” — ternyata ia belum menyelesaikan",
+        "fil": "“sa isip niya” — ang katumbas sa Indonesian ay “dalam pikirannya”; “hindi pala niya natapos” — ang katumbas sa Indonesian ay “ternyata ia belum menyelesaikan”"
+      }
+    },
+    {
+      "title": {
+        "id": "Catatan tata bahasa",
+        "fil": "Tala sa gramatika"
+      },
+      "text": {
+        "id": "Karena memperkenalkan alasan. Ternyata menandai pemahaman atau penemuan yang baru disadari.",
+        "fil": "Ang dahil ay nagpapakilala ng dahilan. Ginagamit ang pala upang magpahiwatig ng bagong pagkaunawa o pagkakatuklas."
+      }
+    }
+  ],
+  "focus": {
+    "id": [
+      "pekerjaan rumah",
+      "payung",
+      "ujian",
+      "menggambar",
+      "mengagumi",
+      "mengumpulkan"
+    ],
+    "fil": [
+      "takdang-aralin",
+      "payong",
+      "pagsusulit",
+      "gumuhit",
+      "hinangaan",
+      "ipasa"
+    ]
+  },
+  "questions": [
+    {
+      "id": "book2-story-11-dinosaur-drawings-q1",
+      "type": "MULTIPLE_CHOICE",
+      "prompt": {
+        "id": "Dua pekerjaan rumah apa yang dilupakan Carl?",
+        "fil": "Anong dalawang takdang-aralin ang nakalimutan ni Carl?"
+      },
+      "choices": {
+        "id": [
+          "Astronomi dan kimia",
+          "Matematika dan musik",
+          "Geografi dan sejarah"
+        ],
+        "fil": [
+          "Astronomiya at kimika",
+          "Matematika at musika",
+          "Heograpiya at kasaysayan"
+        ]
+      },
+      "speech": {
+        "fil": "Anong dalawang takdang-aralin ang nakalimutan ni Carl?"
+      }
+    },
+    {
+      "id": "book2-story-11-dinosaur-drawings-q2",
+      "type": "MULTIPLE_CHOICE",
+      "prompt": {
+        "id": "Apa yang ia gambar saat ujian?",
+        "fil": "Ano ang iginuhit niya habang nagsusulit?"
+      },
+      "choices": {
+        "id": [
+          "Sebuah perahu",
+          "Seekor dinosaurus",
+          "Sebuah kastel"
+        ],
+        "fil": [
+          "Isang bangka",
+          "Isang dinosaur",
+          "Isang kastilyo"
+        ]
+      },
+      "speech": {
+        "fil": "Ano ang iginuhit niya habang nagsusulit?"
+      }
+    },
+    {
+      "id": "book2-story-11-dinosaur-drawings-q3",
+      "type": "MULTIPLE_CHOICE",
+      "prompt": {
+        "id": "Mengapa Carl tidak menyelesaikan ujian?",
+        "fil": "Bakit hindi natapos ni Carl ang pagsusulit?"
+      },
+      "choices": {
+        "id": [
+          "Kertasnya hilang",
+          "Ia pergi ke kepala sekolah",
+          "Ia melamun saat menggambar"
+        ],
+        "fil": [
+          "Nawala ang kaniyang papel",
+          "Nagpunta siya sa principal",
+          "Nangarap siya habang gumuguhit"
+        ]
+      },
+      "speech": {
+        "fil": "Bakit hindi natapos ni Carl ang pagsusulit?"
+      }
+    }
+  ],
+  "answers": [
+    {
+      "questionId": "book2-story-11-dinosaur-drawings-q1",
+      "answer": {
+        "id": "Astronomi dan kimia",
+        "fil": "Astronomiya at kimika"
+      },
+      "explanation": {
+        "id": "Carl belum mengerjakan tugas astronomi dan kimianya.",
+        "fil": "Hindi nagawa ni Carl ang gawain niya sa astronomiya at kimika."
+      }
+    },
+    {
+      "questionId": "book2-story-11-dinosaur-drawings-q2",
+      "answer": {
+        "id": "Seekor dinosaurus",
+        "fil": "Isang dinosaur"
+      },
+      "explanation": {
+        "id": "Karena tidak tahu jawabannya, ia menggambar dinosaurus besar.",
+        "fil": "Dahil hindi niya alam ang mga sagot, gumuhit siya ng malaking dinosaur."
+      }
+    },
+    {
+      "questionId": "book2-story-11-dinosaur-drawings-q3",
+      "answer": {
+        "id": "Ia melamun saat menggambar",
+        "fil": "Nangarap siya habang gumuguhit"
+      },
+      "explanation": {
+        "id": "Ia terbawa lamunannya dan tidak mengerjakan sisa ujian.",
+        "fil": "Nadala siya sa imahinasyon niya at hindi na nasagutan ang natitirang bahagi."
+      }
+    }
+  ],
+  "vocabulary": [
+    {
+      "language": "fil",
+      "word": "takdang-aralin",
+      "translations": {
+        "id": "pekerjaan rumah",
+        "fil": "takdang-aralin"
+      },
+      "meanings": {
+        "id": "pekerjaan rumah",
+        "fil": "Ang katumbas nito sa Indonesian ay “pekerjaan rumah”."
+      },
+      "pos": "pangngalan",
+      "pronunciation": "takdang-aralin",
+      "notes": {
+        "id": "Kata ini muncul pada paragraf 1 dalam konteks cerita.",
+        "fil": "Makikita ang salitang ito sa talata 1 ng muling pagsasalaysay."
+      }
+    },
+    {
+      "language": "fil",
+      "word": "payong",
+      "translations": {
+        "id": "payung",
+        "fil": "payong"
+      },
+      "meanings": {
+        "id": "payung",
+        "fil": "Ang katumbas nito sa Indonesian ay “payung”."
+      },
+      "pos": "pangngalan",
+      "pronunciation": "payong",
+      "notes": {
+        "id": "Kata ini muncul pada paragraf 2 dalam konteks cerita.",
+        "fil": "Makikita ang salitang ito sa talata 2 ng muling pagsasalaysay."
+      }
+    },
+    {
+      "language": "fil",
+      "word": "pagsusulit",
+      "translations": {
+        "id": "ujian",
+        "fil": "pagsusulit"
+      },
+      "meanings": {
+        "id": "ujian",
+        "fil": "Ang katumbas nito sa Indonesian ay “ujian”."
+      },
+      "pos": "pangngalan",
+      "pronunciation": "pagsusulit",
+      "notes": {
+        "id": "Kata ini muncul pada paragraf 3 dalam konteks cerita.",
+        "fil": "Makikita ang salitang ito sa talata 3 ng muling pagsasalaysay."
+      }
+    },
+    {
+      "language": "fil",
+      "word": "gumuhit",
+      "translations": {
+        "id": "menggambar",
+        "fil": "gumuhit"
+      },
+      "meanings": {
+        "id": "menggambar",
+        "fil": "Ang katumbas nito sa Indonesian ay “menggambar”."
+      },
+      "pos": "pandiwa",
+      "pronunciation": "gumuhit",
+      "notes": {
+        "id": "Kata ini muncul pada paragraf 3 dalam konteks cerita.",
+        "fil": "Makikita ang salitang ito sa talata 3 ng muling pagsasalaysay."
+      }
+    },
+    {
+      "language": "fil",
+      "word": "hinangaan",
+      "translations": {
+        "id": "mengagumi",
+        "fil": "hinangaan"
+      },
+      "meanings": {
+        "id": "mengagumi",
+        "fil": "Ang katumbas nito sa Indonesian ay “mengagumi”."
+      },
+      "pos": "pandiwa",
+      "pronunciation": "hinangaan",
+      "notes": {
+        "id": "Kata ini muncul pada paragraf 4 dalam konteks cerita.",
+        "fil": "Makikita ang salitang ito sa talata 4 ng muling pagsasalaysay."
+      }
+    },
+    {
+      "language": "fil",
+      "word": "ipasa",
+      "translations": {
+        "id": "mengumpulkan",
+        "fil": "ipasa"
+      },
+      "meanings": {
+        "id": "mengumpulkan",
+        "fil": "Ang katumbas nito sa Indonesian ay “mengumpulkan”."
+      },
+      "pos": "pandiwa",
+      "pronunciation": "ipasa",
+      "notes": {
+        "id": "Kata ini muncul pada paragraf 6 dalam konteks cerita.",
+        "fil": "Makikita ang salitang ito sa talata 6 ng muling pagsasalaysay."
+      }
+    }
+  ],
+  "assets": [
+    "assets/11-dinosaur-drawings.jpg"
+  ]
+}

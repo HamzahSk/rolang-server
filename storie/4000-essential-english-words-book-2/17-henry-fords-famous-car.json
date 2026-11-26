@@ -1,0 +1,325 @@
+{
+  "schemaVersion": 1,
+  "id": "book2-story-17-henry-fords-famous-car",
+  "collectionId": "4000-essential-english-words-book-2",
+  "sourceOrder": 17,
+  "family": "4000-essential-english-words-book-2",
+  "category": "Kasaysayan at inobasyon",
+  "level": "BEGINNER",
+  "order": 17,
+  "kind": "STORY",
+  "image": "assets/17-henry-fords-famous-car.jpg",
+  "title": {
+    "id": "Henry ford’s famous car",
+    "fil": "Henry ford’s famous car"
+  },
+  "originalTitle": "Henry ford’s famous car",
+  "summary": {
+    "id": "Henry Ford memperkenalkan Model T dan mempercepat pembuatannya dengan suku cadang seragam agar mobil lebih terjangkau.",
+    "fil": "Ipinakilala ni Henry Ford ang Model T at pinabilis ang paggawa nito gamit ang magkakatulad na piyesa upang maging mas abot-kaya ang mga sasakyan."
+  },
+  "objectives": [
+    {
+      "id": "Menelusuri sebab dan akibat dalam “Henry ford’s famous car”.",
+      "fil": "Sundan ang sanhi at bunga sa “Henry ford’s famous car”."
+    },
+    {
+      "id": "Menjelaskan tema inobasyon at pagiging abot-kaya melalui keputusan para tokoh.",
+      "fil": "Ipaliwanag ang temang inovasi dan keterjangkauan sa pamamagitan ng mga pasiya ng mga tauhan."
+    }
+  ],
+  "sentences": [
+    {
+      "id": "Sejak muda Henry Ford tertarik pada kereta kuda, sehingga ia bekerja sebagai mekanik meskipun ayahnya ingin ia mengelola pertanian.",
+      "fil": "Bata pa lang si Henry Ford ay interesado na siya sa mga karwahe, kaya nagtrabaho siyang mekaniko kahit nais ng ama niyang magpatakbo siya ng bukid."
+    },
+    {
+      "id": "Saat bekerja di perusahaan mobil Detroit, ia ingin membuat mobil dengan lebih sedikit tenaga kerja dan biaya.",
+      "fil": "Nang sumali siya sa kompanyang sasakyan sa Detroit, nais niyang gumawa ng kotse gamit ang mas kaunting paggawa at gastos."
+    },
+    {
+      "id": "Ia mendirikan Ford Motor Company pada 1903, meskipun bisnis itu tidak langsung berhasil.",
+      "fil": "Itinatag niya ang Ford Motor Company noong 1903, bagaman hindi naging matagumpay agad ang negosyo."
+    },
+    {
+      "id": "Pada 1908, ia secara resmi memperkenalkan Model T dengan desain seragam yang mudah dirakit.",
+      "fil": "Noong 1908, pormal niyang ipinakilala ang Model T na may magkakatulad na disenyong madaling buuin."
+    },
+    {
+      "id": "Para pekerja dapat memasang bagian-bagian yang berbeda, sehingga satu mobil dapat dirakit hanya dalam 93 menit.",
+      "fil": "Maaaring magkabit ang mga manggagawa ng magkakaibang piyesa, kaya nabubuo ang isang kotse sa loob lamang ng 93 minuto."
+    },
+    {
+      "id": "Ia menjual lebih dari 15 juta Model T dalam 19 tahun, membuktikan orang akan membeli mobil jika harganya terjangkau.",
+      "fil": "Mahigit 15 milyong Model T ang naibenta niya sa loob ng 19 taon, at ipinakitang bibili ang tao kapag abot-kaya ang presyo."
+    }
+  ],
+  "sentenceCount": 6,
+  "speakers": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  "notes": [
+    {
+      "title": {
+        "id": "Ungkapan berguna",
+        "fil": "Mga kapaki-pakinabang na pahayag"
+      },
+      "text": {
+        "id": "“hindi naging matagumpay agad” — tidak langsung berhasil; “sa loob lamang ng 93 minuto” — hanya dalam 93 menit",
+        "fil": "“hindi naging matagumpay agad” — ang katumbas sa Indonesian ay “tidak langsung berhasil”; “sa loob lamang ng 93 minuto” — ang katumbas sa Indonesian ay “hanya dalam 93 menit”"
+      }
+    },
+    {
+      "title": {
+        "id": "Catatan tata bahasa",
+        "fil": "Tala sa gramatika"
+      },
+      "text": {
+        "id": "Meskipun menunjukkan pertentangan. Pada menandai waktu terjadinya tindakan.",
+        "fil": "Ginagamit ang kahit upang magpakita ng pagsalungat. Ang noong ay tumutukoy sa panahong naganap ang kilos."
+      }
+    }
+  ],
+  "focus": {
+    "id": [
+      "kereta kuda",
+      "mekanik",
+      "tenaga kerja",
+      "mendirikan",
+      "suku cadang",
+      "terjangkau"
+    ],
+    "fil": [
+      "karwahe",
+      "mekaniko",
+      "paggawa",
+      "itinatag",
+      "piyesa",
+      "abot-kaya"
+    ]
+  },
+  "questions": [
+    {
+      "id": "book2-story-17-henry-fords-famous-car-q1",
+      "type": "MULTIPLE_CHOICE",
+      "prompt": {
+        "id": "Kendaraan apa yang diperkenalkan Ford pada 1908?",
+        "fil": "Anong sasakyan ang ipinakilala ni Ford noong 1908?"
+      },
+      "choices": {
+        "id": [
+          "Model T",
+          "Kereta kuda",
+          "Sepeda motor"
+        ],
+        "fil": [
+          "Model T",
+          "Isang karwahe",
+          "Isang motorsiklo"
+        ]
+      },
+      "speech": {
+        "fil": "Anong sasakyan ang ipinakilala ni Ford noong 1908?"
+      }
+    },
+    {
+      "id": "book2-story-17-henry-fords-famous-car-q2",
+      "type": "MULTIPLE_CHOICE",
+      "prompt": {
+        "id": "Apa manfaat suku cadang yang seragam?",
+        "fil": "Ano ang pakinabang ng magkakatulad na piyesa?"
+      },
+      "choices": {
+        "id": [
+          "Perjalanan lebih lama",
+          "Mobil lebih cepat dirakit",
+          "Pekerja tidak lagi diperlukan"
+        ],
+        "fil": [
+          "Mas tumagal ang paglalakbay",
+          "Mas mabilis buuin ang mga kotse",
+          "Hindi na kailangan ang manggagawa"
+        ]
+      },
+      "speech": {
+        "fil": "Ano ang pakinabang ng magkakatulad na piyesa?"
+      }
+    },
+    {
+      "id": "book2-story-17-henry-fords-famous-car-q3",
+      "type": "MULTIPLE_CHOICE",
+      "prompt": {
+        "id": "Apa yang ditunjukkan oleh jumlah Model T yang terjual?",
+        "fil": "Ano ang ipinakita ng dami ng Model T na naibenta?"
+      },
+      "choices": {
+        "id": [
+          "Orang tidak menginginkan mobil",
+          "Orang membeli mobil jika harganya terjangkau",
+          "Orang lebih menyukai kereta kuda"
+        ],
+        "fil": [
+          "Ayaw ng tao ng kotse",
+          "Bumibili ang tao kapag abot-kaya ang presyo",
+          "Mas gusto ng tao ang karwahe"
+        ]
+      },
+      "speech": {
+        "fil": "Ano ang ipinakita ng dami ng Model T na naibenta?"
+      }
+    }
+  ],
+  "answers": [
+    {
+      "questionId": "book2-story-17-henry-fords-famous-car-q1",
+      "answer": {
+        "id": "Model T",
+        "fil": "Model T"
+      },
+      "explanation": {
+        "id": "Ford secara resmi memperkenalkan Model T pada 1908.",
+        "fil": "Pormal na ipinakilala ni Ford ang Model T noong 1908."
+      }
+    },
+    {
+      "questionId": "book2-story-17-henry-fords-famous-car-q2",
+      "answer": {
+        "id": "Mobil lebih cepat dirakit",
+        "fil": "Mas mabilis buuin ang mga kotse"
+      },
+      "explanation": {
+        "id": "Bagian yang seragam membantu merakit mobil dalam 93 menit.",
+        "fil": "Nakatulong ang mga bahaging magkakatugma upang mabuo ang kotse sa 93 minuto."
+      }
+    },
+    {
+      "questionId": "book2-story-17-henry-fords-famous-car-q3",
+      "answer": {
+        "id": "Orang membeli mobil jika harganya terjangkau",
+        "fil": "Bumibili ang tao kapag abot-kaya ang presyo"
+      },
+      "explanation": {
+        "id": "Banyak orang membeli mobil ketika harganya cukup rendah.",
+        "fil": "Maraming bumili ng kotse kapag mababa ang presyo nito."
+      }
+    }
+  ],
+  "vocabulary": [
+    {
+      "language": "fil",
+      "word": "karwahe",
+      "translations": {
+        "id": "kereta kuda",
+        "fil": "karwahe"
+      },
+      "meanings": {
+        "id": "kereta kuda",
+        "fil": "Ang katumbas nito sa Indonesian ay “kereta kuda”."
+      },
+      "pos": "pangngalan",
+      "pronunciation": "karwahe",
+      "notes": {
+        "id": "Kata ini muncul pada paragraf 1 dalam konteks cerita.",
+        "fil": "Makikita ang salitang ito sa talata 1 ng muling pagsasalaysay."
+      }
+    },
+    {
+      "language": "fil",
+      "word": "mekaniko",
+      "translations": {
+        "id": "mekanik",
+        "fil": "mekaniko"
+      },
+      "meanings": {
+        "id": "mekanik",
+        "fil": "Ang katumbas nito sa Indonesian ay “mekanik”."
+      },
+      "pos": "pangngalan",
+      "pronunciation": "mekaniko",
+      "notes": {
+        "id": "Kata ini muncul pada paragraf 1 dalam konteks cerita.",
+        "fil": "Makikita ang salitang ito sa talata 1 ng muling pagsasalaysay."
+      }
+    },
+    {
+      "language": "fil",
+      "word": "paggawa",
+      "translations": {
+        "id": "tenaga kerja",
+        "fil": "paggawa"
+      },
+      "meanings": {
+        "id": "tenaga kerja",
+        "fil": "Ang katumbas nito sa Indonesian ay “tenaga kerja”."
+      },
+      "pos": "pangngalan",
+      "pronunciation": "paggawa",
+      "notes": {
+        "id": "Kata ini muncul pada paragraf 2 dalam konteks cerita.",
+        "fil": "Makikita ang salitang ito sa talata 2 ng muling pagsasalaysay."
+      }
+    },
+    {
+      "language": "fil",
+      "word": "itinatag",
+      "translations": {
+        "id": "mendirikan",
+        "fil": "itinatag"
+      },
+      "meanings": {
+        "id": "mendirikan",
+        "fil": "Ang katumbas nito sa Indonesian ay “mendirikan”."
+      },
+      "pos": "pandiwa",
+      "pronunciation": "itinatag",
+      "notes": {
+        "id": "Kata ini muncul pada paragraf 3 dalam konteks cerita.",
+        "fil": "Makikita ang salitang ito sa talata 3 ng muling pagsasalaysay."
+      }
+    },
+    {
+      "language": "fil",
+      "word": "piyesa",
+      "translations": {
+        "id": "suku cadang",
+        "fil": "piyesa"
+      },
+      "meanings": {
+        "id": "suku cadang",
+        "fil": "Ang katumbas nito sa Indonesian ay “suku cadang”."
+      },
+      "pos": "pangngalan",
+      "pronunciation": "piyesa",
+      "notes": {
+        "id": "Kata ini muncul pada paragraf 5 dalam konteks cerita.",
+        "fil": "Makikita ang salitang ito sa talata 5 ng muling pagsasalaysay."
+      }
+    },
+    {
+      "language": "fil",
+      "word": "abot-kaya",
+      "translations": {
+        "id": "terjangkau",
+        "fil": "abot-kaya"
+      },
+      "meanings": {
+        "id": "terjangkau",
+        "fil": "Ang katumbas nito sa Indonesian ay “terjangkau”."
+      },
+      "pos": "pang-uri",
+      "pronunciation": "abot-kaya",
+      "notes": {
+        "id": "Kata ini muncul pada paragraf 6 dalam konteks cerita.",
+        "fil": "Makikita ang salitang ito sa talata 6 ng muling pagsasalaysay."
+      }
+    }
+  ],
+  "assets": [
+    "assets/17-henry-fords-famous-car.jpg"
+  ]
+}

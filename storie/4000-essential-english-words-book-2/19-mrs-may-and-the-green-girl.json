@@ -1,0 +1,325 @@
+{
+  "schemaVersion": 1,
+  "id": "book2-story-19-mrs-may-and-the-green-girl",
+  "collectionId": "4000-essential-english-words-book-2",
+  "sourceOrder": 19,
+  "family": "4000-essential-english-words-book-2",
+  "category": "Pagtanggap at pagkakaibigan",
+  "level": "BEGINNER",
+  "order": 19,
+  "kind": "STORY",
+  "image": "assets/19-mrs-may-and-the-green-girl.jpg",
+  "title": {
+    "id": "Mrs. May and the green girl",
+    "fil": "Mrs. May and the green girl"
+  },
+  "originalTitle": "Mrs. May and the green girl",
+  "summary": {
+    "id": "Mrs. May mengadopsi anak perempuan berkulit hijau dari dunia lain dan penduduk menerimanya; warnanya berubah setelah ia makan masakan rumah.",
+    "fil": "Inampon ni Mrs. May ang batang berdeng dayuhan at natutuhan ng bayan na tanggapin siya; nagbago ang kulay niya matapos kumain ng pagkaing inihanda sa bahay."
+  },
+  "objectives": [
+    {
+      "id": "Menelusuri sebab dan akibat dalam “Mrs. May and the green girl”.",
+      "fil": "Sundan ang sanhi at bunga sa “Mrs. May and the green girl”."
+    },
+    {
+      "id": "Menjelaskan tema pagtanggap at kabaitan melalui keputusan para tokoh.",
+      "fil": "Ipaliwanag ang temang penerimaan dan kebaikan sa pamamagitan ng mga pasiya ng mga tauhan."
+    }
+  ],
+  "sentences": [
+    {
+      "id": "Penduduk sebuah kota kecil menemukan seorang anak perempuan berkulit hijau di tepi sungai kecil.",
+      "fil": "Natagpuan ng mga tao sa isang maliit na bayan ang batang babaeng may berdeng balat sa tabi ng sapa."
+    },
+    {
+      "id": "Mereka khawatir ia datang dengan niat buruk, tetapi Mrs. May iba merasa iba ketika melihatnya ketakutan.",
+      "fil": "Nangamba sila na masama ang dahilan ng pagdating niya, ngunit naawa si Mrs. May nang makita siyang natatakot."
+    },
+    {
+      "id": "Perempuan tua itu meminta hakim agar tidak menolak anak tersebut dan berjanji akan mengadopsinya.",
+      "fil": "Hiniling ng matandang babae sa hukom na huwag tanggihan ang bata at nangakong aamponin niya ito."
+    },
+    {
+      "id": "Mrs. May tidak memahami bahasa anak itu, sehingga anak tersebut memakai gambar untuk menjelaskan.",
+      "fil": "Hindi nauunawaan ni Mrs. May ang wika ng bata, kaya gumamit ito ng mga guhit upang magpaliwanag."
+    },
+    {
+      "id": "Anak itu bercerita bahwa ia berasal dari tempat jauh di balik matahari, tempat orang tinggal di sarang pohon dan makan daun.",
+      "fil": "Ikinuwento ng bata na galing siya sa lugar lampas sa araw kung saan nakatira ang mga tao sa pugad sa puno at kumakain ng dahon."
+    },
+    {
+      "id": "Mrs. May memberinya masakan rumah, warna hijau kulitnya menghilang, dan seluruh kota menyambutnya dengan hangat.",
+      "fil": "Pinakain siya ni Mrs. May ng lutong-bahay, nawala ang berdeng kulay ng kaniyang balat, at malugod siyang tinanggap ng buong bayan."
+    }
+  ],
+  "sentenceCount": 6,
+  "speakers": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  "notes": [
+    {
+      "title": {
+        "id": "Ungkapan berguna",
+        "fil": "Mga kapaki-pakinabang na pahayag"
+      },
+      "text": {
+        "id": "“huwag tanggihan ang bata” — jangan menolak anak itu; “malugod siyang tinanggap” — ia disambut dengan hangat",
+        "fil": "“huwag tanggihan ang bata” — ang katumbas sa Indonesian ay “jangan menolak anak itu”; “malugod siyang tinanggap” — ang katumbas sa Indonesian ay “ia disambut dengan hangat”"
+      }
+    },
+    {
+      "title": {
+        "id": "Catatan tata bahasa",
+        "fil": "Tala sa gramatika"
+      },
+      "text": {
+        "id": "Sehingga menjelaskan cara tindakan berikutnya dapat dilakukan. Kata kerja dengan awalan ter- dapat menandai perubahan yang telah terjadi.",
+        "fil": "Ginagamit ang kaya upang ilahad ang paraang naging posible ang kasunod na kilos. Ang na + pandiwa ay maaaring magpahiwatig ng naganap nang pagbabago."
+      }
+    }
+  ],
+  "focus": {
+    "id": [
+      "sungai kecil",
+      "khawatir",
+      "menolak",
+      "mengadopsi",
+      "gambar",
+      "masakan rumah"
+    ],
+    "fil": [
+      "sapa",
+      "nangamba",
+      "tanggihan",
+      "aamponin",
+      "guhit",
+      "lutong-bahay"
+    ]
+  },
+  "questions": [
+    {
+      "id": "book2-story-19-mrs-may-and-the-green-girl-q1",
+      "type": "MULTIPLE_CHOICE",
+      "prompt": {
+        "id": "Siapa yang menawarkan diri mengadopsi anak berkulit hijau?",
+        "fil": "Sino ang nag-alok na mag-ampon sa berdeng bata?"
+      },
+      "choices": {
+        "id": [
+          "Hakim",
+          "Mrs. May",
+          "Seorang pelaut"
+        ],
+        "fil": [
+          "Ang hukom",
+          "Si Mrs. May",
+          "Isang mandaragat"
+        ]
+      },
+      "speech": {
+        "fil": "Sino ang nag-alok na mag-ampon sa berdeng bata?"
+      }
+    },
+    {
+      "id": "book2-story-19-mrs-may-and-the-green-girl-q2",
+      "type": "MULTIPLE_CHOICE",
+      "prompt": {
+        "id": "Bagaimana anak itu berkomunikasi dengan Mrs. May?",
+        "fil": "Paano nakipag-usap ang bata kay Mrs. May?"
+      },
+      "choices": {
+        "id": [
+          "Dengan gambar",
+          "Dengan lagu",
+          "Dengan surat"
+        ],
+        "fil": [
+          "Sa pamamagitan ng mga guhit",
+          "Sa pamamagitan ng kanta",
+          "Sa pamamagitan ng sulat"
+        ]
+      },
+      "speech": {
+        "fil": "Paano nakipag-usap ang bata kay Mrs. May?"
+      }
+    },
+    {
+      "id": "book2-story-19-mrs-may-and-the-green-girl-q3",
+      "type": "MULTIPLE_CHOICE",
+      "prompt": {
+        "id": "Mengapa warna kulit anak itu berubah?",
+        "fil": "Bakit nagbago ang kulay ng balat ng bata?"
+      },
+      "choices": {
+        "id": [
+          "Kostumnya terlepas",
+          "Ia mandi di sungai",
+          "Ia makan masakan rumah, bukan hanya daun"
+        ],
+        "fil": [
+          "Nalaglag ang kaniyang costume",
+          "Naligo siya sa sapa",
+          "Kumain siya ng lutong-bahay sa halip na dahon"
+        ]
+      },
+      "speech": {
+        "fil": "Bakit nagbago ang kulay ng balat ng bata?"
+      }
+    }
+  ],
+  "answers": [
+    {
+      "questionId": "book2-story-19-mrs-may-and-the-green-girl-q1",
+      "answer": {
+        "id": "Mrs. May",
+        "fil": "Si Mrs. May"
+      },
+      "explanation": {
+        "id": "Mrs. May meminta agar anak itu tidak ditolak dan ia akan mengadopsinya.",
+        "fil": "Hiniling ni Mrs. May na huwag tanggihan ang bata at siya ang mag-aampon dito."
+      }
+    },
+    {
+      "questionId": "book2-story-19-mrs-may-and-the-green-girl-q2",
+      "answer": {
+        "id": "Dengan gambar",
+        "fil": "Sa pamamagitan ng mga guhit"
+      },
+      "explanation": {
+        "id": "Anak itu menggambar untuk menjelaskan maksudnya.",
+        "fil": "Gumuhit ang bata upang ipakita ang ibig niyang sabihin."
+      }
+    },
+    {
+      "questionId": "book2-story-19-mrs-may-and-the-green-girl-q3",
+      "answer": {
+        "id": "Ia makan masakan rumah, bukan hanya daun",
+        "fil": "Kumain siya ng lutong-bahay sa halip na dahon"
+      },
+      "explanation": {
+        "id": "Mrs. May memberinya masakan rumah dan ia tidak lagi hanya makan daun hijau.",
+        "fil": "Pinakain siya ni Mrs. May ng lutong-bahay at hindi na siya kumain lamang ng berdeng dahon."
+      }
+    }
+  ],
+  "vocabulary": [
+    {
+      "language": "fil",
+      "word": "sapa",
+      "translations": {
+        "id": "sungai kecil",
+        "fil": "sapa"
+      },
+      "meanings": {
+        "id": "sungai kecil",
+        "fil": "Ang katumbas nito sa Indonesian ay “sungai kecil”."
+      },
+      "pos": "pangngalan",
+      "pronunciation": "sapa",
+      "notes": {
+        "id": "Kata ini muncul pada paragraf 1 dalam konteks cerita.",
+        "fil": "Makikita ang salitang ito sa talata 1 ng muling pagsasalaysay."
+      }
+    },
+    {
+      "language": "fil",
+      "word": "nangamba",
+      "translations": {
+        "id": "khawatir",
+        "fil": "nangamba"
+      },
+      "meanings": {
+        "id": "khawatir",
+        "fil": "Ang katumbas nito sa Indonesian ay “khawatir”."
+      },
+      "pos": "pandiwa",
+      "pronunciation": "nangamba",
+      "notes": {
+        "id": "Kata ini muncul pada paragraf 2 dalam konteks cerita.",
+        "fil": "Makikita ang salitang ito sa talata 2 ng muling pagsasalaysay."
+      }
+    },
+    {
+      "language": "fil",
+      "word": "tanggihan",
+      "translations": {
+        "id": "menolak",
+        "fil": "tanggihan"
+      },
+      "meanings": {
+        "id": "menolak",
+        "fil": "Ang katumbas nito sa Indonesian ay “menolak”."
+      },
+      "pos": "pandiwa",
+      "pronunciation": "tanggihan",
+      "notes": {
+        "id": "Kata ini muncul pada paragraf 3 dalam konteks cerita.",
+        "fil": "Makikita ang salitang ito sa talata 3 ng muling pagsasalaysay."
+      }
+    },
+    {
+      "language": "fil",
+      "word": "aamponin",
+      "translations": {
+        "id": "mengadopsi",
+        "fil": "aamponin"
+      },
+      "meanings": {
+        "id": "mengadopsi",
+        "fil": "Ang katumbas nito sa Indonesian ay “mengadopsi”."
+      },
+      "pos": "pandiwa",
+      "pronunciation": "aamponin",
+      "notes": {
+        "id": "Kata ini muncul pada paragraf 3 dalam konteks cerita.",
+        "fil": "Makikita ang salitang ito sa talata 3 ng muling pagsasalaysay."
+      }
+    },
+    {
+      "language": "fil",
+      "word": "guhit",
+      "translations": {
+        "id": "gambar",
+        "fil": "guhit"
+      },
+      "meanings": {
+        "id": "gambar",
+        "fil": "Ang katumbas nito sa Indonesian ay “gambar”."
+      },
+      "pos": "pangngalan",
+      "pronunciation": "guhit",
+      "notes": {
+        "id": "Kata ini muncul pada paragraf 4 dalam konteks cerita.",
+        "fil": "Makikita ang salitang ito sa talata 4 ng muling pagsasalaysay."
+      }
+    },
+    {
+      "language": "fil",
+      "word": "lutong-bahay",
+      "translations": {
+        "id": "masakan rumah",
+        "fil": "lutong-bahay"
+      },
+      "meanings": {
+        "id": "masakan rumah",
+        "fil": "Ang katumbas nito sa Indonesian ay “masakan rumah”."
+      },
+      "pos": "pangngalan",
+      "pronunciation": "lutong-bahay",
+      "notes": {
+        "id": "Kata ini muncul pada paragraf 6 dalam konteks cerita.",
+        "fil": "Makikita ang salitang ito sa talata 6 ng muling pagsasalaysay."
+      }
+    }
+  ],
+  "assets": [
+    "assets/19-mrs-may-and-the-green-girl.jpg"
+  ]
+}

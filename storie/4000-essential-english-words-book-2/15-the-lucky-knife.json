@@ -1,0 +1,325 @@
+{
+  "schemaVersion": 1,
+  "id": "book2-story-15-the-lucky-knife",
+  "collectionId": "4000-essential-english-words-book-2",
+  "sourceOrder": 15,
+  "family": "4000-essential-english-words-book-2",
+  "category": "Kasaysayan at pagtuklas",
+  "level": "BEGINNER",
+  "order": 15,
+  "kind": "STORY",
+  "image": "assets/15-the-lucky-knife.jpg",
+  "title": {
+    "id": "The lucky knife",
+    "fil": "The lucky knife"
+  },
+  "originalTitle": "The lucky knife",
+  "summary": {
+    "id": "Penemuan pisau tua membawa keberuntungan dan membuka jalan bagi temuan bersejarah lain.",
+    "fil": "Nagdala ng suwerte ang natagpuang lumang kutsilyo at sinundan ito ng iba pang makasaysayang tuklas."
+  },
+  "objectives": [
+    {
+      "id": "Menelusuri sebab dan akibat dalam “The lucky knife”.",
+      "fil": "Sundan ang sanhi at bunga sa “The lucky knife”."
+    },
+    {
+      "id": "Menjelaskan tema pagtuklas at pagbabahagi melalui keputusan para tokoh.",
+      "fil": "Ipaliwanag ang temang pagtuklas at pagbabahagi sa pamamagitan ng mga pasiya ng mga tauhan."
+    }
+  ],
+  "sentences": [
+    {
+      "id": "Narator mendedikasikan hidupnya untuk mempelajari generasi masa lalu dan bergabung dengan pamannya mencari benda kuno.",
+      "fil": "Inialay ng tagapagsalaysay ang kaniyang buhay sa pag-aaral ng mga nakaraang henerasyon at sumama siya sa tiyuhing naghahanap ng sinaunang bagay."
+    },
+    {
+      "id": "Pamannya juga merekrut sekelompok siswa yang menandatangani kontrak untuk bekerja pada proyek sejarah sekolah.",
+      "fil": "Kumuha rin ang tiyuhin ng pangkat ng mga estudyanteng pumirma ng kontrata para magtrabaho sa proyektong pangkasaysayan ng paaralan."
+    },
+    {
+      "id": "Hampir sebulan berlalu tanpa temuan, sehingga narator menggali lapisan-lapisan tanah yang basah.",
+      "fil": "Lumipas ang halos isang buwan nang walang makita, kaya naghukay ang tagapagsalaysay sa patong-patong na basang lupa."
+    },
+    {
+      "id": "Di lumpur, ia menemukan pisau tua dengan gagang halus dan tulisan bahwa pisau itu akan membawa keberuntungan.",
+      "fil": "Sa putik, nakita niya ang lumang kutsilyong may makinis na hawakan at nakasulat na magdadala ito ng suwerte."
+    },
+    {
+      "id": "Ia mengangkatnya agar dapat membaca tulisan, lalu menyimpannya di tenda setelah pamannya mempersilakannya memilikinya.",
+      "fil": "Itinaas niya ito upang mabasa ang sulat at itinago sa tolda matapos sabihing maaari niya itong itago ng kaniyang tiyuhin."
+    },
+    {
+      "id": "Keesokan harinya, mereka menemukan lebih banyak periuk, perhiasan, dan senjata; pamannya menyumbangkan semuanya kepada sebuah komite.",
+      "fil": "Kinabukasan, marami pa silang natagpuang palayok, alahas at sandata; ipinagkaloob ng tiyuhin sa komite ang lahat ng ito."
+    }
+  ],
+  "sentenceCount": 6,
+  "speakers": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  "notes": [
+    {
+      "title": {
+        "id": "Ungkapan berguna",
+        "fil": "Mga kapaki-pakinabang na pahayag"
+      },
+      "text": {
+        "id": "“walang makita” — tidak menemukan apa pun; “magdadala ito ng suwerte” — benda ini akan membawa keberuntungan",
+        "fil": "“walang makita” — ang katumbas sa Indonesian ay “tidak menemukan apa pun”; “magdadala ito ng suwerte” — ang katumbas sa Indonesian ay “benda ini akan membawa keberuntungan”"
+      }
+    },
+    {
+      "title": {
+        "id": "Catatan tata bahasa",
+        "fil": "Tala sa gramatika"
+      },
+      "text": {
+        "id": "Ketika + kata kerja menetapkan waktu peristiwa. Setelah + kata kerja menunjukkan bahwa satu tindakan terjadi sebelum tindakan berikutnya.",
+        "fil": "Ang nang + pandiwa ay nagtatakda ng oras ng pangyayari. Ipinakikita ng matapos + pandiwa na naganap muna ang isang kilos bago ang kasunod."
+      }
+    }
+  ],
+  "focus": {
+    "id": [
+      "generasi",
+      "kontrak",
+      "berlapis-lapis",
+      "lumpur",
+      "gagang",
+      "menyumbangkan"
+    ],
+    "fil": [
+      "henerasyon",
+      "kontrata",
+      "patong-patong",
+      "putik",
+      "hawakan",
+      "ipinagkaloob"
+    ]
+  },
+  "questions": [
+    {
+      "id": "book2-story-15-the-lucky-knife-q1",
+      "type": "MULTIPLE_CHOICE",
+      "prompt": {
+        "id": "Mengapa kelompok siswa itu bekerja?",
+        "fil": "Bakit nagtatrabaho ang pangkat ng estudyante?"
+      },
+      "choices": {
+        "id": [
+          "Untuk mencari benda kuno bagi yayasan sejarah sekolah",
+          "Untuk membangun rumah",
+          "Untuk merawat kuda"
+        ],
+        "fil": [
+          "Para maghanap ng lumang bagay para sa pundasyon ng paaralan",
+          "Para magtayo ng bahay",
+          "Para mag-alaga ng kabayo"
+        ]
+      },
+      "speech": {
+        "fil": "Bakit nagtatrabaho ang pangkat ng estudyante?"
+      }
+    },
+    {
+      "id": "book2-story-15-the-lucky-knife-q2",
+      "type": "MULTIPLE_CHOICE",
+      "prompt": {
+        "id": "Apa yang pertama ditemukan narator di lumpur?",
+        "fil": "Ano ang unang natagpuan ng tagapagsalaysay sa putik?"
+      },
+      "choices": {
+        "id": [
+          "Sebuah pisau",
+          "Beberapa periuk",
+          "Sebuah kalung"
+        ],
+        "fil": [
+          "Isang kutsilyo",
+          "Mga palayok",
+          "Isang kuwintas"
+        ]
+      },
+      "speech": {
+        "fil": "Ano ang unang natagpuan ng tagapagsalaysay sa putik?"
+      }
+    },
+    {
+      "id": "book2-story-15-the-lucky-knife-q3",
+      "type": "MULTIPLE_CHOICE",
+      "prompt": {
+        "id": "Apa yang dilakukan paman terhadap benda yang ditemukan esok hari?",
+        "fil": "Ano ang ginawa ng tiyuhin sa mga bagay na natagpuan kinabukasan?"
+      },
+      "choices": {
+        "id": [
+          "Ia menjualnya",
+          "Ia menyumbangkannya kepada komite",
+          "Ia menyimpannya di tenda"
+        ],
+        "fil": [
+          "Ipinagbili niya ang mga ito",
+          "Ipinagkaloob niya sa komite",
+          "Itinago niya sa tolda"
+        ]
+      },
+      "speech": {
+        "fil": "Ano ang ginawa ng tiyuhin sa mga bagay na natagpuan kinabukasan?"
+      }
+    }
+  ],
+  "answers": [
+    {
+      "questionId": "book2-story-15-the-lucky-knife-q1",
+      "answer": {
+        "id": "Untuk mencari benda kuno bagi yayasan sejarah sekolah",
+        "fil": "Para maghanap ng lumang bagay para sa pundasyon ng paaralan"
+      },
+      "explanation": {
+        "id": "Mereka mencari benda bersejarah untuk yayasan sekolah.",
+        "fil": "Naghahanap sila ng mga kayamanang pangkasaysayan para sa foundation ng paaralan."
+      }
+    },
+    {
+      "questionId": "book2-story-15-the-lucky-knife-q2",
+      "answer": {
+        "id": "Sebuah pisau",
+        "fil": "Isang kutsilyo"
+      },
+      "explanation": {
+        "id": "Ia menemukan pisau tua saat menggali tanah basah.",
+        "fil": "Isang lumang kutsilyo ang nakita niya habang naghuhukay sa basang lupa."
+      }
+    },
+    {
+      "questionId": "book2-story-15-the-lucky-knife-q3",
+      "answer": {
+        "id": "Ia menyumbangkannya kepada komite",
+        "fil": "Ipinagkaloob niya sa komite"
+      },
+      "explanation": {
+        "id": "Pamannya menyumbangkan periuk, perhiasan, dan senjata kepada sebuah komite khusus.",
+        "fil": "Ipinagkaloob ng tiyuhin sa isang espesyal na komite ang mga palayok, alahas at sandata."
+      }
+    }
+  ],
+  "vocabulary": [
+    {
+      "language": "fil",
+      "word": "henerasyon",
+      "translations": {
+        "id": "generasi",
+        "fil": "henerasyon"
+      },
+      "meanings": {
+        "id": "generasi",
+        "fil": "Ang katumbas nito sa Indonesian ay “generasi”."
+      },
+      "pos": "pangngalan",
+      "pronunciation": "henerasyon",
+      "notes": {
+        "id": "Kata ini muncul pada paragraf 1 dalam konteks cerita.",
+        "fil": "Makikita ang salitang ito sa talata 1 ng muling pagsasalaysay."
+      }
+    },
+    {
+      "language": "fil",
+      "word": "kontrata",
+      "translations": {
+        "id": "kontrak",
+        "fil": "kontrata"
+      },
+      "meanings": {
+        "id": "kontrak",
+        "fil": "Ang katumbas nito sa Indonesian ay “kontrak”."
+      },
+      "pos": "pangngalan",
+      "pronunciation": "kontrata",
+      "notes": {
+        "id": "Kata ini muncul pada paragraf 2 dalam konteks cerita.",
+        "fil": "Makikita ang salitang ito sa talata 2 ng muling pagsasalaysay."
+      }
+    },
+    {
+      "language": "fil",
+      "word": "patong-patong",
+      "translations": {
+        "id": "berlapis-lapis",
+        "fil": "patong-patong"
+      },
+      "meanings": {
+        "id": "berlapis-lapis",
+        "fil": "Ang katumbas nito sa Indonesian ay “berlapis-lapis”."
+      },
+      "pos": "pang-uri",
+      "pronunciation": "patong-patong",
+      "notes": {
+        "id": "Kata ini muncul pada paragraf 3 dalam konteks cerita.",
+        "fil": "Makikita ang salitang ito sa talata 3 ng muling pagsasalaysay."
+      }
+    },
+    {
+      "language": "fil",
+      "word": "putik",
+      "translations": {
+        "id": "lumpur",
+        "fil": "putik"
+      },
+      "meanings": {
+        "id": "lumpur",
+        "fil": "Ang katumbas nito sa Indonesian ay “lumpur”."
+      },
+      "pos": "pangngalan",
+      "pronunciation": "putik",
+      "notes": {
+        "id": "Kata ini muncul pada paragraf 4 dalam konteks cerita.",
+        "fil": "Makikita ang salitang ito sa talata 4 ng muling pagsasalaysay."
+      }
+    },
+    {
+      "language": "fil",
+      "word": "hawakan",
+      "translations": {
+        "id": "gagang",
+        "fil": "hawakan"
+      },
+      "meanings": {
+        "id": "gagang",
+        "fil": "Ang katumbas nito sa Indonesian ay “gagang”."
+      },
+      "pos": "pangngalan",
+      "pronunciation": "hawakan",
+      "notes": {
+        "id": "Kata ini muncul pada paragraf 4 dalam konteks cerita.",
+        "fil": "Makikita ang salitang ito sa talata 4 ng muling pagsasalaysay."
+      }
+    },
+    {
+      "language": "fil",
+      "word": "ipinagkaloob",
+      "translations": {
+        "id": "menyumbangkan",
+        "fil": "ipinagkaloob"
+      },
+      "meanings": {
+        "id": "menyumbangkan",
+        "fil": "Ang katumbas nito sa Indonesian ay “menyumbangkan”."
+      },
+      "pos": "pandiwa",
+      "pronunciation": "ipinagkaloob",
+      "notes": {
+        "id": "Kata ini muncul pada paragraf 6 dalam konteks cerita.",
+        "fil": "Makikita ang salitang ito sa talata 6 ng muling pagsasalaysay."
+      }
+    }
+  ],
+  "assets": [
+    "assets/15-the-lucky-knife.jpg"
+  ]
+}

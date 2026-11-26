@@ -1,0 +1,325 @@
+{
+  "schemaVersion": 1,
+  "id": "book2-story-12-the-mean-chef",
+  "collectionId": "4000-essential-english-words-book-2",
+  "sourceOrder": 12,
+  "family": "4000-essential-english-words-book-2",
+  "category": "Pagbabago at pananagutan",
+  "level": "BEGINNER",
+  "order": 12,
+  "kind": "STORY",
+  "image": "assets/12-the-mean-chef.jpg",
+  "title": {
+    "id": "The mean chef",
+    "fil": "The mean chef"
+  },
+  "originalTitle": "The mean chef",
+  "summary": {
+    "id": "Para juru masak mengubah restoran yang penuh kekerasan setelah mengikat kepala koki; saat menyadari kesalahannya, ia mulai bersikap murah hati.",
+    "fil": "Binago ng mga kusinero ang mapang-abusong restawran matapos itali ang chef; nang mapagtanto niyang siya ang may sala, nagsimula siyang maging mapagbigay."
+  },
+  "objectives": [
+    {
+      "id": "Menelusuri sebab dan akibat dalam “The mean chef”.",
+      "fil": "Sundan ang sanhi at bunga sa “The mean chef”."
+    },
+    {
+      "id": "Menjelaskan tema pananagutan ng pinuno melalui keputusan para tokoh.",
+      "fil": "Ipaliwanag ang temang tanggung jawab seorang pemimpin sa pamamagitan ng mga pasiya ng mga tauhan."
+    }
+  ],
+  "sentences": [
+    {
+      "id": "Kepala koki yang galak memasang harga mahal, dan banyak pelanggan tidak mampu membeli makanan.",
+      "fil": "Mahal maningil ang masungit na chef, at hindi kayang bumili ng pagkain ng maraming customer."
+    },
+    {
+      "id": "Ketika oven logam rusak dan tidak ia perbaiki, masakan terbakar dan hanya lilin yang menerangi ruangan.",
+      "fil": "Nang masira ang metal na hurno at hindi niya ipaayos, nasunog ang niluluto at kandila na lamang ang ilaw."
+    },
+    {
+      "id": "Ia mengawasi para juru masak, membentak mereka, dan tidak membayar pelayan sehingga mereka terlilit utang.",
+      "fil": "Binabantayan niya ang mga kusinero, sinisigawan sila, at hindi binabayaran ang mga waiter kaya nabaon ang mga ito sa utang."
+    },
+    {
+      "id": "Akhirnya semua pekerja melawan dan mengikat kepala koki agar mereka dapat mengelola restoran.",
+      "fil": "Sa wakas, tumutol ang lahat ng manggagawa at itinali ang chef upang sila muna ang mamahala sa restawran."
+    },
+    {
+      "id": "Mereka menurunkan harga, memakai bahan-bahan terbaik, dan menyalakan lampu sehingga pelanggan berdatangan.",
+      "fil": "Binabaan nila ang presyo, gumamit ng masasarap na sangkap, at nagsindi ng mga ilaw kaya dumagsa ang mga customer."
+    },
+    {
+      "id": "Kepala koki menyadari bahwa ia penyebab masalah dan bersikeras memberikan makanan gratis kepada pelanggan.",
+      "fil": "Napagtanto ng chef na siya ang may sala sa mga problema at iginiit niyang magbigay ng libreng pagkain sa mga customer."
+    }
+  ],
+  "sentenceCount": 6,
+  "speakers": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  "notes": [
+    {
+      "title": {
+        "id": "Ungkapan berguna",
+        "fil": "Mga kapaki-pakinabang na pahayag"
+      },
+      "text": {
+        "id": "“Sa wakas” — Akhirnya; “siya ang may sala” — ia yang bersalah",
+        "fil": "“Sa wakas” — ang katumbas sa Indonesian ay “Akhirnya”; “siya ang may sala” — ang katumbas sa Indonesian ay “ia yang bersalah”"
+      }
+    },
+    {
+      "title": {
+        "id": "Catatan tata bahasa",
+        "fil": "Tala sa gramatika"
+      },
+      "text": {
+        "id": "Sehingga menunjukkan akibat. Untuk + kata kerja menjelaskan tujuan suatu tindakan.",
+        "fil": "Ang kaya ay nagpapakita ng bunga. Ginagamit ang upang + pandiwa upang ipaliwanag ang layunin ng isang kilos."
+      }
+    }
+  ],
+  "focus": {
+    "id": [
+      "galak",
+      "oven",
+      "membentak",
+      "terlilit utang",
+      "bahan",
+      "makanan gratis"
+    ],
+    "fil": [
+      "masungit",
+      "hurno",
+      "sinisigawan",
+      "nabaon",
+      "sangkap",
+      "libreng pagkain"
+    ]
+  },
+  "questions": [
+    {
+      "id": "book2-story-12-the-mean-chef-q1",
+      "type": "MULTIPLE_CHOICE",
+      "prompt": {
+        "id": "Mengapa makanan di restoran terbakar?",
+        "fil": "Bakit nasunog ang pagkain sa restawran?"
+      },
+      "choices": {
+        "id": [
+          "Oven rusak dan tidak diperbaiki",
+          "Tak ada yang memasak",
+          "Semua lilin padam"
+        ],
+        "fil": [
+          "Nasira ang hurno at hindi ito pinaayos",
+          "Walang nagluto",
+          "Namatay ang lahat ng kandila"
+        ]
+      },
+      "speech": {
+        "fil": "Bakit nasunog ang pagkain sa restawran?"
+      }
+    },
+    {
+      "id": "book2-story-12-the-mean-chef-q2",
+      "type": "MULTIPLE_CHOICE",
+      "prompt": {
+        "id": "Apa yang dilakukan para juru masak untuk menjalankan restoran?",
+        "fil": "Ano ang ginawa ng mga kusinero upang mapatakbo ang restawran?"
+      },
+      "choices": {
+        "id": [
+          "Mereka meninggalkan kota",
+          "Mereka mengikat kepala koki dan mengambil alih",
+          "Mereka menutup dapur"
+        ],
+        "fil": [
+          "Umalis sila sa bayan",
+          "Itinali nila ang chef at sila ang namahala",
+          "Isinara nila ang kusina"
+        ]
+      },
+      "speech": {
+        "fil": "Ano ang ginawa ng mga kusinero upang mapatakbo ang restawran?"
+      }
+    },
+    {
+      "id": "book2-story-12-the-mean-chef-q3",
+      "type": "MULTIPLE_CHOICE",
+      "prompt": {
+        "id": "Apa yang disadari kepala koki pada akhirnya?",
+        "fil": "Ano ang napagtanto ng chef sa huli?"
+      },
+      "choices": {
+        "id": [
+          "Pelanggan yang bersalah",
+          "Lampu tidak berguna",
+          "Ia penyebab masalah"
+        ],
+        "fil": [
+          "Ang mga customer ang may sala",
+          "Walang silbi ang ilaw",
+          "Siya ang sanhi ng mga problema"
+        ]
+      },
+      "speech": {
+        "fil": "Ano ang napagtanto ng chef sa huli?"
+      }
+    }
+  ],
+  "answers": [
+    {
+      "questionId": "book2-story-12-the-mean-chef-q1",
+      "answer": {
+        "id": "Oven rusak dan tidak diperbaiki",
+        "fil": "Nasira ang hurno at hindi ito pinaayos"
+      },
+      "explanation": {
+        "id": "Kepala koki tidak memperbaiki oven logam yang rusak sehingga makanan terbakar.",
+        "fil": "Hindi pinaayos ng chef ang sirang metal na hurno kaya nasunog ang pagkain."
+      }
+    },
+    {
+      "questionId": "book2-story-12-the-mean-chef-q2",
+      "answer": {
+        "id": "Mereka mengikat kepala koki dan mengambil alih",
+        "fil": "Itinali nila ang chef at sila ang namahala"
+      },
+      "explanation": {
+        "id": "Mereka mengikat kepala koki agar dapat mengendalikan restoran.",
+        "fil": "Itinali nila ang chef upang makontrol nila ang restawran."
+      }
+    },
+    {
+      "questionId": "book2-story-12-the-mean-chef-q3",
+      "answer": {
+        "id": "Ia penyebab masalah",
+        "fil": "Siya ang sanhi ng mga problema"
+      },
+      "explanation": {
+        "id": "Ia mengakui bahwa perilakunya sendiri menyebabkan masalah restoran.",
+        "fil": "Kinilala niyang sariling asal ang dahilan ng paghina ng restawran."
+      }
+    }
+  ],
+  "vocabulary": [
+    {
+      "language": "fil",
+      "word": "masungit",
+      "translations": {
+        "id": "galak",
+        "fil": "masungit"
+      },
+      "meanings": {
+        "id": "galak",
+        "fil": "Ang katumbas nito sa Indonesian ay “galak”."
+      },
+      "pos": "pang-uri",
+      "pronunciation": "masungit",
+      "notes": {
+        "id": "Kata ini muncul pada paragraf 1 dalam konteks cerita.",
+        "fil": "Makikita ang salitang ito sa talata 1 ng muling pagsasalaysay."
+      }
+    },
+    {
+      "language": "fil",
+      "word": "hurno",
+      "translations": {
+        "id": "oven",
+        "fil": "hurno"
+      },
+      "meanings": {
+        "id": "oven",
+        "fil": "Ang katumbas nito sa Indonesian ay “oven”."
+      },
+      "pos": "pangngalan",
+      "pronunciation": "hurno",
+      "notes": {
+        "id": "Kata ini muncul pada paragraf 2 dalam konteks cerita.",
+        "fil": "Makikita ang salitang ito sa talata 2 ng muling pagsasalaysay."
+      }
+    },
+    {
+      "language": "fil",
+      "word": "sinisigawan",
+      "translations": {
+        "id": "membentak",
+        "fil": "sinisigawan"
+      },
+      "meanings": {
+        "id": "membentak",
+        "fil": "Ang katumbas nito sa Indonesian ay “membentak”."
+      },
+      "pos": "pandiwa",
+      "pronunciation": "sinisigawan",
+      "notes": {
+        "id": "Kata ini muncul pada paragraf 3 dalam konteks cerita.",
+        "fil": "Makikita ang salitang ito sa talata 3 ng muling pagsasalaysay."
+      }
+    },
+    {
+      "language": "fil",
+      "word": "nabaon",
+      "translations": {
+        "id": "terlilit utang",
+        "fil": "nabaon"
+      },
+      "meanings": {
+        "id": "terlilit utang",
+        "fil": "Ang katumbas nito sa Indonesian ay “terlilit utang”."
+      },
+      "pos": "pandiwa",
+      "pronunciation": "nabaon",
+      "notes": {
+        "id": "Kata ini muncul pada paragraf 3 dalam konteks cerita.",
+        "fil": "Makikita ang salitang ito sa talata 3 ng muling pagsasalaysay."
+      }
+    },
+    {
+      "language": "fil",
+      "word": "sangkap",
+      "translations": {
+        "id": "bahan",
+        "fil": "sangkap"
+      },
+      "meanings": {
+        "id": "bahan",
+        "fil": "Ang katumbas nito sa Indonesian ay “bahan”."
+      },
+      "pos": "pangngalan",
+      "pronunciation": "sangkap",
+      "notes": {
+        "id": "Kata ini muncul pada paragraf 5 dalam konteks cerita.",
+        "fil": "Makikita ang salitang ito sa talata 5 ng muling pagsasalaysay."
+      }
+    },
+    {
+      "language": "fil",
+      "word": "libreng pagkain",
+      "translations": {
+        "id": "makanan gratis",
+        "fil": "libreng pagkain"
+      },
+      "meanings": {
+        "id": "makanan gratis",
+        "fil": "Ang katumbas nito sa Indonesian ay “makanan gratis”."
+      },
+      "pos": "parirala",
+      "pronunciation": "libreng pagkain",
+      "notes": {
+        "id": "Kata ini muncul pada paragraf 6 dalam konteks cerita.",
+        "fil": "Makikita ang salitang ito sa talata 6 ng muling pagsasalaysay."
+      }
+    }
+  ],
+  "assets": [
+    "assets/12-the-mean-chef.jpg"
+  ]
+}

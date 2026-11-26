@@ -10,7 +10,7 @@ https://raw.githubusercontent.com/HamzahSk/rolang-server/data/
 ```
 
 `manifest.json` discovers two courses with 13 unit documents and 44 lessons,
-plus all 30 narrative units from *4000 Essential English Words - Book 1*. Each
+plus all 30 narrative units from *4000 Essential English Words - Book 2*. Each
 story is a concise Tagalog retelling with an equivalent Indonesian version,
 story-specific vocabulary, expressions, grammar, comprehension questions, and
 a separate answer key. All 30 matching EPUB illustrations are published with
@@ -49,16 +49,16 @@ Generated content must be committed and published only from the `data` branch.
 
 ## Regenerate Stories
 
-The Book 1 builder inspects the complete EPUB spine, classifies the 30 numbered
-unit documents as narratives, excludes the cover and four note/glossary
-documents, verifies every preserved title, and extracts the illustration linked
-from each narrative. It stores source hashes and concise plot metadata in
-`storie/source-audit.json`, but does not publish or translate the complete
-copyrighted English story text.
+The Book 2 builder inspects the complete EPUB spine, classifies the 30 numbered
+unit documents as narratives, excludes the cover, copyright page, and two
+reference documents, verifies every preserved title, and extracts the
+illustration linked from each narrative. It stores source hashes, characters,
+settings, themes, and plot events in `storie/source-audit.json`, but does not
+publish or translate the complete copyrighted English story text.
 
 ```sh
-python3 tools/build_book1_stories.py \
-  "/path/to/4000 essential english words - Book 1.epub"
+python3 tools/build_book2_stories.py \
+  "/path/to/4000 Essential English Words - Book 2.epub"
 python3 tools/validate_content.py .
 ```
 

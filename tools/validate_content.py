@@ -327,13 +327,13 @@ def validate(root: Path) -> tuple[int, int, int, int]:
     story_index = load(story_index_path)
     if story_index.get("schemaVersion") != 1 or story_index.get("languagePair") != {"reference": "id", "target": "fil"}:
         fail("Invalid story index metadata")
-    if story_index.get("id") != "4000-essential-english-words-book-1":
-        fail("The story index must publish the Book 1 collection")
+    if story_index.get("id") != "4000-essential-english-words-book-2":
+        fail("The story index must publish the Book 2 collection")
     story_references = story_index.get("stories")
     if not isinstance(story_references, list) or not story_references:
         fail("Story index must contain stories")
     if story_index.get("storyCount") != 30 or len(story_references) != 30:
-        fail("Book 1 must contain exactly 30 stories")
+        fail("Book 2 must contain exactly 30 stories")
     if [reference.get("order") for reference in story_references] != list(range(1, len(story_references) + 1)):
         fail("Story order must be contiguous")
     if [reference.get("sourceOrder") for reference in story_references] != list(range(1, 31)):
@@ -343,19 +343,19 @@ def validate(root: Path) -> tuple[int, int, int, int]:
     audit_path = verify_hash(root, story_index_path.parent, story_index.get("sourceAudit", {}))
     story_audit = load(audit_path)
     source = story_audit.get("source", {})
-    if (source.get("type") != "EPUB" or source.get("title") != "4000 essential english words - Book 1"
+    if (source.get("type") != "EPUB" or source.get("title") != "4000 Essential English Words - Book 2"
             or not HEX_HASH.fullmatch(source.get("epubSha256", ""))):
-        fail("Story source audit must identify the complete Book 1 EPUB")
+        fail("Story source audit must identify the complete Book 2 EPUB")
     documents = story_audit.get("documents")
     inspection = story_audit.get("inspection", {})
     if (not isinstance(documents, list) or story_audit.get("documentCount") != len(documents)
-            or len(documents) != 35 or inspection.get("spineDocumentCount") != 35):
-        fail("Story source audit must cover all 35 spine documents")
+            or len(documents) != 34 or inspection.get("spineDocumentCount") != 34):
+        fail("Story source audit must cover all 34 spine documents")
     if any(not HEX_HASH.fullmatch(document.get("sha256", "")) for document in documents):
         fail("Story source audit contains an invalid XHTML hash")
     if sum(document.get("role") == "story" for document in documents) != 30:
         fail("Exactly 30 spine documents must be classified as stories")
-    if inspection.get("actualNarrativeCount") != 30 or inspection.get("excludedDocumentCount") != 5:
+    if inspection.get("actualNarrativeCount") != 30 or inspection.get("excludedDocumentCount") != 4:
         fail("Story/reference classification totals are invalid")
     audited_stories = story_audit.get("stories")
     if (not isinstance(audited_stories, list) or story_audit.get("storyCount") != 30
@@ -368,8 +368,8 @@ def validate(root: Path) -> tuple[int, int, int, int]:
     if (assets_audit.get("availableIllustrations") != 30 or assets_audit.get("extracted") != 30
             or not isinstance(asset_items, list) or len(asset_items) != 30):
         fail("All 30 relevant EPUB illustrations must be extracted")
-    if assets_audit.get("skippedUnrelated") != ["OEBPS/Images/cover.jpg"]:
-        fail("Only the unrelated source cover may be skipped")
+    if assets_audit.get("skippedUnrelated") != ["OEBPS/Images/cover2.jpg", "OEBPS/Images/LogoTVE.jpg"]:
+        fail("Unexpected unrelated Book 2 EPUB images")
     known_story_assets: set[str] = set()
     for item in asset_items:
         path = story_index_path.parent / safe_relative(item.get("path", ""))
@@ -399,6 +399,25 @@ def validate(root: Path) -> tuple[int, int, int, int]:
         localized_text(story.get("summary"), f"{where}.summary")
         if (story.get("originalTitle") != audit_item.get("title") or story["title"] != {"id": story["originalTitle"], "fil": story["originalTitle"]}):
             fail(f"Original source title was not preserved: {where}")
+        source_document = audit_item.get("sourceDocument", "")
+        source_reference = next(
+            (item for item in documents if item.get("path") == source_document), None
+        )
+        if (
+            not source_document.endswith(f"Unit_{reference.get('sourceOrder', 0):02d}.xhtml")
+            or source_reference is None
+            or source_reference.get("role") != "story"
+            or source_reference.get("sha256") != audit_item.get("sourceSha256")
+            or not isinstance(audit_item.get("characters"), list)
+            or not audit_item["characters"]
+            or not isinstance(audit_item.get("setting"), str)
+            or not audit_item["setting"].strip()
+            or not isinstance(audit_item.get("theme"), str)
+            or not audit_item["theme"].strip()
+            or not isinstance(audit_item.get("mainEvents"), list)
+            or len(audit_item["mainEvents"]) < 3
+        ):
+            fail(f"Story source audit is incomplete: {where}")
         if audit_item.get("generatedStory") != story_path.relative_to(story_index_path.parent).as_posix() or audit_item.get("generatedSha256") != digest(story_path):
             fail(f"Story generation audit mismatch: {where}")
         sentences = story.get("sentences")

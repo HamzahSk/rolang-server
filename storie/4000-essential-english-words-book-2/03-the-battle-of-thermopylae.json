@@ -1,0 +1,325 @@
+{
+  "schemaVersion": 1,
+  "id": "book2-story-03-the-battle-of-thermopylae",
+  "collectionId": "4000-essential-english-words-book-2",
+  "sourceOrder": 3,
+  "family": "4000-essential-english-words-book-2",
+  "category": "Kasaysayan at pagtatanggol",
+  "level": "BEGINNER",
+  "order": 3,
+  "kind": "STORY",
+  "image": "assets/03-the-battle-of-thermopylae.jpg",
+  "title": {
+    "id": "The battle of Thermopylae",
+    "fil": "The battle of Thermopylae"
+  },
+  "originalTitle": "The battle of Thermopylae",
+  "summary": {
+    "id": "Tiga ratus prajurit Sparta mempertahankan celah sempit di Thermopylae dari pasukan Persia yang jauh lebih besar, tetapi akhirnya kalah.",
+    "fil": "Ipinagtanggol ng tatlong daang Spartan ang makitid na lagusan sa Thermopylae laban sa napakalaking hukbo ng Persia, ngunit tuluyang natalo sila."
+  },
+  "objectives": [
+    {
+      "id": "Menelusuri sebab dan akibat dalam “The battle of Thermopylae”.",
+      "fil": "Sundan ang sanhi at bunga sa “The battle of Thermopylae”."
+    },
+    {
+      "id": "Menjelaskan tema katatagan sa gitna ng pagkatalo melalui keputusan para tokoh.",
+      "fil": "Ipaliwanag ang temang keteguhan meski kalah sa pamamagitan ng mga pasiya ng mga tauhan."
+    }
+  ],
+  "sentences": [
+    {
+      "id": "Di Yunani kuno, pemimpin Sparta bersiap mempertahankan pintu masuk sempit di Thermopylae.",
+      "fil": "Sa sinaunang Greece, naghanda ang pinuno ng mga Spartan na ipagtanggol ang makitid na pasukan sa Thermopylae."
+    },
+    {
+      "id": "Pasukannya hanya terdiri dari tiga ratus prajurit pemberani, sedangkan tentara Persia berjumlah ratusan ribu.",
+      "fil": "Tatlong daan lamang ang kaniyang matatapang na kawal, samantalang daan-daang libo ang nasa hukbong Persian."
+    },
+    {
+      "id": "Mereka memilih menghadang musuh di celah sempit agar begitu banyak prajurit tak mudah melintas.",
+      "fil": "Pinili nilang harangin ang kalaban sa makipot na lagusan upang hindi madaling makadaan ang napakaraming sundalo."
+    },
+    {
+      "id": "Perisai menahan anak panah, sementara batang-batang kayu digelindingkan ke arah para penyerang.",
+      "fil": "Nasalag ng mga kalasag ang mga palaso, at gumulong naman ang mga troso pababa sa mga umaatake."
+    },
+    {
+      "id": "Mereka bertempur selama tiga hari dengan hampir tanpa tidur, tetapi akhirnya orang Persia menemukan jalan untuk menembus pertahanan.",
+      "fil": "Tatlong araw silang lumaban nang halos walang tulog, ngunit kalaunan ay nakahanap ng daan ang mga Persian."
+    },
+    {
+      "id": "Pemimpin dan seluruh prajuritnya tewas; meski kalah, pertahanan mereka menjadi terkenal dalam sejarah.",
+      "fil": "Napatay ang pinuno at lahat ng kaniyang kawal; kahit natalo, naging tanyag sa kasaysayan ang kanilang pagtatanggol."
+    }
+  ],
+  "sentenceCount": 6,
+  "speakers": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  "notes": [
+    {
+      "title": {
+        "id": "Ungkapan berguna",
+        "fil": "Mga kapaki-pakinabang na pahayag"
+      },
+      "text": {
+        "id": "“halos walang tulog” — hampir tanpa tidur; “kahit natalo” — meskipun kalah",
+        "fil": "“halos walang tulog” — ang katumbas sa Indonesian ay “hampir tanpa tidur”; “kahit natalo” — ang katumbas sa Indonesian ay “meskipun kalah”"
+      }
+    },
+    {
+      "title": {
+        "id": "Catatan tata bahasa",
+        "fil": "Tala sa gramatika"
+      },
+      "text": {
+        "id": "Samantalang membandingkan jumlah atau keadaan yang berlawanan. Bahkan jika + kata kerja mengakui hasil tanpa mengubah gagasan utama.",
+        "fil": "Ang samantalang ay nagtatambis ng magkasalungat na dami o kalagayan. Ginagamit ang kahit + pandiwa upang kilalanin ang kinalabasan nang hindi binabago ang pangunahing punto."
+      }
+    }
+  ],
+  "focus": {
+    "id": [
+      "mempertahankan",
+      "sempit",
+      "celah",
+      "pasukan",
+      "perisai",
+      "pertahanan"
+    ],
+    "fil": [
+      "ipagtanggol",
+      "makitid",
+      "lagusan",
+      "hukbo",
+      "kalasag",
+      "pagtatanggol"
+    ]
+  },
+  "questions": [
+    {
+      "id": "book2-story-03-the-battle-of-thermopylae-q1",
+      "type": "MULTIPLE_CHOICE",
+      "prompt": {
+        "id": "Berapa prajurit Sparta menghadapi pasukan Persia?",
+        "fil": "Ilang Spartan ang humarap sa hukbong Persian?"
+      },
+      "choices": {
+        "id": [
+          "Tiga ratus",
+          "Dua belas ribu",
+          "Ratusan ribu"
+        ],
+        "fil": [
+          "Tatlong daan",
+          "Labindalawang libo",
+          "Daan-daang libo"
+        ]
+      },
+      "speech": {
+        "fil": "Ilang Spartan ang humarap sa hukbong Persian?"
+      }
+    },
+    {
+      "id": "book2-story-03-the-battle-of-thermopylae-q2",
+      "type": "MULTIPLE_CHOICE",
+      "prompt": {
+        "id": "Mengapa mereka memilih celah sempit?",
+        "fil": "Bakit nila pinili ang makitid na lagusan?"
+      },
+      "choices": {
+        "id": [
+          "Di sanalah perkemahan mereka",
+          "Pasukan besar sulit melewati tempat itu",
+          "Anak panah berasal dari sana"
+        ],
+        "fil": [
+          "Doon naroon ang kanilang kampo",
+          "Mahirap dumaan doon ang malaking hukbo",
+          "Doon nagmula ang mga palaso"
+        ]
+      },
+      "speech": {
+        "fil": "Bakit nila pinili ang makitid na lagusan?"
+      }
+    },
+    {
+      "id": "book2-story-03-the-battle-of-thermopylae-q3",
+      "type": "MULTIPLE_CHOICE",
+      "prompt": {
+        "id": "Bagaimana akhir pertempuran itu?",
+        "fil": "Ano ang wakas ng labanan?"
+      },
+      "choices": {
+        "id": [
+          "Orang Persia melarikan diri",
+          "Pemimpin ditangkap, tetapi yang lain pulang",
+          "Pemimpin dan seluruh prajurit Sparta tewas"
+        ],
+        "fil": [
+          "Nagsitakas ang mga Persian",
+          "Nabihag ang pinuno ngunit nakauwi ang iba",
+          "Napatay ang pinuno at lahat ng Spartan"
+        ]
+      },
+      "speech": {
+        "fil": "Ano ang wakas ng labanan?"
+      }
+    }
+  ],
+  "answers": [
+    {
+      "questionId": "book2-story-03-the-battle-of-thermopylae-q1",
+      "answer": {
+        "id": "Tiga ratus",
+        "fil": "Tatlong daan"
+      },
+      "explanation": {
+        "id": "Pasukan pemimpin itu hanya terdiri dari tiga ratus prajurit.",
+        "fil": "Tatlong daan lamang ang mga kawal ng pinuno laban sa mas malaking hukbo."
+      }
+    },
+    {
+      "questionId": "book2-story-03-the-battle-of-thermopylae-q2",
+      "answer": {
+        "id": "Pasukan besar sulit melewati tempat itu",
+        "fil": "Mahirap dumaan doon ang malaking hukbo"
+      },
+      "explanation": {
+        "id": "Tempat sempit itu mencegah musuh mengerahkan seluruh jumlah pasukannya.",
+        "fil": "Makipot na lugar ang pumigil sa kalaban na gamitin ang buong dami nito."
+      }
+    },
+    {
+      "questionId": "book2-story-03-the-battle-of-thermopylae-q3",
+      "answer": {
+        "id": "Pemimpin dan seluruh prajurit Sparta tewas",
+        "fil": "Napatay ang pinuno at lahat ng Spartan"
+      },
+      "explanation": {
+        "id": "Musuh menemukan jalan masuk dan membunuh seluruh prajurit pemimpin itu.",
+        "fil": "Nakahanap ng daan ang kalaban at napatay ang lahat ng kawal ng pinuno."
+      }
+    }
+  ],
+  "vocabulary": [
+    {
+      "language": "fil",
+      "word": "ipagtanggol",
+      "translations": {
+        "id": "mempertahankan",
+        "fil": "ipagtanggol"
+      },
+      "meanings": {
+        "id": "mempertahankan",
+        "fil": "Ang katumbas nito sa Indonesian ay “mempertahankan”."
+      },
+      "pos": "pandiwa",
+      "pronunciation": "ipagtanggol",
+      "notes": {
+        "id": "Kata ini muncul pada paragraf 1 dalam konteks cerita.",
+        "fil": "Makikita ang salitang ito sa talata 1 ng muling pagsasalaysay."
+      }
+    },
+    {
+      "language": "fil",
+      "word": "makitid",
+      "translations": {
+        "id": "sempit",
+        "fil": "makitid"
+      },
+      "meanings": {
+        "id": "sempit",
+        "fil": "Ang katumbas nito sa Indonesian ay “sempit”."
+      },
+      "pos": "pang-uri",
+      "pronunciation": "makitid",
+      "notes": {
+        "id": "Kata ini muncul pada paragraf 1 dalam konteks cerita.",
+        "fil": "Makikita ang salitang ito sa talata 1 ng muling pagsasalaysay."
+      }
+    },
+    {
+      "language": "fil",
+      "word": "lagusan",
+      "translations": {
+        "id": "celah",
+        "fil": "lagusan"
+      },
+      "meanings": {
+        "id": "celah",
+        "fil": "Ang katumbas nito sa Indonesian ay “celah”."
+      },
+      "pos": "pangngalan",
+      "pronunciation": "lagusan",
+      "notes": {
+        "id": "Kata ini muncul pada paragraf 3 dalam konteks cerita.",
+        "fil": "Makikita ang salitang ito sa talata 3 ng muling pagsasalaysay."
+      }
+    },
+    {
+      "language": "fil",
+      "word": "hukbo",
+      "translations": {
+        "id": "pasukan",
+        "fil": "hukbo"
+      },
+      "meanings": {
+        "id": "pasukan",
+        "fil": "Ang katumbas nito sa Indonesian ay “pasukan”."
+      },
+      "pos": "pangngalan",
+      "pronunciation": "hukbo",
+      "notes": {
+        "id": "Kata ini muncul pada paragraf 2 dalam konteks cerita.",
+        "fil": "Makikita ang salitang ito sa talata 2 ng muling pagsasalaysay."
+      }
+    },
+    {
+      "language": "fil",
+      "word": "kalasag",
+      "translations": {
+        "id": "perisai",
+        "fil": "kalasag"
+      },
+      "meanings": {
+        "id": "perisai",
+        "fil": "Ang katumbas nito sa Indonesian ay “perisai”."
+      },
+      "pos": "pangngalan",
+      "pronunciation": "kalasag",
+      "notes": {
+        "id": "Kata ini muncul pada paragraf 4 dalam konteks cerita.",
+        "fil": "Makikita ang salitang ito sa talata 4 ng muling pagsasalaysay."
+      }
+    },
+    {
+      "language": "fil",
+      "word": "pagtatanggol",
+      "translations": {
+        "id": "pertahanan",
+        "fil": "pagtatanggol"
+      },
+      "meanings": {
+        "id": "pertahanan",
+        "fil": "Ang katumbas nito sa Indonesian ay “pertahanan”."
+      },
+      "pos": "pangngalan",
+      "pronunciation": "pagtatanggol",
+      "notes": {
+        "id": "Kata ini muncul pada paragraf 6 dalam konteks cerita.",
+        "fil": "Makikita ang salitang ito sa talata 6 ng muling pagsasalaysay."
+      }
+    }
+  ],
+  "assets": [
+    "assets/03-the-battle-of-thermopylae.jpg"
+  ]
+}

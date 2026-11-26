@@ -1,0 +1,325 @@
+{
+  "schemaVersion": 1,
+  "id": "book2-story-25-the-criminal",
+  "collectionId": "4000-essential-english-words-book-2",
+  "sourceOrder": 25,
+  "family": "4000-essential-english-words-book-2",
+  "category": "Pagbabagong-loob at kabutihan",
+  "level": "BEGINNER",
+  "order": 25,
+  "kind": "STORY",
+  "image": "assets/25-the-criminal.jpg",
+  "title": {
+    "id": "The criminal",
+    "fil": "The criminal"
+  },
+  "originalTitle": "The criminal",
+  "summary": {
+    "id": "Pencuri yang melarikan diri mengubah hidup setelah pemilik kabin tua memaafkan dan mendorongnya untuk berbuat baik.",
+    "fil": "Nagbagong-buhay ang tumakas na magnanakaw matapos patawarin siya ng matandang may-ari ng kubo at hikayating piliin ang kabutihan."
+  },
+  "objectives": [
+    {
+      "id": "Menelusuri sebab dan akibat dalam “The criminal”.",
+      "fil": "Sundan ang sanhi at bunga sa “The criminal”."
+    },
+    {
+      "id": "Menjelaskan tema pag-unawa at pagbabago melalui keputusan para tokoh.",
+      "fil": "Ipaliwanag ang temang pengertian dan perubahan sa pamamagitan ng mga pasiya ng mga tauhan."
+    }
+  ],
+  "sentences": [
+    {
+      "id": "Seorang pencuri dipenjara dan tidak merasa bersalah karena mengambil milik orang lain.",
+      "fil": "Nakakulong ang isang lalaking magnanakaw at hindi siya nakokonsensiya sa pagkuha ng mga gamit ng iba."
+    },
+    {
+      "id": "Suatu hari, ia melarikan diri dan menemukan kabin rapi di hutan dengan pagar di sekelilingnya.",
+      "fil": "Isang araw, nakatakas siya at nakakita ng maayos na kubo sa gubat na may bakod sa paligid."
+    },
+    {
+      "id": "Ia memakan buah dan meminum susu di dalam, tetapi membuang selusin telur karena baunya aneh.",
+      "fil": "Kinain niya ang prutas at ininom ang gatas sa loob, ngunit itinapon niya ang dosenang itlog dahil mabaho ang mga ito."
+    },
+    {
+      "id": "Ketika pemilik tua datang, lelaki itu berbohong dan mengaku sebagai polisi, tetapi orang tua itu langsung mengenalinya.",
+      "fil": "Pagdating ng matandang may-ari, nagsinungaling ang lalaki at nagsabing pulis siya, ngunit agad siyang nakilala ng matanda."
+    },
+    {
+      "id": "Lelaki itu mengaku sebagai penjahat dan menawarkan sedikit uang untuk membayar makanan yang ia ambil.",
+      "fil": "Inamin ng lalaki na kriminal siya at nag-alok ng kaunting pera upang bayaran ang kinain niya."
+    },
+    {
+      "id": "Orang tua itu menolak uang dan mengatakan tidak ada hukuman; karena kebaikannya, lelaki itu tidak pernah mencuri lagi.",
+      "fil": "Hindi tinanggap ng matanda ang pera at sinabing walang parusa; dahil sa kabaitan niya, hindi na muling nagnakaw ang lalaki."
+    }
+  ],
+  "sentenceCount": 6,
+  "speakers": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  "notes": [
+    {
+      "title": {
+        "id": "Ungkapan berguna",
+        "fil": "Mga kapaki-pakinabang na pahayag"
+      },
+      "text": {
+        "id": "“hindi tinanggap ang pera” — menolak uang; “hindi na muling nagnakaw” — tidak pernah mencuri lagi",
+        "fil": "“hindi tinanggap ang pera” — ang katumbas sa Indonesian ay “menolak uang”; “hindi na muling nagnakaw” — ang katumbas sa Indonesian ay “tidak pernah mencuri lagi”"
+      }
+    },
+    {
+      "title": {
+        "id": "Catatan tata bahasa",
+        "fil": "Tala sa gramatika"
+      },
+      "text": {
+        "id": "Tetapi menghubungkan tindakan yang berlawanan. Karena memperkenalkan alasan.",
+        "fil": "Ang ngunit ay nag-uugnay ng magkasalungat na kilos. Ang dahil sa ay nagpapakilala ng dahilan."
+      }
+    }
+  ],
+  "focus": {
+    "id": [
+      "pencuri",
+      "dipenjara",
+      "kabin",
+      "pagar",
+      "mengaku",
+      "hukuman"
+    ],
+    "fil": [
+      "magnanakaw",
+      "nakakulong",
+      "kubo",
+      "bakod",
+      "inamin",
+      "parusa"
+    ]
+  },
+  "questions": [
+    {
+      "id": "book2-story-25-the-criminal-q1",
+      "type": "MULTIPLE_CHOICE",
+      "prompt": {
+        "id": "Apa yang dimakan lelaki yang melarikan diri di kabin?",
+        "fil": "Ano ang kinain ng tumakas na lalaki sa kubo?"
+      },
+      "choices": {
+        "id": [
+          "Buah dan susu",
+          "Daging dan roti",
+          "Ikan dan nasi"
+        ],
+        "fil": [
+          "Prutas at gatas",
+          "Karne at tinapay",
+          "Isda at bigas"
+        ]
+      },
+      "speech": {
+        "fil": "Ano ang kinain ng tumakas na lalaki sa kubo?"
+      }
+    },
+    {
+      "id": "book2-story-25-the-criminal-q2",
+      "type": "MULTIPLE_CHOICE",
+      "prompt": {
+        "id": "Mengapa orang tua itu tidak memercayai lelaki itu?",
+        "fil": "Bakit hindi naniwala ang matanda sa lalaki?"
+      },
+      "choices": {
+        "id": [
+          "Ia tidak dapat berbicara",
+          "Ia tahu lelaki itu penjahat",
+          "Ia melihat lelaki itu tanpa sepatu"
+        ],
+        "fil": [
+          "Hindi siya marunong magsalita",
+          "Alam niyang kriminal ito",
+          "Nakita niyang walang sapatos"
+        ]
+      },
+      "speech": {
+        "fil": "Bakit hindi naniwala ang matanda sa lalaki?"
+      }
+    },
+    {
+      "id": "book2-story-25-the-criminal-q3",
+      "type": "MULTIPLE_CHOICE",
+      "prompt": {
+        "id": "Apa yang dilakukan lelaki itu setelah dimaafkan?",
+        "fil": "Ano ang ginawa ng lalaki matapos patawarin siya?"
+      },
+      "choices": {
+        "id": [
+          "Ia kembali ke penjara",
+          "Ia mencuri lagi",
+          "Ia tidak mencuri lagi"
+        ],
+        "fil": [
+          "Bumalik siya sa bilangguan",
+          "Nagnakaw pa siya",
+          "Hindi na siya nagnakaw"
+        ]
+      },
+      "speech": {
+        "fil": "Ano ang ginawa ng lalaki matapos patawarin siya?"
+      }
+    }
+  ],
+  "answers": [
+    {
+      "questionId": "book2-story-25-the-criminal-q1",
+      "answer": {
+        "id": "Buah dan susu",
+        "fil": "Prutas at gatas"
+      },
+      "explanation": {
+        "id": "Ia menemukan semangkuk buah dan sebotol susu di rumah itu.",
+        "fil": "Nakakita siya ng mangkok ng prutas at bote ng gatas sa bahay."
+      }
+    },
+    {
+      "questionId": "book2-story-25-the-criminal-q2",
+      "answer": {
+        "id": "Ia tahu lelaki itu penjahat",
+        "fil": "Alam niyang kriminal ito"
+      },
+      "explanation": {
+        "id": "Orang tua itu mengatakan bahwa ia tahu lawan bicaranya seorang penjahat.",
+        "fil": "Sinabi ng matanda na alam niyang kriminal ang kaniyang kausap."
+      }
+    },
+    {
+      "questionId": "book2-story-25-the-criminal-q3",
+      "answer": {
+        "id": "Ia tidak mencuri lagi",
+        "fil": "Hindi na siya nagnakaw"
+      },
+      "explanation": {
+        "id": "Lelaki itu berubah dan tidak mencuri dari siapa pun lagi.",
+        "fil": "Nagbago ang lalaki at hindi na nagnakaw kaninuman."
+      }
+    }
+  ],
+  "vocabulary": [
+    {
+      "language": "fil",
+      "word": "magnanakaw",
+      "translations": {
+        "id": "pencuri",
+        "fil": "magnanakaw"
+      },
+      "meanings": {
+        "id": "pencuri",
+        "fil": "Ang katumbas nito sa Indonesian ay “pencuri”."
+      },
+      "pos": "pangngalan",
+      "pronunciation": "magnanakaw",
+      "notes": {
+        "id": "Kata ini muncul pada paragraf 1 dalam konteks cerita.",
+        "fil": "Makikita ang salitang ito sa talata 1 ng muling pagsasalaysay."
+      }
+    },
+    {
+      "language": "fil",
+      "word": "nakakulong",
+      "translations": {
+        "id": "dipenjara",
+        "fil": "nakakulong"
+      },
+      "meanings": {
+        "id": "dipenjara",
+        "fil": "Ang katumbas nito sa Indonesian ay “dipenjara”."
+      },
+      "pos": "pandiwa",
+      "pronunciation": "nakakulong",
+      "notes": {
+        "id": "Kata ini muncul pada paragraf 1 dalam konteks cerita.",
+        "fil": "Makikita ang salitang ito sa talata 1 ng muling pagsasalaysay."
+      }
+    },
+    {
+      "language": "fil",
+      "word": "kubo",
+      "translations": {
+        "id": "kabin",
+        "fil": "kubo"
+      },
+      "meanings": {
+        "id": "kabin",
+        "fil": "Ang katumbas nito sa Indonesian ay “kabin”."
+      },
+      "pos": "pangngalan",
+      "pronunciation": "kubo",
+      "notes": {
+        "id": "Kata ini muncul pada paragraf 2 dalam konteks cerita.",
+        "fil": "Makikita ang salitang ito sa talata 2 ng muling pagsasalaysay."
+      }
+    },
+    {
+      "language": "fil",
+      "word": "bakod",
+      "translations": {
+        "id": "pagar",
+        "fil": "bakod"
+      },
+      "meanings": {
+        "id": "pagar",
+        "fil": "Ang katumbas nito sa Indonesian ay “pagar”."
+      },
+      "pos": "pangngalan",
+      "pronunciation": "bakod",
+      "notes": {
+        "id": "Kata ini muncul pada paragraf 2 dalam konteks cerita.",
+        "fil": "Makikita ang salitang ito sa talata 2 ng muling pagsasalaysay."
+      }
+    },
+    {
+      "language": "fil",
+      "word": "inamin",
+      "translations": {
+        "id": "mengaku",
+        "fil": "inamin"
+      },
+      "meanings": {
+        "id": "mengaku",
+        "fil": "Ang katumbas nito sa Indonesian ay “mengaku”."
+      },
+      "pos": "pandiwa",
+      "pronunciation": "inamin",
+      "notes": {
+        "id": "Kata ini muncul pada paragraf 5 dalam konteks cerita.",
+        "fil": "Makikita ang salitang ito sa talata 5 ng muling pagsasalaysay."
+      }
+    },
+    {
+      "language": "fil",
+      "word": "parusa",
+      "translations": {
+        "id": "hukuman",
+        "fil": "parusa"
+      },
+      "meanings": {
+        "id": "hukuman",
+        "fil": "Ang katumbas nito sa Indonesian ay “hukuman”."
+      },
+      "pos": "pangngalan",
+      "pronunciation": "parusa",
+      "notes": {
+        "id": "Kata ini muncul pada paragraf 6 dalam konteks cerita.",
+        "fil": "Makikita ang salitang ito sa talata 6 ng muling pagsasalaysay."
+      }
+    }
+  ],
+  "assets": [
+    "assets/25-the-criminal.jpg"
+  ]
+}

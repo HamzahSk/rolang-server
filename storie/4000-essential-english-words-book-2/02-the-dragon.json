@@ -1,0 +1,325 @@
+{
+  "schemaVersion": 1,
+  "id": "book2-story-02-the-dragon",
+  "collectionId": "4000-essential-english-words-book-2",
+  "sourceOrder": 2,
+  "family": "4000-essential-english-words-book-2",
+  "category": "Pakikipagsapalaran at katapangan",
+  "level": "BEGINNER",
+  "order": 2,
+  "kind": "STORY",
+  "image": "assets/02-the-dragon.jpg",
+  "title": {
+    "id": "The dragon",
+    "fil": "The dragon"
+  },
+  "originalTitle": "The dragon",
+  "summary": {
+    "id": "Seorang anak lelaki mengalahkan naga yang meneror kotanya setelah membuat pedang dari meteor dengan bantuan seorang tetua bijaksana.",
+    "fil": "Tinalo ng isang batang lalaki ang dragon na nananakot sa kaniyang bayan matapos gumawa ng tabak mula sa meteor sa tulong ng isang pantas."
+  },
+  "objectives": [
+    {
+      "id": "Menelusuri sebab dan akibat dalam “The dragon”.",
+      "fil": "Sundan ang sanhi at bunga sa “The dragon”."
+    },
+    {
+      "id": "Menjelaskan tema katapangan at paghahanda melalui keputusan para tokoh.",
+      "fil": "Ipaliwanag ang temang tapang at paghahanda sa pamamagitan ng mga pasiya ng mga tauhan."
+    }
+  ],
+  "sentences": [
+    {
+      "id": "Di sebuah kastel di pegunungan selatan yang terpencil, tinggal naga jahat yang menuntut makanan dari penduduk.",
+      "fil": "Sa isang kastilyo sa liblib na kabundukan sa timog, naninirahan ang masamang dragon na nanghihingi ng pagkain sa mga tao."
+    },
+    {
+      "id": "Ketika penduduk menolak, naga itu menyemburkan uap panas dan mengubah seorang lelaki menjadi patung batu.",
+      "fil": "Nang tumanggi ang bayan, nagbuga ito ng mainit na singaw at naging batong rebulto ang isang lalaki."
+    },
+    {
+      "id": "Seorang anak lelaki meminta nasihat tetua bijaksana di kuil; sang tetua menyuruhnya mengambil meteor yang akan jatuh di utara.",
+      "fil": "Humingi ng payo ang isang batang lalaki sa matandang pantas sa templo, na nagsabing kunin niya ang meteor na babagsak sa hilaga."
+    },
+    {
+      "id": "Sang tetua menempa pedang dari meteor dan menyuruh anak itu memakai gulma berbau busuk agar naga tak dapat menciumnya.",
+      "fil": "Gumawa ang pantas ng tabak mula sa meteor at pinayuhang magbalot ang bata ng mabahong damo upang hindi siya maamoy ng dragon."
+    },
+    {
+      "id": "Setelah perjalanan panjang, anak itu memasuki kastel dan melihat naga sedang tidur di dalam.",
+      "fil": "Pagkaraan ng mahabang paglalakbay, pumasok ang bata sa kastilyo at nakita ang dragon na natutulog sa loob."
+    },
+    {
+      "id": "Ia membunuh naga dengan pedang, lalu membawa pulang emas dan perhiasan; semua orang gembira karena kini mereka aman.",
+      "fil": "Napatay niya ito gamit ang tabak, saka iniuwi sa bayan ang ginto at alahas; natuwa ang lahat dahil ligtas na sila."
+    }
+  ],
+  "sentenceCount": 6,
+  "speakers": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  "notes": [
+    {
+      "title": {
+        "id": "Ungkapan berguna",
+        "fil": "Mga kapaki-pakinabang na pahayag"
+      },
+      "text": {
+        "id": "“humingi ng payo” — meminta nasihat; “ligtas na sila” — mereka sudah aman",
+        "fil": "“humingi ng payo” — ang katumbas sa Indonesian ay “meminta nasihat”; “ligtas na sila” — ang katumbas sa Indonesian ay “mereka sudah aman”"
+      }
+    },
+    {
+      "title": {
+        "id": "Catatan tata bahasa",
+        "fil": "Tala sa gramatika"
+      },
+      "text": {
+        "id": "Nang memperkenalkan peristiwa pemicu tindakan berikutnya. Untuk + kata kerja menyatakan tujuan.",
+        "fil": "Ipinakikita ng nang ang pangyayaring nag-udyok sa kasunod na kilos. Ginagamit ang upang + pandiwa para ipahayag ang layunin."
+      }
+    }
+  ],
+  "focus": {
+    "id": [
+      "kastel",
+      "pegunungan",
+      "uap",
+      "orang bijaksana",
+      "meteor",
+      "berbau busuk"
+    ],
+    "fil": [
+      "kastilyo",
+      "kabundukan",
+      "singaw",
+      "pantas",
+      "meteor",
+      "mabahong"
+    ]
+  },
+  "questions": [
+    {
+      "id": "book2-story-02-the-dragon-q1",
+      "type": "MULTIPLE_CHOICE",
+      "prompt": {
+        "id": "Bagaimana naga meneror kota?",
+        "fil": "Paano tinakot ng dragon ang bayan?"
+      },
+      "choices": {
+        "id": [
+          "Ia membakar pasar",
+          "Ia mengubah seorang lelaki menjadi batu dengan napas panas",
+          "Ia memenjarakan sang tetua"
+        ],
+        "fil": [
+          "Sinunog nito ang palengke",
+          "Ginawa nitong bato ang isang lalaki gamit ang mainit na hininga",
+          "Kinulong nito ang pantas"
+        ]
+      },
+      "speech": {
+        "fil": "Paano tinakot ng dragon ang bayan?"
+      }
+    },
+    {
+      "id": "book2-story-02-the-dragon-q2",
+      "type": "MULTIPLE_CHOICE",
+      "prompt": {
+        "id": "Dari mana bahan pedang anak itu berasal?",
+        "fil": "Saan nagmula ang metal ng tabak ng bata?"
+      },
+      "choices": {
+        "id": [
+          "Dari meteor",
+          "Dari kastel",
+          "Dari kuil"
+        ],
+        "fil": [
+          "Sa meteor",
+          "Sa kastilyo",
+          "Sa templo"
+        ]
+      },
+      "speech": {
+        "fil": "Saan nagmula ang metal ng tabak ng bata?"
+      }
+    },
+    {
+      "id": "book2-story-02-the-dragon-q3",
+      "type": "MULTIPLE_CHOICE",
+      "prompt": {
+        "id": "Mengapa anak itu memakai gulma berbau busuk?",
+        "fil": "Bakit nagbalot ng mabahong damo ang bata?"
+      },
+      "choices": {
+        "id": [
+          "Agar naga tidak dapat menciumnya",
+          "Agar bersembunyi di salju",
+          "Agar memanaskan pedang"
+        ],
+        "fil": [
+          "Upang hindi siya maamoy ng dragon",
+          "Upang magtago sa niyebe",
+          "Upang painitin ang tabak"
+        ]
+      },
+      "speech": {
+        "fil": "Bakit nagbalot ng mabahong damo ang bata?"
+      }
+    }
+  ],
+  "answers": [
+    {
+      "questionId": "book2-story-02-the-dragon-q1",
+      "answer": {
+        "id": "Ia mengubah seorang lelaki menjadi batu dengan napas panas",
+        "fil": "Ginawa nitong bato ang isang lalaki gamit ang mainit na hininga"
+      },
+      "explanation": {
+        "id": "Naga menyemburkan uap panas yang mengubah lelaki itu menjadi patung.",
+        "fil": "Mainit na singaw ang ibinuga ng dragon at naging rebulto ang lalaki."
+      }
+    },
+    {
+      "questionId": "book2-story-02-the-dragon-q2",
+      "answer": {
+        "id": "Dari meteor",
+        "fil": "Sa meteor"
+      },
+      "explanation": {
+        "id": "Sang tetua menggunakan meteor yang diambil dari langit utara untuk membuat pedang.",
+        "fil": "Meteor na nakuha sa hilagang langit ang ginamit ng pantas sa paggawa ng tabak."
+      }
+    },
+    {
+      "questionId": "book2-story-02-the-dragon-q3",
+      "answer": {
+        "id": "Agar naga tidak dapat menciumnya",
+        "fil": "Upang hindi siya maamoy ng dragon"
+      },
+      "explanation": {
+        "id": "Itu cara agar naga tidak dapat melacak anak itu dengan penciumannya.",
+        "fil": "Iyon ang paraan para hindi matunton ng pang-amoy ng dragon ang bata."
+      }
+    }
+  ],
+  "vocabulary": [
+    {
+      "language": "fil",
+      "word": "kastilyo",
+      "translations": {
+        "id": "kastel",
+        "fil": "kastilyo"
+      },
+      "meanings": {
+        "id": "kastel",
+        "fil": "Ang katumbas nito sa Indonesian ay “kastel”."
+      },
+      "pos": "pangngalan",
+      "pronunciation": "kastilyo",
+      "notes": {
+        "id": "Kata ini muncul pada paragraf 1 dalam konteks cerita.",
+        "fil": "Makikita ang salitang ito sa talata 1 ng muling pagsasalaysay."
+      }
+    },
+    {
+      "language": "fil",
+      "word": "kabundukan",
+      "translations": {
+        "id": "pegunungan",
+        "fil": "kabundukan"
+      },
+      "meanings": {
+        "id": "pegunungan",
+        "fil": "Ang katumbas nito sa Indonesian ay “pegunungan”."
+      },
+      "pos": "pangngalan",
+      "pronunciation": "kabundukan",
+      "notes": {
+        "id": "Kata ini muncul pada paragraf 1 dalam konteks cerita.",
+        "fil": "Makikita ang salitang ito sa talata 1 ng muling pagsasalaysay."
+      }
+    },
+    {
+      "language": "fil",
+      "word": "singaw",
+      "translations": {
+        "id": "uap",
+        "fil": "singaw"
+      },
+      "meanings": {
+        "id": "uap",
+        "fil": "Ang katumbas nito sa Indonesian ay “uap”."
+      },
+      "pos": "pangngalan",
+      "pronunciation": "singaw",
+      "notes": {
+        "id": "Kata ini muncul pada paragraf 2 dalam konteks cerita.",
+        "fil": "Makikita ang salitang ito sa talata 2 ng muling pagsasalaysay."
+      }
+    },
+    {
+      "language": "fil",
+      "word": "pantas",
+      "translations": {
+        "id": "orang bijaksana",
+        "fil": "pantas"
+      },
+      "meanings": {
+        "id": "orang bijaksana",
+        "fil": "Ang katumbas nito sa Indonesian ay “orang bijaksana”."
+      },
+      "pos": "pangngalan",
+      "pronunciation": "pantas",
+      "notes": {
+        "id": "Kata ini muncul pada paragraf 3 dalam konteks cerita.",
+        "fil": "Makikita ang salitang ito sa talata 3 ng muling pagsasalaysay."
+      }
+    },
+    {
+      "language": "fil",
+      "word": "meteor",
+      "translations": {
+        "id": "meteor",
+        "fil": "meteor"
+      },
+      "meanings": {
+        "id": "meteor",
+        "fil": "Ang katumbas nito sa Indonesian ay “meteor”."
+      },
+      "pos": "pangngalan",
+      "pronunciation": "meteor",
+      "notes": {
+        "id": "Kata ini muncul pada paragraf 3 dalam konteks cerita.",
+        "fil": "Makikita ang salitang ito sa talata 3 ng muling pagsasalaysay."
+      }
+    },
+    {
+      "language": "fil",
+      "word": "mabahong",
+      "translations": {
+        "id": "berbau busuk",
+        "fil": "mabahong"
+      },
+      "meanings": {
+        "id": "berbau busuk",
+        "fil": "Ang katumbas nito sa Indonesian ay “berbau busuk”."
+      },
+      "pos": "pang-uri",
+      "pronunciation": "mabahong",
+      "notes": {
+        "id": "Kata ini muncul pada paragraf 4 dalam konteks cerita.",
+        "fil": "Makikita ang salitang ito sa talata 4 ng muling pagsasalaysay."
+      }
+    }
+  ],
+  "assets": [
+    "assets/02-the-dragon.jpg"
+  ]
+}

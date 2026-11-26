@@ -1,0 +1,325 @@
+{
+  "schemaVersion": 1,
+  "id": "book2-story-10-blackbeard",
+  "collectionId": "4000-essential-english-words-book-2",
+  "sourceOrder": 10,
+  "family": "4000-essential-english-words-book-2",
+  "category": "Pirata at bunga ng mga pasiya",
+  "level": "BEGINNER",
+  "order": 10,
+  "kind": "STORY",
+  "image": "assets/10-blackbeard.jpg",
+  "title": {
+    "id": "Blackbeard",
+    "fil": "Blackbeard"
+  },
+  "originalTitle": "Blackbeard",
+  "summary": {
+    "id": "Blackbeard berhenti menjadi bajak laut setelah menyandera warga demi obat, tetapi angkatan laut menemukannya dan membunuhnya saat ia memancing.",
+    "fil": "Iniwan ni Blackbeard ang pamimirata matapos mang-hostage ng mga taga-bayan para sa gamot, ngunit natagpuan at napatay siya ng hukbong-dagat habang nangingisda."
+  },
+  "objectives": [
+    {
+      "id": "Menelusuri sebab dan akibat dalam “Blackbeard”.",
+      "fil": "Sundan ang sanhi at bunga sa “Blackbeard”."
+    },
+    {
+      "id": "Menjelaskan tema bunga ng nakaraan melalui keputusan para tokoh.",
+      "fil": "Ipaliwanag ang temang akibat perbuatan masa lalu sa pamamagitan ng mga pasiya ng mga tauhan."
+    }
+  ],
+  "sentences": [
+    {
+      "id": "Pada malam pertama narator bekerja di kapal bajak laut besar, ia melihat Blackbeard di tengah kabut tebal.",
+      "fil": "Noong unang gabi ng trabaho ng tagapagsalaysay sa malaking barkong pirata, nakita niya si Blackbeard sa gitna ng makapal na hamog."
+    },
+    {
+      "id": "Suatu hari, Blackbeard menyerang kapal-kapal dekat sebuah kota dan menawan beberapa warga.",
+      "fil": "Minsan, sinalakay ni Blackbeard ang mga barkong malapit sa isang bayan at dinakip ang ilang mamamayan."
+    },
+    {
+      "id": "Ia menuntut obat bagi para bajak laut yang sakit, tetapi penduduk kota marah dan ketakutan.",
+      "fil": "Humingi siya ng gamot para sa mga maysakit na pirata, ngunit galit at takot ang mga taga-bayan."
+    },
+    {
+      "id": "Mereka tetap memberikan obat karena tak punya pilihan, dan kota menawarkan hadiah bagi siapa pun yang menangkapnya.",
+      "fil": "Nagbigay rin sila ng gamot dahil wala silang magawa, at nag-alok ang bayan ng gantimpala para mahuli siya."
+    },
+    {
+      "id": "Ia tidak ingin menghadapi pengadilan, sehingga berhenti menjadi bajak laut dan menjadi nelayan.",
+      "fil": "Ayaw niyang humarap sa paglilitis kaya iniwan niya ang pagiging pirata at naging mangingisda."
+    },
+    {
+      "id": "Angkatan laut tetap menemukannya di atas perahu dan ia tewas dalam pertempuran; kisah hidupnya terus diceritakan.",
+      "fil": "Natagpuan pa rin siya ng hukbong-dagat habang nasa bangka, at namatay siya sa labanan; patuloy namang ikinukuwento ang kaniyang buhay."
+    }
+  ],
+  "sentenceCount": 6,
+  "speakers": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  "notes": [
+    {
+      "title": {
+        "id": "Ungkapan berguna",
+        "fil": "Mga kapaki-pakinabang na pahayag"
+      },
+      "text": {
+        "id": "“wala silang magawa” — mereka tidak punya pilihan; “iniwan ang pagiging pirata” — berhenti menjadi bajak laut",
+        "fil": "“wala silang magawa” — ang katumbas sa Indonesian ay “mereka tidak punya pilihan”; “iniwan ang pagiging pirata” — ang katumbas sa Indonesian ay “berhenti menjadi bajak laut”"
+      }
+    },
+    {
+      "title": {
+        "id": "Catatan tata bahasa",
+        "fil": "Tala sa gramatika"
+      },
+      "text": {
+        "id": "Sehingga menyatakan akibat dari keputusan. Saat menunjukkan tindakan yang berlangsung pada waktu yang sama.",
+        "fil": "Ginagamit ang kaya upang ilahad ang bunga ng pasiya. Ang habang ay nagpapakita ng kilos na nagaganap kasabay ng iba."
+      }
+    }
+  ],
+  "focus": {
+    "id": [
+      "kapal bajak laut",
+      "kabut",
+      "menawan",
+      "obat",
+      "hadiah",
+      "pengadilan"
+    ],
+    "fil": [
+      "barkong pirata",
+      "hamog",
+      "dinakip",
+      "gamot",
+      "gantimpala",
+      "paglilitis"
+    ]
+  },
+  "questions": [
+    {
+      "id": "book2-story-10-blackbeard-q1",
+      "type": "MULTIPLE_CHOICE",
+      "prompt": {
+        "id": "Mengapa Blackbeard meminta obat dari kota?",
+        "fil": "Bakit humingi ng gamot si Blackbeard sa bayan?"
+      },
+      "choices": {
+        "id": [
+          "Beberapa bajak laut sakit",
+          "Kapalnya rusak",
+          "Ia ingin membuka toko"
+        ],
+        "fil": [
+          "May sakit ang ilang pirata",
+          "Nasira ang kaniyang barko",
+          "Nais niyang magbukas ng tindahan"
+        ]
+      },
+      "speech": {
+        "fil": "Bakit humingi ng gamot si Blackbeard sa bayan?"
+      }
+    },
+    {
+      "id": "book2-story-10-blackbeard-q2",
+      "type": "MULTIPLE_CHOICE",
+      "prompt": {
+        "id": "Apa yang dilakukan Blackbeard setelah ada hadiah untuk menangkapnya?",
+        "fil": "Ano ang ginawa ni Blackbeard matapos magkaroon ng gantimpala sa pagdakip sa kaniya?"
+      },
+      "choices": {
+        "id": [
+          "Ia terus membajak kapal",
+          "Ia berhenti membajak kapal dan menjadi nelayan",
+          "Ia bekerja untuk kota"
+        ],
+        "fil": [
+          "Nagpatuloy siya sa pamimirata",
+          "Iniwan niya ang pamimirata at nangisda",
+          "Naglingkod siya sa bayan"
+        ]
+      },
+      "speech": {
+        "fil": "Ano ang ginawa ni Blackbeard matapos magkaroon ng gantimpala sa pagdakip sa kaniya?"
+      }
+    },
+    {
+      "id": "book2-story-10-blackbeard-q3",
+      "type": "MULTIPLE_CHOICE",
+      "prompt": {
+        "id": "Siapa yang membunuh Blackbeard?",
+        "fil": "Sino ang pumatay kay Blackbeard?"
+      },
+      "choices": {
+        "id": [
+          "Para nelayan",
+          "Penduduk kota",
+          "Angkatan laut kerajaan"
+        ],
+        "fil": [
+          "Mga mangingisda",
+          "Mga taga-bayan",
+          "Hukbong-dagat ng hari"
+        ]
+      },
+      "speech": {
+        "fil": "Sino ang pumatay kay Blackbeard?"
+      }
+    }
+  ],
+  "answers": [
+    {
+      "questionId": "book2-story-10-blackbeard-q1",
+      "answer": {
+        "id": "Beberapa bajak laut sakit",
+        "fil": "May sakit ang ilang pirata"
+      },
+      "explanation": {
+        "id": "Ia membutuhkan obat untuk awak kapal yang sakit.",
+        "fil": "Kailangan niya ng gamot para sa mga maysakit na tauhan sa barko."
+      }
+    },
+    {
+      "questionId": "book2-story-10-blackbeard-q2",
+      "answer": {
+        "id": "Ia berhenti membajak kapal dan menjadi nelayan",
+        "fil": "Iniwan niya ang pamimirata at nangisda"
+      },
+      "explanation": {
+        "id": "Ia berusaha menghindari pengadilan dengan berhenti menjadi bajak laut.",
+        "fil": "Iniwasan niya ang paglilitis sa pamamagitan ng pagtigil sa pagiging pirata."
+      }
+    },
+    {
+      "questionId": "book2-story-10-blackbeard-q3",
+      "answer": {
+        "id": "Angkatan laut kerajaan",
+        "fil": "Hukbong-dagat ng hari"
+      },
+      "explanation": {
+        "id": "Royal Navy menyerangnya ketika ia sedang memancing di perahunya.",
+        "fil": "Inatake siya ng Royal Navy habang nangingisda sa kaniyang bangka."
+      }
+    }
+  ],
+  "vocabulary": [
+    {
+      "language": "fil",
+      "word": "barkong pirata",
+      "translations": {
+        "id": "kapal bajak laut",
+        "fil": "barkong pirata"
+      },
+      "meanings": {
+        "id": "kapal bajak laut",
+        "fil": "Ang katumbas nito sa Indonesian ay “kapal bajak laut”."
+      },
+      "pos": "parirala",
+      "pronunciation": "barkong pirata",
+      "notes": {
+        "id": "Kata ini muncul pada paragraf 1 dalam konteks cerita.",
+        "fil": "Makikita ang salitang ito sa talata 1 ng muling pagsasalaysay."
+      }
+    },
+    {
+      "language": "fil",
+      "word": "hamog",
+      "translations": {
+        "id": "kabut",
+        "fil": "hamog"
+      },
+      "meanings": {
+        "id": "kabut",
+        "fil": "Ang katumbas nito sa Indonesian ay “kabut”."
+      },
+      "pos": "pangngalan",
+      "pronunciation": "hamog",
+      "notes": {
+        "id": "Kata ini muncul pada paragraf 1 dalam konteks cerita.",
+        "fil": "Makikita ang salitang ito sa talata 1 ng muling pagsasalaysay."
+      }
+    },
+    {
+      "language": "fil",
+      "word": "dinakip",
+      "translations": {
+        "id": "menawan",
+        "fil": "dinakip"
+      },
+      "meanings": {
+        "id": "menawan",
+        "fil": "Ang katumbas nito sa Indonesian ay “menawan”."
+      },
+      "pos": "pandiwa",
+      "pronunciation": "dinakip",
+      "notes": {
+        "id": "Kata ini muncul pada paragraf 2 dalam konteks cerita.",
+        "fil": "Makikita ang salitang ito sa talata 2 ng muling pagsasalaysay."
+      }
+    },
+    {
+      "language": "fil",
+      "word": "gamot",
+      "translations": {
+        "id": "obat",
+        "fil": "gamot"
+      },
+      "meanings": {
+        "id": "obat",
+        "fil": "Ang katumbas nito sa Indonesian ay “obat”."
+      },
+      "pos": "pangngalan",
+      "pronunciation": "gamot",
+      "notes": {
+        "id": "Kata ini muncul pada paragraf 3 dalam konteks cerita.",
+        "fil": "Makikita ang salitang ito sa talata 3 ng muling pagsasalaysay."
+      }
+    },
+    {
+      "language": "fil",
+      "word": "gantimpala",
+      "translations": {
+        "id": "hadiah",
+        "fil": "gantimpala"
+      },
+      "meanings": {
+        "id": "hadiah",
+        "fil": "Ang katumbas nito sa Indonesian ay “hadiah”."
+      },
+      "pos": "pangngalan",
+      "pronunciation": "gantimpala",
+      "notes": {
+        "id": "Kata ini muncul pada paragraf 4 dalam konteks cerita.",
+        "fil": "Makikita ang salitang ito sa talata 4 ng muling pagsasalaysay."
+      }
+    },
+    {
+      "language": "fil",
+      "word": "paglilitis",
+      "translations": {
+        "id": "pengadilan",
+        "fil": "paglilitis"
+      },
+      "meanings": {
+        "id": "pengadilan",
+        "fil": "Ang katumbas nito sa Indonesian ay “pengadilan”."
+      },
+      "pos": "pangngalan",
+      "pronunciation": "paglilitis",
+      "notes": {
+        "id": "Kata ini muncul pada paragraf 5 dalam konteks cerita.",
+        "fil": "Makikita ang salitang ito sa talata 5 ng muling pagsasalaysay."
+      }
+    }
+  ],
+  "assets": [
+    "assets/10-blackbeard.jpg"
+  ]
+}

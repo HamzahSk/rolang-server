@@ -1,0 +1,325 @@
+{
+  "schemaVersion": 1,
+  "id": "book2-story-30-the-taxi-driver",
+  "collectionId": "4000-essential-english-words-book-2",
+  "sourceOrder": 30,
+  "family": "4000-essential-english-words-book-2",
+  "category": "Katapatan at bagong pagkakataon",
+  "level": "BEGINNER",
+  "order": 30,
+  "kind": "STORY",
+  "image": "assets/30-the-taxi-driver.jpg",
+  "title": {
+    "id": "The taxi driver",
+    "fil": "The taxi driver"
+  },
+  "originalTitle": "The taxi driver",
+  "summary": {
+    "id": "Peter meminjamkan ongkos kepada penumpang kasar yang kehilangan dompet; pemilik bank kagum pada kejujurannya dan menawarkan pekerjaan.",
+    "fil": "Pinahiram ni Peter ng pamasahe ang masungit na pasahero nang mawala ang pitaka nito; namangha ang may-ari ng bangko sa katapatan niya at inalok siya ng trabaho."
+  },
+  "objectives": [
+    {
+      "id": "Menelusuri sebab dan akibat dalam “The taxi driver”.",
+      "fil": "Sundan ang sanhi at bunga sa “The taxi driver”."
+    },
+    {
+      "id": "Menjelaskan tema katapatan at kabaitan melalui keputusan para tokoh.",
+      "fil": "Ipaliwanag ang temang kejujuran dan kebaikan sa pamamagitan ng mga pasiya ng mga tauhan."
+    }
+  ],
+  "sentences": [
+    {
+      "id": "Gaji Peter sebagai sopir taksi di pusat kota kecil, tetapi ia menyukai pekerjaan yang tidak membosankan.",
+      "fil": "Maliit ang suweldo ni Peter bilang drayber ng taksi sa sentro ng lungsod, ngunit gusto niya ang trabahong hindi nakababagot."
+    },
+    {
+      "id": "Ia berharap memperoleh beasiswa kuliah dan belajar matematika agar dapat bekerja di bank.",
+      "fil": "Umaasa siyang makakuha ng scholarship sa kolehiyo at matuto ng matematika upang makapagtrabaho sa bangko."
+    },
+    {
+      "id": "Suatu hari, ia menaikkan penumpang kasar yang menyuruhnya pergi ke Fourth Street Bank.",
+      "fil": "Isang araw, pinasakay niya ang pasaherong masungit na nag-utos na dalhin siya sa Fourth Street Bank."
+    },
+    {
+      "id": "Setibanya di sana, ongkosnya sepuluh dolar dua puluh lima sen, tetapi lelaki itu tidak menemukan dompetnya.",
+      "fil": "Pagdating nila, sampung dolyar at dalawampu't limang sentimo ang pamasahe, ngunit hindi mahanap ng lalaki ang pitaka niya."
+    },
+    {
+      "id": "Meski kesal dengan sikapnya, Peter meminjamkan jumlah yang tepat agar penumpang itu dapat pulang.",
+      "fil": "Kahit galit sa asal nito, pinautang ni Peter ang eksaktong halaga upang makauwi ang pasahero."
+    },
+    {
+      "id": "Lelaki itu mengaku sebagai pendiri bank dan menawarkan pekerjaan kepada Peter karena ia jujur.",
+      "fil": "Ipinagtapat ng lalaki na siya ang nagtatag ng bangko at inalok si Peter ng trabaho dahil tapat ito."
+    }
+  ],
+  "sentenceCount": 6,
+  "speakers": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  "notes": [
+    {
+      "title": {
+        "id": "Ungkapan berguna",
+        "fil": "Mga kapaki-pakinabang na pahayag"
+      },
+      "text": {
+        "id": "“kahit galit sa asal nito” — meski kesal dengan sikapnya; “dahil tapat ito” — karena ia jujur",
+        "fil": "“kahit galit sa asal nito” — ang katumbas sa Indonesian ay “meski kesal dengan sikapnya”; “dahil tapat ito” — ang katumbas sa Indonesian ay “karena ia jujur”"
+      }
+    },
+    {
+      "title": {
+        "id": "Catatan tata bahasa",
+        "fil": "Tala sa gramatika"
+      },
+      "text": {
+        "id": "Meskipun menunjukkan pertentangan dengan perasaan. Karena menghubungkan alasan dengan hasil.",
+        "fil": "Ginagamit ang kahit upang magpakita ng pagsalungat sa kabila ng damdamin. Ang dahil ay nag-uugnay ng dahilan sa resulta."
+      }
+    }
+  ],
+  "focus": {
+    "id": [
+      "gaji",
+      "beasiswa",
+      "penumpang",
+      "ongkos",
+      "meminjamkan",
+      "mendirikan"
+    ],
+    "fil": [
+      "suweldo",
+      "scholarship",
+      "pasahero",
+      "pamasahe",
+      "pinautang",
+      "nagtatag"
+    ]
+  },
+  "questions": [
+    {
+      "id": "book2-story-30-the-taxi-driver-q1",
+      "type": "MULTIPLE_CHOICE",
+      "prompt": {
+        "id": "Di mana Peter ingin bekerja suatu hari nanti?",
+        "fil": "Saan gustong makapagtrabaho ni Peter balang araw?"
+      },
+      "choices": {
+        "id": [
+          "Di bank",
+          "Di pertanian",
+          "Di istana"
+        ],
+        "fil": [
+          "Sa bangko",
+          "Sa bukid",
+          "Sa palasyo"
+        ]
+      },
+      "speech": {
+        "fil": "Saan gustong makapagtrabaho ni Peter balang araw?"
+      }
+    },
+    {
+      "id": "book2-story-30-the-taxi-driver-q2",
+      "type": "MULTIPLE_CHOICE",
+      "prompt": {
+        "id": "Berapa ongkos penumpang?",
+        "fil": "Magkano ang pamasahe ng pasahero?"
+      },
+      "choices": {
+        "id": [
+          "Sepuluh dolar dua puluh lima sen",
+          "Lima dolar",
+          "Satu dolar"
+        ],
+        "fil": [
+          "Sampung dolyar at dalawampu't limang sentimo",
+          "Limang dolyar",
+          "Isang dolyar"
+        ]
+      },
+      "speech": {
+        "fil": "Magkano ang pamasahe ng pasahero?"
+      }
+    },
+    {
+      "id": "book2-story-30-the-taxi-driver-q3",
+      "type": "MULTIPLE_CHOICE",
+      "prompt": {
+        "id": "Mengapa lelaki itu menawarkan pekerjaan kepada Peter?",
+        "fil": "Bakit inalok ng lalaki ng trabaho si Peter?"
+      },
+      "choices": {
+        "id": [
+          "Karena ia pandai menari",
+          "Karena ia jujur dan meminjamkan uang",
+          "Karena ia melupakan dompet"
+        ],
+        "fil": [
+          "Dahil mahusay siyang sumayaw",
+          "Dahil tapat siya at nagpahiram ng pera",
+          "Dahil nakalimutan niya ang pitaka"
+        ]
+      },
+      "speech": {
+        "fil": "Bakit inalok ng lalaki ng trabaho si Peter?"
+      }
+    }
+  ],
+  "answers": [
+    {
+      "questionId": "book2-story-30-the-taxi-driver-q1",
+      "answer": {
+        "id": "Di bank",
+        "fil": "Sa bangko"
+      },
+      "explanation": {
+        "id": "Peter berharap dapat belajar dan memperoleh pekerjaan di bank.",
+        "fil": "Iniisip ni Peter na makapag-aral at makakuha ng trabaho sa bangko."
+      }
+    },
+    {
+      "questionId": "book2-story-30-the-taxi-driver-q2",
+      "answer": {
+        "id": "Sepuluh dolar dua puluh lima sen",
+        "fil": "Sampung dolyar at dalawampu't limang sentimo"
+      },
+      "explanation": {
+        "id": "Ongkos perjalanan itu sepuluh dolar dua puluh lima sen.",
+        "fil": "Sampung dolyar at dalawampu't limang sentimo ang singil sa biyahe."
+      }
+    },
+    {
+      "questionId": "book2-story-30-the-taxi-driver-q3",
+      "answer": {
+        "id": "Karena ia jujur dan meminjamkan uang",
+        "fil": "Dahil tapat siya at nagpahiram ng pera"
+      },
+      "explanation": {
+        "id": "Lelaki itu melihat kejujuran dan kebaikan Peter meski ia sendiri bersikap kasar.",
+        "fil": "Nakita ng lalaki ang katapatan at kabaitan ni Peter sa kabila ng kaniyang sariling asal."
+      }
+    }
+  ],
+  "vocabulary": [
+    {
+      "language": "fil",
+      "word": "suweldo",
+      "translations": {
+        "id": "gaji",
+        "fil": "suweldo"
+      },
+      "meanings": {
+        "id": "gaji",
+        "fil": "Ang katumbas nito sa Indonesian ay “gaji”."
+      },
+      "pos": "pangngalan",
+      "pronunciation": "suweldo",
+      "notes": {
+        "id": "Kata ini muncul pada paragraf 1 dalam konteks cerita.",
+        "fil": "Makikita ang salitang ito sa talata 1 ng muling pagsasalaysay."
+      }
+    },
+    {
+      "language": "fil",
+      "word": "scholarship",
+      "translations": {
+        "id": "beasiswa",
+        "fil": "scholarship"
+      },
+      "meanings": {
+        "id": "beasiswa",
+        "fil": "Ang katumbas nito sa Indonesian ay “beasiswa”."
+      },
+      "pos": "pangngalan",
+      "pronunciation": "scholarship",
+      "notes": {
+        "id": "Kata ini muncul pada paragraf 2 dalam konteks cerita.",
+        "fil": "Makikita ang salitang ito sa talata 2 ng muling pagsasalaysay."
+      }
+    },
+    {
+      "language": "fil",
+      "word": "pasahero",
+      "translations": {
+        "id": "penumpang",
+        "fil": "pasahero"
+      },
+      "meanings": {
+        "id": "penumpang",
+        "fil": "Ang katumbas nito sa Indonesian ay “penumpang”."
+      },
+      "pos": "pangngalan",
+      "pronunciation": "pasahero",
+      "notes": {
+        "id": "Kata ini muncul pada paragraf 3 dalam konteks cerita.",
+        "fil": "Makikita ang salitang ito sa talata 3 ng muling pagsasalaysay."
+      }
+    },
+    {
+      "language": "fil",
+      "word": "pamasahe",
+      "translations": {
+        "id": "ongkos",
+        "fil": "pamasahe"
+      },
+      "meanings": {
+        "id": "ongkos",
+        "fil": "Ang katumbas nito sa Indonesian ay “ongkos”."
+      },
+      "pos": "pangngalan",
+      "pronunciation": "pamasahe",
+      "notes": {
+        "id": "Kata ini muncul pada paragraf 4 dalam konteks cerita.",
+        "fil": "Makikita ang salitang ito sa talata 4 ng muling pagsasalaysay."
+      }
+    },
+    {
+      "language": "fil",
+      "word": "pinautang",
+      "translations": {
+        "id": "meminjamkan",
+        "fil": "pinautang"
+      },
+      "meanings": {
+        "id": "meminjamkan",
+        "fil": "Ang katumbas nito sa Indonesian ay “meminjamkan”."
+      },
+      "pos": "pandiwa",
+      "pronunciation": "pinautang",
+      "notes": {
+        "id": "Kata ini muncul pada paragraf 5 dalam konteks cerita.",
+        "fil": "Makikita ang salitang ito sa talata 5 ng muling pagsasalaysay."
+      }
+    },
+    {
+      "language": "fil",
+      "word": "nagtatag",
+      "translations": {
+        "id": "mendirikan",
+        "fil": "nagtatag"
+      },
+      "meanings": {
+        "id": "mendirikan",
+        "fil": "Ang katumbas nito sa Indonesian ay “mendirikan”."
+      },
+      "pos": "pandiwa",
+      "pronunciation": "nagtatag",
+      "notes": {
+        "id": "Kata ini muncul pada paragraf 6 dalam konteks cerita.",
+        "fil": "Makikita ang salitang ito sa talata 6 ng muling pagsasalaysay."
+      }
+    }
+  ],
+  "assets": [
+    "assets/30-the-taxi-driver.jpg"
+  ]
+}

@@ -1,0 +1,325 @@
+{
+  "schemaVersion": 1,
+  "id": "book2-story-16-prince-sam",
+  "collectionId": "4000-essential-english-words-book-2",
+  "sourceOrder": 16,
+  "family": "4000-essential-english-words-book-2",
+  "category": "Pagkakakilanlan at pagbabago",
+  "level": "BEGINNER",
+  "order": 16,
+  "kind": "STORY",
+  "image": "assets/16-prince-sam.jpg",
+  "title": {
+    "id": "Prince Sam",
+    "fil": "Prince Sam"
+  },
+  "originalTitle": "Prince Sam",
+  "summary": {
+    "id": "Sam dan Pangeran Bertram bertukar peran selama seminggu dan masing-masing menyadari bahwa mereka lebih menghargai kehidupan semula.",
+    "fil": "Nagpalit ng papel sina Sam at Prinsipe Bertram sa loob ng isang linggo at kapwa natuklasang mas pinahahalagahan nila ang dati nilang buhay."
+  },
+  "objectives": [
+    {
+      "id": "Menelusuri sebab dan akibat dalam “Prince Sam”.",
+      "fil": "Sundan ang sanhi at bunga sa “Prince Sam”."
+    },
+    {
+      "id": "Menjelaskan tema pag-unawa sa buhay ng iba melalui keputusan para tokoh.",
+      "fil": "Ipaliwanag ang temang memahami kehidupan orang lain sa pamamagitan ng mga pasiya ng mga tauhan."
+    }
+  ],
+  "sentences": [
+    {
+      "id": "Sam ikut bersama ibunya yang bekerja sebagai juru masak istana, tetapi ia keluar dari dapur karena bosan.",
+      "fil": "Isinama ni Sam ang kaniyang ina na nagluluto sa palasyo, ngunit lumabas siya ng kusina dahil nababagot."
+    },
+    {
+      "id": "Ia terkejut bertemu anak yang sangat mirip dengannya dan mengetahui bahwa anak itu adalah Pangeran Bertram.",
+      "fil": "Nagulat siya nang makatagpo ng batang kamukha niya at nalaman niyang Prinsipe Bertram pala ito."
+    },
+    {
+      "id": "Pangeran memintanya bertukar kehidupan selama seminggu, dan Sam setuju meskipun merasa khawatir.",
+      "fil": "Nakiusap ang prinsipe na magpalit sila ng buhay nang isang linggo, at pumayag si Sam kahit nag-aalala siya."
+    },
+    {
+      "id": "Hari-hari Sam dipenuhi tanda tangan dokumen, dan ia kedinginan di kamar pangeran setiap malam.",
+      "fil": "Napuno ang araw ni Sam ng pagpirma sa mga dokumento, at nilamig siya sa silid ng prinsipe tuwing gabi."
+    },
+    {
+      "id": "Sementara itu, Bertram kesulitan karena tidak tahu melakukan hal-hal yang biasanya dikerjakan para pelayannya.",
+      "fil": "Samantala, nahirapan si Bertram dahil hindi niya alam gawin ang mga bagay na dati'y ginagawa ng kaniyang mga tagapaglingkod."
+    },
+    {
+      "id": "Setelah seminggu, mereka kembali ke peran masing-masing dan sama-sama lebih menikmati kehidupan semula.",
+      "fil": "Nang matapos ang isang linggo, bumalik sila sa kani-kanilang papel at kapwa mas nasiyahan sa dating pamumuhay."
+    }
+  ],
+  "sentenceCount": 6,
+  "speakers": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  "notes": [
+    {
+      "title": {
+        "id": "Ungkapan berguna",
+        "fil": "Mga kapaki-pakinabang na pahayag"
+      },
+      "text": {
+        "id": "“magpalit ng buhay” — bertukar kehidupan; “bumalik sa kani-kanilang papel” — kembali ke peran masing-masing",
+        "fil": "“magpalit ng buhay” — ang katumbas sa Indonesian ay “bertukar kehidupan”; “bumalik sa kani-kanilang papel” — ang katumbas sa Indonesian ay “kembali ke peran masing-masing”"
+      }
+    },
+    {
+      "title": {
+        "id": "Catatan tata bahasa",
+        "fil": "Tala sa gramatika"
+      },
+      "text": {
+        "id": "Meskipun memperkenalkan pertentangan. Setelah seminggu menghubungkan akhir suatu masa dengan tindakan selanjutnya.",
+        "fil": "Ang kahit ay nagpapakilala ng pagsalungat. Ang nang matapos ang isang linggo ay nag-uugnay ng pagtatapos sa sumunod na kilos."
+      }
+    }
+  ],
+  "focus": {
+    "id": [
+      "istana",
+      "mirip",
+      "bertukar",
+      "dokumen",
+      "kedinginan",
+      "pelayan"
+    ],
+    "fil": [
+      "palasyo",
+      "kamukha",
+      "magpalit",
+      "dokumento",
+      "nilamig",
+      "tagapaglingkod"
+    ]
+  },
+  "questions": [
+    {
+      "id": "book2-story-16-prince-sam-q1",
+      "type": "MULTIPLE_CHOICE",
+      "prompt": {
+        "id": "Siapa Bertram?",
+        "fil": "Sino si Bertram?"
+      },
+      "choices": {
+        "id": [
+          "Anak juru masak",
+          "Pangeran",
+          "Saudara Sam"
+        ],
+        "fil": [
+          "Anak ng kusinero",
+          "Prinsipe",
+          "Kapatid ni Sam"
+        ]
+      },
+      "speech": {
+        "fil": "Sino si Bertram?"
+      }
+    },
+    {
+      "id": "book2-story-16-prince-sam-q2",
+      "type": "MULTIPLE_CHOICE",
+      "prompt": {
+        "id": "Apa yang sulit bagi Sam di istana?",
+        "fil": "Ano ang naging mahirap para kay Sam sa palasyo?"
+      },
+      "choices": {
+        "id": [
+          "Menandatangani dokumen dan kamar yang dingin",
+          "Mencari ibunya",
+          "Berlari ke bukit"
+        ],
+        "fil": [
+          "Pagpirma ng dokumento at malamig na silid",
+          "Paghahanap ng kaniyang ina",
+          "Pagtakbo sa burol"
+        ]
+      },
+      "speech": {
+        "fil": "Ano ang naging mahirap para kay Sam sa palasyo?"
+      }
+    },
+    {
+      "id": "book2-story-16-prince-sam-q3",
+      "type": "MULTIPLE_CHOICE",
+      "prompt": {
+        "id": "Apa yang dipelajari kedua anak dari pertukaran itu?",
+        "fil": "Ano ang natutuhan ng dalawang bata sa pagpapalit?"
+      },
+      "choices": {
+        "id": [
+          "Lebih menyenangkan tinggal di kerajaan lain",
+          "Pelayan tidak diperlukan",
+          "Mereka lebih menghargai kehidupan semula"
+        ],
+        "fil": [
+          "Mas masaya ang mamuhay sa ibang kaharian",
+          "Hindi kailangan ang mga tagapaglingkod",
+          "Mas napahalagahan nila ang dati nilang buhay"
+        ]
+      },
+      "speech": {
+        "fil": "Ano ang natutuhan ng dalawang bata sa pagpapalit?"
+      }
+    }
+  ],
+  "answers": [
+    {
+      "questionId": "book2-story-16-prince-sam-q1",
+      "answer": {
+        "id": "Pangeran",
+        "fil": "Prinsipe"
+      },
+      "explanation": {
+        "id": "Bertram memperkenalkan diri sebagai pangeran setelah Sam terkejut melihat kemiripan mereka.",
+        "fil": "Nagpakilala si Bertram bilang prinsipe matapos magulat si Sam sa pagkakahawig nila."
+      }
+    },
+    {
+      "questionId": "book2-story-16-prince-sam-q2",
+      "answer": {
+        "id": "Menandatangani dokumen dan kamar yang dingin",
+        "fil": "Pagpirma ng dokumento at malamig na silid"
+      },
+      "explanation": {
+        "id": "Sam menandatangani banyak dokumen dan kedinginan di kamar pangeran.",
+        "fil": "Maraming dokumento ang pinirmahan ni Sam at nilamig siya sa silid ng prinsipe."
+      }
+    },
+    {
+      "questionId": "book2-story-16-prince-sam-q3",
+      "answer": {
+        "id": "Mereka lebih menghargai kehidupan semula",
+        "fil": "Mas napahalagahan nila ang dati nilang buhay"
+      },
+      "explanation": {
+        "id": "Mereka melihat kesulitan dalam kehidupan satu sama lain dan lebih menyukai keadaan mereka sendiri.",
+        "fil": "Nakita nila ang hirap sa buhay ng isa't isa at kapwa mas nagustuhan ang sarili nilang kalagayan."
+      }
+    }
+  ],
+  "vocabulary": [
+    {
+      "language": "fil",
+      "word": "palasyo",
+      "translations": {
+        "id": "istana",
+        "fil": "palasyo"
+      },
+      "meanings": {
+        "id": "istana",
+        "fil": "Ang katumbas nito sa Indonesian ay “istana”."
+      },
+      "pos": "pangngalan",
+      "pronunciation": "palasyo",
+      "notes": {
+        "id": "Kata ini muncul pada paragraf 1 dalam konteks cerita.",
+        "fil": "Makikita ang salitang ito sa talata 1 ng muling pagsasalaysay."
+      }
+    },
+    {
+      "language": "fil",
+      "word": "kamukha",
+      "translations": {
+        "id": "mirip",
+        "fil": "kamukha"
+      },
+      "meanings": {
+        "id": "mirip",
+        "fil": "Ang katumbas nito sa Indonesian ay “mirip”."
+      },
+      "pos": "pang-uri",
+      "pronunciation": "kamukha",
+      "notes": {
+        "id": "Kata ini muncul pada paragraf 2 dalam konteks cerita.",
+        "fil": "Makikita ang salitang ito sa talata 2 ng muling pagsasalaysay."
+      }
+    },
+    {
+      "language": "fil",
+      "word": "magpalit",
+      "translations": {
+        "id": "bertukar",
+        "fil": "magpalit"
+      },
+      "meanings": {
+        "id": "bertukar",
+        "fil": "Ang katumbas nito sa Indonesian ay “bertukar”."
+      },
+      "pos": "pandiwa",
+      "pronunciation": "magpalit",
+      "notes": {
+        "id": "Kata ini muncul pada paragraf 3 dalam konteks cerita.",
+        "fil": "Makikita ang salitang ito sa talata 3 ng muling pagsasalaysay."
+      }
+    },
+    {
+      "language": "fil",
+      "word": "dokumento",
+      "translations": {
+        "id": "dokumen",
+        "fil": "dokumento"
+      },
+      "meanings": {
+        "id": "dokumen",
+        "fil": "Ang katumbas nito sa Indonesian ay “dokumen”."
+      },
+      "pos": "pangngalan",
+      "pronunciation": "dokumento",
+      "notes": {
+        "id": "Kata ini muncul pada paragraf 4 dalam konteks cerita.",
+        "fil": "Makikita ang salitang ito sa talata 4 ng muling pagsasalaysay."
+      }
+    },
+    {
+      "language": "fil",
+      "word": "nilamig",
+      "translations": {
+        "id": "kedinginan",
+        "fil": "nilamig"
+      },
+      "meanings": {
+        "id": "kedinginan",
+        "fil": "Ang katumbas nito sa Indonesian ay “kedinginan”."
+      },
+      "pos": "pandiwa",
+      "pronunciation": "nilamig",
+      "notes": {
+        "id": "Kata ini muncul pada paragraf 4 dalam konteks cerita.",
+        "fil": "Makikita ang salitang ito sa talata 4 ng muling pagsasalaysay."
+      }
+    },
+    {
+      "language": "fil",
+      "word": "tagapaglingkod",
+      "translations": {
+        "id": "pelayan",
+        "fil": "tagapaglingkod"
+      },
+      "meanings": {
+        "id": "pelayan",
+        "fil": "Ang katumbas nito sa Indonesian ay “pelayan”."
+      },
+      "pos": "pangngalan",
+      "pronunciation": "tagapaglingkod",
+      "notes": {
+        "id": "Kata ini muncul pada paragraf 5 dalam konteks cerita.",
+        "fil": "Makikita ang salitang ito sa talata 5 ng muling pagsasalaysay."
+      }
+    }
+  ],
+  "assets": [
+    "assets/16-prince-sam.jpg"
+  ]
+}

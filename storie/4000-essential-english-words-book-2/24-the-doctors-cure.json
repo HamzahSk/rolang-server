@@ -1,0 +1,325 @@
+{
+  "schemaVersion": 1,
+  "id": "book2-story-24-the-doctors-cure",
+  "collectionId": "4000-essential-english-words-book-2",
+  "sourceOrder": 24,
+  "family": "4000-essential-english-words-book-2",
+  "category": "Pamilya at pagpapahalaga sa buhay",
+  "level": "BEGINNER",
+  "order": 24,
+  "kind": "STORY",
+  "image": "assets/24-the-doctors-cure.jpg",
+  "title": {
+    "id": "The doctor’s cure",
+    "fil": "The doctor’s cure"
+  },
+  "originalTitle": "The doctor’s cure",
+  "summary": {
+    "id": "Saat pulih di rumah sakit, dokter yang sibuk menyadari bahwa ia mengabaikan putranya, lalu memutuskan beristirahat dan menghabiskan waktu bersama.",
+    "fil": "Habang nagpapagaling sa ospital, napagtanto ng abalang doktor na napabayaan niya ang anak at nagpasiyang magpahinga at makasama ito."
+  },
+  "objectives": [
+    {
+      "id": "Menelusuri sebab dan akibat dalam “The doctor’s cure”.",
+      "fil": "Sundan ang sanhi at bunga sa “The doctor’s cure”."
+    },
+    {
+      "id": "Menjelaskan tema pamilya at oras para sa sarili melalui keputusan para tokoh.",
+      "fil": "Ipaliwanag ang temang keluarga dan waktu untuk diri sendiri sa pamamagitan ng mga pasiya ng mga tauhan."
+    }
+  ],
+  "sentences": [
+    {
+      "id": "James Fry adalah dokter sibuk yang membantu penyandang disabilitas dan menulis untuk jurnal medis.",
+      "fil": "Doktor si James Fry na abalang tumutulong sa mga taong may kapansanan sa pamamagitan ng mga operasyon at sumusulat para sa isang medikal na pahayagan."
+    },
+    {
+      "id": "Ia jarang bertemu putranya, Steve, karena selalu melakukan operasi dan memeriksa catatan pasien.",
+      "fil": "Bihira niyang makita ang anak na si Steve dahil palagi siyang nag-oopera at nag-aaral ng mga tala ng pasyente."
+    },
+    {
+      "id": "Suatu hari, ia terpeleset di lantai yang basah dan terluka saat jatuh menimpa tabung kaca yang pecah.",
+      "fil": "Isang araw, nadulas siya sa likido sa sahig at nasugatan nang bumagsak sa basag na tubong salamin."
+    },
+    {
+      "id": "Steve mengunjunginya di rumah sakit, mengusulkan menonton film, dan meninggalkan bacaan fiksi.",
+      "fil": "Dumalaw si Steve sa ospital, nagmungkahi ng pelikula, at nag-iwan ng kuwentong kathang-isip na babasahin."
+    },
+    {
+      "id": "James kembali memperhatikan nikmatnya makanan dan kesenangan berbicara dengan putranya sambil mengunyah perlahan.",
+      "fil": "Muling napansin ni James ang sarap ng pagkain at ang saya ng pakikipag-usap sa anak habang dahan-dahang ngumunguya."
+    },
+    {
+      "id": "Ia menyesal tidak cukup meluangkan waktu untuk Steve, lalu pulang untuk beristirahat dan menonton film bersama.",
+      "fil": "Pinagsisihan niyang kulang ang panahong ibinigay niya kay Steve, kaya umuwi siyang magpapahinga at manonood sila ng pelikula."
+    }
+  ],
+  "sentenceCount": 6,
+  "speakers": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  "notes": [
+    {
+      "title": {
+        "id": "Ungkapan berguna",
+        "fil": "Mga kapaki-pakinabang na pahayag"
+      },
+      "text": {
+        "id": "“bihira niyang makita” — ia jarang bertemu; “kulang ang panahong ibinigay” — tidak cukup meluangkan waktu",
+        "fil": "“bihira niyang makita” — ang katumbas sa Indonesian ay “ia jarang bertemu”; “kulang ang panahong ibinigay” — ang katumbas sa Indonesian ay “tidak cukup meluangkan waktu”"
+      }
+    },
+    {
+      "title": {
+        "id": "Catatan tata bahasa",
+        "fil": "Tala sa gramatika"
+      },
+      "text": {
+        "id": "Karena menjelaskan sebab. Maka menunjukkan keputusan atau akibat.",
+        "fil": "Ang dahil ay nagpapaliwanag ng sanhi. Ang kaya ay nagpapakita ng naging pasiya o bunga."
+      }
+    }
+  ],
+  "focus": {
+    "id": [
+      "penyandang disabilitas",
+      "operasi",
+      "terpeleset",
+      "pecah",
+      "fiksi",
+      "menyesal"
+    ],
+    "fil": [
+      "may kapansanan",
+      "operasyon",
+      "nadulas",
+      "basag",
+      "kathang-isip",
+      "pinagsisihan"
+    ]
+  },
+  "questions": [
+    {
+      "id": "book2-story-24-the-doctors-cure-q1",
+      "type": "MULTIPLE_CHOICE",
+      "prompt": {
+        "id": "Mengapa James jarang bertemu Steve?",
+        "fil": "Bakit bihirang makita ni James si Steve?"
+      },
+      "choices": {
+        "id": [
+          "Steve tinggal di luar negeri",
+          "James sibuk bekerja",
+          "James berada di sekolah"
+        ],
+        "fil": [
+          "Nasa ibang bansa si Steve",
+          "Abala si James sa trabaho",
+          "Nasa paaralan si James"
+        ]
+      },
+      "speech": {
+        "fil": "Bakit bihirang makita ni James si Steve?"
+      }
+    },
+    {
+      "id": "book2-story-24-the-doctors-cure-q2",
+      "type": "MULTIPLE_CHOICE",
+      "prompt": {
+        "id": "Bagaimana James terluka?",
+        "fil": "Paano nasugatan si James?"
+      },
+      "choices": {
+        "id": [
+          "Ia terpeleset dan jatuh menimpa tabung pecah",
+          "Ia tertabrak mobil",
+          "Tangannya terbakar"
+        ],
+        "fil": [
+          "Nadulas siya at bumagsak sa basag na tubo",
+          "Nabangga siya ng kotse",
+          "Nasunog ang kaniyang kamay"
+        ]
+      },
+      "speech": {
+        "fil": "Paano nasugatan si James?"
+      }
+    },
+    {
+      "id": "book2-story-24-the-doctors-cure-q3",
+      "type": "MULTIPLE_CHOICE",
+      "prompt": {
+        "id": "Apa keputusan James setelah merenungkan hidupnya?",
+        "fil": "Ano ang ipinasiya ni James matapos mapag-isipan ang kaniyang buhay?"
+      },
+      "choices": {
+        "id": [
+          "Segera kembali bekerja",
+          "Pergi tanpa pamit",
+          "Beristirahat dan bersama Steve"
+        ],
+        "fil": [
+          "Bumalik agad sa operasyon",
+          "Umalis nang hindi nagpapaalam",
+          "Magpahinga at makasama si Steve"
+        ]
+      },
+      "speech": {
+        "fil": "Ano ang ipinasiya ni James matapos mapag-isipan ang kaniyang buhay?"
+      }
+    }
+  ],
+  "answers": [
+    {
+      "questionId": "book2-story-24-the-doctors-cure-q1",
+      "answer": {
+        "id": "James sibuk bekerja",
+        "fil": "Abala si James sa trabaho"
+      },
+      "explanation": {
+        "id": "James sibuk sebagai dokter dan hanya sedikit meluangkan waktu untuk putranya.",
+        "fil": "Abala si James bilang doktor at kaunti ang panahong inilalaan niya sa anak."
+      }
+    },
+    {
+      "questionId": "book2-story-24-the-doctors-cure-q2",
+      "answer": {
+        "id": "Ia terpeleset dan jatuh menimpa tabung pecah",
+        "fil": "Nadulas siya at bumagsak sa basag na tubo"
+      },
+      "explanation": {
+        "id": "Ia terpeleset di cairan dan jatuh menimpa tabung kaca yang pecah.",
+        "fil": "Nadulas siya sa likido at bumagsak sa basag na tubong salamin."
+      }
+    },
+    {
+      "questionId": "book2-story-24-the-doctors-cure-q3",
+      "answer": {
+        "id": "Beristirahat dan bersama Steve",
+        "fil": "Magpahinga at makasama si Steve"
+      },
+      "explanation": {
+        "id": "Ia memilih pulang, mandi, dan menghabiskan waktu bersama putranya.",
+        "fil": "Pinili niyang umuwi, maligo at gumugol ng panahon kasama ang anak."
+      }
+    }
+  ],
+  "vocabulary": [
+    {
+      "language": "fil",
+      "word": "may kapansanan",
+      "translations": {
+        "id": "penyandang disabilitas",
+        "fil": "may kapansanan"
+      },
+      "meanings": {
+        "id": "penyandang disabilitas",
+        "fil": "Ang katumbas nito sa Indonesian ay “penyandang disabilitas”."
+      },
+      "pos": "parirala",
+      "pronunciation": "may kapansanan",
+      "notes": {
+        "id": "Kata ini muncul pada paragraf 1 dalam konteks cerita.",
+        "fil": "Makikita ang salitang ito sa talata 1 ng muling pagsasalaysay."
+      }
+    },
+    {
+      "language": "fil",
+      "word": "operasyon",
+      "translations": {
+        "id": "operasi",
+        "fil": "operasyon"
+      },
+      "meanings": {
+        "id": "operasi",
+        "fil": "Ang katumbas nito sa Indonesian ay “operasi”."
+      },
+      "pos": "pangngalan",
+      "pronunciation": "operasyon",
+      "notes": {
+        "id": "Kata ini muncul pada paragraf 1 dalam konteks cerita.",
+        "fil": "Makikita ang salitang ito sa talata 1 ng muling pagsasalaysay."
+      }
+    },
+    {
+      "language": "fil",
+      "word": "nadulas",
+      "translations": {
+        "id": "terpeleset",
+        "fil": "nadulas"
+      },
+      "meanings": {
+        "id": "terpeleset",
+        "fil": "Ang katumbas nito sa Indonesian ay “terpeleset”."
+      },
+      "pos": "pandiwa",
+      "pronunciation": "nadulas",
+      "notes": {
+        "id": "Kata ini muncul pada paragraf 3 dalam konteks cerita.",
+        "fil": "Makikita ang salitang ito sa talata 3 ng muling pagsasalaysay."
+      }
+    },
+    {
+      "language": "fil",
+      "word": "basag",
+      "translations": {
+        "id": "pecah",
+        "fil": "basag"
+      },
+      "meanings": {
+        "id": "pecah",
+        "fil": "Ang katumbas nito sa Indonesian ay “pecah”."
+      },
+      "pos": "pang-uri",
+      "pronunciation": "basag",
+      "notes": {
+        "id": "Kata ini muncul pada paragraf 3 dalam konteks cerita.",
+        "fil": "Makikita ang salitang ito sa talata 3 ng muling pagsasalaysay."
+      }
+    },
+    {
+      "language": "fil",
+      "word": "kathang-isip",
+      "translations": {
+        "id": "fiksi",
+        "fil": "kathang-isip"
+      },
+      "meanings": {
+        "id": "fiksi",
+        "fil": "Ang katumbas nito sa Indonesian ay “fiksi”."
+      },
+      "pos": "pangngalan",
+      "pronunciation": "kathang-isip",
+      "notes": {
+        "id": "Kata ini muncul pada paragraf 4 dalam konteks cerita.",
+        "fil": "Makikita ang salitang ito sa talata 4 ng muling pagsasalaysay."
+      }
+    },
+    {
+      "language": "fil",
+      "word": "pinagsisihan",
+      "translations": {
+        "id": "menyesal",
+        "fil": "pinagsisihan"
+      },
+      "meanings": {
+        "id": "menyesal",
+        "fil": "Ang katumbas nito sa Indonesian ay “menyesal”."
+      },
+      "pos": "pandiwa",
+      "pronunciation": "pinagsisihan",
+      "notes": {
+        "id": "Kata ini muncul pada paragraf 6 dalam konteks cerita.",
+        "fil": "Makikita ang salitang ito sa talata 6 ng muling pagsasalaysay."
+      }
+    }
+  ],
+  "assets": [
+    "assets/24-the-doctors-cure.jpg"
+  ]
+}

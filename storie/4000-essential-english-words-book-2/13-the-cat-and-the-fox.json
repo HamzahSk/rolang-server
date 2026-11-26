@@ -1,0 +1,325 @@
+{
+  "schemaVersion": 1,
+  "id": "book2-story-13-the-cat-and-the-fox",
+  "collectionId": "4000-essential-english-words-book-2",
+  "sourceOrder": 13,
+  "family": "4000-essential-english-words-book-2",
+  "category": "Fabel at talino",
+  "level": "BEGINNER",
+  "order": 13,
+  "kind": "STORY",
+  "image": "assets/13-the-cat-and-the-fox.jpg",
+  "title": {
+    "id": "The cat and the fox",
+    "fil": "The cat and the fox"
+  },
+  "originalTitle": "The cat and the fox",
+  "summary": {
+    "id": "Kucing lolos dari serigala dengan memanjat pohon, sedangkan rubah tertangkap karena tak dapat memilih di antara terlalu banyak rencananya.",
+    "fil": "Nakatakas ang pusa sa mga lobo sa pamamagitan ng pag-akyat sa puno, samantalang nahuli ang soro dahil hindi makapili sa napakarami nitong plano."
+  },
+  "objectives": [
+    {
+      "id": "Menelusuri sebab dan akibat dalam “The cat and the fox”.",
+      "fil": "Sundan ang sanhi at bunga sa “The cat and the fox”."
+    },
+    {
+      "id": "Menjelaskan tema isang maaasahang plano melalui keputusan para tokoh.",
+      "fil": "Ipaliwanag ang temang satu rencana yang dapat diandalkan sa pamamagitan ng mga pasiya ng mga tauhan."
+    }
+  ],
+  "sentences": [
+    {
+      "id": "Di puncak gunung, kucing dan rubah membicarakan cara melarikan diri dari musuh.",
+      "fil": "Sa tuktok ng bundok, pinag-usapan ng pusa at soro kung paano sila makatatakas sa mga kaaway."
+    },
+    {
+      "id": "Rubah membanggakan bahwa ia punya miliaran rencana, dari membuat lubang sampai memanggil teman-temannya.",
+      "fil": "Ipinagyabang ng soro na bilyon-bilyon ang mga plano niya, mula sa pag-ukit ng butas hanggang pagtawag sa mga kaibigan."
+    },
+    {
+      "id": "Kucing hanya memiliki satu rencana dan meyakinkan rubah bahwa rencana itu selalu berhasil.",
+      "fil": "Iisa lamang ang plano ng pusa, at tiniyak niyang gumagana iyon sa bawat pagkakataon."
+    },
+    {
+      "id": "Ketika melihat sekawanan serigala, kucing segera memanjat pohon.",
+      "fil": "Nang makakita sila ng pangkat ng mga lobo, mabilis na umakyat sa puno ang pusa."
+    },
+    {
+      "id": "Rubah tidak dapat memutuskan apakah harus memanggil teman atau mencoba cara lain, sehingga ia hanya berputar-putar.",
+      "fil": "Hindi makapagpasya ang soro kung tatawag sa mga kaibigan o susubok ng ibang paraan, kaya paikot-ikot lamang siya."
+    },
+    {
+      "id": "Serigala menangkap rubah, sementara kucing aman di pohon; ternyata satu rencana baik lebih berguna daripada banyak rencana yang membingungkan.",
+      "fil": "Nahuli ng mga lobo ang soro, samantalang ligtas sa puno ang pusa; mas mabuti pala ang isang mahusay na plano kaysa maraming magulo."
+    }
+  ],
+  "sentenceCount": 6,
+  "speakers": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  "notes": [
+    {
+      "title": {
+        "id": "Ungkapan berguna",
+        "fil": "Mga kapaki-pakinabang na pahayag"
+      },
+      "text": {
+        "id": "“sa bawat pagkakataon” — setiap kali; “hindi makapagpasya” — tidak dapat memutuskan",
+        "fil": "“sa bawat pagkakataon” — ang katumbas sa Indonesian ay “setiap kali”; “hindi makapagpasya” — ang katumbas sa Indonesian ay “tidak dapat memutuskan”"
+      }
+    },
+    {
+      "title": {
+        "id": "Catatan tata bahasa",
+        "fil": "Tala sa gramatika"
+      },
+      "text": {
+        "id": "Daripada digunakan untuk membandingkan. Ketika memperkenalkan waktu dimulainya tindakan berikutnya.",
+        "fil": "Ang kaysa ay ginagamit sa paghahambing. Ang nang ay maaaring magpakilala ng oras kung kailan nagsimula ang kasunod na kilos."
+      }
+    }
+  ],
+  "focus": {
+    "id": [
+      "rubah",
+      "musuh",
+      "membanggakan",
+      "meyakinkan",
+      "memutuskan",
+      "tertangkap"
+    ],
+    "fil": [
+      "soro",
+      "kaaway",
+      "ipinagyabang",
+      "tiniyak",
+      "makapagpasya",
+      "nahuli"
+    ]
+  },
+  "questions": [
+    {
+      "id": "book2-story-13-the-cat-and-the-fox-q1",
+      "type": "MULTIPLE_CHOICE",
+      "prompt": {
+        "id": "Berapa banyak rencana yang dikatakan kucing ia miliki?",
+        "fil": "Ilang plano ang sinabi ng pusa na mayroon siya?"
+      },
+      "choices": {
+        "id": [
+          "Satu",
+          "Dua belas",
+          "Miliaran"
+        ],
+        "fil": [
+          "Isa",
+          "Dose",
+          "Bilyon-bilyon"
+        ]
+      },
+      "speech": {
+        "fil": "Ilang plano ang sinabi ng pusa na mayroon siya?"
+      }
+    },
+    {
+      "id": "book2-story-13-the-cat-and-the-fox-q2",
+      "type": "MULTIPLE_CHOICE",
+      "prompt": {
+        "id": "Bagaimana kucing lolos dari serigala?",
+        "fil": "Paano nakatakas ang pusa sa mga lobo?"
+      },
+      "choices": {
+        "id": [
+          "Berlari ke sungai",
+          "Memanjat pohon",
+          "Memanggil pasukan"
+        ],
+        "fil": [
+          "Tumakbo sa ilog",
+          "Umakyat sa puno",
+          "Tumawag ng hukbo"
+        ]
+      },
+      "speech": {
+        "fil": "Paano nakatakas ang pusa sa mga lobo?"
+      }
+    },
+    {
+      "id": "book2-story-13-the-cat-and-the-fox-q3",
+      "type": "MULTIPLE_CHOICE",
+      "prompt": {
+        "id": "Mengapa rubah tertangkap?",
+        "fil": "Bakit nahuli ang soro?"
+      },
+      "choices": {
+        "id": [
+          "Ia tidak dapat memilih rencana",
+          "Ia tertidur",
+          "Teman-temannya hilang"
+        ],
+        "fil": [
+          "Hindi siya makapili ng plano",
+          "Nakatulog siya",
+          "Nawala ang mga kaibigan niya"
+        ]
+      },
+      "speech": {
+        "fil": "Bakit nahuli ang soro?"
+      }
+    }
+  ],
+  "answers": [
+    {
+      "questionId": "book2-story-13-the-cat-and-the-fox-q1",
+      "answer": {
+        "id": "Satu",
+        "fil": "Isa"
+      },
+      "explanation": {
+        "id": "Kucing mengatakan ia hanya punya satu rencana yang selalu berhasil.",
+        "fil": "Sinabi ng pusa na iisa ang plano niya at gumagana ito."
+      }
+    },
+    {
+      "questionId": "book2-story-13-the-cat-and-the-fox-q2",
+      "answer": {
+        "id": "Memanjat pohon",
+        "fil": "Umakyat sa puno"
+      },
+      "explanation": {
+        "id": "Kucing segera memanjat pohon ketika melihat serigala.",
+        "fil": "Agad na umakyat sa puno ang pusa nang makita ang mga lobo."
+      }
+    },
+    {
+      "questionId": "book2-story-13-the-cat-and-the-fox-q3",
+      "answer": {
+        "id": "Ia tidak dapat memilih rencana",
+        "fil": "Hindi siya makapili ng plano"
+      },
+      "explanation": {
+        "id": "Ia ragu dan memikirkan rencana mana yang harus digunakan lebih dulu.",
+        "fil": "Nag-alinlangan siya at nag-isip kung aling plano ang uunahin."
+      }
+    }
+  ],
+  "vocabulary": [
+    {
+      "language": "fil",
+      "word": "soro",
+      "translations": {
+        "id": "rubah",
+        "fil": "soro"
+      },
+      "meanings": {
+        "id": "rubah",
+        "fil": "Ang katumbas nito sa Indonesian ay “rubah”."
+      },
+      "pos": "pangngalan",
+      "pronunciation": "soro",
+      "notes": {
+        "id": "Kata ini muncul pada paragraf 1 dalam konteks cerita.",
+        "fil": "Makikita ang salitang ito sa talata 1 ng muling pagsasalaysay."
+      }
+    },
+    {
+      "language": "fil",
+      "word": "kaaway",
+      "translations": {
+        "id": "musuh",
+        "fil": "kaaway"
+      },
+      "meanings": {
+        "id": "musuh",
+        "fil": "Ang katumbas nito sa Indonesian ay “musuh”."
+      },
+      "pos": "pangngalan",
+      "pronunciation": "kaaway",
+      "notes": {
+        "id": "Kata ini muncul pada paragraf 1 dalam konteks cerita.",
+        "fil": "Makikita ang salitang ito sa talata 1 ng muling pagsasalaysay."
+      }
+    },
+    {
+      "language": "fil",
+      "word": "ipinagyabang",
+      "translations": {
+        "id": "membanggakan",
+        "fil": "ipinagyabang"
+      },
+      "meanings": {
+        "id": "membanggakan",
+        "fil": "Ang katumbas nito sa Indonesian ay “membanggakan”."
+      },
+      "pos": "pandiwa",
+      "pronunciation": "ipinagyabang",
+      "notes": {
+        "id": "Kata ini muncul pada paragraf 2 dalam konteks cerita.",
+        "fil": "Makikita ang salitang ito sa talata 2 ng muling pagsasalaysay."
+      }
+    },
+    {
+      "language": "fil",
+      "word": "tiniyak",
+      "translations": {
+        "id": "meyakinkan",
+        "fil": "tiniyak"
+      },
+      "meanings": {
+        "id": "meyakinkan",
+        "fil": "Ang katumbas nito sa Indonesian ay “meyakinkan”."
+      },
+      "pos": "pandiwa",
+      "pronunciation": "tiniyak",
+      "notes": {
+        "id": "Kata ini muncul pada paragraf 3 dalam konteks cerita.",
+        "fil": "Makikita ang salitang ito sa talata 3 ng muling pagsasalaysay."
+      }
+    },
+    {
+      "language": "fil",
+      "word": "makapagpasya",
+      "translations": {
+        "id": "memutuskan",
+        "fil": "makapagpasya"
+      },
+      "meanings": {
+        "id": "memutuskan",
+        "fil": "Ang katumbas nito sa Indonesian ay “memutuskan”."
+      },
+      "pos": "pandiwa",
+      "pronunciation": "makapagpasya",
+      "notes": {
+        "id": "Kata ini muncul pada paragraf 5 dalam konteks cerita.",
+        "fil": "Makikita ang salitang ito sa talata 5 ng muling pagsasalaysay."
+      }
+    },
+    {
+      "language": "fil",
+      "word": "nahuli",
+      "translations": {
+        "id": "tertangkap",
+        "fil": "nahuli"
+      },
+      "meanings": {
+        "id": "tertangkap",
+        "fil": "Ang katumbas nito sa Indonesian ay “tertangkap”."
+      },
+      "pos": "pandiwa",
+      "pronunciation": "nahuli",
+      "notes": {
+        "id": "Kata ini muncul pada paragraf 6 dalam konteks cerita.",
+        "fil": "Makikita ang salitang ito sa talata 6 ng muling pagsasalaysay."
+      }
+    }
+  ],
+  "assets": [
+    "assets/13-the-cat-and-the-fox.jpg"
+  ]
+}

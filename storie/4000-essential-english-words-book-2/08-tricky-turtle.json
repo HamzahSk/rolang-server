@@ -1,0 +1,325 @@
+{
+  "schemaVersion": 1,
+  "id": "book2-story-08-tricky-turtle",
+  "collectionId": "4000-essential-english-words-book-2",
+  "sourceOrder": 8,
+  "family": "4000-essential-english-words-book-2",
+  "category": "Fabel at talino",
+  "level": "BEGINNER",
+  "order": 8,
+  "kind": "STORY",
+  "image": "assets/08-tricky-turtle.jpg",
+  "title": {
+    "id": "Tricky turtle",
+    "fil": "Tricky turtle"
+  },
+  "originalTitle": "Tricky turtle",
+  "summary": {
+    "id": "Keluarga Tera mengalahkan Ricky si kelinci yang sombong dalam lomba dengan menyamar serupa di sepanjang jalur.",
+    "fil": "Natalo ng pamilya ni Tera ang mayabang na kunehong si Ricky sa karera sa pamamagitan ng pagpapanggap na magkakapareho sila sa mga palatandaan sa daan."
+  },
+  "objectives": [
+    {
+      "id": "Menelusuri sebab dan akibat dalam “Tricky turtle”.",
+      "fil": "Sundan ang sanhi at bunga sa “Tricky turtle”."
+    },
+    {
+      "id": "Menjelaskan tema pagtutulungan at panlilinlang melalui keputusan para tokoh.",
+      "fil": "Ipaliwanag ang temang kerja sama dan siasat sa pamamagitan ng mga pasiya ng mga tauhan."
+    }
+  ],
+  "sentences": [
+    {
+      "id": "Di tepi sungai, Ricky membual bahwa tak seorang pun dapat mengalahkannya dalam lomba, tetapi Tera si kura-kura menantangnya.",
+      "fil": "Sa tabi ng ilog, nagyabang si Ricky na walang makakatalo sa kaniya sa karera, ngunit hinamon siya ni Tera na pagong."
+    },
+    {
+      "id": "Tujuan mereka adalah bukit, dan Tera tahu Ricky berlari lebih cepat darinya.",
+      "fil": "Ang patutunguhan nila ay burol, at alam ni Tera na mas mabilis tumakbo si Ricky kaysa kaniya."
+    },
+    {
+      "id": "Ia mengaku kepada keluarganya bahwa ia akan berbuat curang, lalu menyuruh mereka mengenakan bulu putih yang serupa.",
+      "fil": "Inamin niya sa pamilya na mandadaya siya, saka nag-utos na magsuot silang lahat ng magkakatulad na puting balahibo."
+    },
+    {
+      "id": "Keluarganya bersembunyi dalam bayang-bayang di sepanjang jalan dan berlari ke depan bergantian setiap Ricky mendekat.",
+      "fil": "Nagtago sa mga anino ang mga kamag-anak niya sa daan, at isa-isang tumakbo sa unahan tuwing papalapit si Ricky."
+    },
+    {
+      "id": "Ricky mengira Tera selalu berada di depan, sehingga ia menghabiskan banyak tenaga untuk mengejarnya.",
+      "fil": "Inakala ni Ricky na laging nauuna si Tera kaya ginamit niya ang napakaraming lakas sa paghabol."
+    },
+    {
+      "id": "Saat tiba di bukit, saudara Tera sudah berada di sana; keluarga kura-kura menang dan Ricky tidak menyadari siasat mereka.",
+      "fil": "Pagdating niya sa burol, naroon na ang kapatid ni Tera; nanalo ang mga pagong at hindi nahalata ni Ricky ang daya nila."
+    }
+  ],
+  "sentenceCount": 6,
+  "speakers": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  "notes": [
+    {
+      "title": {
+        "id": "Ungkapan berguna",
+        "fil": "Mga kapaki-pakinabang na pahayag"
+      },
+      "text": {
+        "id": "“walang makakatalo sa kaniya” — tak seorang pun dapat mengalahkannya; “hindi nahalata ang daya” — tidak menyadari siasatnya",
+        "fil": "“walang makakatalo sa kaniya” — ang katumbas sa Indonesian ay “tak seorang pun dapat mengalahkannya”; “hindi nahalata ang daya” — ang katumbas sa Indonesian ay “tidak menyadari siasatnya”"
+      }
+    },
+    {
+      "title": {
+        "id": "Catatan tata bahasa",
+        "fil": "Tala sa gramatika"
+      },
+      "text": {
+        "id": "Setiap kali menunjukkan kejadian berulang. Maka menghubungkan sebab dan akibat.",
+        "fil": "Ang tuwing ay nagsasaad ng paulit-ulit na pagkakataon. Ang kaya ay nag-uugnay ng sanhi at bunga."
+      }
+    }
+  ],
+  "focus": {
+    "id": [
+      "membual",
+      "tujuan",
+      "akan berbuat curang",
+      "bulu",
+      "bayang-bayang",
+      "menyadari"
+    ],
+    "fil": [
+      "nagyabang",
+      "patutunguhan",
+      "mandadaya",
+      "balahibo",
+      "anino",
+      "nahalata"
+    ]
+  },
+  "questions": [
+    {
+      "id": "book2-story-08-tricky-turtle-q1",
+      "type": "MULTIPLE_CHOICE",
+      "prompt": {
+        "id": "Di mana garis akhir lomba?",
+        "fil": "Saan ang dulo ng karera?"
+      },
+      "choices": {
+        "id": [
+          "Di bukit",
+          "Di kuil",
+          "Di tepi seberang"
+        ],
+        "fil": [
+          "Sa burol",
+          "Sa templo",
+          "Sa kabilang pampang"
+        ]
+      },
+      "speech": {
+        "fil": "Saan ang dulo ng karera?"
+      }
+    },
+    {
+      "id": "book2-story-08-tricky-turtle-q2",
+      "type": "MULTIPLE_CHOICE",
+      "prompt": {
+        "id": "Bagaimana keluarga Tera bekerja sama?",
+        "fil": "Paano nagtulungan ang pamilya ni Tera?"
+      },
+      "choices": {
+        "id": [
+          "Mereka bergantian di jalur dan menyamar sebagai Tera",
+          "Mereka menghentikan lomba",
+          "Mereka menyembunyikan makanan Ricky"
+        ],
+        "fil": [
+          "Nagpalit-palit sila ng lugar at nagpanggap na si Tera",
+          "Pinahinto nila ang karera",
+          "Nagtago sila ng pagkain ni Ricky"
+        ]
+      },
+      "speech": {
+        "fil": "Paano nagtulungan ang pamilya ni Tera?"
+      }
+    },
+    {
+      "id": "book2-story-08-tricky-turtle-q3",
+      "type": "MULTIPLE_CHOICE",
+      "prompt": {
+        "id": "Mengapa Ricky kelelahan?",
+        "fil": "Bakit napagod si Ricky?"
+      },
+      "choices": {
+        "id": [
+          "Ia berjalan terlalu jauh sebelum lomba",
+          "Ia terus mengejar anggota keluarga Tera",
+          "Sepatunya hilang"
+        ],
+        "fil": [
+          "Masyado siyang naglakad bago magsimula",
+          "Patuloy niyang hinabol ang mga kamag-anak ni Tera",
+          "Nawala ang kaniyang sapatos"
+        ]
+      },
+      "speech": {
+        "fil": "Bakit napagod si Ricky?"
+      }
+    }
+  ],
+  "answers": [
+    {
+      "questionId": "book2-story-08-tricky-turtle-q1",
+      "answer": {
+        "id": "Di bukit",
+        "fil": "Sa burol"
+      },
+      "explanation": {
+        "id": "Bukit adalah tujuan yang ditetapkan Ricky dan Tera.",
+        "fil": "Burol ang itinakdang patutunguhan nina Ricky at Tera."
+      }
+    },
+    {
+      "questionId": "book2-story-08-tricky-turtle-q2",
+      "answer": {
+        "id": "Mereka bergantian di jalur dan menyamar sebagai Tera",
+        "fil": "Nagpalit-palit sila ng lugar at nagpanggap na si Tera"
+      },
+      "explanation": {
+        "id": "Kerabat Tera tampak serupa dengan bulu putih dan menunggu di sepanjang jalur.",
+        "fil": "Nagkakawangis ang mga kamag-anak ni Tera sa puting balahibo at nag-abang sa landas."
+      }
+    },
+    {
+      "questionId": "book2-story-08-tricky-turtle-q3",
+      "answer": {
+        "id": "Ia terus mengejar anggota keluarga Tera",
+        "fil": "Patuloy niyang hinabol ang mga kamag-anak ni Tera"
+      },
+      "explanation": {
+        "id": "Ia mengira Tera selalu di depan dan menghabiskan tenaga untuk mengejarnya.",
+        "fil": "Akala niya ay laging nasa unahan si Tera kaya nag-ubos siya ng lakas sa paghabol."
+      }
+    }
+  ],
+  "vocabulary": [
+    {
+      "language": "fil",
+      "word": "nagyabang",
+      "translations": {
+        "id": "membual",
+        "fil": "nagyabang"
+      },
+      "meanings": {
+        "id": "membual",
+        "fil": "Ang katumbas nito sa Indonesian ay “membual”."
+      },
+      "pos": "pandiwa",
+      "pronunciation": "nagyabang",
+      "notes": {
+        "id": "Kata ini muncul pada paragraf 1 dalam konteks cerita.",
+        "fil": "Makikita ang salitang ito sa talata 1 ng muling pagsasalaysay."
+      }
+    },
+    {
+      "language": "fil",
+      "word": "patutunguhan",
+      "translations": {
+        "id": "tujuan",
+        "fil": "patutunguhan"
+      },
+      "meanings": {
+        "id": "tujuan",
+        "fil": "Ang katumbas nito sa Indonesian ay “tujuan”."
+      },
+      "pos": "pangngalan",
+      "pronunciation": "patutunguhan",
+      "notes": {
+        "id": "Kata ini muncul pada paragraf 2 dalam konteks cerita.",
+        "fil": "Makikita ang salitang ito sa talata 2 ng muling pagsasalaysay."
+      }
+    },
+    {
+      "language": "fil",
+      "word": "mandadaya",
+      "translations": {
+        "id": "akan berbuat curang",
+        "fil": "mandadaya"
+      },
+      "meanings": {
+        "id": "akan berbuat curang",
+        "fil": "Ang katumbas nito sa Indonesian ay “akan berbuat curang”."
+      },
+      "pos": "pandiwa",
+      "pronunciation": "mandadaya",
+      "notes": {
+        "id": "Kata ini muncul pada paragraf 3 dalam konteks cerita.",
+        "fil": "Makikita ang salitang ito sa talata 3 ng muling pagsasalaysay."
+      }
+    },
+    {
+      "language": "fil",
+      "word": "balahibo",
+      "translations": {
+        "id": "bulu",
+        "fil": "balahibo"
+      },
+      "meanings": {
+        "id": "bulu",
+        "fil": "Ang katumbas nito sa Indonesian ay “bulu”."
+      },
+      "pos": "pangngalan",
+      "pronunciation": "balahibo",
+      "notes": {
+        "id": "Kata ini muncul pada paragraf 3 dalam konteks cerita.",
+        "fil": "Makikita ang salitang ito sa talata 3 ng muling pagsasalaysay."
+      }
+    },
+    {
+      "language": "fil",
+      "word": "anino",
+      "translations": {
+        "id": "bayang-bayang",
+        "fil": "anino"
+      },
+      "meanings": {
+        "id": "bayang-bayang",
+        "fil": "Ang katumbas nito sa Indonesian ay “bayang-bayang”."
+      },
+      "pos": "pangngalan",
+      "pronunciation": "anino",
+      "notes": {
+        "id": "Kata ini muncul pada paragraf 4 dalam konteks cerita.",
+        "fil": "Makikita ang salitang ito sa talata 4 ng muling pagsasalaysay."
+      }
+    },
+    {
+      "language": "fil",
+      "word": "nahalata",
+      "translations": {
+        "id": "menyadari",
+        "fil": "nahalata"
+      },
+      "meanings": {
+        "id": "menyadari",
+        "fil": "Ang katumbas nito sa Indonesian ay “menyadari”."
+      },
+      "pos": "pandiwa",
+      "pronunciation": "nahalata",
+      "notes": {
+        "id": "Kata ini muncul pada paragraf 6 dalam konteks cerita.",
+        "fil": "Makikita ang salitang ito sa talata 6 ng muling pagsasalaysay."
+      }
+    }
+  ],
+  "assets": [
+    "assets/08-tricky-turtle.jpg"
+  ]
+}

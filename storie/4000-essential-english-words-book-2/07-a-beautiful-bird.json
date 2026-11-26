@@ -1,0 +1,325 @@
+{
+  "schemaVersion": 1,
+  "id": "book2-story-07-a-beautiful-bird",
+  "collectionId": "4000-essential-english-words-book-2",
+  "sourceOrder": 7,
+  "family": "4000-essential-english-words-book-2",
+  "category": "Pagtuklas at pagtitiyaga",
+  "level": "BEGINNER",
+  "order": 7,
+  "kind": "STORY",
+  "image": "assets/07-a-beautiful-bird.jpg",
+  "title": {
+    "id": "A beautiful bird",
+    "fil": "A beautiful bird"
+  },
+  "originalTitle": "A beautiful bird",
+  "summary": {
+    "id": "Dr. Norton membuktikan bahwa ada burung yang dapat berbicara setelah menemukannya bersama Jai di dekat gunung berapi di koloni.",
+    "fil": "Pinatunayan ni Dr. Norton na may ibong nakapagsasalita matapos itong matagpuan kasama ni Jai malapit sa bulkan sa kolonya."
+  },
+  "objectives": [
+    {
+      "id": "Menelusuri sebab dan akibat dalam “A beautiful bird”.",
+      "fil": "Sundan ang sanhi at bunga sa “A beautiful bird”."
+    },
+    {
+      "id": "Menjelaskan tema pagtitiyaga at pagtuklas melalui keputusan para tokoh.",
+      "fil": "Ipaliwanag ang temang ketekunan dan penemuan sa pamamagitan ng mga pasiya ng mga tauhan."
+    }
+  ],
+  "sentences": [
+    {
+      "id": "Dr. Norton, seorang sarjana biologi, mempelajari hewan setiap hari.",
+      "fil": "Araw-araw na nag-aaral ng mga hayop si Dr. Norton, isang iskolar ng biyolohiya."
+    },
+    {
+      "id": "Seorang pelaut dari koloni seberang laut bercerita kepadanya tentang burung yang dapat berbicara.",
+      "fil": "Ikinuwento sa kaniya ng isang mandaragat mula sa kolonya sa ibayong dagat ang tungkol sa ibong nakapagsasalita."
+    },
+    {
+      "id": "Rekan-rekannya tidak percaya, tetapi ia tetap berlayar untuk mencari bukti yang nyata.",
+      "fil": "Hindi naniwala ang mga kasamahan niya, ngunit naglayag pa rin siya upang humanap ng makatotohanang patunay."
+    },
+    {
+      "id": "Jai membantunya mencari di sekitar gunung berapi, tetapi selama berminggu-minggu mereka tidak menemukan apa pun.",
+      "fil": "Tinulungan siya ni Jai na maghanap sa paligid ng bulkan, ngunit ilang linggo silang walang makita."
+    },
+    {
+      "id": "Dalam perjalanan pulang melewati reruntuhan kuno, Dr. Norton mendengar seseorang menyapanya.",
+      "fil": "Habang pauwi at dumaraan sa mga sinaunang guho, nakarinig si Dr. Norton ng bumati sa kaniya."
+    },
+    {
+      "id": "Ia melihat burung itu, memasukkannya ke dalam sangkar, dan pulang membawa penemuan penting yang diragukan orang lain.",
+      "fil": "Nakita niya ang ibon, inilagay ito sa hawla, at umuwi dala ang mahalagang tuklas na pinagdudahan ng iba."
+    }
+  ],
+  "sentenceCount": 6,
+  "speakers": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  "notes": [
+    {
+      "title": {
+        "id": "Ungkapan berguna",
+        "fil": "Mga kapaki-pakinabang na pahayag"
+      },
+      "text": {
+        "id": "“sa ibayong dagat” — di seberang laut; “dala ang mahalagang tuklas” — membawa penemuan penting",
+        "fil": "“sa ibayong dagat” — ang katumbas sa Indonesian ay “di seberang laut”; “dala ang mahalagang tuklas” — ang katumbas sa Indonesian ay “membawa penemuan penting”"
+      }
+    },
+    {
+      "title": {
+        "id": "Catatan tata bahasa",
+        "fil": "Tala sa gramatika"
+      },
+      "text": {
+        "id": "Tetapi menghubungkan gagasan yang berlawanan. Sementara menunjukkan tindakan yang berlangsung bersamaan.",
+        "fil": "Ginagamit ang ngunit upang pag-ugnayin ang magkasalungat na ideya. Ang habang ay nagpapakita ng mga kilos na nagaganap kasabay ng isa't isa."
+      }
+    }
+  ],
+  "focus": {
+    "id": [
+      "sarjana",
+      "biologi",
+      "pelaut",
+      "rekan",
+      "gunung berapi",
+      "reruntuhan"
+    ],
+    "fil": [
+      "iskolar",
+      "biyolohiya",
+      "mandaragat",
+      "kasamahan",
+      "bulkan",
+      "guho"
+    ]
+  },
+  "questions": [
+    {
+      "id": "book2-story-07-a-beautiful-bird-q1",
+      "type": "MULTIPLE_CHOICE",
+      "prompt": {
+        "id": "Apa yang diceritakan pelaut kepada Dr. Norton?",
+        "fil": "Ano ang ibinalita ng mandaragat kay Dr. Norton?"
+      },
+      "choices": {
+        "id": [
+          "Ada burung yang dapat berbicara",
+          "Ada kapal hilang",
+          "Ada kuil baru"
+        ],
+        "fil": [
+          "May ibong nakapagsasalita",
+          "May nawawalang barko",
+          "May bagong templo"
+        ]
+      },
+      "speech": {
+        "fil": "Ano ang ibinalita ng mandaragat kay Dr. Norton?"
+      }
+    },
+    {
+      "id": "book2-story-07-a-beautiful-bird-q2",
+      "type": "MULTIPLE_CHOICE",
+      "prompt": {
+        "id": "Siapa yang memandu Dr. Norton di koloni?",
+        "fil": "Sino ang gumabay kay Dr. Norton sa kolonya?"
+      },
+      "choices": {
+        "id": [
+          "Pelaut itu",
+          "Jai",
+          "Seorang rekannya"
+        ],
+        "fil": [
+          "Ang mandaragat",
+          "Si Jai",
+          "Isang kasamahan"
+        ]
+      },
+      "speech": {
+        "fil": "Sino ang gumabay kay Dr. Norton sa kolonya?"
+      }
+    },
+    {
+      "id": "book2-story-07-a-beautiful-bird-q3",
+      "type": "MULTIPLE_CHOICE",
+      "prompt": {
+        "id": "Di mana ia akhirnya menemukan burung itu?",
+        "fil": "Saan niya sa wakas nakita ang ibon?"
+      },
+      "choices": {
+        "id": [
+          "Di kuil",
+          "Di kapal",
+          "Di dekat reruntuhan kuno"
+        ],
+        "fil": [
+          "Sa templo",
+          "Sa barko",
+          "Malapit sa mga sinaunang guho"
+        ]
+      },
+      "speech": {
+        "fil": "Saan niya sa wakas nakita ang ibon?"
+      }
+    }
+  ],
+  "answers": [
+    {
+      "questionId": "book2-story-07-a-beautiful-bird-q1",
+      "answer": {
+        "id": "Ada burung yang dapat berbicara",
+        "fil": "May ibong nakapagsasalita"
+      },
+      "explanation": {
+        "id": "Itulah cerita pelaut yang tidak dipercaya rekan-rekan Dr. Norton.",
+        "fil": "Iyon ang kuwento ng mandaragat na hindi pinaniwalaan ng mga kasamahan ni Dr. Norton."
+      }
+    },
+    {
+      "questionId": "book2-story-07-a-beautiful-bird-q2",
+      "answer": {
+        "id": "Jai",
+        "fil": "Si Jai"
+      },
+      "explanation": {
+        "id": "Jai berjanji membawanya ke tempat burung itu tinggal.",
+        "fil": "Si Jai ang nangakong magdadala sa kaniya sa lugar kung saan nakatira ang ibon."
+      }
+    },
+    {
+      "questionId": "book2-story-07-a-beautiful-bird-q3",
+      "answer": {
+        "id": "Di dekat reruntuhan kuno",
+        "fil": "Malapit sa mga sinaunang guho"
+      },
+      "explanation": {
+        "id": "Ia mendengar burung itu saat melewati reruntuhan tua dalam perjalanan pulang.",
+        "fil": "Narinig niya ang ibon habang dumaraan pauwi sa mga lumang guho."
+      }
+    }
+  ],
+  "vocabulary": [
+    {
+      "language": "fil",
+      "word": "iskolar",
+      "translations": {
+        "id": "sarjana",
+        "fil": "iskolar"
+      },
+      "meanings": {
+        "id": "sarjana",
+        "fil": "Ang katumbas nito sa Indonesian ay “sarjana”."
+      },
+      "pos": "pangngalan",
+      "pronunciation": "iskolar",
+      "notes": {
+        "id": "Kata ini muncul pada paragraf 1 dalam konteks cerita.",
+        "fil": "Makikita ang salitang ito sa talata 1 ng muling pagsasalaysay."
+      }
+    },
+    {
+      "language": "fil",
+      "word": "biyolohiya",
+      "translations": {
+        "id": "biologi",
+        "fil": "biyolohiya"
+      },
+      "meanings": {
+        "id": "biologi",
+        "fil": "Ang katumbas nito sa Indonesian ay “biologi”."
+      },
+      "pos": "pangngalan",
+      "pronunciation": "biyolohiya",
+      "notes": {
+        "id": "Kata ini muncul pada paragraf 1 dalam konteks cerita.",
+        "fil": "Makikita ang salitang ito sa talata 1 ng muling pagsasalaysay."
+      }
+    },
+    {
+      "language": "fil",
+      "word": "mandaragat",
+      "translations": {
+        "id": "pelaut",
+        "fil": "mandaragat"
+      },
+      "meanings": {
+        "id": "pelaut",
+        "fil": "Ang katumbas nito sa Indonesian ay “pelaut”."
+      },
+      "pos": "pangngalan",
+      "pronunciation": "mandaragat",
+      "notes": {
+        "id": "Kata ini muncul pada paragraf 2 dalam konteks cerita.",
+        "fil": "Makikita ang salitang ito sa talata 2 ng muling pagsasalaysay."
+      }
+    },
+    {
+      "language": "fil",
+      "word": "kasamahan",
+      "translations": {
+        "id": "rekan",
+        "fil": "kasamahan"
+      },
+      "meanings": {
+        "id": "rekan",
+        "fil": "Ang katumbas nito sa Indonesian ay “rekan”."
+      },
+      "pos": "pangngalan",
+      "pronunciation": "kasamahan",
+      "notes": {
+        "id": "Kata ini muncul pada paragraf 3 dalam konteks cerita.",
+        "fil": "Makikita ang salitang ito sa talata 3 ng muling pagsasalaysay."
+      }
+    },
+    {
+      "language": "fil",
+      "word": "bulkan",
+      "translations": {
+        "id": "gunung berapi",
+        "fil": "bulkan"
+      },
+      "meanings": {
+        "id": "gunung berapi",
+        "fil": "Ang katumbas nito sa Indonesian ay “gunung berapi”."
+      },
+      "pos": "pangngalan",
+      "pronunciation": "bulkan",
+      "notes": {
+        "id": "Kata ini muncul pada paragraf 4 dalam konteks cerita.",
+        "fil": "Makikita ang salitang ito sa talata 4 ng muling pagsasalaysay."
+      }
+    },
+    {
+      "language": "fil",
+      "word": "guho",
+      "translations": {
+        "id": "reruntuhan",
+        "fil": "guho"
+      },
+      "meanings": {
+        "id": "reruntuhan",
+        "fil": "Ang katumbas nito sa Indonesian ay “reruntuhan”."
+      },
+      "pos": "pangngalan",
+      "pronunciation": "guho",
+      "notes": {
+        "id": "Kata ini muncul pada paragraf 5 dalam konteks cerita.",
+        "fil": "Makikita ang salitang ito sa talata 5 ng muling pagsasalaysay."
+      }
+    }
+  ],
+  "assets": [
+    "assets/07-a-beautiful-bird.jpg"
+  ]
+}

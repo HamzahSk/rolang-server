@@ -1,0 +1,325 @@
+{
+  "schemaVersion": 1,
+  "id": "book2-story-18-the-priest",
+  "collectionId": "4000-essential-english-words-book-2",
+  "sourceOrder": 18,
+  "family": "4000-essential-english-words-book-2",
+  "category": "Kaligayahan at pagkamalikhain",
+  "level": "BEGINNER",
+  "order": 18,
+  "kind": "STORY",
+  "image": "assets/18-the-priest.jpg",
+  "title": {
+    "id": "The priest",
+    "fil": "The priest"
+  },
+  "originalTitle": "The priest",
+  "summary": {
+    "id": "Pendeta yang sedih menemukan kegembiraan melalui menggambar, menulis, berkebun, membuat selai, dan melukis.",
+    "fil": "Natuklasan ng malungkot na pari na makasusumpong siya ng saya sa pagguhit, pagsusulat, paghahalaman, paggawa ng jam at pagpipinta."
+  },
+  "objectives": [
+    {
+      "id": "Menelusuri sebab dan akibat dalam “The priest”.",
+      "fil": "Sundan ang sanhi at bunga sa “The priest”."
+    },
+    {
+      "id": "Menjelaskan tema paghahanap ng saya sa mga hilig melalui keputusan para tokoh.",
+      "fil": "Ipaliwanag ang temang menemukan kegembiraan melalui kegiatan yang disukai sa pamamagitan ng mga pasiya ng mga tauhan."
+    }
+  ],
+  "sentences": [
+    {
+      "id": "Seorang pendeta muda merasa sedih meskipun mahir dalam pekerjaannya, lalu mengunjungi sekelompok rahib tua.",
+      "fil": "Malungkot ang isang batang pari kahit mahusay siya sa kaniyang propesyon at dumalaw siya sa pangkat ng matatandang monghe."
+    },
+    {
+      "id": "Para rahib bertanya apa masalahnya, dan ia berkata tidak tahu bagaimana menjadi bahagia.",
+      "fil": "Tinanong siya ng mga monghe kung ano ang problema, at sinabi niyang hindi niya alam kung paano sumaya."
+    },
+    {
+      "id": "Salah satu rahib menasihatinya untuk menyelidiki hal-hal dalam hidup yang benar-benar ia sukai.",
+      "fil": "Pinayuhan siya ng isa sa kanila na siyasatin ang mga bagay sa buhay na talagang gusto niya."
+    },
+    {
+      "id": "Keesokan harinya, ia menggambar kartun, mulai menulis buku harian, dan menanam biji-bijian.",
+      "fil": "Kinabukasan, gumuhit siya ng mga kartun, nagsimula ng talaarawan, at nagtanim ng mga butil."
+    },
+    {
+      "id": "Ia juga membuat selai dari buah beri, menyiapkan label untuk stoples, dan mengecat langit-langit.",
+      "fil": "Gumawa rin siya ng jam mula sa mga berry, gumawa ng etiketa para sa mga garapon, at nagpinta ng kisame."
+    },
+    {
+      "id": "Pendeta itu menyadari bahwa kebahagiaan ternyata tidak sulit ditemukan ketika ia melakukan hal-hal yang disukainya.",
+      "fil": "Napagtanto ng pari na hindi pala mahirap sumaya kapag ginagawa niya ang mga bagay na kinagigiliwan niya."
+    }
+  ],
+  "sentenceCount": 6,
+  "speakers": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  "notes": [
+    {
+      "title": {
+        "id": "Ungkapan berguna",
+        "fil": "Mga kapaki-pakinabang na pahayag"
+      },
+      "text": {
+        "id": "“ano ang problema” — apa masalahnya; “mga bagay na kinagigiliwan niya” — hal-hal yang ia sukai",
+        "fil": "“ano ang problema” — ang katumbas sa Indonesian ay “apa masalahnya”; “mga bagay na kinagigiliwan niya” — ang katumbas sa Indonesian ay “hal-hal yang ia sukai”"
+      }
+    },
+    {
+      "title": {
+        "id": "Catatan tata bahasa",
+        "fil": "Tala sa gramatika"
+      },
+      "text": {
+        "id": "Meskipun menyatakan dua fakta yang berlawanan. Ketika + kata kerja memperkenalkan kondisi atau kesempatan.",
+        "fil": "Ginagamit ang kahit upang magpahayag ng magkasalungat na katotohanan. Ang kapag + pandiwa ay nagpapakilala ng kundisyon o pagkakataon."
+      }
+    }
+  ],
+  "focus": {
+    "id": [
+      "pendeta",
+      "rahib",
+      "menyelidiki",
+      "buku harian",
+      "biji-bijian",
+      "disukai"
+    ],
+    "fil": [
+      "pari",
+      "monghe",
+      "siyasatin",
+      "talaarawan",
+      "butil",
+      "kinagigiliwan"
+    ]
+  },
+  "questions": [
+    {
+      "id": "book2-story-18-the-priest-q1",
+      "type": "MULTIPLE_CHOICE",
+      "prompt": {
+        "id": "Kepada siapa pendeta meminta nasihat?",
+        "fil": "Sino ang nilapitan ng pari para humingi ng payo?"
+      },
+      "choices": {
+        "id": [
+          "Kepada para rahib",
+          "Kepada para petani",
+          "Kepada keluarganya"
+        ],
+        "fil": [
+          "Sa mga monghe",
+          "Sa mga magsasaka",
+          "Sa kaniyang pamilya"
+        ]
+      },
+      "speech": {
+        "fil": "Sino ang nilapitan ng pari para humingi ng payo?"
+      }
+    },
+    {
+      "id": "book2-story-18-the-priest-q2",
+      "type": "MULTIPLE_CHOICE",
+      "prompt": {
+        "id": "Apa nasihat para rahib?",
+        "fil": "Ano ang ipinayo ng mga monghe?"
+      },
+      "choices": {
+        "id": [
+          "Meninggalkan pekerjaannya",
+          "Mencari kegiatan yang ia sukai",
+          "Berhenti menanam"
+        ],
+        "fil": [
+          "Umalis sa propesyon",
+          "Hanapin ang mga bagay na gusto niya",
+          "Itigil ang pagtatanim"
+        ]
+      },
+      "speech": {
+        "fil": "Ano ang ipinayo ng mga monghe?"
+      }
+    },
+    {
+      "id": "book2-story-18-the-priest-q3",
+      "type": "MULTIPLE_CHOICE",
+      "prompt": {
+        "id": "Apa yang dilakukan pendeta setelah berbicara dengan para rahib?",
+        "fil": "Alin ang ginawa ng pari matapos makipag-usap sa mga monghe?"
+      },
+      "choices": {
+        "id": [
+          "Menggambar, menulis, dan menanam",
+          "Berlayar ke luar negeri",
+          "Membuka restoran"
+        ],
+        "fil": [
+          "Gumuhit, nagsulat at nagtanim",
+          "Naglayag sa ibang bansa",
+          "Nagbukas ng restawran"
+        ]
+      },
+      "speech": {
+        "fil": "Alin ang ginawa ng pari matapos makipag-usap sa mga monghe?"
+      }
+    }
+  ],
+  "answers": [
+    {
+      "questionId": "book2-story-18-the-priest-q1",
+      "answer": {
+        "id": "Kepada para rahib",
+        "fil": "Sa mga monghe"
+      },
+      "explanation": {
+        "id": "Ia mengunjungi sekelompok rahib bijaksana.",
+        "fil": "Dumalaw siya sa pangkat ng mga pantas na monghe."
+      }
+    },
+    {
+      "questionId": "book2-story-18-the-priest-q2",
+      "answer": {
+        "id": "Mencari kegiatan yang ia sukai",
+        "fil": "Hanapin ang mga bagay na gusto niya"
+      },
+      "explanation": {
+        "id": "Mereka menyuruhnya mencari tahu bagian hidup apa yang ia sukai.",
+        "fil": "Sinabi nilang siyasatin niya kung anong mga bahagi ng buhay ang minamahal niya."
+      }
+    },
+    {
+      "questionId": "book2-story-18-the-priest-q3",
+      "answer": {
+        "id": "Menggambar, menulis, dan menanam",
+        "fil": "Gumuhit, nagsulat at nagtanim"
+      },
+      "explanation": {
+        "id": "Ia mulai melakukan kegiatan kreatif dan berkebun yang disukainya.",
+        "fil": "Sinimulan niya ang mga malikhaing gawain at paghahalaman na gusto niya."
+      }
+    }
+  ],
+  "vocabulary": [
+    {
+      "language": "fil",
+      "word": "pari",
+      "translations": {
+        "id": "pendeta",
+        "fil": "pari"
+      },
+      "meanings": {
+        "id": "pendeta",
+        "fil": "Ang katumbas nito sa Indonesian ay “pendeta”."
+      },
+      "pos": "pangngalan",
+      "pronunciation": "pari",
+      "notes": {
+        "id": "Kata ini muncul pada paragraf 1 dalam konteks cerita.",
+        "fil": "Makikita ang salitang ito sa talata 1 ng muling pagsasalaysay."
+      }
+    },
+    {
+      "language": "fil",
+      "word": "monghe",
+      "translations": {
+        "id": "rahib",
+        "fil": "monghe"
+      },
+      "meanings": {
+        "id": "rahib",
+        "fil": "Ang katumbas nito sa Indonesian ay “rahib”."
+      },
+      "pos": "pangngalan",
+      "pronunciation": "monghe",
+      "notes": {
+        "id": "Kata ini muncul pada paragraf 1 dalam konteks cerita.",
+        "fil": "Makikita ang salitang ito sa talata 1 ng muling pagsasalaysay."
+      }
+    },
+    {
+      "language": "fil",
+      "word": "siyasatin",
+      "translations": {
+        "id": "menyelidiki",
+        "fil": "siyasatin"
+      },
+      "meanings": {
+        "id": "menyelidiki",
+        "fil": "Ang katumbas nito sa Indonesian ay “menyelidiki”."
+      },
+      "pos": "pandiwa",
+      "pronunciation": "siyasatin",
+      "notes": {
+        "id": "Kata ini muncul pada paragraf 3 dalam konteks cerita.",
+        "fil": "Makikita ang salitang ito sa talata 3 ng muling pagsasalaysay."
+      }
+    },
+    {
+      "language": "fil",
+      "word": "talaarawan",
+      "translations": {
+        "id": "buku harian",
+        "fil": "talaarawan"
+      },
+      "meanings": {
+        "id": "buku harian",
+        "fil": "Ang katumbas nito sa Indonesian ay “buku harian”."
+      },
+      "pos": "pangngalan",
+      "pronunciation": "talaarawan",
+      "notes": {
+        "id": "Kata ini muncul pada paragraf 4 dalam konteks cerita.",
+        "fil": "Makikita ang salitang ito sa talata 4 ng muling pagsasalaysay."
+      }
+    },
+    {
+      "language": "fil",
+      "word": "butil",
+      "translations": {
+        "id": "biji-bijian",
+        "fil": "butil"
+      },
+      "meanings": {
+        "id": "biji-bijian",
+        "fil": "Ang katumbas nito sa Indonesian ay “biji-bijian”."
+      },
+      "pos": "pangngalan",
+      "pronunciation": "butil",
+      "notes": {
+        "id": "Kata ini muncul pada paragraf 4 dalam konteks cerita.",
+        "fil": "Makikita ang salitang ito sa talata 4 ng muling pagsasalaysay."
+      }
+    },
+    {
+      "language": "fil",
+      "word": "kinagigiliwan",
+      "translations": {
+        "id": "disukai",
+        "fil": "kinagigiliwan"
+      },
+      "meanings": {
+        "id": "disukai",
+        "fil": "Ang katumbas nito sa Indonesian ay “disukai”."
+      },
+      "pos": "pandiwa",
+      "pronunciation": "kinagigiliwan",
+      "notes": {
+        "id": "Kata ini muncul pada paragraf 6 dalam konteks cerita.",
+        "fil": "Makikita ang salitang ito sa talata 6 ng muling pagsasalaysay."
+      }
+    }
+  ],
+  "assets": [
+    "assets/18-the-priest.jpg"
+  ]
+}

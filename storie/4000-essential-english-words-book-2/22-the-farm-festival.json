@@ -1,0 +1,325 @@
+{
+  "schemaVersion": 1,
+  "id": "book2-story-22-the-farm-festival",
+  "collectionId": "4000-essential-english-words-book-2",
+  "sourceOrder": 22,
+  "family": "4000-essential-english-words-book-2",
+  "category": "Pagtutulungan at pagdiriwang",
+  "level": "BEGINNER",
+  "order": 22,
+  "kind": "STORY",
+  "image": "assets/22-the-farm-festival.jpg",
+  "title": {
+    "id": "The farm festival",
+    "fil": "The farm festival"
+  },
+  "originalTitle": "The farm festival",
+  "summary": {
+    "id": "Lomba para hewan tidak berjalan lancar karena kecelakaan, pencurian, dan kebakaran, tetapi mereka menikmati festival.",
+    "fil": "Hindi natuloy nang maayos ang paligsahan ng mga hayop dahil sa aksidente, pagtatangkang magnakaw at sunog, ngunit nag-enjoy sila sa pagdiriwang."
+  },
+  "objectives": [
+    {
+      "id": "Menelusuri sebab dan akibat dalam “The farm festival”.",
+      "fil": "Sundan ang sanhi at bunga sa “The farm festival”."
+    },
+    {
+      "id": "Menjelaskan tema pagtutulungan ang mahalaga melalui keputusan para tokoh.",
+      "fil": "Ipaliwanag ang temang kerja sama lebih penting sa pamamagitan ng mga pasiya ng mga tauhan."
+    }
+  ],
+  "sentences": [
+    {
+      "id": "Para hewan mengadakan perlombaan di halaman, dengan apel sebagai hadiah bagi pemenang.",
+      "fil": "Nagdaos ng paligsahan sa bakuran ang mga hayop sa bukid, at mansanas ang gantimpala sa mananalo sa karera."
+    },
+    {
+      "id": "Lumbung dan garasi petani berjauhan, dan mereka harus memperbaiki kereta yang tidak stabil terlebih dahulu.",
+      "fil": "Malayo ang kamalig sa garahe ng magsasaka, at kinailangan munang kumpunihin ang hindi matatag na kariton."
+    },
+    {
+      "id": "Anak anjing menjatuhkan apel sehingga hewan-hewan tergelincir dan mereka membantu membersihkan.",
+      "fil": "Naitumba ng tuta ang mga mansanas kaya nadulas ang mga hayop at tumulong silang maglinis."
+    },
+    {
+      "id": "Saat lomba dimulai lagi, bebek mencoba mencuri apel dan mereka berdebat apakah ia dapat ditangkap.",
+      "fil": "Nang magsimula muli ang karera, sinubukan ng pato na nakawin ang mga mansanas at nagtalo sila tungkol sa pag-aresto rito."
+    },
+    {
+      "id": "Mereka kembali berhenti ketika alarm berbunyi karena lumbung terbakar, sehingga mereka membawa ember berisi air.",
+      "fil": "Muli silang nahinto nang tumunog ang alarma dahil may sunog sa kamalig, kaya nagdala sila ng mga timba ng tubig."
+    },
+    {
+      "id": "Wartawan menulis kisah hari itu; babi berkata bahwa bersenang-senang lebih penting daripada menang.",
+      "fil": "Isinulat ng mamamahayag ang kuwento ng araw na iyon; sinabi ng baboy na mas mahalaga ang pagsasaya kaysa panalo."
+    }
+  ],
+  "sentenceCount": 6,
+  "speakers": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  "notes": [
+    {
+      "title": {
+        "id": "Ungkapan berguna",
+        "fil": "Mga kapaki-pakinabang na pahayag"
+      },
+      "text": {
+        "id": "“muling nahinto” — kembali berhenti; “mas mahalaga ang pagsasaya” — bersenang-senang lebih penting",
+        "fil": "“muling nahinto” — ang katumbas sa Indonesian ay “kembali berhenti”; “mas mahalaga ang pagsasaya” — ang katumbas sa Indonesian ay “bersenang-senang lebih penting”"
+      }
+    },
+    {
+      "title": {
+        "id": "Catatan tata bahasa",
+        "fil": "Tala sa gramatika"
+      },
+      "text": {
+        "id": "Sehingga menunjukkan akibat suatu peristiwa. Saat dimulai kembali mengurutkan tindakan.",
+        "fil": "Ginagamit ang kaya upang ipakita ang bunga ng pangyayari. Ang nang magsimula muli ay nag-uugnay ng mga kilos ayon sa pagkakasunod-sunod."
+      }
+    }
+  ],
+  "focus": {
+    "id": [
+      "halaman",
+      "hadiah",
+      "lumbung",
+      "kereta",
+      "tergelincir",
+      "alarm"
+    ],
+    "fil": [
+      "bakuran",
+      "gantimpala",
+      "kamalig",
+      "kariton",
+      "nadulas",
+      "alarma"
+    ]
+  },
+  "questions": [
+    {
+      "id": "book2-story-22-the-farm-festival-q1",
+      "type": "MULTIPLE_CHOICE",
+      "prompt": {
+        "id": "Apa hadiah lomba?",
+        "fil": "Ano ang gantimpala sa karera?"
+      },
+      "choices": {
+        "id": [
+          "Sekantong apel",
+          "Mutiara",
+          "Perahu"
+        ],
+        "fil": [
+          "Isang supot ng mansanas",
+          "Mga perlas",
+          "Isang bangka"
+        ]
+      },
+      "speech": {
+        "fil": "Ano ang gantimpala sa karera?"
+      }
+    },
+    {
+      "id": "book2-story-22-the-farm-festival-q2",
+      "type": "MULTIPLE_CHOICE",
+      "prompt": {
+        "id": "Apa yang terjadi di lumbung sehingga lomba kembali dihentikan?",
+        "fil": "Ano ang nangyari sa kamalig na muling nagpahinto sa karera?"
+      },
+      "choices": {
+        "id": [
+          "Terjadi kebakaran",
+          "Atapnya hilang",
+          "Air banjir masuk"
+        ],
+        "fil": [
+          "May sunog",
+          "Nawalan ito ng bubong",
+          "Pumasok ang baha"
+        ]
+      },
+      "speech": {
+        "fil": "Ano ang nangyari sa kamalig na muling nagpahinto sa karera?"
+      }
+    },
+    {
+      "id": "book2-story-22-the-farm-festival-q3",
+      "type": "MULTIPLE_CHOICE",
+      "prompt": {
+        "id": "Apa yang terpenting bagi babi?",
+        "fil": "Ano ang pinakamahalaga para sa baboy?"
+      },
+      "choices": {
+        "id": [
+          "Menjadi yang pertama dalam lomba",
+          "Mendapatkan apel",
+          "Semua bersenang-senang"
+        ],
+        "fil": [
+          "Maging una sa karera",
+          "Makakuha ng mansanas",
+          "Magsaya ang lahat"
+        ]
+      },
+      "speech": {
+        "fil": "Ano ang pinakamahalaga para sa baboy?"
+      }
+    }
+  ],
+  "answers": [
+    {
+      "questionId": "book2-story-22-the-farm-festival-q1",
+      "answer": {
+        "id": "Sekantong apel",
+        "fil": "Isang supot ng mansanas"
+      },
+      "explanation": {
+        "id": "Sekantong penuh apel disediakan bagi pemenang.",
+        "fil": "Supot na puno ng mansanas ang inilaan para sa mananalo."
+      }
+    },
+    {
+      "questionId": "book2-story-22-the-farm-festival-q2",
+      "answer": {
+        "id": "Terjadi kebakaran",
+        "fil": "May sunog"
+      },
+      "explanation": {
+        "id": "Alarm berbunyi karena lumbung terbakar dan mereka perlu memadamkannya.",
+        "fil": "Tumunog ang alarma dahil nasusunog ang kamalig at kailangan nila itong apulahin."
+      }
+    },
+    {
+      "questionId": "book2-story-22-the-farm-festival-q3",
+      "answer": {
+        "id": "Semua bersenang-senang",
+        "fil": "Magsaya ang lahat"
+      },
+      "explanation": {
+        "id": "Babi mengatakan bahwa kesenangan penting meskipun perlombaan sulit.",
+        "fil": "Sinabi ng baboy na mahalaga ang kasiyahan kahit mahirap ang paligsahan."
+      }
+    }
+  ],
+  "vocabulary": [
+    {
+      "language": "fil",
+      "word": "bakuran",
+      "translations": {
+        "id": "halaman",
+        "fil": "bakuran"
+      },
+      "meanings": {
+        "id": "halaman",
+        "fil": "Ang katumbas nito sa Indonesian ay “halaman”."
+      },
+      "pos": "pangngalan",
+      "pronunciation": "bakuran",
+      "notes": {
+        "id": "Kata ini muncul pada paragraf 1 dalam konteks cerita.",
+        "fil": "Makikita ang salitang ito sa talata 1 ng muling pagsasalaysay."
+      }
+    },
+    {
+      "language": "fil",
+      "word": "gantimpala",
+      "translations": {
+        "id": "hadiah",
+        "fil": "gantimpala"
+      },
+      "meanings": {
+        "id": "hadiah",
+        "fil": "Ang katumbas nito sa Indonesian ay “hadiah”."
+      },
+      "pos": "pangngalan",
+      "pronunciation": "gantimpala",
+      "notes": {
+        "id": "Kata ini muncul pada paragraf 1 dalam konteks cerita.",
+        "fil": "Makikita ang salitang ito sa talata 1 ng muling pagsasalaysay."
+      }
+    },
+    {
+      "language": "fil",
+      "word": "kamalig",
+      "translations": {
+        "id": "lumbung",
+        "fil": "kamalig"
+      },
+      "meanings": {
+        "id": "lumbung",
+        "fil": "Ang katumbas nito sa Indonesian ay “lumbung”."
+      },
+      "pos": "pangngalan",
+      "pronunciation": "kamalig",
+      "notes": {
+        "id": "Kata ini muncul pada paragraf 2 dalam konteks cerita.",
+        "fil": "Makikita ang salitang ito sa talata 2 ng muling pagsasalaysay."
+      }
+    },
+    {
+      "language": "fil",
+      "word": "kariton",
+      "translations": {
+        "id": "kereta",
+        "fil": "kariton"
+      },
+      "meanings": {
+        "id": "kereta",
+        "fil": "Ang katumbas nito sa Indonesian ay “kereta”."
+      },
+      "pos": "pangngalan",
+      "pronunciation": "kariton",
+      "notes": {
+        "id": "Kata ini muncul pada paragraf 2 dalam konteks cerita.",
+        "fil": "Makikita ang salitang ito sa talata 2 ng muling pagsasalaysay."
+      }
+    },
+    {
+      "language": "fil",
+      "word": "nadulas",
+      "translations": {
+        "id": "tergelincir",
+        "fil": "nadulas"
+      },
+      "meanings": {
+        "id": "tergelincir",
+        "fil": "Ang katumbas nito sa Indonesian ay “tergelincir”."
+      },
+      "pos": "pandiwa",
+      "pronunciation": "nadulas",
+      "notes": {
+        "id": "Kata ini muncul pada paragraf 3 dalam konteks cerita.",
+        "fil": "Makikita ang salitang ito sa talata 3 ng muling pagsasalaysay."
+      }
+    },
+    {
+      "language": "fil",
+      "word": "alarma",
+      "translations": {
+        "id": "alarm",
+        "fil": "alarma"
+      },
+      "meanings": {
+        "id": "alarm",
+        "fil": "Ang katumbas nito sa Indonesian ay “alarm”."
+      },
+      "pos": "pangngalan",
+      "pronunciation": "alarma",
+      "notes": {
+        "id": "Kata ini muncul pada paragraf 5 dalam konteks cerita.",
+        "fil": "Makikita ang salitang ito sa talata 5 ng muling pagsasalaysay."
+      }
+    }
+  ],
+  "assets": [
+    "assets/22-the-farm-festival.jpg"
+  ]
+}

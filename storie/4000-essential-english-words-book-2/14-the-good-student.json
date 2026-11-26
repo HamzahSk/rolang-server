@@ -1,0 +1,325 @@
+{
+  "schemaVersion": 1,
+  "id": "book2-story-14-the-good-student",
+  "collectionId": "4000-essential-english-words-book-2",
+  "sourceOrder": 14,
+  "family": "4000-essential-english-words-book-2",
+  "category": "Pag-aaral at kalusugan",
+  "level": "BEGINNER",
+  "order": 14,
+  "kind": "STORY",
+  "image": "assets/14-the-good-student.jpg",
+  "title": {
+    "id": "The good student",
+    "fil": "The good student"
+  },
+  "originalTitle": "The good student",
+  "summary": {
+    "id": "Sue jatuh sakit karena belajar berlebihan dan perawat mengajarinya beristirahat demi kesehatannya.",
+    "fil": "Nanghina si Sue dahil sa sobrang pag-aaral at tinuruan siya ng nars na magpahinga upang mapangalagaan ang kaniyang kalusugan."
+  },
+  "objectives": [
+    {
+      "id": "Menelusuri sebab dan akibat dalam “The good student”.",
+      "fil": "Sundan ang sanhi at bunga sa “The good student”."
+    },
+    {
+      "id": "Menjelaskan tema pahinga at pangangalaga sa sarili melalui keputusan para tokoh.",
+      "fil": "Ipaliwanag ang temang istirahat dan menjaga diri sa pamamagitan ng mga pasiya ng mga tauhan."
+    }
+  ],
+  "sentences": [
+    {
+      "id": "Sue meninggalkan asrama pagi-pagi dengan seragam bersih dan makalah tentang rumah kaca yang sudah ia selesaikan.",
+      "fil": "Maagang umalis si Sue sa dormitoryo na malinis ang uniporme at may papel tungkol sa greenhouse na natapos niya."
+    },
+    {
+      "id": "Ia hampir tidak tidur karena juga mengerjakan tugas dan belajar untuk ujian fisika.",
+      "fil": "Halos hindi siya natulog dahil gumawa rin siya ng takdang-aralin at nag-aral para sa pagsusulit sa pisika."
+    },
+    {
+      "id": "Saat ujian, wajahnya terasa panas dan penglihatannya kabur sampai ia tidak dapat melihat selama beberapa saat.",
+      "fil": "Habang nagsusulit, uminit ang mukha niya at lumabo ang paningin hanggang hindi siya makakita nang ilang sandali."
+    },
+    {
+      "id": "Guru ingin membawanya ke perawat, tetapi Sue bersikeras menyelesaikan sisa ujiannya terlebih dahulu.",
+      "fil": "Nais siyang dalhin ng guro sa nars, ngunit ipinilit ni Sue na tapusin muna ang natitirang bahagi ng pagsusulit."
+    },
+    {
+      "id": "Perawat memberinya jus dan menjelaskan bahwa kelelahan terus-menerus dapat menimbulkan akibat serius.",
+      "fil": "Binigyan siya ng nars ng katas at ipinaliwanag na maaaring magdulot ng malubhang epekto ang palaging pagkapagod."
+    },
+    {
+      "id": "Sue mengingat nasihat orang tuanya dan memutuskan untuk cukup tidur sejak saat itu.",
+      "fil": "Naalala ni Sue ang payo ng kaniyang mga magulang at nagpasyang matulog nang sapat mula noon."
+    }
+  ],
+  "sentenceCount": 6,
+  "speakers": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  "notes": [
+    {
+      "title": {
+        "id": "Ungkapan berguna",
+        "fil": "Mga kapaki-pakinabang na pahayag"
+      },
+      "text": {
+        "id": "“halos hindi siya natulog” — ia hampir tidak tidur; “matulog nang sapat” — tidur dengan cukup",
+        "fil": "“halos hindi siya natulog” — ang katumbas sa Indonesian ay “ia hampir tidak tidur”; “matulog nang sapat” — ang katumbas sa Indonesian ay “tidur dengan cukup”"
+      }
+    },
+    {
+      "title": {
+        "id": "Catatan tata bahasa",
+        "fil": "Tala sa gramatika"
+      },
+      "text": {
+        "id": "Saat menghubungkan tindakan yang berlangsung bersamaan. Sejak saat itu menandai kelanjutan setelah suatu peristiwa.",
+        "fil": "Ginagamit ang habang para sa kilos na nangyayari kasabay ng iba. Ang mula noon ay nagsasaad ng pagpapatuloy mula sa isang pangyayari."
+      }
+    }
+  ],
+  "focus": {
+    "id": [
+      "asrama",
+      "seragam",
+      "penglihatan",
+      "kabur",
+      "serius",
+      "kelelahan"
+    ],
+    "fil": [
+      "dormitoryo",
+      "uniporme",
+      "paningin",
+      "lumabo",
+      "malubha",
+      "pagkapagod"
+    ]
+  },
+  "questions": [
+    {
+      "id": "book2-story-14-the-good-student-q1",
+      "type": "MULTIPLE_CHOICE",
+      "prompt": {
+        "id": "Mengapa Sue hampir tidak tidur?",
+        "fil": "Bakit halos hindi natulog si Sue?"
+      },
+      "choices": {
+        "id": [
+          "Ia bepergian semalaman",
+          "Ia menulis makalah dan belajar untuk ujian",
+          "Ia bekerja di dapur"
+        ],
+        "fil": [
+          "Naglakbay siya buong gabi",
+          "Gumawa siya ng papel at nag-aral para sa pagsusulit",
+          "Nagtrabaho siya sa kusina"
+        ]
+      },
+      "speech": {
+        "fil": "Bakit halos hindi natulog si Sue?"
+      }
+    },
+    {
+      "id": "book2-story-14-the-good-student-q2",
+      "type": "MULTIPLE_CHOICE",
+      "prompt": {
+        "id": "Apa yang terjadi pada penglihatan Sue saat ujian?",
+        "fil": "Ano ang nangyari sa paningin ni Sue habang nagsusulit?"
+      },
+      "choices": {
+        "id": [
+          "Penglihatannya kabur",
+          "Penglihatannya semakin jelas",
+          "Ia melihat rumah kaca"
+        ],
+        "fil": [
+          "Lumabo ito",
+          "Lalong luminaw ito",
+          "Nakita niya ang greenhouse"
+        ]
+      },
+      "speech": {
+        "fil": "Ano ang nangyari sa paningin ni Sue habang nagsusulit?"
+      }
+    },
+    {
+      "id": "book2-story-14-the-good-student-q3",
+      "type": "MULTIPLE_CHOICE",
+      "prompt": {
+        "id": "Apa nasihat perawat kepada Sue?",
+        "fil": "Ano ang ipinayo ng nars kay Sue?"
+      },
+      "choices": {
+        "id": [
+          "Jangan pergi ke sekolah lagi",
+          "Teruskan meski lelah",
+          "Beristirahat dan tidur cukup"
+        ],
+        "fil": [
+          "Huwag nang pumasok sa paaralan",
+          "Magpatuloy kahit pagod",
+          "Magpahinga at matulog nang sapat"
+        ]
+      },
+      "speech": {
+        "fil": "Ano ang ipinayo ng nars kay Sue?"
+      }
+    }
+  ],
+  "answers": [
+    {
+      "questionId": "book2-story-14-the-good-student-q1",
+      "answer": {
+        "id": "Ia menulis makalah dan belajar untuk ujian",
+        "fil": "Gumawa siya ng papel at nag-aral para sa pagsusulit"
+      },
+      "explanation": {
+        "id": "Ia menyiapkan makalah dan belajar untuk ujian fisika.",
+        "fil": "Naghanda siya ng papel at nag-aral para sa pagsusulit sa pisika."
+      }
+    },
+    {
+      "questionId": "book2-story-14-the-good-student-q2",
+      "answer": {
+        "id": "Penglihatannya kabur",
+        "fil": "Lumabo ito"
+      },
+      "explanation": {
+        "id": "Penglihatannya kabur dan ia tidak dapat melihat selama beberapa saat.",
+        "fil": "Lumabo ang paningin niya at hindi siya makakita nang ilang sandali."
+      }
+    },
+    {
+      "questionId": "book2-story-14-the-good-student-q3",
+      "answer": {
+        "id": "Beristirahat dan tidur cukup",
+        "fil": "Magpahinga at matulog nang sapat"
+      },
+      "explanation": {
+        "id": "Perawat memperingatkan bahwa kerja berlebihan berdampak serius dan Sue perlu beristirahat.",
+        "fil": "Nagbabala ang nars na may malubhang epekto ang sobrang pagtatrabaho at kailangan ni Sue ng pahinga."
+      }
+    }
+  ],
+  "vocabulary": [
+    {
+      "language": "fil",
+      "word": "dormitoryo",
+      "translations": {
+        "id": "asrama",
+        "fil": "dormitoryo"
+      },
+      "meanings": {
+        "id": "asrama",
+        "fil": "Ang katumbas nito sa Indonesian ay “asrama”."
+      },
+      "pos": "pangngalan",
+      "pronunciation": "dormitoryo",
+      "notes": {
+        "id": "Kata ini muncul pada paragraf 1 dalam konteks cerita.",
+        "fil": "Makikita ang salitang ito sa talata 1 ng muling pagsasalaysay."
+      }
+    },
+    {
+      "language": "fil",
+      "word": "uniporme",
+      "translations": {
+        "id": "seragam",
+        "fil": "uniporme"
+      },
+      "meanings": {
+        "id": "seragam",
+        "fil": "Ang katumbas nito sa Indonesian ay “seragam”."
+      },
+      "pos": "pangngalan",
+      "pronunciation": "uniporme",
+      "notes": {
+        "id": "Kata ini muncul pada paragraf 1 dalam konteks cerita.",
+        "fil": "Makikita ang salitang ito sa talata 1 ng muling pagsasalaysay."
+      }
+    },
+    {
+      "language": "fil",
+      "word": "paningin",
+      "translations": {
+        "id": "penglihatan",
+        "fil": "paningin"
+      },
+      "meanings": {
+        "id": "penglihatan",
+        "fil": "Ang katumbas nito sa Indonesian ay “penglihatan”."
+      },
+      "pos": "pangngalan",
+      "pronunciation": "paningin",
+      "notes": {
+        "id": "Kata ini muncul pada paragraf 3 dalam konteks cerita.",
+        "fil": "Makikita ang salitang ito sa talata 3 ng muling pagsasalaysay."
+      }
+    },
+    {
+      "language": "fil",
+      "word": "lumabo",
+      "translations": {
+        "id": "kabur",
+        "fil": "lumabo"
+      },
+      "meanings": {
+        "id": "kabur",
+        "fil": "Ang katumbas nito sa Indonesian ay “kabur”."
+      },
+      "pos": "pandiwa",
+      "pronunciation": "lumabo",
+      "notes": {
+        "id": "Kata ini muncul pada paragraf 3 dalam konteks cerita.",
+        "fil": "Makikita ang salitang ito sa talata 3 ng muling pagsasalaysay."
+      }
+    },
+    {
+      "language": "fil",
+      "word": "malubha",
+      "translations": {
+        "id": "serius",
+        "fil": "malubha"
+      },
+      "meanings": {
+        "id": "serius",
+        "fil": "Ang katumbas nito sa Indonesian ay “serius”."
+      },
+      "pos": "pang-uri",
+      "pronunciation": "malubha",
+      "notes": {
+        "id": "Kata ini muncul pada paragraf 5 dalam konteks cerita.",
+        "fil": "Makikita ang salitang ito sa talata 5 ng muling pagsasalaysay."
+      }
+    },
+    {
+      "language": "fil",
+      "word": "pagkapagod",
+      "translations": {
+        "id": "kelelahan",
+        "fil": "pagkapagod"
+      },
+      "meanings": {
+        "id": "kelelahan",
+        "fil": "Ang katumbas nito sa Indonesian ay “kelelahan”."
+      },
+      "pos": "pangngalan",
+      "pronunciation": "pagkapagod",
+      "notes": {
+        "id": "Kata ini muncul pada paragraf 5 dalam konteks cerita.",
+        "fil": "Makikita ang salitang ito sa talata 5 ng muling pagsasalaysay."
+      }
+    }
+  ],
+  "assets": [
+    "assets/14-the-good-student.jpg"
+  ]
+}
