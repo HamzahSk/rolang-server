@@ -1,0 +1,1444 @@
+{
+  "schemaVersion": 1,
+  "source": {
+    "type": "EPUB",
+    "title": "4000 essential english words - Book 1",
+    "creator": "Paul Nation",
+    "publisher": "Compass",
+    "epubFile": "4000 essential english words - Book 1.epub",
+    "epubBytes": 2602804,
+    "epubSha256": "7968a88b2098bc463a6387cad44817e032cbce4ecd516761f71c6c1435b273b4",
+    "opfSha256": "a25a26d78256d2c3dd7ec0f858886471d07ba76ec9a6d1f69f5a038d9a412b32"
+  },
+  "inspection": {
+    "spineDocumentCount": 35,
+    "actualNarrativeCount": 30,
+    "classificationRule": "Only numbered Unit_01 through Unit_30 documents contain complete narratives; cover and Note documents are excluded.",
+    "excludedDocumentCount": 5,
+    "excludedDocuments": [
+      {
+        "path": "OEBPS/Text/cover.xhtml",
+        "role": "cover"
+      },
+      {
+        "path": "OEBPS/Text/Note1-6.xhtml",
+        "role": "reference"
+      },
+      {
+        "path": "OEBPS/Text/Note7-12.xhtml",
+        "role": "reference"
+      },
+      {
+        "path": "OEBPS/Text/Note13-21.xhtml",
+        "role": "reference"
+      },
+      {
+        "path": "OEBPS/Text/Note22-30.xhtml",
+        "role": "reference"
+      }
+    ]
+  },
+  "documentCount": 35,
+  "documents": [
+    {
+      "spinePosition": 1,
+      "path": "OEBPS/Text/cover.xhtml",
+      "role": "cover",
+      "title": "",
+      "sha256": "d459e58010f5790de16d56f08553f162347d09e069c0bcb330358b0793e19529",
+      "paragraphCount": 0,
+      "wordCount": 0
+    },
+    {
+      "spinePosition": 2,
+      "path": "OEBPS/Text/Unit_01.xhtml",
+      "role": "story",
+      "title": "The Lion and the Rabbit",
+      "sha256": "f49654226f2a9590e1da1a0fe875a1edb5c75395fd746c886aa9a224c090eed8",
+      "paragraphCount": 13,
+      "wordCount": 312
+    },
+    {
+      "spinePosition": 3,
+      "path": "OEBPS/Text/Unit_02.xhtml",
+      "role": "story",
+      "title": "The Laboratory",
+      "sha256": "2466e75622f54ed1bae0548772156541c06021f18b49b8acad59159b76f24d56",
+      "paragraphCount": 9,
+      "wordCount": 307
+    },
+    {
+      "spinePosition": 4,
+      "path": "OEBPS/Text/Unit_03.xhtml",
+      "role": "story",
+      "title": "The Report",
+      "sha256": "02e232f1b87371a850da56ed9b58f7dc4e97d3182563fa1892228a3133ea101a",
+      "paragraphCount": 11,
+      "wordCount": 306
+    },
+    {
+      "spinePosition": 5,
+      "path": "OEBPS/Text/Unit_04.xhtml",
+      "role": "story",
+      "title": "The Dog’s Bell",
+      "sha256": "f42e77c51fcc46d931c5ca01b22b33cfeef2d4424f12939601339f200bfbd86c",
+      "paragraphCount": 8,
+      "wordCount": 317
+    },
+    {
+      "spinePosition": 6,
+      "path": "OEBPS/Text/Unit_05.xhtml",
+      "role": "story",
+      "title": "The Jackal and the Sun Child",
+      "sha256": "a09245458f7ca25fd67f001dd0204922ca1b0b4b429ff3f65fff7dbda68596f8",
+      "paragraphCount": 7,
+      "wordCount": 311
+    },
+    {
+      "spinePosition": 7,
+      "path": "OEBPS/Text/Unit_06.xhtml",
+      "role": "story",
+      "title": "The Friendly Ghost",
+      "sha256": "f956a4d9620daa5635fc6094f68d42e80f6cad0b1968fff9699400208b34b2fc",
+      "paragraphCount": 7,
+      "wordCount": 297
+    },
+    {
+      "spinePosition": 8,
+      "path": "OEBPS/Text/Unit_07.xhtml",
+      "role": "story",
+      "title": "The Best Prince",
+      "sha256": "eb7ed760546726dcd535bfdb63bb4fd6951d075c0f8dffad4081220c5b09fdf9",
+      "paragraphCount": 12,
+      "wordCount": 306
+    },
+    {
+      "spinePosition": 9,
+      "path": "OEBPS/Text/Unit_08.xhtml",
+      "role": "story",
+      "title": "How the Sun and the Moon Were Made",
+      "sha256": "89a2d7c2ce63ca485435bed83086be6190d3a370237526cee6902c84bed34c22",
+      "paragraphCount": 7,
+      "wordCount": 314
+    },
+    {
+      "spinePosition": 10,
+      "path": "OEBPS/Text/Unit_09.xhtml",
+      "role": "story",
+      "title": "The Starfish",
+      "sha256": "915aab22abdb86801f33cc5c03738414d75639eb0e0371ddfce400cdbbeb346e",
+      "paragraphCount": 7,
+      "wordCount": 290
+    },
+    {
+      "spinePosition": 11,
+      "path": "OEBPS/Text/Unit_10.xhtml",
+      "role": "story",
+      "title": "The First Peacock",
+      "sha256": "924c4ce6f973d0d30dc63cfc9d042bc0da6b3e332c9ff2e544a50ea6a08bcd49",
+      "paragraphCount": 6,
+      "wordCount": 295
+    },
+    {
+      "spinePosition": 12,
+      "path": "OEBPS/Text/Unit_11.xhtml",
+      "role": "story",
+      "title": "Princess Rose and the Creature",
+      "sha256": "742659e5b7ab9fdb28021f355c4115cf97b684306d5a44b0bb8453274bf54761",
+      "paragraphCount": 10,
+      "wordCount": 305
+    },
+    {
+      "spinePosition": 13,
+      "path": "OEBPS/Text/Unit_12.xhtml",
+      "role": "story",
+      "title": "The Crazy Artist",
+      "sha256": "52946429b3f75cc5e2c3eaf0bcc0e0b17e68a7e9f3a4b7ff72a8108c5b840401",
+      "paragraphCount": 5,
+      "wordCount": 314
+    },
+    {
+      "spinePosition": 14,
+      "path": "OEBPS/Text/Unit_13.xhtml",
+      "role": "story",
+      "title": "The Farmer and the Cats",
+      "sha256": "ed6b9689b33ddb841495eca40ace1b1c580414bc94db878b5c49cd3fb28188a1",
+      "paragraphCount": 8,
+      "wordCount": 309
+    },
+    {
+      "spinePosition": 15,
+      "path": "OEBPS/Text/Unit_14.xhtml",
+      "role": "story",
+      "title": "A Magical Book",
+      "sha256": "d093d90c934769672f92ed323dcc1eb5fc87a4abc2356949c700aa1d66e18acb",
+      "paragraphCount": 7,
+      "wordCount": 327
+    },
+    {
+      "spinePosition": 16,
+      "path": "OEBPS/Text/Unit_15.xhtml",
+      "role": "story",
+      "title": "The Big Race",
+      "sha256": "1e4e33dea9c00cd77ff48937fa1879781b2667b09e3e428c58a88c85969effce",
+      "paragraphCount": 8,
+      "wordCount": 322
+    },
+    {
+      "spinePosition": 17,
+      "path": "OEBPS/Text/Unit_16.xhtml",
+      "role": "story",
+      "title": "Adams County’s Gold",
+      "sha256": "8bfcacd57955ddb5615ab23976d7f2f3fd8073acbd44f6c2ef061391c2cf8a4a",
+      "paragraphCount": 16,
+      "wordCount": 308
+    },
+    {
+      "spinePosition": 18,
+      "path": "OEBPS/Text/Unit_17.xhtml",
+      "role": "story",
+      "title": "The Race for Water",
+      "sha256": "296a993782ba9bb2419f1dbc58240d8453296f07ace280b695a12c1d866d8b66",
+      "paragraphCount": 12,
+      "wordCount": 312
+    },
+    {
+      "spinePosition": 19,
+      "path": "OEBPS/Text/Unit_18.xhtml",
+      "role": "story",
+      "title": "The Little Red Chicken",
+      "sha256": "ade4dfb6c6a29dcda50f508dbec5586b531a675f1ec845905d733f13c408790d",
+      "paragraphCount": 18,
+      "wordCount": 307
+    },
+    {
+      "spinePosition": 20,
+      "path": "OEBPS/Text/Unit_19.xhtml",
+      "role": "story",
+      "title": "Shipwrecked",
+      "sha256": "39117d7f62ef8e3a31c91a1dd97dc61f2671b6052502e4cf9decaf3166074482",
+      "paragraphCount": 7,
+      "wordCount": 314
+    },
+    {
+      "spinePosition": 21,
+      "path": "OEBPS/Text/Unit_20.xhtml",
+      "role": "story",
+      "title": "The seven cities of gold",
+      "sha256": "5c989bde83a295272ce1f1b4aa49397d49783743fa75bf7da18ac104f515e9e9",
+      "paragraphCount": 7,
+      "wordCount": 312
+    },
+    {
+      "spinePosition": 22,
+      "path": "OEBPS/Text/Unit_21.xhtml",
+      "role": "story",
+      "title": "Katy",
+      "sha256": "d01ea8c577ffd38f825eba6a8efe709633cb4ccb822b46b5eb652e74470e1b86",
+      "paragraphCount": 7,
+      "wordCount": 292
+    },
+    {
+      "spinePosition": 23,
+      "path": "OEBPS/Text/Unit_22.xhtml",
+      "role": "story",
+      "title": "A Better Reward",
+      "sha256": "d3f67f0b97fa946bf4d4769006d7dac191fe25c3f45662f886ed08f8241a2846",
+      "paragraphCount": 9,
+      "wordCount": 314
+    },
+    {
+      "spinePosition": 24,
+      "path": "OEBPS/Text/Unit_23.xhtml",
+      "role": "story",
+      "title": "The camp",
+      "sha256": "b9d4878847738f4af7ff4e699a77526e64ce769e2fa2cda9c02dc1bc9fe6c6e3",
+      "paragraphCount": 7,
+      "wordCount": 306
+    },
+    {
+      "spinePosition": 25,
+      "path": "OEBPS/Text/Unit_24.xhtml",
+      "role": "story",
+      "title": "A Strong Friendship",
+      "sha256": "72e6563eb48f4631aadddab7733a2c243b7f1fce8c2dacd7687c92066ff5ce59",
+      "paragraphCount": 9,
+      "wordCount": 308
+    },
+    {
+      "spinePosition": 26,
+      "path": "OEBPS/Text/Unit_25.xhtml",
+      "role": "story",
+      "title": "Joe’s Pond",
+      "sha256": "1b7756456a5316aaccdd227aa558f42f32fe5d7e36e8fb1e8d97e1083a202abf",
+      "paragraphCount": 6,
+      "wordCount": 314
+    },
+    {
+      "spinePosition": 27,
+      "path": "OEBPS/Text/Unit_26.xhtml",
+      "role": "story",
+      "title": "Archie and His Donkey",
+      "sha256": "f841864f745f74ace9331a6ec32ee6e486680efd0898f774abd4f2822ab9e1dd",
+      "paragraphCount": 16,
+      "wordCount": 297
+    },
+    {
+      "spinePosition": 28,
+      "path": "OEBPS/Text/Unit_27.xhtml",
+      "role": "story",
+      "title": "The Spider and the Bird",
+      "sha256": "78c65259df160410d63605e429fac49f9a6bf362766f41bc843bf4b54e11223b",
+      "paragraphCount": 10,
+      "wordCount": 312
+    },
+    {
+      "spinePosition": 29,
+      "path": "OEBPS/Text/Unit_28.xhtml",
+      "role": "story",
+      "title": "The Party",
+      "sha256": "e762a7420fd9fe4472af485689a5682b45bea30103f40299b8ec03f61ef12d5d",
+      "paragraphCount": 11,
+      "wordCount": 325
+    },
+    {
+      "spinePosition": 30,
+      "path": "OEBPS/Text/Unit_29.xhtml",
+      "role": "story",
+      "title": "How the World Got Light",
+      "sha256": "4cce55ee826e3fc2ca0dc5cac533e8993e093a0cfbc57a5daeb844191c18c76c",
+      "paragraphCount": 7,
+      "wordCount": 300
+    },
+    {
+      "spinePosition": 31,
+      "path": "OEBPS/Text/Unit_30.xhtml",
+      "role": "story",
+      "title": "Cats and Secrets",
+      "sha256": "5243c29a1d2439dd1e1d23a46fbca74bebd6aa89753672cc70f7e735379e3f44",
+      "paragraphCount": 11,
+      "wordCount": 314
+    },
+    {
+      "spinePosition": 32,
+      "path": "OEBPS/Text/Note1-6.xhtml",
+      "role": "reference",
+      "title": "",
+      "sha256": "e709b14aeda2bdcfcf0165d84b879916010e9b2c119118bfc76d4042320f3b6c",
+      "paragraphCount": 121,
+      "wordCount": 2208
+    },
+    {
+      "spinePosition": 33,
+      "path": "OEBPS/Text/Note7-12.xhtml",
+      "role": "reference",
+      "title": "",
+      "sha256": "1e15483a27387e0a71f8274a340e80114fc0abebc2ade160932b3d941c4aab88",
+      "paragraphCount": 122,
+      "wordCount": 2269
+    },
+    {
+      "spinePosition": 34,
+      "path": "OEBPS/Text/Note13-21.xhtml",
+      "role": "reference",
+      "title": "",
+      "sha256": "c467c493353d203ec0d1cf63cd06976c436ab26d688bc6ce967049a2eb92dbfe",
+      "paragraphCount": 182,
+      "wordCount": 3456
+    },
+    {
+      "spinePosition": 35,
+      "path": "OEBPS/Text/Note22-30.xhtml",
+      "role": "reference",
+      "title": "",
+      "sha256": "5ddabd425e2537cde7eb53cd52d43382ad2ff2faaa88022d361acb1b2a0a80f8",
+      "paragraphCount": 181,
+      "wordCount": 3701
+    }
+  ],
+  "storyCount": 30,
+  "stories": [
+    {
+      "order": 1,
+      "title": "The Lion and the Rabbit",
+      "sourceDocument": "OEBPS/Text/Unit_01.xhtml",
+      "sourceSha256": "f49654226f2a9590e1da1a0fe875a1edb5c75395fd746c886aa9a224c090eed8",
+      "sourceParagraphCount": 13,
+      "sourceWordCount": 312,
+      "characters": [
+        "the lion",
+        "the rabbit",
+        "the other forest animals"
+      ],
+      "setting": "A forest and a deep well.",
+      "theme": "Intelligence can overcome brute force.",
+      "mainEvents": [
+        "The animals arrange to send the lion one animal per day.",
+        "The rabbit arrives late and invents a rival lion.",
+        "The rabbit leads the lion to a well, where the lion mistakes his reflection for the rival.",
+        "The lion jumps into the well, freeing the other animals."
+      ],
+      "generatedStory": "4000-essential-english-words-book-1/01-the-lion-and-the-rabbit.json",
+      "generatedSha256": "b728cbbd9959b94383f155ff6401022c537cb2059161cc082da95322e52a1d08",
+      "illustration": "4000-essential-english-words-book-1/assets/01-the-lion-and-the-rabbit.jpg"
+    },
+    {
+      "order": 2,
+      "title": "The Laboratory",
+      "sourceDocument": "OEBPS/Text/Unit_02.xhtml",
+      "sourceSha256": "2466e75622f54ed1bae0548772156541c06021f18b49b8acad59159b76f24d56",
+      "sourceParagraphCount": 9,
+      "sourceWordCount": 307,
+      "characters": [
+        "Mia",
+        "Liz",
+        "Mia's father"
+      ],
+      "setting": "Mia's house and her father's locked laboratory at night.",
+      "theme": "Fear can come from mistaken assumptions.",
+      "mainEvents": [
+        "Mia hears a frightening laugh behind the locked laboratory door.",
+        "Liz persuades Mia to enter when the door is left unlocked.",
+        "The girls panic in the dark room.",
+        "Mia's father reveals that the laugh comes from a birthday doll."
+      ],
+      "generatedStory": "4000-essential-english-words-book-1/02-the-laboratory.json",
+      "generatedSha256": "9b4d708dde511cbd8a5e968574fa2fe2fda0d1ca84101b6c4a3ab747c1955c09",
+      "illustration": "4000-essential-english-words-book-1/assets/02-the-laboratory.jpg"
+    },
+    {
+      "order": 3,
+      "title": "The Report",
+      "sourceDocument": "OEBPS/Text/Unit_03.xhtml",
+      "sourceSha256": "02e232f1b87371a850da56ed9b58f7dc4e97d3182563fa1892228a3133ea101a",
+      "sourceParagraphCount": 11,
+      "sourceWordCount": 306,
+      "characters": [
+        "Lee",
+        "Jack",
+        "Claire",
+        "a friendly alien"
+      ],
+      "setting": "A library, an alien ship, outer space, and Earth.",
+      "theme": "Responsibility and unexpected help can solve a difficult problem.",
+      "mainEvents": [
+        "Lee worries because his part of the group project is unfinished.",
+        "An alien takes him into space after hearing his wish for help.",
+        "Lee observes the moon and Mars.",
+        "The alien helps Lee build a model of Mars and returns him to Earth."
+      ],
+      "generatedStory": "4000-essential-english-words-book-1/03-the-report.json",
+      "generatedSha256": "5ce82a6b1b5e896be9732f45f3cbcf8cc6d82b3a379d519745e012dd3e0cf63d",
+      "illustration": "4000-essential-english-words-book-1/assets/03-the-report.jpg"
+    },
+    {
+      "order": 4,
+      "title": "The Dog’s Bell",
+      "sourceDocument": "OEBPS/Text/Unit_04.xhtml",
+      "sourceSha256": "f42e77c51fcc46d931c5ca01b22b33cfeef2d4424f12939601339f200bfbd86c",
+      "sourceParagraphCount": 8,
+      "sourceWordCount": 317,
+      "characters": [
+        "John",
+        "John's dog",
+        "John's friend",
+        "the villagers",
+        "other dogs"
+      ],
+      "setting": "A village and its streets.",
+      "theme": "A reputation is not admirable when it comes from harmful behavior.",
+      "mainEvents": [
+        "John's dog repeatedly bites villagers.",
+        "A friend suggests a bell so people can hear the dog coming.",
+        "The dog believes the attention makes him popular.",
+        "Other dogs explain that the bell merely helps people avoid him."
+      ],
+      "generatedStory": "4000-essential-english-words-book-1/04-the-dogs-bell.json",
+      "generatedSha256": "443f9a9a4d7293e18b4abc0e6750c03b7f2b7970e403675c1eb5577d46474f4d",
+      "illustration": "4000-essential-english-words-book-1/assets/04-the-dogs-bell.jpg"
+    },
+    {
+      "order": 5,
+      "title": "The Jackal and the Sun Child",
+      "sourceDocument": "OEBPS/Text/Unit_05.xhtml",
+      "sourceSha256": "a09245458f7ca25fd67f001dd0204922ca1b0b4b429ff3f65fff7dbda68596f8",
+      "sourceParagraphCount": 7,
+      "sourceWordCount": 311,
+      "characters": [
+        "the jackal",
+        "the sun child"
+      ],
+      "setting": "A desert, a rock, and a field of flowers.",
+      "theme": "A tempting reward can hide serious consequences.",
+      "mainEvents": [
+        "The sun child offers the jackal a necklace for carrying her home.",
+        "Her heat painfully burns the jackal's back.",
+        "The jackal runs and jumps into flowers to make her fall off.",
+        "The heat leaves the black mark associated with jackals."
+      ],
+      "generatedStory": "4000-essential-english-words-book-1/05-the-jackal-and-the-sun-child.json",
+      "generatedSha256": "f642d9c556295e8528ef30d62f960781e72a4edb847a76e9d37c6724f96d623c",
+      "illustration": "4000-essential-english-words-book-1/assets/05-the-jackal-and-the-sun-child.jpg"
+    },
+    {
+      "order": 6,
+      "title": "The Friendly Ghost",
+      "sourceDocument": "OEBPS/Text/Unit_06.xhtml",
+      "sourceSha256": "f956a4d9620daa5635fc6094f68d42e80f6cad0b1968fff9699400208b34b2fc",
+      "sourceParagraphCount": 7,
+      "sourceWordCount": 297,
+      "characters": [
+        "the friendly ghost",
+        "a group of children",
+        "their dog"
+      ],
+      "setting": "A riverside community during a dark rainstorm.",
+      "theme": "A frightening appearance can conceal a protective intention.",
+      "mainEvents": [
+        "A kind woman becomes a ghost who still wants to protect children.",
+        "Children become lost beside a rising river during a storm.",
+        "The ghost frightens and follows them away from the river.",
+        "The children reach home before the flood becomes dangerous."
+      ],
+      "generatedStory": "4000-essential-english-words-book-1/06-the-friendly-ghost.json",
+      "generatedSha256": "db8bbb937bd33965b411d1038980a6da6233d193ee1f3cdc481749f17915bcaf",
+      "illustration": "4000-essential-english-words-book-1/assets/06-the-friendly-ghost.jpg"
+    },
+    {
+      "order": 7,
+      "title": "The Best Prince",
+      "sourceDocument": "OEBPS/Text/Unit_07.xhtml",
+      "sourceSha256": "eb7ed760546726dcd535bfdb63bb4fd6951d075c0f8dffad4081220c5b09fdf9",
+      "sourceParagraphCount": 12,
+      "sourceWordCount": 306,
+      "characters": [
+        "King Minos",
+        "Theseus",
+        "Pelias",
+        "Jason"
+      ],
+      "setting": "King Minos's palace and kingdom.",
+      "theme": "Kindness and peace are stronger qualifications for leadership than force.",
+      "mainEvents": [
+        "The sick king must choose one of his three sons as successor.",
+        "Theseus and Pelias argue and draw their swords.",
+        "Minos chooses peaceful, kind Jason.",
+        "The older brothers regret missing their father's final moments and accept Jason."
+      ],
+      "generatedStory": "4000-essential-english-words-book-1/07-the-best-prince.json",
+      "generatedSha256": "52a8b423c8ad5789d8d6749877deacfae1f04eb8142532f3175c422b032f3456",
+      "illustration": "4000-essential-english-words-book-1/assets/07-the-best-prince.jpg"
+    },
+    {
+      "order": 8,
+      "title": "How the Sun and the Moon Were Made",
+      "sourceDocument": "OEBPS/Text/Unit_08.xhtml",
+      "sourceSha256": "89a2d7c2ce63ca485435bed83086be6190d3a370237526cee6902c84bed34c22",
+      "sourceParagraphCount": 7,
+      "sourceWordCount": 314,
+      "characters": [
+        "a kind girl",
+        "her mean brother"
+      ],
+      "setting": "An Inuit party, the woods, and the sky.",
+      "theme": "Wrongdoing is exposed and carries lasting consequences.",
+      "mainEvents": [
+        "The siblings attend a party.",
+        "Someone attacks the girl in darkness.",
+        "She uses black dirt in her decorated hair to identify the attacker as her brother.",
+        "They chase each other with fire, grow enormous, and become the moon and sun."
+      ],
+      "generatedStory": "4000-essential-english-words-book-1/08-how-the-sun-and-the-moon-were-made.json",
+      "generatedSha256": "c73f39d27e321c23bbdb503d1e0bc8f4df3ec32939fbc2e6af4544eec21e4ee8",
+      "illustration": "4000-essential-english-words-book-1/assets/08-how-the-sun-and-the-moon-were-made.jpg"
+    },
+    {
+      "order": 9,
+      "title": "The Starfish",
+      "sourceDocument": "OEBPS/Text/Unit_09.xhtml",
+      "sourceSha256": "915aab22abdb86801f33cc5c03738414d75639eb0e0371ddfce400cdbbeb346e",
+      "sourceParagraphCount": 7,
+      "sourceWordCount": 290,
+      "characters": [
+        "the narrator",
+        "a little girl"
+      ],
+      "setting": "An island beach at evening after the tide leaves starfish on the sand.",
+      "theme": "A small action matters to the individual it helps.",
+      "mainEvents": [
+        "The narrator sees many starfish stranded by the waves.",
+        "A little girl asks for help and then begins throwing starfish back.",
+        "The narrator argues that she cannot save all of them.",
+        "She answers that saving one still matters to that starfish."
+      ],
+      "generatedStory": "4000-essential-english-words-book-1/09-the-starfish.json",
+      "generatedSha256": "f7525c7bbcc836ab14510bf4055e865aaa5deb7f11ed82793ec0b2f8263d33cd",
+      "illustration": "4000-essential-english-words-book-1/assets/09-the-starfish.jpg"
+    },
+    {
+      "order": 10,
+      "title": "The First Peacock",
+      "sourceDocument": "OEBPS/Text/Unit_10.xhtml",
+      "sourceSha256": "924c4ce6f973d0d30dc63cfc9d042bc0da6b3e332c9ff2e544a50ea6a08bcd49",
+      "sourceParagraphCount": 6,
+      "sourceWordCount": 295,
+      "characters": [
+        "Argos",
+        "Hera",
+        "Zeus",
+        "a musician",
+        "Hera's cow"
+      ],
+      "setting": "Ancient Greece and the night sky.",
+      "theme": "Deception can cause an innocent servant to suffer consequences.",
+      "mainEvents": [
+        "Argos uses his hundred eyes to guard Hera's special cow.",
+        "Zeus sends a musician whose song puts Argos to sleep.",
+        "Zeus steals the cow and Hera transforms Argos into a peacock.",
+        "Argos's eyes appear on the peacock's tail, and Zeus later places his image among the stars."
+      ],
+      "generatedStory": "4000-essential-english-words-book-1/10-the-first-peacock.json",
+      "generatedSha256": "6d9104ef93def2f005713f52ee47a09b8fbacd98660d63e2c4b0cd414e9952c5",
+      "illustration": "4000-essential-english-words-book-1/assets/10-the-first-peacock.jpg"
+    },
+    {
+      "order": 11,
+      "title": "Princess Rose and the Creature",
+      "sourceDocument": "OEBPS/Text/Unit_11.xhtml",
+      "sourceSha256": "742659e5b7ab9fdb28021f355c4115cf97b684306d5a44b0bb8453274bf54761",
+      "sourceParagraphCount": 10,
+      "sourceWordCount": 305,
+      "characters": [
+        "Princess Rose",
+        "the jealous queen",
+        "Henry"
+      ],
+      "setting": "A kingdom, a forest, and the route to Henry's ship.",
+      "theme": "Acceptance looks beyond outward appearance.",
+      "mainEvents": [
+        "The jealous queen puts Rose to sleep and abandons her in a forest.",
+        "Rose dreams of the man she will marry.",
+        "She meets the green, horned creature Henry and spends a pleasant day with him.",
+        "Rose kisses Henry, who changes into the man from her dream, and they marry."
+      ],
+      "generatedStory": "4000-essential-english-words-book-1/11-princess-rose-and-the-creature.json",
+      "generatedSha256": "28d90d7f63553ae13569b0cfb0b6b0a23bf5b20cd22b8a11bf5104edb227420a",
+      "illustration": "4000-essential-english-words-book-1/assets/11-princess-rose-and-the-creature.jpg"
+    },
+    {
+      "order": 12,
+      "title": "The Crazy Artist",
+      "sourceDocument": "OEBPS/Text/Unit_12.xhtml",
+      "sourceSha256": "52946429b3f75cc5e2c3eaf0bcc0e0b17e68a7e9f3a4b7ff72a8108c5b840401",
+      "sourceParagraphCount": 5,
+      "sourceWordCount": 314,
+      "characters": [
+        "Frenhofer",
+        "other artists",
+        "later critics and viewers"
+      ],
+      "setting": "Frenhofer's apartment and the wider art world.",
+      "theme": "New art may need time before people understand it.",
+      "mainEvents": [
+        "Successful painter Frenhofer abandons his old career to pursue a new method.",
+        "He works on one painting for years and neglects his health.",
+        "Other artists reject the crowded lines, colors, shapes, and symbols.",
+        "Over time, critics and the public recognize the painting's importance."
+      ],
+      "generatedStory": "4000-essential-english-words-book-1/12-the-crazy-artist.json",
+      "generatedSha256": "c925214a8152f369f164061796a378f9c27e1c577719c2dd2f74e41ce8c1eebd",
+      "illustration": "4000-essential-english-words-book-1/assets/12-the-crazy-artist.jpg"
+    },
+    {
+      "order": 13,
+      "title": "The Farmer and the Cats",
+      "sourceDocument": "OEBPS/Text/Unit_13.xhtml",
+      "sourceSha256": "ed6b9689b33ddb841495eca40ace1b1c580414bc94db878b5c49cd3fb28188a1",
+      "sourceParagraphCount": 8,
+      "sourceWordCount": 309,
+      "characters": [
+        "Arthur",
+        "Maria",
+        "the town lord",
+        "the farm cats"
+      ],
+      "setting": "A poor farm after a fire, during the autumn harvest.",
+      "theme": "Unexpected helpers deserve gratitude and care.",
+      "mainEvents": [
+        "A fire leaves poor Arthur and Maria with only their cats and a debt.",
+        "The lord threatens punishment if they do not pay after harvest.",
+        "Each night, unseen helpers complete as much fieldwork as the farmers.",
+        "The cats finish the harvest and leave money; Arthur and Maria discover and reward them."
+      ],
+      "generatedStory": "4000-essential-english-words-book-1/13-the-farmer-and-the-cats.json",
+      "generatedSha256": "f378ae6a352411cec62bcd0edf0ad3a6cbb78d0566f632cf759f199eaf4ea7c7",
+      "illustration": "4000-essential-english-words-book-1/assets/13-the-farmer-and-the-cats.jpg"
+    },
+    {
+      "order": 14,
+      "title": "A Magical Book",
+      "sourceDocument": "OEBPS/Text/Unit_14.xhtml",
+      "sourceSha256": "d093d90c934769672f92ed323dcc1eb5fc87a4abc2356949c700aa1d66e18acb",
+      "sourceParagraphCount": 7,
+      "sourceWordCount": 327,
+      "characters": [
+        "Sarah",
+        "Sarah's friend",
+        "Sarah's basketball coach",
+        "people at a local store"
+      ],
+      "setting": "Sarah's home, school, a local store, and a street.",
+      "theme": "Power should be used responsibly to help rather than harm.",
+      "mainEvents": [
+        "Sarah receives a gold-paged magical book.",
+        "The book gives her power to control people, which she uses for jokes and trouble.",
+        "She sees her coach about to walk in front of a bus and stops him with the power.",
+        "Sarah limits herself to using the power for good."
+      ],
+      "generatedStory": "4000-essential-english-words-book-1/14-a-magical-book.json",
+      "generatedSha256": "e2fb080d521019f38c8c1a20d99ff68bfbd4560e5ff7e1904f7262cd1a123f49",
+      "illustration": "4000-essential-english-words-book-1/assets/14-a-magical-book.jpg"
+    },
+    {
+      "order": 15,
+      "title": "The Big Race",
+      "sourceDocument": "OEBPS/Text/Unit_15.xhtml",
+      "sourceSha256": "1e4e33dea9c00cd77ff48937fa1879781b2667b09e3e428c58a88c85969effce",
+      "sourceParagraphCount": 8,
+      "sourceWordCount": 322,
+      "characters": [
+        "the rabbit",
+        "the turtle",
+        "the duck",
+        "the dog",
+        "spectating animals"
+      ],
+      "setting": "A long animal race across fields and roads.",
+      "theme": "Steady effort can defeat careless overconfidence.",
+      "mainEvents": [
+        "A duck sells tickets to a long race between a rabbit and a turtle.",
+        "The rabbit quickly gains a large lead.",
+        "Certain of victory, the rabbit eats and sleeps.",
+        "The turtle keeps moving and reaches the finish first."
+      ],
+      "generatedStory": "4000-essential-english-words-book-1/15-the-big-race.json",
+      "generatedSha256": "63917e128ebbd99f6153baefd6b2a53a163d72e9608c27ffb7a41a88221083f5",
+      "illustration": "4000-essential-english-words-book-1/assets/15-the-big-race.jpg"
+    },
+    {
+      "order": 16,
+      "title": "Adams County’s Gold",
+      "sourceDocument": "OEBPS/Text/Unit_16.xhtml",
+      "sourceSha256": "8bfcacd57955ddb5615ab23976d7f2f3fd8073acbd44f6c2ef061391c2cf8a4a",
+      "sourceParagraphCount": 16,
+      "sourceWordCount": 308,
+      "characters": [
+        "Tom",
+        "Brad",
+        "Jeff",
+        "Joe"
+      ],
+      "setting": "Adams Academy and a nearby forest in Adams County.",
+      "theme": "Curiosity and cooperation turn an ordinary day into discovery.",
+      "mainEvents": [
+        "Tom looks for something fun to do on Saturday.",
+        "Brad shows him an 1870 book containing clues to hidden gold.",
+        "They interpret a flat tree underground as a buried board and dig for it.",
+        "They find a gold coin and a map leading to more treasure."
+      ],
+      "generatedStory": "4000-essential-english-words-book-1/16-adams-countys-gold.json",
+      "generatedSha256": "c7f44880843f999a811f485a802ae2313aaf3399cc162ccb6dece010b964f920",
+      "illustration": "4000-essential-english-words-book-1/assets/16-adams-countys-gold.jpg"
+    },
+    {
+      "order": 17,
+      "title": "The Race for Water",
+      "sourceDocument": "OEBPS/Text/Unit_17.xhtml",
+      "sourceSha256": "296a993782ba9bb2419f1dbc58240d8453296f07ace280b695a12c1d866d8b66",
+      "sourceParagraphCount": 12,
+      "sourceWordCount": 312,
+      "characters": [
+        "a determined boy",
+        "the Sky",
+        "the townspeople"
+      ],
+      "setting": "A riverside town and a hill during a drought.",
+      "theme": "Water must be appreciated, and clever action can repair communal mistakes.",
+      "mainEvents": [
+        "The townspeople waste abundant river water.",
+        "The Sky stops the rain and the river dries.",
+        "A boy challenges the Sky to fill puddles before he reaches a hilltop.",
+        "Rain runs downhill into the river instead, filling it and teaching the town to conserve water."
+      ],
+      "generatedStory": "4000-essential-english-words-book-1/17-the-race-for-water.json",
+      "generatedSha256": "10f8409037d66094beb560510162c6d0db30d1a960fe1faa658cecf92628e818",
+      "illustration": "4000-essential-english-words-book-1/assets/17-the-race-for-water.jpg"
+    },
+    {
+      "order": 18,
+      "title": "The Little Red Chicken",
+      "sourceDocument": "OEBPS/Text/Unit_18.xhtml",
+      "sourceSha256": "ade4dfb6c6a29dcda50f508dbec5586b531a675f1ec845905d733f13c408790d",
+      "sourceParagraphCount": 18,
+      "sourceWordCount": 307,
+      "characters": [
+        "the little red chicken",
+        "the cat",
+        "town customers"
+      ],
+      "setting": "A small-town store and the place where the chicken makes bread.",
+      "theme": "People should work for what they want instead of depending on others.",
+      "mainEvents": [
+        "A cat wants bread, but the chicken's store has only wheat.",
+        "The cat refuses the chicken's offer to help make bread.",
+        "The chicken grinds the wheat and bakes bread alone.",
+        "She refuses to give or sell it to the cat and advises him to grow his own wheat."
+      ],
+      "generatedStory": "4000-essential-english-words-book-1/18-the-little-red-chicken.json",
+      "generatedSha256": "2fa98799237ae1d18158af967ec1892c80c0f33627db6075e75256cbe8b53c9c",
+      "illustration": "4000-essential-english-words-book-1/assets/18-the-little-red-chicken.png"
+    },
+    {
+      "order": 19,
+      "title": "Shipwrecked",
+      "sourceDocument": "OEBPS/Text/Unit_19.xhtml",
+      "sourceSha256": "39117d7f62ef8e3a31c91a1dd97dc61f2671b6052502e4cf9decaf3166074482",
+      "sourceParagraphCount": 7,
+      "sourceWordCount": 314,
+      "characters": [
+        "Simon Yates",
+        "Mrs. Yates",
+        "a ship captain",
+        "rescuers"
+      ],
+      "setting": "A ship at sea and a remote island.",
+      "theme": "Hardship can transform a person's values and definition of happiness.",
+      "mainEvents": [
+        "Selfish lawyer Simon loses his job and money and plans a new life abroad.",
+        "A wave throws him from a ship, and he reaches an island alone.",
+        "He builds shelter and tools, lives on fish and rainwater, and grows content.",
+        "When rescuers arrive, Simon refuses to leave his simpler life."
+      ],
+      "generatedStory": "4000-essential-english-words-book-1/19-shipwrecked.json",
+      "generatedSha256": "fb3da8ddc3f17e3f9b572d6a42ac11e1a1581a33b98ff524eb8f4a3c7a4ee93e",
+      "illustration": "4000-essential-english-words-book-1/assets/19-shipwrecked.jpg"
+    },
+    {
+      "order": 20,
+      "title": "The seven cities of gold",
+      "sourceDocument": "OEBPS/Text/Unit_20.xhtml",
+      "sourceSha256": "5c989bde83a295272ce1f1b4aa49397d49783743fa75bf7da18ac104f515e9e9",
+      "sourceParagraphCount": 7,
+      "sourceWordCount": 312,
+      "characters": [
+        "Coronado",
+        "three hundred expedition members",
+        "residents of the cities",
+        "Coronado's friends"
+      ],
+      "setting": "A westward Spanish expedition and earthen settlements.",
+      "theme": "Greed and unquestioned rumors distort how people see real communities.",
+      "mainEvents": [
+        "Coronado hears extravagant reports about seven golden cities.",
+        "He leads three hundred men west to find them.",
+        "They encounter ordinary earthen cities whose residents feed them and deny that gold exists there.",
+        "A final glint of sunlight tempts Coronado, but he accepts the truth and returns home."
+      ],
+      "generatedStory": "4000-essential-english-words-book-1/20-the-seven-cities-of-gold.json",
+      "generatedSha256": "934199875285caade7fbf58c2b83256bb221fa756bd9c98d4fb68a63a06844b3",
+      "illustration": "4000-essential-english-words-book-1/assets/20-the-seven-cities-of-gold.jpg"
+    },
+    {
+      "order": 21,
+      "title": "Katy",
+      "sourceDocument": "OEBPS/Text/Unit_21.xhtml",
+      "sourceSha256": "d01ea8c577ffd38f825eba6a8efe709633cb4ccb822b46b5eb652e74470e1b86",
+      "sourceParagraphCount": 7,
+      "sourceWordCount": 292,
+      "characters": [
+        "Katy",
+        "the nurse narrator",
+        "Tommy",
+        "doctors",
+        "other patients"
+      ],
+      "setting": "A hospital before and after Katy's brain operation.",
+      "theme": "Kindness and courage can inspire an entire community during illness.",
+      "mainEvents": [
+        "A nurse meets eight-year-old Katy, who has a painful problem at the base of her brain.",
+        "Katy uses her limited strength to play with, paint for, and gather flowers for other patients.",
+        "Doctors successfully operate on her.",
+        "After recovering, Katy returns to read and play with hospital patients."
+      ],
+      "generatedStory": "4000-essential-english-words-book-1/21-katy.json",
+      "generatedSha256": "aea114abe566c207778b3497c50c4dd1f818200405db3f513cf3b282e52f1b45",
+      "illustration": "4000-essential-english-words-book-1/assets/21-katy.png"
+    },
+    {
+      "order": 22,
+      "title": "A Better Reward",
+      "sourceDocument": "OEBPS/Text/Unit_22.xhtml",
+      "sourceSha256": "d3f67f0b97fa946bf4d4769006d7dac191fe25c3f45662f886ed08f8241a2846",
+      "sourceParagraphCount": 9,
+      "sourceWordCount": 314,
+      "characters": [
+        "Jenny",
+        "Jim",
+        "a mother dog",
+        "the puppies",
+        "restaurant staff",
+        "the police"
+      ],
+      "setting": "A restaurant delivery area and the neighborhood around a customer's house.",
+      "theme": "Compassion can be more rewarding than money or punishment.",
+      "mainEvents": [
+        "Jenny reads about an uncaught food thief and a police reward.",
+        "Against Jim's advice, she chases the thief after a delivery is stolen.",
+        "She discovers a thin mother dog feeding puppies.",
+        "The restaurant workers adopt the dogs, and Jenny values her new dog over the cash reward."
+      ],
+      "generatedStory": "4000-essential-english-words-book-1/22-a-better-reward.json",
+      "generatedSha256": "860a259f208374c02278a7f8802e53445aa1f43ea5f2e0bdb30586a559281f1c",
+      "illustration": "4000-essential-english-words-book-1/assets/22-a-better-reward.jpg"
+    },
+    {
+      "order": 23,
+      "title": "The camp",
+      "sourceDocument": "OEBPS/Text/Unit_23.xhtml",
+      "sourceSha256": "b9d4878847738f4af7ff4e699a77526e64ce769e2fa2cda9c02dc1bc9fe6c6e3",
+      "sourceParagraphCount": 7,
+      "sourceWordCount": 306,
+      "characters": [
+        "Stacie",
+        "her parents",
+        "blue-team campers",
+        "red-team campers"
+      ],
+      "setting": "A noisy summer camp near an airport and its forest game area.",
+      "theme": "Trying an unwanted new experience can reveal confidence and friendship.",
+      "mainEvents": [
+        "Stacie resents being sent to a camp with plain food, swimming, noise, and spider webs.",
+        "She attends water-safety class and reluctantly joins a water-gun flag game.",
+        "Stacie discovers that she enjoys the game and captures the red flag.",
+        "Her blue team wins, and she enjoys the remaining week with new friends."
+      ],
+      "generatedStory": "4000-essential-english-words-book-1/23-the-camp.json",
+      "generatedSha256": "d87956bcae78c9014db06f3a0c7077c09f770fc75880e877f1bd4ad0293f5061",
+      "illustration": "4000-essential-english-words-book-1/assets/23-the-camp.png"
+    },
+    {
+      "order": 24,
+      "title": "A Strong Friendship",
+      "sourceDocument": "OEBPS/Text/Unit_24.xhtml",
+      "sourceSha256": "72e6563eb48f4631aadddab7733a2c243b7f1fce8c2dacd7687c92066ff5ce59",
+      "sourceParagraphCount": 9,
+      "sourceWordCount": 308,
+      "characters": [
+        "Tim",
+        "Jack",
+        "the snowbound townspeople"
+      ],
+      "setting": "A town buried in snow and narrow passages beneath it.",
+      "theme": "Different strengths become powerful through cooperation and friendship.",
+      "mainEvents": [
+        "Strong, famous Tim and smart, jealous Jack compete for recognition.",
+        "A snowstorm traps the town without food.",
+        "Jack finds passages; Tim breaks ice blocks until exhausted.",
+        "Jack retrieves food and guides Tim home, teaching both men friendship."
+      ],
+      "generatedStory": "4000-essential-english-words-book-1/24-a-strong-friendship.json",
+      "generatedSha256": "47328be684ec425756d1ab1547f48e392ba71a43c1414ac58bd1f0f9c1460dfb",
+      "illustration": "4000-essential-english-words-book-1/assets/24-a-strong-friendship.jpg"
+    },
+    {
+      "order": 25,
+      "title": "Joe’s Pond",
+      "sourceDocument": "OEBPS/Text/Unit_25.xhtml",
+      "sourceSha256": "1b7756456a5316aaccdd227aa558f42f32fe5d7e36e8fb1e8d97e1083a202abf",
+      "sourceParagraphCount": 6,
+      "sourceWordCount": 314,
+      "characters": [
+        "Joe",
+        "Joe's grandfather",
+        "family members",
+        "friends and volunteers"
+      ],
+      "setting": "A school, a public park, and a trash-filled pond.",
+      "theme": "Persistent community action can repair a damaged environment.",
+      "mainEvents": [
+        "A school video shows factory trash making river communities sick.",
+        "Joe recognizes similar pollution in a park pond.",
+        "His grandfather encourages him to continue the family's tradition of helping people.",
+        "Joe organizes six weeks of cleanup until the pond is free of trash and safe for swimming."
+      ],
+      "generatedStory": "4000-essential-english-words-book-1/25-joes-pond.json",
+      "generatedSha256": "d5ad03faf484091beea9918c9ad5a2b2f67335f7533f52aa1647c88a52f0a390",
+      "illustration": "4000-essential-english-words-book-1/assets/25-joes-pond.jpg"
+    },
+    {
+      "order": 26,
+      "title": "Archie and His Donkey",
+      "sourceDocument": "OEBPS/Text/Unit_26.xhtml",
+      "sourceSha256": "f841864f745f74ace9331a6ec32ee6e486680efd0898f774abd4f2822ab9e1dd",
+      "sourceParagraphCount": 16,
+      "sourceWordCount": 297,
+      "characters": [
+        "Archie",
+        "his son Tom",
+        "a woman",
+        "a farmer",
+        "teenage boys",
+        "the donkey"
+      ],
+      "setting": "A long road to town and the town entrance.",
+      "theme": "Trying to please everyone can destroy one's own judgment and goal.",
+      "mainEvents": [
+        "Archie and Tom take a donkey to town to sell it.",
+        "A woman says Archie should ride; a farmer later advises that neither should ride and that they should carry it.",
+        "They arrive late while carrying the heavy donkey.",
+        "Teenagers mock and stone them; the donkey escapes, leaving Archie with nothing."
+      ],
+      "generatedStory": "4000-essential-english-words-book-1/26-archie-and-his-donkey.json",
+      "generatedSha256": "63d874a4eb65fa2f330ffc4c00aea8e54165b852100ed3f3a6487fcb38c1c1b6",
+      "illustration": "4000-essential-english-words-book-1/assets/26-archie-and-his-donkey.jpg"
+    },
+    {
+      "order": 27,
+      "title": "The Spider and the Bird",
+      "sourceDocument": "OEBPS/Text/Unit_27.xhtml",
+      "sourceSha256": "78c65259df160410d63605e429fac49f9a6bf362766f41bc843bf4b54e11223b",
+      "sourceParagraphCount": 10,
+      "sourceWordCount": 312,
+      "characters": [
+        "the large spider",
+        "the small bird"
+      ],
+      "setting": "A forest web and a flight over the surrounding landscape.",
+      "theme": "A fair bargain and shared experience can turn fear into friendship.",
+      "mainEvents": [
+        "A spider tests trapped insects with puzzles before deciding whether to eat them.",
+        "A bird becomes trapped and bargains for a chance to answer.",
+        "She answers 'the sky' to a riddle whose answer is Hawaii and must provide valuable food.",
+        "The bird carries the spider on a bug-finding tour, and they become friends."
+      ],
+      "generatedStory": "4000-essential-english-words-book-1/27-the-spider-and-the-bird.json",
+      "generatedSha256": "5a08f461ad185d7c9c89b7380c9d11b906d70ec809d9a727115e4aa7c3ff57ac",
+      "illustration": "4000-essential-english-words-book-1/assets/27-the-spider-and-the-bird.png"
+    },
+    {
+      "order": 28,
+      "title": "The Party",
+      "sourceDocument": "OEBPS/Text/Unit_28.xhtml",
+      "sourceSha256": "e762a7420fd9fe4472af485689a5682b45bea30103f40299b8ec03f61ef12d5d",
+      "sourceParagraphCount": 11,
+      "sourceWordCount": 325,
+      "characters": [
+        "Cody",
+        "Cody's father",
+        "Cody's grandparents",
+        "the band"
+      ],
+      "setting": "Cody's new house and garage during a snowstorm.",
+      "theme": "The presence of loved ones matters more than elaborate entertainment.",
+      "mainEvents": [
+        "Cody plans a birthday party with a band at his new home.",
+        "Heavy snow forces the stage indoors, then keeps the band and other performers away.",
+        "The party is canceled, and Cody misses his old home and grandparents.",
+        "His grandparents arrive despite the delay, and their visit makes the birthday special."
+      ],
+      "generatedStory": "4000-essential-english-words-book-1/28-the-party.json",
+      "generatedSha256": "d1aea96867cf7be36807ed970f25a1e8c2cb7fb2effa80537dc88b28383e0b28",
+      "illustration": "4000-essential-english-words-book-1/assets/28-the-party.jpg"
+    },
+    {
+      "order": 29,
+      "title": "How the World Got Light",
+      "sourceDocument": "OEBPS/Text/Unit_29.xhtml",
+      "sourceSha256": "4cce55ee826e3fc2ca0dc5cac533e8993e093a0cfbc57a5daeb844191c18c76c",
+      "sourceParagraphCount": 7,
+      "sourceWordCount": 300,
+      "characters": [
+        "the pig president",
+        "Raven",
+        "the animals of Darkland"
+      ],
+      "setting": "Darkland, the president's house, and the sky.",
+      "theme": "Clever resistance can free a resource hoarded by an unjust ruler.",
+      "mainEvents": [
+        "The pig president keeps all light and the sun inside a bag.",
+        "The animals hold a contest and choose Raven as the smartest.",
+        "Raven imitates a crying baby so the president opens his door.",
+        "Raven steals the bag, releases the sun into the sky, and gives everyone light."
+      ],
+      "generatedStory": "4000-essential-english-words-book-1/29-how-the-world-got-light.json",
+      "generatedSha256": "690410ba6b18178287337524640561597779176cb7f3880da69ca31b874ecafa",
+      "illustration": "4000-essential-english-words-book-1/assets/29-how-the-world-got-light.jpg"
+    },
+    {
+      "order": 30,
+      "title": "Cats and Secrets",
+      "sourceDocument": "OEBPS/Text/Unit_30.xhtml",
+      "sourceSha256": "5243c29a1d2439dd1e1d23a46fbca74bebd6aa89753672cc70f7e735379e3f44",
+      "sourceParagraphCount": 11,
+      "sourceWordCount": 314,
+      "characters": [
+        "Beth",
+        "the dishonest seller",
+        "Beth's friends",
+        "a judge",
+        "the cats"
+      ],
+      "setting": "A market area in an old section of England and a judge's court.",
+      "theme": "Evidence exposes deception, and a revealed secret cannot be hidden again.",
+      "mainEvents": [
+        "A dishonest seller offers Beth a cheap baby pig.",
+        "He gives her a closed bag containing a cat instead.",
+        "When he returns, Beth and her friends take the case to a judge.",
+        "Beth opens the seller's bag, releases another cat as evidence, and exposes his secret."
+      ],
+      "generatedStory": "4000-essential-english-words-book-1/30-cats-and-secrets.json",
+      "generatedSha256": "b58b4aa87c08576869f2c2f660eb849a9aefe411a347892528b69e8b606c7464",
+      "illustration": "4000-essential-english-words-book-1/assets/30-cats-and-secrets.jpg"
+    }
+  ],
+  "assets": {
+    "availableIllustrations": 30,
+    "extracted": 30,
+    "skippedUnrelated": [
+      "OEBPS/Images/cover.jpg"
+    ],
+    "items": [
+      {
+        "storyOrder": 1,
+        "sourcePath": "OEBPS/Images/1.jpg",
+        "path": "4000-essential-english-words-book-1/assets/01-the-lion-and-the-rabbit.jpg",
+        "mediaType": "image/jpeg",
+        "width": 699,
+        "height": 419,
+        "bytes": 75334,
+        "sha256": "1b0ebca1860b5a677f2b0f0284ed6b2bbbb27e7f2a3749c2060d28f5a068ed64",
+        "optimization": "source bytes preserved; EPUB asset was already compressed"
+      },
+      {
+        "storyOrder": 2,
+        "sourcePath": "OEBPS/Images/2.jpg",
+        "path": "4000-essential-english-words-book-1/assets/02-the-laboratory.jpg",
+        "mediaType": "image/jpeg",
+        "width": 693,
+        "height": 295,
+        "bytes": 45766,
+        "sha256": "a0c59dc01375cc206924903af7694c1bc6043f99328b8e27aebd9458b0c995d7",
+        "optimization": "source bytes preserved; EPUB asset was already compressed"
+      },
+      {
+        "storyOrder": 3,
+        "sourcePath": "OEBPS/Images/3.jpg",
+        "path": "4000-essential-english-words-book-1/assets/03-the-report.jpg",
+        "mediaType": "image/jpeg",
+        "width": 476,
+        "height": 336,
+        "bytes": 68690,
+        "sha256": "896760effc86578d995779f19048c598a703d4e75f6f09211381fafb0a47db31",
+        "optimization": "source bytes preserved; EPUB asset was already compressed"
+      },
+      {
+        "storyOrder": 4,
+        "sourcePath": "OEBPS/Images/4.jpg",
+        "path": "4000-essential-english-words-book-1/assets/04-the-dogs-bell.jpg",
+        "mediaType": "image/jpeg",
+        "width": 643,
+        "height": 267,
+        "bytes": 57270,
+        "sha256": "7b1cd73524f82f89c7175b3b38fa66e30dbae97b25d7462b34fb8071cdde7732",
+        "optimization": "source bytes preserved; EPUB asset was already compressed"
+      },
+      {
+        "storyOrder": 5,
+        "sourcePath": "OEBPS/Images/5.jpg",
+        "path": "4000-essential-english-words-book-1/assets/05-the-jackal-and-the-sun-child.jpg",
+        "mediaType": "image/jpeg",
+        "width": 401,
+        "height": 487,
+        "bytes": 56209,
+        "sha256": "2920757d6a45ea193a2d68f4b7f8f4738c879306daa0f644902364f77cead52a",
+        "optimization": "source bytes preserved; EPUB asset was already compressed"
+      },
+      {
+        "storyOrder": 6,
+        "sourcePath": "OEBPS/Images/6.jpg",
+        "path": "4000-essential-english-words-book-1/assets/06-the-friendly-ghost.jpg",
+        "mediaType": "image/jpeg",
+        "width": 658,
+        "height": 453,
+        "bytes": 64696,
+        "sha256": "16af2ab21de31739e2a4bfa579608ab8eb40fb4b5e275f31edeff45aba022260",
+        "optimization": "source bytes preserved; EPUB asset was already compressed"
+      },
+      {
+        "storyOrder": 7,
+        "sourcePath": "OEBPS/Images/7.jpg",
+        "path": "4000-essential-english-words-book-1/assets/07-the-best-prince.jpg",
+        "mediaType": "image/jpeg",
+        "width": 392,
+        "height": 239,
+        "bytes": 34034,
+        "sha256": "72bb9a16378d76d29533a1beb3427148b571b6be860e6c933b93988b9480c5f0",
+        "optimization": "source bytes preserved; EPUB asset was already compressed"
+      },
+      {
+        "storyOrder": 8,
+        "sourcePath": "OEBPS/Images/8.jpg",
+        "path": "4000-essential-english-words-book-1/assets/08-how-the-sun-and-the-moon-were-made.jpg",
+        "mediaType": "image/jpeg",
+        "width": 717,
+        "height": 425,
+        "bytes": 95720,
+        "sha256": "ebc0dc6a5694d4bcfa3a5e0f702550d56703f02b474ddefd9cde2f1da82093cc",
+        "optimization": "source bytes preserved; EPUB asset was already compressed"
+      },
+      {
+        "storyOrder": 9,
+        "sourcePath": "OEBPS/Images/9.jpg",
+        "path": "4000-essential-english-words-book-1/assets/09-the-starfish.jpg",
+        "mediaType": "image/jpeg",
+        "width": 431,
+        "height": 425,
+        "bytes": 27646,
+        "sha256": "83f19a769d2065274275f61bafdb1cb511cad629243678021c62569748773a41",
+        "optimization": "source bytes preserved; EPUB asset was already compressed"
+      },
+      {
+        "storyOrder": 10,
+        "sourcePath": "OEBPS/Images/10.jpg",
+        "path": "4000-essential-english-words-book-1/assets/10-the-first-peacock.jpg",
+        "mediaType": "image/jpeg",
+        "width": 584,
+        "height": 574,
+        "bytes": 112709,
+        "sha256": "00497cb2eb88006236ee8b370053e54fdd5cf6884074130a5e8196a0f2a225b1",
+        "optimization": "source bytes preserved; EPUB asset was already compressed"
+      },
+      {
+        "storyOrder": 11,
+        "sourcePath": "OEBPS/Images/11.jpg",
+        "path": "4000-essential-english-words-book-1/assets/11-princess-rose-and-the-creature.jpg",
+        "mediaType": "image/jpeg",
+        "width": 797,
+        "height": 536,
+        "bytes": 69512,
+        "sha256": "048e925b6ccae73b64d10a4e61462fe44765b768342a7dff292e23f592b6423c",
+        "optimization": "source bytes preserved; EPUB asset was already compressed"
+      },
+      {
+        "storyOrder": 12,
+        "sourcePath": "OEBPS/Images/12.jpg",
+        "path": "4000-essential-english-words-book-1/assets/12-the-crazy-artist.jpg",
+        "mediaType": "image/jpeg",
+        "width": 380,
+        "height": 384,
+        "bytes": 40311,
+        "sha256": "264a0c9dfa0ac8cb224387b553aaba8f004c5820688f59118aa7d79e532543f5",
+        "optimization": "source bytes preserved; EPUB asset was already compressed"
+      },
+      {
+        "storyOrder": 13,
+        "sourcePath": "OEBPS/Images/13.jpg",
+        "path": "4000-essential-english-words-book-1/assets/13-the-farmer-and-the-cats.jpg",
+        "mediaType": "image/jpeg",
+        "width": 410,
+        "height": 230,
+        "bytes": 36159,
+        "sha256": "8891e4215bacfbdfca88b7196f132aaa91f183144284648c40eb46afe42063ce",
+        "optimization": "source bytes preserved; EPUB asset was already compressed"
+      },
+      {
+        "storyOrder": 14,
+        "sourcePath": "OEBPS/Images/14.jpg",
+        "path": "4000-essential-english-words-book-1/assets/14-a-magical-book.jpg",
+        "mediaType": "image/jpeg",
+        "width": 899,
+        "height": 507,
+        "bytes": 102786,
+        "sha256": "bccaed2aebc4ebdccd13f8c353d712198e01ed3a7919130af268ac00f9f91919",
+        "optimization": "source bytes preserved; EPUB asset was already compressed"
+      },
+      {
+        "storyOrder": 15,
+        "sourcePath": "OEBPS/Images/15.jpg",
+        "path": "4000-essential-english-words-book-1/assets/15-the-big-race.jpg",
+        "mediaType": "image/jpeg",
+        "width": 455,
+        "height": 275,
+        "bytes": 45101,
+        "sha256": "75b222f54be9bd41b3f84161a80084667493ca18b0b7e29fc7c82ef394cd2217",
+        "optimization": "source bytes preserved; EPUB asset was already compressed"
+      },
+      {
+        "storyOrder": 16,
+        "sourcePath": "OEBPS/Images/16.jpg",
+        "path": "4000-essential-english-words-book-1/assets/16-adams-countys-gold.jpg",
+        "mediaType": "image/jpeg",
+        "width": 641,
+        "height": 386,
+        "bytes": 73619,
+        "sha256": "b206010c5617511c0a1e81a663417490222d0787a92677872295bc76cce72933",
+        "optimization": "source bytes preserved; EPUB asset was already compressed"
+      },
+      {
+        "storyOrder": 17,
+        "sourcePath": "OEBPS/Images/17.jpg",
+        "path": "4000-essential-english-words-book-1/assets/17-the-race-for-water.jpg",
+        "mediaType": "image/jpeg",
+        "width": 710,
+        "height": 330,
+        "bytes": 76271,
+        "sha256": "01651bbc139196af7e81399cee507b08a4a1df9b4bbea6f223385d965fdcc2dc",
+        "optimization": "source bytes preserved; EPUB asset was already compressed"
+      },
+      {
+        "storyOrder": 18,
+        "sourcePath": "OEBPS/Images/18.jpg",
+        "path": "4000-essential-english-words-book-1/assets/18-the-little-red-chicken.png",
+        "mediaType": "image/png",
+        "width": 633,
+        "height": 261,
+        "bytes": 402885,
+        "sha256": "9c3d05681f8deab482f2cc840670b7446a8d6da763c444406f4325fe5a42927b",
+        "optimization": "source bytes preserved; EPUB asset was already compressed"
+      },
+      {
+        "storyOrder": 19,
+        "sourcePath": "OEBPS/Images/19.jpg",
+        "path": "4000-essential-english-words-book-1/assets/19-shipwrecked.jpg",
+        "mediaType": "image/jpeg",
+        "width": 600,
+        "height": 476,
+        "bytes": 81476,
+        "sha256": "58c1d7e8869fd011936926c4797b0ec25a7ea41394a3b786a26a72a177f6b5a6",
+        "optimization": "source bytes preserved; EPUB asset was already compressed"
+      },
+      {
+        "storyOrder": 20,
+        "sourcePath": "OEBPS/Images/20.jpg",
+        "path": "4000-essential-english-words-book-1/assets/20-the-seven-cities-of-gold.jpg",
+        "mediaType": "image/jpeg",
+        "width": 499,
+        "height": 281,
+        "bytes": 47449,
+        "sha256": "ccf406bef348ec2c31cc5924f8c6a4eb059740a8d50162de0507922453db73b8",
+        "optimization": "source bytes preserved; EPUB asset was already compressed"
+      },
+      {
+        "storyOrder": 21,
+        "sourcePath": "OEBPS/Images/21.jpg",
+        "path": "4000-essential-english-words-book-1/assets/21-katy.png",
+        "mediaType": "image/png",
+        "width": 629,
+        "height": 498,
+        "bytes": 75868,
+        "sha256": "8190753e07c7820e00238c3c93bd42001505ffc786be1c6873e7e037f14785f1",
+        "optimization": "source bytes preserved; EPUB asset was already compressed"
+      },
+      {
+        "storyOrder": 22,
+        "sourcePath": "OEBPS/Images/22.jpg",
+        "path": "4000-essential-english-words-book-1/assets/22-a-better-reward.jpg",
+        "mediaType": "image/jpeg",
+        "width": 662,
+        "height": 467,
+        "bytes": 48795,
+        "sha256": "4bedbf087599b48e81c8e07b7aa17afe2755e832a11eac10e09f717d61e28275",
+        "optimization": "source bytes preserved; EPUB asset was already compressed"
+      },
+      {
+        "storyOrder": 23,
+        "sourcePath": "OEBPS/Images/23.jpg",
+        "path": "4000-essential-english-words-book-1/assets/23-the-camp.png",
+        "mediaType": "image/png",
+        "width": 495,
+        "height": 359,
+        "bytes": 180257,
+        "sha256": "4815df8e97824b31587e5fceeb00e11fceb1c679b30bd63ecc9bcd5860d782a0",
+        "optimization": "source bytes preserved; EPUB asset was already compressed"
+      },
+      {
+        "storyOrder": 24,
+        "sourcePath": "OEBPS/Images/24.jpg",
+        "path": "4000-essential-english-words-book-1/assets/24-a-strong-friendship.jpg",
+        "mediaType": "image/jpeg",
+        "width": 363,
+        "height": 604,
+        "bytes": 54267,
+        "sha256": "5c9f4db2eb87bc68b1944e7be98468c8319aa9474caaf3bc96540fcb77fcd100",
+        "optimization": "source bytes preserved; EPUB asset was already compressed"
+      },
+      {
+        "storyOrder": 25,
+        "sourcePath": "OEBPS/Images/25.jpg",
+        "path": "4000-essential-english-words-book-1/assets/25-joes-pond.jpg",
+        "mediaType": "image/jpeg",
+        "width": 464,
+        "height": 358,
+        "bytes": 44323,
+        "sha256": "ae4ce2bd14c844282478959189747c43ed101861026a790f86a5e7b07ad5b8a9",
+        "optimization": "source bytes preserved; EPUB asset was already compressed"
+      },
+      {
+        "storyOrder": 26,
+        "sourcePath": "OEBPS/Images/26.jpg",
+        "path": "4000-essential-english-words-book-1/assets/26-archie-and-his-donkey.jpg",
+        "mediaType": "image/jpeg",
+        "width": 650,
+        "height": 299,
+        "bytes": 30608,
+        "sha256": "adb838e9444026364af89c567550cda6577f5c4d99e69420e182f05cc8f1d53f",
+        "optimization": "source bytes preserved; EPUB asset was already compressed"
+      },
+      {
+        "storyOrder": 27,
+        "sourcePath": "OEBPS/Images/27.jpg",
+        "path": "4000-essential-english-words-book-1/assets/27-the-spider-and-the-bird.png",
+        "mediaType": "image/png",
+        "width": 500,
+        "height": 500,
+        "bytes": 218826,
+        "sha256": "c7a03fb91a62f374090ed984fc1608acaf8da2c5a11bd7936a8759bd32440d9c",
+        "optimization": "source bytes preserved; EPUB asset was already compressed"
+      },
+      {
+        "storyOrder": 28,
+        "sourcePath": "OEBPS/Images/28.jpg",
+        "path": "4000-essential-english-words-book-1/assets/28-the-party.jpg",
+        "mediaType": "image/jpeg",
+        "width": 380,
+        "height": 209,
+        "bytes": 45448,
+        "sha256": "7abc65eada41f9219bd5d23446a5a539046fa2eabb9fa1ab426929d5e694165f",
+        "optimization": "source bytes preserved; EPUB asset was already compressed"
+      },
+      {
+        "storyOrder": 29,
+        "sourcePath": "OEBPS/Images/29.jpg",
+        "path": "4000-essential-english-words-book-1/assets/29-how-the-world-got-light.jpg",
+        "mediaType": "image/jpeg",
+        "width": 500,
+        "height": 357,
+        "bytes": 30761,
+        "sha256": "ba2eb23ddae671b585828ae5f3d2faff865f2bd5ce15816da9d384b4b35cab59",
+        "optimization": "source bytes preserved; EPUB asset was already compressed"
+      },
+      {
+        "storyOrder": 30,
+        "sourcePath": "OEBPS/Images/30.jpg",
+        "path": "4000-essential-english-words-book-1/assets/30-cats-and-secrets.jpg",
+        "mediaType": "image/jpeg",
+        "width": 690,
+        "height": 404,
+        "bytes": 80888,
+        "sha256": "76cba2f0d67cc57013fa351dd3c2cc30408e7b7235629321f5692a4f52e65b20",
+        "optimization": "source bytes preserved; EPUB asset was already compressed"
+      }
+    ]
+  },
+  "copyrightTreatment": "Each entry is a concise original bilingual retelling and does not reproduce or translate the complete source story text."
+}

@@ -10,11 +10,15 @@ https://raw.githubusercontent.com/HamzahSk/rolang-server/data/
 ```
 
 `manifest.json` discovers two courses with 13 unit documents and 44 lessons,
-plus all 30 narrative units from *4000 Essential English Words - Book 2*. Each
-story is a concise Tagalog retelling with an equivalent Indonesian version,
-story-specific vocabulary, expressions, grammar, comprehension questions, and
-a separate answer key. All 30 matching EPUB illustrations are published with
-their stories. Every JSON and image reference is checked by
+plus the aggregate Stories index in `storie/index.json`. That index contains
+all 60 narrative units from *4000 Essential English Words* Book 1 and Book 2;
+each book also has its own index and source audit beneath
+`storie/4000-essential-english-words-book-{1,2}/`. Stories retain their source
+book in `collectionId`, while broad thematic categories are shared across both
+books. Each story is a concise Tagalog retelling with an equivalent Indonesian
+version, story-specific vocabulary, expressions, grammar, comprehension
+questions, and a separate answer key. Every matching EPUB illustration is
+published with its story. Every JSON and image reference is checked by
 `tools/validate_content.py`; indexes contain SHA-256 hashes used by Android
 before cached content is replaced.
 
@@ -46,14 +50,18 @@ python3 tools/validate_content.py .
 ```
 
 Generated content must be committed and published only from the `data` branch.
+Both story builders merge their book into the aggregate index, reject duplicate
+IDs and paths, and refuse to drop an existing story file when the other book is
+updated.
 
 ## Regenerate Stories
 
-The Book 2 builder inspects the complete EPUB spine, classifies the 30 numbered
+The Book 1 and Book 2 builders inspect their complete EPUB spines, classify the
+30 numbered
 unit documents as narratives, excludes the cover, copyright page, and two
 reference documents, verifies every preserved title, and extracts the
 illustration linked from each narrative. It stores source hashes, characters,
-settings, themes, and plot events in `storie/source-audit.json`, but does not
+settings, themes, and plot events in each book's `source-audit.json`, but does not
 publish or translate the complete copyrighted English story text.
 
 ```sh

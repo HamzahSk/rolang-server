@@ -13,6 +13,8 @@ from pathlib import Path
 from typing import Any
 from zipfile import ZipFile
 
+from story_catalog import category_for, publish_collection
+
 
 BOOK_TITLE = "4000 essential english words - Book 1"
 COLLECTION_ID = "4000-essential-english-words-book-1"
@@ -1127,6 +1129,7 @@ def build(epub: Path, root: Path) -> None:
         })
 
         story = build_story_document(spec, order, image_path)
+        story["category"] = category_for(story["id"], story["category"])
         story_path = output_dir / f"{stem}.json"
         story_path.write_bytes(json_bytes(story))
         story_hash = sha256_file(story_path)
@@ -1188,32 +1191,26 @@ def build(epub: Path, root: Path) -> None:
         },
         "copyrightTreatment": "Each entry is a concise original bilingual retelling and does not reproduce or translate the complete source story text.",
     }
-    audit_path = root / "storie" / "source-audit.json"
+    audit_path = output_dir / "source-audit.json"
     audit_path.write_bytes(json_bytes(audit))
 
-    index = {
-        "schemaVersion": 1,
-        "id": COLLECTION_ID,
-        "languagePair": {"reference": "id", "target": "fil"},
-        "title": localized(
-            "Cerita dari 4000 Essential English Words — Buku 1",
-            "Mga Kuwento mula sa 4000 Essential English Words — Book 1",
-        ),
-        "description": localized(
-            "Tiga puluh retelling ringkas dalam bahasa Tagalog dengan terjemahan Indonesia, mengikuti urutan asli buku.",
-            "Tatlumpung maiikling muling pagsasalaysay sa Tagalog na may salin sa Indonesian, ayon sa orihinal na ayos ng aklat.",
-        ),
-        "storyCount": len(references),
-        "sourceAudit": {"path": "source-audit.json", "sha256": sha256_file(audit_path)},
-        "stories": references,
-    }
-    index_path = root / "storie" / "index.json"
-    index_path.write_bytes(json_bytes(index))
-
-    manifest_path = root / "manifest.json"
-    manifest = json.loads(manifest_path.read_text(encoding="utf-8"))
-    manifest["stories"] = {"index": "storie/index.json", "sha256": sha256_file(index_path)}
-    manifest_path.write_bytes(json_bytes(manifest))
+    publish_collection(
+        root,
+        {
+            "id": COLLECTION_ID,
+            "order": 1,
+            "title": localized(
+                "Cerita dari 4000 Essential English Words — Buku 1",
+                "Mga Kuwento mula sa 4000 Essential English Words — Book 1",
+            ),
+            "description": localized(
+                "Tiga puluh retelling ringkas dalam bahasa Tagalog dengan terjemahan Indonesia, mengikuti urutan asli buku.",
+                "Tatlumpung maiikling muling pagsasalaysay sa Tagalog na may salin sa Indonesian, ayon sa orihinal na ayos ng aklat.",
+            ),
+        },
+        references,
+        audit_path,
+    )
 
 
 def main() -> None:

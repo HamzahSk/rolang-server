@@ -1,34 +1,837 @@
 {
   "schemaVersion": 1,
-  "id": "4000-essential-english-words-book-2",
+  "id": "4000-essential-english-words",
   "languagePair": {
     "reference": "id",
     "target": "fil"
   },
   "title": {
-    "id": "Cerita dari 4000 Essential English Words — Buku 2",
-    "fil": "Mga Kuwento mula sa 4000 Essential English Words — Book 2"
+    "id": "Cerita dari 4000 Essential English Words — Buku 1 dan 2",
+    "fil": "Mga Kuwento mula sa 4000 Essential English Words — Book 1 at 2"
   },
   "description": {
-    "id": "Tiga puluh retelling ringkas dalam bahasa Tagalog dengan terjemahan Indonesia, mengikuti urutan asli Buku 2.",
-    "fil": "Tatlumpung maiikling muling pagsasalaysay sa Tagalog na may salin sa Indonesian, ayon sa orihinal na ayos ng Book 2."
+    "id": "Enam puluh retelling ringkas dalam bahasa Tagalog dengan terjemahan Indonesia dari Buku 1 dan Buku 2.",
+    "fil": "Animnapung maiikling muling pagsasalaysay sa Tagalog na may salin sa Indonesian mula sa Book 1 at Book 2."
   },
-  "storyCount": 30,
+  "storyCount": 60,
+  "bookCount": 2,
   "sourceAudit": {
     "path": "source-audit.json",
-    "sha256": "1612c8deaa1704f9078193f63edb927bf11d405c9caa872d0acd6ebe6a480396"
+    "sha256": "fb6b606e322f7c5a3613f128146c7b3d8223e8993697108f1eb81f3695516f13"
   },
+  "categories": [
+    {
+      "id": "category-01",
+      "name": "Hewan dan Fabel",
+      "storyCount": 11
+    },
+    {
+      "id": "category-02",
+      "name": "Petualangan dan Penemuan",
+      "storyCount": 9
+    },
+    {
+      "id": "category-03",
+      "name": "Keluarga dan Persahabatan",
+      "storyCount": 8
+    },
+    {
+      "id": "category-04",
+      "name": "Alam dan Lingkungan",
+      "storyCount": 5
+    },
+    {
+      "id": "category-05",
+      "name": "Sejarah dan Budaya",
+      "storyCount": 10
+    },
+    {
+      "id": "category-06",
+      "name": "Kehidupan Sehari-hari",
+      "storyCount": 5
+    },
+    {
+      "id": "category-07",
+      "name": "Misteri dan Imajinasi",
+      "storyCount": 7
+    },
+    {
+      "id": "category-08",
+      "name": "Nilai dan Pertumbuhan",
+      "storyCount": 5
+    }
+  ],
+  "collections": [
+    {
+      "id": "4000-essential-english-words-book-1",
+      "order": 1,
+      "index": "4000-essential-english-words-book-1/index.json",
+      "sha256": "be80c5ac7bd28319fca6e44b60f98550f0e2122afbebbea5e477e24f921241ed",
+      "title": {
+        "id": "Cerita dari 4000 Essential English Words — Buku 1",
+        "fil": "Mga Kuwento mula sa 4000 Essential English Words — Book 1"
+      },
+      "description": {
+        "id": "Tiga puluh retelling ringkas dalam bahasa Tagalog dengan terjemahan Indonesia, mengikuti urutan asli buku.",
+        "fil": "Tatlumpung maiikling muling pagsasalaysay sa Tagalog na may salin sa Indonesian, ayon sa orihinal na ayos ng aklat."
+      },
+      "storyCount": 30,
+      "sourceAudit": {
+        "path": "4000-essential-english-words-book-1/source-audit.json",
+        "sha256": "2737e095e9d3e212541f42d792395a38e1a2e46033262378301cd8463bcb5406"
+      }
+    },
+    {
+      "id": "4000-essential-english-words-book-2",
+      "order": 2,
+      "index": "4000-essential-english-words-book-2/index.json",
+      "sha256": "3a94a39faade87629b306e462eaddffc5a0eb431a583c89f6e600d77020b875d",
+      "title": {
+        "id": "Cerita dari 4000 Essential English Words — Buku 2",
+        "fil": "Mga Kuwento mula sa 4000 Essential English Words — Book 2"
+      },
+      "description": {
+        "id": "Tiga puluh retelling ringkas dalam bahasa Tagalog dengan terjemahan Indonesia, mengikuti urutan asli Buku 2.",
+        "fil": "Tatlumpung maiikling muling pagsasalaysay sa Tagalog na may salin sa Indonesian, ayon sa orihinal na ayos ng Book 2."
+      },
+      "storyCount": 30,
+      "sourceAudit": {
+        "path": "4000-essential-english-words-book-2/source-audit.json",
+        "sha256": "4298435eef7a88ce7ab46b44fa30630ec2999111417cff81853158e0932b4d4a"
+      }
+    }
+  ],
   "stories": [
+    {
+      "id": "book1-story-01-the-lion-and-the-rabbit",
+      "collectionId": "4000-essential-english-words-book-1",
+      "family": "4000-essential-english-words-book-1",
+      "category": "Hewan dan Fabel",
+      "level": "BEGINNER",
+      "order": 1,
+      "sourceOrder": 1,
+      "path": "4000-essential-english-words-book-1/01-the-lion-and-the-rabbit.json",
+      "sha256": "b728cbbd9959b94383f155ff6401022c537cb2059161cc082da95322e52a1d08",
+      "sentenceCount": 7,
+      "title": {
+        "id": "The Lion and the Rabbit",
+        "fil": "The Lion and the Rabbit"
+      },
+      "summary": {
+        "id": "Seekor kelinci memakai kecerdikannya untuk membebaskan hewan-hewan hutan dari singa yang kejam.",
+        "fil": "Ginamit ng isang kuneho ang kaniyang talino upang mailigtas ang mga hayop sa malupit na leon."
+      },
+      "image": "assets/01-the-lion-and-the-rabbit.jpg",
+      "assets": [
+        "assets/01-the-lion-and-the-rabbit.jpg"
+      ]
+    },
+    {
+      "id": "book1-story-02-the-laboratory",
+      "collectionId": "4000-essential-english-words-book-1",
+      "family": "4000-essential-english-words-book-1",
+      "category": "Keluarga dan Persahabatan",
+      "level": "BEGINNER",
+      "order": 2,
+      "sourceOrder": 2,
+      "path": "4000-essential-english-words-book-1/02-the-laboratory.json",
+      "sha256": "9b4d708dde511cbd8a5e968574fa2fe2fda0d1ca84101b6c4a3ab747c1955c09",
+      "sentenceCount": 7,
+      "title": {
+        "id": "The Laboratory",
+        "fil": "The Laboratory"
+      },
+      "summary": {
+        "id": "Mia dan Liz menyelidiki suara menakutkan dari laboratorium ayah Mia dan menemukan kejutan ulang tahun.",
+        "fil": "Inusisa nina Mia at Liz ang nakatatakot na tunog sa laboratoryo at natuklasan ang sorpresang regalo ng ama ni Mia."
+      },
+      "image": "assets/02-the-laboratory.jpg",
+      "assets": [
+        "assets/02-the-laboratory.jpg"
+      ]
+    },
+    {
+      "id": "book1-story-03-the-report",
+      "collectionId": "4000-essential-english-words-book-1",
+      "family": "4000-essential-english-words-book-1",
+      "category": "Petualangan dan Penemuan",
+      "level": "BEGINNER",
+      "order": 3,
+      "sourceOrder": 3,
+      "path": "4000-essential-english-words-book-1/03-the-report.json",
+      "sha256": "5ce82a6b1b5e896be9732f45f3cbcf8cc6d82b3a379d519745e012dd3e0cf63d",
+      "sentenceCount": 7,
+      "title": {
+        "id": "The Report",
+        "fil": "The Report"
+      },
+      "summary": {
+        "id": "Seorang alien membantu Lee menyelesaikan model planet untuk proyek kelompoknya setelah membawanya melihat ruang angkasa.",
+        "fil": "Tinulungan ng isang nilalang mula sa kalawakan si Lee na gumawa ng modelo ng planeta matapos siyang dalhin sa kalawakan."
+      },
+      "image": "assets/03-the-report.jpg",
+      "assets": [
+        "assets/03-the-report.jpg"
+      ]
+    },
+    {
+      "id": "book1-story-04-the-dogs-bell",
+      "collectionId": "4000-essential-english-words-book-1",
+      "family": "4000-essential-english-words-book-1",
+      "category": "Hewan dan Fabel",
+      "level": "BEGINNER",
+      "order": 4,
+      "sourceOrder": 4,
+      "path": "4000-essential-english-words-book-1/04-the-dogs-bell.json",
+      "sha256": "443f9a9a4d7293e18b4abc0e6750c03b7f2b7970e403675c1eb5577d46474f4d",
+      "sentenceCount": 7,
+      "title": {
+        "id": "The Dog’s Bell",
+        "fil": "The Dog’s Bell"
+      },
+      "summary": {
+        "id": "Seekor anjing yang suka menggigit mengira lonceng peringatannya membuatnya populer, tetapi anjing lain menjelaskan kebenarannya.",
+        "fil": "Inakala ng asong nangangagat na popular siya dahil sa kaniyang kampana, ngunit ipinaliwanag ng ibang aso ang tunay na dahilan."
+      },
+      "image": "assets/04-the-dogs-bell.jpg",
+      "assets": [
+        "assets/04-the-dogs-bell.jpg"
+      ]
+    },
+    {
+      "id": "book1-story-05-the-jackal-and-the-sun-child",
+      "collectionId": "4000-essential-english-words-book-1",
+      "family": "4000-essential-english-words-book-1",
+      "category": "Hewan dan Fabel",
+      "level": "BEGINNER",
+      "order": 5,
+      "sourceOrder": 5,
+      "path": "4000-essential-english-words-book-1/05-the-jackal-and-the-sun-child.json",
+      "sha256": "f642d9c556295e8528ef30d62f960781e72a4edb847a76e9d37c6724f96d623c",
+      "sentenceCount": 7,
+      "title": {
+        "id": "The Jackal and the Sun Child",
+        "fil": "The Jackal and the Sun Child"
+      },
+      "summary": {
+        "id": "Seekor jakal membawa anak matahari demi sebuah kalung, tetapi panasnya meninggalkan tanda hitam permanen di punggungnya.",
+        "fil": "Pinasan ng isang tsakal ang batang mula sa araw kapalit ng kuwintas, ngunit nag-iwan ang init ng permanenteng itim na bakas sa kaniyang likod."
+      },
+      "image": "assets/05-the-jackal-and-the-sun-child.jpg",
+      "assets": [
+        "assets/05-the-jackal-and-the-sun-child.jpg"
+      ]
+    },
+    {
+      "id": "book1-story-06-the-friendly-ghost",
+      "collectionId": "4000-essential-english-words-book-1",
+      "family": "4000-essential-english-words-book-1",
+      "category": "Misteri dan Imajinasi",
+      "level": "BEGINNER",
+      "order": 6,
+      "sourceOrder": 6,
+      "path": "4000-essential-english-words-book-1/06-the-friendly-ghost.json",
+      "sha256": "db8bbb937bd33965b411d1038980a6da6233d193ee1f3cdc481749f17915bcaf",
+      "sentenceCount": 7,
+      "title": {
+        "id": "The Friendly Ghost",
+        "fil": "The Friendly Ghost"
+      },
+      "summary": {
+        "id": "Hantu seorang perempuan baik menakut-nakuti anak-anak agar mereka menjauh dari sungai yang sedang meluap dan kembali ke rumah.",
+        "fil": "Tinakot ng multo ng isang mabait na babae ang mga bata upang mailayo sila sa umaapaw na ilog at maihatid pauwi."
+      },
+      "image": "assets/06-the-friendly-ghost.jpg",
+      "assets": [
+        "assets/06-the-friendly-ghost.jpg"
+      ]
+    },
+    {
+      "id": "book1-story-07-the-best-prince",
+      "collectionId": "4000-essential-english-words-book-1",
+      "family": "4000-essential-english-words-book-1",
+      "category": "Sejarah dan Budaya",
+      "level": "BEGINNER",
+      "order": 7,
+      "sourceOrder": 7,
+      "path": "4000-essential-english-words-book-1/07-the-best-prince.json",
+      "sha256": "52a8b423c8ad5789d8d6749877deacfae1f04eb8142532f3175c422b032f3456",
+      "sentenceCount": 7,
+      "title": {
+        "id": "The Best Prince",
+        "fil": "The Best Prince"
+      },
+      "summary": {
+        "id": "Raja Minos memilih Jason yang baik hati sebagai penerus, sementara dua putra yang lebih tua kehilangan kesempatan karena bertengkar.",
+        "fil": "Pinili ni Haring Minos ang mabait na si Jason bilang tagapagmana habang nawala ang pagkakataon ng dalawang nakatatandang anak dahil sa kanilang pag-aaway."
+      },
+      "image": "assets/07-the-best-prince.jpg",
+      "assets": [
+        "assets/07-the-best-prince.jpg"
+      ]
+    },
+    {
+      "id": "book1-story-08-how-the-sun-and-the-moon-were-made",
+      "collectionId": "4000-essential-english-words-book-1",
+      "family": "4000-essential-english-words-book-1",
+      "category": "Sejarah dan Budaya",
+      "level": "BEGINNER",
+      "order": 8,
+      "sourceOrder": 8,
+      "path": "4000-essential-english-words-book-1/08-how-the-sun-and-the-moon-were-made.json",
+      "sha256": "c73f39d27e321c23bbdb503d1e0bc8f4df3ec32939fbc2e6af4544eec21e4ee8",
+      "sentenceCount": 7,
+      "title": {
+        "id": "How the Sun and the Moon Were Made",
+        "fil": "How the Sun and the Moon Were Made"
+      },
+      "summary": {
+        "id": "Dalam sebuah kisah Inuit, seorang gadis mengungkap kejahatan saudaranya lalu mengejarnya hingga mereka menjadi bulan dan matahari.",
+        "fil": "Sa isang kuwentong Inuit, natukoy ng isang dalaga ang masamang ginawa ng kaniyang kapatid at hinabol ito hanggang maging buwan at araw silang dalawa."
+      },
+      "image": "assets/08-how-the-sun-and-the-moon-were-made.jpg",
+      "assets": [
+        "assets/08-how-the-sun-and-the-moon-were-made.jpg"
+      ]
+    },
+    {
+      "id": "book1-story-09-the-starfish",
+      "collectionId": "4000-essential-english-words-book-1",
+      "family": "4000-essential-english-words-book-1",
+      "category": "Alam dan Lingkungan",
+      "level": "BEGINNER",
+      "order": 9,
+      "sourceOrder": 9,
+      "path": "4000-essential-english-words-book-1/09-the-starfish.json",
+      "sha256": "f7525c7bbcc836ab14510bf4055e865aaa5deb7f11ed82793ec0b2f8263d33cd",
+      "sentenceCount": 7,
+      "title": {
+        "id": "The Starfish",
+        "fil": "The Starfish"
+      },
+      "summary": {
+        "id": "Seorang gadis kecil menunjukkan bahwa menyelamatkan satu bintang laut tetap berarti, meskipun ia tidak dapat menyelamatkan semuanya.",
+        "fil": "Ipinakita ng isang batang babae na mahalaga pa ring mailigtas ang isang bituing-dagat kahit hindi niya kayang iligtas ang lahat."
+      },
+      "image": "assets/09-the-starfish.jpg",
+      "assets": [
+        "assets/09-the-starfish.jpg"
+      ]
+    },
+    {
+      "id": "book1-story-10-the-first-peacock",
+      "collectionId": "4000-essential-english-words-book-1",
+      "family": "4000-essential-english-words-book-1",
+      "category": "Sejarah dan Budaya",
+      "level": "BEGINNER",
+      "order": 10,
+      "sourceOrder": 10,
+      "path": "4000-essential-english-words-book-1/10-the-first-peacock.json",
+      "sha256": "6d9104ef93def2f005713f52ee47a09b8fbacd98660d63e2c4b0cd414e9952c5",
+      "sentenceCount": 7,
+      "title": {
+        "id": "The First Peacock",
+        "fil": "The First Peacock"
+      },
+      "summary": {
+        "id": "Argos yang bermata seratus gagal menjaga sapi Hera setelah ditidurkan oleh musik, lalu matanya diabadikan pada ekor merak dan di langit.",
+        "fil": "Nabigo ang sandaang-matang si Argos na bantayan ang baka ni Hera matapos siyang patulugin ng musika, kaya inilagay ang kaniyang mga mata sa buntot ng paboreal at sa kalangitan."
+      },
+      "image": "assets/10-the-first-peacock.jpg",
+      "assets": [
+        "assets/10-the-first-peacock.jpg"
+      ]
+    },
+    {
+      "id": "book1-story-11-princess-rose-and-the-creature",
+      "collectionId": "4000-essential-english-words-book-1",
+      "family": "4000-essential-english-words-book-1",
+      "category": "Keluarga dan Persahabatan",
+      "level": "BEGINNER",
+      "order": 11,
+      "sourceOrder": 11,
+      "path": "4000-essential-english-words-book-1/11-princess-rose-and-the-creature.json",
+      "sha256": "28d90d7f63553ae13569b0cfb0b6b0a23bf5b20cd22b8a11bf5104edb227420a",
+      "sentenceCount": 7,
+      "title": {
+        "id": "Princess Rose and the Creature",
+        "fil": "Princess Rose and the Creature"
+      },
+      "summary": {
+        "id": "Putri Rose yang ditinggalkan di hutan menerima Henry tanpa menilai penampilannya, lalu kasih sayangnya mematahkan perubahan wujud Henry.",
+        "fil": "Tinanggap ni Prinsesa Rose si Henry nang hindi hinuhusgahan ang anyo nito, at binago ng kaniyang pagmamahal ang nilalang pabalik sa tunay nitong pagkatao."
+      },
+      "image": "assets/11-princess-rose-and-the-creature.jpg",
+      "assets": [
+        "assets/11-princess-rose-and-the-creature.jpg"
+      ]
+    },
+    {
+      "id": "book1-story-12-the-crazy-artist",
+      "collectionId": "4000-essential-english-words-book-1",
+      "family": "4000-essential-english-words-book-1",
+      "category": "Misteri dan Imajinasi",
+      "level": "BEGINNER",
+      "order": 12,
+      "sourceOrder": 12,
+      "path": "4000-essential-english-words-book-1/12-the-crazy-artist.json",
+      "sha256": "c925214a8152f369f164061796a378f9c27e1c577719c2dd2f74e41ce8c1eebd",
+      "sentenceCount": 7,
+      "title": {
+        "id": "The Crazy Artist",
+        "fil": "The Crazy Artist"
+      },
+      "summary": {
+        "id": "Karya eksperimental Frenhofer mula-mula ditolak para seniman, tetapi kemudian dipahami sebagai karya besar yang mendahului zamannya.",
+        "fil": "Noong una ay tinanggihan ng ibang pintor ang eksperimental na obra ni Frenhofer, ngunit kalaunan ay kinilala itong dakilang likhang nauna sa panahon nito."
+      },
+      "image": "assets/12-the-crazy-artist.jpg",
+      "assets": [
+        "assets/12-the-crazy-artist.jpg"
+      ]
+    },
+    {
+      "id": "book1-story-13-the-farmer-and-the-cats",
+      "collectionId": "4000-essential-english-words-book-1",
+      "family": "4000-essential-english-words-book-1",
+      "category": "Nilai dan Pertumbuhan",
+      "level": "BEGINNER",
+      "order": 13,
+      "sourceOrder": 13,
+      "path": "4000-essential-english-words-book-1/13-the-farmer-and-the-cats.json",
+      "sha256": "f378ae6a352411cec62bcd0edf0ad3a6cbb78d0566f632cf759f199eaf4ea7c7",
+      "sentenceCount": 7,
+      "title": {
+        "id": "The Farmer and the Cats",
+        "fil": "The Farmer and the Cats"
+      },
+      "summary": {
+        "id": "Arthur dan Maria yang terancam utang mendapat bantuan rahasia dari kucing-kucing mereka untuk menyelesaikan panen dan membayar tuan tanah.",
+        "fil": "Lihim na tinulungan ng mga pusa sina Arthur at Maria na matapos ang ani at mabayaran ang panginoong maylupa."
+      },
+      "image": "assets/13-the-farmer-and-the-cats.jpg",
+      "assets": [
+        "assets/13-the-farmer-and-the-cats.jpg"
+      ]
+    },
+    {
+      "id": "book1-story-14-a-magical-book",
+      "collectionId": "4000-essential-english-words-book-1",
+      "family": "4000-essential-english-words-book-1",
+      "category": "Misteri dan Imajinasi",
+      "level": "BEGINNER",
+      "order": 14,
+      "sourceOrder": 14,
+      "path": "4000-essential-english-words-book-1/14-a-magical-book.json",
+      "sha256": "e2fb080d521019f38c8c1a20d99ff68bfbd4560e5ff7e1904f7262cd1a123f49",
+      "sentenceCount": 7,
+      "title": {
+        "id": "A Magical Book",
+        "fil": "A Magical Book"
+      },
+      "summary": {
+        "id": "Buku ajaib memberi Sarah kemampuan mengendalikan orang; setelah menyelamatkan pelatihnya, ia memilih memakai kekuatan itu hanya untuk kebaikan.",
+        "fil": "Binigyan ng mahiwagang aklat si Sarah ng kakayahang kontrolin ang iba; matapos iligtas ang kaniyang coach, nagpasiya siyang gamitin lamang iyon sa kabutihan."
+      },
+      "image": "assets/14-a-magical-book.jpg",
+      "assets": [
+        "assets/14-a-magical-book.jpg"
+      ]
+    },
+    {
+      "id": "book1-story-15-the-big-race",
+      "collectionId": "4000-essential-english-words-book-1",
+      "family": "4000-essential-english-words-book-1",
+      "category": "Hewan dan Fabel",
+      "level": "BEGINNER",
+      "order": 15,
+      "sourceOrder": 15,
+      "path": "4000-essential-english-words-book-1/15-the-big-race.json",
+      "sha256": "63917e128ebbd99f6153baefd6b2a53a163d72e9608c27ffb7a41a88221083f5",
+      "sentenceCount": 7,
+      "title": {
+        "id": "The Big Race",
+        "fil": "The Big Race"
+      },
+      "summary": {
+        "id": "Kelinci yang terlalu percaya diri tertidur saat berlomba, sehingga kura-kura yang terus berjalan memenangkan perlombaan.",
+        "fil": "Nakatulog sa gitna ng karera ang sobrang kumpiyansang kuneho, kaya nanalo ang pagong na patuloy na lumakad."
+      },
+      "image": "assets/15-the-big-race.jpg",
+      "assets": [
+        "assets/15-the-big-race.jpg"
+      ]
+    },
+    {
+      "id": "book1-story-16-adams-countys-gold",
+      "collectionId": "4000-essential-english-words-book-1",
+      "family": "4000-essential-english-words-book-1",
+      "category": "Petualangan dan Penemuan",
+      "level": "BEGINNER",
+      "order": 16,
+      "sourceOrder": 16,
+      "path": "4000-essential-english-words-book-1/16-adams-countys-gold.json",
+      "sha256": "c7f44880843f999a811f485a802ae2313aaf3399cc162ccb6dece010b964f920",
+      "sentenceCount": 7,
+      "title": {
+        "id": "Adams County’s Gold",
+        "fil": "Adams County’s Gold"
+      },
+      "summary": {
+        "id": "Tom dan Brad mengikuti petunjuk dari buku tua, menemukan koin emas serta peta menuju sisa harta Adams County.",
+        "fil": "Sinundan nina Tom at Brad ang mga palatandaan sa sinaunang aklat at nakakita ng gintong barya at mapa patungo sa natitirang kayamanan ng Adams County."
+      },
+      "image": "assets/16-adams-countys-gold.jpg",
+      "assets": [
+        "assets/16-adams-countys-gold.jpg"
+      ]
+    },
+    {
+      "id": "book1-story-17-the-race-for-water",
+      "collectionId": "4000-essential-english-words-book-1",
+      "family": "4000-essential-english-words-book-1",
+      "category": "Alam dan Lingkungan",
+      "level": "BEGINNER",
+      "order": 17,
+      "sourceOrder": 17,
+      "path": "4000-essential-english-words-book-1/17-the-race-for-water.json",
+      "sha256": "10f8409037d66094beb560510162c6d0db30d1a960fe1faa658cecf92628e818",
+      "sentenceCount": 7,
+      "title": {
+        "id": "The Race for Water",
+        "fil": "The Race for Water"
+      },
+      "summary": {
+        "id": "Seorang anak menipu Langit agar menurunkan hujan di bukit sehingga air mengalir kembali memenuhi sungai kota.",
+        "fil": "Nilinlang ng isang bata ang Langit na magpaulan sa burol kaya muling napuno ang ilog ng bayan."
+      },
+      "image": "assets/17-the-race-for-water.jpg",
+      "assets": [
+        "assets/17-the-race-for-water.jpg"
+      ]
+    },
+    {
+      "id": "book1-story-18-the-little-red-chicken",
+      "collectionId": "4000-essential-english-words-book-1",
+      "family": "4000-essential-english-words-book-1",
+      "category": "Hewan dan Fabel",
+      "level": "BEGINNER",
+      "order": 18,
+      "sourceOrder": 18,
+      "path": "4000-essential-english-words-book-1/18-the-little-red-chicken.json",
+      "sha256": "2fa98799237ae1d18158af967ec1892c80c0f33627db6075e75256cbe8b53c9c",
+      "sentenceCount": 7,
+      "title": {
+        "id": "The Little Red Chicken",
+        "fil": "The Little Red Chicken"
+      },
+      "summary": {
+        "id": "Ayam merah membuat roti sendiri setelah kucing menolak membantu, lalu mengajarinya bahwa keinginan harus disertai usaha.",
+        "fil": "Gumawa mag-isa ng tinapay ang pulang manok matapos tumangging tumulong ang pusa, at itinuro nitong kailangang pagsikapan ang nais makuha."
+      },
+      "image": "assets/18-the-little-red-chicken.png",
+      "assets": [
+        "assets/18-the-little-red-chicken.png"
+      ]
+    },
+    {
+      "id": "book1-story-19-shipwrecked",
+      "collectionId": "4000-essential-english-words-book-1",
+      "family": "4000-essential-english-words-book-1",
+      "category": "Petualangan dan Penemuan",
+      "level": "BEGINNER",
+      "order": 19,
+      "sourceOrder": 19,
+      "path": "4000-essential-english-words-book-1/19-shipwrecked.json",
+      "sha256": "fb3da8ddc3f17e3f9b572d6a42ac11e1a1581a33b98ff524eb8f4a3c7a4ee93e",
+      "sentenceCount": 7,
+      "title": {
+        "id": "Shipwrecked",
+        "fil": "Shipwrecked"
+      },
+      "summary": {
+        "id": "Mantan pengacara yang egois terdampar di pulau, belajar hidup sederhana, dan akhirnya memilih menetap ketika bantuan datang.",
+        "fil": "Napadpad sa isang pulo ang dating makasariling abogado, natutong mamuhay nang payak, at piniling manatili roon nang dumating ang sasagip sa kaniya."
+      },
+      "image": "assets/19-shipwrecked.jpg",
+      "assets": [
+        "assets/19-shipwrecked.jpg"
+      ]
+    },
+    {
+      "id": "book1-story-20-the-seven-cities-of-gold",
+      "collectionId": "4000-essential-english-words-book-1",
+      "family": "4000-essential-english-words-book-1",
+      "category": "Petualangan dan Penemuan",
+      "level": "BEGINNER",
+      "order": 20,
+      "sourceOrder": 20,
+      "path": "4000-essential-english-words-book-1/20-the-seven-cities-of-gold.json",
+      "sha256": "934199875285caade7fbf58c2b83256bb221fa756bd9c98d4fb68a63a06844b3",
+      "sentenceCount": 7,
+      "title": {
+        "id": "The seven cities of gold",
+        "fil": "The seven cities of gold"
+      },
+      "summary": {
+        "id": "Coronado mengejar kabar tentang tujuh kota emas, tetapi menemukan permukiman tanah biasa dan pulang tanpa harta.",
+        "fil": "Hinabol ni Coronado ang balita tungkol sa pitong lungsod na ginto, ngunit karaniwang pamayanang luwad ang natagpuan niya at umuwi siyang walang kayamanan."
+      },
+      "image": "assets/20-the-seven-cities-of-gold.jpg",
+      "assets": [
+        "assets/20-the-seven-cities-of-gold.jpg"
+      ]
+    },
+    {
+      "id": "book1-story-21-katy",
+      "collectionId": "4000-essential-english-words-book-1",
+      "family": "4000-essential-english-words-book-1",
+      "category": "Kehidupan Sehari-hari",
+      "level": "BEGINNER",
+      "order": 21,
+      "sourceOrder": 21,
+      "path": "4000-essential-english-words-book-1/21-katy.json",
+      "sha256": "aea114abe566c207778b3497c50c4dd1f818200405db3f513cf3b282e52f1b45",
+      "sentenceCount": 7,
+      "title": {
+        "id": "Katy",
+        "fil": "Katy"
+      },
+      "summary": {
+        "id": "Katy tetap menghibur pasien lain meskipun menderita sakit otak, lalu kembali membantu rumah sakit setelah operasinya berhasil.",
+        "fil": "Patuloy na pinasaya ni Katy ang ibang pasyente kahit may karamdaman siya sa utak, at bumalik siyang tumulong sa ospital matapos ang matagumpay na operasyon."
+      },
+      "image": "assets/21-katy.png",
+      "assets": [
+        "assets/21-katy.png"
+      ]
+    },
+    {
+      "id": "book1-story-22-a-better-reward",
+      "collectionId": "4000-essential-english-words-book-1",
+      "family": "4000-essential-english-words-book-1",
+      "category": "Hewan dan Fabel",
+      "level": "BEGINNER",
+      "order": 22,
+      "sourceOrder": 22,
+      "path": "4000-essential-english-words-book-1/22-a-better-reward.json",
+      "sha256": "860a259f208374c02278a7f8802e53445aa1f43ea5f2e0bdb30586a559281f1c",
+      "sentenceCount": 7,
+      "title": {
+        "id": "A Better Reward",
+        "fil": "A Better Reward"
+      },
+      "summary": {
+        "id": "Jenny mengejar pencuri makanan dan menemukan induk anjing yang memberi makan anak-anaknya; menyelamatkan mereka menjadi hadiah yang lebih baik.",
+        "fil": "Hinabol ni Jenny ang magnanakaw ng pagkain at natuklasang inang aso pala itong nagpapakain sa mga tuta; ang pagliligtas sa kanila ang naging mas mabuting gantimpala."
+      },
+      "image": "assets/22-a-better-reward.jpg",
+      "assets": [
+        "assets/22-a-better-reward.jpg"
+      ]
+    },
+    {
+      "id": "book1-story-23-the-camp",
+      "collectionId": "4000-essential-english-words-book-1",
+      "family": "4000-essential-english-words-book-1",
+      "category": "Keluarga dan Persahabatan",
+      "level": "BEGINNER",
+      "order": 23,
+      "sourceOrder": 23,
+      "path": "4000-essential-english-words-book-1/23-the-camp.json",
+      "sha256": "d87956bcae78c9014db06f3a0c7077c09f770fc75880e877f1bd4ad0293f5061",
+      "sentenceCount": 7,
+      "title": {
+        "id": "The camp",
+        "fil": "The camp"
+      },
+      "summary": {
+        "id": "Stacie membenci perkemahan sampai permainan merebut bendera menunjukkan bahwa ia dapat bersenang-senang, membantu tim, dan mendapat teman.",
+        "fil": "Ayaw ni Stacie sa kampo hanggang ipakita ng larong agawan ng watawat na kaya niyang magsaya, tumulong sa koponan, at magkaroon ng mga kaibigan."
+      },
+      "image": "assets/23-the-camp.png",
+      "assets": [
+        "assets/23-the-camp.png"
+      ]
+    },
+    {
+      "id": "book1-story-24-a-strong-friendship",
+      "collectionId": "4000-essential-english-words-book-1",
+      "family": "4000-essential-english-words-book-1",
+      "category": "Keluarga dan Persahabatan",
+      "level": "BEGINNER",
+      "order": 24,
+      "sourceOrder": 24,
+      "path": "4000-essential-english-words-book-1/24-a-strong-friendship.json",
+      "sha256": "47328be684ec425756d1ab1547f48e392ba71a43c1414ac58bd1f0f9c1460dfb",
+      "sentenceCount": 7,
+      "title": {
+        "id": "A Strong Friendship",
+        "fil": "A Strong Friendship"
+      },
+      "summary": {
+        "id": "Tim yang kuat dan Jack yang cerdas menyelamatkan kota bersalju dengan menggabungkan kemampuan mereka dan akhirnya menjadi sahabat.",
+        "fil": "Iniligtas ng malakas na si Tim at matalinong si Jack ang bayang nabalot ng niyebe sa pamamagitan ng pagsasama ng kanilang kakayahan, at naging magkaibigan sila."
+      },
+      "image": "assets/24-a-strong-friendship.jpg",
+      "assets": [
+        "assets/24-a-strong-friendship.jpg"
+      ]
+    },
+    {
+      "id": "book1-story-25-joes-pond",
+      "collectionId": "4000-essential-english-words-book-1",
+      "family": "4000-essential-english-words-book-1",
+      "category": "Alam dan Lingkungan",
+      "level": "BEGINNER",
+      "order": 25,
+      "sourceOrder": 25,
+      "path": "4000-essential-english-words-book-1/25-joes-pond.json",
+      "sha256": "d5ad03faf484091beea9918c9ad5a2b2f67335f7533f52aa1647c88a52f0a390",
+      "sentenceCount": 7,
+      "title": {
+        "id": "Joe’s Pond",
+        "fil": "Joe’s Pond"
+      },
+      "summary": {
+        "id": "Terinspirasi video pencemaran, Joe mengorganisasi keluarga dan teman untuk membersihkan kolam taman selama enam minggu.",
+        "fil": "Dahil sa bidyo tungkol sa polusyon, nag-organisa si Joe ng pamilya at mga kaibigan upang linisin ang lawa sa parke sa loob ng anim na linggo."
+      },
+      "image": "assets/25-joes-pond.jpg",
+      "assets": [
+        "assets/25-joes-pond.jpg"
+      ]
+    },
+    {
+      "id": "book1-story-26-archie-and-his-donkey",
+      "collectionId": "4000-essential-english-words-book-1",
+      "family": "4000-essential-english-words-book-1",
+      "category": "Hewan dan Fabel",
+      "level": "BEGINNER",
+      "order": 26,
+      "sourceOrder": 26,
+      "path": "4000-essential-english-words-book-1/26-archie-and-his-donkey.json",
+      "sha256": "63d874a4eb65fa2f330ffc4c00aea8e54165b852100ed3f3a6487fcb38c1c1b6",
+      "sentenceCount": 7,
+      "title": {
+        "id": "Archie and His Donkey",
+        "fil": "Archie and His Donkey"
+      },
+      "summary": {
+        "id": "Archie terus mengikuti nasihat setiap orang tentang cara membawa keledainya ke pasar, lalu kehilangan keledai dan kesempatan menjualnya.",
+        "fil": "Sinunod ni Archie ang bawat payo tungkol sa pagdadala ng kaniyang asno sa bayan, kaya nawala ang asno at ang pagkakataong maipagbili ito."
+      },
+      "image": "assets/26-archie-and-his-donkey.jpg",
+      "assets": [
+        "assets/26-archie-and-his-donkey.jpg"
+      ]
+    },
+    {
+      "id": "book1-story-27-the-spider-and-the-bird",
+      "collectionId": "4000-essential-english-words-book-1",
+      "family": "4000-essential-english-words-book-1",
+      "category": "Hewan dan Fabel",
+      "level": "BEGINNER",
+      "order": 27,
+      "sourceOrder": 27,
+      "path": "4000-essential-english-words-book-1/27-the-spider-and-the-bird.json",
+      "sha256": "5a08f461ad185d7c9c89b7380c9d11b906d70ec809d9a727115e4aa7c3ff57ac",
+      "sentenceCount": 7,
+      "title": {
+        "id": "The Spider and the Bird",
+        "fil": "The Spider and the Bird"
+      },
+      "summary": {
+        "id": "Seekor burung yang terjebak gagal menjawab teka-teki laba-laba, tetapi perjalanan mencari makanan membuat keduanya menjadi sahabat.",
+        "fil": "Nabigo ang ibong nasilo na sagutin ang palaisipan ng gagamba, ngunit ang paglalakbay nila para humanap ng pagkain ang naging simula ng pagkakaibigan."
+      },
+      "image": "assets/27-the-spider-and-the-bird.png",
+      "assets": [
+        "assets/27-the-spider-and-the-bird.png"
+      ]
+    },
+    {
+      "id": "book1-story-28-the-party",
+      "collectionId": "4000-essential-english-words-book-1",
+      "family": "4000-essential-english-words-book-1",
+      "category": "Keluarga dan Persahabatan",
+      "level": "BEGINNER",
+      "order": 28,
+      "sourceOrder": 28,
+      "path": "4000-essential-english-words-book-1/28-the-party.json",
+      "sha256": "d1aea96867cf7be36807ed970f25a1e8c2cb7fb2effa80537dc88b28383e0b28",
+      "sentenceCount": 7,
+      "title": {
+        "id": "The Party",
+        "fil": "The Party"
+      },
+      "summary": {
+        "id": "Badai salju membatalkan pesta ulang tahun Cody, tetapi kedatangan kakek-neneknya mengubah hari itu menjadi ulang tahun terbaik.",
+        "fil": "Kinansela ng bagyo ng niyebe ang handaan ni Cody, ngunit ginawang pinakamagandang kaarawan ng pagdating ng kaniyang lolo't lola ang araw na iyon."
+      },
+      "image": "assets/28-the-party.jpg",
+      "assets": [
+        "assets/28-the-party.jpg"
+      ]
+    },
+    {
+      "id": "book1-story-29-how-the-world-got-light",
+      "collectionId": "4000-essential-english-words-book-1",
+      "family": "4000-essential-english-words-book-1",
+      "category": "Sejarah dan Budaya",
+      "level": "BEGINNER",
+      "order": 29,
+      "sourceOrder": 29,
+      "path": "4000-essential-english-words-book-1/29-how-the-world-got-light.json",
+      "sha256": "690410ba6b18178287337524640561597779176cb7f3880da69ca31b874ecafa",
+      "sentenceCount": 7,
+      "title": {
+        "id": "How the World Got Light",
+        "fil": "How the World Got Light"
+      },
+      "summary": {
+        "id": "Raven menipu presiden babi yang menyimpan matahari di dalam kantong, lalu melepaskan cahaya bagi semua hewan di Darkland.",
+        "fil": "Nilinlang ni Raven ang presidenteng baboy na nagtago ng araw sa isang supot at pinalaya ang liwanag para sa lahat ng hayop sa Darkland."
+      },
+      "image": "assets/29-how-the-world-got-light.jpg",
+      "assets": [
+        "assets/29-how-the-world-got-light.jpg"
+      ]
+    },
+    {
+      "id": "book1-story-30-cats-and-secrets",
+      "collectionId": "4000-essential-english-words-book-1",
+      "family": "4000-essential-english-words-book-1",
+      "category": "Misteri dan Imajinasi",
+      "level": "BEGINNER",
+      "order": 30,
+      "sourceOrder": 30,
+      "path": "4000-essential-english-words-book-1/30-cats-and-secrets.json",
+      "sha256": "b58b4aa87c08576869f2c2f660eb849a9aefe411a347892528b69e8b606c7464",
+      "sentenceCount": 7,
+      "title": {
+        "id": "Cats and Secrets",
+        "fil": "Cats and Secrets"
+      },
+      "summary": {
+        "id": "Beth membongkar penjual curang yang mengganti anak babi dengan kucing di dalam kantong, menjelaskan asal idiom ‘let the cat out of the bag.’",
+        "fil": "Ibinunyag ni Beth ang manlolokong nagpalit ng biik ng pusa sa loob ng supot, na nagpapaliwanag sa idyomang “let the cat out of the bag.”"
+      },
+      "image": "assets/30-cats-and-secrets.jpg",
+      "assets": [
+        "assets/30-cats-and-secrets.jpg"
+      ]
+    },
     {
       "id": "book2-story-01-the-twelve-months",
       "collectionId": "4000-essential-english-words-book-2",
       "family": "4000-essential-english-words-book-2",
-      "category": "Kebaikan dan keserakahan",
+      "category": "Alam dan Lingkungan",
       "level": "BEGINNER",
       "order": 1,
       "sourceOrder": 1,
       "path": "4000-essential-english-words-book-2/01-the-twelve-months.json",
-      "sha256": "b1e5bdada204d9f578df0f272db24421fe158f0e5019f2649b938161848e7acd",
+      "sha256": "f1826276f8d308fb784e153b199aeff0465cafae26cce21045d1a6518901b917",
       "sentenceCount": 6,
       "title": {
         "id": "The twelve months",
@@ -47,12 +850,12 @@
       "id": "book2-story-02-the-dragon",
       "collectionId": "4000-essential-english-words-book-2",
       "family": "4000-essential-english-words-book-2",
-      "category": "Pakikipagsapalaran at katapangan",
+      "category": "Misteri dan Imajinasi",
       "level": "BEGINNER",
       "order": 2,
       "sourceOrder": 2,
       "path": "4000-essential-english-words-book-2/02-the-dragon.json",
-      "sha256": "dbc0e9c938a95f8b2c919108ad48cfb226fc7b380234c1a23e3cbcbb238ef984",
+      "sha256": "dd9575349bc77f17b7064856c4f5d908f5b1c5670df6d8bb57d03fe6b311efbd",
       "sentenceCount": 6,
       "title": {
         "id": "The dragon",
@@ -71,12 +874,12 @@
       "id": "book2-story-03-the-battle-of-thermopylae",
       "collectionId": "4000-essential-english-words-book-2",
       "family": "4000-essential-english-words-book-2",
-      "category": "Kasaysayan at pagtatanggol",
+      "category": "Sejarah dan Budaya",
       "level": "BEGINNER",
       "order": 3,
       "sourceOrder": 3,
       "path": "4000-essential-english-words-book-2/03-the-battle-of-thermopylae.json",
-      "sha256": "a792c9f66dcf21e72ccb47423a309fc445ced3ed0a06fe6e163014d728ed638c",
+      "sha256": "64352fad24f295af3ff30046db0bafa8add91137915b8928707bcd17689741bb",
       "sentenceCount": 6,
       "title": {
         "id": "The battle of Thermopylae",
@@ -95,12 +898,12 @@
       "id": "book2-story-04-the-deer-and-his-image",
       "collectionId": "4000-essential-english-words-book-2",
       "family": "4000-essential-english-words-book-2",
-      "category": "Fabel at pagpapahalaga sa sarili",
+      "category": "Hewan dan Fabel",
       "level": "BEGINNER",
       "order": 4,
       "sourceOrder": 4,
       "path": "4000-essential-english-words-book-2/04-the-deer-and-his-image.json",
-      "sha256": "944cc5639265043d53177eac06f09214f3afb2e8b0799cf70566f96a5bfdc38b",
+      "sha256": "217937d2ce7190d38faac2950fb2c7aa50246066de7ffb4f0ae228f4ff2b7a79",
       "sentenceCount": 6,
       "title": {
         "id": "The deer and his image",
@@ -119,12 +922,12 @@
       "id": "book2-story-05-may-29-1953",
       "collectionId": "4000-essential-english-words-book-2",
       "family": "4000-essential-english-words-book-2",
-      "category": "Paggalugad at tagumpay",
+      "category": "Petualangan dan Penemuan",
       "level": "BEGINNER",
       "order": 5,
       "sourceOrder": 5,
       "path": "4000-essential-english-words-book-2/05-may-29-1953.json",
-      "sha256": "1c41022c31dcab2f198d2d2f95643575693e865f90895934ee20dd5e64d74037",
+      "sha256": "cafc97a41d95eaeb40f7e136f00e1020342a9dacc36b34c3e1a330b834fe8b15",
       "sentenceCount": 6,
       "title": {
         "id": "May 29,1953",
@@ -143,12 +946,12 @@
       "id": "book2-story-06-the-frog-prince",
       "collectionId": "4000-essential-english-words-book-2",
       "family": "4000-essential-english-words-book-2",
-      "category": "Pangako at pananagutan",
+      "category": "Nilai dan Pertumbuhan",
       "level": "BEGINNER",
       "order": 6,
       "sourceOrder": 6,
       "path": "4000-essential-english-words-book-2/06-the-frog-prince.json",
-      "sha256": "c98881ce8f49f02c409acf3a5108d967a8cfa93c5ac1fdc5c4e839ba33102ec1",
+      "sha256": "29373bfe6bcae56d697523b9a98cfd35455027d04d640312dd70429431447245",
       "sentenceCount": 6,
       "title": {
         "id": "The frog prince",
@@ -167,12 +970,12 @@
       "id": "book2-story-07-a-beautiful-bird",
       "collectionId": "4000-essential-english-words-book-2",
       "family": "4000-essential-english-words-book-2",
-      "category": "Pagtuklas at pagtitiyaga",
+      "category": "Petualangan dan Penemuan",
       "level": "BEGINNER",
       "order": 7,
       "sourceOrder": 7,
       "path": "4000-essential-english-words-book-2/07-a-beautiful-bird.json",
-      "sha256": "ce08509235e71498ab0ba9f0a4beb6b6f2a7e83d08a1fd9c1dece24e0584ed2c",
+      "sha256": "eed530ff3a75c386c7da6681a413ae297cefad0aec49ad01846124e9d91bc1d1",
       "sentenceCount": 6,
       "title": {
         "id": "A beautiful bird",
@@ -191,12 +994,12 @@
       "id": "book2-story-08-tricky-turtle",
       "collectionId": "4000-essential-english-words-book-2",
       "family": "4000-essential-english-words-book-2",
-      "category": "Fabel at talino",
+      "category": "Hewan dan Fabel",
       "level": "BEGINNER",
       "order": 8,
       "sourceOrder": 8,
       "path": "4000-essential-english-words-book-2/08-tricky-turtle.json",
-      "sha256": "ba93329a266e5eb6460428c384b1d22090e8d659581cb1e734e4dfb0503aa189",
+      "sha256": "d50a7c0bd87f0a24ed9bbdea37f612c067f425827418b00e6981a403668f8a01",
       "sentenceCount": 6,
       "title": {
         "id": "Tricky turtle",
@@ -215,12 +1018,12 @@
       "id": "book2-story-09-the-tale-of-bartelby-oboyle",
       "collectionId": "4000-essential-english-words-book-2",
       "family": "4000-essential-english-words-book-2",
-      "category": "Katarungan at pagtulong sa kapwa",
+      "category": "Nilai dan Pertumbuhan",
       "level": "BEGINNER",
       "order": 9,
       "sourceOrder": 9,
       "path": "4000-essential-english-words-book-2/09-the-tale-of-bartelby-oboyle.json",
-      "sha256": "337deb8ec0551dc242b2f31a152db4cd88ff2a922a00da415be007b2646fddc0",
+      "sha256": "c49e6be6a63ed9edaf6f107db40ef6067cb4a470494e78739d49590b4745e9b8",
       "sentenceCount": 6,
       "title": {
         "id": "The tale of bartelby O’Boyle",
@@ -239,12 +1042,12 @@
       "id": "book2-story-10-blackbeard",
       "collectionId": "4000-essential-english-words-book-2",
       "family": "4000-essential-english-words-book-2",
-      "category": "Pirata at bunga ng mga pasiya",
+      "category": "Sejarah dan Budaya",
       "level": "BEGINNER",
       "order": 10,
       "sourceOrder": 10,
       "path": "4000-essential-english-words-book-2/10-blackbeard.json",
-      "sha256": "7041444ec4a597480568ba0b27df36014f2672c4f8316d8966b1657396682866",
+      "sha256": "7b9753736cad2ae37daa7b21445c404622cc5bd4bf0061fc61e17bb11ae882ac",
       "sentenceCount": 6,
       "title": {
         "id": "Blackbeard",
@@ -263,12 +1066,12 @@
       "id": "book2-story-11-dinosaur-drawings",
       "collectionId": "4000-essential-english-words-book-2",
       "family": "4000-essential-english-words-book-2",
-      "category": "Katatawanan at imahinasyon",
+      "category": "Misteri dan Imajinasi",
       "level": "BEGINNER",
       "order": 11,
       "sourceOrder": 11,
       "path": "4000-essential-english-words-book-2/11-dinosaur-drawings.json",
-      "sha256": "dc50b332c64e5bfe49ddf11ee980df5439a8ee20926a258bc52351603245ca3b",
+      "sha256": "b95dff04db87b3381eadf6ab65c14882db028d4bf31f8769168c94579279b5ac",
       "sentenceCount": 6,
       "title": {
         "id": "Dinosaur drawings",
@@ -287,12 +1090,12 @@
       "id": "book2-story-12-the-mean-chef",
       "collectionId": "4000-essential-english-words-book-2",
       "family": "4000-essential-english-words-book-2",
-      "category": "Pagbabago at pananagutan",
+      "category": "Kehidupan Sehari-hari",
       "level": "BEGINNER",
       "order": 12,
       "sourceOrder": 12,
       "path": "4000-essential-english-words-book-2/12-the-mean-chef.json",
-      "sha256": "83d2c98ec3763179575923e03ab87682d39d7455c83c7fad9555fc8d2acfaa88",
+      "sha256": "62acb6c6830e8485dee719f76310deb75195f289a79a8a3f9e7164cfea85de81",
       "sentenceCount": 6,
       "title": {
         "id": "The mean chef",
@@ -311,12 +1114,12 @@
       "id": "book2-story-13-the-cat-and-the-fox",
       "collectionId": "4000-essential-english-words-book-2",
       "family": "4000-essential-english-words-book-2",
-      "category": "Fabel at talino",
+      "category": "Hewan dan Fabel",
       "level": "BEGINNER",
       "order": 13,
       "sourceOrder": 13,
       "path": "4000-essential-english-words-book-2/13-the-cat-and-the-fox.json",
-      "sha256": "e5d120e0a26c74f6c68df81bbaa0f7dc1d5a71a375a39554a86deeadfa763c60",
+      "sha256": "81b0ba86b9385fc49252aeb587e2f6618911121474fb4dca2661d88750b92465",
       "sentenceCount": 6,
       "title": {
         "id": "The cat and the fox",
@@ -335,12 +1138,12 @@
       "id": "book2-story-14-the-good-student",
       "collectionId": "4000-essential-english-words-book-2",
       "family": "4000-essential-english-words-book-2",
-      "category": "Pag-aaral at kalusugan",
+      "category": "Kehidupan Sehari-hari",
       "level": "BEGINNER",
       "order": 14,
       "sourceOrder": 14,
       "path": "4000-essential-english-words-book-2/14-the-good-student.json",
-      "sha256": "51a29aa3255bd9f11b1c7dd329fc2e0b28d9b614858a1a7f165bb71e3f562be1",
+      "sha256": "4787425c28f1601eac1737ce62500b5917f1fc5a91ba0fc1e80f1d3b8e4e3cee",
       "sentenceCount": 6,
       "title": {
         "id": "The good student",
@@ -359,12 +1162,12 @@
       "id": "book2-story-15-the-lucky-knife",
       "collectionId": "4000-essential-english-words-book-2",
       "family": "4000-essential-english-words-book-2",
-      "category": "Kasaysayan at pagtuklas",
+      "category": "Petualangan dan Penemuan",
       "level": "BEGINNER",
       "order": 15,
       "sourceOrder": 15,
       "path": "4000-essential-english-words-book-2/15-the-lucky-knife.json",
-      "sha256": "5c237ae37ef1023c66873d9128d34ae13bb1b02b21310ab4a00822f9da61456e",
+      "sha256": "cd66530b8c64af8e7dd4d49a1c86b597b17328c4fcfff9d198fe9a1854b055ea",
       "sentenceCount": 6,
       "title": {
         "id": "The lucky knife",
@@ -383,12 +1186,12 @@
       "id": "book2-story-16-prince-sam",
       "collectionId": "4000-essential-english-words-book-2",
       "family": "4000-essential-english-words-book-2",
-      "category": "Pagkakakilanlan at pagbabago",
+      "category": "Misteri dan Imajinasi",
       "level": "BEGINNER",
       "order": 16,
       "sourceOrder": 16,
       "path": "4000-essential-english-words-book-2/16-prince-sam.json",
-      "sha256": "eebf6d5d247fa1ea6cc6e92e4f800f6358e010e21fd1c0f46925bae7d3cca1e9",
+      "sha256": "a48942e5812e278adab56d8600d4b2e10b6ff0a366b0b51071c79372eade501f",
       "sentenceCount": 6,
       "title": {
         "id": "Prince Sam",
@@ -407,12 +1210,12 @@
       "id": "book2-story-17-henry-fords-famous-car",
       "collectionId": "4000-essential-english-words-book-2",
       "family": "4000-essential-english-words-book-2",
-      "category": "Kasaysayan at inobasyon",
+      "category": "Sejarah dan Budaya",
       "level": "BEGINNER",
       "order": 17,
       "sourceOrder": 17,
       "path": "4000-essential-english-words-book-2/17-henry-fords-famous-car.json",
-      "sha256": "bfd1fa678d1858c2116bf0f0d013261b4167841bbf291aae34487083a985828d",
+      "sha256": "1fc7007b3d0f0d9c860cef4d5f7f42299e64d1d0ee30c3600648e45358a75480",
       "sentenceCount": 6,
       "title": {
         "id": "Henry ford’s famous car",
@@ -431,12 +1234,12 @@
       "id": "book2-story-18-the-priest",
       "collectionId": "4000-essential-english-words-book-2",
       "family": "4000-essential-english-words-book-2",
-      "category": "Kaligayahan at pagkamalikhain",
+      "category": "Kehidupan Sehari-hari",
       "level": "BEGINNER",
       "order": 18,
       "sourceOrder": 18,
       "path": "4000-essential-english-words-book-2/18-the-priest.json",
-      "sha256": "e36bee7ba1e0785f0e5dca5e4828cd2f95c7f03131678d02120de5ab468fa7ae",
+      "sha256": "f19124f55f7ebb15e6af10561e5e3117d86b6124c4fe05b3bb21767f13aeccc1",
       "sentenceCount": 6,
       "title": {
         "id": "The priest",
@@ -455,12 +1258,12 @@
       "id": "book2-story-19-mrs-may-and-the-green-girl",
       "collectionId": "4000-essential-english-words-book-2",
       "family": "4000-essential-english-words-book-2",
-      "category": "Pagtanggap at pagkakaibigan",
+      "category": "Keluarga dan Persahabatan",
       "level": "BEGINNER",
       "order": 19,
       "sourceOrder": 19,
       "path": "4000-essential-english-words-book-2/19-mrs-may-and-the-green-girl.json",
-      "sha256": "3736cb2c202dab6641ecf5137f151c9c9795fb2a8c0478621d2e410db39809b7",
+      "sha256": "ee2f80380c57cbb127fa95664ad4f1f1472181a5531b2dd6666aeedc370ee9a9",
       "sentenceCount": 6,
       "title": {
         "id": "Mrs. May and the green girl",
@@ -479,12 +1282,12 @@
       "id": "book2-story-20-albert-einstein",
       "collectionId": "4000-essential-english-words-book-2",
       "family": "4000-essential-english-words-book-2",
-      "category": "Talambuhay at pagpupunyagi",
+      "category": "Sejarah dan Budaya",
       "level": "BEGINNER",
       "order": 20,
       "sourceOrder": 20,
       "path": "4000-essential-english-words-book-2/20-albert-einstein.json",
-      "sha256": "ae653e48c8abb59eec5f5018c0a5ab71d28d85f4cd1cd2a0edfc096918ca3783",
+      "sha256": "704bf591cfc73896bcaa55bf2f44f149988470619fae0f9672d04cddf632953b",
       "sentenceCount": 6,
       "title": {
         "id": "Albert Einstein",
@@ -503,12 +1306,12 @@
       "id": "book2-story-21-from-the-earth-to-the-stars",
       "collectionId": "4000-essential-english-words-book-2",
       "family": "4000-essential-english-words-book-2",
-      "category": "Pangarap at katapangan",
+      "category": "Petualangan dan Penemuan",
       "level": "BEGINNER",
       "order": 21,
       "sourceOrder": 21,
       "path": "4000-essential-english-words-book-2/21-from-the-earth-to-the-stars.json",
-      "sha256": "9f0d465b3137cb2f38bfb2324ab12346cc296d1d392653ff18c2227ce9c4c010",
+      "sha256": "99dbf06a13567596ac776850c5daba8f14b507e03acac517ce303d32a4092fc1",
       "sentenceCount": 6,
       "title": {
         "id": "From the earth to the stars",
@@ -527,12 +1330,12 @@
       "id": "book2-story-22-the-farm-festival",
       "collectionId": "4000-essential-english-words-book-2",
       "family": "4000-essential-english-words-book-2",
-      "category": "Pagtutulungan at pagdiriwang",
+      "category": "Keluarga dan Persahabatan",
       "level": "BEGINNER",
       "order": 22,
       "sourceOrder": 22,
       "path": "4000-essential-english-words-book-2/22-the-farm-festival.json",
-      "sha256": "e596cf7c43282a33765baeedbda1e2663499207e9d89cd18c4c6ef031bd2cd37",
+      "sha256": "19bdef83a9c92622bdff10421aae1c8730b1ced32ebea433bb4e9d59c70be279",
       "sentenceCount": 6,
       "title": {
         "id": "The farm festival",
@@ -551,12 +1354,12 @@
       "id": "book2-story-23-the-clever-thief",
       "collectionId": "4000-essential-english-words-book-2",
       "family": "4000-essential-english-words-book-2",
-      "category": "Kayamanan at pagkamapagbigay",
+      "category": "Nilai dan Pertumbuhan",
       "level": "BEGINNER",
       "order": 23,
       "sourceOrder": 23,
       "path": "4000-essential-english-words-book-2/23-the-clever-thief.json",
-      "sha256": "a29dd3a115fa9eb3612a00725c4fad904da94c0172999dcd4763c62109e15571",
+      "sha256": "c8618b816160ba27ac2a439499aef4c05c3554fbd46b84c117a0433f873b33a0",
       "sentenceCount": 6,
       "title": {
         "id": "The clever thief",
@@ -575,12 +1378,12 @@
       "id": "book2-story-24-the-doctors-cure",
       "collectionId": "4000-essential-english-words-book-2",
       "family": "4000-essential-english-words-book-2",
-      "category": "Pamilya at pagpapahalaga sa buhay",
+      "category": "Keluarga dan Persahabatan",
       "level": "BEGINNER",
       "order": 24,
       "sourceOrder": 24,
       "path": "4000-essential-english-words-book-2/24-the-doctors-cure.json",
-      "sha256": "b4a8da7808f388c4787c5f2e947587174fbf8fa40f73a245241a70a8e139eca6",
+      "sha256": "e83e726c04dd522b2cecf6dd88d41f8239fc77cad4cc7433a98810448f44df5a",
       "sentenceCount": 6,
       "title": {
         "id": "The doctor’s cure",
@@ -599,12 +1402,12 @@
       "id": "book2-story-25-the-criminal",
       "collectionId": "4000-essential-english-words-book-2",
       "family": "4000-essential-english-words-book-2",
-      "category": "Pagbabagong-loob at kabutihan",
+      "category": "Nilai dan Pertumbuhan",
       "level": "BEGINNER",
       "order": 25,
       "sourceOrder": 25,
       "path": "4000-essential-english-words-book-2/25-the-criminal.json",
-      "sha256": "3a55cff74783b36fe1318adca70ff23c3793b8207adbc6564bdd2bee89f402f3",
+      "sha256": "72125c36953d8da89eaf2d4209156929947f6e44b62722c2560e8ca4deb5f80e",
       "sentenceCount": 6,
       "title": {
         "id": "The criminal",
@@ -623,12 +1426,12 @@
       "id": "book2-story-26-the-two-captains",
       "collectionId": "4000-essential-english-words-book-2",
       "family": "4000-essential-english-words-book-2",
-      "category": "Pamumuno at pag-iingat",
+      "category": "Sejarah dan Budaya",
       "level": "BEGINNER",
       "order": 26,
       "sourceOrder": 26,
       "path": "4000-essential-english-words-book-2/26-the-two-captains.json",
-      "sha256": "5d6e41e9865cab9d6e287c97b757588eb745b98da74564b82abda5a28fd7fe65",
+      "sha256": "95dc4d4c9fa7a61f43d0a093a8e439a8429feb89f672724e03bbceb1c0aad76d",
       "sentenceCount": 6,
       "title": {
         "id": "The two captains",
@@ -647,12 +1450,12 @@
       "id": "book2-story-27-the-duke-and-the-minister",
       "collectionId": "4000-essential-english-words-book-2",
       "family": "4000-essential-english-words-book-2",
-      "category": "Katotohanan at katarungan",
+      "category": "Sejarah dan Budaya",
       "level": "BEGINNER",
       "order": 27,
       "sourceOrder": 27,
       "path": "4000-essential-english-words-book-2/27-the-duke-and-the-minister.json",
-      "sha256": "2e4bac4d32d92c2fc1756539d91c0a6e47618849e6a8c324933e7e4ff8d7aefc",
+      "sha256": "ff60a39db3b8d5701f7ac7d54a3f1f13b99a24ae20e9a59f8f76dd9d86ab7c60",
       "sentenceCount": 6,
       "title": {
         "id": "The Duke and the Minister",
@@ -671,12 +1474,12 @@
       "id": "book2-story-28-the-fisherman",
       "collectionId": "4000-essential-english-words-book-2",
       "family": "4000-essential-english-words-book-2",
-      "category": "Kasanayan at pagtitiyaga",
+      "category": "Petualangan dan Penemuan",
       "level": "BEGINNER",
       "order": 28,
       "sourceOrder": 28,
       "path": "4000-essential-english-words-book-2/28-the-fisherman.json",
-      "sha256": "64c3efac608f2f6ea71d0a079d03d52a7d776c18b1be867ee63d475591d0d663",
+      "sha256": "93456d7e635c44588b9f6b551bb2c2ebaec4b460de7264339d600f901a006d97",
       "sentenceCount": 6,
       "title": {
         "id": "The fisherman",
@@ -695,12 +1498,12 @@
       "id": "book2-story-29-osiris-and-the-nile",
       "collectionId": "4000-essential-english-words-book-2",
       "family": "4000-essential-english-words-book-2",
-      "category": "Mitolohiya at pagmamahal",
+      "category": "Alam dan Lingkungan",
       "level": "BEGINNER",
       "order": 29,
       "sourceOrder": 29,
       "path": "4000-essential-english-words-book-2/29-osiris-and-the-nile.json",
-      "sha256": "523a8b32704538da7169402b085c12ca8f39d8010564d00cc541c80889eaa973",
+      "sha256": "bbac8db43975584e324f81c51249c3648532d9cfeb035d1abeecb478ddcb1b90",
       "sentenceCount": 6,
       "title": {
         "id": "Osiris and the Nile",
@@ -719,12 +1522,12 @@
       "id": "book2-story-30-the-taxi-driver",
       "collectionId": "4000-essential-english-words-book-2",
       "family": "4000-essential-english-words-book-2",
-      "category": "Katapatan at bagong pagkakataon",
+      "category": "Kehidupan Sehari-hari",
       "level": "BEGINNER",
       "order": 30,
       "sourceOrder": 30,
       "path": "4000-essential-english-words-book-2/30-the-taxi-driver.json",
-      "sha256": "9361854bb11c21b5e8d60c65d59e2428775e087254de19171dfddc61c8774ffa",
+      "sha256": "fc723a99607d22b780ac0c4c55d9226a35b77554754b9cbd4b3c0e913a337d53",
       "sentenceCount": 6,
       "title": {
         "id": "The taxi driver",
