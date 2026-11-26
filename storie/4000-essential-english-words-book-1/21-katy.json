@@ -1,0 +1,370 @@
+{
+  "schemaVersion": 1,
+  "id": "book1-story-21-katy",
+  "collectionId": "4000-essential-english-words-book-1",
+  "sourceOrder": 21,
+  "family": "4000-essential-english-words-book-1",
+  "category": "Kebaikan dan kesehatan",
+  "level": "BEGINNER",
+  "order": 21,
+  "kind": "STORY",
+  "image": "assets/21-katy.png",
+  "title": {
+    "id": "Katy",
+    "fil": "Katy"
+  },
+  "originalTitle": "Katy",
+  "summary": {
+    "id": "Katy tetap menghibur pasien lain meskipun menderita sakit otak, lalu kembali membantu rumah sakit setelah operasinya berhasil.",
+    "fil": "Patuloy na pinasaya ni Katy ang ibang pasyente kahit may karamdaman siya sa utak, at bumalik siyang tumulong sa ospital matapos ang matagumpay na operasyon."
+  },
+  "objectives": [
+    {
+      "id": "Menelusuri sebab dan akibat dalam “Katy”.",
+      "fil": "Sundan ang sanhi at bunga sa “Katy”."
+    },
+    {
+      "id": "Menjelaskan tema kebaikan dan keberanian saat sakit melalui keputusan para tokoh.",
+      "fil": "Ipaliwanag ang temang kabaitan at tapang sa panahon ng sakit sa pamamagitan ng mga pasiya ng mga tauhan."
+    }
+  ],
+  "sentences": [
+    {
+      "id": "Seorang perawat bertemu Katy yang berusia delapan tahun di rumah sakit karena ia mengalami nyeri akibat masalah pada bagian bawah otaknya.",
+      "fil": "Nakilala ng isang nars ang walong taong gulang na si Katy sa ospital dahil may matinding kirot mula sa suliranin sa ibabang bahagi ng kaniyang utak."
+    },
+    {
+      "id": "Meskipun tubuhnya lemah, Katy duduk bersama Tommy dan bermain agar anak kecil itu merasa gembira.",
+      "fil": "Kahit mahina ang katawan, umupo si Katy sa tabi ni Tommy at nakipaglaro upang mapasaya ang batang pasyente."
+    },
+    {
+      "id": "Ia jarang menunjukkan rasa sakit dan selalu mencari cara untuk membuat pasien lain tersenyum.",
+      "fil": "Bihira niyang ipakita ang sakit at palagi siyang naghahanap ng paraan upang mapangiti ang ibang mga pasyente."
+    },
+    {
+      "id": "Katy melukis untuk seorang pasien tua dan mengambil bunga bagi gadis kecil yang sakit.",
+      "fil": "Gumuhit si Katy para sa matandang pasyente at kumuha ng mga bulaklak para sa isang batang babaeng may sakit."
+    },
+    {
+      "id": "Para dokter segera melakukan operasi pada otaknya, dan prosedur itu berhasil.",
+      "fil": "Agad nagsagawa ang mga doktor ng operasyon sa kaniyang utak, at naging matagumpay iyon."
+    },
+    {
+      "id": "Sebulan kemudian Katy pulih dan boleh meninggalkan rumah sakit.",
+      "fil": "Pagkaraan ng isang buwan, gumaling si Katy at nakauwi mula sa ospital."
+    },
+    {
+      "id": "Namun, ia terus kembali untuk bermain dan membaca bersama para pasien; karena kabutihan dan keberaniannya, semua orang menganggapnya pahlawan.",
+      "fil": "Gayunman, patuloy siyang bumalik upang makipaglaro at magbasa sa mga pasyente; dahil sa kaniyang kabutihan at tapang, itinuring siya ng lahat na bayani."
+    }
+  ],
+  "sentenceCount": 7,
+  "speakers": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  "notes": [
+    {
+      "title": {
+        "id": "Ungkapan berguna",
+        "fil": "Mga kapaki-pakinabang na pahayag"
+      },
+      "text": {
+        "id": "“kahit mahina ang katawan” — meskipun tubuh lemah; “itinuring siya ng lahat na bayani” — semua orang menganggapnya pahlawan",
+        "fil": "“kahit mahina ang katawan” — ang katumbas sa Indonesian ay “meskipun tubuh lemah”; “itinuring siya ng lahat na bayani” — ang katumbas sa Indonesian ay “semua orang menganggapnya pahlawan”"
+      }
+    },
+    {
+      "title": {
+        "id": "Catatan tata bahasa",
+        "fil": "Tala sa gramatika"
+      },
+      "text": {
+        "id": "Kahit menyatakan kontras antara kondisi Katy dan tindakannya. Upang + verba menjelaskan tujuan ia bermain dan kembali ke rumah sakit.",
+        "fil": "Ipinakikita ng kahit ang salungatan ng kalagayan at kilos ni Katy. Ipinapahayag ng upang + pandiwa ang layunin ng kaniyang pakikipaglaro at pagbabalik sa ospital."
+      }
+    }
+  ],
+  "focus": {
+    "id": [
+      "perawat",
+      "nyeri",
+      "otak",
+      "pasien",
+      "operasi",
+      "berhasil",
+      "pulih",
+      "kebaikan"
+    ],
+    "fil": [
+      "nars",
+      "kirot",
+      "utak",
+      "pasyente",
+      "operasyon",
+      "matagumpay",
+      "gumaling",
+      "kabutihan"
+    ]
+  },
+  "questions": [
+    {
+      "id": "book1-story-21-katy-q1",
+      "type": "MULTIPLE_CHOICE",
+      "prompt": {
+        "id": "Mengapa Katy berada di rumah sakit?",
+        "fil": "Bakit nasa ospital si Katy?"
+      },
+      "choices": {
+        "id": [
+          "Ada masalah pada otaknya",
+          "Ia mengunjungi Tommy",
+          "Ia bekerja sebagai perawat"
+        ],
+        "fil": [
+          "May suliranin sa kaniyang utak",
+          "Dumalaw siya kay Tommy",
+          "Nagtatrabaho siya bilang nars"
+        ]
+      },
+      "speech": {
+        "fil": "Bakit nasa ospital si Katy?"
+      }
+    },
+    {
+      "id": "book1-story-21-katy-q2",
+      "type": "MULTIPLE_CHOICE",
+      "prompt": {
+        "id": "Bagaimana Katy membantu pasien lain sebelum operasi?",
+        "fil": "Paano tinulungan ni Katy ang ibang pasyente bago ang operasyon?"
+      },
+      "choices": {
+        "id": [
+          "Ia memberi mereka obat",
+          "Ia bermain, melukis, dan membawa bunga",
+          "Ia mengantar mereka pulang"
+        ],
+        "fil": [
+          "Binigyan niya sila ng gamot",
+          "Nakipaglaro, gumuhit, at nagdala siya ng bulaklak",
+          "Inihatid niya sila pauwi"
+        ]
+      },
+      "speech": {
+        "fil": "Paano tinulungan ni Katy ang ibang pasyente bago ang operasyon?"
+      }
+    },
+    {
+      "id": "book1-story-21-katy-q3",
+      "type": "MULTIPLE_CHOICE",
+      "prompt": {
+        "id": "Apa yang dilakukan Katy setelah pulih?",
+        "fil": "Ano ang ginawa ni Katy matapos gumaling?"
+      },
+      "choices": {
+        "id": [
+          "Ia pindah jauh",
+          "Ia melupakan rumah sakit",
+          "Ia kembali membantu para pasien"
+        ],
+        "fil": [
+          "Lumipat siya sa malayo",
+          "Kinalimutan niya ang ospital",
+          "Bumalik siyang tumulong sa mga pasyente"
+        ]
+      },
+      "speech": {
+        "fil": "Ano ang ginawa ni Katy matapos gumaling?"
+      }
+    }
+  ],
+  "answers": [
+    {
+      "questionId": "book1-story-21-katy-q1",
+      "answer": {
+        "id": "Ada masalah pada otaknya",
+        "fil": "May suliranin sa kaniyang utak"
+      },
+      "explanation": {
+        "id": "Dokter menemukan masalah menyakitkan di bagian bawah otak Katy.",
+        "fil": "Natuklasan ng mga doktor ang masakit na suliranin sa ibabang bahagi ng utak ni Katy."
+      }
+    },
+    {
+      "questionId": "book1-story-21-katy-q2",
+      "answer": {
+        "id": "Ia bermain, melukis, dan membawa bunga",
+        "fil": "Nakipaglaro, gumuhit, at nagdala siya ng bulaklak"
+      },
+      "explanation": {
+        "id": "Katy memakai tenaga yang dimilikinya untuk menghibur orang lain.",
+        "fil": "Ginamit ni Katy ang natitira niyang lakas upang pasayahin ang iba."
+      }
+    },
+    {
+      "questionId": "book1-story-21-katy-q3",
+      "answer": {
+        "id": "Ia kembali membantu para pasien",
+        "fil": "Bumalik siyang tumulong sa mga pasyente"
+      },
+      "explanation": {
+        "id": "Ia terus datang untuk bermain dengan anak-anak dan membaca bagi pasien yang lebih tua.",
+        "fil": "Patuloy siyang dumalaw upang makipaglaro sa mga bata at magbasa sa matatandang pasyente."
+      }
+    }
+  ],
+  "vocabulary": [
+    {
+      "language": "fil",
+      "word": "nars",
+      "translations": {
+        "id": "perawat",
+        "fil": "nars"
+      },
+      "meanings": {
+        "id": "perawat",
+        "fil": "Ang katumbas nito sa Indonesian ay “perawat”."
+      },
+      "pos": "pangngalan",
+      "pronunciation": "nars",
+      "notes": {
+        "id": "Kata ini muncul pada paragraf 1 dalam konteks cerita.",
+        "fil": "Makikita ang salitang ito sa talata 1 ng muling pagsasalaysay."
+      }
+    },
+    {
+      "language": "fil",
+      "word": "kirot",
+      "translations": {
+        "id": "nyeri",
+        "fil": "kirot"
+      },
+      "meanings": {
+        "id": "nyeri",
+        "fil": "Ang katumbas nito sa Indonesian ay “nyeri”."
+      },
+      "pos": "pangngalan",
+      "pronunciation": "kirot",
+      "notes": {
+        "id": "Kata ini muncul pada paragraf 1 dalam konteks cerita.",
+        "fil": "Makikita ang salitang ito sa talata 1 ng muling pagsasalaysay."
+      }
+    },
+    {
+      "language": "fil",
+      "word": "utak",
+      "translations": {
+        "id": "otak",
+        "fil": "utak"
+      },
+      "meanings": {
+        "id": "otak",
+        "fil": "Ang katumbas nito sa Indonesian ay “otak”."
+      },
+      "pos": "pangngalan",
+      "pronunciation": "utak",
+      "notes": {
+        "id": "Kata ini muncul pada paragraf 1 dalam konteks cerita.",
+        "fil": "Makikita ang salitang ito sa talata 1 ng muling pagsasalaysay."
+      }
+    },
+    {
+      "language": "fil",
+      "word": "pasyente",
+      "translations": {
+        "id": "pasien",
+        "fil": "pasyente"
+      },
+      "meanings": {
+        "id": "pasien",
+        "fil": "Ang katumbas nito sa Indonesian ay “pasien”."
+      },
+      "pos": "pangngalan",
+      "pronunciation": "pasyente",
+      "notes": {
+        "id": "Kata ini muncul pada paragraf 2 dalam konteks cerita.",
+        "fil": "Makikita ang salitang ito sa talata 2 ng muling pagsasalaysay."
+      }
+    },
+    {
+      "language": "fil",
+      "word": "operasyon",
+      "translations": {
+        "id": "operasi",
+        "fil": "operasyon"
+      },
+      "meanings": {
+        "id": "operasi",
+        "fil": "Ang katumbas nito sa Indonesian ay “operasi”."
+      },
+      "pos": "pangngalan",
+      "pronunciation": "operasyon",
+      "notes": {
+        "id": "Kata ini muncul pada paragraf 5 dalam konteks cerita.",
+        "fil": "Makikita ang salitang ito sa talata 5 ng muling pagsasalaysay."
+      }
+    },
+    {
+      "language": "fil",
+      "word": "matagumpay",
+      "translations": {
+        "id": "berhasil",
+        "fil": "matagumpay"
+      },
+      "meanings": {
+        "id": "berhasil",
+        "fil": "Ang katumbas nito sa Indonesian ay “berhasil”."
+      },
+      "pos": "pang-uri",
+      "pronunciation": "matagumpay",
+      "notes": {
+        "id": "Kata ini muncul pada paragraf 5 dalam konteks cerita.",
+        "fil": "Makikita ang salitang ito sa talata 5 ng muling pagsasalaysay."
+      }
+    },
+    {
+      "language": "fil",
+      "word": "gumaling",
+      "translations": {
+        "id": "pulih",
+        "fil": "gumaling"
+      },
+      "meanings": {
+        "id": "pulih",
+        "fil": "Ang katumbas nito sa Indonesian ay “pulih”."
+      },
+      "pos": "pandiwa",
+      "pronunciation": "gumaling",
+      "notes": {
+        "id": "Kata ini muncul pada paragraf 6 dalam konteks cerita.",
+        "fil": "Makikita ang salitang ito sa talata 6 ng muling pagsasalaysay."
+      }
+    },
+    {
+      "language": "fil",
+      "word": "kabutihan",
+      "translations": {
+        "id": "kebaikan",
+        "fil": "kabutihan"
+      },
+      "meanings": {
+        "id": "kebaikan",
+        "fil": "Ang katumbas nito sa Indonesian ay “kebaikan”."
+      },
+      "pos": "pangngalan",
+      "pronunciation": "kabutihan",
+      "notes": {
+        "id": "Kata ini muncul pada paragraf 7 dalam konteks cerita.",
+        "fil": "Makikita ang salitang ito sa talata 7 ng muling pagsasalaysay."
+      }
+    }
+  ],
+  "assets": [
+    "assets/21-katy.png"
+  ]
+}

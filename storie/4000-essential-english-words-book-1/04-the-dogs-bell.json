@@ -1,0 +1,370 @@
+{
+  "schemaVersion": 1,
+  "id": "book1-story-04-the-dogs-bell",
+  "collectionId": "4000-essential-english-words-book-1",
+  "sourceOrder": 4,
+  "family": "4000-essential-english-words-book-1",
+  "category": "Fabel dan perilaku",
+  "level": "BEGINNER",
+  "order": 4,
+  "kind": "STORY",
+  "image": "assets/04-the-dogs-bell.jpg",
+  "title": {
+    "id": "The Dog’s Bell",
+    "fil": "The Dog’s Bell"
+  },
+  "originalTitle": "The Dog’s Bell",
+  "summary": {
+    "id": "Seekor anjing yang suka menggigit mengira lonceng peringatannya membuatnya populer, tetapi anjing lain menjelaskan kebenarannya.",
+    "fil": "Inakala ng asong nangangagat na popular siya dahil sa kaniyang kampana, ngunit ipinaliwanag ng ibang aso ang tunay na dahilan."
+  },
+  "objectives": [
+    {
+      "id": "Menelusuri sebab dan akibat dalam “The Dog’s Bell”.",
+      "fil": "Sundan ang sanhi at bunga sa “The Dog’s Bell”."
+    },
+    {
+      "id": "Menjelaskan tema reputasi dan akibat perilaku melalui keputusan para tokoh.",
+      "fil": "Ipaliwanag ang temang reputasyon at bunga ng asal sa pamamagitan ng mga pasiya ng mga tauhan."
+    }
+  ],
+  "sentences": [
+    {
+      "id": "Anjing John sering menggigit orang, sehingga seluruh desa merasa khawatir dan menjauhi rumah John.",
+      "fil": "Madalas mangagat ng tao ang aso ni John, kaya nababahala ang buong nayon at umiiwas sa bahay ni John."
+    },
+    {
+      "id": "John mencoba melatihnya dengan sabar, tetapi kebiasaan buruk itu tidak berubah.",
+      "fil": "Matiyagang sinubukan ni John na turuan ito, ngunit hindi nagbago ang masamang ugali."
+    },
+    {
+      "id": "Seorang teman menyarankan agar lonceng dipasang di leher anjing supaya warga mendengarnya datang.",
+      "fil": "Iminungkahi ng isang kaibigan na lagyan ng kampana ang leeg ng aso upang marinig ng mga tao ang paglapit nito."
+    },
+    {
+      "id": "Cara itu berhasil karena orang dapat menghindar sebelum anjing mendekat.",
+      "fil": "Naging mabisa iyon dahil nakaiiwas ang mga tao bago pa makalapit ang aso."
+    },
+    {
+      "id": "Namun, anjing itu justru membanggakan loncengnya dan mengira semua orang memandangnya karena ia populer.",
+      "fil": "Subalit ipinagmamalaki ng aso ang kampana at inakalang tinitingnan siya ng lahat dahil popular siya."
+    },
+    {
+      "id": "Anjing-anjing lain menertawakannya dan berkata bahwa lonceng itu hanya menjadi peringatan agar orang menjauh.",
+      "fil": "Pinagtawanan siya ng ibang mga aso at sinabing babala lamang ang kampana upang makaiwas ang mga tao."
+    },
+    {
+      "id": "Ia pun belajar bahwa terkenal karena alasan yang salah bukanlah sesuatu yang baik.",
+      "fil": "Natutuhan niyang hindi mabuti ang maging kilala sa maling dahilan."
+    }
+  ],
+  "sentenceCount": 7,
+  "speakers": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  "notes": [
+    {
+      "title": {
+        "id": "Ungkapan berguna",
+        "fil": "Mga kapaki-pakinabang na pahayag"
+      },
+      "text": {
+        "id": "“upang marinig ng mga tao” — agar orang-orang dapat mendengar; “sa maling dahilan” — karena alasan yang salah",
+        "fil": "“upang marinig ng mga tao” — ang katumbas sa Indonesian ay “agar orang-orang dapat mendengar”; “sa maling dahilan” — ang katumbas sa Indonesian ay “karena alasan yang salah”"
+      }
+    },
+    {
+      "title": {
+        "id": "Catatan tata bahasa",
+        "fil": "Tala sa gramatika"
+      },
+      "text": {
+        "id": "Kaya menghubungkan sebab dengan akibat. Upang + verba menjelaskan tujuan pemasangan lonceng.",
+        "fil": "Iniuugnay ng kaya ang sanhi at bunga. Ipinapaliwanag ng upang + pandiwa ang layunin ng paglalagay ng kampana."
+      }
+    }
+  ],
+  "focus": {
+    "id": [
+      "menggigit",
+      "khawatir",
+      "lonceng",
+      "leher",
+      "menjauh",
+      "membanggakan",
+      "populer",
+      "alasan"
+    ],
+    "fil": [
+      "mangagat",
+      "nababahala",
+      "kampana",
+      "leeg",
+      "umiiwas",
+      "ipinagmamalaki",
+      "popular",
+      "dahilan"
+    ]
+  },
+  "questions": [
+    {
+      "id": "book1-story-04-the-dogs-bell-q1",
+      "type": "MULTIPLE_CHOICE",
+      "prompt": {
+        "id": "Mengapa lonceng dipasang pada anjing?",
+        "fil": "Bakit nilagyan ng kampana ang aso?"
+      },
+      "choices": {
+        "id": [
+          "Agar terlihat cantik",
+          "Agar warga mendengarnya datang",
+          "Agar dapat menemukan rumah"
+        ],
+        "fil": [
+          "Upang gumanda ito",
+          "Upang marinig ng mga tao ang paglapit nito",
+          "Upang mahanap nito ang bahay"
+        ]
+      },
+      "speech": {
+        "fil": "Bakit nilagyan ng kampana ang aso?"
+      }
+    },
+    {
+      "id": "book1-story-04-the-dogs-bell-q2",
+      "type": "MULTIPLE_CHOICE",
+      "prompt": {
+        "id": "Apa yang disangka anjing tentang loncengnya?",
+        "fil": "Ano ang akala ng aso tungkol sa kaniyang kampana?"
+      },
+      "choices": {
+        "id": [
+          "Lonceng membuatnya populer",
+          "Lonceng membuatnya lambat",
+          "Lonceng milik John"
+        ],
+        "fil": [
+          "Ginagawa siyang popular ng kampana",
+          "Pinababagal siya ng kampana",
+          "Kay John ang kampana"
+        ]
+      },
+      "speech": {
+        "fil": "Ano ang akala ng aso tungkol sa kaniyang kampana?"
+      }
+    },
+    {
+      "id": "book1-story-04-the-dogs-bell-q3",
+      "type": "MULTIPLE_CHOICE",
+      "prompt": {
+        "id": "Apa pelajaran utama cerita?",
+        "fil": "Ano ang pangunahing aral ng kuwento?"
+      },
+      "choices": {
+        "id": [
+          "Semua perhatian itu baik",
+          "Anjing harus memakai perhiasan",
+          "Ketenaran karena perilaku buruk bukan hal positif"
+        ],
+        "fil": [
+          "Mabuti ang lahat ng atensiyon",
+          "Dapat magsuot ng palamuti ang aso",
+          "Hindi mabuti ang kasikatang mula sa masamang asal"
+        ]
+      },
+      "speech": {
+        "fil": "Ano ang pangunahing aral ng kuwento?"
+      }
+    }
+  ],
+  "answers": [
+    {
+      "questionId": "book1-story-04-the-dogs-bell-q1",
+      "answer": {
+        "id": "Agar warga mendengarnya datang",
+        "fil": "Upang marinig ng mga tao ang paglapit nito"
+      },
+      "explanation": {
+        "id": "Bunyi lonceng memberi warga waktu untuk menjauh dari anjing yang suka menggigit.",
+        "fil": "Binibigyan ng tunog ng kampana ng panahon ang mga tao na makaiwas sa nangangagat na aso."
+      }
+    },
+    {
+      "questionId": "book1-story-04-the-dogs-bell-q2",
+      "answer": {
+        "id": "Lonceng membuatnya populer",
+        "fil": "Ginagawa siyang popular ng kampana"
+      },
+      "explanation": {
+        "id": "Anjing salah menafsirkan perhatian warga sebagai kekaguman.",
+        "fil": "Maling inakala ng aso na paghanga ang pagtingin ng mga tao."
+      }
+    },
+    {
+      "questionId": "book1-story-04-the-dogs-bell-q3",
+      "answer": {
+        "id": "Ketenaran karena perilaku buruk bukan hal positif",
+        "fil": "Hindi mabuti ang kasikatang mula sa masamang asal"
+      },
+      "explanation": {
+        "id": "Lonceng membuat anjing dikenal, tetapi hanya karena orang takut digigit.",
+        "fil": "Nakilala ang aso dahil sa kampana, ngunit dahil lamang sa takot ng mga tao na makagat."
+      }
+    }
+  ],
+  "vocabulary": [
+    {
+      "language": "fil",
+      "word": "mangagat",
+      "translations": {
+        "id": "menggigit",
+        "fil": "mangagat"
+      },
+      "meanings": {
+        "id": "menggigit",
+        "fil": "Ang katumbas nito sa Indonesian ay “menggigit”."
+      },
+      "pos": "pandiwa",
+      "pronunciation": "mangagat",
+      "notes": {
+        "id": "Kata ini muncul pada paragraf 1 dalam konteks cerita.",
+        "fil": "Makikita ang salitang ito sa talata 1 ng muling pagsasalaysay."
+      }
+    },
+    {
+      "language": "fil",
+      "word": "nababahala",
+      "translations": {
+        "id": "khawatir",
+        "fil": "nababahala"
+      },
+      "meanings": {
+        "id": "khawatir",
+        "fil": "Ang katumbas nito sa Indonesian ay “khawatir”."
+      },
+      "pos": "pang-uri",
+      "pronunciation": "nababahala",
+      "notes": {
+        "id": "Kata ini muncul pada paragraf 1 dalam konteks cerita.",
+        "fil": "Makikita ang salitang ito sa talata 1 ng muling pagsasalaysay."
+      }
+    },
+    {
+      "language": "fil",
+      "word": "kampana",
+      "translations": {
+        "id": "lonceng",
+        "fil": "kampana"
+      },
+      "meanings": {
+        "id": "lonceng",
+        "fil": "Ang katumbas nito sa Indonesian ay “lonceng”."
+      },
+      "pos": "pangngalan",
+      "pronunciation": "kampana",
+      "notes": {
+        "id": "Kata ini muncul pada paragraf 3 dalam konteks cerita.",
+        "fil": "Makikita ang salitang ito sa talata 3 ng muling pagsasalaysay."
+      }
+    },
+    {
+      "language": "fil",
+      "word": "leeg",
+      "translations": {
+        "id": "leher",
+        "fil": "leeg"
+      },
+      "meanings": {
+        "id": "leher",
+        "fil": "Ang katumbas nito sa Indonesian ay “leher”."
+      },
+      "pos": "pangngalan",
+      "pronunciation": "leeg",
+      "notes": {
+        "id": "Kata ini muncul pada paragraf 3 dalam konteks cerita.",
+        "fil": "Makikita ang salitang ito sa talata 3 ng muling pagsasalaysay."
+      }
+    },
+    {
+      "language": "fil",
+      "word": "umiiwas",
+      "translations": {
+        "id": "menjauh",
+        "fil": "umiiwas"
+      },
+      "meanings": {
+        "id": "menjauh",
+        "fil": "Ang katumbas nito sa Indonesian ay “menjauh”."
+      },
+      "pos": "pandiwa",
+      "pronunciation": "umiiwas",
+      "notes": {
+        "id": "Kata ini muncul pada paragraf 1 dalam konteks cerita.",
+        "fil": "Makikita ang salitang ito sa talata 1 ng muling pagsasalaysay."
+      }
+    },
+    {
+      "language": "fil",
+      "word": "ipinagmamalaki",
+      "translations": {
+        "id": "membanggakan",
+        "fil": "ipinagmamalaki"
+      },
+      "meanings": {
+        "id": "membanggakan",
+        "fil": "Ang katumbas nito sa Indonesian ay “membanggakan”."
+      },
+      "pos": "pandiwa",
+      "pronunciation": "ipinagmamalaki",
+      "notes": {
+        "id": "Kata ini muncul pada paragraf 5 dalam konteks cerita.",
+        "fil": "Makikita ang salitang ito sa talata 5 ng muling pagsasalaysay."
+      }
+    },
+    {
+      "language": "fil",
+      "word": "popular",
+      "translations": {
+        "id": "populer",
+        "fil": "popular"
+      },
+      "meanings": {
+        "id": "populer",
+        "fil": "Ang katumbas nito sa Indonesian ay “populer”."
+      },
+      "pos": "pang-uri",
+      "pronunciation": "popular",
+      "notes": {
+        "id": "Kata ini muncul pada paragraf 5 dalam konteks cerita.",
+        "fil": "Makikita ang salitang ito sa talata 5 ng muling pagsasalaysay."
+      }
+    },
+    {
+      "language": "fil",
+      "word": "dahilan",
+      "translations": {
+        "id": "alasan",
+        "fil": "dahilan"
+      },
+      "meanings": {
+        "id": "alasan",
+        "fil": "Ang katumbas nito sa Indonesian ay “alasan”."
+      },
+      "pos": "pangngalan",
+      "pronunciation": "dahilan",
+      "notes": {
+        "id": "Kata ini muncul pada paragraf 7 dalam konteks cerita.",
+        "fil": "Makikita ang salitang ito sa talata 7 ng muling pagsasalaysay."
+      }
+    }
+  ],
+  "assets": [
+    "assets/04-the-dogs-bell.jpg"
+  ]
+}

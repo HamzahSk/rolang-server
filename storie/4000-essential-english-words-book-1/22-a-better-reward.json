@@ -1,0 +1,370 @@
+{
+  "schemaVersion": 1,
+  "id": "book1-story-22-a-better-reward",
+  "collectionId": "4000-essential-english-words-book-1",
+  "sourceOrder": 22,
+  "family": "4000-essential-english-words-book-1",
+  "category": "Kepedulian pada hewan",
+  "level": "BEGINNER",
+  "order": 22,
+  "kind": "STORY",
+  "image": "assets/22-a-better-reward.jpg",
+  "title": {
+    "id": "A Better Reward",
+    "fil": "A Better Reward"
+  },
+  "originalTitle": "A Better Reward",
+  "summary": {
+    "id": "Jenny mengejar pencuri makanan dan menemukan induk anjing yang memberi makan anak-anaknya; menyelamatkan mereka menjadi hadiah yang lebih baik.",
+    "fil": "Hinabol ni Jenny ang magnanakaw ng pagkain at natuklasang inang aso pala itong nagpapakain sa mga tuta; ang pagliligtas sa kanila ang naging mas mabuting gantimpala."
+  },
+  "objectives": [
+    {
+      "id": "Menelusuri sebab dan akibat dalam “A Better Reward”.",
+      "fil": "Sundan ang sanhi at bunga sa “A Better Reward”."
+    },
+    {
+      "id": "Menjelaskan tema belas kasih sebagai hadiah melalui keputusan para tokoh.",
+      "fil": "Ipaliwanag ang temang habag bilang gantimpala sa pamamagitan ng mga pasiya ng mga tauhan."
+    }
+  ],
+  "sentences": [
+    {
+      "id": "Jenny bekerja mengantar makanan dan membaca berita tentang pencuri yang mengambil porsi sangat besar.",
+      "fil": "Naghahatid ng pagkain si Jenny at nakabasa siya ng balita tungkol sa magnanakaw na kumukuha ng napakaraming pagkain."
+    },
+    {
+      "id": "Polisi menawarkan hadiah, tetapi manajernya, Jim, memperingatkan agar ia tidak mengejar siapa pun sendirian.",
+      "fil": "Nag-alok ng gantimpala ang pulisya, ngunit binalaan siya ng manager na si Jim na huwag humabol nang mag-isa."
+    },
+    {
+      "id": "Ketika makanan hilang dari mobilnya saat pengantaran, Jenny tetap mengejar suara di sekitar sudut jalan.",
+      "fil": "Nang mawala ang pagkain sa kaniyang sasakyan habang naghahatid, hinabol pa rin ni Jenny ang tunog sa kanto."
+    },
+    {
+      "id": "Ia terkejut menemukan seekor induk anjing kurus dan beberapa anak anjing sedang memakan makanan itu.",
+      "fil": "Nagulat siyang makita ang payat na inang aso at ilang tuta na kumakain ng ninakaw na pagkain."
+    },
+    {
+      "id": "Jenny mengerti bahwa induk itu mencuri banyak karena harus memberi makan anak-anaknya.",
+      "fil": "Naunawaan ni Jenny na marami itong kinukuha upang mapakain ang mga tuta."
+    },
+    {
+      "id": "Ia memberi mereka makanan lagi dan membawa semuanya ke restoran, tempat para pekerja mengadopsi setiap anak anjing.",
+      "fil": "Muli niya silang pinakain at dinala sa restoran, kung saan inampon ng mga manggagawa ang bawat tuta."
+    },
+    {
+      "id": "Jenny tidak lagi mengejar uang hadiah; anjing barunya dan kesempatan menunjukkan belas kasih menjadi hadiah yang lebih baik.",
+      "fil": "Hindi na salapi ang hinabol ni Jenny; ang bagong aso at pagkakataong magpakita ng habag ang naging mas mabuting gantimpala."
+    }
+  ],
+  "sentenceCount": 7,
+  "speakers": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  "notes": [
+    {
+      "title": {
+        "id": "Ungkapan berguna",
+        "fil": "Mga kapaki-pakinabang na pahayag"
+      },
+      "text": {
+        "id": "“huwag humabol nang mag-isa” — jangan mengejar sendirian; “mas mabuting gantimpala” — hadiah yang lebih baik",
+        "fil": "“huwag humabol nang mag-isa” — ang katumbas sa Indonesian ay “jangan mengejar sendirian”; “mas mabuting gantimpala” — ang katumbas sa Indonesian ay “hadiah yang lebih baik”"
+      }
+    },
+    {
+      "title": {
+        "id": "Catatan tata bahasa",
+        "fil": "Tala sa gramatika"
+      },
+      "text": {
+        "id": "Upang menjelaskan tujuan induk anjing mengambil makanan. Mas + adjektiva membandingkan nilai dua jenis hadiah.",
+        "fil": "Ipinakikilala ng upang ang layunin ng inang aso sa pagkuha ng pagkain. Inihahambing ng mas + pang-uri ang halaga ng dalawang gantimpala."
+      }
+    }
+  ],
+  "focus": {
+    "id": [
+      "mengantar",
+      "pencuri",
+      "hadiah",
+      "mengejar",
+      "kurus",
+      "anak anjing",
+      "mengadopsi",
+      "belas kasih"
+    ],
+    "fil": [
+      "naghahatid",
+      "magnanakaw",
+      "gantimpala",
+      "hinabol",
+      "payat",
+      "tuta",
+      "inampon",
+      "habag"
+    ]
+  },
+  "questions": [
+    {
+      "id": "book1-story-22-a-better-reward-q1",
+      "type": "MULTIPLE_CHOICE",
+      "prompt": {
+        "id": "Siapa ‘pencuri’ makanan sebenarnya?",
+        "fil": "Sino pala ang “magnanakaw” ng pagkain?"
+      },
+      "choices": {
+        "id": [
+          "Seekor induk anjing",
+          "Seorang pelanggan",
+          "Jim"
+        ],
+        "fil": [
+          "Isang inang aso",
+          "Isang kostumer",
+          "Si Jim"
+        ]
+      },
+      "speech": {
+        "fil": "Sino pala ang “magnanakaw” ng pagkain?"
+      }
+    },
+    {
+      "id": "book1-story-22-a-better-reward-q2",
+      "type": "MULTIPLE_CHOICE",
+      "prompt": {
+        "id": "Mengapa anjing itu mengambil begitu banyak makanan?",
+        "fil": "Bakit napakaraming pagkain ang kinukuha ng aso?"
+      },
+      "choices": {
+        "id": [
+          "Untuk menyimpannya",
+          "Untuk memberi makan anak-anaknya",
+          "Untuk menjualnya"
+        ],
+        "fil": [
+          "Upang itago iyon",
+          "Upang pakainin ang mga tuta",
+          "Upang ipagbili iyon"
+        ]
+      },
+      "speech": {
+        "fil": "Bakit napakaraming pagkain ang kinukuha ng aso?"
+      }
+    },
+    {
+      "id": "book1-story-22-a-better-reward-q3",
+      "type": "MULTIPLE_CHOICE",
+      "prompt": {
+        "id": "Apa hadiah yang lebih baik bagi Jenny?",
+        "fil": "Ano ang mas mabuting gantimpala para kay Jenny?"
+      },
+      "choices": {
+        "id": [
+          "Berita di koran",
+          "Makanan gratis",
+          "Anjing baru dan keselamatan para anak anjing"
+        ],
+        "fil": [
+          "Balita sa diyaryo",
+          "Libreng pagkain",
+          "Bagong aso at kaligtasan ng mga tuta"
+        ]
+      },
+      "speech": {
+        "fil": "Ano ang mas mabuting gantimpala para kay Jenny?"
+      }
+    }
+  ],
+  "answers": [
+    {
+      "questionId": "book1-story-22-a-better-reward-q1",
+      "answer": {
+        "id": "Seekor induk anjing",
+        "fil": "Isang inang aso"
+      },
+      "explanation": {
+        "id": "Jenny menemukan anjing itu bersama anak-anaknya setelah mengikuti suara.",
+        "fil": "Natagpuan ni Jenny ang aso kasama ang mga tuta matapos sundan ang tunog."
+      }
+    },
+    {
+      "questionId": "book1-story-22-a-better-reward-q2",
+      "answer": {
+        "id": "Untuk memberi makan anak-anaknya",
+        "fil": "Upang pakainin ang mga tuta"
+      },
+      "explanation": {
+        "id": "Induk yang kurus itu berusaha memenuhi kebutuhan beberapa anak anjing.",
+        "fil": "Sinisikap ng payat na ina na mapakain ang ilang tuta."
+      }
+    },
+    {
+      "questionId": "book1-story-22-a-better-reward-q3",
+      "answer": {
+        "id": "Anjing baru dan keselamatan para anak anjing",
+        "fil": "Bagong aso at kaligtasan ng mga tuta"
+      },
+      "explanation": {
+        "id": "Jenny lebih menghargai menyelamatkan dan mengadopsi anjing daripada menerima uang.",
+        "fil": "Mas pinahalagahan ni Jenny ang pagliligtas at pag-ampon kaysa salapi."
+      }
+    }
+  ],
+  "vocabulary": [
+    {
+      "language": "fil",
+      "word": "naghahatid",
+      "translations": {
+        "id": "mengantar",
+        "fil": "naghahatid"
+      },
+      "meanings": {
+        "id": "mengantar",
+        "fil": "Ang katumbas nito sa Indonesian ay “mengantar”."
+      },
+      "pos": "pandiwa",
+      "pronunciation": "naghahatid",
+      "notes": {
+        "id": "Kata ini muncul pada paragraf 1 dalam konteks cerita.",
+        "fil": "Makikita ang salitang ito sa talata 1 ng muling pagsasalaysay."
+      }
+    },
+    {
+      "language": "fil",
+      "word": "magnanakaw",
+      "translations": {
+        "id": "pencuri",
+        "fil": "magnanakaw"
+      },
+      "meanings": {
+        "id": "pencuri",
+        "fil": "Ang katumbas nito sa Indonesian ay “pencuri”."
+      },
+      "pos": "pangngalan",
+      "pronunciation": "magnanakaw",
+      "notes": {
+        "id": "Kata ini muncul pada paragraf 1 dalam konteks cerita.",
+        "fil": "Makikita ang salitang ito sa talata 1 ng muling pagsasalaysay."
+      }
+    },
+    {
+      "language": "fil",
+      "word": "gantimpala",
+      "translations": {
+        "id": "hadiah",
+        "fil": "gantimpala"
+      },
+      "meanings": {
+        "id": "hadiah",
+        "fil": "Ang katumbas nito sa Indonesian ay “hadiah”."
+      },
+      "pos": "pangngalan",
+      "pronunciation": "gantimpala",
+      "notes": {
+        "id": "Kata ini muncul pada paragraf 2 dalam konteks cerita.",
+        "fil": "Makikita ang salitang ito sa talata 2 ng muling pagsasalaysay."
+      }
+    },
+    {
+      "language": "fil",
+      "word": "hinabol",
+      "translations": {
+        "id": "mengejar",
+        "fil": "hinabol"
+      },
+      "meanings": {
+        "id": "mengejar",
+        "fil": "Ang katumbas nito sa Indonesian ay “mengejar”."
+      },
+      "pos": "pandiwa",
+      "pronunciation": "hinabol",
+      "notes": {
+        "id": "Kata ini muncul pada paragraf 3 dalam konteks cerita.",
+        "fil": "Makikita ang salitang ito sa talata 3 ng muling pagsasalaysay."
+      }
+    },
+    {
+      "language": "fil",
+      "word": "payat",
+      "translations": {
+        "id": "kurus",
+        "fil": "payat"
+      },
+      "meanings": {
+        "id": "kurus",
+        "fil": "Ang katumbas nito sa Indonesian ay “kurus”."
+      },
+      "pos": "pang-uri",
+      "pronunciation": "payat",
+      "notes": {
+        "id": "Kata ini muncul pada paragraf 4 dalam konteks cerita.",
+        "fil": "Makikita ang salitang ito sa talata 4 ng muling pagsasalaysay."
+      }
+    },
+    {
+      "language": "fil",
+      "word": "tuta",
+      "translations": {
+        "id": "anak anjing",
+        "fil": "tuta"
+      },
+      "meanings": {
+        "id": "anak anjing",
+        "fil": "Ang katumbas nito sa Indonesian ay “anak anjing”."
+      },
+      "pos": "pangngalan",
+      "pronunciation": "tuta",
+      "notes": {
+        "id": "Kata ini muncul pada paragraf 4 dalam konteks cerita.",
+        "fil": "Makikita ang salitang ito sa talata 4 ng muling pagsasalaysay."
+      }
+    },
+    {
+      "language": "fil",
+      "word": "inampon",
+      "translations": {
+        "id": "mengadopsi",
+        "fil": "inampon"
+      },
+      "meanings": {
+        "id": "mengadopsi",
+        "fil": "Ang katumbas nito sa Indonesian ay “mengadopsi”."
+      },
+      "pos": "pandiwa",
+      "pronunciation": "inampon",
+      "notes": {
+        "id": "Kata ini muncul pada paragraf 6 dalam konteks cerita.",
+        "fil": "Makikita ang salitang ito sa talata 6 ng muling pagsasalaysay."
+      }
+    },
+    {
+      "language": "fil",
+      "word": "habag",
+      "translations": {
+        "id": "belas kasih",
+        "fil": "habag"
+      },
+      "meanings": {
+        "id": "belas kasih",
+        "fil": "Ang katumbas nito sa Indonesian ay “belas kasih”."
+      },
+      "pos": "pangngalan",
+      "pronunciation": "habag",
+      "notes": {
+        "id": "Kata ini muncul pada paragraf 7 dalam konteks cerita.",
+        "fil": "Makikita ang salitang ito sa talata 7 ng muling pagsasalaysay."
+      }
+    }
+  ],
+  "assets": [
+    "assets/22-a-better-reward.jpg"
+  ]
+}

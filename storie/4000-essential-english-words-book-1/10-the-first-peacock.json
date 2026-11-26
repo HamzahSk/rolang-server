@@ -1,0 +1,370 @@
+{
+  "schemaVersion": 1,
+  "id": "book1-story-10-the-first-peacock",
+  "collectionId": "4000-essential-english-words-book-1",
+  "sourceOrder": 10,
+  "family": "4000-essential-english-words-book-1",
+  "category": "Mitologi Yunani",
+  "level": "BEGINNER",
+  "order": 10,
+  "kind": "STORY",
+  "image": "assets/10-the-first-peacock.jpg",
+  "title": {
+    "id": "The First Peacock",
+    "fil": "The First Peacock"
+  },
+  "originalTitle": "The First Peacock",
+  "summary": {
+    "id": "Argos yang bermata seratus gagal menjaga sapi Hera setelah ditidurkan oleh musik, lalu matanya diabadikan pada ekor merak dan di langit.",
+    "fil": "Nabigo ang sandaang-matang si Argos na bantayan ang baka ni Hera matapos siyang patulugin ng musika, kaya inilagay ang kaniyang mga mata sa buntot ng paboreal at sa kalangitan."
+  },
+  "objectives": [
+    {
+      "id": "Menelusuri sebab dan akibat dalam “The First Peacock”.",
+      "fil": "Sundan ang sanhi at bunga sa “The First Peacock”."
+    },
+    {
+      "id": "Menjelaskan tema penipuan dan akibatnya melalui keputusan para tokoh.",
+      "fil": "Ipaliwanag ang temang panlilinlang at bunga nito sa pamamagitan ng mga pasiya ng mga tauhan."
+    }
+  ],
+  "sentences": [
+    {
+      "id": "Dalam mitologi Yunani, Argos dilahirkan dengan seratus mata dan menjadi penjaga yang sangat waspada.",
+      "fil": "Sa mitolohiyang Griyego, isinilang si Argos na may sandaang mata at naging napakaingat na tagapagbantay."
+    },
+    {
+      "id": "Dewi Hera menyuruhnya menjaga sapi kesayangannya dan memisahkannya dari semua orang.",
+      "fil": "Inutusan siya ng diyosang si Hera na bantayan ang paborito nitong baka at ilayo iyon sa lahat."
+    },
+    {
+      "id": "Zeus ingin mengambil sapi itu, maka ia mengirim seorang pemain musik untuk memainkan lagu yang menenangkan.",
+      "fil": "Nais kunin ni Zeus ang baka kaya nagpadala siya ng musikero upang tumugtog ng nakaaantok na awit."
+    },
+    {
+      "id": "Musik tersebut membuat semua mata Argos tertutup dan ia pun tertidur.",
+      "fil": "Dahil sa tugtog, napikit ang lahat ng mata ni Argos at nakatulog siya."
+    },
+    {
+      "id": "Zeus membawa pergi sapi itu, dan Hera yang marah menghukum Argos dengan mengubahnya menjadi merak.",
+      "fil": "Kinuha ni Zeus ang baka, at bilang parusa ay ginawang paboreal ng galit na si Hera si Argos."
+    },
+    {
+      "id": "Seratus matanya menjadi pola pada ekor merak yang lebar.",
+      "fil": "Naging mga hugis sa malapad na buntot ng paboreal ang kaniyang sandaang mata."
+    },
+    {
+      "id": "Karena melihat penderitaan Argos, Zeus kemudian menempatkan gambarnya sebagai gugusan bintang agar tetap terlihat di langit.",
+      "fil": "Nang makita ang hirap ni Argos, inilagay ni Zeus ang kaniyang larawan bilang konstelasyon upang manatili ito sa kalangitan."
+    }
+  ],
+  "sentenceCount": 7,
+  "speakers": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  "notes": [
+    {
+      "title": {
+        "id": "Ungkapan berguna",
+        "fil": "Mga kapaki-pakinabang na pahayag"
+      },
+      "text": {
+        "id": "“bilang parusa” — sebagai hukuman; “upang manatili ito sa kalangitan” — agar tetap berada di langit",
+        "fil": "“bilang parusa” — ang katumbas sa Indonesian ay “sebagai hukuman”; “upang manatili ito sa kalangitan” — ang katumbas sa Indonesian ay “agar tetap berada di langit”"
+      }
+    },
+    {
+      "title": {
+        "id": "Catatan tata bahasa",
+        "fil": "Tala sa gramatika"
+      },
+      "text": {
+        "id": "Kaya memperkenalkan akibat dari keinginan Zeus. Bilang + nomina dapat menunjukkan fungsi atau keadaan, seperti bilang parusa.",
+        "fil": "Ipinakikilala ng kaya ang bunga ng kagustuhan ni Zeus. Maaaring ipakita ng bilang + pangngalan ang gamit o kalagayan, gaya ng bilang parusa."
+      }
+    }
+  ],
+  "focus": {
+    "id": [
+      "mitologi Yunani",
+      "seratus mata",
+      "penjaga",
+      "dewi",
+      "pemain musik",
+      "tertidur",
+      "merak",
+      "gugusan bintang"
+    ],
+    "fil": [
+      "mitolohiyang Griyego",
+      "sandaang mata",
+      "tagapagbantay",
+      "diyosa",
+      "musikero",
+      "nakatulog",
+      "paboreal",
+      "konstelasyon"
+    ]
+  },
+  "questions": [
+    {
+      "id": "book1-story-10-the-first-peacock-q1",
+      "type": "MULTIPLE_CHOICE",
+      "prompt": {
+        "id": "Mengapa Argos cocok menjadi penjaga?",
+        "fil": "Bakit mahusay na tagapagbantay si Argos?"
+      },
+      "choices": {
+        "id": [
+          "Ia mempunyai seratus mata",
+          "Ia dapat terbang",
+          "Ia seorang dewa"
+        ],
+        "fil": [
+          "May sandaang mata siya",
+          "Nakakalipad siya",
+          "Isa siyang diyos"
+        ]
+      },
+      "speech": {
+        "fil": "Bakit mahusay na tagapagbantay si Argos?"
+      }
+    },
+    {
+      "id": "book1-story-10-the-first-peacock-q2",
+      "type": "MULTIPLE_CHOICE",
+      "prompt": {
+        "id": "Bagaimana Zeus membuat Argos tertidur?",
+        "fil": "Paano pinatulog ni Zeus si Argos?"
+      },
+      "choices": {
+        "id": [
+          "Dengan makanan",
+          "Dengan musik",
+          "Dengan ramuan"
+        ],
+        "fil": [
+          "Sa pagkain",
+          "Sa musika",
+          "Sa inumin"
+        ]
+      },
+      "speech": {
+        "fil": "Paano pinatulog ni Zeus si Argos?"
+      }
+    },
+    {
+      "id": "book1-story-10-the-first-peacock-q3",
+      "type": "MULTIPLE_CHOICE",
+      "prompt": {
+        "id": "Di mana mata Argos ditempatkan dalam cerita?",
+        "fil": "Saan inilagay ang mga mata ni Argos sa kuwento?"
+      },
+      "choices": {
+        "id": [
+          "Pada sayap elang",
+          "Pada kulit sapi",
+          "Pada ekor merak"
+        ],
+        "fil": [
+          "Sa pakpak ng agila",
+          "Sa balat ng baka",
+          "Sa buntot ng paboreal"
+        ]
+      },
+      "speech": {
+        "fil": "Saan inilagay ang mga mata ni Argos sa kuwento?"
+      }
+    }
+  ],
+  "answers": [
+    {
+      "questionId": "book1-story-10-the-first-peacock-q1",
+      "answer": {
+        "id": "Ia mempunyai seratus mata",
+        "fil": "May sandaang mata siya"
+      },
+      "explanation": {
+        "id": "Banyak matanya memungkinkan sebagian tetap berjaga ketika yang lain beristirahat.",
+        "fil": "Dahil sa dami ng kaniyang mata, may nananatiling gising habang nagpapahinga ang iba."
+      }
+    },
+    {
+      "questionId": "book1-story-10-the-first-peacock-q2",
+      "answer": {
+        "id": "Dengan musik",
+        "fil": "Sa musika"
+      },
+      "explanation": {
+        "id": "Lagu pemain musik membuat Argos kehilangan fokus dan menutup semua matanya.",
+        "fil": "Dahil sa awit ng musikero, nawalan ng pokus si Argos at napikit ang lahat ng mata niya."
+      }
+    },
+    {
+      "questionId": "book1-story-10-the-first-peacock-q3",
+      "answer": {
+        "id": "Pada ekor merak",
+        "fil": "Sa buntot ng paboreal"
+      },
+      "explanation": {
+        "id": "Hera mengubah mata-mata itu menjadi pola pada ekor merak.",
+        "fil": "Ginawang mga hugis ni Hera sa buntot ng paboreal ang mga mata."
+      }
+    }
+  ],
+  "vocabulary": [
+    {
+      "language": "fil",
+      "word": "mitolohiyang Griyego",
+      "translations": {
+        "id": "mitologi Yunani",
+        "fil": "mitolohiyang Griyego"
+      },
+      "meanings": {
+        "id": "mitologi Yunani",
+        "fil": "Ang katumbas nito sa Indonesian ay “mitologi Yunani”."
+      },
+      "pos": "parirala",
+      "pronunciation": "mitolohiyang Griyego",
+      "notes": {
+        "id": "Kata ini muncul pada paragraf 1 dalam konteks cerita.",
+        "fil": "Makikita ang salitang ito sa talata 1 ng muling pagsasalaysay."
+      }
+    },
+    {
+      "language": "fil",
+      "word": "sandaang mata",
+      "translations": {
+        "id": "seratus mata",
+        "fil": "sandaang mata"
+      },
+      "meanings": {
+        "id": "seratus mata",
+        "fil": "Ang katumbas nito sa Indonesian ay “seratus mata”."
+      },
+      "pos": "parirala",
+      "pronunciation": "sandaang mata",
+      "notes": {
+        "id": "Kata ini muncul pada paragraf 1 dalam konteks cerita.",
+        "fil": "Makikita ang salitang ito sa talata 1 ng muling pagsasalaysay."
+      }
+    },
+    {
+      "language": "fil",
+      "word": "tagapagbantay",
+      "translations": {
+        "id": "penjaga",
+        "fil": "tagapagbantay"
+      },
+      "meanings": {
+        "id": "penjaga",
+        "fil": "Ang katumbas nito sa Indonesian ay “penjaga”."
+      },
+      "pos": "pangngalan",
+      "pronunciation": "tagapagbantay",
+      "notes": {
+        "id": "Kata ini muncul pada paragraf 1 dalam konteks cerita.",
+        "fil": "Makikita ang salitang ito sa talata 1 ng muling pagsasalaysay."
+      }
+    },
+    {
+      "language": "fil",
+      "word": "diyosa",
+      "translations": {
+        "id": "dewi",
+        "fil": "diyosa"
+      },
+      "meanings": {
+        "id": "dewi",
+        "fil": "Ang katumbas nito sa Indonesian ay “dewi”."
+      },
+      "pos": "pangngalan",
+      "pronunciation": "diyosa",
+      "notes": {
+        "id": "Kata ini muncul pada paragraf 2 dalam konteks cerita.",
+        "fil": "Makikita ang salitang ito sa talata 2 ng muling pagsasalaysay."
+      }
+    },
+    {
+      "language": "fil",
+      "word": "musikero",
+      "translations": {
+        "id": "pemain musik",
+        "fil": "musikero"
+      },
+      "meanings": {
+        "id": "pemain musik",
+        "fil": "Ang katumbas nito sa Indonesian ay “pemain musik”."
+      },
+      "pos": "pangngalan",
+      "pronunciation": "musikero",
+      "notes": {
+        "id": "Kata ini muncul pada paragraf 3 dalam konteks cerita.",
+        "fil": "Makikita ang salitang ito sa talata 3 ng muling pagsasalaysay."
+      }
+    },
+    {
+      "language": "fil",
+      "word": "nakatulog",
+      "translations": {
+        "id": "tertidur",
+        "fil": "nakatulog"
+      },
+      "meanings": {
+        "id": "tertidur",
+        "fil": "Ang katumbas nito sa Indonesian ay “tertidur”."
+      },
+      "pos": "pandiwa",
+      "pronunciation": "nakatulog",
+      "notes": {
+        "id": "Kata ini muncul pada paragraf 4 dalam konteks cerita.",
+        "fil": "Makikita ang salitang ito sa talata 4 ng muling pagsasalaysay."
+      }
+    },
+    {
+      "language": "fil",
+      "word": "paboreal",
+      "translations": {
+        "id": "merak",
+        "fil": "paboreal"
+      },
+      "meanings": {
+        "id": "merak",
+        "fil": "Ang katumbas nito sa Indonesian ay “merak”."
+      },
+      "pos": "pangngalan",
+      "pronunciation": "paboreal",
+      "notes": {
+        "id": "Kata ini muncul pada paragraf 5 dalam konteks cerita.",
+        "fil": "Makikita ang salitang ito sa talata 5 ng muling pagsasalaysay."
+      }
+    },
+    {
+      "language": "fil",
+      "word": "konstelasyon",
+      "translations": {
+        "id": "gugusan bintang",
+        "fil": "konstelasyon"
+      },
+      "meanings": {
+        "id": "gugusan bintang",
+        "fil": "Ang katumbas nito sa Indonesian ay “gugusan bintang”."
+      },
+      "pos": "pangngalan",
+      "pronunciation": "konstelasyon",
+      "notes": {
+        "id": "Kata ini muncul pada paragraf 7 dalam konteks cerita.",
+        "fil": "Makikita ang salitang ito sa talata 7 ng muling pagsasalaysay."
+      }
+    }
+  ],
+  "assets": [
+    "assets/10-the-first-peacock.jpg"
+  ]
+}

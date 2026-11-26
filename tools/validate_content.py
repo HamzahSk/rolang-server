@@ -327,29 +327,69 @@ def validate(root: Path) -> tuple[int, int, int, int]:
     story_index = load(story_index_path)
     if story_index.get("schemaVersion") != 1 or story_index.get("languagePair") != {"reference": "id", "target": "fil"}:
         fail("Invalid story index metadata")
+    if story_index.get("id") != "4000-essential-english-words-book-1":
+        fail("The story index must publish the Book 1 collection")
     story_references = story_index.get("stories")
     if not isinstance(story_references, list) or not story_references:
         fail("Story index must contain stories")
-    if story_index.get("storyCount") != len(story_references):
-        fail("Story count does not match index")
+    if story_index.get("storyCount") != 30 or len(story_references) != 30:
+        fail("Book 1 must contain exactly 30 stories")
     if [reference.get("order") for reference in story_references] != list(range(1, len(story_references) + 1)):
         fail("Story order must be contiguous")
+    if [reference.get("sourceOrder") for reference in story_references] != list(range(1, 31)):
+        fail("Story source order must match the EPUB")
     if len({reference.get("id") for reference in story_references}) != len(story_references):
         fail("Story ids must be unique")
     audit_path = verify_hash(root, story_index_path.parent, story_index.get("sourceAudit", {}))
     story_audit = load(audit_path)
-    if story_audit.get("source", {}).get("actualNumberedStoryCount", 0) < 100:
-        fail("Story source audit must cover the complete EPUB")
-    if story_audit.get("assets", {}).get("extractedOrReused") != 0:
-        fail("The source cover must not be reused as a story illustration")
+    source = story_audit.get("source", {})
+    if (source.get("type") != "EPUB" or source.get("title") != "4000 essential english words - Book 1"
+            or not HEX_HASH.fullmatch(source.get("epubSha256", ""))):
+        fail("Story source audit must identify the complete Book 1 EPUB")
+    documents = story_audit.get("documents")
+    inspection = story_audit.get("inspection", {})
+    if (not isinstance(documents, list) or story_audit.get("documentCount") != len(documents)
+            or len(documents) != 35 or inspection.get("spineDocumentCount") != 35):
+        fail("Story source audit must cover all 35 spine documents")
+    if any(not HEX_HASH.fullmatch(document.get("sha256", "")) for document in documents):
+        fail("Story source audit contains an invalid XHTML hash")
+    if sum(document.get("role") == "story" for document in documents) != 30:
+        fail("Exactly 30 spine documents must be classified as stories")
+    if inspection.get("actualNarrativeCount") != 30 or inspection.get("excludedDocumentCount") != 5:
+        fail("Story/reference classification totals are invalid")
+    audited_stories = story_audit.get("stories")
+    if (not isinstance(audited_stories, list) or story_audit.get("storyCount") != 30
+            or [item.get("order") for item in audited_stories] != list(range(1, 31))):
+        fail("Story audit inventory is incomplete or out of order")
+    if [item.get("title") for item in audited_stories] != [reference.get("title", {}).get("id") for reference in story_references]:
+        fail("Story audit titles do not match the published index")
+    assets_audit = story_audit.get("assets", {})
+    asset_items = assets_audit.get("items")
+    if (assets_audit.get("availableIllustrations") != 30 or assets_audit.get("extracted") != 30
+            or not isinstance(asset_items, list) or len(asset_items) != 30):
+        fail("All 30 relevant EPUB illustrations must be extracted")
+    if assets_audit.get("skippedUnrelated") != ["OEBPS/Images/cover.jpg"]:
+        fail("Only the unrelated source cover may be skipped")
+    known_story_assets: set[str] = set()
+    for item in asset_items:
+        path = story_index_path.parent / safe_relative(item.get("path", ""))
+        if not path.is_file() or digest(path) != item.get("sha256") or path.stat().st_size != item.get("bytes"):
+            fail(f"Invalid story illustration audit: {path}")
+        suffix_type = "image/png" if path.suffix.lower() == ".png" else "image/jpeg"
+        if item.get("mediaType") != suffix_type or item.get("width", 0) <= 0 or item.get("height", 0) <= 0:
+            fail(f"Invalid story illustration metadata: {path}")
+        known_story_assets.add(path.relative_to(story_index_path.parent).as_posix())
     exercise_types = {"MULTIPLE_CHOICE", "VOCABULARY_TRANSLATION", "FILL_BLANK", "GRAMMAR", "SENTENCE_CONSTRUCTION", "COMPREHENSION"}
     total_stories = 0
-    for reference in story_references:
+    for reference, audit_item in zip(story_references, audited_stories):
         story_path = verify_hash(root, story_index_path.parent, reference)
         story = load(story_path)
         where = story_path.as_posix()
         if story.get("schemaVersion") != 1 or story.get("id") != reference.get("id"):
             fail(f"Story metadata mismatch: {where}")
+        if (story.get("collectionId") != story_index.get("id") or story.get("sourceOrder") != reference.get("sourceOrder")
+                or story.get("order") != reference.get("order")):
+            fail(f"Story collection/order mismatch: {where}")
         for field in ("family", "category", "level"):
             if story.get(field) != reference.get(field):
                 fail(f"Story {field} mismatch: {where}")
@@ -357,18 +397,22 @@ def validate(root: Path) -> tuple[int, int, int, int]:
             fail(f"Invalid story level or kind: {where}")
         localized_text(story.get("title"), f"{where}.title")
         localized_text(story.get("summary"), f"{where}.summary")
+        if (story.get("originalTitle") != audit_item.get("title") or story["title"] != {"id": story["originalTitle"], "fil": story["originalTitle"]}):
+            fail(f"Original source title was not preserved: {where}")
+        if audit_item.get("generatedStory") != story_path.relative_to(story_index_path.parent).as_posix() or audit_item.get("generatedSha256") != digest(story_path):
+            fail(f"Story generation audit mismatch: {where}")
         sentences = story.get("sentences")
-        if not isinstance(sentences, list) or len(sentences) < 6 or len(sentences) > 300:
-            fail(f"Story must contain complete paragraph content: {where}")
+        if not isinstance(sentences, list) or len(sentences) < 6 or len(sentences) > 10:
+            fail(f"Story retelling must be concise but complete: {where}")
         if story.get("sentenceCount") != len(sentences) or reference.get("sentenceCount") != len(sentences):
             fail(f"Story paragraph count mismatch: {where}")
         for index, sentence in enumerate(sentences):
             localized_text(sentence, f"{where}.sentences[{index}]")
-        chapters = story.get("chapters")
-        if not isinstance(chapters, list) or sum(chapter.get("sentenceCount", 0) for chapter in chapters) != len(sentences):
-            fail(f"Story chapters do not cover every paragraph: {where}")
-        for index, chapter in enumerate(chapters):
-            localized_text(chapter.get("title"), f"{where}.chapters[{index}].title")
+        objectives = story.get("objectives")
+        if not isinstance(objectives, list) or len(objectives) < 2:
+            fail(f"Story objectives are missing: {where}")
+        for index, objective in enumerate(objectives):
+            localized_text(objective, f"{where}.objectives[{index}]")
         notes = story.get("notes")
         if not isinstance(notes, list) or len(notes) < 2:
             fail(f"Story needs learning notes: {where}")
@@ -398,29 +442,40 @@ def validate(root: Path) -> tuple[int, int, int, int]:
             fail(f"Invalid story focus list: {where}")
         if any(value.casefold() not in set(vocabulary_keys) for value in focus["fil"]):
             fail(f"A focus expression is missing from vocabulary: {where}")
-        exercises = story.get("exercises")
-        if not isinstance(exercises, list) or len(exercises) < 5:
-            fail(f"Story needs interactive exercises: {where}")
-        for index, exercise in enumerate(exercises):
-            exercise_where = f"{where}.exercises[{index}]"
-            if exercise.get("type") not in exercise_types or not exercise.get("id"):
-                fail(f"Invalid exercise: {exercise_where}")
-            for field in ("prompt", "answer", "explanation"):
-                localized_text(exercise.get(field), f"{exercise_where}.{field}")
-            if exercise["type"] in {"MULTIPLE_CHOICE", "GRAMMAR"}:
-                choices = exercise.get("choices")
+        questions = story.get("questions")
+        answers = story.get("answers")
+        if not isinstance(questions, list) or len(questions) < 3 or not isinstance(answers, list):
+            fail(f"Story needs reading-comprehension questions and a separate answer key: {where}")
+        answer_map = {answer.get("questionId"): answer for answer in answers}
+        if len(answer_map) != len(answers) or set(answer_map) != {question.get("id") for question in questions}:
+            fail(f"Question and answer ids do not match: {where}")
+        for index, question in enumerate(questions):
+            question_where = f"{where}.questions[{index}]"
+            if question.get("type") not in exercise_types or not question.get("id"):
+                fail(f"Invalid question: {question_where}")
+            localized_text(question.get("prompt"), f"{question_where}.prompt")
+            answer = answer_map[question["id"]]
+            localized_text(answer.get("answer"), f"{question_where}.answerKey.answer")
+            localized_text(answer.get("explanation"), f"{question_where}.answerKey.explanation")
+            if question["type"] in {"MULTIPLE_CHOICE", "GRAMMAR"}:
+                choices = question.get("choices")
                 if not isinstance(choices, dict):
-                    fail(f"Exercise choices are missing: {exercise_where}")
+                    fail(f"Question choices are missing: {question_where}")
                 for language in ("id", "fil"):
-                    if not isinstance(choices.get(language), list) or len(set(choices[language])) < 2 or exercise["answer"][language] not in choices[language]:
-                        fail(f"Invalid {language} choices: {exercise_where}")
-            if exercise["type"] == "SENTENCE_CONSTRUCTION":
-                tokens = exercise.get("tokens")
+                    if (not isinstance(choices.get(language), list) or len(set(choices[language])) < 2
+                            or answer["answer"][language] not in choices[language]):
+                        fail(f"Invalid {language} choices: {question_where}")
+            if question["type"] == "SENTENCE_CONSTRUCTION":
+                tokens = question.get("tokens")
                 if not isinstance(tokens, dict) or any(not tokens.get(language) for language in ("id", "fil")):
-                    fail(f"Construction tokens are missing: {exercise_where}")
+                    fail(f"Construction tokens are missing: {question_where}")
         assets = story.get("assets")
-        if assets != [] or reference.get("assets") != []:
-            fail(f"Unexpected story assets: {where}")
+        if not isinstance(assets, list) or len(assets) != 1 or assets != reference.get("assets") or story.get("image") != assets[0]:
+            fail(f"Story must reference exactly its own illustration: {where}")
+        asset_path = story_path.parent / safe_relative(assets[0])
+        audit_asset = asset_path.relative_to(story_index_path.parent).as_posix()
+        if not asset_path.is_file() or audit_asset not in known_story_assets or audit_item.get("illustration") != audit_asset:
+            fail(f"Missing or unrelated story illustration: {where}")
         total_stories += 1
     json_count = len(list(root.rglob("*.json")))
     return total_lessons, total_assets, total_stories, json_count

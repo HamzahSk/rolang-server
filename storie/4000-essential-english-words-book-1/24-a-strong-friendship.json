@@ -1,0 +1,370 @@
+{
+  "schemaVersion": 1,
+  "id": "book1-story-24-a-strong-friendship",
+  "collectionId": "4000-essential-english-words-book-1",
+  "sourceOrder": 24,
+  "family": "4000-essential-english-words-book-1",
+  "category": "Kerja sama",
+  "level": "BEGINNER",
+  "order": 24,
+  "kind": "STORY",
+  "image": "assets/24-a-strong-friendship.jpg",
+  "title": {
+    "id": "A Strong Friendship",
+    "fil": "A Strong Friendship"
+  },
+  "originalTitle": "A Strong Friendship",
+  "summary": {
+    "id": "Tim yang kuat dan Jack yang cerdas menyelamatkan kota bersalju dengan menggabungkan kemampuan mereka dan akhirnya menjadi sahabat.",
+    "fil": "Iniligtas ng malakas na si Tim at matalinong si Jack ang bayang nabalot ng niyebe sa pamamagitan ng pagsasama ng kanilang kakayahan, at naging magkaibigan sila."
+  },
+  "objectives": [
+    {
+      "id": "Menelusuri sebab dan akibat dalam “A Strong Friendship”.",
+      "fil": "Sundan ang sanhi at bunga sa “A Strong Friendship”."
+    },
+    {
+      "id": "Menjelaskan tema kekuatan berbeda dalam kerja sama melalui keputusan para tokoh.",
+      "fil": "Ipaliwanag ang temang magkakaibang lakas sa pagtutulungan sa pamamagitan ng mga pasiya ng mga tauhan."
+    }
+  ],
+  "sentences": [
+    {
+      "id": "Tim dikenal sebagai orang terkuat di kota, sedangkan Jack adalah orang paling pintar tetapi iri karena jarang diperhatikan.",
+      "fil": "Kilala si Tim bilang pinakamalakas sa bayan, samantalang si Jack ang pinakamatalino ngunit naiinggit dahil bihira siyang mapansin."
+    },
+    {
+      "id": "Badai salju menutup seluruh kota dan membuat penduduk kekurangan makanan.",
+      "fil": "Tinabunan ng bagyo ng niyebe ang buong bayan at kinulang sa pagkain ang mga mamamayan."
+    },
+    {
+      "id": "Tim dan Jack pergi bersama; Jack menemukan lorong-lorong sempit di bawah salju yang menuju kota lain.",
+      "fil": "Magkasamang umalis sina Tim at Jack; nakakita si Jack ng makikitid na lagusan sa ilalim ng niyebe patungo sa ibang bayan."
+    },
+    {
+      "id": "Ketika balok es menghalangi jalan, Tim memecahkannya dengan kekuatan sampai ia sangat lelah.",
+      "fil": "Nang humarang ang mga bloke ng yelo, binasag iyon ni Tim gamit ang lakas hanggang mapagod siya nang husto."
+    },
+    {
+      "id": "Jack melanjutkan perjalanan sendirian, mengambil makanan, lalu kembali kepada Tim.",
+      "fil": "Nagpatuloy mag-isa si Jack, kumuha ng pagkain, at saka bumalik kay Tim."
+    },
+    {
+      "id": "Karena Tim tidak ingat lorong pulang, Jack menjadi penunjuk jalan, sementara Tim membantu membawa persediaan.",
+      "fil": "Dahil hindi maalala ni Tim ang daan pauwi, gumabay si Jack habang tumulong naman si Tim sa pagdala ng pagkain."
+    },
+    {
+      "id": "Dengan saling mendukung, mereka menyelamatkan kota dan belajar bahwa persahabatan lebih penting daripada persaingan.",
+      "fil": "Sa pagtutulungan, nailigtas nila ang bayan at natutuhan nilang mas mahalaga ang pagkakaibigan kaysa tunggalian."
+    }
+  ],
+  "sentenceCount": 7,
+  "speakers": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  "notes": [
+    {
+      "title": {
+        "id": "Ungkapan berguna",
+        "fil": "Mga kapaki-pakinabang na pahayag"
+      },
+      "text": {
+        "id": "“sa pagtutulungan” — melalui kerja sama; “mas mahalaga kaysa tunggalian” — lebih penting daripada persaingan",
+        "fil": "“sa pagtutulungan” — ang katumbas sa Indonesian ay “melalui kerja sama”; “mas mahalaga kaysa tunggalian” — ang katumbas sa Indonesian ay “lebih penting daripada persaingan”"
+      }
+    },
+    {
+      "title": {
+        "id": "Catatan tata bahasa",
+        "fil": "Tala sa gramatika"
+      },
+      "text": {
+        "id": "Pinaka- membentuk tingkat paling tinggi, seperti pinakamalakas. Samantalang membandingkan peran Tim dan Jack.",
+        "fil": "Binubuo ng pinaka- ang sukdulang antas, gaya ng pinakamalakas. Inihahambing ng samantalang ang mga papel nina Tim at Jack."
+      }
+    }
+  ],
+  "focus": {
+    "id": [
+      "paling kuat",
+      "paling pintar",
+      "salju",
+      "lorong",
+      "es",
+      "menjadi lelah",
+      "menuntun",
+      "kerja sama"
+    ],
+    "fil": [
+      "pinakamalakas",
+      "pinakamatalino",
+      "niyebe",
+      "lagusan",
+      "yelo",
+      "mapagod",
+      "gumabay",
+      "pagtutulungan"
+    ]
+  },
+  "questions": [
+    {
+      "id": "book1-story-24-a-strong-friendship-q1",
+      "type": "MULTIPLE_CHOICE",
+      "prompt": {
+        "id": "Apa masalah yang dihadapi kota?",
+        "fil": "Ano ang suliranin ng bayan?"
+      },
+      "choices": {
+        "id": [
+          "Salju menutup kota dan makanan menipis",
+          "Sungai meluap",
+          "Jembatan terbakar"
+        ],
+        "fil": [
+          "Tinabunan ng niyebe ang bayan at naubos ang pagkain",
+          "Umapaw ang ilog",
+          "Nasunog ang tulay"
+        ]
+      },
+      "speech": {
+        "fil": "Ano ang suliranin ng bayan?"
+      }
+    },
+    {
+      "id": "book1-story-24-a-strong-friendship-q2",
+      "type": "MULTIPLE_CHOICE",
+      "prompt": {
+        "id": "Bagaimana kekuatan Tim membantu perjalanan?",
+        "fil": "Paano nakatulong ang lakas ni Tim sa paglalakbay?"
+      },
+      "choices": {
+        "id": [
+          "Ia menemukan lorong",
+          "Ia memecahkan penghalang es",
+          "Ia menggambar peta"
+        ],
+        "fil": [
+          "Natagpuan niya ang lagusan",
+          "Binasag niya ang mga harang na yelo",
+          "Gumuhit siya ng mapa"
+        ]
+      },
+      "speech": {
+        "fil": "Paano nakatulong ang lakas ni Tim sa paglalakbay?"
+      }
+    },
+    {
+      "id": "book1-story-24-a-strong-friendship-q3",
+      "type": "MULTIPLE_CHOICE",
+      "prompt": {
+        "id": "Apa kontribusi penting Jack?",
+        "fil": "Ano ang mahalagang ambag ni Jack?"
+      },
+      "choices": {
+        "id": [
+          "Ia membuat salju mencair",
+          "Ia mengangkat semua es",
+          "Ia menemukan jalan, mengambil makanan, dan menuntun pulang"
+        ],
+        "fil": [
+          "Tinunaw niya ang niyebe",
+          "Binuhat niya ang lahat ng yelo",
+          "Nakahanap siya ng daan, kumuha ng pagkain, at gumabay pauwi"
+        ]
+      },
+      "speech": {
+        "fil": "Ano ang mahalagang ambag ni Jack?"
+      }
+    }
+  ],
+  "answers": [
+    {
+      "questionId": "book1-story-24-a-strong-friendship-q1",
+      "answer": {
+        "id": "Salju menutup kota dan makanan menipis",
+        "fil": "Tinabunan ng niyebe ang bayan at naubos ang pagkain"
+      },
+      "explanation": {
+        "id": "Badai membuat penduduk tidak dapat keluar untuk mendapatkan persediaan.",
+        "fil": "Dahil sa bagyo, hindi makalabas ang mga tao upang kumuha ng pagkain."
+      }
+    },
+    {
+      "questionId": "book1-story-24-a-strong-friendship-q2",
+      "answer": {
+        "id": "Ia memecahkan penghalang es",
+        "fil": "Binasag niya ang mga harang na yelo"
+      },
+      "explanation": {
+        "id": "Tim membuka jalan melalui balok-balok es yang tidak dapat mereka lewati.",
+        "fil": "Binuksan ni Tim ang daan sa mga blokeng yelong hindi nila madaanan."
+      }
+    },
+    {
+      "questionId": "book1-story-24-a-strong-friendship-q3",
+      "answer": {
+        "id": "Ia menemukan jalan, mengambil makanan, dan menuntun pulang",
+        "fil": "Nakahanap siya ng daan, kumuha ng pagkain, at gumabay pauwi"
+      },
+      "explanation": {
+        "id": "Pengetahuan dan arah Jack melengkapi kekuatan fisik Tim.",
+        "fil": "Kinumpleto ng talino at paggabay ni Jack ang lakas ng katawan ni Tim."
+      }
+    }
+  ],
+  "vocabulary": [
+    {
+      "language": "fil",
+      "word": "pinakamalakas",
+      "translations": {
+        "id": "paling kuat",
+        "fil": "pinakamalakas"
+      },
+      "meanings": {
+        "id": "paling kuat",
+        "fil": "Ang katumbas nito sa Indonesian ay “paling kuat”."
+      },
+      "pos": "pang-uri",
+      "pronunciation": "pinakamalakas",
+      "notes": {
+        "id": "Kata ini muncul pada paragraf 1 dalam konteks cerita.",
+        "fil": "Makikita ang salitang ito sa talata 1 ng muling pagsasalaysay."
+      }
+    },
+    {
+      "language": "fil",
+      "word": "pinakamatalino",
+      "translations": {
+        "id": "paling pintar",
+        "fil": "pinakamatalino"
+      },
+      "meanings": {
+        "id": "paling pintar",
+        "fil": "Ang katumbas nito sa Indonesian ay “paling pintar”."
+      },
+      "pos": "pang-uri",
+      "pronunciation": "pinakamatalino",
+      "notes": {
+        "id": "Kata ini muncul pada paragraf 1 dalam konteks cerita.",
+        "fil": "Makikita ang salitang ito sa talata 1 ng muling pagsasalaysay."
+      }
+    },
+    {
+      "language": "fil",
+      "word": "niyebe",
+      "translations": {
+        "id": "salju",
+        "fil": "niyebe"
+      },
+      "meanings": {
+        "id": "salju",
+        "fil": "Ang katumbas nito sa Indonesian ay “salju”."
+      },
+      "pos": "pangngalan",
+      "pronunciation": "niyebe",
+      "notes": {
+        "id": "Kata ini muncul pada paragraf 2 dalam konteks cerita.",
+        "fil": "Makikita ang salitang ito sa talata 2 ng muling pagsasalaysay."
+      }
+    },
+    {
+      "language": "fil",
+      "word": "lagusan",
+      "translations": {
+        "id": "lorong",
+        "fil": "lagusan"
+      },
+      "meanings": {
+        "id": "lorong",
+        "fil": "Ang katumbas nito sa Indonesian ay “lorong”."
+      },
+      "pos": "pangngalan",
+      "pronunciation": "lagusan",
+      "notes": {
+        "id": "Kata ini muncul pada paragraf 3 dalam konteks cerita.",
+        "fil": "Makikita ang salitang ito sa talata 3 ng muling pagsasalaysay."
+      }
+    },
+    {
+      "language": "fil",
+      "word": "yelo",
+      "translations": {
+        "id": "es",
+        "fil": "yelo"
+      },
+      "meanings": {
+        "id": "es",
+        "fil": "Ang katumbas nito sa Indonesian ay “es”."
+      },
+      "pos": "pangngalan",
+      "pronunciation": "yelo",
+      "notes": {
+        "id": "Kata ini muncul pada paragraf 4 dalam konteks cerita.",
+        "fil": "Makikita ang salitang ito sa talata 4 ng muling pagsasalaysay."
+      }
+    },
+    {
+      "language": "fil",
+      "word": "mapagod",
+      "translations": {
+        "id": "menjadi lelah",
+        "fil": "mapagod"
+      },
+      "meanings": {
+        "id": "menjadi lelah",
+        "fil": "Ang katumbas nito sa Indonesian ay “menjadi lelah”."
+      },
+      "pos": "pandiwa",
+      "pronunciation": "mapagod",
+      "notes": {
+        "id": "Kata ini muncul pada paragraf 4 dalam konteks cerita.",
+        "fil": "Makikita ang salitang ito sa talata 4 ng muling pagsasalaysay."
+      }
+    },
+    {
+      "language": "fil",
+      "word": "gumabay",
+      "translations": {
+        "id": "menuntun",
+        "fil": "gumabay"
+      },
+      "meanings": {
+        "id": "menuntun",
+        "fil": "Ang katumbas nito sa Indonesian ay “menuntun”."
+      },
+      "pos": "pandiwa",
+      "pronunciation": "gumabay",
+      "notes": {
+        "id": "Kata ini muncul pada paragraf 6 dalam konteks cerita.",
+        "fil": "Makikita ang salitang ito sa talata 6 ng muling pagsasalaysay."
+      }
+    },
+    {
+      "language": "fil",
+      "word": "pagtutulungan",
+      "translations": {
+        "id": "kerja sama",
+        "fil": "pagtutulungan"
+      },
+      "meanings": {
+        "id": "kerja sama",
+        "fil": "Ang katumbas nito sa Indonesian ay “kerja sama”."
+      },
+      "pos": "pangngalan",
+      "pronunciation": "pagtutulungan",
+      "notes": {
+        "id": "Kata ini muncul pada paragraf 7 dalam konteks cerita.",
+        "fil": "Makikita ang salitang ito sa talata 7 ng muling pagsasalaysay."
+      }
+    }
+  ],
+  "assets": [
+    "assets/24-a-strong-friendship.jpg"
+  ]
+}

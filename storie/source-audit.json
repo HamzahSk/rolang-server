@@ -1,1182 +1,1444 @@
 {
   "schemaVersion": 1,
   "source": {
-    "filename": "English Short Stories for Intermediate Learners 100 English Short Stories.epub",
-    "epubSha256": "edd11ffd1de51913cccaf9c2c572e473f4a8e553df483210b161c48ad8a1317f",
-    "declaredTitleCount": 100,
-    "actualNumberedStoryCount": 104,
-    "embeddedImageCount": 1
+    "type": "EPUB",
+    "title": "4000 essential english words - Book 1",
+    "creator": "Paul Nation",
+    "publisher": "Compass",
+    "epubFile": "4000 essential english words - Book 1.epub",
+    "epubBytes": 2602804,
+    "epubSha256": "7968a88b2098bc463a6387cad44817e032cbce4ecd516761f71c6c1435b273b4",
+    "opfSha256": "a25a26d78256d2c3dd7ec0f858886471d07ba76ec9a6d1f69f5a038d9a412b32"
   },
-  "copyrightUse": "Structural analysis only. No source story prose, translations, characters, plots, or dialogue are published.",
-  "numberingAnomalies": {
-    "missingWithin1To100": [
-      25,
-      46
-    ],
-    "additionalAfter100": [
-      101,
-      102,
-      103,
-      104,
-      105,
-      106
+  "inspection": {
+    "spineDocumentCount": 35,
+    "actualNarrativeCount": 30,
+    "classificationRule": "Only numbered Unit_01 through Unit_30 documents contain complete narratives; cover and Note documents are excluded.",
+    "excludedDocumentCount": 5,
+    "excludedDocuments": [
+      {
+        "path": "OEBPS/Text/cover.xhtml",
+        "role": "cover"
+      },
+      {
+        "path": "OEBPS/Text/Note1-6.xhtml",
+        "role": "reference"
+      },
+      {
+        "path": "OEBPS/Text/Note7-12.xhtml",
+        "role": "reference"
+      },
+      {
+        "path": "OEBPS/Text/Note13-21.xhtml",
+        "role": "reference"
+      },
+      {
+        "path": "OEBPS/Text/Note22-30.xhtml",
+        "role": "reference"
+      }
     ]
   },
-  "analysis": {
-    "minimumWords": 88,
-    "medianWords": 163.5,
-    "maximumWords": 439,
-    "dialogueFocusedCount": 5,
-    "progression": "Later entries are generally longer and structurally more complex; highlighted phrases serve as contextual vocabulary."
-  },
-  "assets": {
-    "extractedOrReused": 0,
-    "reason": "The EPUB contains a cover image but no story-specific illustrations."
-  },
+  "documentCount": 35,
+  "documents": [
+    {
+      "spinePosition": 1,
+      "path": "OEBPS/Text/cover.xhtml",
+      "role": "cover",
+      "title": "",
+      "sha256": "d459e58010f5790de16d56f08553f162347d09e069c0bcb330358b0793e19529",
+      "paragraphCount": 0,
+      "wordCount": 0
+    },
+    {
+      "spinePosition": 2,
+      "path": "OEBPS/Text/Unit_01.xhtml",
+      "role": "story",
+      "title": "The Lion and the Rabbit",
+      "sha256": "f49654226f2a9590e1da1a0fe875a1edb5c75395fd746c886aa9a224c090eed8",
+      "paragraphCount": 13,
+      "wordCount": 312
+    },
+    {
+      "spinePosition": 3,
+      "path": "OEBPS/Text/Unit_02.xhtml",
+      "role": "story",
+      "title": "The Laboratory",
+      "sha256": "2466e75622f54ed1bae0548772156541c06021f18b49b8acad59159b76f24d56",
+      "paragraphCount": 9,
+      "wordCount": 307
+    },
+    {
+      "spinePosition": 4,
+      "path": "OEBPS/Text/Unit_03.xhtml",
+      "role": "story",
+      "title": "The Report",
+      "sha256": "02e232f1b87371a850da56ed9b58f7dc4e97d3182563fa1892228a3133ea101a",
+      "paragraphCount": 11,
+      "wordCount": 306
+    },
+    {
+      "spinePosition": 5,
+      "path": "OEBPS/Text/Unit_04.xhtml",
+      "role": "story",
+      "title": "The Dog’s Bell",
+      "sha256": "f42e77c51fcc46d931c5ca01b22b33cfeef2d4424f12939601339f200bfbd86c",
+      "paragraphCount": 8,
+      "wordCount": 317
+    },
+    {
+      "spinePosition": 6,
+      "path": "OEBPS/Text/Unit_05.xhtml",
+      "role": "story",
+      "title": "The Jackal and the Sun Child",
+      "sha256": "a09245458f7ca25fd67f001dd0204922ca1b0b4b429ff3f65fff7dbda68596f8",
+      "paragraphCount": 7,
+      "wordCount": 311
+    },
+    {
+      "spinePosition": 7,
+      "path": "OEBPS/Text/Unit_06.xhtml",
+      "role": "story",
+      "title": "The Friendly Ghost",
+      "sha256": "f956a4d9620daa5635fc6094f68d42e80f6cad0b1968fff9699400208b34b2fc",
+      "paragraphCount": 7,
+      "wordCount": 297
+    },
+    {
+      "spinePosition": 8,
+      "path": "OEBPS/Text/Unit_07.xhtml",
+      "role": "story",
+      "title": "The Best Prince",
+      "sha256": "eb7ed760546726dcd535bfdb63bb4fd6951d075c0f8dffad4081220c5b09fdf9",
+      "paragraphCount": 12,
+      "wordCount": 306
+    },
+    {
+      "spinePosition": 9,
+      "path": "OEBPS/Text/Unit_08.xhtml",
+      "role": "story",
+      "title": "How the Sun and the Moon Were Made",
+      "sha256": "89a2d7c2ce63ca485435bed83086be6190d3a370237526cee6902c84bed34c22",
+      "paragraphCount": 7,
+      "wordCount": 314
+    },
+    {
+      "spinePosition": 10,
+      "path": "OEBPS/Text/Unit_09.xhtml",
+      "role": "story",
+      "title": "The Starfish",
+      "sha256": "915aab22abdb86801f33cc5c03738414d75639eb0e0371ddfce400cdbbeb346e",
+      "paragraphCount": 7,
+      "wordCount": 290
+    },
+    {
+      "spinePosition": 11,
+      "path": "OEBPS/Text/Unit_10.xhtml",
+      "role": "story",
+      "title": "The First Peacock",
+      "sha256": "924c4ce6f973d0d30dc63cfc9d042bc0da6b3e332c9ff2e544a50ea6a08bcd49",
+      "paragraphCount": 6,
+      "wordCount": 295
+    },
+    {
+      "spinePosition": 12,
+      "path": "OEBPS/Text/Unit_11.xhtml",
+      "role": "story",
+      "title": "Princess Rose and the Creature",
+      "sha256": "742659e5b7ab9fdb28021f355c4115cf97b684306d5a44b0bb8453274bf54761",
+      "paragraphCount": 10,
+      "wordCount": 305
+    },
+    {
+      "spinePosition": 13,
+      "path": "OEBPS/Text/Unit_12.xhtml",
+      "role": "story",
+      "title": "The Crazy Artist",
+      "sha256": "52946429b3f75cc5e2c3eaf0bcc0e0b17e68a7e9f3a4b7ff72a8108c5b840401",
+      "paragraphCount": 5,
+      "wordCount": 314
+    },
+    {
+      "spinePosition": 14,
+      "path": "OEBPS/Text/Unit_13.xhtml",
+      "role": "story",
+      "title": "The Farmer and the Cats",
+      "sha256": "ed6b9689b33ddb841495eca40ace1b1c580414bc94db878b5c49cd3fb28188a1",
+      "paragraphCount": 8,
+      "wordCount": 309
+    },
+    {
+      "spinePosition": 15,
+      "path": "OEBPS/Text/Unit_14.xhtml",
+      "role": "story",
+      "title": "A Magical Book",
+      "sha256": "d093d90c934769672f92ed323dcc1eb5fc87a4abc2356949c700aa1d66e18acb",
+      "paragraphCount": 7,
+      "wordCount": 327
+    },
+    {
+      "spinePosition": 16,
+      "path": "OEBPS/Text/Unit_15.xhtml",
+      "role": "story",
+      "title": "The Big Race",
+      "sha256": "1e4e33dea9c00cd77ff48937fa1879781b2667b09e3e428c58a88c85969effce",
+      "paragraphCount": 8,
+      "wordCount": 322
+    },
+    {
+      "spinePosition": 17,
+      "path": "OEBPS/Text/Unit_16.xhtml",
+      "role": "story",
+      "title": "Adams County’s Gold",
+      "sha256": "8bfcacd57955ddb5615ab23976d7f2f3fd8073acbd44f6c2ef061391c2cf8a4a",
+      "paragraphCount": 16,
+      "wordCount": 308
+    },
+    {
+      "spinePosition": 18,
+      "path": "OEBPS/Text/Unit_17.xhtml",
+      "role": "story",
+      "title": "The Race for Water",
+      "sha256": "296a993782ba9bb2419f1dbc58240d8453296f07ace280b695a12c1d866d8b66",
+      "paragraphCount": 12,
+      "wordCount": 312
+    },
+    {
+      "spinePosition": 19,
+      "path": "OEBPS/Text/Unit_18.xhtml",
+      "role": "story",
+      "title": "The Little Red Chicken",
+      "sha256": "ade4dfb6c6a29dcda50f508dbec5586b531a675f1ec845905d733f13c408790d",
+      "paragraphCount": 18,
+      "wordCount": 307
+    },
+    {
+      "spinePosition": 20,
+      "path": "OEBPS/Text/Unit_19.xhtml",
+      "role": "story",
+      "title": "Shipwrecked",
+      "sha256": "39117d7f62ef8e3a31c91a1dd97dc61f2671b6052502e4cf9decaf3166074482",
+      "paragraphCount": 7,
+      "wordCount": 314
+    },
+    {
+      "spinePosition": 21,
+      "path": "OEBPS/Text/Unit_20.xhtml",
+      "role": "story",
+      "title": "The seven cities of gold",
+      "sha256": "5c989bde83a295272ce1f1b4aa49397d49783743fa75bf7da18ac104f515e9e9",
+      "paragraphCount": 7,
+      "wordCount": 312
+    },
+    {
+      "spinePosition": 22,
+      "path": "OEBPS/Text/Unit_21.xhtml",
+      "role": "story",
+      "title": "Katy",
+      "sha256": "d01ea8c577ffd38f825eba6a8efe709633cb4ccb822b46b5eb652e74470e1b86",
+      "paragraphCount": 7,
+      "wordCount": 292
+    },
+    {
+      "spinePosition": 23,
+      "path": "OEBPS/Text/Unit_22.xhtml",
+      "role": "story",
+      "title": "A Better Reward",
+      "sha256": "d3f67f0b97fa946bf4d4769006d7dac191fe25c3f45662f886ed08f8241a2846",
+      "paragraphCount": 9,
+      "wordCount": 314
+    },
+    {
+      "spinePosition": 24,
+      "path": "OEBPS/Text/Unit_23.xhtml",
+      "role": "story",
+      "title": "The camp",
+      "sha256": "b9d4878847738f4af7ff4e699a77526e64ce769e2fa2cda9c02dc1bc9fe6c6e3",
+      "paragraphCount": 7,
+      "wordCount": 306
+    },
+    {
+      "spinePosition": 25,
+      "path": "OEBPS/Text/Unit_24.xhtml",
+      "role": "story",
+      "title": "A Strong Friendship",
+      "sha256": "72e6563eb48f4631aadddab7733a2c243b7f1fce8c2dacd7687c92066ff5ce59",
+      "paragraphCount": 9,
+      "wordCount": 308
+    },
+    {
+      "spinePosition": 26,
+      "path": "OEBPS/Text/Unit_25.xhtml",
+      "role": "story",
+      "title": "Joe’s Pond",
+      "sha256": "1b7756456a5316aaccdd227aa558f42f32fe5d7e36e8fb1e8d97e1083a202abf",
+      "paragraphCount": 6,
+      "wordCount": 314
+    },
+    {
+      "spinePosition": 27,
+      "path": "OEBPS/Text/Unit_26.xhtml",
+      "role": "story",
+      "title": "Archie and His Donkey",
+      "sha256": "f841864f745f74ace9331a6ec32ee6e486680efd0898f774abd4f2822ab9e1dd",
+      "paragraphCount": 16,
+      "wordCount": 297
+    },
+    {
+      "spinePosition": 28,
+      "path": "OEBPS/Text/Unit_27.xhtml",
+      "role": "story",
+      "title": "The Spider and the Bird",
+      "sha256": "78c65259df160410d63605e429fac49f9a6bf362766f41bc843bf4b54e11223b",
+      "paragraphCount": 10,
+      "wordCount": 312
+    },
+    {
+      "spinePosition": 29,
+      "path": "OEBPS/Text/Unit_28.xhtml",
+      "role": "story",
+      "title": "The Party",
+      "sha256": "e762a7420fd9fe4472af485689a5682b45bea30103f40299b8ec03f61ef12d5d",
+      "paragraphCount": 11,
+      "wordCount": 325
+    },
+    {
+      "spinePosition": 30,
+      "path": "OEBPS/Text/Unit_29.xhtml",
+      "role": "story",
+      "title": "How the World Got Light",
+      "sha256": "4cce55ee826e3fc2ca0dc5cac533e8993e093a0cfbc57a5daeb844191c18c76c",
+      "paragraphCount": 7,
+      "wordCount": 300
+    },
+    {
+      "spinePosition": 31,
+      "path": "OEBPS/Text/Unit_30.xhtml",
+      "role": "story",
+      "title": "Cats and Secrets",
+      "sha256": "5243c29a1d2439dd1e1d23a46fbca74bebd6aa89753672cc70f7e735379e3f44",
+      "paragraphCount": 11,
+      "wordCount": 314
+    },
+    {
+      "spinePosition": 32,
+      "path": "OEBPS/Text/Note1-6.xhtml",
+      "role": "reference",
+      "title": "",
+      "sha256": "e709b14aeda2bdcfcf0165d84b879916010e9b2c119118bfc76d4042320f3b6c",
+      "paragraphCount": 121,
+      "wordCount": 2208
+    },
+    {
+      "spinePosition": 33,
+      "path": "OEBPS/Text/Note7-12.xhtml",
+      "role": "reference",
+      "title": "",
+      "sha256": "1e15483a27387e0a71f8274a340e80114fc0abebc2ade160932b3d941c4aab88",
+      "paragraphCount": 122,
+      "wordCount": 2269
+    },
+    {
+      "spinePosition": 34,
+      "path": "OEBPS/Text/Note13-21.xhtml",
+      "role": "reference",
+      "title": "",
+      "sha256": "c467c493353d203ec0d1cf63cd06976c436ab26d688bc6ce967049a2eb92dbfe",
+      "paragraphCount": 182,
+      "wordCount": 3456
+    },
+    {
+      "spinePosition": 35,
+      "path": "OEBPS/Text/Note22-30.xhtml",
+      "role": "reference",
+      "title": "",
+      "sha256": "5ddabd425e2537cde7eb53cd52d43382ad2ff2faaa88022d361acb1b2a0a80f8",
+      "paragraphCount": 181,
+      "wordCount": 3701
+    }
+  ],
+  "storyCount": 30,
   "stories": [
     {
-      "number": 1,
-      "title": "The Key",
-      "sourceFile": "index_split_005.html",
-      "wordCount": 166,
-      "paragraphCount": 3,
-      "emphasizedPhraseCount": 0,
-      "dialogueFocused": false,
-      "broadTopic": "everyday-life-and-culture",
-      "difficultyBand": "medium"
-    },
-    {
-      "number": 2,
-      "title": "What is Culture?",
-      "sourceFile": "index_split_006.html",
-      "wordCount": 134,
-      "paragraphCount": 11,
-      "emphasizedPhraseCount": 0,
-      "dialogueFocused": false,
-      "broadTopic": "everyday-life-and-culture",
-      "difficultyBand": "short"
-    },
-    {
-      "number": 3,
-      "title": "Food Poisoning",
-      "sourceFile": "index_split_007.html",
-      "wordCount": 100,
-      "paragraphCount": 2,
-      "emphasizedPhraseCount": 0,
-      "dialogueFocused": false,
-      "broadTopic": "food-and-health",
-      "difficultyBand": "short"
-    },
-    {
-      "number": 4,
-      "title": "The Neighbor",
-      "sourceFile": "index_split_008.html",
-      "wordCount": 167,
-      "paragraphCount": 4,
-      "emphasizedPhraseCount": 0,
-      "dialogueFocused": false,
-      "broadTopic": "family-and-relationships",
-      "difficultyBand": "medium"
-    },
-    {
-      "number": 5,
-      "title": "Headache",
-      "sourceFile": "index_split_009.html",
-      "wordCount": 141,
-      "paragraphCount": 9,
-      "emphasizedPhraseCount": 0,
-      "dialogueFocused": false,
-      "broadTopic": "food-and-health",
-      "difficultyBand": "short"
-    },
-    {
-      "number": 6,
-      "title": "A New Driver's License",
-      "sourceFile": "index_split_010.html",
-      "wordCount": 133,
-      "paragraphCount": 3,
-      "emphasizedPhraseCount": 0,
-      "dialogueFocused": false,
-      "broadTopic": "travel-and-transport",
-      "difficultyBand": "short"
-    },
-    {
-      "number": 7,
-      "title": "New Year's Eve in Europe",
-      "sourceFile": "index_split_011.html",
-      "wordCount": 110,
-      "paragraphCount": 2,
-      "emphasizedPhraseCount": 0,
-      "dialogueFocused": false,
-      "broadTopic": "everyday-life-and-culture",
-      "difficultyBand": "short"
-    },
-    {
-      "number": 8,
-      "title": "Invoices and Contracts",
-      "sourceFile": "index_split_012.html",
-      "wordCount": 115,
-      "paragraphCount": 2,
-      "emphasizedPhraseCount": 0,
-      "dialogueFocused": false,
-      "broadTopic": "work-money-and-services",
-      "difficultyBand": "short"
-    },
-    {
-      "number": 9,
-      "title": "World Traveler",
-      "sourceFile": "index_split_013.html",
-      "wordCount": 169,
-      "paragraphCount": 2,
-      "emphasizedPhraseCount": 0,
-      "dialogueFocused": false,
-      "broadTopic": "travel-and-transport",
-      "difficultyBand": "medium"
-    },
-    {
-      "number": 10,
-      "title": "Hobby Chef",
-      "sourceFile": "index_split_014.html",
-      "wordCount": 115,
-      "paragraphCount": 3,
-      "emphasizedPhraseCount": 0,
-      "dialogueFocused": false,
-      "broadTopic": "food-and-health",
-      "difficultyBand": "short"
-    },
-    {
-      "number": 11,
-      "title": "The Break In",
-      "sourceFile": "index_split_015.html",
-      "wordCount": 146,
-      "paragraphCount": 8,
-      "emphasizedPhraseCount": 6,
-      "dialogueFocused": false,
-      "broadTopic": "home-and-community",
-      "difficultyBand": "short"
-    },
-    {
-      "number": 12,
-      "title": "A Broken Phone",
-      "sourceFile": "index_split_016.html",
-      "wordCount": 166,
-      "paragraphCount": 4,
-      "emphasizedPhraseCount": 11,
-      "dialogueFocused": false,
-      "broadTopic": "everyday-life-and-culture",
-      "difficultyBand": "medium"
-    },
-    {
-      "number": 13,
-      "title": "The Painters",
-      "sourceFile": "index_split_017.html",
-      "wordCount": 101,
-      "paragraphCount": 4,
-      "emphasizedPhraseCount": 4,
-      "dialogueFocused": false,
-      "broadTopic": "everyday-life-and-culture",
-      "difficultyBand": "short"
-    },
-    {
-      "number": 14,
-      "title": "Quitting",
-      "sourceFile": "index_split_018.html",
-      "wordCount": 259,
-      "paragraphCount": 14,
-      "emphasizedPhraseCount": 15,
-      "dialogueFocused": false,
-      "broadTopic": "everyday-life-and-culture",
-      "difficultyBand": "extended"
-    },
-    {
-      "number": 15,
-      "title": "Swimming",
-      "sourceFile": "index_split_019.html",
-      "wordCount": 168,
-      "paragraphCount": 4,
-      "emphasizedPhraseCount": 10,
-      "dialogueFocused": false,
-      "broadTopic": "everyday-life-and-culture",
-      "difficultyBand": "medium"
-    },
-    {
-      "number": 16,
-      "title": "Dialogue – The Weekly Farmer‘s Market",
-      "sourceFile": "index_split_021.html",
-      "wordCount": 176,
-      "paragraphCount": 15,
-      "emphasizedPhraseCount": 9,
-      "dialogueFocused": true,
-      "broadTopic": "everyday-life-and-culture",
-      "difficultyBand": "medium"
-    },
-    {
-      "number": 17,
-      "title": "The Experiment",
-      "sourceFile": "index_split_022.html",
-      "wordCount": 187,
-      "paragraphCount": 8,
-      "emphasizedPhraseCount": 10,
-      "dialogueFocused": false,
-      "broadTopic": "everyday-life-and-culture",
-      "difficultyBand": "medium"
-    },
-    {
-      "number": 18,
-      "title": "Dialogue - Bicycle Paths In A European City",
-      "sourceFile": "index_split_023.html",
-      "wordCount": 134,
-      "paragraphCount": 7,
-      "emphasizedPhraseCount": 9,
-      "dialogueFocused": true,
-      "broadTopic": "travel-and-transport",
-      "difficultyBand": "short"
-    },
-    {
-      "number": 19,
-      "title": "New Neighbors",
-      "sourceFile": "index_split_024.html",
-      "wordCount": 124,
-      "paragraphCount": 2,
-      "emphasizedPhraseCount": 6,
-      "dialogueFocused": false,
-      "broadTopic": "family-and-relationships",
-      "difficultyBand": "short"
-    },
-    {
-      "number": 20,
-      "title": "The Funeral",
-      "sourceFile": "index_split_025.html",
-      "wordCount": 141,
-      "paragraphCount": 2,
-      "emphasizedPhraseCount": 6,
-      "dialogueFocused": false,
-      "broadTopic": "home-and-community",
-      "difficultyBand": "short"
-    },
-    {
-      "number": 21,
-      "title": "The ATM",
-      "sourceFile": "index_split_026.html",
-      "wordCount": 111,
-      "paragraphCount": 3,
-      "emphasizedPhraseCount": 0,
-      "dialogueFocused": false,
-      "broadTopic": "everyday-life-and-culture",
-      "difficultyBand": "short"
-    },
-    {
-      "number": 22,
-      "title": "Alcoholics",
-      "sourceFile": "index_split_027.html",
-      "wordCount": 165,
-      "paragraphCount": 2,
-      "emphasizedPhraseCount": 0,
-      "dialogueFocused": false,
-      "broadTopic": "everyday-life-and-culture",
-      "difficultyBand": "medium"
-    },
-    {
-      "number": 23,
-      "title": "Cutting the Cable Cord",
-      "sourceFile": "index_split_028.html",
-      "wordCount": 198,
-      "paragraphCount": 1,
-      "emphasizedPhraseCount": 0,
-      "dialogueFocused": false,
-      "broadTopic": "everyday-life-and-culture",
-      "difficultyBand": "medium"
-    },
-    {
-      "number": 24,
-      "title": "Foreigners in Britain",
-      "sourceFile": "index_split_029.html",
-      "wordCount": 152,
-      "paragraphCount": 2,
-      "emphasizedPhraseCount": 0,
-      "dialogueFocused": false,
-      "broadTopic": "everyday-life-and-culture",
-      "difficultyBand": "medium"
-    },
-    {
-      "number": 26,
-      "title": "To The Airport",
-      "sourceFile": "index_split_031.html",
-      "wordCount": 176,
-      "paragraphCount": 3,
-      "emphasizedPhraseCount": 0,
-      "dialogueFocused": false,
-      "broadTopic": "travel-and-transport",
-      "difficultyBand": "medium"
-    },
-    {
-      "number": 27,
-      "title": "The Big Move",
-      "sourceFile": "index_split_032.html",
-      "wordCount": 147,
-      "paragraphCount": 2,
-      "emphasizedPhraseCount": 0,
-      "dialogueFocused": false,
-      "broadTopic": "home-and-community",
-      "difficultyBand": "short"
-    },
-    {
-      "number": 28,
-      "title": "Driving And Parking In Germany",
-      "sourceFile": "index_split_033.html",
-      "wordCount": 179,
-      "paragraphCount": 2,
-      "emphasizedPhraseCount": 0,
-      "dialogueFocused": false,
-      "broadTopic": "travel-and-transport",
-      "difficultyBand": "medium"
-    },
-    {
-      "number": 29,
-      "title": "Grocery Shopping",
-      "sourceFile": "index_split_034.html",
-      "wordCount": 121,
-      "paragraphCount": 2,
-      "emphasizedPhraseCount": 0,
-      "dialogueFocused": false,
-      "broadTopic": "everyday-life-and-culture",
-      "difficultyBand": "short"
-    },
-    {
-      "number": 30,
-      "title": "A Clean House",
-      "sourceFile": "index_split_035.html",
-      "wordCount": 188,
-      "paragraphCount": 2,
-      "emphasizedPhraseCount": 0,
-      "dialogueFocused": false,
-      "broadTopic": "home-and-community",
-      "difficultyBand": "medium"
-    },
-    {
-      "number": 31,
-      "title": "Future Plans in Mexico",
-      "sourceFile": "index_split_036.html",
-      "wordCount": 142,
-      "paragraphCount": 2,
-      "emphasizedPhraseCount": 0,
-      "dialogueFocused": false,
-      "broadTopic": "everyday-life-and-culture",
-      "difficultyBand": "short"
-    },
-    {
-      "number": 32,
-      "title": "Dialogue - Dining European Style",
-      "sourceFile": "index_split_037.html",
-      "wordCount": 179,
-      "paragraphCount": 13,
-      "emphasizedPhraseCount": 0,
-      "dialogueFocused": true,
-      "broadTopic": "everyday-life-and-culture",
-      "difficultyBand": "medium"
-    },
-    {
-      "number": 33,
-      "title": "Our Bicycle Tour",
-      "sourceFile": "index_split_038.html",
-      "wordCount": 156,
-      "paragraphCount": 2,
-      "emphasizedPhraseCount": 0,
-      "dialogueFocused": false,
-      "broadTopic": "travel-and-transport",
-      "difficultyBand": "medium"
-    },
-    {
-      "number": 34,
-      "title": "A Visit to the Doctor",
-      "sourceFile": "index_split_039.html",
-      "wordCount": 162,
-      "paragraphCount": 1,
-      "emphasizedPhraseCount": 0,
-      "dialogueFocused": false,
-      "broadTopic": "food-and-health",
-      "difficultyBand": "medium"
-    },
-    {
-      "number": 35,
-      "title": "The Spanish Restaurant",
-      "sourceFile": "index_split_040.html",
-      "wordCount": 157,
-      "paragraphCount": 7,
-      "emphasizedPhraseCount": 0,
-      "dialogueFocused": false,
-      "broadTopic": "food-and-health",
-      "difficultyBand": "medium"
-    },
-    {
-      "number": 36,
-      "title": "The Mysterious Lamp",
-      "sourceFile": "index_split_041.html",
-      "wordCount": 242,
-      "paragraphCount": 6,
-      "emphasizedPhraseCount": 0,
-      "dialogueFocused": false,
-      "broadTopic": "everyday-life-and-culture",
-      "difficultyBand": "medium"
-    },
-    {
-      "number": 37,
-      "title": "Not Always Fish and Chips",
-      "sourceFile": "index_split_042.html",
-      "wordCount": 206,
-      "paragraphCount": 2,
-      "emphasizedPhraseCount": 0,
-      "dialogueFocused": false,
-      "broadTopic": "everyday-life-and-culture",
-      "difficultyBand": "medium"
-    },
-    {
-      "number": 38,
-      "title": "An Unusual Marriage",
-      "sourceFile": "index_split_043.html",
-      "wordCount": 228,
-      "paragraphCount": 2,
-      "emphasizedPhraseCount": 0,
-      "dialogueFocused": false,
-      "broadTopic": "family-and-relationships",
-      "difficultyBand": "medium"
-    },
-    {
-      "number": 39,
-      "title": "New Shoes",
-      "sourceFile": "index_split_044.html",
-      "wordCount": 147,
-      "paragraphCount": 3,
-      "emphasizedPhraseCount": 0,
-      "dialogueFocused": false,
-      "broadTopic": "everyday-life-and-culture",
-      "difficultyBand": "short"
-    },
-    {
-      "number": 40,
-      "title": "Ticket Control",
-      "sourceFile": "index_split_045.html",
-      "wordCount": 228,
-      "paragraphCount": 2,
-      "emphasizedPhraseCount": 0,
-      "dialogueFocused": false,
-      "broadTopic": "everyday-life-and-culture",
-      "difficultyBand": "medium"
-    },
-    {
-      "number": 41,
-      "title": "Unemployed",
-      "sourceFile": "index_split_046.html",
-      "wordCount": 162,
-      "paragraphCount": 2,
-      "emphasizedPhraseCount": 0,
-      "dialogueFocused": false,
-      "broadTopic": "work-money-and-services",
-      "difficultyBand": "medium"
-    },
-    {
-      "number": 42,
-      "title": "Divorced",
-      "sourceFile": "index_split_047.html",
-      "wordCount": 103,
-      "paragraphCount": 2,
-      "emphasizedPhraseCount": 0,
-      "dialogueFocused": false,
-      "broadTopic": "family-and-relationships",
-      "difficultyBand": "short"
-    },
-    {
-      "number": 43,
-      "title": "Buses and Trains",
-      "sourceFile": "index_split_048.html",
-      "wordCount": 177,
-      "paragraphCount": 1,
-      "emphasizedPhraseCount": 0,
-      "dialogueFocused": false,
-      "broadTopic": "travel-and-transport",
-      "difficultyBand": "medium"
-    },
-    {
-      "number": 44,
-      "title": "A Famous Book",
-      "sourceFile": "index_split_049.html",
-      "wordCount": 129,
-      "paragraphCount": 2,
-      "emphasizedPhraseCount": 0,
-      "dialogueFocused": false,
-      "broadTopic": "everyday-life-and-culture",
-      "difficultyBand": "short"
-    },
-    {
-      "number": 45,
-      "title": "A Simple Salad",
-      "sourceFile": "index_split_050.html",
-      "wordCount": 153,
-      "paragraphCount": 4,
-      "emphasizedPhraseCount": 0,
-      "dialogueFocused": false,
-      "broadTopic": "food-and-health",
-      "difficultyBand": "medium"
-    },
-    {
-      "number": 47,
-      "title": "Vegan Food",
-      "sourceFile": "index_split_052.html",
-      "wordCount": 164,
-      "paragraphCount": 1,
-      "emphasizedPhraseCount": 0,
-      "dialogueFocused": false,
-      "broadTopic": "food-and-health",
-      "difficultyBand": "medium"
-    },
-    {
-      "number": 48,
-      "title": "Evacuation",
-      "sourceFile": "index_split_053.html",
-      "wordCount": 167,
-      "paragraphCount": 2,
-      "emphasizedPhraseCount": 0,
-      "dialogueFocused": false,
-      "broadTopic": "home-and-community",
-      "difficultyBand": "medium"
-    },
-    {
-      "number": 49,
-      "title": "Working Men",
-      "sourceFile": "index_split_054.html",
-      "wordCount": 189,
-      "paragraphCount": 7,
-      "emphasizedPhraseCount": 0,
-      "dialogueFocused": false,
-      "broadTopic": "everyday-life-and-culture",
-      "difficultyBand": "medium"
-    },
-    {
-      "number": 50,
-      "title": "Under the Lamp Post",
-      "sourceFile": "index_split_055.html",
-      "wordCount": 228,
-      "paragraphCount": 2,
-      "emphasizedPhraseCount": 0,
-      "dialogueFocused": false,
-      "broadTopic": "everyday-life-and-culture",
-      "difficultyBand": "medium"
-    },
-    {
-      "number": 51,
-      "title": "My Best Friend",
-      "sourceFile": "index_split_056.html",
-      "wordCount": 142,
-      "paragraphCount": 2,
-      "emphasizedPhraseCount": 0,
-      "dialogueFocused": false,
-      "broadTopic": "family-and-relationships",
-      "difficultyBand": "short"
-    },
-    {
-      "number": 52,
-      "title": "Preparations",
-      "sourceFile": "index_split_057.html",
-      "wordCount": 151,
-      "paragraphCount": 2,
-      "emphasizedPhraseCount": 0,
-      "dialogueFocused": false,
-      "broadTopic": "everyday-life-and-culture",
-      "difficultyBand": "medium"
-    },
-    {
-      "number": 53,
-      "title": "Social Media",
-      "sourceFile": "index_split_058.html",
-      "wordCount": 149,
-      "paragraphCount": 1,
-      "emphasizedPhraseCount": 0,
-      "dialogueFocused": false,
-      "broadTopic": "everyday-life-and-culture",
-      "difficultyBand": "short"
-    },
-    {
-      "number": 54,
-      "title": "Big Lenders, Big Spenders",
-      "sourceFile": "index_split_059.html",
-      "wordCount": 242,
-      "paragraphCount": 2,
-      "emphasizedPhraseCount": 0,
-      "dialogueFocused": false,
-      "broadTopic": "work-money-and-services",
-      "difficultyBand": "medium"
-    },
-    {
-      "number": 55,
-      "title": "Traffic and Kids",
-      "sourceFile": "index_split_060.html",
-      "wordCount": 131,
-      "paragraphCount": 2,
-      "emphasizedPhraseCount": 0,
-      "dialogueFocused": false,
-      "broadTopic": "everyday-life-and-culture",
-      "difficultyBand": "short"
-    },
-    {
-      "number": 56,
-      "title": "Down with the Pounds",
-      "sourceFile": "index_split_061.html",
-      "wordCount": 208,
-      "paragraphCount": 3,
-      "emphasizedPhraseCount": 0,
-      "dialogueFocused": false,
-      "broadTopic": "everyday-life-and-culture",
-      "difficultyBand": "medium"
-    },
-    {
-      "number": 57,
-      "title": "Kindness",
-      "sourceFile": "index_split_062.html",
-      "wordCount": 189,
-      "paragraphCount": 4,
-      "emphasizedPhraseCount": 0,
-      "dialogueFocused": false,
-      "broadTopic": "everyday-life-and-culture",
-      "difficultyBand": "medium"
-    },
-    {
-      "number": 58,
-      "title": "A Helping Hand",
-      "sourceFile": "index_split_063.html",
-      "wordCount": 165,
-      "paragraphCount": 2,
-      "emphasizedPhraseCount": 0,
-      "dialogueFocused": false,
-      "broadTopic": "everyday-life-and-culture",
-      "difficultyBand": "medium"
-    },
-    {
-      "number": 59,
-      "title": "My Hobbies",
-      "sourceFile": "index_split_064.html",
-      "wordCount": 193,
-      "paragraphCount": 2,
-      "emphasizedPhraseCount": 0,
-      "dialogueFocused": false,
-      "broadTopic": "everyday-life-and-culture",
-      "difficultyBand": "medium"
-    },
-    {
-      "number": 60,
-      "title": "Vacation is Important",
-      "sourceFile": "index_split_065.html",
-      "wordCount": 134,
-      "paragraphCount": 3,
-      "emphasizedPhraseCount": 0,
-      "dialogueFocused": false,
-      "broadTopic": "everyday-life-and-culture",
-      "difficultyBand": "short"
-    },
-    {
-      "number": 61,
-      "title": "Learning In a Group",
-      "sourceFile": "index_split_066.html",
-      "wordCount": 167,
-      "paragraphCount": 2,
-      "emphasizedPhraseCount": 0,
-      "dialogueFocused": false,
-      "broadTopic": "everyday-life-and-culture",
-      "difficultyBand": "medium"
-    },
-    {
-      "number": 62,
-      "title": "Our New House",
-      "sourceFile": "index_split_067.html",
-      "wordCount": 117,
-      "paragraphCount": 2,
-      "emphasizedPhraseCount": 0,
-      "dialogueFocused": false,
-      "broadTopic": "home-and-community",
-      "difficultyBand": "short"
-    },
-    {
-      "number": 63,
-      "title": "Studying Abroad",
-      "sourceFile": "index_split_068.html",
-      "wordCount": 88,
-      "paragraphCount": 1,
-      "emphasizedPhraseCount": 0,
-      "dialogueFocused": false,
-      "broadTopic": "everyday-life-and-culture",
-      "difficultyBand": "short"
-    },
-    {
-      "number": 64,
-      "title": "The Circus",
-      "sourceFile": "index_split_069.html",
-      "wordCount": 163,
-      "paragraphCount": 1,
-      "emphasizedPhraseCount": 0,
-      "dialogueFocused": false,
-      "broadTopic": "everyday-life-and-culture",
-      "difficultyBand": "medium"
-    },
-    {
-      "number": 65,
-      "title": "The Car Accident",
-      "sourceFile": "index_split_070.html",
-      "wordCount": 122,
-      "paragraphCount": 2,
-      "emphasizedPhraseCount": 0,
-      "dialogueFocused": false,
-      "broadTopic": "everyday-life-and-culture",
-      "difficultyBand": "short"
-    },
-    {
-      "number": 66,
-      "title": "Our Hotel",
-      "sourceFile": "index_split_071.html",
-      "wordCount": 166,
-      "paragraphCount": 2,
-      "emphasizedPhraseCount": 0,
-      "dialogueFocused": false,
-      "broadTopic": "travel-and-transport",
-      "difficultyBand": "medium"
-    },
-    {
-      "number": 67,
-      "title": "In the Office",
-      "sourceFile": "index_split_072.html",
-      "wordCount": 121,
-      "paragraphCount": 1,
-      "emphasizedPhraseCount": 0,
-      "dialogueFocused": false,
-      "broadTopic": "work-money-and-services",
-      "difficultyBand": "short"
-    },
-    {
-      "number": 68,
-      "title": "A Walk in the Park",
-      "sourceFile": "index_split_073.html",
-      "wordCount": 112,
-      "paragraphCount": 6,
-      "emphasizedPhraseCount": 0,
-      "dialogueFocused": false,
-      "broadTopic": "home-and-community",
-      "difficultyBand": "short"
-    },
-    {
-      "number": 69,
-      "title": "A Special Credit",
-      "sourceFile": "index_split_074.html",
-      "wordCount": 123,
-      "paragraphCount": 5,
-      "emphasizedPhraseCount": 0,
-      "dialogueFocused": false,
-      "broadTopic": "work-money-and-services",
-      "difficultyBand": "short"
-    },
-    {
-      "number": 70,
-      "title": "Winning the Lottery",
-      "sourceFile": "index_split_075.html",
-      "wordCount": 125,
-      "paragraphCount": 2,
-      "emphasizedPhraseCount": 0,
-      "dialogueFocused": false,
-      "broadTopic": "work-money-and-services",
-      "difficultyBand": "short"
-    },
-    {
-      "number": 71,
-      "title": "The Application",
-      "sourceFile": "index_split_076.html",
-      "wordCount": 136,
-      "paragraphCount": 3,
-      "emphasizedPhraseCount": 0,
-      "dialogueFocused": false,
-      "broadTopic": "work-money-and-services",
-      "difficultyBand": "short"
-    },
-    {
-      "number": 72,
-      "title": "Taxi Driver",
-      "sourceFile": "index_split_077.html",
-      "wordCount": 152,
-      "paragraphCount": 2,
-      "emphasizedPhraseCount": 0,
-      "dialogueFocused": false,
-      "broadTopic": "travel-and-transport",
-      "difficultyBand": "medium"
-    },
-    {
-      "number": 73,
-      "title": "In the Theater",
-      "sourceFile": "index_split_078.html",
-      "wordCount": 109,
-      "paragraphCount": 2,
-      "emphasizedPhraseCount": 0,
-      "dialogueFocused": false,
-      "broadTopic": "everyday-life-and-culture",
-      "difficultyBand": "short"
-    },
-    {
-      "number": 74,
-      "title": "At The Bakery",
-      "sourceFile": "index_split_079.html",
-      "wordCount": 176,
-      "paragraphCount": 3,
-      "emphasizedPhraseCount": 0,
-      "dialogueFocused": false,
-      "broadTopic": "food-and-health",
-      "difficultyBand": "medium"
-    },
-    {
-      "number": 75,
-      "title": "My Old Drivers License",
-      "sourceFile": "index_split_080.html",
-      "wordCount": 98,
-      "paragraphCount": 1,
-      "emphasizedPhraseCount": 0,
-      "dialogueFocused": false,
-      "broadTopic": "travel-and-transport",
-      "difficultyBand": "short"
-    },
-    {
-      "number": 76,
-      "title": "Dialogue - Where is our Cat?",
-      "sourceFile": "index_split_081.html",
-      "wordCount": 92,
-      "paragraphCount": 10,
-      "emphasizedPhraseCount": 0,
-      "dialogueFocused": true,
-      "broadTopic": "everyday-life-and-culture",
-      "difficultyBand": "short"
-    },
-    {
-      "number": 77,
-      "title": "The First Time in England",
-      "sourceFile": "index_split_082.html",
-      "wordCount": 114,
-      "paragraphCount": 2,
-      "emphasizedPhraseCount": 0,
-      "dialogueFocused": false,
-      "broadTopic": "everyday-life-and-culture",
-      "difficultyBand": "short"
-    },
-    {
-      "number": 78,
-      "title": "A Happy Marriage",
-      "sourceFile": "index_split_083.html",
-      "wordCount": 112,
-      "paragraphCount": 3,
-      "emphasizedPhraseCount": 0,
-      "dialogueFocused": false,
-      "broadTopic": "family-and-relationships",
-      "difficultyBand": "short"
-    },
-    {
-      "number": 79,
-      "title": "School and our Future Plans",
-      "sourceFile": "index_split_084.html",
-      "wordCount": 141,
-      "paragraphCount": 7,
-      "emphasizedPhraseCount": 0,
-      "dialogueFocused": false,
-      "broadTopic": "everyday-life-and-culture",
-      "difficultyBand": "short"
-    },
-    {
-      "number": 80,
-      "title": "I Marry My Office",
-      "sourceFile": "index_split_085.html",
-      "wordCount": 196,
-      "paragraphCount": 4,
-      "emphasizedPhraseCount": 0,
-      "dialogueFocused": false,
-      "broadTopic": "work-money-and-services",
-      "difficultyBand": "medium"
-    },
-    {
-      "number": 81,
-      "title": "Dialogue - Today we have Pigeon Meat",
-      "sourceFile": "index_split_086.html",
-      "wordCount": 117,
-      "paragraphCount": 3,
-      "emphasizedPhraseCount": 0,
-      "dialogueFocused": true,
-      "broadTopic": "everyday-life-and-culture",
-      "difficultyBand": "short"
-    },
-    {
-      "number": 82,
-      "title": "The Hermit",
-      "sourceFile": "index_split_087.html",
-      "wordCount": 291,
-      "paragraphCount": 6,
-      "emphasizedPhraseCount": 0,
-      "dialogueFocused": false,
-      "broadTopic": "everyday-life-and-culture",
-      "difficultyBand": "extended"
-    },
-    {
-      "number": 83,
-      "title": "Retirement In Comfort",
-      "sourceFile": "index_split_088.html",
-      "wordCount": 145,
-      "paragraphCount": 2,
-      "emphasizedPhraseCount": 0,
-      "dialogueFocused": false,
-      "broadTopic": "everyday-life-and-culture",
-      "difficultyBand": "short"
-    },
-    {
-      "number": 84,
-      "title": "The Barbecue Evening",
-      "sourceFile": "index_split_089.html",
-      "wordCount": 353,
-      "paragraphCount": 12,
-      "emphasizedPhraseCount": 0,
-      "dialogueFocused": false,
-      "broadTopic": "everyday-life-and-culture",
-      "difficultyBand": "extended"
-    },
-    {
-      "number": 85,
-      "title": "The Maid",
-      "sourceFile": "index_split_090.html",
-      "wordCount": 224,
-      "paragraphCount": 8,
-      "emphasizedPhraseCount": 0,
-      "dialogueFocused": false,
-      "broadTopic": "family-and-relationships",
-      "difficultyBand": "medium"
-    },
-    {
-      "number": 86,
-      "title": "The Merchant of Arts",
-      "sourceFile": "index_split_091.html",
-      "wordCount": 237,
-      "paragraphCount": 8,
-      "emphasizedPhraseCount": 0,
-      "dialogueFocused": false,
-      "broadTopic": "work-money-and-services",
-      "difficultyBand": "medium"
-    },
-    {
-      "number": 87,
-      "title": "A New World",
-      "sourceFile": "index_split_092.html",
-      "wordCount": 439,
-      "paragraphCount": 11,
-      "emphasizedPhraseCount": 0,
-      "dialogueFocused": false,
-      "broadTopic": "everyday-life-and-culture",
-      "difficultyBand": "extended"
-    },
-    {
-      "number": 88,
-      "title": "AirBnB The Mysterious Shadow and a Revolver",
-      "sourceFile": "index_split_093.html",
-      "wordCount": 250,
-      "paragraphCount": 6,
-      "emphasizedPhraseCount": 0,
-      "dialogueFocused": false,
-      "broadTopic": "everyday-life-and-culture",
-      "difficultyBand": "extended"
-    },
-    {
-      "number": 89,
-      "title": "Adventures In The Spa",
-      "sourceFile": "index_split_094.html",
-      "wordCount": 375,
-      "paragraphCount": 24,
-      "emphasizedPhraseCount": 0,
-      "dialogueFocused": false,
-      "broadTopic": "food-and-health",
-      "difficultyBand": "extended"
-    },
-    {
-      "number": 90,
-      "title": "A Religious Family",
-      "sourceFile": "index_split_095.html",
-      "wordCount": 397,
-      "paragraphCount": 9,
-      "emphasizedPhraseCount": 0,
-      "dialogueFocused": false,
-      "broadTopic": "family-and-relationships",
-      "difficultyBand": "extended"
-    },
-    {
-      "number": 91,
-      "title": "Crowdfunding For A New Kitchen",
-      "sourceFile": "index_split_096.html",
-      "wordCount": 282,
-      "paragraphCount": 6,
-      "emphasizedPhraseCount": 0,
-      "dialogueFocused": false,
-      "broadTopic": "everyday-life-and-culture",
-      "difficultyBand": "extended"
-    },
-    {
-      "number": 92,
-      "title": "How to Find a Millionaire on a Cruise Trip",
-      "sourceFile": "index_split_097.html",
-      "wordCount": 322,
-      "paragraphCount": 11,
-      "emphasizedPhraseCount": 0,
-      "dialogueFocused": false,
-      "broadTopic": "travel-and-transport",
-      "difficultyBand": "extended"
-    },
-    {
-      "number": 93,
-      "title": "A Visit from America",
-      "sourceFile": "index_split_098.html",
-      "wordCount": 333,
-      "paragraphCount": 21,
-      "emphasizedPhraseCount": 0,
-      "dialogueFocused": false,
-      "broadTopic": "everyday-life-and-culture",
-      "difficultyBand": "extended"
-    },
-    {
-      "number": 94,
-      "title": "The Old Lush",
-      "sourceFile": "index_split_099.html",
-      "wordCount": 307,
-      "paragraphCount": 10,
-      "emphasizedPhraseCount": 0,
-      "dialogueFocused": false,
-      "broadTopic": "everyday-life-and-culture",
-      "difficultyBand": "extended"
-    },
-    {
-      "number": 95,
-      "title": "The Treasure In The Woods",
-      "sourceFile": "index_split_100.html",
-      "wordCount": 351,
-      "paragraphCount": 11,
-      "emphasizedPhraseCount": 0,
-      "dialogueFocused": false,
-      "broadTopic": "everyday-life-and-culture",
-      "difficultyBand": "extended"
-    },
-    {
-      "number": 96,
-      "title": "Au Pair In England",
-      "sourceFile": "index_split_101.html",
-      "wordCount": 227,
-      "paragraphCount": 7,
-      "emphasizedPhraseCount": 0,
-      "dialogueFocused": false,
-      "broadTopic": "everyday-life-and-culture",
-      "difficultyBand": "medium"
-    },
-    {
-      "number": 97,
-      "title": "The Cheese Stinks from all Sides",
-      "sourceFile": "index_split_102.html",
-      "wordCount": 290,
-      "paragraphCount": 11,
-      "emphasizedPhraseCount": 0,
-      "dialogueFocused": false,
-      "broadTopic": "everyday-life-and-culture",
-      "difficultyBand": "extended"
-    },
-    {
-      "number": 98,
-      "title": "Siblings",
-      "sourceFile": "index_split_103.html",
-      "wordCount": 108,
-      "paragraphCount": 2,
-      "emphasizedPhraseCount": 0,
-      "dialogueFocused": false,
-      "broadTopic": "family-and-relationships",
-      "difficultyBand": "short"
-    },
-    {
-      "number": 99,
-      "title": "A New Recipe",
-      "sourceFile": "index_split_104.html",
-      "wordCount": 134,
-      "paragraphCount": 1,
-      "emphasizedPhraseCount": 0,
-      "dialogueFocused": false,
-      "broadTopic": "food-and-health",
-      "difficultyBand": "short"
-    },
-    {
-      "number": 100,
-      "title": "Best Friends",
-      "sourceFile": "index_split_105.html",
-      "wordCount": 114,
-      "paragraphCount": 2,
-      "emphasizedPhraseCount": 0,
-      "dialogueFocused": false,
-      "broadTopic": "family-and-relationships",
-      "difficultyBand": "short"
-    },
-    {
-      "number": 101,
-      "title": "A Postcard from Costa Rica",
-      "sourceFile": "index_split_106.html",
-      "wordCount": 206,
-      "paragraphCount": 3,
-      "emphasizedPhraseCount": 0,
-      "dialogueFocused": false,
-      "broadTopic": "everyday-life-and-culture",
-      "difficultyBand": "medium"
-    },
-    {
-      "number": 102,
-      "title": "The Order",
-      "sourceFile": "index_split_107.html",
-      "wordCount": 204,
-      "paragraphCount": 6,
-      "emphasizedPhraseCount": 0,
-      "dialogueFocused": false,
-      "broadTopic": "everyday-life-and-culture",
-      "difficultyBand": "medium"
-    },
-    {
-      "number": 103,
-      "title": "One Michelin Star is not Enough",
-      "sourceFile": "index_split_108.html",
-      "wordCount": 263,
-      "paragraphCount": 9,
-      "emphasizedPhraseCount": 1,
-      "dialogueFocused": false,
-      "broadTopic": "everyday-life-and-culture",
-      "difficultyBand": "extended"
-    },
-    {
-      "number": 104,
-      "title": "The Allotment",
-      "sourceFile": "index_split_109.html",
-      "wordCount": 317,
-      "paragraphCount": 9,
-      "emphasizedPhraseCount": 1,
-      "dialogueFocused": false,
-      "broadTopic": "home-and-community",
-      "difficultyBand": "extended"
-    },
-    {
-      "number": 105,
-      "title": "Inexpensive Shopping In Japan",
-      "sourceFile": "index_split_110.html",
-      "wordCount": 112,
-      "paragraphCount": 2,
-      "emphasizedPhraseCount": 0,
-      "dialogueFocused": false,
-      "broadTopic": "everyday-life-and-culture",
-      "difficultyBand": "short"
-    },
-    {
-      "number": 106,
-      "title": "History - The First Humans",
-      "sourceFile": "index_split_111.html",
-      "wordCount": 253,
-      "paragraphCount": 7,
-      "emphasizedPhraseCount": 0,
-      "dialogueFocused": false,
-      "broadTopic": "everyday-life-and-culture",
-      "difficultyBand": "extended"
+      "order": 1,
+      "title": "The Lion and the Rabbit",
+      "sourceDocument": "OEBPS/Text/Unit_01.xhtml",
+      "sourceSha256": "f49654226f2a9590e1da1a0fe875a1edb5c75395fd746c886aa9a224c090eed8",
+      "sourceParagraphCount": 13,
+      "sourceWordCount": 312,
+      "characters": [
+        "the lion",
+        "the rabbit",
+        "the other forest animals"
+      ],
+      "setting": "A forest and a deep well.",
+      "theme": "Intelligence can overcome brute force.",
+      "mainEvents": [
+        "The animals arrange to send the lion one animal per day.",
+        "The rabbit arrives late and invents a rival lion.",
+        "The rabbit leads the lion to a well, where the lion mistakes his reflection for the rival.",
+        "The lion jumps into the well, freeing the other animals."
+      ],
+      "generatedStory": "4000-essential-english-words-book-1/01-the-lion-and-the-rabbit.json",
+      "generatedSha256": "06bee571997ec4c4ed3bbb526dd98ce7acb6d0549d77c05b9e59337e32447a67",
+      "illustration": "4000-essential-english-words-book-1/assets/01-the-lion-and-the-rabbit.jpg"
+    },
+    {
+      "order": 2,
+      "title": "The Laboratory",
+      "sourceDocument": "OEBPS/Text/Unit_02.xhtml",
+      "sourceSha256": "2466e75622f54ed1bae0548772156541c06021f18b49b8acad59159b76f24d56",
+      "sourceParagraphCount": 9,
+      "sourceWordCount": 307,
+      "characters": [
+        "Mia",
+        "Liz",
+        "Mia's father"
+      ],
+      "setting": "Mia's house and her father's locked laboratory at night.",
+      "theme": "Fear can come from mistaken assumptions.",
+      "mainEvents": [
+        "Mia hears a frightening laugh behind the locked laboratory door.",
+        "Liz persuades Mia to enter when the door is left unlocked.",
+        "The girls panic in the dark room.",
+        "Mia's father reveals that the laugh comes from a birthday doll."
+      ],
+      "generatedStory": "4000-essential-english-words-book-1/02-the-laboratory.json",
+      "generatedSha256": "059d71d4e4c58500541880bd14c1fdf869158a062cac641d9868f563bdf0b3dc",
+      "illustration": "4000-essential-english-words-book-1/assets/02-the-laboratory.jpg"
+    },
+    {
+      "order": 3,
+      "title": "The Report",
+      "sourceDocument": "OEBPS/Text/Unit_03.xhtml",
+      "sourceSha256": "02e232f1b87371a850da56ed9b58f7dc4e97d3182563fa1892228a3133ea101a",
+      "sourceParagraphCount": 11,
+      "sourceWordCount": 306,
+      "characters": [
+        "Lee",
+        "Jack",
+        "Claire",
+        "a friendly alien"
+      ],
+      "setting": "A library, an alien ship, outer space, and Earth.",
+      "theme": "Responsibility and unexpected help can solve a difficult problem.",
+      "mainEvents": [
+        "Lee worries because his part of the group project is unfinished.",
+        "An alien takes him into space after hearing his wish for help.",
+        "Lee observes the moon and Mars.",
+        "The alien helps Lee build a model of Mars and returns him to Earth."
+      ],
+      "generatedStory": "4000-essential-english-words-book-1/03-the-report.json",
+      "generatedSha256": "9f31496a9768410e8c771d63284d91c78b3b85c46aaec4d6a0e55bb06626edf3",
+      "illustration": "4000-essential-english-words-book-1/assets/03-the-report.jpg"
+    },
+    {
+      "order": 4,
+      "title": "The Dog’s Bell",
+      "sourceDocument": "OEBPS/Text/Unit_04.xhtml",
+      "sourceSha256": "f42e77c51fcc46d931c5ca01b22b33cfeef2d4424f12939601339f200bfbd86c",
+      "sourceParagraphCount": 8,
+      "sourceWordCount": 317,
+      "characters": [
+        "John",
+        "John's dog",
+        "John's friend",
+        "the villagers",
+        "other dogs"
+      ],
+      "setting": "A village and its streets.",
+      "theme": "A reputation is not admirable when it comes from harmful behavior.",
+      "mainEvents": [
+        "John's dog repeatedly bites villagers.",
+        "A friend suggests a bell so people can hear the dog coming.",
+        "The dog believes the attention makes him popular.",
+        "Other dogs explain that the bell merely helps people avoid him."
+      ],
+      "generatedStory": "4000-essential-english-words-book-1/04-the-dogs-bell.json",
+      "generatedSha256": "747216e577386dee1fead6658100e0da2a2634e362dd87194ef48b6909feb719",
+      "illustration": "4000-essential-english-words-book-1/assets/04-the-dogs-bell.jpg"
+    },
+    {
+      "order": 5,
+      "title": "The Jackal and the Sun Child",
+      "sourceDocument": "OEBPS/Text/Unit_05.xhtml",
+      "sourceSha256": "a09245458f7ca25fd67f001dd0204922ca1b0b4b429ff3f65fff7dbda68596f8",
+      "sourceParagraphCount": 7,
+      "sourceWordCount": 311,
+      "characters": [
+        "the jackal",
+        "the sun child"
+      ],
+      "setting": "A desert, a rock, and a field of flowers.",
+      "theme": "A tempting reward can hide serious consequences.",
+      "mainEvents": [
+        "The sun child offers the jackal a necklace for carrying her home.",
+        "Her heat painfully burns the jackal's back.",
+        "The jackal runs and jumps into flowers to make her fall off.",
+        "The heat leaves the black mark associated with jackals."
+      ],
+      "generatedStory": "4000-essential-english-words-book-1/05-the-jackal-and-the-sun-child.json",
+      "generatedSha256": "9b1118214e9ef510cf04e7d26783cebe5c03c561e30fbb1902da837e824a5bf3",
+      "illustration": "4000-essential-english-words-book-1/assets/05-the-jackal-and-the-sun-child.jpg"
+    },
+    {
+      "order": 6,
+      "title": "The Friendly Ghost",
+      "sourceDocument": "OEBPS/Text/Unit_06.xhtml",
+      "sourceSha256": "f956a4d9620daa5635fc6094f68d42e80f6cad0b1968fff9699400208b34b2fc",
+      "sourceParagraphCount": 7,
+      "sourceWordCount": 297,
+      "characters": [
+        "the friendly ghost",
+        "a group of children",
+        "their dog"
+      ],
+      "setting": "A riverside community during a dark rainstorm.",
+      "theme": "A frightening appearance can conceal a protective intention.",
+      "mainEvents": [
+        "A kind woman becomes a ghost who still wants to protect children.",
+        "Children become lost beside a rising river during a storm.",
+        "The ghost frightens and follows them away from the river.",
+        "The children reach home before the flood becomes dangerous."
+      ],
+      "generatedStory": "4000-essential-english-words-book-1/06-the-friendly-ghost.json",
+      "generatedSha256": "0a32e87c18fcd183ce764453d10704739ed1d1add324c1c5c504f8351dd3d720",
+      "illustration": "4000-essential-english-words-book-1/assets/06-the-friendly-ghost.jpg"
+    },
+    {
+      "order": 7,
+      "title": "The Best Prince",
+      "sourceDocument": "OEBPS/Text/Unit_07.xhtml",
+      "sourceSha256": "eb7ed760546726dcd535bfdb63bb4fd6951d075c0f8dffad4081220c5b09fdf9",
+      "sourceParagraphCount": 12,
+      "sourceWordCount": 306,
+      "characters": [
+        "King Minos",
+        "Theseus",
+        "Pelias",
+        "Jason"
+      ],
+      "setting": "King Minos's palace and kingdom.",
+      "theme": "Kindness and peace are stronger qualifications for leadership than force.",
+      "mainEvents": [
+        "The sick king must choose one of his three sons as successor.",
+        "Theseus and Pelias argue and draw their swords.",
+        "Minos chooses peaceful, kind Jason.",
+        "The older brothers regret missing their father's final moments and accept Jason."
+      ],
+      "generatedStory": "4000-essential-english-words-book-1/07-the-best-prince.json",
+      "generatedSha256": "2d2ced6d186200086c25e5b8110d49de0132fb8b8b317848069013851cb6655a",
+      "illustration": "4000-essential-english-words-book-1/assets/07-the-best-prince.jpg"
+    },
+    {
+      "order": 8,
+      "title": "How the Sun and the Moon Were Made",
+      "sourceDocument": "OEBPS/Text/Unit_08.xhtml",
+      "sourceSha256": "89a2d7c2ce63ca485435bed83086be6190d3a370237526cee6902c84bed34c22",
+      "sourceParagraphCount": 7,
+      "sourceWordCount": 314,
+      "characters": [
+        "a kind girl",
+        "her mean brother"
+      ],
+      "setting": "An Inuit party, the woods, and the sky.",
+      "theme": "Wrongdoing is exposed and carries lasting consequences.",
+      "mainEvents": [
+        "The siblings attend a party.",
+        "Someone attacks the girl in darkness.",
+        "She uses black dirt in her decorated hair to identify the attacker as her brother.",
+        "They chase each other with fire, grow enormous, and become the moon and sun."
+      ],
+      "generatedStory": "4000-essential-english-words-book-1/08-how-the-sun-and-the-moon-were-made.json",
+      "generatedSha256": "ae4ad47fde92951e2bf17841e3462ae1e1d5f7b46cc6a48af34e54361c333550",
+      "illustration": "4000-essential-english-words-book-1/assets/08-how-the-sun-and-the-moon-were-made.jpg"
+    },
+    {
+      "order": 9,
+      "title": "The Starfish",
+      "sourceDocument": "OEBPS/Text/Unit_09.xhtml",
+      "sourceSha256": "915aab22abdb86801f33cc5c03738414d75639eb0e0371ddfce400cdbbeb346e",
+      "sourceParagraphCount": 7,
+      "sourceWordCount": 290,
+      "characters": [
+        "the narrator",
+        "a little girl"
+      ],
+      "setting": "An island beach at evening after the tide leaves starfish on the sand.",
+      "theme": "A small action matters to the individual it helps.",
+      "mainEvents": [
+        "The narrator sees many starfish stranded by the waves.",
+        "A little girl asks for help and then begins throwing starfish back.",
+        "The narrator argues that she cannot save all of them.",
+        "She answers that saving one still matters to that starfish."
+      ],
+      "generatedStory": "4000-essential-english-words-book-1/09-the-starfish.json",
+      "generatedSha256": "2718823a4abe83dd5be240945ddcb02933de36ec2bb702b90ba12279515ad8ea",
+      "illustration": "4000-essential-english-words-book-1/assets/09-the-starfish.jpg"
+    },
+    {
+      "order": 10,
+      "title": "The First Peacock",
+      "sourceDocument": "OEBPS/Text/Unit_10.xhtml",
+      "sourceSha256": "924c4ce6f973d0d30dc63cfc9d042bc0da6b3e332c9ff2e544a50ea6a08bcd49",
+      "sourceParagraphCount": 6,
+      "sourceWordCount": 295,
+      "characters": [
+        "Argos",
+        "Hera",
+        "Zeus",
+        "a musician",
+        "Hera's cow"
+      ],
+      "setting": "Ancient Greece and the night sky.",
+      "theme": "Deception can cause an innocent servant to suffer consequences.",
+      "mainEvents": [
+        "Argos uses his hundred eyes to guard Hera's special cow.",
+        "Zeus sends a musician whose song puts Argos to sleep.",
+        "Zeus steals the cow and Hera transforms Argos into a peacock.",
+        "Argos's eyes appear on the peacock's tail, and Zeus later places his image among the stars."
+      ],
+      "generatedStory": "4000-essential-english-words-book-1/10-the-first-peacock.json",
+      "generatedSha256": "0743f02f409a945335739af0c6b550e795a0a9dca3c59d95940a5e4cb0c23b51",
+      "illustration": "4000-essential-english-words-book-1/assets/10-the-first-peacock.jpg"
+    },
+    {
+      "order": 11,
+      "title": "Princess Rose and the Creature",
+      "sourceDocument": "OEBPS/Text/Unit_11.xhtml",
+      "sourceSha256": "742659e5b7ab9fdb28021f355c4115cf97b684306d5a44b0bb8453274bf54761",
+      "sourceParagraphCount": 10,
+      "sourceWordCount": 305,
+      "characters": [
+        "Princess Rose",
+        "the jealous queen",
+        "Henry"
+      ],
+      "setting": "A kingdom, a forest, and the route to Henry's ship.",
+      "theme": "Acceptance looks beyond outward appearance.",
+      "mainEvents": [
+        "The jealous queen puts Rose to sleep and abandons her in a forest.",
+        "Rose dreams of the man she will marry.",
+        "She meets the green, horned creature Henry and spends a pleasant day with him.",
+        "Rose kisses Henry, who changes into the man from her dream, and they marry."
+      ],
+      "generatedStory": "4000-essential-english-words-book-1/11-princess-rose-and-the-creature.json",
+      "generatedSha256": "9e83a89df6e8245acc1587c59dd8b81fa8199bc246b152af541e3de8be18be56",
+      "illustration": "4000-essential-english-words-book-1/assets/11-princess-rose-and-the-creature.jpg"
+    },
+    {
+      "order": 12,
+      "title": "The Crazy Artist",
+      "sourceDocument": "OEBPS/Text/Unit_12.xhtml",
+      "sourceSha256": "52946429b3f75cc5e2c3eaf0bcc0e0b17e68a7e9f3a4b7ff72a8108c5b840401",
+      "sourceParagraphCount": 5,
+      "sourceWordCount": 314,
+      "characters": [
+        "Frenhofer",
+        "other artists",
+        "later critics and viewers"
+      ],
+      "setting": "Frenhofer's apartment and the wider art world.",
+      "theme": "New art may need time before people understand it.",
+      "mainEvents": [
+        "Successful painter Frenhofer abandons his old career to pursue a new method.",
+        "He works on one painting for years and neglects his health.",
+        "Other artists reject the crowded lines, colors, shapes, and symbols.",
+        "Over time, critics and the public recognize the painting's importance."
+      ],
+      "generatedStory": "4000-essential-english-words-book-1/12-the-crazy-artist.json",
+      "generatedSha256": "9ec7016b71f9b691ba05a07b4554c9af6d5cc7ee59398ebb91c0702734ae6503",
+      "illustration": "4000-essential-english-words-book-1/assets/12-the-crazy-artist.jpg"
+    },
+    {
+      "order": 13,
+      "title": "The Farmer and the Cats",
+      "sourceDocument": "OEBPS/Text/Unit_13.xhtml",
+      "sourceSha256": "ed6b9689b33ddb841495eca40ace1b1c580414bc94db878b5c49cd3fb28188a1",
+      "sourceParagraphCount": 8,
+      "sourceWordCount": 309,
+      "characters": [
+        "Arthur",
+        "Maria",
+        "the town lord",
+        "the farm cats"
+      ],
+      "setting": "A poor farm after a fire, during the autumn harvest.",
+      "theme": "Unexpected helpers deserve gratitude and care.",
+      "mainEvents": [
+        "A fire leaves poor Arthur and Maria with only their cats and a debt.",
+        "The lord threatens punishment if they do not pay after harvest.",
+        "Each night, unseen helpers complete as much fieldwork as the farmers.",
+        "The cats finish the harvest and leave money; Arthur and Maria discover and reward them."
+      ],
+      "generatedStory": "4000-essential-english-words-book-1/13-the-farmer-and-the-cats.json",
+      "generatedSha256": "22a6257141cb680f1d1b41d530c4dfbb56c5d004569c59e7094abeb2981a8e55",
+      "illustration": "4000-essential-english-words-book-1/assets/13-the-farmer-and-the-cats.jpg"
+    },
+    {
+      "order": 14,
+      "title": "A Magical Book",
+      "sourceDocument": "OEBPS/Text/Unit_14.xhtml",
+      "sourceSha256": "d093d90c934769672f92ed323dcc1eb5fc87a4abc2356949c700aa1d66e18acb",
+      "sourceParagraphCount": 7,
+      "sourceWordCount": 327,
+      "characters": [
+        "Sarah",
+        "Sarah's friend",
+        "Sarah's basketball coach",
+        "people at a local store"
+      ],
+      "setting": "Sarah's home, school, a local store, and a street.",
+      "theme": "Power should be used responsibly to help rather than harm.",
+      "mainEvents": [
+        "Sarah receives a gold-paged magical book.",
+        "The book gives her power to control people, which she uses for jokes and trouble.",
+        "She sees her coach about to walk in front of a bus and stops him with the power.",
+        "Sarah limits herself to using the power for good."
+      ],
+      "generatedStory": "4000-essential-english-words-book-1/14-a-magical-book.json",
+      "generatedSha256": "82be4b459436acf38a5fba6ce3dcb43b025a8064d5f971bb466ec0648de05533",
+      "illustration": "4000-essential-english-words-book-1/assets/14-a-magical-book.jpg"
+    },
+    {
+      "order": 15,
+      "title": "The Big Race",
+      "sourceDocument": "OEBPS/Text/Unit_15.xhtml",
+      "sourceSha256": "1e4e33dea9c00cd77ff48937fa1879781b2667b09e3e428c58a88c85969effce",
+      "sourceParagraphCount": 8,
+      "sourceWordCount": 322,
+      "characters": [
+        "the rabbit",
+        "the turtle",
+        "the duck",
+        "the dog",
+        "spectating animals"
+      ],
+      "setting": "A long animal race across fields and roads.",
+      "theme": "Steady effort can defeat careless overconfidence.",
+      "mainEvents": [
+        "A duck sells tickets to a long race between a rabbit and a turtle.",
+        "The rabbit quickly gains a large lead.",
+        "Certain of victory, the rabbit eats and sleeps.",
+        "The turtle keeps moving and reaches the finish first."
+      ],
+      "generatedStory": "4000-essential-english-words-book-1/15-the-big-race.json",
+      "generatedSha256": "23d18eab114e4237f3e3ae87fbdb955cc024abf7714759acd43236590603e590",
+      "illustration": "4000-essential-english-words-book-1/assets/15-the-big-race.jpg"
+    },
+    {
+      "order": 16,
+      "title": "Adams County’s Gold",
+      "sourceDocument": "OEBPS/Text/Unit_16.xhtml",
+      "sourceSha256": "8bfcacd57955ddb5615ab23976d7f2f3fd8073acbd44f6c2ef061391c2cf8a4a",
+      "sourceParagraphCount": 16,
+      "sourceWordCount": 308,
+      "characters": [
+        "Tom",
+        "Brad",
+        "Jeff",
+        "Joe"
+      ],
+      "setting": "Adams Academy and a nearby forest in Adams County.",
+      "theme": "Curiosity and cooperation turn an ordinary day into discovery.",
+      "mainEvents": [
+        "Tom looks for something fun to do on Saturday.",
+        "Brad shows him an 1870 book containing clues to hidden gold.",
+        "They interpret a flat tree underground as a buried board and dig for it.",
+        "They find a gold coin and a map leading to more treasure."
+      ],
+      "generatedStory": "4000-essential-english-words-book-1/16-adams-countys-gold.json",
+      "generatedSha256": "a846a6a200e53bf46d8affb74c0f5eba6c0d85e4e3292d4cac4cffa370baccda",
+      "illustration": "4000-essential-english-words-book-1/assets/16-adams-countys-gold.jpg"
+    },
+    {
+      "order": 17,
+      "title": "The Race for Water",
+      "sourceDocument": "OEBPS/Text/Unit_17.xhtml",
+      "sourceSha256": "296a993782ba9bb2419f1dbc58240d8453296f07ace280b695a12c1d866d8b66",
+      "sourceParagraphCount": 12,
+      "sourceWordCount": 312,
+      "characters": [
+        "a determined boy",
+        "the Sky",
+        "the townspeople"
+      ],
+      "setting": "A riverside town and a hill during a drought.",
+      "theme": "Water must be appreciated, and clever action can repair communal mistakes.",
+      "mainEvents": [
+        "The townspeople waste abundant river water.",
+        "The Sky stops the rain and the river dries.",
+        "A boy challenges the Sky to fill puddles before he reaches a hilltop.",
+        "Rain runs downhill into the river instead, filling it and teaching the town to conserve water."
+      ],
+      "generatedStory": "4000-essential-english-words-book-1/17-the-race-for-water.json",
+      "generatedSha256": "8409a95463c31922a477bc2d48f1112926f34c4ea7645a2dd266a9df84c2f7ff",
+      "illustration": "4000-essential-english-words-book-1/assets/17-the-race-for-water.jpg"
+    },
+    {
+      "order": 18,
+      "title": "The Little Red Chicken",
+      "sourceDocument": "OEBPS/Text/Unit_18.xhtml",
+      "sourceSha256": "ade4dfb6c6a29dcda50f508dbec5586b531a675f1ec845905d733f13c408790d",
+      "sourceParagraphCount": 18,
+      "sourceWordCount": 307,
+      "characters": [
+        "the little red chicken",
+        "the cat",
+        "town customers"
+      ],
+      "setting": "A small-town store and the place where the chicken makes bread.",
+      "theme": "People should work for what they want instead of depending on others.",
+      "mainEvents": [
+        "A cat wants bread, but the chicken's store has only wheat.",
+        "The cat refuses the chicken's offer to help make bread.",
+        "The chicken grinds the wheat and bakes bread alone.",
+        "She refuses to give or sell it to the cat and advises him to grow his own wheat."
+      ],
+      "generatedStory": "4000-essential-english-words-book-1/18-the-little-red-chicken.json",
+      "generatedSha256": "51197bf97476ae1fc81ce382984bb6d3218e0ddf2a87eceb40424fa0a73b29a2",
+      "illustration": "4000-essential-english-words-book-1/assets/18-the-little-red-chicken.png"
+    },
+    {
+      "order": 19,
+      "title": "Shipwrecked",
+      "sourceDocument": "OEBPS/Text/Unit_19.xhtml",
+      "sourceSha256": "39117d7f62ef8e3a31c91a1dd97dc61f2671b6052502e4cf9decaf3166074482",
+      "sourceParagraphCount": 7,
+      "sourceWordCount": 314,
+      "characters": [
+        "Simon Yates",
+        "Mrs. Yates",
+        "a ship captain",
+        "rescuers"
+      ],
+      "setting": "A ship at sea and a remote island.",
+      "theme": "Hardship can transform a person's values and definition of happiness.",
+      "mainEvents": [
+        "Selfish lawyer Simon loses his job and money and plans a new life abroad.",
+        "A wave throws him from a ship, and he reaches an island alone.",
+        "He builds shelter and tools, lives on fish and rainwater, and grows content.",
+        "When rescuers arrive, Simon refuses to leave his simpler life."
+      ],
+      "generatedStory": "4000-essential-english-words-book-1/19-shipwrecked.json",
+      "generatedSha256": "e251f4c397c03c82397651396ed486d5c7f411c03544f063418b9e0dde307556",
+      "illustration": "4000-essential-english-words-book-1/assets/19-shipwrecked.jpg"
+    },
+    {
+      "order": 20,
+      "title": "The seven cities of gold",
+      "sourceDocument": "OEBPS/Text/Unit_20.xhtml",
+      "sourceSha256": "5c989bde83a295272ce1f1b4aa49397d49783743fa75bf7da18ac104f515e9e9",
+      "sourceParagraphCount": 7,
+      "sourceWordCount": 312,
+      "characters": [
+        "Coronado",
+        "three hundred expedition members",
+        "residents of the cities",
+        "Coronado's friends"
+      ],
+      "setting": "A westward Spanish expedition and earthen settlements.",
+      "theme": "Greed and unquestioned rumors distort how people see real communities.",
+      "mainEvents": [
+        "Coronado hears extravagant reports about seven golden cities.",
+        "He leads three hundred men west to find them.",
+        "They encounter ordinary earthen cities whose residents feed them and deny that gold exists there.",
+        "A final glint of sunlight tempts Coronado, but he accepts the truth and returns home."
+      ],
+      "generatedStory": "4000-essential-english-words-book-1/20-the-seven-cities-of-gold.json",
+      "generatedSha256": "f212547295cd72554f602868f623c713136d566b14f423fd820a0683f271a4da",
+      "illustration": "4000-essential-english-words-book-1/assets/20-the-seven-cities-of-gold.jpg"
+    },
+    {
+      "order": 21,
+      "title": "Katy",
+      "sourceDocument": "OEBPS/Text/Unit_21.xhtml",
+      "sourceSha256": "d01ea8c577ffd38f825eba6a8efe709633cb4ccb822b46b5eb652e74470e1b86",
+      "sourceParagraphCount": 7,
+      "sourceWordCount": 292,
+      "characters": [
+        "Katy",
+        "the nurse narrator",
+        "Tommy",
+        "doctors",
+        "other patients"
+      ],
+      "setting": "A hospital before and after Katy's brain operation.",
+      "theme": "Kindness and courage can inspire an entire community during illness.",
+      "mainEvents": [
+        "A nurse meets eight-year-old Katy, who has a painful problem at the base of her brain.",
+        "Katy uses her limited strength to play with, paint for, and gather flowers for other patients.",
+        "Doctors successfully operate on her.",
+        "After recovering, Katy returns to read and play with hospital patients."
+      ],
+      "generatedStory": "4000-essential-english-words-book-1/21-katy.json",
+      "generatedSha256": "99fb07a9227ef19e1d7a73654f6012db1820f74404ef130f1caba7073bfea7ca",
+      "illustration": "4000-essential-english-words-book-1/assets/21-katy.png"
+    },
+    {
+      "order": 22,
+      "title": "A Better Reward",
+      "sourceDocument": "OEBPS/Text/Unit_22.xhtml",
+      "sourceSha256": "d3f67f0b97fa946bf4d4769006d7dac191fe25c3f45662f886ed08f8241a2846",
+      "sourceParagraphCount": 9,
+      "sourceWordCount": 314,
+      "characters": [
+        "Jenny",
+        "Jim",
+        "a mother dog",
+        "the puppies",
+        "restaurant staff",
+        "the police"
+      ],
+      "setting": "A restaurant delivery area and the neighborhood around a customer's house.",
+      "theme": "Compassion can be more rewarding than money or punishment.",
+      "mainEvents": [
+        "Jenny reads about an uncaught food thief and a police reward.",
+        "Against Jim's advice, she chases the thief after a delivery is stolen.",
+        "She discovers a thin mother dog feeding puppies.",
+        "The restaurant workers adopt the dogs, and Jenny values her new dog over the cash reward."
+      ],
+      "generatedStory": "4000-essential-english-words-book-1/22-a-better-reward.json",
+      "generatedSha256": "0202265deff99547fb74e2403d4c24678df683a50a67b3e66428444368c75613",
+      "illustration": "4000-essential-english-words-book-1/assets/22-a-better-reward.jpg"
+    },
+    {
+      "order": 23,
+      "title": "The camp",
+      "sourceDocument": "OEBPS/Text/Unit_23.xhtml",
+      "sourceSha256": "b9d4878847738f4af7ff4e699a77526e64ce769e2fa2cda9c02dc1bc9fe6c6e3",
+      "sourceParagraphCount": 7,
+      "sourceWordCount": 306,
+      "characters": [
+        "Stacie",
+        "her parents",
+        "blue-team campers",
+        "red-team campers"
+      ],
+      "setting": "A noisy summer camp near an airport and its forest game area.",
+      "theme": "Trying an unwanted new experience can reveal confidence and friendship.",
+      "mainEvents": [
+        "Stacie resents being sent to a camp with plain food, swimming, noise, and spider webs.",
+        "She attends water-safety class and reluctantly joins a water-gun flag game.",
+        "Stacie discovers that she enjoys the game and captures the red flag.",
+        "Her blue team wins, and she enjoys the remaining week with new friends."
+      ],
+      "generatedStory": "4000-essential-english-words-book-1/23-the-camp.json",
+      "generatedSha256": "670340bc54ea221f59a99c49b322d0b994e0f43f5382a7061e7c232259722c66",
+      "illustration": "4000-essential-english-words-book-1/assets/23-the-camp.png"
+    },
+    {
+      "order": 24,
+      "title": "A Strong Friendship",
+      "sourceDocument": "OEBPS/Text/Unit_24.xhtml",
+      "sourceSha256": "72e6563eb48f4631aadddab7733a2c243b7f1fce8c2dacd7687c92066ff5ce59",
+      "sourceParagraphCount": 9,
+      "sourceWordCount": 308,
+      "characters": [
+        "Tim",
+        "Jack",
+        "the snowbound townspeople"
+      ],
+      "setting": "A town buried in snow and narrow passages beneath it.",
+      "theme": "Different strengths become powerful through cooperation and friendship.",
+      "mainEvents": [
+        "Strong, famous Tim and smart, jealous Jack compete for recognition.",
+        "A snowstorm traps the town without food.",
+        "Jack finds passages; Tim breaks ice blocks until exhausted.",
+        "Jack retrieves food and guides Tim home, teaching both men friendship."
+      ],
+      "generatedStory": "4000-essential-english-words-book-1/24-a-strong-friendship.json",
+      "generatedSha256": "d7f2b911834d279fac281429e591da949291c47aefc66654d7fca494d8909110",
+      "illustration": "4000-essential-english-words-book-1/assets/24-a-strong-friendship.jpg"
+    },
+    {
+      "order": 25,
+      "title": "Joe’s Pond",
+      "sourceDocument": "OEBPS/Text/Unit_25.xhtml",
+      "sourceSha256": "1b7756456a5316aaccdd227aa558f42f32fe5d7e36e8fb1e8d97e1083a202abf",
+      "sourceParagraphCount": 6,
+      "sourceWordCount": 314,
+      "characters": [
+        "Joe",
+        "Joe's grandfather",
+        "family members",
+        "friends and volunteers"
+      ],
+      "setting": "A school, a public park, and a trash-filled pond.",
+      "theme": "Persistent community action can repair a damaged environment.",
+      "mainEvents": [
+        "A school video shows factory trash making river communities sick.",
+        "Joe recognizes similar pollution in a park pond.",
+        "His grandfather encourages him to continue the family's tradition of helping people.",
+        "Joe organizes six weeks of cleanup until the pond is free of trash and safe for swimming."
+      ],
+      "generatedStory": "4000-essential-english-words-book-1/25-joes-pond.json",
+      "generatedSha256": "620daf3e08d42cf57a18194de39fd0784dfcd9142cfabe5777fa9dee112a44d2",
+      "illustration": "4000-essential-english-words-book-1/assets/25-joes-pond.jpg"
+    },
+    {
+      "order": 26,
+      "title": "Archie and His Donkey",
+      "sourceDocument": "OEBPS/Text/Unit_26.xhtml",
+      "sourceSha256": "f841864f745f74ace9331a6ec32ee6e486680efd0898f774abd4f2822ab9e1dd",
+      "sourceParagraphCount": 16,
+      "sourceWordCount": 297,
+      "characters": [
+        "Archie",
+        "his son Tom",
+        "a woman",
+        "a farmer",
+        "teenage boys",
+        "the donkey"
+      ],
+      "setting": "A long road to town and the town entrance.",
+      "theme": "Trying to please everyone can destroy one's own judgment and goal.",
+      "mainEvents": [
+        "Archie and Tom take a donkey to town to sell it.",
+        "A woman says Archie should ride; a farmer later advises that neither should ride and that they should carry it.",
+        "They arrive late while carrying the heavy donkey.",
+        "Teenagers mock and stone them; the donkey escapes, leaving Archie with nothing."
+      ],
+      "generatedStory": "4000-essential-english-words-book-1/26-archie-and-his-donkey.json",
+      "generatedSha256": "b41ec43b9f8d640e7233d2b05b425de783446344d04c73806ccc5a90be50c986",
+      "illustration": "4000-essential-english-words-book-1/assets/26-archie-and-his-donkey.jpg"
+    },
+    {
+      "order": 27,
+      "title": "The Spider and the Bird",
+      "sourceDocument": "OEBPS/Text/Unit_27.xhtml",
+      "sourceSha256": "78c65259df160410d63605e429fac49f9a6bf362766f41bc843bf4b54e11223b",
+      "sourceParagraphCount": 10,
+      "sourceWordCount": 312,
+      "characters": [
+        "the large spider",
+        "the small bird"
+      ],
+      "setting": "A forest web and a flight over the surrounding landscape.",
+      "theme": "A fair bargain and shared experience can turn fear into friendship.",
+      "mainEvents": [
+        "A spider tests trapped insects with puzzles before deciding whether to eat them.",
+        "A bird becomes trapped and bargains for a chance to answer.",
+        "She answers 'the sky' to a riddle whose answer is Hawaii and must provide valuable food.",
+        "The bird carries the spider on a bug-finding tour, and they become friends."
+      ],
+      "generatedStory": "4000-essential-english-words-book-1/27-the-spider-and-the-bird.json",
+      "generatedSha256": "7d9796828068df219fcb6afe67d6f05f5eed2b2b5c3e25acce6be081bec16a8c",
+      "illustration": "4000-essential-english-words-book-1/assets/27-the-spider-and-the-bird.png"
+    },
+    {
+      "order": 28,
+      "title": "The Party",
+      "sourceDocument": "OEBPS/Text/Unit_28.xhtml",
+      "sourceSha256": "e762a7420fd9fe4472af485689a5682b45bea30103f40299b8ec03f61ef12d5d",
+      "sourceParagraphCount": 11,
+      "sourceWordCount": 325,
+      "characters": [
+        "Cody",
+        "Cody's father",
+        "Cody's grandparents",
+        "the band"
+      ],
+      "setting": "Cody's new house and garage during a snowstorm.",
+      "theme": "The presence of loved ones matters more than elaborate entertainment.",
+      "mainEvents": [
+        "Cody plans a birthday party with a band at his new home.",
+        "Heavy snow forces the stage indoors, then keeps the band and other performers away.",
+        "The party is canceled, and Cody misses his old home and grandparents.",
+        "His grandparents arrive despite the delay, and their visit makes the birthday special."
+      ],
+      "generatedStory": "4000-essential-english-words-book-1/28-the-party.json",
+      "generatedSha256": "951edb926cf5c3125b1d5e5c75831dee98e2f83aaad4552cc75df6f8179f4f2e",
+      "illustration": "4000-essential-english-words-book-1/assets/28-the-party.jpg"
+    },
+    {
+      "order": 29,
+      "title": "How the World Got Light",
+      "sourceDocument": "OEBPS/Text/Unit_29.xhtml",
+      "sourceSha256": "4cce55ee826e3fc2ca0dc5cac533e8993e093a0cfbc57a5daeb844191c18c76c",
+      "sourceParagraphCount": 7,
+      "sourceWordCount": 300,
+      "characters": [
+        "the pig president",
+        "Raven",
+        "the animals of Darkland"
+      ],
+      "setting": "Darkland, the president's house, and the sky.",
+      "theme": "Clever resistance can free a resource hoarded by an unjust ruler.",
+      "mainEvents": [
+        "The pig president keeps all light and the sun inside a bag.",
+        "The animals hold a contest and choose Raven as the smartest.",
+        "Raven imitates a crying baby so the president opens his door.",
+        "Raven steals the bag, releases the sun into the sky, and gives everyone light."
+      ],
+      "generatedStory": "4000-essential-english-words-book-1/29-how-the-world-got-light.json",
+      "generatedSha256": "66cc942e57fc2ace53ea00f0a1af4d6fe75b5479579b89c1a979a48f9141ef3f",
+      "illustration": "4000-essential-english-words-book-1/assets/29-how-the-world-got-light.jpg"
+    },
+    {
+      "order": 30,
+      "title": "Cats and Secrets",
+      "sourceDocument": "OEBPS/Text/Unit_30.xhtml",
+      "sourceSha256": "5243c29a1d2439dd1e1d23a46fbca74bebd6aa89753672cc70f7e735379e3f44",
+      "sourceParagraphCount": 11,
+      "sourceWordCount": 314,
+      "characters": [
+        "Beth",
+        "the dishonest seller",
+        "Beth's friends",
+        "a judge",
+        "the cats"
+      ],
+      "setting": "A market area in an old section of England and a judge's court.",
+      "theme": "Evidence exposes deception, and a revealed secret cannot be hidden again.",
+      "mainEvents": [
+        "A dishonest seller offers Beth a cheap baby pig.",
+        "He gives her a closed bag containing a cat instead.",
+        "When he returns, Beth and her friends take the case to a judge.",
+        "Beth opens the seller's bag, releases another cat as evidence, and exposes his secret."
+      ],
+      "generatedStory": "4000-essential-english-words-book-1/30-cats-and-secrets.json",
+      "generatedSha256": "6dd7e25fce9d15dd980939aa73266ba1d305a7c700d690ce4b0f3c13f21f0010",
+      "illustration": "4000-essential-english-words-book-1/assets/30-cats-and-secrets.jpg"
     }
-  ]
+  ],
+  "assets": {
+    "availableIllustrations": 30,
+    "extracted": 30,
+    "skippedUnrelated": [
+      "OEBPS/Images/cover.jpg"
+    ],
+    "items": [
+      {
+        "storyOrder": 1,
+        "sourcePath": "OEBPS/Images/1.jpg",
+        "path": "4000-essential-english-words-book-1/assets/01-the-lion-and-the-rabbit.jpg",
+        "mediaType": "image/jpeg",
+        "width": 699,
+        "height": 419,
+        "bytes": 75334,
+        "sha256": "1b0ebca1860b5a677f2b0f0284ed6b2bbbb27e7f2a3749c2060d28f5a068ed64",
+        "optimization": "source bytes preserved; EPUB asset was already compressed"
+      },
+      {
+        "storyOrder": 2,
+        "sourcePath": "OEBPS/Images/2.jpg",
+        "path": "4000-essential-english-words-book-1/assets/02-the-laboratory.jpg",
+        "mediaType": "image/jpeg",
+        "width": 693,
+        "height": 295,
+        "bytes": 45766,
+        "sha256": "a0c59dc01375cc206924903af7694c1bc6043f99328b8e27aebd9458b0c995d7",
+        "optimization": "source bytes preserved; EPUB asset was already compressed"
+      },
+      {
+        "storyOrder": 3,
+        "sourcePath": "OEBPS/Images/3.jpg",
+        "path": "4000-essential-english-words-book-1/assets/03-the-report.jpg",
+        "mediaType": "image/jpeg",
+        "width": 476,
+        "height": 336,
+        "bytes": 68690,
+        "sha256": "896760effc86578d995779f19048c598a703d4e75f6f09211381fafb0a47db31",
+        "optimization": "source bytes preserved; EPUB asset was already compressed"
+      },
+      {
+        "storyOrder": 4,
+        "sourcePath": "OEBPS/Images/4.jpg",
+        "path": "4000-essential-english-words-book-1/assets/04-the-dogs-bell.jpg",
+        "mediaType": "image/jpeg",
+        "width": 643,
+        "height": 267,
+        "bytes": 57270,
+        "sha256": "7b1cd73524f82f89c7175b3b38fa66e30dbae97b25d7462b34fb8071cdde7732",
+        "optimization": "source bytes preserved; EPUB asset was already compressed"
+      },
+      {
+        "storyOrder": 5,
+        "sourcePath": "OEBPS/Images/5.jpg",
+        "path": "4000-essential-english-words-book-1/assets/05-the-jackal-and-the-sun-child.jpg",
+        "mediaType": "image/jpeg",
+        "width": 401,
+        "height": 487,
+        "bytes": 56209,
+        "sha256": "2920757d6a45ea193a2d68f4b7f8f4738c879306daa0f644902364f77cead52a",
+        "optimization": "source bytes preserved; EPUB asset was already compressed"
+      },
+      {
+        "storyOrder": 6,
+        "sourcePath": "OEBPS/Images/6.jpg",
+        "path": "4000-essential-english-words-book-1/assets/06-the-friendly-ghost.jpg",
+        "mediaType": "image/jpeg",
+        "width": 658,
+        "height": 453,
+        "bytes": 64696,
+        "sha256": "16af2ab21de31739e2a4bfa579608ab8eb40fb4b5e275f31edeff45aba022260",
+        "optimization": "source bytes preserved; EPUB asset was already compressed"
+      },
+      {
+        "storyOrder": 7,
+        "sourcePath": "OEBPS/Images/7.jpg",
+        "path": "4000-essential-english-words-book-1/assets/07-the-best-prince.jpg",
+        "mediaType": "image/jpeg",
+        "width": 392,
+        "height": 239,
+        "bytes": 34034,
+        "sha256": "72bb9a16378d76d29533a1beb3427148b571b6be860e6c933b93988b9480c5f0",
+        "optimization": "source bytes preserved; EPUB asset was already compressed"
+      },
+      {
+        "storyOrder": 8,
+        "sourcePath": "OEBPS/Images/8.jpg",
+        "path": "4000-essential-english-words-book-1/assets/08-how-the-sun-and-the-moon-were-made.jpg",
+        "mediaType": "image/jpeg",
+        "width": 717,
+        "height": 425,
+        "bytes": 95720,
+        "sha256": "ebc0dc6a5694d4bcfa3a5e0f702550d56703f02b474ddefd9cde2f1da82093cc",
+        "optimization": "source bytes preserved; EPUB asset was already compressed"
+      },
+      {
+        "storyOrder": 9,
+        "sourcePath": "OEBPS/Images/9.jpg",
+        "path": "4000-essential-english-words-book-1/assets/09-the-starfish.jpg",
+        "mediaType": "image/jpeg",
+        "width": 431,
+        "height": 425,
+        "bytes": 27646,
+        "sha256": "83f19a769d2065274275f61bafdb1cb511cad629243678021c62569748773a41",
+        "optimization": "source bytes preserved; EPUB asset was already compressed"
+      },
+      {
+        "storyOrder": 10,
+        "sourcePath": "OEBPS/Images/10.jpg",
+        "path": "4000-essential-english-words-book-1/assets/10-the-first-peacock.jpg",
+        "mediaType": "image/jpeg",
+        "width": 584,
+        "height": 574,
+        "bytes": 112709,
+        "sha256": "00497cb2eb88006236ee8b370053e54fdd5cf6884074130a5e8196a0f2a225b1",
+        "optimization": "source bytes preserved; EPUB asset was already compressed"
+      },
+      {
+        "storyOrder": 11,
+        "sourcePath": "OEBPS/Images/11.jpg",
+        "path": "4000-essential-english-words-book-1/assets/11-princess-rose-and-the-creature.jpg",
+        "mediaType": "image/jpeg",
+        "width": 797,
+        "height": 536,
+        "bytes": 69512,
+        "sha256": "048e925b6ccae73b64d10a4e61462fe44765b768342a7dff292e23f592b6423c",
+        "optimization": "source bytes preserved; EPUB asset was already compressed"
+      },
+      {
+        "storyOrder": 12,
+        "sourcePath": "OEBPS/Images/12.jpg",
+        "path": "4000-essential-english-words-book-1/assets/12-the-crazy-artist.jpg",
+        "mediaType": "image/jpeg",
+        "width": 380,
+        "height": 384,
+        "bytes": 40311,
+        "sha256": "264a0c9dfa0ac8cb224387b553aaba8f004c5820688f59118aa7d79e532543f5",
+        "optimization": "source bytes preserved; EPUB asset was already compressed"
+      },
+      {
+        "storyOrder": 13,
+        "sourcePath": "OEBPS/Images/13.jpg",
+        "path": "4000-essential-english-words-book-1/assets/13-the-farmer-and-the-cats.jpg",
+        "mediaType": "image/jpeg",
+        "width": 410,
+        "height": 230,
+        "bytes": 36159,
+        "sha256": "8891e4215bacfbdfca88b7196f132aaa91f183144284648c40eb46afe42063ce",
+        "optimization": "source bytes preserved; EPUB asset was already compressed"
+      },
+      {
+        "storyOrder": 14,
+        "sourcePath": "OEBPS/Images/14.jpg",
+        "path": "4000-essential-english-words-book-1/assets/14-a-magical-book.jpg",
+        "mediaType": "image/jpeg",
+        "width": 899,
+        "height": 507,
+        "bytes": 102786,
+        "sha256": "bccaed2aebc4ebdccd13f8c353d712198e01ed3a7919130af268ac00f9f91919",
+        "optimization": "source bytes preserved; EPUB asset was already compressed"
+      },
+      {
+        "storyOrder": 15,
+        "sourcePath": "OEBPS/Images/15.jpg",
+        "path": "4000-essential-english-words-book-1/assets/15-the-big-race.jpg",
+        "mediaType": "image/jpeg",
+        "width": 455,
+        "height": 275,
+        "bytes": 45101,
+        "sha256": "75b222f54be9bd41b3f84161a80084667493ca18b0b7e29fc7c82ef394cd2217",
+        "optimization": "source bytes preserved; EPUB asset was already compressed"
+      },
+      {
+        "storyOrder": 16,
+        "sourcePath": "OEBPS/Images/16.jpg",
+        "path": "4000-essential-english-words-book-1/assets/16-adams-countys-gold.jpg",
+        "mediaType": "image/jpeg",
+        "width": 641,
+        "height": 386,
+        "bytes": 73619,
+        "sha256": "b206010c5617511c0a1e81a663417490222d0787a92677872295bc76cce72933",
+        "optimization": "source bytes preserved; EPUB asset was already compressed"
+      },
+      {
+        "storyOrder": 17,
+        "sourcePath": "OEBPS/Images/17.jpg",
+        "path": "4000-essential-english-words-book-1/assets/17-the-race-for-water.jpg",
+        "mediaType": "image/jpeg",
+        "width": 710,
+        "height": 330,
+        "bytes": 76271,
+        "sha256": "01651bbc139196af7e81399cee507b08a4a1df9b4bbea6f223385d965fdcc2dc",
+        "optimization": "source bytes preserved; EPUB asset was already compressed"
+      },
+      {
+        "storyOrder": 18,
+        "sourcePath": "OEBPS/Images/18.jpg",
+        "path": "4000-essential-english-words-book-1/assets/18-the-little-red-chicken.png",
+        "mediaType": "image/png",
+        "width": 633,
+        "height": 261,
+        "bytes": 402885,
+        "sha256": "9c3d05681f8deab482f2cc840670b7446a8d6da763c444406f4325fe5a42927b",
+        "optimization": "source bytes preserved; EPUB asset was already compressed"
+      },
+      {
+        "storyOrder": 19,
+        "sourcePath": "OEBPS/Images/19.jpg",
+        "path": "4000-essential-english-words-book-1/assets/19-shipwrecked.jpg",
+        "mediaType": "image/jpeg",
+        "width": 600,
+        "height": 476,
+        "bytes": 81476,
+        "sha256": "58c1d7e8869fd011936926c4797b0ec25a7ea41394a3b786a26a72a177f6b5a6",
+        "optimization": "source bytes preserved; EPUB asset was already compressed"
+      },
+      {
+        "storyOrder": 20,
+        "sourcePath": "OEBPS/Images/20.jpg",
+        "path": "4000-essential-english-words-book-1/assets/20-the-seven-cities-of-gold.jpg",
+        "mediaType": "image/jpeg",
+        "width": 499,
+        "height": 281,
+        "bytes": 47449,
+        "sha256": "ccf406bef348ec2c31cc5924f8c6a4eb059740a8d50162de0507922453db73b8",
+        "optimization": "source bytes preserved; EPUB asset was already compressed"
+      },
+      {
+        "storyOrder": 21,
+        "sourcePath": "OEBPS/Images/21.jpg",
+        "path": "4000-essential-english-words-book-1/assets/21-katy.png",
+        "mediaType": "image/png",
+        "width": 629,
+        "height": 498,
+        "bytes": 75868,
+        "sha256": "8190753e07c7820e00238c3c93bd42001505ffc786be1c6873e7e037f14785f1",
+        "optimization": "source bytes preserved; EPUB asset was already compressed"
+      },
+      {
+        "storyOrder": 22,
+        "sourcePath": "OEBPS/Images/22.jpg",
+        "path": "4000-essential-english-words-book-1/assets/22-a-better-reward.jpg",
+        "mediaType": "image/jpeg",
+        "width": 662,
+        "height": 467,
+        "bytes": 48795,
+        "sha256": "4bedbf087599b48e81c8e07b7aa17afe2755e832a11eac10e09f717d61e28275",
+        "optimization": "source bytes preserved; EPUB asset was already compressed"
+      },
+      {
+        "storyOrder": 23,
+        "sourcePath": "OEBPS/Images/23.jpg",
+        "path": "4000-essential-english-words-book-1/assets/23-the-camp.png",
+        "mediaType": "image/png",
+        "width": 495,
+        "height": 359,
+        "bytes": 180257,
+        "sha256": "4815df8e97824b31587e5fceeb00e11fceb1c679b30bd63ecc9bcd5860d782a0",
+        "optimization": "source bytes preserved; EPUB asset was already compressed"
+      },
+      {
+        "storyOrder": 24,
+        "sourcePath": "OEBPS/Images/24.jpg",
+        "path": "4000-essential-english-words-book-1/assets/24-a-strong-friendship.jpg",
+        "mediaType": "image/jpeg",
+        "width": 363,
+        "height": 604,
+        "bytes": 54267,
+        "sha256": "5c9f4db2eb87bc68b1944e7be98468c8319aa9474caaf3bc96540fcb77fcd100",
+        "optimization": "source bytes preserved; EPUB asset was already compressed"
+      },
+      {
+        "storyOrder": 25,
+        "sourcePath": "OEBPS/Images/25.jpg",
+        "path": "4000-essential-english-words-book-1/assets/25-joes-pond.jpg",
+        "mediaType": "image/jpeg",
+        "width": 464,
+        "height": 358,
+        "bytes": 44323,
+        "sha256": "ae4ce2bd14c844282478959189747c43ed101861026a790f86a5e7b07ad5b8a9",
+        "optimization": "source bytes preserved; EPUB asset was already compressed"
+      },
+      {
+        "storyOrder": 26,
+        "sourcePath": "OEBPS/Images/26.jpg",
+        "path": "4000-essential-english-words-book-1/assets/26-archie-and-his-donkey.jpg",
+        "mediaType": "image/jpeg",
+        "width": 650,
+        "height": 299,
+        "bytes": 30608,
+        "sha256": "adb838e9444026364af89c567550cda6577f5c4d99e69420e182f05cc8f1d53f",
+        "optimization": "source bytes preserved; EPUB asset was already compressed"
+      },
+      {
+        "storyOrder": 27,
+        "sourcePath": "OEBPS/Images/27.jpg",
+        "path": "4000-essential-english-words-book-1/assets/27-the-spider-and-the-bird.png",
+        "mediaType": "image/png",
+        "width": 500,
+        "height": 500,
+        "bytes": 218826,
+        "sha256": "c7a03fb91a62f374090ed984fc1608acaf8da2c5a11bd7936a8759bd32440d9c",
+        "optimization": "source bytes preserved; EPUB asset was already compressed"
+      },
+      {
+        "storyOrder": 28,
+        "sourcePath": "OEBPS/Images/28.jpg",
+        "path": "4000-essential-english-words-book-1/assets/28-the-party.jpg",
+        "mediaType": "image/jpeg",
+        "width": 380,
+        "height": 209,
+        "bytes": 45448,
+        "sha256": "7abc65eada41f9219bd5d23446a5a539046fa2eabb9fa1ab426929d5e694165f",
+        "optimization": "source bytes preserved; EPUB asset was already compressed"
+      },
+      {
+        "storyOrder": 29,
+        "sourcePath": "OEBPS/Images/29.jpg",
+        "path": "4000-essential-english-words-book-1/assets/29-how-the-world-got-light.jpg",
+        "mediaType": "image/jpeg",
+        "width": 500,
+        "height": 357,
+        "bytes": 30761,
+        "sha256": "ba2eb23ddae671b585828ae5f3d2faff865f2bd5ce15816da9d384b4b35cab59",
+        "optimization": "source bytes preserved; EPUB asset was already compressed"
+      },
+      {
+        "storyOrder": 30,
+        "sourcePath": "OEBPS/Images/30.jpg",
+        "path": "4000-essential-english-words-book-1/assets/30-cats-and-secrets.jpg",
+        "mediaType": "image/jpeg",
+        "width": 690,
+        "height": 404,
+        "bytes": 80888,
+        "sha256": "76cba2f0d67cc57013fa351dd3c2cc30408e7b7235629321f5692a4f52e65b20",
+        "optimization": "source bytes preserved; EPUB asset was already compressed"
+      }
+    ]
+  },
+  "copyrightTreatment": "Each entry is a concise original bilingual retelling and does not reproduce or translate the complete source story text."
 }

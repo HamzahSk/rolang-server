@@ -1,0 +1,370 @@
+{
+  "schemaVersion": 1,
+  "id": "book1-story-13-the-farmer-and-the-cats",
+  "collectionId": "4000-essential-english-words-book-1",
+  "sourceOrder": 13,
+  "family": "4000-essential-english-words-book-1",
+  "category": "Kerja keras dan rasa syukur",
+  "level": "BEGINNER",
+  "order": 13,
+  "kind": "STORY",
+  "image": "assets/13-the-farmer-and-the-cats.jpg",
+  "title": {
+    "id": "The Farmer and the Cats",
+    "fil": "The Farmer and the Cats"
+  },
+  "originalTitle": "The Farmer and the Cats",
+  "summary": {
+    "id": "Arthur dan Maria yang terancam utang mendapat bantuan rahasia dari kucing-kucing mereka untuk menyelesaikan panen dan membayar tuan tanah.",
+    "fil": "Lihim na tinulungan ng mga pusa sina Arthur at Maria na matapos ang ani at mabayaran ang panginoong maylupa."
+  },
+  "objectives": [
+    {
+      "id": "Menelusuri sebab dan akibat dalam “The Farmer and the Cats”.",
+      "fil": "Sundan ang sanhi at bunga sa “The Farmer and the Cats”."
+    },
+    {
+      "id": "Menjelaskan tema bantuan tak terduga dan rasa syukur melalui keputusan para tokoh.",
+      "fil": "Ipaliwanag ang temang di-inaasahang tulong at pasasalamat sa pamamagitan ng mga pasiya ng mga tauhan."
+    }
+  ],
+  "sentences": [
+    {
+      "id": "Arthur dan Maria adalah petani miskin yang berutang kepada tuan tanah.",
+      "fil": "Mahihirap na magsasaka sina Arthur at Maria na may utang sa panginoong maylupa."
+    },
+    {
+      "id": "Setelah bangunan pertanian terbakar dan hampir semua hewan pergi, hanya kucing-kucing mereka yang tetap tinggal.",
+      "fil": "Nang masunog ang gusali sa bukid at magsialis ang halos lahat ng hayop, ang mga pusa lamang ang nanatili."
+    },
+    {
+      "id": "Tuan tanah mengancam akan menambah utang dan memenjarakan Arthur jika panen tidak segera dibayar.",
+      "fil": "Nagbanta ang panginoong maylupa na daragdagan ang utang at ipakukulong si Arthur kung hindi sila makababayad matapos ang ani."
+    },
+    {
+      "id": "Pasangan itu bekerja keras di ladang, tetapi setiap pagi mereka menemukan dua kali lebih banyak baris tanaman yang telah selesai.",
+      "fil": "Nagsikap ang mag-asawa sa bukirin, ngunit tuwing umaga ay doble ang hanay ng pananim na natatapos."
+    },
+    {
+      "id": "Dalam seminggu seluruh panen selesai; kemudian hasil panen menghilang dan sebuah kantong uang muncul di tengah ladang.",
+      "fil": "Sa loob ng isang linggo ay natapos ang buong ani; pagkaraan, nawala ang mga pananim at may lumitaw na supot ng salapi sa gitna ng bukid."
+    },
+    {
+      "id": "Arthur dan Maria mengintip lewat lubang dan melihat kucing-kucing mereka menari serta memakan jagung setelah bekerja diam-diam.",
+      "fil": "Sumilip sina Arthur at Maria sa isang butas at nakita ang mga pusang sumasayaw at kumakain ng mais matapos tumulong nang palihim."
+    },
+    {
+      "id": "Mereka menyadari siapa penolongnya, lalu berterima kasih dan merawat kucing-kucing itu dengan lebih baik.",
+      "fil": "Nalaman nilang ang mga pusa ang tumulong, kaya nagpasalamat sila at higit na inalagaan ang mga ito."
+    }
+  ],
+  "sentenceCount": 7,
+  "speakers": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  "notes": [
+    {
+      "title": {
+        "id": "Ungkapan berguna",
+        "fil": "Mga kapaki-pakinabang na pahayag"
+      },
+      "text": {
+        "id": "“tuwing umaga” — setiap pagi; “tumulong nang palihim” — membantu secara diam-diam",
+        "fil": "“tuwing umaga” — ang katumbas sa Indonesian ay “setiap pagi”; “tumulong nang palihim” — ang katumbas sa Indonesian ay “membantu secara diam-diam”"
+      }
+    },
+    {
+      "title": {
+        "id": "Catatan tata bahasa",
+        "fil": "Tala sa gramatika"
+      },
+      "text": {
+        "id": "Tuwing + waktu menyatakan kejadian yang berulang. Nang pada tumulong nang palihim menghubungkan verba dengan cara tindakan dilakukan.",
+        "fil": "Tinutukoy ng tuwing + oras ang paulit-ulit na pangyayari. Iniuugnay ng nang sa tumulong nang palihim ang pandiwa at ang paraan ng kilos."
+      }
+    }
+  ],
+  "focus": {
+    "id": [
+      "petani",
+      "utang",
+      "terbakar",
+      "panen",
+      "ladang",
+      "kantong",
+      "diam-diam",
+      "berterima kasih"
+    ],
+    "fil": [
+      "magsasaka",
+      "utang",
+      "masunog",
+      "ani",
+      "bukirin",
+      "supot",
+      "palihim",
+      "nagpasalamat"
+    ]
+  },
+  "questions": [
+    {
+      "id": "book1-story-13-the-farmer-and-the-cats-q1",
+      "type": "MULTIPLE_CHOICE",
+      "prompt": {
+        "id": "Mengapa Arthur dan Maria harus memanen tanpa bantuan hewan besar?",
+        "fil": "Bakit kinailangang mag-ani nina Arthur at Maria nang walang malalaking hayop?"
+      },
+      "choices": {
+        "id": [
+          "Hewan-hewan pergi setelah kebakaran",
+          "Mereka menjual semua hewan",
+          "Tuan tanah mengambilnya"
+        ],
+        "fil": [
+          "Nagsialis ang mga hayop matapos ang sunog",
+          "Ipinagbili nila ang lahat ng hayop",
+          "Kinuha iyon ng panginoong maylupa"
+        ]
+      },
+      "speech": {
+        "fil": "Bakit kinailangang mag-ani nina Arthur at Maria nang walang malalaking hayop?"
+      }
+    },
+    {
+      "id": "book1-story-13-the-farmer-and-the-cats-q2",
+      "type": "MULTIPLE_CHOICE",
+      "prompt": {
+        "id": "Siapa yang menyelesaikan pekerjaan pada malam hari?",
+        "fil": "Sino ang nagtapos ng gawain sa gabi?"
+      },
+      "choices": {
+        "id": [
+          "Tuan tanah",
+          "Kucing-kucing",
+          "Tetangga"
+        ],
+        "fil": [
+          "Ang panginoong maylupa",
+          "Ang mga pusa",
+          "Ang mga kapitbahay"
+        ]
+      },
+      "speech": {
+        "fil": "Sino ang nagtapos ng gawain sa gabi?"
+      }
+    },
+    {
+      "id": "book1-story-13-the-farmer-and-the-cats-q3",
+      "type": "MULTIPLE_CHOICE",
+      "prompt": {
+        "id": "Apa yang muncul setelah hasil panen menghilang?",
+        "fil": "Ano ang lumitaw matapos mawala ang ani?"
+      },
+      "choices": {
+        "id": [
+          "Kereta baru",
+          "Surat dari raja",
+          "Kantong berisi uang"
+        ],
+        "fil": [
+          "Bagong kariton",
+          "Liham mula sa hari",
+          "Supot na may salapi"
+        ]
+      },
+      "speech": {
+        "fil": "Ano ang lumitaw matapos mawala ang ani?"
+      }
+    }
+  ],
+  "answers": [
+    {
+      "questionId": "book1-story-13-the-farmer-and-the-cats-q1",
+      "answer": {
+        "id": "Hewan-hewan pergi setelah kebakaran",
+        "fil": "Nagsialis ang mga hayop matapos ang sunog"
+      },
+      "explanation": {
+        "id": "Kebakaran membuat sebagian besar hewan meninggalkan pertanian; hanya kucing yang tinggal.",
+        "fil": "Dahil sa sunog, umalis ang karamihan ng hayop at mga pusa lamang ang naiwan."
+      }
+    },
+    {
+      "questionId": "book1-story-13-the-farmer-and-the-cats-q2",
+      "answer": {
+        "id": "Kucing-kucing",
+        "fil": "Ang mga pusa"
+      },
+      "explanation": {
+        "id": "Arthur dan Maria melihat sendiri kucing-kucing berada di ladang setelah pekerjaan selesai.",
+        "fil": "Nakita nina Arthur at Maria ang mga pusa sa bukid matapos matapos ang gawain."
+      }
+    },
+    {
+      "questionId": "book1-story-13-the-farmer-and-the-cats-q3",
+      "answer": {
+        "id": "Kantong berisi uang",
+        "fil": "Supot na may salapi"
+      },
+      "explanation": {
+        "id": "Uang itu memungkinkan pasangan tersebut membayar utang kepada tuan tanah.",
+        "fil": "Dahil sa salapi, nabayaran ng mag-asawa ang kanilang utang."
+      }
+    }
+  ],
+  "vocabulary": [
+    {
+      "language": "fil",
+      "word": "magsasaka",
+      "translations": {
+        "id": "petani",
+        "fil": "magsasaka"
+      },
+      "meanings": {
+        "id": "petani",
+        "fil": "Ang katumbas nito sa Indonesian ay “petani”."
+      },
+      "pos": "pangngalan",
+      "pronunciation": "magsasaka",
+      "notes": {
+        "id": "Kata ini muncul pada paragraf 1 dalam konteks cerita.",
+        "fil": "Makikita ang salitang ito sa talata 1 ng muling pagsasalaysay."
+      }
+    },
+    {
+      "language": "fil",
+      "word": "utang",
+      "translations": {
+        "id": "utang",
+        "fil": "utang"
+      },
+      "meanings": {
+        "id": "utang",
+        "fil": "Ang katumbas nito sa Indonesian ay “utang”."
+      },
+      "pos": "pangngalan",
+      "pronunciation": "utang",
+      "notes": {
+        "id": "Kata ini muncul pada paragraf 1 dalam konteks cerita.",
+        "fil": "Makikita ang salitang ito sa talata 1 ng muling pagsasalaysay."
+      }
+    },
+    {
+      "language": "fil",
+      "word": "masunog",
+      "translations": {
+        "id": "terbakar",
+        "fil": "masunog"
+      },
+      "meanings": {
+        "id": "terbakar",
+        "fil": "Ang katumbas nito sa Indonesian ay “terbakar”."
+      },
+      "pos": "pandiwa",
+      "pronunciation": "masunog",
+      "notes": {
+        "id": "Kata ini muncul pada paragraf 2 dalam konteks cerita.",
+        "fil": "Makikita ang salitang ito sa talata 2 ng muling pagsasalaysay."
+      }
+    },
+    {
+      "language": "fil",
+      "word": "ani",
+      "translations": {
+        "id": "panen",
+        "fil": "ani"
+      },
+      "meanings": {
+        "id": "panen",
+        "fil": "Ang katumbas nito sa Indonesian ay “panen”."
+      },
+      "pos": "pangngalan",
+      "pronunciation": "ani",
+      "notes": {
+        "id": "Kata ini muncul pada paragraf 3 dalam konteks cerita.",
+        "fil": "Makikita ang salitang ito sa talata 3 ng muling pagsasalaysay."
+      }
+    },
+    {
+      "language": "fil",
+      "word": "bukirin",
+      "translations": {
+        "id": "ladang",
+        "fil": "bukirin"
+      },
+      "meanings": {
+        "id": "ladang",
+        "fil": "Ang katumbas nito sa Indonesian ay “ladang”."
+      },
+      "pos": "pangngalan",
+      "pronunciation": "bukirin",
+      "notes": {
+        "id": "Kata ini muncul pada paragraf 4 dalam konteks cerita.",
+        "fil": "Makikita ang salitang ito sa talata 4 ng muling pagsasalaysay."
+      }
+    },
+    {
+      "language": "fil",
+      "word": "supot",
+      "translations": {
+        "id": "kantong",
+        "fil": "supot"
+      },
+      "meanings": {
+        "id": "kantong",
+        "fil": "Ang katumbas nito sa Indonesian ay “kantong”."
+      },
+      "pos": "pangngalan",
+      "pronunciation": "supot",
+      "notes": {
+        "id": "Kata ini muncul pada paragraf 5 dalam konteks cerita.",
+        "fil": "Makikita ang salitang ito sa talata 5 ng muling pagsasalaysay."
+      }
+    },
+    {
+      "language": "fil",
+      "word": "palihim",
+      "translations": {
+        "id": "diam-diam",
+        "fil": "palihim"
+      },
+      "meanings": {
+        "id": "diam-diam",
+        "fil": "Ang katumbas nito sa Indonesian ay “diam-diam”."
+      },
+      "pos": "pang-abay",
+      "pronunciation": "palihim",
+      "notes": {
+        "id": "Kata ini muncul pada paragraf 6 dalam konteks cerita.",
+        "fil": "Makikita ang salitang ito sa talata 6 ng muling pagsasalaysay."
+      }
+    },
+    {
+      "language": "fil",
+      "word": "nagpasalamat",
+      "translations": {
+        "id": "berterima kasih",
+        "fil": "nagpasalamat"
+      },
+      "meanings": {
+        "id": "berterima kasih",
+        "fil": "Ang katumbas nito sa Indonesian ay “berterima kasih”."
+      },
+      "pos": "pandiwa",
+      "pronunciation": "nagpasalamat",
+      "notes": {
+        "id": "Kata ini muncul pada paragraf 7 dalam konteks cerita.",
+        "fil": "Makikita ang salitang ito sa talata 7 ng muling pagsasalaysay."
+      }
+    }
+  ],
+  "assets": [
+    "assets/13-the-farmer-and-the-cats.jpg"
+  ]
+}

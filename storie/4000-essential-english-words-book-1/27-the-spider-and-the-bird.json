@@ -1,0 +1,370 @@
+{
+  "schemaVersion": 1,
+  "id": "book1-story-27-the-spider-and-the-bird",
+  "collectionId": "4000-essential-english-words-book-1",
+  "sourceOrder": 27,
+  "family": "4000-essential-english-words-book-1",
+  "category": "Fabel dan persahabatan",
+  "level": "BEGINNER",
+  "order": 27,
+  "kind": "STORY",
+  "image": "assets/27-the-spider-and-the-bird.png",
+  "title": {
+    "id": "The Spider and the Bird",
+    "fil": "The Spider and the Bird"
+  },
+  "originalTitle": "The Spider and the Bird",
+  "summary": {
+    "id": "Seekor burung yang terjebak gagal menjawab teka-teki laba-laba, tetapi perjalanan mencari makanan membuat keduanya menjadi sahabat.",
+    "fil": "Nabigo ang ibong nasilo na sagutin ang palaisipan ng gagamba, ngunit ang paglalakbay nila para humanap ng pagkain ang naging simula ng pagkakaibigan."
+  },
+  "objectives": [
+    {
+      "id": "Menelusuri sebab dan akibat dalam “The Spider and the Bird”.",
+      "fil": "Sundan ang sanhi at bunga sa “The Spider and the Bird”."
+    },
+    {
+      "id": "Menjelaskan tema kesepakatan yang menjadi persahabatan melalui keputusan para tokoh.",
+      "fil": "Ipaliwanag ang temang kasunduang nauwi sa pagkakaibigan sa pamamagitan ng mga pasiya ng mga tauhan."
+    }
+  ],
+  "sentences": [
+    {
+      "id": "Seekor laba-laba besar biasa memberi teka-teki sulit kepada serangga yang terperangkap di jaringnya.",
+      "fil": "Mahilig magbigay ng mahirap na palaisipan ang isang malaking gagamba sa mga insektong nasisilo sa kaniyang sapot."
+    },
+    {
+      "id": "Suatu hari seekor burung kecil tersangkut dan terlalu lelah untuk membebaskan diri.",
+      "fil": "Isang araw, nasilo ang isang maliit na ibon at naubusan ng lakas upang makawala."
+    },
+    {
+      "id": "Burung membuat kesepakatan: jika jawabannya benar ia bebas, tetapi jika salah ia akan memberi hadiah berharga.",
+      "fil": "Nakipagkasundo ang ibon: kung tama ang sagot ay palalayain siya, ngunit kung mali ay magbibigay siya ng mahalagang regalo."
+    },
+    {
+      "id": "Laba-laba bertanya tempat untuk melihat pantai, gurun, dan pegunungan sekaligus.",
+      "fil": "Itinanong ng gagamba kung saang lugar makikita nang sabay ang baybayin, disyerto, at kabundukan."
+    },
+    {
+      "id": "Burung menjawab langit, tetapi jawaban yang dimaksud laba-laba adalah Hawaii.",
+      "fil": "Sumagot ang ibon ng kalangitan, ngunit Hawaii ang tamang sagot ng gagamba."
+    },
+    {
+      "id": "Sebagai hadiah, burung membawa laba-laba terbang mengelilingi hutan dan mencari banyak serangga untuk dimakan.",
+      "fil": "Bilang regalo, isinakay ng ibon ang gagamba sa paglipad sa gubat at naghanap sila ng maraming insekto."
+    },
+    {
+      "id": "Setelah pulang, keduanya menjadi sahabat dan tidak pernah lagi mencoba saling memakan.",
+      "fil": "Pagkauwi, nabuo ang kanilang pagkakaibigan at hindi na nila muling sinubukang kainin ang isa't isa."
+    }
+  ],
+  "sentenceCount": 7,
+  "speakers": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  "notes": [
+    {
+      "title": {
+        "id": "Ungkapan berguna",
+        "fil": "Mga kapaki-pakinabang na pahayag"
+      },
+      "text": {
+        "id": "“kung tama ang sagot” — jika jawabannya benar; “hindi na nila muling sinubukan” — mereka tidak pernah mencoba lagi",
+        "fil": "“kung tama ang sagot” — ang katumbas sa Indonesian ay “jika jawabannya benar”; “hindi na nila muling sinubukan” — ang katumbas sa Indonesian ay “mereka tidak pernah mencoba lagi”"
+      }
+    },
+    {
+      "title": {
+        "id": "Catatan tata bahasa",
+        "fil": "Tala sa gramatika"
+      },
+      "text": {
+        "id": "Kung ... ngunit kung ... membandingkan dua akibat berdasarkan syarat yang berbeda. Isa't isa menyatakan tindakan timbal balik.",
+        "fil": "Inihahambing ng kung ... ngunit kung ... ang dalawang bunga ng magkaibang kondisyon. Ipinahahayag ng isa't isa ang kilos na pabalikan."
+      }
+    }
+  ],
+  "focus": {
+    "id": [
+      "teka-teki",
+      "laba-laba",
+      "jaring",
+      "terperangkap",
+      "burung",
+      "membuat kesepakatan",
+      "serangga",
+      "persahabatan"
+    ],
+    "fil": [
+      "palaisipan",
+      "gagamba",
+      "sapot",
+      "nasilo",
+      "ibon",
+      "nakipagkasundo",
+      "insekto",
+      "pagkakaibigan"
+    ]
+  },
+  "questions": [
+    {
+      "id": "book1-story-27-the-spider-and-the-bird-q1",
+      "type": "MULTIPLE_CHOICE",
+      "prompt": {
+        "id": "Apa jawaban teka-teki menurut laba-laba?",
+        "fil": "Ano ang sagot sa palaisipan ayon sa gagamba?"
+      },
+      "choices": {
+        "id": [
+          "Hawaii",
+          "Langit",
+          "Hutan"
+        ],
+        "fil": [
+          "Hawaii",
+          "Kalangitan",
+          "Gubat"
+        ]
+      },
+      "speech": {
+        "fil": "Ano ang sagot sa palaisipan ayon sa gagamba?"
+      }
+    },
+    {
+      "id": "book1-story-27-the-spider-and-the-bird-q2",
+      "type": "MULTIPLE_CHOICE",
+      "prompt": {
+        "id": "Apa yang diberikan burung setelah jawabannya salah?",
+        "fil": "Ano ang ibinigay ng ibon matapos magkamali?"
+      },
+      "choices": {
+        "id": [
+          "Sarang baru",
+          "Perjalanan terbang dan makanan serangga",
+          "Batu berharga"
+        ],
+        "fil": [
+          "Bagong pugad",
+          "Paglipad at pagkaing insekto",
+          "Mamahaling bato"
+        ]
+      },
+      "speech": {
+        "fil": "Ano ang ibinigay ng ibon matapos magkamali?"
+      }
+    },
+    {
+      "id": "book1-story-27-the-spider-and-the-bird-q3",
+      "type": "MULTIPLE_CHOICE",
+      "prompt": {
+        "id": "Bagaimana hubungan mereka berakhir?",
+        "fil": "Ano ang naging ugnayan nila sa huli?"
+      },
+      "choices": {
+        "id": [
+          "Mereka tetap bermusuhan",
+          "Burung memakan laba-laba",
+          "Mereka menjadi sahabat"
+        ],
+        "fil": [
+          "Nanatili silang magkaaway",
+          "Kinain ng ibon ang gagamba",
+          "Naging magkaibigan sila"
+        ]
+      },
+      "speech": {
+        "fil": "Ano ang naging ugnayan nila sa huli?"
+      }
+    }
+  ],
+  "answers": [
+    {
+      "questionId": "book1-story-27-the-spider-and-the-bird-q1",
+      "answer": {
+        "id": "Hawaii",
+        "fil": "Hawaii"
+      },
+      "explanation": {
+        "id": "Hawaii memiliki pantai, wilayah kering, dan pegunungan dalam satu tempat.",
+        "fil": "May baybayin, tuyong lugar, at kabundukan ang Hawaii sa iisang pook."
+      }
+    },
+    {
+      "questionId": "book1-story-27-the-spider-and-the-bird-q2",
+      "answer": {
+        "id": "Perjalanan terbang dan makanan serangga",
+        "fil": "Paglipad at pagkaing insekto"
+      },
+      "explanation": {
+        "id": "Burung membawa laba-laba berkeliling dan menemukan makanan yang diinginkannya.",
+        "fil": "Inilibot ng ibon ang gagamba at nakahanap sila ng pagkaing gusto nito."
+      }
+    },
+    {
+      "questionId": "book1-story-27-the-spider-and-the-bird-q3",
+      "answer": {
+        "id": "Mereka menjadi sahabat",
+        "fil": "Naging magkaibigan sila"
+      },
+      "explanation": {
+        "id": "Pengalaman bersama mengubah ancaman awal menjadi saling percaya.",
+        "fil": "Binago ng magkasamang karanasan ang unang banta tungo sa pagtitiwala."
+      }
+    }
+  ],
+  "vocabulary": [
+    {
+      "language": "fil",
+      "word": "palaisipan",
+      "translations": {
+        "id": "teka-teki",
+        "fil": "palaisipan"
+      },
+      "meanings": {
+        "id": "teka-teki",
+        "fil": "Ang katumbas nito sa Indonesian ay “teka-teki”."
+      },
+      "pos": "pangngalan",
+      "pronunciation": "palaisipan",
+      "notes": {
+        "id": "Kata ini muncul pada paragraf 1 dalam konteks cerita.",
+        "fil": "Makikita ang salitang ito sa talata 1 ng muling pagsasalaysay."
+      }
+    },
+    {
+      "language": "fil",
+      "word": "gagamba",
+      "translations": {
+        "id": "laba-laba",
+        "fil": "gagamba"
+      },
+      "meanings": {
+        "id": "laba-laba",
+        "fil": "Ang katumbas nito sa Indonesian ay “laba-laba”."
+      },
+      "pos": "pangngalan",
+      "pronunciation": "gagamba",
+      "notes": {
+        "id": "Kata ini muncul pada paragraf 1 dalam konteks cerita.",
+        "fil": "Makikita ang salitang ito sa talata 1 ng muling pagsasalaysay."
+      }
+    },
+    {
+      "language": "fil",
+      "word": "sapot",
+      "translations": {
+        "id": "jaring",
+        "fil": "sapot"
+      },
+      "meanings": {
+        "id": "jaring",
+        "fil": "Ang katumbas nito sa Indonesian ay “jaring”."
+      },
+      "pos": "pangngalan",
+      "pronunciation": "sapot",
+      "notes": {
+        "id": "Kata ini muncul pada paragraf 1 dalam konteks cerita.",
+        "fil": "Makikita ang salitang ito sa talata 1 ng muling pagsasalaysay."
+      }
+    },
+    {
+      "language": "fil",
+      "word": "nasilo",
+      "translations": {
+        "id": "terperangkap",
+        "fil": "nasilo"
+      },
+      "meanings": {
+        "id": "terperangkap",
+        "fil": "Ang katumbas nito sa Indonesian ay “terperangkap”."
+      },
+      "pos": "pandiwa",
+      "pronunciation": "nasilo",
+      "notes": {
+        "id": "Kata ini muncul pada paragraf 2 dalam konteks cerita.",
+        "fil": "Makikita ang salitang ito sa talata 2 ng muling pagsasalaysay."
+      }
+    },
+    {
+      "language": "fil",
+      "word": "ibon",
+      "translations": {
+        "id": "burung",
+        "fil": "ibon"
+      },
+      "meanings": {
+        "id": "burung",
+        "fil": "Ang katumbas nito sa Indonesian ay “burung”."
+      },
+      "pos": "pangngalan",
+      "pronunciation": "ibon",
+      "notes": {
+        "id": "Kata ini muncul pada paragraf 2 dalam konteks cerita.",
+        "fil": "Makikita ang salitang ito sa talata 2 ng muling pagsasalaysay."
+      }
+    },
+    {
+      "language": "fil",
+      "word": "nakipagkasundo",
+      "translations": {
+        "id": "membuat kesepakatan",
+        "fil": "nakipagkasundo"
+      },
+      "meanings": {
+        "id": "membuat kesepakatan",
+        "fil": "Ang katumbas nito sa Indonesian ay “membuat kesepakatan”."
+      },
+      "pos": "pandiwa",
+      "pronunciation": "nakipagkasundo",
+      "notes": {
+        "id": "Kata ini muncul pada paragraf 3 dalam konteks cerita.",
+        "fil": "Makikita ang salitang ito sa talata 3 ng muling pagsasalaysay."
+      }
+    },
+    {
+      "language": "fil",
+      "word": "insekto",
+      "translations": {
+        "id": "serangga",
+        "fil": "insekto"
+      },
+      "meanings": {
+        "id": "serangga",
+        "fil": "Ang katumbas nito sa Indonesian ay “serangga”."
+      },
+      "pos": "pangngalan",
+      "pronunciation": "insekto",
+      "notes": {
+        "id": "Kata ini muncul pada paragraf 1 dalam konteks cerita.",
+        "fil": "Makikita ang salitang ito sa talata 1 ng muling pagsasalaysay."
+      }
+    },
+    {
+      "language": "fil",
+      "word": "pagkakaibigan",
+      "translations": {
+        "id": "persahabatan",
+        "fil": "pagkakaibigan"
+      },
+      "meanings": {
+        "id": "persahabatan",
+        "fil": "Ang katumbas nito sa Indonesian ay “persahabatan”."
+      },
+      "pos": "pangngalan",
+      "pronunciation": "pagkakaibigan",
+      "notes": {
+        "id": "Kata ini muncul pada paragraf 7 dalam konteks cerita.",
+        "fil": "Makikita ang salitang ito sa talata 7 ng muling pagsasalaysay."
+      }
+    }
+  ],
+  "assets": [
+    "assets/27-the-spider-and-the-bird.png"
+  ]
+}
