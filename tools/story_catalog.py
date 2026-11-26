@@ -4,6 +4,7 @@ from __future__ import annotations
 
 import hashlib
 import json
+import re
 from collections import Counter
 from pathlib import Path
 from typing import Any
@@ -180,17 +181,51 @@ def publish_collection(
     if not existing_collections and existing.get("id") and existing.get("stories"):
         # Upgrade the pre-merge single-book index without dropping its entries.
         old_id = existing["id"]
+        if not isinstance(old_id, str) or not re.fullmatch(r"[a-z0-9-]{1,100}", old_id):
+            raise ValueError("Legacy story index has an invalid collection ID")
+        legacy_references = list(existing["stories"])
+        legacy_audit = existing.get("sourceAudit", {})
+        legacy_audit_relative = Path(legacy_audit.get("path", ""))
+        if (
+            not legacy_audit_relative.parts
+            or legacy_audit_relative.is_absolute()
+            or ".." in legacy_audit_relative.parts
+        ):
+            raise ValueError("Legacy story index has an unsafe source-audit path")
+        legacy_audit_path = story_root / legacy_audit_relative
+        if not legacy_audit_path.is_file() or sha256_file(legacy_audit_path) != legacy_audit.get("sha256"):
+            raise ValueError("Legacy story index source audit is missing or has a bad hash")
+        if old_id != collection_id:
+            legacy_collection_dir = story_root / old_id
+            legacy_collection_dir.mkdir(parents=True, exist_ok=True)
+            migrated_audit_path = legacy_collection_dir / "source-audit.json"
+            legacy_bytes = legacy_audit_path.read_bytes()
+            if migrated_audit_path.exists() and migrated_audit_path.read_bytes() != legacy_bytes:
+                raise ValueError(f"Conflicting source audit for legacy collection {old_id}")
+            migrated_audit_path.write_bytes(legacy_bytes)
         existing_collections = [
             {
                 "id": old_id,
-                "order": 1,
+                "order": 1 if old_id.endswith("book-1") else 2,
+                "index": f"{old_id}/index.json",
+                "sha256": "",
+                "languagePair": existing.get(
+                    "languagePair", {"reference": "id", "target": "fil"}
+                ),
                 "title": existing.get("title", {}),
                 "description": existing.get("description", {}),
-                "storyCount": len(existing["stories"]),
-                "sourceAudit": existing.get("sourceAudit", {}),
+                "storyCount": len(legacy_references),
+                "sourceAudit": {
+                    "path": f"{old_id}/source-audit.json"
+                    if old_id != collection_id
+                    else "source-audit.json",
+                    "sha256": sha256_file(story_root / old_id / "source-audit.json")
+                    if old_id != collection_id
+                    else legacy_audit.get("sha256", ""),
+                },
             }
         ]
-        other_references = list(existing["stories"]) if old_id != collection_id else []
+        other_references = legacy_references if old_id != collection_id else []
     else:
         other_references = [
             item
@@ -213,6 +248,91 @@ def publish_collection(
     old_ids = {item.get("id") for item in old_current}
     if not old_ids.issubset(generated_ids):
         raise ValueError(f"Refusing to drop existing indexed stories: {sorted(old_ids - generated_ids)}")
+
+    normalized_other: list[dict[str, Any]] = []
+    normalized_hashes: dict[str, str] = {}
+    for reference in other_references:
+        item = dict(reference)
+        relative = Path(item.get("path", ""))
+        if (
+            not relative.parts
+            or relative.is_absolute()
+            or ".." in relative.parts
+        ):
+            raise ValueError(f"Unsafe existing story path: {item.get('path')!r}")
+        story_path = story_root / relative
+        story = json.loads(story_path.read_text(encoding="utf-8"))
+        if story.get("id") != item.get("id"):
+            raise ValueError(f"Existing story ID does not match its index: {story_path}")
+        category = category_for(item["id"], story.get("category", item.get("category", "")))
+        if story.get("category") != category:
+            story["category"] = category
+            write_json(story_path, story)
+        item["category"] = category
+        item["sha256"] = sha256_file(story_path)
+        normalized_hashes[item["path"]] = item["sha256"]
+        normalized_other.append(item)
+    other_references = normalized_other
+
+    # Keep a migrated or already-published sibling book's source audit and
+    # per-book index in sync if thematic categories needed normalization.
+    for sibling in existing_collections:
+        sibling_id = sibling.get("id")
+        if sibling_id == collection_id:
+            continue
+        sibling_references = [
+            item for item in other_references if item.get("collectionId") == sibling_id
+        ]
+        if not sibling_references:
+            continue
+        audit_reference = sibling.get("sourceAudit", {})
+        audit_relative = Path(audit_reference.get("path", ""))
+        if (
+            not audit_relative.parts
+            or audit_relative.is_absolute()
+            or ".." in audit_relative.parts
+        ):
+            raise ValueError(f"Unsafe source-audit path for {sibling_id}")
+        sibling_audit_path = story_root / audit_relative
+        if not sibling_audit_path.is_file():
+            raise ValueError(f"Missing source audit for sibling collection {sibling_id}")
+        if (
+            audit_reference.get("sha256")
+            and sha256_file(sibling_audit_path) != audit_reference["sha256"]
+        ):
+            raise ValueError(f"Source audit hash mismatch for sibling collection {sibling_id}")
+        sibling_audit = json.loads(sibling_audit_path.read_text(encoding="utf-8"))
+        audit_changed = False
+        for audit_story in sibling_audit.get("stories", []):
+            generated_path = audit_story.get("generatedStory")
+            if generated_path in normalized_hashes:
+                current_hash = normalized_hashes[generated_path]
+                if audit_story.get("generatedSha256") != current_hash:
+                    audit_story["generatedSha256"] = current_hash
+                    audit_changed = True
+        if audit_changed:
+            write_json(sibling_audit_path, sibling_audit)
+        audit_hash = sha256_file(sibling_audit_path)
+        sibling["sourceAudit"] = {
+            "path": f"{sibling_id}/source-audit.json",
+            "sha256": audit_hash,
+        }
+        sibling_index_path = story_root / sibling_id / "index.json"
+        sibling_index = {
+            "schemaVersion": 1,
+            "id": sibling_id,
+            "languagePair": sibling.get(
+                "languagePair", {"reference": "id", "target": "fil"}
+            ),
+            "title": sibling.get("title", {}),
+            "description": sibling.get("description", {}),
+            "storyCount": len(sibling_references),
+            "sourceAudit": {"path": "source-audit.json", "sha256": audit_hash},
+            "stories": sorted(sibling_references, key=lambda item: item["order"]),
+        }
+        write_json(sibling_index_path, sibling_index)
+        sibling["index"] = f"{sibling_id}/index.json"
+        sibling["sha256"] = sha256_file(sibling_index_path)
 
     current = [dict(item) for item in references]
     all_references = other_references + current
